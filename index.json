@@ -38,5 +38,15 @@
     "captured_at": "2026-06-01T21:11:28",
     "file": "data/kirio-fanclub.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kirio-fanclub.json"
+  },
+  {
+    "slug": "naruto",
+    "mal_id": 20,
+    "anime_name": "Naruto",
+    "anime_url": "https://hianime.ad/anime/naruto",
+    "total_episodes": 220,
+    "captured_at": "2026-06-01T21:25:17",
+    "file": "data/naruto.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/naruto.json"
   }
 ]
