@@ -4,7 +4,7 @@
   "slug": "one-piece",
   "mal_id": 21,
   "total_episodes": 1164,
-  "captured_at": "2026-06-01T20:18:16",
+  "captured_at": "2026-06-01T21:50:47",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -19994,9 +19994,68 @@
     {
       "episode_title": "Five Namis? Nami Strikes Back With Mirages!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-295",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "21-malep-295_vibeplayer_sub": "https://vibeplayer.site/1ce2923d8dacec90",
+          "21-malep-295_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ce2923d8dacec90/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-295_vibeplayer_sub": "https://vibeplayer.site/ag1c86e23991a37008cc7d91ccee4689a54h",
+          "21-malep-295_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-295_otakuvid_sub": "https://otakuvid.online/embed/rqjxteact428",
+          "21-malep-295_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-295_playmogo_sub": "https://playmogo.com/e/su6zc34kalrx",
+          "21-malep-295_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-295_vibeplayer_dub": "https://vibeplayer.site/28331a8436c9b3fd",
+          "21-malep-295_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/28331a8436c9b3fd/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-295_vibeplayer_dub": "https://vibeplayer.site/agc913125a0ac6d3c00702eeef13e5d6184h",
+          "21-malep-295_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-295_otakuhg_dub": "https://otakuhg.site/e/s8t3rg90qk46",
+          "21-malep-295_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-295_otakuvid_dub": "https://otakuvid.online/embed/uc29tg9dz9gz",
+          "21-malep-295_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-295_playmogo_dub": "https://playmogo.com/e/g5u81c80wu88",
+          "21-malep-295_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-295_vibeplayer_hsub": "https://vibeplayer.site/32695e7cc22f623b",
+          "21-malep-295_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32695e7cc22f623b/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-295_vibeplayer_hsub": "https://vibeplayer.site/agd1176c45c73864904557da5b19abe6044h",
+          "21-malep-295_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-295_otakuhg_hsub": "https://otakuhg.site/e/1svatno1ol0r",
+          "21-malep-295_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-295_otakuvid_hsub": "https://otakuvid.online/embed/84ovdx6m95mk",
+          "21-malep-295_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-295_playmogo_hsub": "https://playmogo.com/e/052mu8bno13o",
+          "21-malep-295_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Nami's Decision! Fire at the Out-Of-Control Chopper!",
@@ -27153,7 +27212,7 @@
       }
     },
     {
-      "episode_title": "No Escape!? Admiral Kizaru's Light Speed Kick!!",
+      "episode_title": "No Escape!? Admiral Kizaru’s Light Speed Kick!!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-401",
       "sub": {
         "HD-1": {
@@ -27223,7 +27282,7 @@
       }
     },
     {
-      "episode_title": "Overwhelming! The Navy's Fighting Weapons, the Pacifistas",
+      "episode_title": "Overwhelming! The Navy’s Fighting Weapons, the Pacifistas",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-402",
       "sub": {
         "HD-1": {
@@ -27425,7 +27484,7 @@
       }
     },
     {
-      "episode_title": "Eliminated Friends: The Final Day of the Straw Hat Crew",
+      "episode_title": "Eliminated Friends – The Final Day of the Straw Hat Crew",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-405",
       "sub": {
         "HD-1": {
@@ -27561,7 +27620,7 @@
       }
     },
     {
-      "episode_title": "Feudal Era Side Story: Defeat Thriller Company's Trap",
+      "episode_title": "Feudal Era Side Story – Defeat Thriller Company's Trap",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-407",
       "sub": {
         "HD-1": {
@@ -35062,9 +35121,72 @@
     {
       "episode_title": "The Beginning of The New Chapter! The Straw Hats Reunited!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-517",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "21-malep-517_vibeplayer_sub": "https://vibeplayer.site/54879b815dc20884",
+          "21-malep-517_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/54879b815dc20884/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-517_vibeplayer_sub": "https://vibeplayer.site/agba792bf1c7083c06e61f0ee3e1de4c464h",
+          "21-malep-517_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-517_otakuhg_sub": "https://otakuhg.site/e/hvfnoury945u",
+          "21-malep-517_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-517_otakuvid_sub": "https://otakuvid.online/embed/1c1vj47vej94",
+          "21-malep-517_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-517_playmogo_sub": "https://playmogo.com/e/q3zszhz9fbkb",
+          "21-malep-517_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-517_vibeplayer_dub": "https://vibeplayer.site/d0bc4491be594445",
+          "21-malep-517_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d0bc4491be594445/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-517_vibeplayer_dub": "https://vibeplayer.site/agea8b32120fd25eec60c9595ddbb358e34h",
+          "21-malep-517_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-517_otakuhg_dub": "https://otakuhg.site/e/ziqntbq9nny9",
+          "21-malep-517_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-517_otakuvid_dub": "https://otakuvid.online/embed/ajki5mal9lc3",
+          "21-malep-517_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-517_playmogo_dub": "https://playmogo.com/e/biablda7b6r5",
+          "21-malep-517_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-517_vibeplayer_hsub": "https://vibeplayer.site/c5e17f2db420843c",
+          "21-malep-517_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5e17f2db420843c/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-517_vibeplayer_hsub": "https://vibeplayer.site/ag7d340645bb7e7c3b875503f4c6fac4b94h",
+          "21-malep-517_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-517_otakuhg_hsub": "https://otakuhg.site/e/5ncrcaysy6wz",
+          "21-malep-517_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-517_otakuvid_hsub": "https://otakuvid.online/embed/gr7wcwqo24rk",
+          "21-malep-517_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-517_playmogo_hsub": "https://playmogo.com/e/qw3182yyfhr0",
+          "21-malep-517_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "An Explosive Situation! Luffy vs. Fake Luffy!",
@@ -36741,9 +36863,51 @@
     {
       "episode_title": "A Team is Formed! Save Chopper",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-542",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "21-malep-542_vibeplayer_sub": "https://vibeplayer.site/a755567293653194",
+          "21-malep-542_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a755567293653194/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-542_vibeplayer_sub": "https://vibeplayer.site/aga83e0ccee4be7694cdff9648ab2045ce4h",
+          "21-malep-542_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-542_otakuhg_sub": "https://otakuhg.site/e/gypnrc27cx6s",
+          "21-malep-542_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-542_otakuvid_sub": "https://otakuvid.online/embed/zqhlcb9zuafy",
+          "21-malep-542_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-542_playmogo_sub": "https://playmogo.com/e/d06fxr79wjpz",
+          "21-malep-542_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "21-malep-542_vibeplayer_hsub": "https://vibeplayer.site/30e4f8e76db40a9b",
+          "21-malep-542_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30e4f8e76db40a9b/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-542_vibeplayer_hsub": "https://vibeplayer.site/ag715e6ce554c2ea57de963af87d1dc9c04h",
+          "21-malep-542_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-542_otakuhg_hsub": "https://otakuhg.site/e/eam0ce5r5un1",
+          "21-malep-542_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-542_otakuvid_hsub": "https://otakuvid.online/embed/hwzl3u75drrj",
+          "21-malep-542_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-542_playmogo_hsub": "https://playmogo.com/e/kn0jal8hyyis",
+          "21-malep-542_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Death of a Hero! A Shocking Truth of Tiger!",
@@ -58821,9 +58985,72 @@
     {
       "episode_title": "Finally He Returns! Sanji, the Man Who'll Stop the Emperor of the Sea!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-866",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "21-malep-866_vibeplayer_sub": "https://vibeplayer.site/294c22f0fd2ba1de",
+          "21-malep-866_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/294c22f0fd2ba1de/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-866_vibeplayer_sub": "https://vibeplayer.site/ag5b9003875883048b53eb5e210d03469d4h",
+          "21-malep-866_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-866_otakuhg_sub": "https://otakuhg.site/e/gisz0sia2055",
+          "21-malep-866_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-866_otakuvid_sub": "https://otakuvid.online/embed/ol4k2ev0cxeo",
+          "21-malep-866_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-866_playmogo_sub": "https://playmogo.com/e/sty6z5tqp21t",
+          "21-malep-866_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-866_vibeplayer_dub": "https://vibeplayer.site/326e7beaf162668a",
+          "21-malep-866_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/326e7beaf162668a/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-866_vibeplayer_dub": "https://vibeplayer.site/agde3222c330ab5be430cf48d7af802fe84h",
+          "21-malep-866_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-866_otakuhg_dub": "https://otakuhg.site/e/6bjhj3he7ujx",
+          "21-malep-866_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-866_otakuvid_dub": "https://otakuvid.online/embed/2dz7h8562tz7",
+          "21-malep-866_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-866_playmogo_dub": "https://playmogo.com/e/0qzfvpcb6ech",
+          "21-malep-866_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-866_vibeplayer_hsub": "https://vibeplayer.site/f967ccc3c5c6eaef",
+          "21-malep-866_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f967ccc3c5c6eaef/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-866_vibeplayer_hsub": "https://vibeplayer.site/ag72151e9afb62b346bb1c2d78b46787204h",
+          "21-malep-866_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-866_otakuhg_hsub": "https://otakuhg.site/e/h2gpydddydb3",
+          "21-malep-866_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-866_otakuvid_hsub": "https://otakuvid.online/embed/tbdje6sda4qi",
+          "21-malep-866_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-866_playmogo_hsub": "https://playmogo.com/e/m8wshqjedugq",
+          "21-malep-866_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Lurking in the Darkness! An Assassin Targeting Luffy!",
@@ -58968,9 +59195,72 @@
     {
       "episode_title": "Wake Up! The Color of Observation Able to Top the Strongest!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-869",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "21-malep-869_vibeplayer_sub": "https://vibeplayer.site/804f6ef5b8b0e239",
+          "21-malep-869_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/804f6ef5b8b0e239/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-869_vibeplayer_sub": "https://vibeplayer.site/ag1850c630af76fb69b2ac83f1adbe515c4h",
+          "21-malep-869_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-869_otakuhg_sub": "https://otakuhg.site/e/rqy0afokj265",
+          "21-malep-869_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-869_otakuvid_sub": "https://otakuvid.online/embed/rsd5z3mrxom9",
+          "21-malep-869_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-869_playmogo_sub": "https://playmogo.com/e/smwob7se0gon",
+          "21-malep-869_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-869_vibeplayer_dub": "https://vibeplayer.site/2b2f820020b06780",
+          "21-malep-869_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2b2f820020b06780/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-869_vibeplayer_dub": "https://vibeplayer.site/agc6f08b25844c044baf9b8cc3ae5f9c4e4h",
+          "21-malep-869_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-869_otakuhg_dub": "https://otakuhg.site/e/x1fj113h2cfu",
+          "21-malep-869_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-869_otakuvid_dub": "https://otakuvid.online/embed/yhpovrpohk34",
+          "21-malep-869_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-869_playmogo_dub": "https://playmogo.com/e/b8uc4a3s5y5c",
+          "21-malep-869_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-869_vibeplayer_hsub": "https://vibeplayer.site/8a734d516498ef80",
+          "21-malep-869_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a734d516498ef80/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-869_vibeplayer_hsub": "https://vibeplayer.site/agd3f5d0f8f48b7d8788539a8c569935624h",
+          "21-malep-869_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-869_otakuhg_hsub": "https://otakuhg.site/e/ky3xdgr3o402",
+          "21-malep-869_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-869_otakuvid_hsub": "https://otakuvid.online/embed/n2aylkjcpgwz",
+          "21-malep-869_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-869_playmogo_hsub": "https://playmogo.com/e/opwo87na9n5p",
+          "21-malep-869_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "A Fist of Divine Speed! Another Gear Four Application Activated!",
@@ -67667,9 +67957,68 @@
     {
       "episode_title": "The Rebellion of Zeus?! Nami's Desperate Situation!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-998",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "21-malep-998_vibeplayer_sub": "https://vibeplayer.site/8cb4b9f172042f5f",
+          "21-malep-998_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8cb4b9f172042f5f/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-998_vibeplayer_sub": "https://vibeplayer.site/ag2b437f99450d2fe63098018c55ec35154h",
+          "21-malep-998_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-998_otakuvid_sub": "https://otakuvid.online/embed/eqsjg5iocoe3",
+          "21-malep-998_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-998_playmogo_sub": "https://playmogo.com/e/la273wbfi472",
+          "21-malep-998_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-998_vibeplayer_dub": "https://vibeplayer.site/9e13d5b98484d201",
+          "21-malep-998_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9e13d5b98484d201/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-998_vibeplayer_dub": "https://vibeplayer.site/ag4b00cb41c4760ef080516985663866574h",
+          "21-malep-998_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-998_otakuhg_dub": "https://otakuhg.site/e/j2qcutpuhd69",
+          "21-malep-998_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-998_otakuvid_dub": "https://otakuvid.online/embed/ns11e7jc0u8k",
+          "21-malep-998_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-998_playmogo_dub": "https://playmogo.com/e/ohwb07mxccu7",
+          "21-malep-998_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-998_vibeplayer_hsub": "https://vibeplayer.site/e850f6bb38b84cbd",
+          "21-malep-998_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e850f6bb38b84cbd/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-998_vibeplayer_hsub": "https://vibeplayer.site/ag4b248f811f982a732b9e212c8dee36954h",
+          "21-malep-998_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-998_otakuhg_hsub": "https://otakuhg.site/e/l5n3vnqz9jel",
+          "21-malep-998_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-998_otakuvid_hsub": "https://otakuvid.online/embed/tm8m3fje4q1u",
+          "21-malep-998_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-998_playmogo_hsub": "https://playmogo.com/e/udzrdt9khlaj",
+          "21-malep-998_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Fate That Protects You! Yamato and Momonosuke!",
@@ -77817,9 +78166,51 @@
     {
       "episode_title": "Episode 1151",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-1151",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "21-malep-1151_vibeplayer_sub": "https://vibeplayer.site/6dfe58d1aead966c",
+          "21-malep-1151_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6dfe58d1aead966c/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-1151_vibeplayer_sub": "https://vibeplayer.site/ag0972fc81513bcc3e9e418fc4626ab8e94h",
+          "21-malep-1151_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-1151_otakuhg_sub": "https://otakuhg.site/e/evz0iaxbxwjd",
+          "21-malep-1151_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1151_otakuvid_sub": "https://otakuvid.online/embed/qbeu1gca2ktp",
+          "21-malep-1151_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1151_playmogo_sub": "https://playmogo.com/e/dqfpx94rdw2w",
+          "21-malep-1151_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "21-malep-1151_vibeplayer_hsub": "https://vibeplayer.site/7d0211e38d2f3379",
+          "21-malep-1151_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7d0211e38d2f3379/master.m3u8"
+        },
+        "HD-2": {
+          "21-malep-1151_vibeplayer_hsub": "https://vibeplayer.site/ag94a61084ab3c73d7302a0035c5fbe51e4h",
+          "21-malep-1151_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21-malep-1151_otakuhg_hsub": "https://otakuhg.site/e/onhc6nga9czn",
+          "21-malep-1151_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1151_otakuvid_hsub": "https://otakuvid.online/embed/fj89f70h12dk",
+          "21-malep-1151_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1151_playmogo_hsub": "https://playmogo.com/e/quj7tmxqagha",
+          "21-malep-1151_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 1152",
