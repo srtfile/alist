@@ -18,5 +18,15 @@
     "captured_at": "2026-06-01T20:43:48",
     "file": "data/my-hero-academia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/my-hero-academia.json"
+  },
+  {
+    "slug": "magical-doremi-sharp",
+    "mal_id": 351,
+    "anime_name": "Magical Doremi Sharp",
+    "anime_url": "https://hianime.ad/anime/magical-doremi-sharp",
+    "total_episodes": 49,
+    "captured_at": "2026-06-01T21:05:44",
+    "file": "data/magical-doremi-sharp.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-doremi-sharp.json"
   }
 ]
