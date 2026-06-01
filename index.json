@@ -8,5 +8,15 @@
     "captured_at": "2026-06-01T20:43:04",
     "file": "data/rockn-roll-kids.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/rockn-roll-kids.json"
+  },
+  {
+    "slug": "my-hero-academia",
+    "mal_id": 31964,
+    "anime_name": "My Hero Academia",
+    "anime_url": "https://hianime.ad/anime/my-hero-academia",
+    "total_episodes": 14,
+    "captured_at": "2026-06-01T20:43:48",
+    "file": "data/my-hero-academia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/my-hero-academia.json"
   }
 ]
