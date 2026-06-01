@@ -1,12 +1,12 @@
 [
   {
-    "slug": "naruto",
-    "mal_id": 20,
-    "anime_name": "Naruto",
-    "anime_url": "https://hianime.ad/anime/naruto",
-    "total_episodes": 220,
-    "captured_at": "2026-06-01T20:09:19",
-    "file": "data/naruto.json",
-    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/naruto.json"
+    "slug": "witch-hat-atelier",
+    "mal_id": 51553,
+    "anime_name": "Witch Hat Atelier",
+    "anime_url": "https://hianime.ad/anime/witch-hat-atelier",
+    "total_episodes": 10,
+    "captured_at": "2026-06-01T20:40:36",
+    "file": "data/witch-hat-atelier.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/witch-hat-atelier.json"
   }
 ]
