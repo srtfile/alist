@@ -4,7 +4,7 @@
   "slug": "naruto-shippuden",
   "mal_id": 1735,
   "total_episodes": 500,
-  "captured_at": "2026-06-01T15:44:10",
+  "captured_at": "2026-06-01T21:42:57",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -12949,8 +12949,42 @@
     {
       "episode_title": "Battleground!",
       "episode_url": "https://hianime.ad/watch/naruto-shippuden/ep-268",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "1735-malep-268_vibeplayer_sub": "https://vibeplayer.site/7888030f622a399d",
+          "1735-malep-268_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7888030f622a399d/master.m3u8"
+        },
+        "HD-2": {
+          "1735-malep-268_vibeplayer_sub": "https://vibeplayer.site/agb7f041f64fefcde5abfa672a60e126a54h",
+          "1735-malep-268_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1735-malep-268_otakuhg_sub": "https://otakuhg.site/e/ds5rcw41c1xp",
+          "1735-malep-268_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1735-malep-268_otakuvid_sub": "https://otakuvid.online/embed/406sma67ddn7",
+          "1735-malep-268_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1735-malep-268_vibeplayer_dub": "https://vibeplayer.site/50fee04d6375d4f3",
+          "1735-malep-268_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/50fee04d6375d4f3/master.m3u8"
+        },
+        "HD-2": {
+          "1735-malep-268_vibeplayer_dub": "https://vibeplayer.site/agf47e6a9672309f5f75c7369afed498cf4h",
+          "1735-malep-268_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1735-malep-268_otakuhg_dub": "https://otakuhg.site/e/ytav8atxkswc",
+          "1735-malep-268_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1735-malep-268_otakuvid_dub": "https://otakuvid.online/embed/q38csqdokot8",
+          "1735-malep-268_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
