@@ -7,7 +7,7 @@
     "total_episodes": 37,
     "captured_at": "2026-06-01T15:34:23",
     "file": "data/death-note.json",
-    "raw_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/death-note.json"
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/death-note.json"
   },
   {
     "slug": "hunter-x-hunter-2",
@@ -17,7 +17,7 @@
     "total_episodes": 148,
     "captured_at": "2026-06-01T15:37:38",
     "file": "data/hunter-x-hunter-2.json",
-    "raw_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/hunter-x-hunter-2.json"
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hunter-x-hunter-2.json"
   },
   {
     "slug": "naruto-shippuden",
@@ -27,6 +27,6 @@
     "total_episodes": 500,
     "captured_at": "2026-06-01T15:44:10",
     "file": "data/naruto-shippuden.json",
-    "raw_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/naruto-shippuden.json"
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/naruto-shippuden.json"
   }
 ]
