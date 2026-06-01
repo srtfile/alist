@@ -1,12 +1,12 @@
 [
   {
-    "slug": "to-your-eternity",
-    "mal_id": 41025,
-    "anime_name": "To Your Eternity",
-    "anime_url": "https://hianime.ad/anime/to-your-eternity",
-    "total_episodes": 20,
-    "captured_at": "2026-06-01T19:51:49",
-    "file": "data/to-your-eternity.json",
-    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/to-your-eternity.json"
+    "slug": "naruto",
+    "mal_id": 20,
+    "anime_name": "Naruto",
+    "anime_url": "https://hianime.ad/anime/naruto",
+    "total_episodes": 220,
+    "captured_at": "2026-06-01T20:09:19",
+    "file": "data/naruto.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/naruto.json"
   }
 ]
