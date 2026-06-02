@@ -2918,5 +2918,15 @@
     "captured_at": "2026-06-02T19:00:55",
     "file": "data/adieu-galaxy-express-999.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/adieu-galaxy-express-999.json"
+  },
+  {
+    "slug": "adventure-of-gamba",
+    "mal_id": 5267,
+    "anime_name": "Adventure Of Gamba",
+    "anime_url": "https://hianime.ad/anime/adventure-of-gamba",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T19:01:06",
+    "file": "data/adventure-of-gamba.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/adventure-of-gamba.json"
   }
 ]
