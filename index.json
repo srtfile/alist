@@ -3358,5 +3358,15 @@
     "captured_at": "2026-06-02T19:22:00",
     "file": "data/aho-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aho-girl.json"
+  },
+  {
+    "slug": "ai-monogatari-9-love-stories",
+    "mal_id": 2813,
+    "anime_name": "Ai Monogatari 9 Love Stories",
+    "anime_url": "https://hianime.ad/anime/ai-monogatari-9-love-stories",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T19:22:21",
+    "file": "data/ai-monogatari-9-love-stories.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ai-monogatari-9-love-stories.json"
   }
 ]
