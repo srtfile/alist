@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bang Dream Film Live 2Nd Stage",
+  "anime_url": "https://hianime.ad/anime/bang-dream-film-live-2nd-stage",
+  "slug": "bang-dream-film-live-2nd-stage",
+  "mal_id": 33573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:32:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Met!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-film-live-2nd-stage/ep-1",
+      "sub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/ee9ddb8616c44094",
+          "33573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee9ddb8616c44094/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag444053eff075099ff3f38da1b73ee03b4h",
+          "33573-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lbdwkpps9m46",
+          "33573-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6559b09d1a7a09c0",
+          "33573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6559b09d1a7a09c0/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag77e06563fc5729215f7b2678ef41c4964h",
+          "33573-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "33573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rqrrmn44m9ap",
+          "33573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/84pi7zt019aj",
+          "33573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_hsub": "https://playmogo.com/e/vf6dee966dwy",
+          "33573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
