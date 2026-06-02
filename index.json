@@ -2178,5 +2178,15 @@
     "captured_at": "2026-06-02T17:32:57",
     "file": "data/a-letter-to-momo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-letter-to-momo.json"
+  },
+  {
+    "slug": "a-little-princess-sara",
+    "mal_id": 2547,
+    "anime_name": "A Little Princess Sara",
+    "anime_url": "https://hianime.ad/anime/a-little-princess-sara",
+    "total_episodes": 46,
+    "captured_at": "2026-06-02T17:33:08",
+    "file": "data/a-little-princess-sara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-little-princess-sara.json"
   }
 ]
