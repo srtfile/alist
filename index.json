@@ -7908,5 +7908,15 @@
     "captured_at": "2026-06-02T22:25:11",
     "file": "data/bakuon-clubhouse.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuon-clubhouse.json"
+  },
+  {
+    "slug": "bakuon",
+    "mal_id": 30795,
+    "anime_name": "Bakuon",
+    "anime_url": "https://hianime.ad/anime/bakuon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:25:25",
+    "file": "data/bakuon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuon.json"
   }
 ]
