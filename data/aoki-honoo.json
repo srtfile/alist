@@ -1,0 +1,56 @@
+{
+  "anime_name": "Aoki Honoo",
+  "anime_url": "https://hianime.ad/anime/aoki-honoo",
+  "slug": "aoki-honoo",
+  "mal_id": 18893,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:50:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Those with Shipping Routes",
+      "episode_url": "https://hianime.ad/watch/aoki-honoo/ep-1",
+      "sub": {
+        "HD-1": {
+          "18893-malep-1_vibeplayer_sub": "https://vibeplayer.site/346a1e12301ba875",
+          "18893-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/346a1e12301ba875/master.m3u8"
+        },
+        "HD-2": {
+          "18893-malep-1_vibeplayer_sub": "https://vibeplayer.site/agabe7d13ee126c06bcf18c685f6068e764h",
+          "18893-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "18893-malep-1_otakuhg_sub": "https://otakuhg.site/e/4dg7pmewiul4",
+          "18893-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18893-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6ey76kbyrvww",
+          "18893-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18893-malep-1_vibeplayer_hsub": "https://vibeplayer.site/44e29f899f5c2357",
+          "18893-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/44e29f899f5c2357/master.m3u8"
+        },
+        "HD-2": {
+          "18893-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4aae6bd018bda171602e672b875777ef4h",
+          "18893-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "18893-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bddgq2rfc2ky",
+          "18893-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18893-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w6gaefj8u6k9",
+          "18893-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18893-malep-1_playmogo_hsub": "https://playmogo.com/e/yi29ozq9nuuc",
+          "18893-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
