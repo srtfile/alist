@@ -1328,5 +1328,15 @@
     "captured_at": "2026-06-02T16:50:56",
     "file": "data/raw-samurai-giants.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-samurai-giants.json"
+  },
+  {
+    "slug": "raw-sarutobi-ecchan",
+    "mal_id": 6311,
+    "anime_name": "Raw Sarutobi Ecchan",
+    "anime_url": "https://hianime.ad/anime/raw-sarutobi-ecchan",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T16:51:50",
+    "file": "data/raw-sarutobi-ecchan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-sarutobi-ecchan.json"
   }
 ]
