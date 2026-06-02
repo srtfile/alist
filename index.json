@@ -2928,5 +2928,15 @@
     "captured_at": "2026-06-02T19:01:06",
     "file": "data/adventure-of-gamba.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/adventure-of-gamba.json"
+  },
+  {
+    "slug": "adventures-in-beauty-wonderland",
+    "mal_id": 2572,
+    "anime_name": "Adventures In Beauty Wonderland",
+    "anime_url": "https://hianime.ad/anime/adventures-in-beauty-wonderland",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:01:39",
+    "file": "data/adventures-in-beauty-wonderland.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/adventures-in-beauty-wonderland.json"
   }
 ]
