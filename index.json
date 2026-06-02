@@ -2768,5 +2768,15 @@
     "captured_at": "2026-06-02T18:53:47",
     "file": "data/acchi-kocchi-tv-placeprincess.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/acchi-kocchi-tv-placeprincess.json"
+  },
+  {
+    "slug": "ace-attorney",
+    "mal_id": 31630,
+    "anime_name": "Ace Attorney",
+    "anime_url": "https://hianime.ad/anime/ace-attorney",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T18:53:58",
+    "file": "data/ace-attorney.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ace-attorney.json"
   }
 ]
