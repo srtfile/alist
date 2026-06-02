@@ -7688,5 +7688,15 @@
     "captured_at": "2026-06-02T22:12:01",
     "file": "data/baka-to-test-to-shoukanjuu-mini-anime.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-to-test-to-shoukanjuu-mini-anime.json"
+  },
+  {
+    "slug": "bakemonogatari-the-monogatari-series",
+    "mal_id": 25717,
+    "anime_name": "Bakemonogatari The Monogatari Series",
+    "anime_url": "https://hianime.ad/anime/bakemonogatari-the-monogatari-series",
+    "total_episodes": 15,
+    "captured_at": "2026-06-02T22:12:13",
+    "file": "data/bakemonogatari-the-monogatari-series.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakemonogatari-the-monogatari-series.json"
   }
 ]
