@@ -4358,5 +4358,15 @@
     "captured_at": "2026-06-02T20:06:24",
     "file": "data/alma-chan-wants-to-have-a-family.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alma-chan-wants-to-have-a-family.json"
+  },
+  {
+    "slug": "alpenrose",
+    "mal_id": 3807,
+    "anime_name": "Alpenrose",
+    "anime_url": "https://hianime.ad/anime/alpenrose",
+    "total_episodes": 20,
+    "captured_at": "2026-06-02T20:06:45",
+    "file": "data/alpenrose.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alpenrose.json"
   }
 ]
