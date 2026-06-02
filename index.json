@@ -1248,5 +1248,15 @@
     "captured_at": "2026-06-02T16:34:31",
     "file": "data/raw-paul-in-fantasy-island.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-paul-in-fantasy-island.json"
+  },
+  {
+    "slug": "raw-perman-1983",
+    "mal_id": 11595,
+    "anime_name": "Raw Perman 1983",
+    "anime_url": "https://hianime.ad/anime/raw-perman-1983",
+    "total_episodes": 526,
+    "captured_at": "2026-06-02T16:35:31",
+    "file": "data/raw-perman-1983.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-perman-1983.json"
   }
 ]
