@@ -2148,5 +2148,15 @@
     "captured_at": "2026-06-02T17:32:03",
     "file": "data/a-hundred-percents.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-hundred-percents.json"
+  },
+  {
+    "slug": "a-hundred-scenes-of-awajima",
+    "mal_id": 58820,
+    "anime_name": "A Hundred Scenes Of Awajima",
+    "anime_url": "https://hianime.ad/anime/a-hundred-scenes-of-awajima",
+    "total_episodes": 8,
+    "captured_at": "2026-06-02T17:32:16",
+    "file": "data/a-hundred-scenes-of-awajima.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-hundred-scenes-of-awajima.json"
   }
 ]
