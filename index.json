@@ -4848,5 +4848,15 @@
     "captured_at": "2026-06-02T20:28:06",
     "file": "data/angel-cop.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-cop.json"
+  },
+  {
+    "slug": "angel-densetsu",
+    "mal_id": 1533,
+    "anime_name": "Angel Densetsu",
+    "anime_url": "https://hianime.ad/anime/angel-densetsu",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T20:28:23",
+    "file": "data/angel-densetsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-densetsu.json"
   }
 ]
