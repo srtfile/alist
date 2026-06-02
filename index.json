@@ -1528,5 +1528,15 @@
     "captured_at": "2026-06-02T17:08:03",
     "file": "data/07-ghost.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/07-ghost.json"
+  },
+  {
+    "slug": "100-meters",
+    "mal_id": 37510,
+    "anime_name": "100 Meters",
+    "anime_url": "https://hianime.ad/anime/100-meters",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T17:08:38",
+    "file": "data/100-meters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/100-meters.json"
   }
 ]
