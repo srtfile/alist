@@ -1,0 +1,59 @@
+{
+  "anime_name": "Armitage Iii Poly Matrix",
+  "anime_url": "https://hianime.ad/anime/armitage-iii-poly-matrix",
+  "slug": "armitage-iii-poly-matrix",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T21:18:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "1-a",
+      "episode_url": "https://hianime.ad/watch/armitage-iii-poly-matrix/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/669e49760bb57ec7",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/669e49760bb57ec7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/agaa055e42f9c9bda83b53e08ad7ee044f4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/t9hnf8c48tmu",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/fijibbjhpaze",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "1-b",
+      "episode_url": "https://hianime.ad/watch/armitage-iii-poly-matrix/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/7ec3949ffb55e1b7",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ec3949ffb55e1b7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/ag509db5eddce968b027a5c022fee57b4b4h",
+          "malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/x6y0fpvoaygt",
+          "malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_dub": "https://playmogo.com/e/hm74i345jgb7",
+          "malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
