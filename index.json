@@ -868,5 +868,15 @@
     "captured_at": "2026-06-02T15:39:31",
     "file": "data/raw-funny-faces-in-high-school.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-funny-faces-in-high-school.json"
+  },
+  {
+    "slug": "raw-ganso-tensai-bakabon",
+    "mal_id": 11268,
+    "anime_name": "Raw Ganso Tensai Bakabon",
+    "anime_url": "https://hianime.ad/anime/raw-ganso-tensai-bakabon",
+    "total_episodes": 103,
+    "captured_at": "2026-06-02T15:41:05",
+    "file": "data/raw-ganso-tensai-bakabon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-ganso-tensai-bakabon.json"
   }
 ]
