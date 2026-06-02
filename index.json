@@ -368,5 +368,15 @@
     "captured_at": "2026-06-02T14:29:57",
     "file": "data/hackroots.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackroots.json"
+  },
+  {
+    "slug": "hacksign",
+    "mal_id": 48,
+    "anime_name": "Hacksign",
+    "anime_url": "https://hianime.ad/anime/hacksign",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T14:30:30",
+    "file": "data/hacksign.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hacksign.json"
   }
 ]
