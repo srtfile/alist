@@ -4988,5 +4988,15 @@
     "captured_at": "2026-06-02T20:33:08",
     "file": "data/anila-to-cocora.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anila-to-cocora.json"
+  },
+  {
+    "slug": "anima-yell",
+    "mal_id": 37206,
+    "anime_name": "Anima Yell",
+    "anime_url": "https://hianime.ad/anime/anima-yell",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:33:31",
+    "file": "data/anima-yell.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anima-yell.json"
   }
 ]
