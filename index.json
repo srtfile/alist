@@ -5408,5 +5408,15 @@
     "captured_at": "2026-06-02T20:47:43",
     "file": "data/ao-haru-ride-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ao-haru-ride-ova.json"
+  },
+  {
+    "slug": "ao-no-exorcist-movie-special",
+    "mal_id": 9919,
+    "anime_name": "Ao No Exorcist Movie Special",
+    "anime_url": "https://hianime.ad/anime/ao-no-exorcist-movie-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:47:56",
+    "file": "data/ao-no-exorcist-movie-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ao-no-exorcist-movie-special.json"
   }
 ]
