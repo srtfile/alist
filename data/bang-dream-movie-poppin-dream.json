@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bang Dream Movie Poppin Dream",
+  "anime_url": "https://hianime.ad/anime/bang-dream-movie-poppin-dream",
+  "slug": "bang-dream-movie-poppin-dream",
+  "mal_id": 33573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:34:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Met!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-movie-poppin-dream/ep-1",
+      "sub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/4c77cd66f461e3d0",
+          "33573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c77cd66f461e3d0/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/agec05093a053fe6d98965b8acf97f97a34h",
+          "33573-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0qoneje052wz",
+          "33573-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_sub": "https://playmogo.com/e/n1io11lxfntn",
+          "33573-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/36c695234a379107",
+          "33573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/36c695234a379107/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb7a82fe856ae6832c58ce2e4b0ae73494h",
+          "33573-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "33573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hwb3nih6ekzx",
+          "33573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1q19k2liris3",
+          "33573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_hsub": "https://playmogo.com/e/amvkg4utbnoa",
+          "33573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
