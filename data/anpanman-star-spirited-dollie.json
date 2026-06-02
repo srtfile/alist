@@ -1,0 +1,35 @@
+{
+  "anime_name": "Anpanman Star Spirited Dollie",
+  "anime_url": "https://hianime.ad/anime/anpanman-star-spirited-dollie",
+  "slug": "anpanman-star-spirited-dollie",
+  "mal_id": 1960,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:42:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/anpanman-star-spirited-dollie/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1960-malep-1_vibeplayer_dub": "https://vibeplayer.site/72f7383f3b5c1db5",
+          "1960-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/72f7383f3b5c1db5/master.m3u8"
+        },
+        "HD-2": {
+          "1960-malep-1_vibeplayer_dub": "https://vibeplayer.site/ageb65dcbe3bcd1d08bcd399821b12172a4h",
+          "1960-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1960-malep-1_otakuhg_dub": "https://otakuhg.site/e/t9fg7cup5x6r",
+          "1960-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1960-malep-1_otakuvid_dub": "https://otakuvid.online/embed/7az9wqph4een",
+          "1960-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
