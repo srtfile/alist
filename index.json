@@ -1628,5 +1628,15 @@
     "captured_at": "2026-06-02T17:12:34",
     "file": "data/21-emon-to-space-the-barefoot-princess.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/21-emon-to-space-the-barefoot-princess.json"
+  },
+  {
+    "slug": "227",
+    "mal_id": 40148,
+    "anime_name": "227",
+    "anime_url": "https://hianime.ad/anime/227",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:12:45",
+    "file": "data/227.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/227.json"
   }
 ]
