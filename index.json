@@ -7608,5 +7608,15 @@
     "captured_at": "2026-06-02T22:09:47",
     "file": "data/baggy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baggy.json"
+  },
+  {
+    "slug": "baja-no-studio",
+    "mal_id": 338,
+    "anime_name": "Baja No Studio",
+    "anime_url": "https://hianime.ad/anime/baja-no-studio",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:09:59",
+    "file": "data/baja-no-studio.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baja-no-studio.json"
   }
 ]
