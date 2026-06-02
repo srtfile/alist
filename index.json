@@ -4048,5 +4048,15 @@
     "captured_at": "2026-06-02T19:53:33",
     "file": "data/akudama-drive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akudama-drive.json"
+  },
+  {
+    "slug": "akuei-to-gacchinpo",
+    "mal_id": 29836,
+    "anime_name": "Akuei To Gacchinpo",
+    "anime_url": "https://hianime.ad/anime/akuei-to-gacchinpo",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:53:55",
+    "file": "data/akuei-to-gacchinpo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuei-to-gacchinpo.json"
   }
 ]
