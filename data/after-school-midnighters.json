@@ -1,0 +1,48 @@
+{
+  "anime_name": "After School Midnighters",
+  "anime_url": "https://hianime.ad/anime/after-school-midnighters",
+  "slug": "after-school-midnighters",
+  "mal_id": 50796,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:03:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Capella",
+      "episode_url": "https://hianime.ad/watch/after-school-midnighters/ep-1",
+      "sub": {
+        "HD-1": {
+          "50796-malep-1_vibeplayer_sub": "https://vibeplayer.site/03e9f8eb6eec0e8c",
+          "50796-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/03e9f8eb6eec0e8c/master.m3u8"
+        },
+        "HD-2": {
+          "50796-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7e62cd227efce5eb5be37c2f6e03fe9e4h",
+          "50796-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50796-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zrm98nvvn00t",
+          "50796-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50796-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8efeeb7706bd650f",
+          "50796-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8efeeb7706bd650f/master.m3u8"
+        },
+        "HD-2": {
+          "50796-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag594fe12e6b24419f3327d8fc525d07364h",
+          "50796-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50796-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/97b4jp88r8w6",
+          "50796-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50796-malep-1_playmogo_hsub": "https://playmogo.com/e/xyqvbppaaq2k",
+          "50796-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
