@@ -1838,5 +1838,15 @@
     "captured_at": "2026-06-02T17:19:28",
     "file": "data/a-bouquet-for-an-ugly-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-bouquet-for-an-ugly-girl.json"
+  },
+  {
+    "slug": "a-bridge-to-the-starry-skies",
+    "mal_id": 10079,
+    "anime_name": "A Bridge To The Starry Skies",
+    "anime_url": "https://hianime.ad/anime/a-bridge-to-the-starry-skies",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:19:52",
+    "file": "data/a-bridge-to-the-starry-skies.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-bridge-to-the-starry-skies.json"
   }
 ]
