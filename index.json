@@ -988,5 +988,15 @@
     "captured_at": "2026-06-02T15:56:11",
     "file": "data/raw-jarinko-chie-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-jarinko-chie-tv.json"
+  },
+  {
+    "slug": "raw-judo-sanka",
+    "mal_id": 11857,
+    "anime_name": "Raw Judo Sanka",
+    "anime_url": "https://hianime.ad/anime/raw-judo-sanka",
+    "total_episodes": 27,
+    "captured_at": "2026-06-02T15:57:24",
+    "file": "data/raw-judo-sanka.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-judo-sanka.json"
   }
 ]
