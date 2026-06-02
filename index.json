@@ -3248,5 +3248,15 @@
     "captured_at": "2026-06-02T19:17:57",
     "file": "data/ah-my-buddha.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-buddha.json"
+  },
+  {
+    "slug": "ah-my-buddha-katsu",
+    "mal_id": 886,
+    "anime_name": "Ah My Buddha Katsu",
+    "anime_url": "https://hianime.ad/anime/ah-my-buddha-katsu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:18:18",
+    "file": "data/ah-my-buddha-katsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-buddha-katsu.json"
   }
 ]
