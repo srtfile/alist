@@ -7238,5 +7238,15 @@
     "captured_at": "2026-06-02T21:55:34",
     "file": "data/ayakashi-japanese-classic-horror.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ayakashi-japanese-classic-horror.json"
+  },
+  {
+    "slug": "ayanes-high-kick",
+    "mal_id": 49221,
+    "anime_name": "Ayanes High Kick",
+    "anime_url": "https://hianime.ad/anime/ayanes-high-kick",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T21:55:56",
+    "file": "data/ayanes-high-kick.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ayanes-high-kick.json"
   }
 ]
