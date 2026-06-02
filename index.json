@@ -328,5 +328,15 @@
     "captured_at": "2026-06-02T14:29:03",
     "file": "data/hackintermezzo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackintermezzo.json"
+  },
+  {
+    "slug": "hacklegend-of-the-twilight",
+    "mal_id": 298,
+    "anime_name": "Hacklegend Of The Twilight",
+    "anime_url": "https://hianime.ad/anime/hacklegend-of-the-twilight",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T14:29:13",
+    "file": "data/hacklegend-of-the-twilight.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hacklegend-of-the-twilight.json"
   }
 ]
