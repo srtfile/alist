@@ -3838,5 +3838,15 @@
     "captured_at": "2026-06-02T19:46:44",
     "file": "data/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page.json"
+  },
+  {
+    "slug": "akai-hayate",
+    "mal_id": 8536,
+    "anime_name": "Akai Hayate",
+    "anime_url": "https://hianime.ad/anime/akai-hayate",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T19:46:57",
+    "file": "data/akai-hayate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akai-hayate.json"
   }
 ]
