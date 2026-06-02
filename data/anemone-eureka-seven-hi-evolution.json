@@ -1,0 +1,73 @@
+{
+  "anime_name": "Anemone Eureka Seven Hi Evolution",
+  "anime_url": "https://hianime.ad/anime/anemone-eureka-seven-hi-evolution",
+  "slug": "anemone-eureka-seven-hi-evolution",
+  "mal_id": 1224,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:26:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/anemone-eureka-seven-hi-evolution/ep-1",
+      "sub": {
+        "HD-1": {
+          "1224-malep-1_vibeplayer_sub": "https://vibeplayer.site/87c8331d7867300f",
+          "1224-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87c8331d7867300f/master.m3u8"
+        },
+        "HD-2": {
+          "1224-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag84aa777dd72a15cf40a8dc1916d317834h",
+          "1224-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1224-malep-1_otakuvid_sub": "https://otakuvid.online/embed/doomd8vezjd2",
+          "1224-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1224-malep-1_playmogo_sub": "https://playmogo.com/e/uaumu3x62thm",
+          "1224-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1224-malep-1_vibeplayer_dub": "https://vibeplayer.site/526c364587d08987",
+          "1224-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/526c364587d08987/master.m3u8"
+        },
+        "HD-2": {
+          "1224-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag9e065b2b9d72ec7ab03940555be7e3284h",
+          "1224-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1224-malep-1_otakuvid_dub": "https://otakuvid.online/embed/p6t7fsg2tup7",
+          "1224-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1224-malep-1_playmogo_dub": "https://playmogo.com/e/181r6iis07uc",
+          "1224-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1224-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0193db75fc7a1921",
+          "1224-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0193db75fc7a1921/master.m3u8"
+        },
+        "HD-2": {
+          "1224-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag93d8e66242b30722b8020a4b32d900384h",
+          "1224-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1224-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mkfeqpkgr421",
+          "1224-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1224-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ibsq9m49w9p6",
+          "1224-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1224-malep-1_playmogo_hsub": "https://playmogo.com/e/wrsm2e2h2c7l",
+          "1224-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
