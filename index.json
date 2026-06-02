@@ -4608,5 +4608,15 @@
     "captured_at": "2026-06-02T20:15:51",
     "file": "data/ame-con.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ame-con.json"
+  },
+  {
+    "slug": "ame-iro-cocoa-side-g",
+    "mal_id": 37747,
+    "anime_name": "Ame Iro Cocoa Side G",
+    "anime_url": "https://hianime.ad/anime/ame-iro-cocoa-side-g",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:16:14",
+    "file": "data/ame-iro-cocoa-side-g.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ame-iro-cocoa-side-g.json"
   }
 ]
