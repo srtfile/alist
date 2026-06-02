@@ -2888,5 +2888,15 @@
     "captured_at": "2026-06-02T18:59:58",
     "file": "data/actually-i-am.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/actually-i-am.json"
+  },
+  {
+    "slug": "ad-police-files",
+    "mal_id": 1349,
+    "anime_name": "Ad Police Files",
+    "anime_url": "https://hianime.ad/anime/ad-police-files",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T19:00:20",
+    "file": "data/ad-police-files.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ad-police-files.json"
   }
 ]
