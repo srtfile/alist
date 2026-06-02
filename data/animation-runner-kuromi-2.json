@@ -1,0 +1,35 @@
+{
+  "anime_name": "Animation Runner Kuromi 2",
+  "anime_url": "https://hianime.ad/anime/animation-runner-kuromi-2",
+  "slug": "animation-runner-kuromi-2",
+  "mal_id": 16592,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:34:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Despair High School",
+      "episode_url": "https://hianime.ad/watch/animation-runner-kuromi-2/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "16592-malep-1_vibeplayer_dub": "https://vibeplayer.site/c0571c777c34f89f",
+          "16592-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c0571c777c34f89f/master.m3u8"
+        },
+        "HD-2": {
+          "16592-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag597c9234a24d3a2546acfc325c9b16754h",
+          "16592-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "16592-malep-1_otakuhg_dub": "https://otakuhg.site/e/41wjdb9wy57e",
+          "16592-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "16592-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pz0oc59okqsc",
+          "16592-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
