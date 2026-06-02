@@ -6098,5 +6098,15 @@
     "captured_at": "2026-06-02T21:11:50",
     "file": "data/aria-the-ova-arietta.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-ova-arietta.json"
+  },
+  {
+    "slug": "aria-the-scarlet-ammo",
+    "mal_id": 8630,
+    "anime_name": "Aria The Scarlet Ammo",
+    "anime_url": "https://hianime.ad/anime/aria-the-scarlet-ammo",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:12:02",
+    "file": "data/aria-the-scarlet-ammo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-scarlet-ammo.json"
   }
 ]
