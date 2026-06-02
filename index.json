@@ -3268,5 +3268,15 @@
     "captured_at": "2026-06-02T19:18:38",
     "file": "data/ah-my-buddha-katsu-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-buddha-katsu-special.json"
+  },
+  {
+    "slug": "ah-my-goddess",
+    "mal_id": 50,
+    "anime_name": "Ah My Goddess",
+    "anime_url": "https://hianime.ad/anime/ah-my-goddess",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T19:18:49",
+    "file": "data/ah-my-goddess.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess.json"
   }
 ]
