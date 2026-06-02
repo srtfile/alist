@@ -7588,5 +7588,15 @@
     "captured_at": "2026-06-02T22:09:13",
     "file": "data/backflip-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/backflip-the-movie.json"
+  },
+  {
+    "slug": "bad-girl",
+    "mal_id": 59161,
+    "anime_name": "Bad Girl",
+    "anime_url": "https://hianime.ad/anime/bad-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:09:25",
+    "file": "data/bad-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bad-girl.json"
   }
 ]
