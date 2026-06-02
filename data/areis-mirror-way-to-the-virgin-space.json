@@ -1,0 +1,52 @@
+{
+  "anime_name": "Areis Mirror Way To The Virgin Space",
+  "anime_url": "https://hianime.ad/anime/areis-mirror-way-to-the-virgin-space",
+  "slug": "areis-mirror-way-to-the-virgin-space",
+  "mal_id": 2451,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:07:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Resurrection! The Psycho-Gun",
+      "episode_url": "https://hianime.ad/watch/areis-mirror-way-to-the-virgin-space/ep-1",
+      "sub": {
+        "HD-1": {
+          "2451-malep-1_vibeplayer_sub": "https://vibeplayer.site/b3bdbf3d93904592",
+          "2451-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3bdbf3d93904592/master.m3u8"
+        },
+        "HD-2": {
+          "2451-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag17a4c184b822954cadedc3fc716a44924h",
+          "2451-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2451-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uzo9mgdajsil",
+          "2451-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2451-malep-1_playmogo_sub": "https://playmogo.com/e/bnpmwnerwscb",
+          "2451-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2451-malep-1_vibeplayer_hsub": "https://vibeplayer.site/db98b1a2d7194191",
+          "2451-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/db98b1a2d7194191/master.m3u8"
+        },
+        "HD-2": {
+          "2451-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9ac7a4cd9510bbf6c8d63a621571262d4h",
+          "2451-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2451-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/89ugemtc7j7d",
+          "2451-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2451-malep-1_playmogo_hsub": "https://playmogo.com/e/35cth9ejz4wb",
+          "2451-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
