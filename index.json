@@ -4548,5 +4548,15 @@
     "captured_at": "2026-06-02T20:13:58",
     "file": "data/amanchu-yakusoku-no-natsu-to-atarashii-omoide-no-koto.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amanchu-yakusoku-no-natsu-to-atarashii-omoide-no-koto.json"
+  },
+  {
+    "slug": "amatsuki",
+    "mal_id": 3359,
+    "anime_name": "Amatsuki",
+    "anime_url": "https://hianime.ad/anime/amatsuki",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:14:10",
+    "file": "data/amatsuki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amatsuki.json"
   }
 ]
