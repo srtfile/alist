@@ -1,0 +1,65 @@
+{
+  "anime_name": "Baoh The Visitor",
+  "anime_url": "https://hianime.ad/anime/baoh-the-visitor",
+  "slug": "baoh-the-visitor",
+  "mal_id": 4549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:36:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Fists Are for the Heavens",
+      "episode_url": "https://hianime.ad/watch/baoh-the-visitor/ep-1",
+      "sub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_sub": "https://vibeplayer.site/3a56d8d9546a6933",
+          "4549-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3a56d8d9546a6933/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9ee7f910f00622ced6bd6b561ce2b41c4h",
+          "4549-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9ffdvj0y1tcp",
+          "4549-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_dub": "https://vibeplayer.site/1f173944dd92798b",
+          "4549-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f173944dd92798b/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_dub": "https://vibeplayer.site/ageeb716ce37b03d671c554bca1e53ee624h",
+          "4549-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_dub": "https://otakuvid.online/embed/quwa04o4medd",
+          "4549-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/acb5ab832a7abdbd",
+          "4549-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/acb5ab832a7abdbd/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3f0b695e35b647868321400f5584b8534h",
+          "4549-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1p22equb5j4o",
+          "4549-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aqadtzs1vw2n",
+          "4549-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4549-malep-1_playmogo_hsub": "https://playmogo.com/e/uy2ic4n99zli",
+          "4549-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
