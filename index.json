@@ -4778,5 +4778,15 @@
     "captured_at": "2026-06-02T20:26:10",
     "file": "data/android-kikaider.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/android-kikaider.json"
+  },
+  {
+    "slug": "andromeda-stories",
+    "mal_id": 31631,
+    "anime_name": "Andromeda Stories",
+    "anime_url": "https://hianime.ad/anime/andromeda-stories",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:26:33",
+    "file": "data/andromeda-stories.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/andromeda-stories.json"
   }
 ]
