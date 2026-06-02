@@ -6438,5 +6438,15 @@
     "captured_at": "2026-06-02T21:23:36",
     "file": "data/arp-backstage-pass-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arp-backstage-pass-special.json"
+  },
+  {
+    "slug": "arpeggio-of-blue-steel-ars-nova",
+    "mal_id": 18893,
+    "anime_name": "Arpeggio Of Blue Steel Ars Nova",
+    "anime_url": "https://hianime.ad/anime/arpeggio-of-blue-steel-ars-nova",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:23:47",
+    "file": "data/arpeggio-of-blue-steel-ars-nova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arpeggio-of-blue-steel-ars-nova.json"
   }
 ]
