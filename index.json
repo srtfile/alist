@@ -4718,5 +4718,15 @@
     "captured_at": "2026-06-02T20:19:15",
     "file": "data/ancient-girls-frame.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ancient-girls-frame.json"
+  },
+  {
+    "slug": "ancient-lords",
+    "mal_id": 35062,
+    "anime_name": "Ancient Lords",
+    "anime_url": "https://hianime.ad/anime/ancient-lords",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T20:19:37",
+    "file": "data/ancient-lords.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ancient-lords.json"
   }
 ]
