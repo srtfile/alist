@@ -648,5 +648,15 @@
     "captured_at": "2026-06-02T14:46:48",
     "file": "data/raw-chimpui-eri-sama-katsudou-daishashin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui-eri-sama-katsudou-daishashin.json"
+  },
+  {
+    "slug": "raw-chouja-raideen",
+    "mal_id": 2127,
+    "anime_name": "Raw Chouja Raideen",
+    "anime_url": "https://hianime.ad/anime/raw-chouja-raideen",
+    "total_episodes": 38,
+    "captured_at": "2026-06-02T14:46:58",
+    "file": "data/raw-chouja-raideen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chouja-raideen.json"
   }
 ]
