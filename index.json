@@ -3948,5 +3948,15 @@
     "captured_at": "2026-06-02T19:50:19",
     "file": "data/akb0048.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akb0048.json"
+  },
+  {
+    "slug": "akb0048-next-stage",
+    "mal_id": 14941,
+    "anime_name": "Akb0048 Next Stage",
+    "anime_url": "https://hianime.ad/anime/akb0048-next-stage",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:50:43",
+    "file": "data/akb0048-next-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akb0048-next-stage.json"
   }
 ]
