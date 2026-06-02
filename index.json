@@ -7628,5 +7628,15 @@
     "captured_at": "2026-06-02T22:10:11",
     "file": "data/baja-no-studio-baja-no-mita-umi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baja-no-studio-baja-no-mita-umi.json"
+  },
+  {
+    "slug": "baka-test-summon-the-beasts",
+    "mal_id": 6347,
+    "anime_name": "Baka Test Summon The Beasts",
+    "anime_url": "https://hianime.ad/anime/baka-test-summon-the-beasts",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T22:10:23",
+    "file": "data/baka-test-summon-the-beasts.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-test-summon-the-beasts.json"
   }
 ]
