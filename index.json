@@ -7168,5 +7168,15 @@
     "captured_at": "2026-06-02T21:53:17",
     "file": "data/ave-mujica-the-die-is-cast.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ave-mujica-the-die-is-cast.json"
+  },
+  {
+    "slug": "avenger",
+    "mal_id": 56,
+    "anime_name": "Avenger",
+    "anime_url": "https://hianime.ad/anime/avenger",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T21:53:40",
+    "file": "data/avenger.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/avenger.json"
   }
 ]
