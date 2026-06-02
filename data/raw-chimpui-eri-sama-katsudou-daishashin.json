@@ -1,0 +1,52 @@
+{
+  "anime_name": "Raw Chimpui Eri Sama Katsudou Daishashin",
+  "anime_url": "https://hianime.ad/anime/raw-chimpui-eri-sama-katsudou-daishashin",
+  "slug": "raw-chimpui-eri-sama-katsudou-daishashin",
+  "mal_id": 5343,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T14:46:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/raw-chimpui-eri-sama-katsudou-daishashin/ep-1",
+      "sub": {
+        "HD-1": {
+          "5343-malep-1_vibeplayer_sub": "https://vibeplayer.site/3903550103fc44f4",
+          "5343-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3903550103fc44f4/master.m3u8"
+        },
+        "HD-2": {
+          "5343-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7bf9534bca3a7c2e977c3b63fd03a3cf4h",
+          "5343-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5343-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8nlzsvefe9x1",
+          "5343-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5343-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c475c11fac20cff1",
+          "5343-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c475c11fac20cff1/master.m3u8"
+        },
+        "HD-2": {
+          "5343-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ageb0e1f751773d396dd200e4115d366684h",
+          "5343-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "5343-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bgysrjq8k44o",
+          "5343-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5343-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rfgmrtludnuy",
+          "5343-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5343-malep-1_playmogo_hsub": "https://playmogo.com/e/5wbsceghyehj",
+          "5343-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
