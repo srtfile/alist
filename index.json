@@ -2408,5 +2408,15 @@
     "captured_at": "2026-06-02T17:48:36",
     "file": "data/a-rhapsody-called-lucy-the-very-first-song.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-rhapsody-called-lucy-the-very-first-song.json"
+  },
+  {
+    "slug": "a-sheep-in-wolfs-clothing",
+    "mal_id": 2924,
+    "anime_name": "A Sheep In Wolfs Clothing",
+    "anime_url": "https://hianime.ad/anime/a-sheep-in-wolfs-clothing",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T17:48:49",
+    "file": "data/a-sheep-in-wolfs-clothing.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-sheep-in-wolfs-clothing.json"
   }
 ]
