@@ -2728,5 +2728,15 @@
     "captured_at": "2026-06-02T18:52:38",
     "file": "data/accel-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/accel-world.json"
+  },
+  {
+    "slug": "accel-world-ex",
+    "mal_id": 11759,
+    "anime_name": "Accel World Ex",
+    "anime_url": "https://hianime.ad/anime/accel-world-ex",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T18:53:08",
+    "file": "data/accel-world-ex.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/accel-world-ex.json"
   }
 ]
