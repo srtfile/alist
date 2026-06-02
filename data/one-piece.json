@@ -4,7 +4,7 @@
   "slug": "one-piece",
   "mal_id": 21,
   "total_episodes": 1164,
-  "captured_at": "2026-06-01T21:50:47",
+  "captured_at": "2026-06-02T02:18:20",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -46459,68 +46459,9 @@
     {
       "episode_title": "The 500 Million Berry Man! Target: Usoland!",
       "episode_url": "https://hianime.ad/watch/one-piece/ep-681",
-      "sub": {
-        "HD-1": {
-          "21-malep-681_vibeplayer_sub": "https://vibeplayer.site/87e8844cb2484885",
-          "21-malep-681_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87e8844cb2484885/master.m3u8"
-        },
-        "HD-2": {
-          "21-malep-681_vibeplayer_sub": "https://vibeplayer.site/ag6e530b4eda7b075c9c216b50716bcba14h",
-          "21-malep-681_vibeplayer_sub_m3u8": null
-        },
-        "Earnvids": {
-          "21-malep-681_otakuvid_sub": "https://otakuvid.online/embed/ejv6bs0ujpjd",
-          "21-malep-681_otakuvid_sub_m3u8": null
-        },
-        "Doodstream": {
-          "21-malep-681_playmogo_sub": "https://playmogo.com/e/ocfqdzeowuwv",
-          "21-malep-681_playmogo_sub_m3u8": null
-        }
-      },
-      "dub": {
-        "HD-1": {
-          "21-malep-681_vibeplayer_dub": "https://vibeplayer.site/f412580016f7dfa8",
-          "21-malep-681_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f412580016f7dfa8/master.m3u8"
-        },
-        "HD-2": {
-          "21-malep-681_vibeplayer_dub": "https://vibeplayer.site/ag5eaa20d53d9f6179015ee553baa356304h",
-          "21-malep-681_vibeplayer_dub_m3u8": null
-        },
-        "StreamHG": {
-          "21-malep-681_otakuhg_dub": "https://otakuhg.site/e/idp02qgv2d6p",
-          "21-malep-681_otakuhg_dub_m3u8": null
-        },
-        "Earnvids": {
-          "21-malep-681_otakuvid_dub": "https://otakuvid.online/embed/x1zsyyhwtz5o",
-          "21-malep-681_otakuvid_dub_m3u8": null
-        },
-        "Doodstream": {
-          "21-malep-681_playmogo_dub": "https://playmogo.com/e/wy7lk6jj573j",
-          "21-malep-681_playmogo_dub_m3u8": null
-        }
-      },
-      "hsub": {
-        "HD-1": {
-          "21-malep-681_vibeplayer_hsub": "https://vibeplayer.site/b8d406a215b54654",
-          "21-malep-681_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8d406a215b54654/master.m3u8"
-        },
-        "HD-2": {
-          "21-malep-681_vibeplayer_hsub": "https://vibeplayer.site/ag0b550f149c4561a18f1211f9c01eb71e4h",
-          "21-malep-681_vibeplayer_hsub_m3u8": null
-        },
-        "StreamHG": {
-          "21-malep-681_otakuhg_hsub": "https://otakuhg.site/e/cungwi0tmmue",
-          "21-malep-681_otakuhg_hsub_m3u8": null
-        },
-        "Earnvids": {
-          "21-malep-681_otakuvid_hsub": "https://otakuvid.online/embed/izodu8mf5z8u",
-          "21-malep-681_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "21-malep-681_playmogo_hsub": "https://playmogo.com/e/il5akl4ao79s",
-          "21-malep-681_playmogo_hsub_m3u8": null
-        }
-      }
+      "sub": {},
+      "dub": {},
+      "hsub": {}
     },
     {
       "episode_title": "Breaking through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
