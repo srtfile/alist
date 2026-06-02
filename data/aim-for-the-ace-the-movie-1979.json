@@ -1,0 +1,52 @@
+{
+  "anime_name": "Aim For The Ace The Movie 1979",
+  "anime_url": "https://hianime.ad/anime/aim-for-the-ace-the-movie-1979",
+  "slug": "aim-for-the-ace-the-movie-1979",
+  "mal_id": 8542,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:40:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/aim-for-the-ace-the-movie-1979/ep-1",
+      "sub": {
+        "HD-1": {
+          "8542-malep-1_vibeplayer_sub": "https://vibeplayer.site/6adac7d3b729dbc9",
+          "8542-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6adac7d3b729dbc9/master.m3u8"
+        },
+        "HD-2": {
+          "8542-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5578b2919b908ee41984d3aea68e0de84h",
+          "8542-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8542-malep-1_otakuhg_sub": "https://otakuhg.site/e/1yxsshnr57a1",
+          "8542-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8542-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r3bbspv0km6b",
+          "8542-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8542-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f09327e071be0287",
+          "8542-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f09327e071be0287/master.m3u8"
+        },
+        "HD-2": {
+          "8542-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8cc6759f46beda386744470ab384ea374h",
+          "8542-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8542-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nln85ztlm52k",
+          "8542-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8542-malep-1_playmogo_hsub": "https://playmogo.com/e/bzq5pxfymjy8",
+          "8542-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
