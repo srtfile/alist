@@ -8768,5 +8768,15 @@
     "captured_at": "2026-06-02T23:44:26",
     "file": "data/be-bop-highschool.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/be-bop-highschool.json"
+  },
+  {
+    "slug": "be-bop-kaizokuban",
+    "mal_id": 105,
+    "anime_name": "Be Bop Kaizokuban",
+    "anime_url": "https://hianime.ad/anime/be-bop-kaizokuban",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T23:44:42",
+    "file": "data/be-bop-kaizokuban.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/be-bop-kaizokuban.json"
   }
 ]
