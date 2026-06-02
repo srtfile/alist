@@ -7878,5 +7878,15 @@
     "captured_at": "2026-06-02T22:24:04",
     "file": "data/bakumatsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu.json"
+  },
+  {
+    "slug": "bakumatsu-gijinden-roman",
+    "mal_id": 16211,
+    "anime_name": "Bakumatsu Gijinden Roman",
+    "anime_url": "https://hianime.ad/anime/bakumatsu-gijinden-roman",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:24:26",
+    "file": "data/bakumatsu-gijinden-roman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu-gijinden-roman.json"
   }
 ]
