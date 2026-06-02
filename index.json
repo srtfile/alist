@@ -3128,5 +3128,15 @@
     "captured_at": "2026-06-02T19:12:59",
     "file": "data/age-12.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/age-12.json"
+  },
+  {
+    "slug": "age-12-2nd-season",
+    "mal_id": 33419,
+    "anime_name": "Age 12 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/age-12-2nd-season",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:13:19",
+    "file": "data/age-12-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/age-12-2nd-season.json"
   }
 ]
