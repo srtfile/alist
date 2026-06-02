@@ -1588,5 +1588,15 @@
     "captured_at": "2026-06-02T17:10:44",
     "file": "data/18if.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/18if.json"
+  },
+  {
+    "slug": "1st-kiss",
+    "mal_id": 37036,
+    "anime_name": "1St Kiss",
+    "anime_url": "https://hianime.ad/anime/1st-kiss",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T17:11:07",
+    "file": "data/1st-kiss.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/1st-kiss.json"
   }
 ]
