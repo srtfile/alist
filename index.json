@@ -4238,5 +4238,15 @@
     "captured_at": "2026-06-02T20:01:42",
     "file": "data/alien-collections.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alien-collections.json"
+  },
+  {
+    "slug": "aliens-among-immortals",
+    "mal_id": 46636,
+    "anime_name": "Aliens Among Immortals",
+    "anime_url": "https://hianime.ad/anime/aliens-among-immortals",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:02:00",
+    "file": "data/aliens-among-immortals.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aliens-among-immortals.json"
   }
 ]
