@@ -8438,5 +8438,15 @@
     "captured_at": "2026-06-02T23:29:44",
     "file": "data/battery.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battery.json"
+  },
+  {
+    "slug": "battle-angel-alita",
+    "mal_id": 24231,
+    "anime_name": "Battle Angel Alita",
+    "anime_url": "https://hianime.ad/anime/battle-angel-alita",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T23:30:03",
+    "file": "data/battle-angel-alita.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-angel-alita.json"
   }
 ]
