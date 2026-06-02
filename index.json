@@ -998,5 +998,15 @@
     "captured_at": "2026-06-02T15:57:24",
     "file": "data/raw-judo-sanka.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-judo-sanka.json"
+  },
+  {
+    "slug": "raw-jungle-kurobee",
+    "mal_id": 10889,
+    "anime_name": "Raw Jungle Kurobee",
+    "anime_url": "https://hianime.ad/anime/raw-jungle-kurobee",
+    "total_episodes": 31,
+    "captured_at": "2026-06-02T15:58:01",
+    "file": "data/raw-jungle-kurobee.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-jungle-kurobee.json"
   }
 ]
