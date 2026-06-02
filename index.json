@@ -7648,5 +7648,15 @@
     "captured_at": "2026-06-02T22:10:46",
     "file": "data/baka-test-summon-the-beasts-ova-matsuri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-test-summon-the-beasts-ova-matsuri.json"
+  },
+  {
+    "slug": "baka-test-summon-the-beasts-specials",
+    "mal_id": 6347,
+    "anime_name": "Baka Test Summon The Beasts Specials",
+    "anime_url": "https://hianime.ad/anime/baka-test-summon-the-beasts-specials",
+    "total_episodes": 7,
+    "captured_at": "2026-06-02T22:10:59",
+    "file": "data/baka-test-summon-the-beasts-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-test-summon-the-beasts-specials.json"
   }
 ]
