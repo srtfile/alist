@@ -3658,5 +3658,15 @@
     "captured_at": "2026-06-02T19:40:44",
     "file": "data/air.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air.json"
+  },
+  {
+    "slug": "air-gear",
+    "mal_id": 857,
+    "anime_name": "Air Gear",
+    "anime_url": "https://hianime.ad/anime/air-gear",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T19:41:07",
+    "file": "data/air-gear.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-gear.json"
   }
 ]
