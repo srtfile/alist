@@ -8428,5 +8428,15 @@
     "captured_at": "2026-06-02T23:29:34",
     "file": "data/batsu-terry.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/batsu-terry.json"
+  },
+  {
+    "slug": "battery",
+    "mal_id": 32947,
+    "anime_name": "Battery",
+    "anime_url": "https://hianime.ad/anime/battery",
+    "total_episodes": 11,
+    "captured_at": "2026-06-02T23:29:44",
+    "file": "data/battery.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battery.json"
   }
 ]
