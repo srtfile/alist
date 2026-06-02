@@ -1578,5 +1578,15 @@
     "captured_at": "2026-06-02T17:10:21",
     "file": "data/16bit-sensation-another-layer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/16bit-sensation-another-layer.json"
+  },
+  {
+    "slug": "18if",
+    "mal_id": 35248,
+    "anime_name": "18If",
+    "anime_url": "https://hianime.ad/anime/18if",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T17:10:44",
+    "file": "data/18if.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/18if.json"
   }
 ]
