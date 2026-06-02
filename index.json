@@ -1038,5 +1038,15 @@
     "captured_at": "2026-06-02T16:02:46",
     "file": "data/raw-kashi-no-ki-mokku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kashi-no-ki-mokku.json"
+  },
+  {
+    "slug": "raw-kiteretsu-encyclopedia",
+    "mal_id": 6509,
+    "anime_name": "Raw Kiteretsu Encyclopedia",
+    "anime_url": "https://hianime.ad/anime/raw-kiteretsu-encyclopedia",
+    "total_episodes": 330,
+    "captured_at": "2026-06-02T16:03:53",
+    "file": "data/raw-kiteretsu-encyclopedia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kiteretsu-encyclopedia.json"
   }
 ]
