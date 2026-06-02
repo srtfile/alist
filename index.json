@@ -7528,5 +7528,15 @@
     "captured_at": "2026-06-02T22:06:48",
     "file": "data/baccano-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baccano-specials.json"
+  },
+  {
+    "slug": "back-arrow",
+    "mal_id": 40964,
+    "anime_name": "Back Arrow",
+    "anime_url": "https://hianime.ad/anime/back-arrow",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T22:07:01",
+    "file": "data/back-arrow.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/back-arrow.json"
   }
 ]
