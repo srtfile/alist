@@ -1048,5 +1048,15 @@
     "captured_at": "2026-06-02T16:03:53",
     "file": "data/raw-kiteretsu-encyclopedia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kiteretsu-encyclopedia.json"
+  },
+  {
+    "slug": "raw-koguma-no-misha",
+    "mal_id": 6261,
+    "anime_name": "Raw Koguma No Misha",
+    "anime_url": "https://hianime.ad/anime/raw-koguma-no-misha",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T16:09:48",
+    "file": "data/raw-koguma-no-misha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-koguma-no-misha.json"
   }
 ]
