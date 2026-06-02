@@ -1238,5 +1238,15 @@
     "captured_at": "2026-06-02T16:33:56",
     "file": "data/raw-oretacha-youkai-ningen-g.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-oretacha-youkai-ningen-g.json"
+  },
+  {
+    "slug": "raw-paul-in-fantasy-island",
+    "mal_id": 4013,
+    "anime_name": "Raw Paul In Fantasy Island",
+    "anime_url": "https://hianime.ad/anime/raw-paul-in-fantasy-island",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T16:34:31",
+    "file": "data/raw-paul-in-fantasy-island.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-paul-in-fantasy-island.json"
   }
 ]
