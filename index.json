@@ -4478,5 +4478,15 @@
     "captured_at": "2026-06-02T20:11:38",
     "file": "data/amagami-ss-plus-extra-episode-plus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-plus-extra-episode-plus.json"
+  },
+  {
+    "slug": "amagi-brilliant-park",
+    "mal_id": 22147,
+    "anime_name": "Amagi Brilliant Park",
+    "anime_url": "https://hianime.ad/anime/amagi-brilliant-park",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:11:55",
+    "file": "data/amagi-brilliant-park.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagi-brilliant-park.json"
   }
 ]
