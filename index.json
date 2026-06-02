@@ -828,5 +828,15 @@
     "captured_at": "2026-06-02T15:35:40",
     "file": "data/raw-duel-masters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters.json"
+  },
+  {
+    "slug": "raw-edokko-boy-gatten-tasuke",
+    "mal_id": 9028,
+    "anime_name": "Raw Edokko Boy Gatten Tasuke",
+    "anime_url": "https://hianime.ad/anime/raw-edokko-boy-gatten-tasuke",
+    "total_episodes": 22,
+    "captured_at": "2026-06-02T15:36:40",
+    "file": "data/raw-edokko-boy-gatten-tasuke.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-edokko-boy-gatten-tasuke.json"
   }
 ]
