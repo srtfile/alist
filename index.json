@@ -4908,5 +4908,15 @@
     "captured_at": "2026-06-02T20:30:32",
     "file": "data/angels-3piece.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-3piece.json"
+  },
+  {
+    "slug": "angels-drop",
+    "mal_id": 21053,
+    "anime_name": "Angels Drop",
+    "anime_url": "https://hianime.ad/anime/angels-drop",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:30:56",
+    "file": "data/angels-drop.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-drop.json"
   }
 ]
