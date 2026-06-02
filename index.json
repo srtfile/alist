@@ -6428,5 +6428,15 @@
     "captured_at": "2026-06-02T21:23:14",
     "file": "data/arp-backstage-pass.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arp-backstage-pass.json"
+  },
+  {
+    "slug": "arp-backstage-pass-special",
+    "mal_id": 40137,
+    "anime_name": "Arp Backstage Pass Special",
+    "anime_url": "https://hianime.ad/anime/arp-backstage-pass-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:23:36",
+    "file": "data/arp-backstage-pass-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arp-backstage-pass-special.json"
   }
 ]
