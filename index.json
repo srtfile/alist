@@ -2828,5 +2828,15 @@
     "captured_at": "2026-06-02T18:57:25",
     "file": "data/ace-of-diamond-second-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ace-of-diamond-second-season.json"
+  },
+  {
+    "slug": "acro-trip",
+    "mal_id": 53723,
+    "anime_name": "Acro Trip",
+    "anime_url": "https://hianime.ad/anime/acro-trip",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:58:19",
+    "file": "data/acro-trip.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/acro-trip.json"
   }
 ]
