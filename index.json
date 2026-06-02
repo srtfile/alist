@@ -3758,5 +3758,15 @@
     "captured_at": "2026-06-02T19:44:27",
     "file": "data/aiyous-secret-room.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aiyous-secret-room.json"
+  },
+  {
+    "slug": "ajimu-kaigan-monogatari",
+    "mal_id": 17074,
+    "anime_name": "Ajimu Kaigan Monogatari",
+    "anime_url": "https://hianime.ad/anime/ajimu-kaigan-monogatari",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T19:44:53",
+    "file": "data/ajimu-kaigan-monogatari.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ajimu-kaigan-monogatari.json"
   }
 ]
