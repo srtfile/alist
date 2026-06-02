@@ -3118,5 +3118,15 @@
     "captured_at": "2026-06-02T19:12:36",
     "file": "data/agate-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/agate-2nd-season.json"
+  },
+  {
+    "slug": "age-12",
+    "mal_id": 32601,
+    "anime_name": "Age 12",
+    "anime_url": "https://hianime.ad/anime/age-12",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:12:59",
+    "file": "data/age-12.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/age-12.json"
   }
 ]
