@@ -5198,5 +5198,15 @@
     "captured_at": "2026-06-02T20:40:44",
     "file": "data/another.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/another.json"
+  },
+  {
+    "slug": "another-journey-to-the-west",
+    "mal_id": 57380,
+    "anime_name": "Another Journey To The West",
+    "anime_url": "https://hianime.ad/anime/another-journey-to-the-west",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:41:07",
+    "file": "data/another-journey-to-the-west.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/another-journey-to-the-west.json"
   }
 ]
