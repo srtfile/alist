@@ -1928,5 +1928,15 @@
     "captured_at": "2026-06-02T17:22:59",
     "file": "data/a-certain-magical-index-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-certain-magical-index-specials.json"
+  },
+  {
+    "slug": "a-certain-scientific-accelerator",
+    "mal_id": 38480,
+    "anime_name": "A Certain Scientific Accelerator",
+    "anime_url": "https://hianime.ad/anime/a-certain-scientific-accelerator",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:23:12",
+    "file": "data/a-certain-scientific-accelerator.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-certain-scientific-accelerator.json"
   }
 ]
