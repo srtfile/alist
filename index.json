@@ -5688,5 +5688,15 @@
     "captured_at": "2026-06-02T20:56:54",
     "file": "data/appleseed-xiii-remix-movie-2-yogen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/appleseed-xiii-remix-movie-2-yogen.json"
+  },
+  {
+    "slug": "appleseed-ex-machina",
+    "mal_id": 59415,
+    "anime_name": "Appleseed Ex Machina",
+    "anime_url": "https://hianime.ad/anime/appleseed-ex-machina",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:57:06",
+    "file": "data/appleseed-ex-machina.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/appleseed-ex-machina.json"
   }
 ]
