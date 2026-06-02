@@ -5578,5 +5578,15 @@
     "captured_at": "2026-06-02T20:52:34",
     "file": "data/apocalypse-hotel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apocalypse-hotel.json"
+  },
+  {
+    "slug": "apocalypse-zero",
+    "mal_id": 1708,
+    "anime_name": "Apocalypse Zero",
+    "anime_url": "https://hianime.ad/anime/apocalypse-zero",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T20:52:57",
+    "file": "data/apocalypse-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apocalypse-zero.json"
   }
 ]
