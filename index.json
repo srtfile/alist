@@ -1658,5 +1658,15 @@
     "captured_at": "2026-06-02T17:13:30",
     "file": "data/3000-leagues-in-search-of-mother.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/3000-leagues-in-search-of-mother.json"
+  },
+  {
+    "slug": "365-days-to-the-wedding",
+    "mal_id": 55887,
+    "anime_name": "365 Days To The Wedding",
+    "anime_url": "https://hianime.ad/anime/365-days-to-the-wedding",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:14:32",
+    "file": "data/365-days-to-the-wedding.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/365-days-to-the-wedding.json"
   }
 ]
