@@ -6138,5 +6138,15 @@
     "captured_at": "2026-06-02T21:13:00",
     "file": "data/ariel-deluxe.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ariel-deluxe.json"
+  },
+  {
+    "slug": "ariel-visual",
+    "mal_id": 48567,
+    "anime_name": "Ariel Visual",
+    "anime_url": "https://hianime.ad/anime/ariel-visual",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T21:13:13",
+    "file": "data/ariel-visual.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ariel-visual.json"
   }
 ]
