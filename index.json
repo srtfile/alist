@@ -968,5 +968,15 @@
     "captured_at": "2026-06-02T15:54:46",
     "file": "data/raw-idaten-jump.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-idaten-jump.json"
+  },
+  {
+    "slug": "raw-ikinari-dagon",
+    "mal_id": 19965,
+    "anime_name": "Raw Ikinari Dagon",
+    "anime_url": "https://hianime.ad/anime/raw-ikinari-dagon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T15:55:48",
+    "file": "data/raw-ikinari-dagon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-ikinari-dagon.json"
   }
 ]
