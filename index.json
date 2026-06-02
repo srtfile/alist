@@ -978,5 +978,15 @@
     "captured_at": "2026-06-02T15:55:48",
     "file": "data/raw-ikinari-dagon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-ikinari-dagon.json"
+  },
+  {
+    "slug": "raw-jarinko-chie-tv",
+    "mal_id": 3947,
+    "anime_name": "Raw Jarinko Chie Tv",
+    "anime_url": "https://hianime.ad/anime/raw-jarinko-chie-tv",
+    "total_episodes": 64,
+    "captured_at": "2026-06-02T15:56:11",
+    "file": "data/raw-jarinko-chie-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-jarinko-chie-tv.json"
   }
 ]
