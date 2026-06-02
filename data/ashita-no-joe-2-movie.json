@@ -1,0 +1,60 @@
+{
+  "anime_name": "Ashita No Joe 2 Movie",
+  "anime_url": "https://hianime.ad/anime/ashita-no-joe-2-movie",
+  "slug": "ashita-no-joe-2-movie",
+  "mal_id": 2921,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:29:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And Then, He Returned...",
+      "episode_url": "https://hianime.ad/watch/ashita-no-joe-2-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2921-malep-1_vibeplayer_sub": "https://vibeplayer.site/ed6661847e661e94",
+          "2921-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed6661847e661e94/master.m3u8"
+        },
+        "HD-2": {
+          "2921-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag622ad065f879919764070a4baab900574h",
+          "2921-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "2921-malep-1_otakuhg_sub": "https://otakuhg.site/e/s6cwop48mze4",
+          "2921-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2921-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ke8zuwm8y1pn",
+          "2921-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2921-malep-1_playmogo_sub": "https://playmogo.com/e/dbjqw48rnowq",
+          "2921-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2921-malep-1_vibeplayer_hsub": "https://vibeplayer.site/25978d17084b1827",
+          "2921-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/25978d17084b1827/master.m3u8"
+        },
+        "HD-2": {
+          "2921-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agee76c7800f5fefe5b305b479438017954h",
+          "2921-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2921-malep-1_otakuhg_hsub": "https://otakuhg.site/e/su6sqvcxqgv7",
+          "2921-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2921-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5xw3z7u6od91",
+          "2921-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2921-malep-1_playmogo_hsub": "https://playmogo.com/e/qdpy3b5vmf6t",
+          "2921-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
