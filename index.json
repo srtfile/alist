@@ -8468,5 +8468,15 @@
     "captured_at": "2026-06-02T23:30:25",
     "file": "data/battle-athletes-victory.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-athletes-victory.json"
+  },
+  {
+    "slug": "battle-athletes-victory-restart",
+    "mal_id": 42321,
+    "anime_name": "Battle Athletes Victory Restart",
+    "anime_url": "https://hianime.ad/anime/battle-athletes-victory-restart",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:30:58",
+    "file": "data/battle-athletes-victory-restart.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-athletes-victory-restart.json"
   }
 ]
