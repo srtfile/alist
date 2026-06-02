@@ -3848,5 +3848,15 @@
     "captured_at": "2026-06-02T19:46:57",
     "file": "data/akai-hayate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akai-hayate.json"
+  },
+  {
+    "slug": "akakill-theater",
+    "mal_id": 64230,
+    "anime_name": "Akakill Theater",
+    "anime_url": "https://hianime.ad/anime/akakill-theater",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T19:47:12",
+    "file": "data/akakill-theater.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akakill-theater.json"
   }
 ]
