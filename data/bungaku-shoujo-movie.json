@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bungaku Shoujo Movie",
+  "anime_url": "https://hianime.ad/anime/bungaku-shoujo-movie",
+  "slug": "bungaku-shoujo-movie",
+  "mal_id": 7193,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T14:31:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "No Longer Human - Chapter 1: Double Suicide in Kamakura",
+      "episode_url": "https://hianime.ad/watch/bungaku-shoujo-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "7193-malep-1_vibeplayer_sub": "https://vibeplayer.site/6428c387e9f13d54",
+          "7193-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6428c387e9f13d54/master.m3u8"
+        },
+        "HD-2": {
+          "7193-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga09b4ad45006b930dcafcfae10735a0d4h",
+          "7193-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "7193-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t5lqls6i8b16",
+          "7193-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "7193-malep-1_playmogo_sub": "https://playmogo.com/e/v4i9hqnycah4",
+          "7193-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7193-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e4c12666763901c5",
+          "7193-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4c12666763901c5/master.m3u8"
+        },
+        "HD-2": {
+          "7193-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc5e4f08b44a677b3ca19b179373a91aa4h",
+          "7193-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "7193-malep-1_otakuhg_hsub": "https://otakuhg.site/e/c19oo993m1n8",
+          "7193-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7193-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s42ud5w1oh0h",
+          "7193-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7193-malep-1_playmogo_hsub": "https://playmogo.com/e/eosdtiycbwq6",
+          "7193-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
