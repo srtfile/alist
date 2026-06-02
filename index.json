@@ -6268,5 +6268,15 @@
     "captured_at": "2026-06-02T21:16:45",
     "file": "data/arknights-rise-from-ember.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-rise-from-ember.json"
+  },
+  {
+    "slug": "armed-blue-gunvolt",
+    "mal_id": 33475,
+    "anime_name": "Armed Blue Gunvolt",
+    "anime_url": "https://hianime.ad/anime/armed-blue-gunvolt",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:17:05",
+    "file": "data/armed-blue-gunvolt.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/armed-blue-gunvolt.json"
   }
 ]
