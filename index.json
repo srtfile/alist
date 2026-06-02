@@ -6838,5 +6838,15 @@
     "captured_at": "2026-06-02T21:36:17",
     "file": "data/astral-sutra-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astral-sutra-2nd-season.json"
+  },
+  {
+    "slug": "astro-boy",
+    "mal_id": 971,
+    "anime_name": "Astro Boy",
+    "anime_url": "https://hianime.ad/anime/astro-boy",
+    "total_episodes": 104,
+    "captured_at": "2026-06-02T21:37:10",
+    "file": "data/astro-boy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astro-boy.json"
   }
 ]
