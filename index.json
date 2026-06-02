@@ -8318,5 +8318,15 @@
     "captured_at": "2026-06-02T22:39:33",
     "file": "data/bartender-glass-of-god.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bartender-glass-of-god.json"
+  },
+  {
+    "slug": "basilisk",
+    "mal_id": 67,
+    "anime_name": "Basilisk",
+    "anime_url": "https://hianime.ad/anime/basilisk",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T22:39:55",
+    "file": "data/basilisk.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/basilisk.json"
   }
 ]
