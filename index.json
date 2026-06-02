@@ -6818,5 +6818,15 @@
     "captured_at": "2026-06-02T21:35:05",
     "file": "data/astra-lost-in-space.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astra-lost-in-space.json"
+  },
+  {
+    "slug": "astral-sutra",
+    "mal_id": 12471,
+    "anime_name": "Astral Sutra",
+    "anime_url": "https://hianime.ad/anime/astral-sutra",
+    "total_episodes": 40,
+    "captured_at": "2026-06-02T21:35:27",
+    "file": "data/astral-sutra.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astral-sutra.json"
   }
 ]
