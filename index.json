@@ -1198,5 +1198,15 @@
     "captured_at": "2026-06-02T16:21:50",
     "file": "data/raw-mouretsu-atarou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mouretsu-atarou.json"
+  },
+  {
+    "slug": "raw-obake-no-q-tarou-1985",
+    "mal_id": 7981,
+    "anime_name": "Raw Obake No Q Tarou 1985",
+    "anime_url": "https://hianime.ad/anime/raw-obake-no-q-tarou-1985",
+    "total_episodes": 510,
+    "captured_at": "2026-06-02T16:23:32",
+    "file": "data/raw-obake-no-q-tarou-1985.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-obake-no-q-tarou-1985.json"
   }
 ]
