@@ -1,0 +1,48 @@
+{
+  "anime_name": "Amnesia Ova",
+  "anime_url": "https://hianime.ad/anime/amnesia-ova",
+  "slug": "amnesia-ova",
+  "mal_id": 15085,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:17:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I",
+      "episode_url": "https://hianime.ad/watch/amnesia-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "15085-malep-1_vibeplayer_sub": "https://vibeplayer.site/488b7fd631b10fc6",
+          "15085-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/488b7fd631b10fc6/master.m3u8"
+        },
+        "HD-2": {
+          "15085-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1c83ed85ad02f5c4aefa501f2f9c40324h",
+          "15085-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15085-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g4s05vidble6",
+          "15085-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15085-malep-1_vibeplayer_hsub": "https://vibeplayer.site/58b5e7c2211a2d02",
+          "15085-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/58b5e7c2211a2d02/master.m3u8"
+        },
+        "HD-2": {
+          "15085-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdd488bae8658e3fba66d85a4b981e1054h",
+          "15085-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15085-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w1iqgp5vtvqd",
+          "15085-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15085-malep-1_playmogo_hsub": "https://playmogo.com/e/7i6vsusz3n0a",
+          "15085-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
