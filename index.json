@@ -6048,5 +6048,15 @@
     "captured_at": "2026-06-02T21:10:06",
     "file": "data/aria-the-crepuscolo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-crepuscolo.json"
+  },
+  {
+    "slug": "aria-the-natural",
+    "mal_id": 962,
+    "anime_name": "Aria The Natural",
+    "anime_url": "https://hianime.ad/anime/aria-the-natural",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T21:10:19",
+    "file": "data/aria-the-natural.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-natural.json"
   }
 ]
