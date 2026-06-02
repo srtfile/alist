@@ -8298,5 +8298,15 @@
     "captured_at": "2026-06-02T22:38:49",
     "file": "data/barom-one.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barom-one.json"
+  },
+  {
+    "slug": "bartender",
+    "mal_id": 1589,
+    "anime_name": "Bartender",
+    "anime_url": "https://hianime.ad/anime/bartender",
+    "total_episodes": 11,
+    "captured_at": "2026-06-02T22:39:12",
+    "file": "data/bartender.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bartender.json"
   }
 ]
