@@ -8598,5 +8598,15 @@
     "captured_at": "2026-06-02T23:35:50",
     "file": "data/battle-spirits-mirage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-mirage.json"
+  },
+  {
+    "slug": "battle-spirits-saga-brave",
+    "mal_id": 63818,
+    "anime_name": "Battle Spirits Saga Brave",
+    "anime_url": "https://hianime.ad/anime/battle-spirits-saga-brave",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T23:36:03",
+    "file": "data/battle-spirits-saga-brave.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-saga-brave.json"
   }
 ]
