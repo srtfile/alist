@@ -1008,5 +1008,15 @@
     "captured_at": "2026-06-02T15:58:01",
     "file": "data/raw-jungle-kurobee.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-jungle-kurobee.json"
+  },
+  {
+    "slug": "raw-kagaku-bouken-tai-tansar-5",
+    "mal_id": 10965,
+    "anime_name": "Raw Kagaku Bouken Tai Tansar 5",
+    "anime_url": "https://hianime.ad/anime/raw-kagaku-bouken-tai-tansar-5",
+    "total_episodes": 34,
+    "captured_at": "2026-06-02T15:58:43",
+    "file": "data/raw-kagaku-bouken-tai-tansar-5.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kagaku-bouken-tai-tansar-5.json"
   }
 ]
