@@ -5968,5 +5968,15 @@
     "captured_at": "2026-06-02T21:07:19",
     "file": "data/areis-mirror-way-to-the-virgin-space.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/areis-mirror-way-to-the-virgin-space.json"
+  },
+  {
+    "slug": "argento-soma",
+    "mal_id": 285,
+    "anime_name": "Argento Soma",
+    "anime_url": "https://hianime.ad/anime/argento-soma",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T21:07:31",
+    "file": "data/argento-soma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/argento-soma.json"
   }
 ]
