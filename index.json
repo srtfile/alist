@@ -4788,5 +4788,15 @@
     "captured_at": "2026-06-02T20:26:33",
     "file": "data/andromeda-stories.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/andromeda-stories.json"
+  },
+  {
+    "slug": "anemone-eureka-seven-hi-evolution",
+    "mal_id": 1224,
+    "anime_name": "Anemone Eureka Seven Hi Evolution",
+    "anime_url": "https://hianime.ad/anime/anemone-eureka-seven-hi-evolution",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:26:45",
+    "file": "data/anemone-eureka-seven-hi-evolution.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anemone-eureka-seven-hi-evolution.json"
   }
 ]
