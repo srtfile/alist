@@ -1568,5 +1568,15 @@
     "captured_at": "2026-06-02T17:09:57",
     "file": "data/11eyes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/11eyes.json"
+  },
+  {
+    "slug": "16bit-sensation-another-layer",
+    "mal_id": 54041,
+    "anime_name": "16Bit Sensation Another Layer",
+    "anime_url": "https://hianime.ad/anime/16bit-sensation-another-layer",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T17:10:21",
+    "file": "data/16bit-sensation-another-layer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/16bit-sensation-another-layer.json"
   }
 ]
