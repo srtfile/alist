@@ -698,5 +698,15 @@
     "captured_at": "2026-06-02T14:51:02",
     "file": "data/raw-dangard-ace.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-dangard-ace.json"
+  },
+  {
+    "slug": "raw-dokonjou-gaeru",
+    "mal_id": 5618,
+    "anime_name": "Raw Dokonjou Gaeru",
+    "anime_url": "https://hianime.ad/anime/raw-dokonjou-gaeru",
+    "total_episodes": 103,
+    "captured_at": "2026-06-02T14:52:06",
+    "file": "data/raw-dokonjou-gaeru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-dokonjou-gaeru.json"
   }
 ]
