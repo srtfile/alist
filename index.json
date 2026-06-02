@@ -778,5 +778,15 @@
     "captured_at": "2026-06-02T14:58:32",
     "file": "data/raw-duel-masters-victory-v.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-victory-v.json"
+  },
+  {
+    "slug": "raw-duel-masters-victory-v3",
+    "mal_id": 21999,
+    "anime_name": "Raw Duel Masters Victory V3",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-victory-v3",
+    "total_episodes": 51,
+    "captured_at": "2026-06-02T14:59:03",
+    "file": "data/raw-duel-masters-victory-v3.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-victory-v3.json"
   }
 ]
