@@ -1,0 +1,52 @@
+{
+  "anime_name": "A Girl In A Lower Grade Tv Hajimemashite Tina",
+  "anime_url": "https://hianime.ad/anime/a-girl-in-a-lower-grade-tv-hajimemashite-tina",
+  "slug": "a-girl-in-a-lower-grade-tv-hajimemashite-tina",
+  "mal_id": 2609,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:30:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring Wind Prank",
+      "episode_url": "https://hianime.ad/watch/a-girl-in-a-lower-grade-tv-hajimemashite-tina/ep-1",
+      "sub": {
+        "HD-1": {
+          "2609-malep-1_vibeplayer_sub": "https://vibeplayer.site/b974c21ad0567f04",
+          "2609-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b974c21ad0567f04/master.m3u8"
+        },
+        "HD-2": {
+          "2609-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc111679562dccb1149302fe270f76e604h",
+          "2609-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2609-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3j9aousizgi7",
+          "2609-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2609-malep-1_vibeplayer_hsub": "https://vibeplayer.site/02bd36f95206986d",
+          "2609-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/02bd36f95206986d/master.m3u8"
+        },
+        "HD-2": {
+          "2609-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag13fb8c652eb3f92e2791aa9911deced34h",
+          "2609-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2609-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oodn6pa2bdf1",
+          "2609-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2609-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mvl3acz7wuzi",
+          "2609-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2609-malep-1_playmogo_hsub": "https://playmogo.com/e/0twn7tq5druw",
+          "2609-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
