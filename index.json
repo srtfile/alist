@@ -4878,5 +4878,15 @@
     "captured_at": "2026-06-02T20:29:34",
     "file": "data/angel-links.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-links.json"
+  },
+  {
+    "slug": "angel-tales",
+    "mal_id": 682,
+    "anime_name": "Angel Tales",
+    "anime_url": "https://hianime.ad/anime/angel-tales",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:29:58",
+    "file": "data/angel-tales.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-tales.json"
   }
 ]
