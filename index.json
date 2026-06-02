@@ -4578,5 +4578,15 @@
     "captured_at": "2026-06-02T20:14:51",
     "file": "data/amazing-stranger.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amazing-stranger.json"
+  },
+  {
+    "slug": "ambassador-magma",
+    "mal_id": 38256,
+    "anime_name": "Ambassador Magma",
+    "anime_url": "https://hianime.ad/anime/ambassador-magma",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:15:14",
+    "file": "data/ambassador-magma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ambassador-magma.json"
   }
 ]
