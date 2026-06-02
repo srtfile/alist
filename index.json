@@ -4368,5 +4368,15 @@
     "captured_at": "2026-06-02T20:06:45",
     "file": "data/alpenrose.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alpenrose.json"
+  },
+  {
+    "slug": "alps-no-shoujo-heidi",
+    "mal_id": 2225,
+    "anime_name": "Alps No Shoujo Heidi",
+    "anime_url": "https://hianime.ad/anime/alps-no-shoujo-heidi",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T20:07:15",
+    "file": "data/alps-no-shoujo-heidi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alps-no-shoujo-heidi.json"
   }
 ]
