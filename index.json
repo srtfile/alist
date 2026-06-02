@@ -4098,5 +4098,15 @@
     "captured_at": "2026-06-02T19:54:53",
     "file": "data/akuma-tou-no-prince-mitsume-ga-tooru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuma-tou-no-prince-mitsume-ga-tooru.json"
+  },
+  {
+    "slug": "akuma-kun-movie",
+    "mal_id": 8194,
+    "anime_name": "Akuma Kun Movie",
+    "anime_url": "https://hianime.ad/anime/akuma-kun-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:55:05",
+    "file": "data/akuma-kun-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuma-kun-movie.json"
   }
 ]
