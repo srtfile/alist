@@ -3408,5 +3408,15 @@
     "captured_at": "2026-06-02T19:23:17",
     "file": "data/ai-shoujo-pollyanna-story-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ai-shoujo-pollyanna-story-specials.json"
+  },
+  {
+    "slug": "ai-tenchi-muyou",
+    "mal_id": 24699,
+    "anime_name": "Ai Tenchi Muyou",
+    "anime_url": "https://hianime.ad/anime/ai-tenchi-muyou",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T19:23:29",
+    "file": "data/ai-tenchi-muyou.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ai-tenchi-muyou.json"
   }
 ]
