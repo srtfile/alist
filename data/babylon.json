@@ -1,0 +1,646 @@
+{
+  "anime_name": "Babylon",
+  "anime_url": "https://hianime.ad/anime/babylon",
+  "slug": "babylon",
+  "mal_id": 37525,
+  "total_episodes": 12,
+  "captured_at": "2026-06-02T22:06:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Suspicion",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-1",
+      "sub": {
+        "HD-1": {
+          "37525-malep-1_vibeplayer_sub": "https://vibeplayer.site/21b066a6e6d05be0",
+          "37525-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21b066a6e6d05be0/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag30b8dd0d0b928aa9b79b85e078c559534h",
+          "37525-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pjon3uw98kdd",
+          "37525-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-1_vibeplayer_dub": "https://vibeplayer.site/26d93d3026cdb920",
+          "37525-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/26d93d3026cdb920/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag30a5c5a62a6bc99be7e7b67d7ab9bc684h",
+          "37525-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-1_otakuvid_dub": "https://otakuvid.online/embed/c8ypafrmymcx",
+          "37525-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-1_vibeplayer_hsub": "https://vibeplayer.site/21d3dcafef4a2c94",
+          "37525-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/21d3dcafef4a2c94/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd104f250c18f1cefce8919957cbad12b4h",
+          "37525-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xye0tbecll2g",
+          "37525-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/84uk6qgersda",
+          "37525-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-1_playmogo_hsub": "https://playmogo.com/e/cva51n2sigfx",
+          "37525-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Target",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-2",
+      "sub": {
+        "HD-1": {
+          "37525-malep-2_vibeplayer_sub": "https://vibeplayer.site/70a72766a5b61ec7",
+          "37525-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70a72766a5b61ec7/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-2_vibeplayer_sub": "https://vibeplayer.site/agce2b0343d745547b0ba798f1611419104h",
+          "37525-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-2_otakuvid_sub": "https://otakuvid.online/embed/lqchbpy5b8b3",
+          "37525-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-2_vibeplayer_dub": "https://vibeplayer.site/09069eb4d71947d0",
+          "37525-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/09069eb4d71947d0/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag4d3432fe184e853a17cd159ba08e9b4d4h",
+          "37525-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-2_otakuvid_dub": "https://otakuvid.online/embed/0vogocu2qpm0",
+          "37525-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-2_vibeplayer_hsub": "https://vibeplayer.site/5dea55499e141523",
+          "37525-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5dea55499e141523/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agadef5fdced80c5cb4c758ce705c395d54h",
+          "37525-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-2_otakuhg_hsub": "https://otakuhg.site/e/kwk8iyw29373",
+          "37525-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/50kx94p32rnj",
+          "37525-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-2_playmogo_hsub": "https://playmogo.com/e/y7kfiku8ksxp",
+          "37525-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Revolution",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-3",
+      "sub": {
+        "HD-1": {
+          "37525-malep-3_vibeplayer_sub": "https://vibeplayer.site/71e255ce37c0fabd",
+          "37525-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/71e255ce37c0fabd/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-3_vibeplayer_sub": "https://vibeplayer.site/agd9686a176d840e5ab09a30cad0e572ca4h",
+          "37525-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-3_otakuvid_sub": "https://otakuvid.online/embed/9kqec2eco5zp",
+          "37525-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-3_vibeplayer_dub": "https://vibeplayer.site/dabb7b9f5b8048d3",
+          "37525-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dabb7b9f5b8048d3/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-3_vibeplayer_dub": "https://vibeplayer.site/agd425938f7c2effce80d5a4d41e3785994h",
+          "37525-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-3_otakuvid_dub": "https://otakuvid.online/embed/ouetu5htcz8h",
+          "37525-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-3_vibeplayer_hsub": "https://vibeplayer.site/c143989236a37da5",
+          "37525-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c143989236a37da5/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agf9ac812db2f58b4c9a4bd4fa5583ac274h",
+          "37525-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-3_otakuhg_hsub": "https://otakuhg.site/e/grjutalr4ugb",
+          "37525-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/b4q4v983gmbk",
+          "37525-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-3_playmogo_hsub": "https://playmogo.com/e/q75x6ckqo8kj",
+          "37525-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chase",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-4",
+      "sub": {
+        "HD-1": {
+          "37525-malep-4_vibeplayer_sub": "https://vibeplayer.site/0fa40fab8a473c7f",
+          "37525-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0fa40fab8a473c7f/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-4_vibeplayer_sub": "https://vibeplayer.site/agb6334ef291d25bbb0913ace14058e7a54h",
+          "37525-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-4_otakuvid_sub": "https://otakuvid.online/embed/9emz7m9m1xxp",
+          "37525-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-4_vibeplayer_dub": "https://vibeplayer.site/3aaef8545baa0e0a",
+          "37525-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3aaef8545baa0e0a/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag864a98325d9b65f4c6a4494f642bf0244h",
+          "37525-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-4_otakuvid_dub": "https://otakuvid.online/embed/wm6cslc0h4bs",
+          "37525-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-4_vibeplayer_hsub": "https://vibeplayer.site/94d3924724098dd2",
+          "37525-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94d3924724098dd2/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag1571c66df1d8b978cd04dd70b8ee95314h",
+          "37525-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-4_otakuhg_hsub": "https://otakuhg.site/e/0gw639upf3qh",
+          "37525-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/1n7z0cp3mn7a",
+          "37525-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-4_playmogo_hsub": "https://playmogo.com/e/aq865uoyj3fj",
+          "37525-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Confession",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-5",
+      "sub": {
+        "HD-1": {
+          "37525-malep-5_vibeplayer_sub": "https://vibeplayer.site/5b275ce59e8053d8",
+          "37525-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b275ce59e8053d8/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-5_vibeplayer_sub": "https://vibeplayer.site/aga50439d4249cb531375f35b8c49df2304h",
+          "37525-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-5_otakuvid_sub": "https://otakuvid.online/embed/j9fl5p6v7obb",
+          "37525-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-5_vibeplayer_dub": "https://vibeplayer.site/9d9d0708912f31ae",
+          "37525-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9d9d0708912f31ae/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-5_vibeplayer_dub": "https://vibeplayer.site/agfb273295f75aba3e3b617404f2053f8a4h",
+          "37525-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-5_otakuvid_dub": "https://otakuvid.online/embed/g3zlt2jx9prw",
+          "37525-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-5_vibeplayer_hsub": "https://vibeplayer.site/8b366640d36d2978",
+          "37525-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b366640d36d2978/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-5_vibeplayer_hsub": "https://vibeplayer.site/agfc52131d311162dc144c5d26aa2acff34h",
+          "37525-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-5_otakuhg_hsub": "https://otakuhg.site/e/0xcl3ii35ryo",
+          "37525-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/fadbggm2hdi1",
+          "37525-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-5_playmogo_hsub": "https://playmogo.com/e/9dugemc99twe",
+          "37525-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Strategy",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-6",
+      "sub": {
+        "HD-1": {
+          "37525-malep-6_vibeplayer_sub": "https://vibeplayer.site/e919d7ed22513b3d",
+          "37525-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e919d7ed22513b3d/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag8dfbbb6aafd5cd88ce34807bab2ef7cf4h",
+          "37525-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-6_otakuvid_sub": "https://otakuvid.online/embed/u6ocswcx3ffq",
+          "37525-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-6_vibeplayer_dub": "https://vibeplayer.site/95e392d267d054d8",
+          "37525-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/95e392d267d054d8/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag148882ef730e5b41638950136af947214h",
+          "37525-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-6_otakuvid_dub": "https://otakuvid.online/embed/z4n5pfhg1l6x",
+          "37525-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-6_vibeplayer_hsub": "https://vibeplayer.site/dbd67317020f4e2d",
+          "37525-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dbd67317020f4e2d/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag3d592a0e7c0bbac65236849d0978bb644h",
+          "37525-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-6_otakuhg_hsub": "https://otakuhg.site/e/ynhpblhbo6q3",
+          "37525-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/yk46k0lv1zg4",
+          "37525-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-6_playmogo_hsub": "https://playmogo.com/e/tdfy7q2wjz2o",
+          "37525-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Most Evil",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-7",
+      "sub": {
+        "HD-1": {
+          "37525-malep-7_vibeplayer_sub": "https://vibeplayer.site/51fac6c19d76e27c",
+          "37525-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/51fac6c19d76e27c/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-7_vibeplayer_sub": "https://vibeplayer.site/age960e6c632cd7b55d459cfd45c7ea6d74h",
+          "37525-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-7_otakuvid_sub": "https://otakuvid.online/embed/78u90yamk3z2",
+          "37525-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-7_vibeplayer_dub": "https://vibeplayer.site/7fab319d11368e3d",
+          "37525-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7fab319d11368e3d/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-7_vibeplayer_dub": "https://vibeplayer.site/agdd43983eaff492fe70ae9581b67a157e4h",
+          "37525-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-7_otakuvid_dub": "https://otakuvid.online/embed/v6lm58iu5uzn",
+          "37525-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-7_vibeplayer_hsub": "https://vibeplayer.site/eeb934c0eb0c2d27",
+          "37525-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eeb934c0eb0c2d27/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag5bee52b32ed432b9527941b7720e12184h",
+          "37525-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-7_otakuhg_hsub": "https://otakuhg.site/e/afcnlc4pyp0a",
+          "37525-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/k449iipszw5x",
+          "37525-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-7_playmogo_hsub": "https://playmogo.com/e/scriphp3l93b",
+          "37525-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hope",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-8",
+      "sub": {
+        "HD-1": {
+          "37525-malep-8_vibeplayer_sub": "https://vibeplayer.site/a27ffe514a895b92",
+          "37525-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a27ffe514a895b92/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag356319a9ff2918afc7df4bd1c02a048a4h",
+          "37525-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-8_otakuvid_sub": "https://otakuvid.online/embed/2ju4j1s3bv1l",
+          "37525-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-8_vibeplayer_dub": "https://vibeplayer.site/8e7ce9456ade4016",
+          "37525-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8e7ce9456ade4016/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag665e53c66d6a3798f5b20a6c28b691584h",
+          "37525-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-8_otakuvid_dub": "https://otakuvid.online/embed/wkyrrtfzkrlh",
+          "37525-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-8_vibeplayer_hsub": "https://vibeplayer.site/98a89a2be54e402a",
+          "37525-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/98a89a2be54e402a/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag438f100adfc5a6e01b56ae71eb8267474h",
+          "37525-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-8_otakuhg_hsub": "https://otakuhg.site/e/bpb4kr92y99w",
+          "37525-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/tyzagfdq5jgh",
+          "37525-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-8_playmogo_hsub": "https://playmogo.com/e/m4o3q7s2560h",
+          "37525-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chain",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-9",
+      "sub": {
+        "HD-1": {
+          "37525-malep-9_vibeplayer_sub": "https://vibeplayer.site/d9386273dd196aa6",
+          "37525-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9386273dd196aa6/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag1f230faa032e107b987dfca191e367964h",
+          "37525-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-9_otakuvid_sub": "https://otakuvid.online/embed/m58s4gmzg3e1",
+          "37525-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-9_vibeplayer_dub": "https://vibeplayer.site/65137586955ade14",
+          "37525-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/65137586955ade14/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag67b29d39b92e58300b8498e0d68235aa4h",
+          "37525-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-9_otakuvid_dub": "https://otakuvid.online/embed/siupbs4dmzx4",
+          "37525-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-9_vibeplayer_hsub": "https://vibeplayer.site/7417e656f9ed3334",
+          "37525-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7417e656f9ed3334/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag6e376b9326310691a7be7db0dddd31e34h",
+          "37525-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-9_otakuhg_hsub": "https://otakuhg.site/e/u146gg6h6is9",
+          "37525-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/x3bfnfn9c656",
+          "37525-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-9_playmogo_hsub": "https://playmogo.com/e/wbe3uvfaf56z",
+          "37525-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Decision",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-10",
+      "sub": {
+        "HD-1": {
+          "37525-malep-10_vibeplayer_sub": "https://vibeplayer.site/1ff9333651686c24",
+          "37525-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ff9333651686c24/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag87c99e20272376737addfa23ddb27e1a4h",
+          "37525-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-10_otakuvid_sub": "https://otakuvid.online/embed/desmb1b13yup",
+          "37525-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-10_vibeplayer_dub": "https://vibeplayer.site/431f555311f6826e",
+          "37525-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/431f555311f6826e/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-10_vibeplayer_dub": "https://vibeplayer.site/aga1e2e326a2afa4c35578128d8f84e9914h",
+          "37525-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-10_otakuvid_dub": "https://otakuvid.online/embed/5hjx4f1bakxs",
+          "37525-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-10_vibeplayer_hsub": "https://vibeplayer.site/b8182dbfd56f6ab8",
+          "37525-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8182dbfd56f6ab8/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag6e6fdfb26863f4387609a3b9a367a8454h",
+          "37525-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-10_otakuhg_hsub": "https://otakuhg.site/e/xuv2l6ra1rxe",
+          "37525-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/od4ukzzw4ipa",
+          "37525-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-10_playmogo_hsub": "https://playmogo.com/e/or8drsux6l40",
+          "37525-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Curtain Rises",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-11",
+      "sub": {
+        "HD-1": {
+          "37525-malep-11_vibeplayer_sub": "https://vibeplayer.site/932f5d519b56e799",
+          "37525-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/932f5d519b56e799/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-11_vibeplayer_sub": "https://vibeplayer.site/agbf83e448224be69e3e87a74b242ad61e4h",
+          "37525-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-11_otakuhg_sub": "https://otakuhg.site/e/2lpxc5x7a162",
+          "37525-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-11_otakuvid_sub": "https://otakuvid.online/embed/sq9q3h068ott",
+          "37525-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-11_vibeplayer_dub": "https://vibeplayer.site/eb31c3669648962f",
+          "37525-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eb31c3669648962f/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-11_vibeplayer_dub": "https://vibeplayer.site/agfc068b9a8466130a6c1f705125a1abf84h",
+          "37525-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-11_otakuvid_dub": "https://otakuvid.online/embed/vlnxptq54zaf",
+          "37525-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The End",
+      "episode_url": "https://hianime.ad/watch/babylon/ep-12",
+      "sub": {
+        "HD-1": {
+          "37525-malep-12_vibeplayer_sub": "https://vibeplayer.site/d7f58399076ad88b",
+          "37525-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7f58399076ad88b/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag031e35888a9845d0e740a31629041b1c4h",
+          "37525-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-12_otakuhg_sub": "https://otakuhg.site/e/pwmodvos0cxu",
+          "37525-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-12_otakuvid_sub": "https://otakuvid.online/embed/7ez34ccemuff",
+          "37525-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37525-malep-12_vibeplayer_dub": "https://vibeplayer.site/69e6c99d59621e6b",
+          "37525-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/69e6c99d59621e6b/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag4a6fab84d7223ae7397605da2ee922964h",
+          "37525-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-12_otakuvid_dub": "https://otakuvid.online/embed/fj2lzs4zvqi5",
+          "37525-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37525-malep-12_vibeplayer_hsub": "https://vibeplayer.site/6799102b827a3846",
+          "37525-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6799102b827a3846/master.m3u8"
+        },
+        "HD-2": {
+          "37525-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agf7a3e1fe48532f2d5856a2e5c2af5d544h",
+          "37525-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37525-malep-12_otakuhg_hsub": "https://otakuhg.site/e/w3bbkaul83m0",
+          "37525-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37525-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/gjzyusw3l8ju",
+          "37525-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37525-malep-12_playmogo_hsub": "https://playmogo.com/e/z7x3mpfceasn",
+          "37525-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
