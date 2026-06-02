@@ -2438,5 +2438,15 @@
     "captured_at": "2026-06-02T18:42:11",
     "file": "data/a-silent-voice.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-silent-voice.json"
+  },
+  {
+    "slug": "a-sisters-all-you-need",
+    "mal_id": 35413,
+    "anime_name": "A Sisters All You Need",
+    "anime_url": "https://hianime.ad/anime/a-sisters-all-you-need",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:42:24",
+    "file": "data/a-sisters-all-you-need.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-sisters-all-you-need.json"
   }
 ]
