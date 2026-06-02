@@ -2788,5 +2788,15 @@
     "captured_at": "2026-06-02T18:54:28",
     "file": "data/ace-attorney-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ace-attorney-season-2.json"
+  },
+  {
+    "slug": "ace-of-diamond",
+    "mal_id": 18689,
+    "anime_name": "Ace Of Diamond",
+    "anime_url": "https://hianime.ad/anime/ace-of-diamond",
+    "total_episodes": 75,
+    "captured_at": "2026-06-02T18:54:58",
+    "file": "data/ace-of-diamond.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ace-of-diamond.json"
   }
 ]
