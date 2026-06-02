@@ -1358,5 +1358,15 @@
     "captured_at": "2026-06-02T16:53:46",
     "file": "data/raw-shin-dokonjou-gaeru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-shin-dokonjou-gaeru.json"
+  },
+  {
+    "slug": "raw-super-bikkuriman",
+    "mal_id": 6583,
+    "anime_name": "Raw Super Bikkuriman",
+    "anime_url": "https://hianime.ad/anime/raw-super-bikkuriman",
+    "total_episodes": 44,
+    "captured_at": "2026-06-02T16:54:26",
+    "file": "data/raw-super-bikkuriman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-super-bikkuriman.json"
   }
 ]
