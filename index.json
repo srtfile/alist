@@ -2618,5 +2618,15 @@
     "captured_at": "2026-06-02T18:49:20",
     "file": "data/a-f.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-f.json"
+  },
+  {
+    "slug": "a-i-c-o-incarnation",
+    "mal_id": 40938,
+    "anime_name": "A I C O Incarnation",
+    "anime_url": "https://hianime.ad/anime/a-i-c-o-incarnation",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:49:30",
+    "file": "data/a-i-c-o-incarnation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-i-c-o-incarnation.json"
   }
 ]
