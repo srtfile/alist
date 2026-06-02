@@ -948,5 +948,15 @@
     "captured_at": "2026-06-02T15:52:41",
     "file": "data/raw-himitsu-no-akko-chan-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-himitsu-no-akko-chan-2.json"
+  },
+  {
+    "slug": "raw-himitsu-no-akko-chan-3",
+    "mal_id": 3839,
+    "anime_name": "Raw Himitsu No Akko Chan 3",
+    "anime_url": "https://hianime.ad/anime/raw-himitsu-no-akko-chan-3",
+    "total_episodes": 44,
+    "captured_at": "2026-06-02T15:53:52",
+    "file": "data/raw-himitsu-no-akko-chan-3.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-himitsu-no-akko-chan-3.json"
   }
 ]
