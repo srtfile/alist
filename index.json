@@ -3138,5 +3138,15 @@
     "captured_at": "2026-06-02T19:13:19",
     "file": "data/age-12-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/age-12-2nd-season.json"
+  },
+  {
+    "slug": "agent-aika",
+    "mal_id": 323,
+    "anime_name": "Agent Aika",
+    "anime_url": "https://hianime.ad/anime/agent-aika",
+    "total_episodes": 7,
+    "captured_at": "2026-06-02T19:13:39",
+    "file": "data/agent-aika.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/agent-aika.json"
   }
 ]
