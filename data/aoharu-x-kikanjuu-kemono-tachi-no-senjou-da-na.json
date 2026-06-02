@@ -1,0 +1,61 @@
+{
+  "anime_name": "Aoharu X Kikanjuu Kemono Tachi No Senjou Da Na",
+  "anime_url": "https://hianime.ad/anime/aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na",
+  "slug": "aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na",
+  "mal_id": 30205,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:49:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Let's Start This Deathless Death Match",
+      "episode_url": "https://hianime.ad/watch/aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na/ep-1",
+      "sub": {
+        "HD-1": {
+          "30205-malep-1_vibeplayer_sub": "https://vibeplayer.site/863f70ae6a1c6671",
+          "30205-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/863f70ae6a1c6671/master.m3u8"
+        },
+        "HD-2": {
+          "30205-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc6e33506f0e25f15ec5f9c7f3e26063c4h",
+          "30205-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30205-malep-1_otakuvid_sub": "https://otakuvid.online/embed/27ut0gmheeln",
+          "30205-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "30205-malep-1_vibeplayer_dub": "https://vibeplayer.site/fe7e7988db69abd0",
+          "30205-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe7e7988db69abd0/master.m3u8"
+        },
+        "HD-2": {
+          "30205-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag44cd831e4f64dbecb9d3833ffc25b4044h",
+          "30205-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "30205-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bjw2dhamekhf",
+          "30205-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "30205-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b16e41e7e76a1792",
+          "30205-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b16e41e7e76a1792/master.m3u8"
+        },
+        "HD-2": {
+          "30205-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag74da8ad42a8cfaf38091ca882d6ebb0d4h",
+          "30205-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30205-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sydqvsq7rr9l",
+          "30205-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30205-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/40dgv0saq6v8",
+          "30205-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
