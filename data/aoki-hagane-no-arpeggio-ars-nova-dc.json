@@ -1,0 +1,48 @@
+{
+  "anime_name": "Aoki Hagane No Arpeggio Ars Nova Dc",
+  "anime_url": "https://hianime.ad/anime/aoki-hagane-no-arpeggio-ars-nova-dc",
+  "slug": "aoki-hagane-no-arpeggio-ars-nova-dc",
+  "mal_id": 18893,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:50:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Those with Shipping Routes",
+      "episode_url": "https://hianime.ad/watch/aoki-hagane-no-arpeggio-ars-nova-dc/ep-1",
+      "sub": {
+        "HD-1": {
+          "18893-malep-1_vibeplayer_sub": "https://vibeplayer.site/bdce07bf6bbb0706",
+          "18893-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bdce07bf6bbb0706/master.m3u8"
+        },
+        "HD-2": {
+          "18893-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf58f75ca9ff4543d4c61870f648fc2604h",
+          "18893-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18893-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ctulu3h4qkka",
+          "18893-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18893-malep-1_vibeplayer_hsub": "https://vibeplayer.site/744a0a0f9e31f657",
+          "18893-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/744a0a0f9e31f657/master.m3u8"
+        },
+        "HD-2": {
+          "18893-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4af3019db13cbf28c5e25b341228a91b4h",
+          "18893-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18893-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d1y0kr4evv5a",
+          "18893-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18893-malep-1_playmogo_hsub": "https://playmogo.com/e/wtv3htknyds3",
+          "18893-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
