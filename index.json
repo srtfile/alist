@@ -1158,5 +1158,15 @@
     "captured_at": "2026-06-02T16:18:08",
     "file": "data/raw-manga-aesop-monogatari-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-manga-aesop-monogatari-tv.json"
+  },
+  {
+    "slug": "raw-manga-nihonshi",
+    "mal_id": 11245,
+    "anime_name": "Raw Manga Nihonshi",
+    "anime_url": "https://hianime.ad/anime/raw-manga-nihonshi",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T16:18:44",
+    "file": "data/raw-manga-nihonshi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-manga-nihonshi.json"
   }
 ]
