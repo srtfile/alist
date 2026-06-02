@@ -1,0 +1,52 @@
+{
+  "anime_name": "Be Forever Yamato",
+  "anime_url": "https://hianime.ad/anime/be-forever-yamato",
+  "slug": "be-forever-yamato",
+  "mal_id": 57217,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T23:43:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Won't Kill for Love",
+      "episode_url": "https://hianime.ad/watch/be-forever-yamato/ep-1",
+      "sub": {
+        "HD-1": {
+          "57217-malep-1_vibeplayer_sub": "https://vibeplayer.site/ed6d817ce2d9e151",
+          "57217-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed6d817ce2d9e151/master.m3u8"
+        },
+        "HD-2": {
+          "57217-malep-1_vibeplayer_sub": "https://vibeplayer.site/age59cb1b02a62b69717e279f47a821eab4h",
+          "57217-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "57217-malep-1_otakuvid_sub": "https://otakuvid.online/embed/68dspzr388dm",
+          "57217-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57217-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6629ab96636321a8",
+          "57217-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6629ab96636321a8/master.m3u8"
+        },
+        "HD-2": {
+          "57217-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age61247d2d7d242c5ce35f24dfd00d21f4h",
+          "57217-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "57217-malep-1_otakuhg_hsub": "https://otakuhg.site/e/dtk778zxofnh",
+          "57217-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "57217-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ubib2fu7e68o",
+          "57217-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57217-malep-1_playmogo_hsub": "https://playmogo.com/e/doat2u10fvrf",
+          "57217-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
