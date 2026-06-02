@@ -1,0 +1,56 @@
+{
+  "anime_name": "Aria The Ova Arietta",
+  "anime_url": "https://hianime.ad/anime/aria-the-ova-arietta",
+  "slug": "aria-the-ova-arietta",
+  "mal_id": 3297,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:11:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "That Imminent Spring Breeze...",
+      "episode_url": "https://hianime.ad/watch/aria-the-ova-arietta/ep-1",
+      "sub": {
+        "HD-1": {
+          "3297-malep-1_vibeplayer_sub": "https://vibeplayer.site/3277f055d6e435c8",
+          "3297-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3277f055d6e435c8/master.m3u8"
+        },
+        "HD-2": {
+          "3297-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag55b0e1363f823af35dec24fb45b4decb4h",
+          "3297-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "3297-malep-1_otakuhg_sub": "https://otakuhg.site/e/lq7kykxksvye",
+          "3297-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3297-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pnsg46pzxrzl",
+          "3297-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3297-malep-1_playmogo_sub": "https://playmogo.com/e/p52w139a6hgu",
+          "3297-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c49fcccdba75deb8",
+          "3297-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c49fcccdba75deb8/master.m3u8"
+        },
+        "HD-2": {
+          "3297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age7e1c4cf2515bf6749eee5174b21f8684h",
+          "3297-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3297-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/245qltkebakx",
+          "3297-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3297-malep-1_playmogo_hsub": "https://playmogo.com/e/86njraxxdruh",
+          "3297-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
