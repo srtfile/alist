@@ -7288,5 +7288,15 @@
     "captured_at": "2026-06-02T21:57:18",
     "file": "data/azur-lane-bisoku-zenshin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane-bisoku-zenshin.json"
+  },
+  {
+    "slug": "azur-lane-queens-orders",
+    "mal_id": 38328,
+    "anime_name": "Azur Lane Queens Orders",
+    "anime_url": "https://hianime.ad/anime/azur-lane-queens-orders",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T21:57:41",
+    "file": "data/azur-lane-queens-orders.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane-queens-orders.json"
   }
 ]
