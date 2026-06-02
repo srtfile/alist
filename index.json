@@ -488,5 +488,15 @@
     "captured_at": "2026-06-02T14:34:08",
     "file": "data/raw-adventures-of-little-el-cid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-adventures-of-little-el-cid.json"
+  },
+  {
+    "slug": "raw-akuma-kun",
+    "mal_id": 8194,
+    "anime_name": "Raw Akuma Kun",
+    "anime_url": "https://hianime.ad/anime/raw-akuma-kun",
+    "total_episodes": 42,
+    "captured_at": "2026-06-02T14:34:39",
+    "file": "data/raw-akuma-kun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-akuma-kun.json"
   }
 ]
