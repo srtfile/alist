@@ -418,5 +418,15 @@
     "captured_at": "2026-06-02T14:31:44",
     "file": "data/bungaku-shoujo-memoire.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungaku-shoujo-memoire.json"
+  },
+  {
+    "slug": "bungaku-shoujo-movie",
+    "mal_id": 7193,
+    "anime_name": "Bungaku Shoujo Movie",
+    "anime_url": "https://hianime.ad/anime/bungaku-shoujo-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T14:31:56",
+    "file": "data/bungaku-shoujo-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungaku-shoujo-movie.json"
   }
 ]
