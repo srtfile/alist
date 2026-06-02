@@ -1468,5 +1468,15 @@
     "captured_at": "2026-06-02T17:06:31",
     "file": "data/gundam-ii-moonlight-butterfly.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-ii-moonlight-butterfly.json"
+  },
+  {
+    "slug": "himitsu-no-aipri-3rd-season",
+    "mal_id": 63352,
+    "anime_name": "Himitsu No Aipri 3Rd Season",
+    "anime_url": "https://hianime.ad/anime/himitsu-no-aipri-3rd-season",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T17:06:43",
+    "file": "data/himitsu-no-aipri-3rd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himitsu-no-aipri-3rd-season.json"
   }
 ]
