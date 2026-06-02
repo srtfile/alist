@@ -4518,5 +4518,15 @@
     "captured_at": "2026-06-02T20:12:49",
     "file": "data/amaim-warrior-at-the-borderline.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amaim-warrior-at-the-borderline.json"
+  },
+  {
+    "slug": "amanchu",
+    "mal_id": 31771,
+    "anime_name": "Amanchu",
+    "anime_url": "https://hianime.ad/anime/amanchu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:13:13",
+    "file": "data/amanchu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amanchu.json"
   }
 ]
