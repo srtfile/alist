@@ -3478,5 +3478,15 @@
     "captured_at": "2026-06-02T19:29:47",
     "file": "data/aika-zero-picture-drama.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aika-zero-picture-drama.json"
+  },
+  {
+    "slug": "aika-special-trial",
+    "mal_id": 36000,
+    "anime_name": "Aika Special Trial",
+    "anime_url": "https://hianime.ad/anime/aika-special-trial",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:30:00",
+    "file": "data/aika-special-trial.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aika-special-trial.json"
   }
 ]
