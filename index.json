@@ -4018,5 +4018,15 @@
     "captured_at": "2026-06-02T19:52:36",
     "file": "data/akibas-trip-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akibas-trip-the-animation.json"
+  },
+  {
+    "slug": "akikan",
+    "mal_id": 5112,
+    "anime_name": "Akikan",
+    "anime_url": "https://hianime.ad/anime/akikan",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:52:59",
+    "file": "data/akikan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akikan.json"
   }
 ]
