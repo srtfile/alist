@@ -4458,5 +4458,15 @@
     "captured_at": "2026-06-02T20:11:01",
     "file": "data/amagami-ss-plus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-plus.json"
+  },
+  {
+    "slug": "amagami-ss-plus-picture-drama",
+    "mal_id": 11235,
+    "anime_name": "Amagami Ss Plus Picture Drama",
+    "anime_url": "https://hianime.ad/anime/amagami-ss-plus-picture-drama",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T20:11:25",
+    "file": "data/amagami-ss-plus-picture-drama.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-plus-picture-drama.json"
   }
 ]
