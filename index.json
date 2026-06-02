@@ -5428,5 +5428,15 @@
     "captured_at": "2026-06-02T20:48:09",
     "file": "data/ao-no-exorcist-kyoto-fujouou-hen-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ao-no-exorcist-kyoto-fujouou-hen-ova.json"
+  },
+  {
+    "slug": "ao-no-exorcist-ura-ex",
+    "mal_id": 9919,
+    "anime_name": "Ao No Exorcist Ura Ex",
+    "anime_url": "https://hianime.ad/anime/ao-no-exorcist-ura-ex",
+    "total_episodes": 10,
+    "captured_at": "2026-06-02T20:48:21",
+    "file": "data/ao-no-exorcist-ura-ex.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ao-no-exorcist-ura-ex.json"
   }
 ]
