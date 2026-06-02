@@ -298,5 +298,15 @@
     "captured_at": "2026-06-02T14:28:33",
     "file": "data/hackg-u-returner.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackg-u-returner.json"
+  },
+  {
+    "slug": "hackg-u-trilogy",
+    "mal_id": 4470,
+    "anime_name": "Hackg U Trilogy",
+    "anime_url": "https://hianime.ad/anime/hackg-u-trilogy",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T14:28:44",
+    "file": "data/hackg-u-trilogy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackg-u-trilogy.json"
   }
 ]
