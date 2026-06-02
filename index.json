@@ -7568,5 +7568,15 @@
     "captured_at": "2026-06-02T22:08:23",
     "file": "data/back-to-the-great-ming.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/back-to-the-great-ming.json"
+  },
+  {
+    "slug": "backflip",
+    "mal_id": 43756,
+    "anime_name": "Backflip",
+    "anime_url": "https://hianime.ad/anime/backflip",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:08:50",
+    "file": "data/backflip.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/backflip.json"
   }
 ]
