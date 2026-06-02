@@ -4868,5 +4868,15 @@
     "captured_at": "2026-06-02T20:28:35",
     "file": "data/angel-heart.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-heart.json"
+  },
+  {
+    "slug": "angel-links",
+    "mal_id": 1226,
+    "anime_name": "Angel Links",
+    "anime_url": "https://hianime.ad/anime/angel-links",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:29:34",
+    "file": "data/angel-links.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-links.json"
   }
 ]
