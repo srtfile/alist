@@ -378,5 +378,15 @@
     "captured_at": "2026-06-02T14:30:30",
     "file": "data/hacksign.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hacksign.json"
+  },
+  {
+    "slug": "hackunison",
+    "mal_id": null,
+    "anime_name": "Hackunison",
+    "anime_url": "https://hianime.ad/anime/hackunison",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T14:31:02",
+    "file": "data/hackunison.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackunison.json"
   }
 ]
