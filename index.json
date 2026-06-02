@@ -3498,5 +3498,15 @@
     "captured_at": "2026-06-02T19:30:12",
     "file": "data/aikatsu-friends.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-friends.json"
+  },
+  {
+    "slug": "aikatsu-friends-kagayaki-no-jewel",
+    "mal_id": 39078,
+    "anime_name": "Aikatsu Friends Kagayaki No Jewel",
+    "anime_url": "https://hianime.ad/anime/aikatsu-friends-kagayaki-no-jewel",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T19:31:13",
+    "file": "data/aikatsu-friends-kagayaki-no-jewel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-friends-kagayaki-no-jewel.json"
   }
 ]
