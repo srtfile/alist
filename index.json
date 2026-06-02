@@ -5128,5 +5128,15 @@
     "captured_at": "2026-06-02T20:37:40",
     "file": "data/anne-of-green-gables.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anne-of-green-gables.json"
+  },
+  {
+    "slug": "anne-shirley",
+    "mal_id": 60334,
+    "anime_name": "Anne Shirley",
+    "anime_url": "https://hianime.ad/anime/anne-shirley",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T20:38:39",
+    "file": "data/anne-shirley.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anne-shirley.json"
   }
 ]
