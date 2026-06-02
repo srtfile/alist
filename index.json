@@ -8458,5 +8458,15 @@
     "captured_at": "2026-06-02T23:30:14",
     "file": "data/battle-arena-toshinden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-arena-toshinden.json"
+  },
+  {
+    "slug": "battle-athletes-victory",
+    "mal_id": 1186,
+    "anime_name": "Battle Athletes Victory",
+    "anime_url": "https://hianime.ad/anime/battle-athletes-victory",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T23:30:25",
+    "file": "data/battle-athletes-victory.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-athletes-victory.json"
   }
 ]
