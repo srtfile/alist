@@ -3748,5 +3748,15 @@
     "captured_at": "2026-06-02T19:44:05",
     "file": "data/aiura.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aiura.json"
+  },
+  {
+    "slug": "aiyous-secret-room",
+    "mal_id": 34393,
+    "anime_name": "Aiyous Secret Room",
+    "anime_url": "https://hianime.ad/anime/aiyous-secret-room",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T19:44:27",
+    "file": "data/aiyous-secret-room.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aiyous-secret-room.json"
   }
 ]
