@@ -2858,5 +2858,15 @@
     "captured_at": "2026-06-02T18:58:58",
     "file": "data/active-raid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/active-raid.json"
+  },
+  {
+    "slug": "active-raid-second",
+    "mal_id": 32301,
+    "anime_name": "Active Raid Second",
+    "anime_url": "https://hianime.ad/anime/active-raid-second",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:59:18",
+    "file": "data/active-raid-second.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/active-raid-second.json"
   }
 ]
