@@ -4938,5 +4938,15 @@
     "captured_at": "2026-06-02T20:31:19",
     "file": "data/angels-feather.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-feather.json"
+  },
+  {
+    "slug": "angels-of-death",
+    "mal_id": 35994,
+    "anime_name": "Angels Of Death",
+    "anime_url": "https://hianime.ad/anime/angels-of-death",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T20:31:32",
+    "file": "data/angels-of-death.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-of-death.json"
   }
 ]
