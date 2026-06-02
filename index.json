@@ -7888,5 +7888,15 @@
     "captured_at": "2026-06-02T22:24:26",
     "file": "data/bakumatsu-gijinden-roman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu-gijinden-roman.json"
+  },
+  {
+    "slug": "bakumatsu-crisis",
+    "mal_id": 38860,
+    "anime_name": "Bakumatsu Crisis",
+    "anime_url": "https://hianime.ad/anime/bakumatsu-crisis",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:24:48",
+    "file": "data/bakumatsu-crisis.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu-crisis.json"
   }
 ]
