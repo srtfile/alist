@@ -1,0 +1,65 @@
+{
+  "anime_name": "Battle Royal High School",
+  "anime_url": "https://hianime.ad/anime/battle-royal-high-school",
+  "slug": "battle-royal-high-school",
+  "mal_id": 24231,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T23:33:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Princess Who Gathers the Remains",
+      "episode_url": "https://hianime.ad/watch/battle-royal-high-school/ep-1",
+      "sub": {
+        "HD-1": {
+          "24231-malep-1_vibeplayer_sub": "https://vibeplayer.site/6827f38f82a08c21",
+          "24231-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6827f38f82a08c21/master.m3u8"
+        },
+        "HD-2": {
+          "24231-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3c59d8c207622e2e367acf522b99e5364h",
+          "24231-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "24231-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ddu5celvup9o",
+          "24231-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "24231-malep-1_vibeplayer_dub": "https://vibeplayer.site/4a3e00e58982be8f",
+          "24231-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4a3e00e58982be8f/master.m3u8"
+        },
+        "HD-2": {
+          "24231-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag53973d55e6fe1b89b1f1cfeab80b70c94h",
+          "24231-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "24231-malep-1_otakuvid_dub": "https://otakuvid.online/embed/tu9ezm4be42y",
+          "24231-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "24231-malep-1_vibeplayer_hsub": "https://vibeplayer.site/146fb1c052877675",
+          "24231-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/146fb1c052877675/master.m3u8"
+        },
+        "HD-2": {
+          "24231-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag65495cffe76233f8b0cbe65c581769fa4h",
+          "24231-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "24231-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vrgsx5piy513",
+          "24231-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "24231-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6rfn6vtm992t",
+          "24231-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "24231-malep-1_playmogo_hsub": "https://playmogo.com/e/bez16ua8lq75",
+          "24231-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
