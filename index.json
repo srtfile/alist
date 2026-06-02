@@ -8548,5 +8548,15 @@
     "captured_at": "2026-06-02T23:33:25",
     "file": "data/battle-royal-high-school.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-royal-high-school.json"
+  },
+  {
+    "slug": "battle-skipper",
+    "mal_id": 24231,
+    "anime_name": "Battle Skipper",
+    "anime_url": "https://hianime.ad/anime/battle-skipper",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T23:33:36",
+    "file": "data/battle-skipper.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-skipper.json"
   }
 ]
