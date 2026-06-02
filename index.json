@@ -728,5 +728,15 @@
     "captured_at": "2026-06-02T14:54:34",
     "file": "data/raw-duel-masters-charge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-charge.json"
+  },
+  {
+    "slug": "raw-duel-masters-cross",
+    "mal_id": 10527,
+    "anime_name": "Raw Duel Masters Cross",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-cross",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T14:55:28",
+    "file": "data/raw-duel-masters-cross.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-cross.json"
   }
 ]
