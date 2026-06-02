@@ -1,0 +1,101 @@
+{
+  "anime_name": "Ayanes High Kick",
+  "anime_url": "https://hianime.ad/anime/ayanes-high-kick",
+  "slug": "ayanes-high-kick",
+  "mal_id": 49221,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T21:55:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/ayanes-high-kick/ep-1",
+      "sub": {
+        "HD-1": {
+          "49221-malep-1_vibeplayer_sub": "https://vibeplayer.site/4732b5ca60862a4d",
+          "49221-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4732b5ca60862a4d/master.m3u8"
+        },
+        "HD-2": {
+          "49221-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6ab75228d25649e82b874e977c1b88bd4h",
+          "49221-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49221-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g7nlgzxjwnly",
+          "49221-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49221-malep-1_playmogo_sub": "https://playmogo.com/e/e9s7azsc4mqy",
+          "49221-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49221-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fbb3582ee5da7be2",
+          "49221-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fbb3582ee5da7be2/master.m3u8"
+        },
+        "HD-2": {
+          "49221-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ageac90cab13381827bb9325e5e42eb44d4h",
+          "49221-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49221-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fawkwiwkrkao",
+          "49221-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49221-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9xy4gw9ajkg6",
+          "49221-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49221-malep-1_playmogo_hsub": "https://playmogo.com/e/h4mp78iis9mi",
+          "49221-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/ayanes-high-kick/ep-2",
+      "sub": {
+        "HD-1": {
+          "49221-malep-2_vibeplayer_sub": "https://vibeplayer.site/6377e3f49c9104ff",
+          "49221-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6377e3f49c9104ff/master.m3u8"
+        },
+        "HD-2": {
+          "49221-malep-2_vibeplayer_sub": "https://vibeplayer.site/agd3ab83b5012985ec18ff6ebaa89627a14h",
+          "49221-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49221-malep-2_otakuvid_sub": "https://otakuvid.online/embed/dsve2e30dmcq",
+          "49221-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49221-malep-2_playmogo_sub": "https://playmogo.com/e/jsqnzd2ue5f7",
+          "49221-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49221-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8d58eea010df8b9c",
+          "49221-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8d58eea010df8b9c/master.m3u8"
+        },
+        "HD-2": {
+          "49221-malep-2_vibeplayer_hsub": "https://vibeplayer.site/age739059da4e1d83342e26e83680fee774h",
+          "49221-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49221-malep-2_otakuhg_hsub": "https://otakuhg.site/e/1dkmsusb1x0q",
+          "49221-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49221-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/al1zik74qmz6",
+          "49221-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49221-malep-2_playmogo_hsub": "https://playmogo.com/e/lh8iabbswqiw",
+          "49221-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
