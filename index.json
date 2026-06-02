@@ -7268,5 +7268,15 @@
     "captured_at": "2026-06-02T21:56:44",
     "file": "data/azumanga-web-daioh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azumanga-web-daioh.json"
+  },
+  {
+    "slug": "azur-lane",
+    "mal_id": 38328,
+    "anime_name": "Azur Lane",
+    "anime_url": "https://hianime.ad/anime/azur-lane",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:56:55",
+    "file": "data/azur-lane.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane.json"
   }
 ]
