@@ -1028,5 +1028,15 @@
     "captured_at": "2026-06-02T15:59:27",
     "file": "data/raw-kaibutsu-kun-1980.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kaibutsu-kun-1980.json"
+  },
+  {
+    "slug": "raw-kashi-no-ki-mokku",
+    "mal_id": 2574,
+    "anime_name": "Raw Kashi No Ki Mokku",
+    "anime_url": "https://hianime.ad/anime/raw-kashi-no-ki-mokku",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T16:02:46",
+    "file": "data/raw-kashi-no-ki-mokku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kashi-no-ki-mokku.json"
   }
 ]
