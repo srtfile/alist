@@ -5868,5 +5868,15 @@
     "captured_at": "2026-06-02T21:03:45",
     "file": "data/aratanari-fukaki-ao.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aratanari-fukaki-ao.json"
+  },
+  {
+    "slug": "arc-the-lad",
+    "mal_id": 55,
+    "anime_name": "Arc The Lad",
+    "anime_url": "https://hianime.ad/anime/arc-the-lad",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T21:04:06",
+    "file": "data/arc-the-lad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arc-the-lad.json"
   }
 ]
