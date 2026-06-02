@@ -1,0 +1,56 @@
+{
+  "anime_name": "Anohana The Flower We Saw That Day The Movie",
+  "anime_url": "https://hianime.ad/anime/anohana-the-flower-we-saw-that-day-the-movie",
+  "slug": "anohana-the-flower-we-saw-that-day-the-movie",
+  "mal_id": 9989,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:40:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Super Peace Busters",
+      "episode_url": "https://hianime.ad/watch/anohana-the-flower-we-saw-that-day-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "9989-malep-1_vibeplayer_sub": "https://vibeplayer.site/fcd7c0f98ac36d56",
+          "9989-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fcd7c0f98ac36d56/master.m3u8"
+        },
+        "HD-2": {
+          "9989-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3572026f5ab4702e45229b21de8f68c04h",
+          "9989-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9989-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xn1gr21350gq",
+          "9989-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "9989-malep-1_playmogo_sub": "https://playmogo.com/e/643fulzf2mz5",
+          "9989-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9989-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f547595c1de406ad",
+          "9989-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f547595c1de406ad/master.m3u8"
+        },
+        "HD-2": {
+          "9989-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga02b0cf85910ed6f3c5474999f4246f44h",
+          "9989-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "9989-malep-1_otakuhg_hsub": "https://otakuhg.site/e/advfvoagep4g",
+          "9989-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9989-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9m2e3zr1fnig",
+          "9989-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9989-malep-1_playmogo_hsub": "https://playmogo.com/e/awps7ihxeume",
+          "9989-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
