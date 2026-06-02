@@ -5458,5 +5458,15 @@
     "captured_at": "2026-06-02T20:49:04",
     "file": "data/aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na.json"
+  },
+  {
+    "slug": "aoharu-x-machinegun",
+    "mal_id": 30205,
+    "anime_name": "Aoharu X Machinegun",
+    "anime_url": "https://hianime.ad/anime/aoharu-x-machinegun",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:49:15",
+    "file": "data/aoharu-x-machinegun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aoharu-x-machinegun.json"
   }
 ]
