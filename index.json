@@ -4858,5 +4858,15 @@
     "captured_at": "2026-06-02T20:28:23",
     "file": "data/angel-densetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-densetsu.json"
+  },
+  {
+    "slug": "angel-heart",
+    "mal_id": 282,
+    "anime_name": "Angel Heart",
+    "anime_url": "https://hianime.ad/anime/angel-heart",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T20:28:35",
+    "file": "data/angel-heart.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-heart.json"
   }
 ]
