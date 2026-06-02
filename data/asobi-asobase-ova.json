@@ -1,0 +1,52 @@
+{
+  "anime_name": "Asobi Asobase Ova",
+  "anime_url": "https://hianime.ad/anime/asobi-asobase-ova",
+  "slug": "asobi-asobase-ova",
+  "mal_id": 37171,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:30:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Equivalent Exchange / Cheap Thrills / Pleasure Seekers / The Kind Pervert",
+      "episode_url": "https://hianime.ad/watch/asobi-asobase-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "37171-malep-1_vibeplayer_sub": "https://vibeplayer.site/ed80388012b73cb8",
+          "37171-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed80388012b73cb8/master.m3u8"
+        },
+        "HD-2": {
+          "37171-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag33afd01e35e09071b3cae6e79aa0e4b34h",
+          "37171-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37171-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rbglokqwtndd",
+          "37171-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37171-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e9b3d74bf7486caa",
+          "37171-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e9b3d74bf7486caa/master.m3u8"
+        },
+        "HD-2": {
+          "37171-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8982de434c11a01770c9ef547419cc364h",
+          "37171-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37171-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ljq7o5wsanb0",
+          "37171-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37171-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rexnbhhmxb5m",
+          "37171-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37171-malep-1_playmogo_hsub": "https://playmogo.com/e/n5rj77lmqlko",
+          "37171-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
