@@ -1018,5 +1018,15 @@
     "captured_at": "2026-06-02T15:58:43",
     "file": "data/raw-kagaku-bouken-tai-tansar-5.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kagaku-bouken-tai-tansar-5.json"
+  },
+  {
+    "slug": "raw-kaibutsu-kun-1980",
+    "mal_id": 3130,
+    "anime_name": "Raw Kaibutsu Kun 1980",
+    "anime_url": "https://hianime.ad/anime/raw-kaibutsu-kun-1980",
+    "total_episodes": 187,
+    "captured_at": "2026-06-02T15:59:27",
+    "file": "data/raw-kaibutsu-kun-1980.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-kaibutsu-kun-1980.json"
   }
 ]
