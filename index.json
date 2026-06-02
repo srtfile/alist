@@ -8528,5 +8528,15 @@
     "captured_at": "2026-06-02T23:32:52",
     "file": "data/battle-of-clay.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-of-clay.json"
+  },
+  {
+    "slug": "battle-programmer-shirase",
+    "mal_id": 579,
+    "anime_name": "Battle Programmer Shirase",
+    "anime_url": "https://hianime.ad/anime/battle-programmer-shirase",
+    "total_episodes": 15,
+    "captured_at": "2026-06-02T23:33:02",
+    "file": "data/battle-programmer-shirase.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-programmer-shirase.json"
   }
 ]
