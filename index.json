@@ -5118,5 +5118,15 @@
     "captured_at": "2026-06-02T20:37:28",
     "file": "data/anju-to-zushioumaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anju-to-zushioumaru.json"
+  },
+  {
+    "slug": "anne-of-green-gables",
+    "mal_id": 283,
+    "anime_name": "Anne Of Green Gables",
+    "anime_url": "https://hianime.ad/anime/anne-of-green-gables",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T20:37:40",
+    "file": "data/anne-of-green-gables.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anne-of-green-gables.json"
   }
 ]
