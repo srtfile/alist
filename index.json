@@ -3298,5 +3298,15 @@
     "captured_at": "2026-06-02T19:19:33",
     "file": "data/ah-my-goddess-flights-of-fancy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-flights-of-fancy.json"
+  },
+  {
+    "slug": "ah-my-goddess-flights-of-fancy-specials",
+    "mal_id": 880,
+    "anime_name": "Ah My Goddess Flights Of Fancy Specials",
+    "anime_url": "https://hianime.ad/anime/ah-my-goddess-flights-of-fancy-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T19:20:02",
+    "file": "data/ah-my-goddess-flights-of-fancy-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-flights-of-fancy-specials.json"
   }
 ]
