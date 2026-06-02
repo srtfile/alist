@@ -908,5 +908,15 @@
     "captured_at": "2026-06-02T15:45:23",
     "file": "data/raw-grimms-fairy-tale-classics.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-grimms-fairy-tale-classics.json"
+  },
+  {
+    "slug": "raw-gu-gu-ganmo",
+    "mal_id": 3020,
+    "anime_name": "Raw Gu Gu Ganmo",
+    "anime_url": "https://hianime.ad/anime/raw-gu-gu-ganmo",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T15:45:57",
+    "file": "data/raw-gu-gu-ganmo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-gu-gu-ganmo.json"
   }
 ]
