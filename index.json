@@ -7018,5 +7018,15 @@
     "captured_at": "2026-06-02T21:47:40",
     "file": "data/attack-on-titan-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-on-titan-ova.json"
+  },
+  {
+    "slug": "attack-on-titan-chronicle",
+    "mal_id": 16498,
+    "anime_name": "Attack On Titan Chronicle",
+    "anime_url": "https://hianime.ad/anime/attack-on-titan-chronicle",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:47:53",
+    "file": "data/attack-on-titan-chronicle.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-on-titan-chronicle.json"
   }
 ]
