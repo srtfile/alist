@@ -708,5 +708,15 @@
     "captured_at": "2026-06-02T14:52:06",
     "file": "data/raw-dokonjou-gaeru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-dokonjou-gaeru.json"
+  },
+  {
+    "slug": "raw-duel-masters-2017",
+    "mal_id": 34905,
+    "anime_name": "Raw Duel Masters 2017",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-2017",
+    "total_episodes": 51,
+    "captured_at": "2026-06-02T14:53:42",
+    "file": "data/raw-duel-masters-2017.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-2017.json"
   }
 ]
