@@ -3388,5 +3388,15 @@
     "captured_at": "2026-06-02T19:22:44",
     "file": "data/ai-no-kusabi-2012.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ai-no-kusabi-2012.json"
+  },
+  {
+    "slug": "ai-no-wakakusa-yama-monogatari",
+    "mal_id": 6075,
+    "anime_name": "Ai No Wakakusa Yama Monogatari",
+    "anime_url": "https://hianime.ad/anime/ai-no-wakakusa-yama-monogatari",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:22:57",
+    "file": "data/ai-no-wakakusa-yama-monogatari.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ai-no-wakakusa-yama-monogatari.json"
   }
 ]
