@@ -1,0 +1,101 @@
+{
+  "anime_name": "Summer",
+  "anime_url": "https://hianime.ad/anime/summer",
+  "slug": "summer",
+  "mal_id": 64104,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T14:28:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Is There Anyone You Like?",
+      "episode_url": "https://hianime.ad/watch/summer/ep-1",
+      "sub": {
+        "HD-1": {
+          "64104-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce6f0fd6dbe52f01",
+          "64104-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce6f0fd6dbe52f01/master.m3u8"
+        },
+        "HD-2": {
+          "64104-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag375579701dafa441478ff58c6a0862dc4h",
+          "64104-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "64104-malep-1_otakuhg_sub": "https://otakuhg.site/e/wqydxa74m3rr",
+          "64104-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "64104-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dzkivgbht2uz",
+          "64104-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "64104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/490ec85f30c5300b",
+          "64104-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/490ec85f30c5300b/master.m3u8"
+        },
+        "HD-2": {
+          "64104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7f320be6989d73ff087cd2f03675cb624h",
+          "64104-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "64104-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ukeqq32q5fgy",
+          "64104-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "64104-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/os7crn0kiw86",
+          "64104-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "64104-malep-1_playmogo_hsub": "https://playmogo.com/e/16d6uodsoobj",
+          "64104-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "I Wish Everyone Could Stay Like This Forever",
+      "episode_url": "https://hianime.ad/watch/summer/ep-2",
+      "sub": {
+        "HD-1": {
+          "64104-malep-2_vibeplayer_sub": "https://vibeplayer.site/a9edb14580958d84",
+          "64104-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a9edb14580958d84/master.m3u8"
+        },
+        "HD-2": {
+          "64104-malep-2_vibeplayer_sub": "https://vibeplayer.site/agd34eda3c41fff6c1f792d0d739c4c7944h",
+          "64104-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "64104-malep-2_otakuhg_sub": "https://otakuhg.site/e/znw3dn9fy6bq",
+          "64104-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "64104-malep-2_otakuvid_sub": "https://otakuvid.online/embed/je8ow5pw2vb1",
+          "64104-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "64104-malep-2_vibeplayer_hsub": "https://vibeplayer.site/517be9ac29c6f54c",
+          "64104-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/517be9ac29c6f54c/master.m3u8"
+        },
+        "HD-2": {
+          "64104-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag6427ccbaf926c97eada44f9ee5eb5ab24h",
+          "64104-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "64104-malep-2_otakuhg_hsub": "https://otakuhg.site/e/yxjzwjb06frl",
+          "64104-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "64104-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/1z04i2ujbf62",
+          "64104-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "64104-malep-2_playmogo_hsub": "https://playmogo.com/e/lfb8x14f1dfa",
+          "64104-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
