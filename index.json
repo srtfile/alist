@@ -8218,5 +8218,15 @@
     "captured_at": "2026-06-02T22:36:40",
     "file": "data/bara-no-hana-to-joe.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bara-no-hana-to-joe.json"
+  },
+  {
+    "slug": "barakamon",
+    "mal_id": 22789,
+    "anime_name": "Barakamon",
+    "anime_url": "https://hianime.ad/anime/barakamon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:36:51",
+    "file": "data/barakamon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barakamon.json"
   }
 ]
