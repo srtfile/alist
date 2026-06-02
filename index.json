@@ -5138,5 +5138,15 @@
     "captured_at": "2026-06-02T20:38:39",
     "file": "data/anne-shirley.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anne-shirley.json"
+  },
+  {
+    "slug": "anne-happy",
+    "mal_id": 31080,
+    "anime_name": "Anne Happy",
+    "anime_url": "https://hianime.ad/anime/anne-happy",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:39:13",
+    "file": "data/anne-happy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anne-happy.json"
   }
 ]
