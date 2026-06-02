@@ -5928,5 +5928,15 @@
     "captured_at": "2026-06-02T21:05:45",
     "file": "data/are-you-ok.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/are-you-ok.json"
+  },
+  {
+    "slug": "are-you-ok-season-2",
+    "mal_id": 38483,
+    "anime_name": "Are You Ok Season 2",
+    "anime_url": "https://hianime.ad/anime/are-you-ok-season-2",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T21:06:08",
+    "file": "data/are-you-ok-season-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/are-you-ok-season-2.json"
   }
 ]
