@@ -8488,5 +8488,15 @@
     "captured_at": "2026-06-02T23:31:18",
     "file": "data/battle-doll-angelic-layer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-doll-angelic-layer.json"
+  },
+  {
+    "slug": "battle-girl-high-school",
+    "mal_id": 33184,
+    "anime_name": "Battle Girl High School",
+    "anime_url": "https://hianime.ad/anime/battle-girl-high-school",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:31:50",
+    "file": "data/battle-girl-high-school.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-girl-high-school.json"
   }
 ]
