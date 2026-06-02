@@ -3988,5 +3988,15 @@
     "captured_at": "2026-06-02T19:51:41",
     "file": "data/aki-sora-yume-no-naka.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aki-sora-yume-no-naka.json"
+  },
+  {
+    "slug": "akiba-maid-war",
+    "mal_id": 52193,
+    "anime_name": "Akiba Maid War",
+    "anime_url": "https://hianime.ad/anime/akiba-maid-war",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:51:53",
+    "file": "data/akiba-maid-war.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akiba-maid-war.json"
   }
 ]
