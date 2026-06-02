@@ -6258,5 +6258,15 @@
     "captured_at": "2026-06-02T21:16:26",
     "file": "data/arknights-perish-in-frost.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-perish-in-frost.json"
+  },
+  {
+    "slug": "arknights-rise-from-ember",
+    "mal_id": 58749,
+    "anime_name": "Arknights Rise From Ember",
+    "anime_url": "https://hianime.ad/anime/arknights-rise-from-ember",
+    "total_episodes": 10,
+    "captured_at": "2026-06-02T21:16:45",
+    "file": "data/arknights-rise-from-ember.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-rise-from-ember.json"
   }
 ]
