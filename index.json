@@ -2608,5 +2608,15 @@
     "captured_at": "2026-06-02T18:49:00",
     "file": "data/a-d-police-to-protect-and-serve.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-d-police-to-protect-and-serve.json"
+  },
+  {
+    "slug": "a-f",
+    "mal_id": 58473,
+    "anime_name": "A F",
+    "anime_url": "https://hianime.ad/anime/a-f",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T18:49:20",
+    "file": "data/a-f.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-f.json"
   }
 ]
