@@ -7258,5 +7258,15 @@
     "captured_at": "2026-06-02T21:56:09",
     "file": "data/azumanga-daioh-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azumanga-daioh-the-animation.json"
+  },
+  {
+    "slug": "azumanga-web-daioh",
+    "mal_id": 66,
+    "anime_name": "Azumanga Web Daioh",
+    "anime_url": "https://hianime.ad/anime/azumanga-web-daioh",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:56:44",
+    "file": "data/azumanga-web-daioh.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azumanga-web-daioh.json"
   }
 ]
