@@ -8278,5 +8278,15 @@
     "captured_at": "2026-06-02T22:38:25",
     "file": "data/bari-bari-densetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bari-bari-densetsu.json"
+  },
+  {
+    "slug": "bari-bari-densetsu-1987",
+    "mal_id": 13333,
+    "anime_name": "Bari Bari Densetsu 1987",
+    "anime_url": "https://hianime.ad/anime/bari-bari-densetsu-1987",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:38:37",
+    "file": "data/bari-bari-densetsu-1987.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bari-bari-densetsu-1987.json"
   }
 ]
