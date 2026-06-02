@@ -4768,5 +4768,15 @@
     "captured_at": "2026-06-02T20:25:36",
     "file": "data/android-announcer-maico-2010.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/android-announcer-maico-2010.json"
+  },
+  {
+    "slug": "android-kikaider",
+    "mal_id": 598,
+    "anime_name": "Android Kikaider",
+    "anime_url": "https://hianime.ad/anime/android-kikaider",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:26:10",
+    "file": "data/android-kikaider.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/android-kikaider.json"
   }
 ]
