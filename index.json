@@ -168,5 +168,15 @@
     "captured_at": "2026-06-02T06:04:57",
     "file": "data/yowayowa-teacher.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/yowayowa-teacher.json"
+  },
+  {
+    "slug": "go-for-it-nakamura",
+    "mal_id": 59551,
+    "anime_name": "Go For It Nakamura",
+    "anime_url": "https://hianime.ad/anime/go-for-it-nakamura",
+    "total_episodes": 10,
+    "captured_at": "2026-06-02T06:20:45",
+    "file": "data/go-for-it-nakamura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-for-it-nakamura.json"
   }
 ]
