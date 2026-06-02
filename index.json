@@ -6018,5 +6018,15 @@
     "captured_at": "2026-06-02T21:09:17",
     "file": "data/aria-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-animation.json"
+  },
+  {
+    "slug": "aria-the-avvenire",
+    "mal_id": 3297,
+    "anime_name": "Aria The Avvenire",
+    "anime_url": "https://hianime.ad/anime/aria-the-avvenire",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T21:09:40",
+    "file": "data/aria-the-avvenire.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-avvenire.json"
   }
 ]
