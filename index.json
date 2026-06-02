@@ -5068,5 +5068,15 @@
     "captured_at": "2026-06-02T20:35:27",
     "file": "data/anime-de-training-xx.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-de-training-xx.json"
+  },
+  {
+    "slug": "anime-kabibarasan",
+    "mal_id": 42514,
+    "anime_name": "Anime Kabibarasan",
+    "anime_url": "https://hianime.ad/anime/anime-kabibarasan",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T20:35:50",
+    "file": "data/anime-kabibarasan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-kabibarasan.json"
   }
 ]
