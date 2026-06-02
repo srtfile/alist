@@ -3928,5 +3928,15 @@
     "captured_at": "2026-06-02T19:49:51",
     "file": "data/akatsuki-no-yona-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akatsuki-no-yona-ova.json"
+  },
+  {
+    "slug": "akazukin-chacha-ova",
+    "mal_id": 103,
+    "anime_name": "Akazukin Chacha Ova",
+    "anime_url": "https://hianime.ad/anime/akazukin-chacha-ova",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T19:50:05",
+    "file": "data/akazukin-chacha-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akazukin-chacha-ova.json"
   }
 ]
