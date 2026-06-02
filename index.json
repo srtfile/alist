@@ -9038,5 +9038,15 @@
     "captured_at": "2026-06-02T23:55:44",
     "file": "data/belle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/belle.json"
+  },
+  {
+    "slug": "bem",
+    "mal_id": 39221,
+    "anime_name": "Bem",
+    "anime_url": "https://hianime.ad/anime/bem",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:56:00",
+    "file": "data/bem.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bem.json"
   }
 ]
