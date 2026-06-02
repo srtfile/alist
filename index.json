@@ -4898,5 +4898,15 @@
     "captured_at": "2026-06-02T20:30:20",
     "file": "data/angel-tales-6229.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-tales-6229.json"
+  },
+  {
+    "slug": "angels-3piece",
+    "mal_id": 34177,
+    "anime_name": "Angels 3Piece",
+    "anime_url": "https://hianime.ad/anime/angels-3piece",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:30:32",
+    "file": "data/angels-3piece.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-3piece.json"
   }
 ]
