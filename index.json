@@ -878,5 +878,15 @@
     "captured_at": "2026-06-02T15:41:05",
     "file": "data/raw-ganso-tensai-bakabon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-ganso-tensai-bakabon.json"
+  },
+  {
+    "slug": "raw-general-inakappe",
+    "mal_id": 8786,
+    "anime_name": "Raw General Inakappe",
+    "anime_url": "https://hianime.ad/anime/raw-general-inakappe",
+    "total_episodes": 104,
+    "captured_at": "2026-06-02T15:42:58",
+    "file": "data/raw-general-inakappe.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-general-inakappe.json"
   }
 ]
