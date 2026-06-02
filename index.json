@@ -5948,5 +5948,15 @@
     "captured_at": "2026-06-02T21:06:42",
     "file": "data/area-88.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/area-88.json"
+  },
+  {
+    "slug": "area-88-tv",
+    "mal_id": 284,
+    "anime_name": "Area 88 Tv",
+    "anime_url": "https://hianime.ad/anime/area-88-tv",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:06:55",
+    "file": "data/area-88-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/area-88-tv.json"
   }
 ]
