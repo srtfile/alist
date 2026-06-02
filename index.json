@@ -5318,5 +5318,15 @@
     "captured_at": "2026-06-02T20:43:26",
     "file": "data/ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen.json"
+  },
+  {
+    "slug": "antidote",
+    "mal_id": null,
+    "anime_name": "Antidote",
+    "anime_url": "https://hianime.ad/anime/antidote",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:43:44",
+    "file": "data/antidote.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/antidote.json"
   }
 ]
