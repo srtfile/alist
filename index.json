@@ -7178,5 +7178,15 @@
     "captured_at": "2026-06-02T21:53:40",
     "file": "data/avenger.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/avenger.json"
+  },
+  {
+    "slug": "awkward-senpai",
+    "mal_id": 60531,
+    "anime_name": "Awkward Senpai",
+    "anime_url": "https://hianime.ad/anime/awkward-senpai",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:54:03",
+    "file": "data/awkward-senpai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/awkward-senpai.json"
   }
 ]
