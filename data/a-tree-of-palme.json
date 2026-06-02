@@ -1,0 +1,69 @@
+{
+  "anime_name": "A Tree Of Palme",
+  "anime_url": "https://hianime.ad/anime/a-tree-of-palme",
+  "slug": "a-tree-of-palme",
+  "mal_id": 58437,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T18:44:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Liam Tries Using Magic For the First Time",
+      "episode_url": "https://hianime.ad/watch/a-tree-of-palme/ep-1",
+      "sub": {
+        "HD-1": {
+          "58437-malep-1_vibeplayer_sub": "https://vibeplayer.site/658c242be60b4f83",
+          "58437-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/658c242be60b4f83/master.m3u8"
+        },
+        "HD-2": {
+          "58437-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf12c105a0e4735b54d73ece1436785f54h",
+          "58437-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58437-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kc2crydzb8pt",
+          "58437-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58437-malep-1_playmogo_sub": "https://playmogo.com/e/ac2qvnepf4sw",
+          "58437-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "58437-malep-1_vibeplayer_dub": "https://vibeplayer.site/afed8ddcad6c61a3",
+          "58437-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/afed8ddcad6c61a3/master.m3u8"
+        },
+        "HD-2": {
+          "58437-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag59272d005d2f6b716c38757fcc278c0e4h",
+          "58437-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "58437-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nebq8nchzq52",
+          "58437-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "58437-malep-1_playmogo_dub": "https://playmogo.com/e/d9uwaja2kla5",
+          "58437-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "58437-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7160b417accccb70",
+          "58437-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7160b417accccb70/master.m3u8"
+        },
+        "HD-2": {
+          "58437-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag50ca1fa59fd8d490213585d77a30d01c4h",
+          "58437-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58437-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qio4z8pl93fg",
+          "58437-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58437-malep-1_playmogo_hsub": "https://playmogo.com/e/jfn32fbx9g4w",
+          "58437-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
