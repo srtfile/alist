@@ -3858,5 +3858,15 @@
     "captured_at": "2026-06-02T19:47:12",
     "file": "data/akakill-theater.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akakill-theater.json"
+  },
+  {
+    "slug": "akame-ga-kill",
+    "mal_id": 22199,
+    "anime_name": "Akame Ga Kill",
+    "anime_url": "https://hianime.ad/anime/akame-ga-kill",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T19:47:46",
+    "file": "data/akame-ga-kill.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akame-ga-kill.json"
   }
 ]
