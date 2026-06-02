@@ -5188,5 +5188,15 @@
     "captured_at": "2026-06-02T20:40:22",
     "file": "data/anonymous-noise.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anonymous-noise.json"
+  },
+  {
+    "slug": "another",
+    "mal_id": 11111,
+    "anime_name": "Another",
+    "anime_url": "https://hianime.ad/anime/another",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:40:44",
+    "file": "data/another.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/another.json"
   }
 ]
