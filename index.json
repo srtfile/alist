@@ -6768,5 +6768,15 @@
     "captured_at": "2026-06-02T21:33:43",
     "file": "data/assemble-insert.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assemble-insert.json"
+  },
+  {
+    "slug": "astarottes-toy",
+    "mal_id": 9736,
+    "anime_name": "Astarottes Toy",
+    "anime_url": "https://hianime.ad/anime/astarottes-toy",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:33:56",
+    "file": "data/astarottes-toy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astarottes-toy.json"
   }
 ]
