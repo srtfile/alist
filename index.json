@@ -588,5 +588,15 @@
     "captured_at": "2026-06-02T14:41:12",
     "file": "data/raw-bucket-de-gohan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-bucket-de-gohan.json"
+  },
+  {
+    "slug": "raw-bumpety-boo",
+    "mal_id": 3434,
+    "anime_name": "Raw Bumpety Boo",
+    "anime_url": "https://hianime.ad/anime/raw-bumpety-boo",
+    "total_episodes": 65,
+    "captured_at": "2026-06-02T14:41:38",
+    "file": "data/raw-bumpety-boo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-bumpety-boo.json"
   }
 ]
