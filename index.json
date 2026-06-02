@@ -7378,5 +7378,15 @@
     "captured_at": "2026-06-02T22:00:01",
     "file": "data/b-b-fish.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/b-b-fish.json"
+  },
+  {
+    "slug": "b-king",
+    "mal_id": 7817,
+    "anime_name": "B King",
+    "anime_url": "https://hianime.ad/anime/b-king",
+    "total_episodes": 16,
+    "captured_at": "2026-06-02T22:00:13",
+    "file": "data/b-king.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/b-king.json"
   }
 ]
