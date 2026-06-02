@@ -1,0 +1,52 @@
+{
+  "anime_name": "Arabian Nights Sinbads Adventures",
+  "anime_url": "https://hianime.ad/anime/arabian-nights-sinbads-adventures",
+  "slug": "arabian-nights-sinbads-adventures",
+  "mal_id": 2825,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:00:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Cast Off!",
+      "episode_url": "https://hianime.ad/watch/arabian-nights-sinbads-adventures/ep-1",
+      "sub": {
+        "HD-1": {
+          "2825-malep-1_vibeplayer_sub": "https://vibeplayer.site/70c668f21a139f7a",
+          "2825-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70c668f21a139f7a/master.m3u8"
+        },
+        "HD-2": {
+          "2825-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag80c69d674ac77444a7ac503aca16eb8b4h",
+          "2825-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "2825-malep-1_otakuhg_sub": "https://otakuhg.site/e/ou9w4d4j7vt7",
+          "2825-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2825-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1jaof0x05ava",
+          "2825-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2825-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb4bdb2745ff8d1e",
+          "2825-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb4bdb2745ff8d1e/master.m3u8"
+        },
+        "HD-2": {
+          "2825-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb8bc2ffe349dd3b567da167bc5308e2d4h",
+          "2825-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2825-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7m5vvta6l3n1",
+          "2825-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2825-malep-1_playmogo_hsub": "https://playmogo.com/e/sb9iu53w5y5b",
+          "2825-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
