@@ -1308,5 +1308,15 @@
     "captured_at": "2026-06-02T16:48:27",
     "file": "data/raw-rerere-no-tensai-bakabon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-rerere-no-tensai-bakabon.json"
+  },
+  {
+    "slug": "raw-sally-the-witch",
+    "mal_id": 3356,
+    "anime_name": "Raw Sally The Witch",
+    "anime_url": "https://hianime.ad/anime/raw-sally-the-witch",
+    "total_episodes": 109,
+    "captured_at": "2026-06-02T16:49:00",
+    "file": "data/raw-sally-the-witch.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-sally-the-witch.json"
   }
 ]
