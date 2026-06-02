@@ -1538,5 +1538,15 @@
     "captured_at": "2026-06-02T17:08:38",
     "file": "data/100-meters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/100-meters.json"
+  },
+  {
+    "slug": "100-sleeping-princes-and-the-kingdom-of-dreams",
+    "mal_id": 33966,
+    "anime_name": "100 Sleeping Princes And The Kingdom Of Dreams",
+    "anime_url": "https://hianime.ad/anime/100-sleeping-princes-and-the-kingdom-of-dreams",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:08:50",
+    "file": "data/100-sleeping-princes-and-the-kingdom-of-dreams.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/100-sleeping-princes-and-the-kingdom-of-dreams.json"
   }
 ]
