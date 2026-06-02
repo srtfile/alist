@@ -7968,5 +7968,15 @@
     "captured_at": "2026-06-02T22:27:23",
     "file": "data/baldr-force-exe-resolution.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baldr-force-exe-resolution.json"
+  },
+  {
+    "slug": "bamboo-blade",
+    "mal_id": 2986,
+    "anime_name": "Bamboo Blade",
+    "anime_url": "https://hianime.ad/anime/bamboo-blade",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T22:27:38",
+    "file": "data/bamboo-blade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bamboo-blade.json"
   }
 ]
