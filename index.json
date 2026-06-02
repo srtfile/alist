@@ -3288,5 +3288,15 @@
     "captured_at": "2026-06-02T19:19:19",
     "file": "data/ah-my-goddess-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-ova.json"
+  },
+  {
+    "slug": "ah-my-goddess-flights-of-fancy",
+    "mal_id": 880,
+    "anime_name": "Ah My Goddess Flights Of Fancy",
+    "anime_url": "https://hianime.ad/anime/ah-my-goddess-flights-of-fancy",
+    "total_episodes": 22,
+    "captured_at": "2026-06-02T19:19:33",
+    "file": "data/ah-my-goddess-flights-of-fancy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-flights-of-fancy.json"
   }
 ]
