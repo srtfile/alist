@@ -1948,5 +1948,15 @@
     "captured_at": "2026-06-02T17:23:34",
     "file": "data/a-certain-scientific-railgun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-certain-scientific-railgun.json"
+  },
+  {
+    "slug": "a-certain-scientific-railgun-s",
+    "mal_id": 16049,
+    "anime_name": "A Certain Scientific Railgun S",
+    "anime_url": "https://hianime.ad/anime/a-certain-scientific-railgun-s",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T17:24:08",
+    "file": "data/a-certain-scientific-railgun-s.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-certain-scientific-railgun-s.json"
   }
 ]
