@@ -5728,5 +5728,15 @@
     "captured_at": "2026-06-02T20:58:17",
     "file": "data/aquarion-evol.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion-evol.json"
+  },
+  {
+    "slug": "aquarion-logos",
+    "mal_id": 30382,
+    "anime_name": "Aquarion Logos",
+    "anime_url": "https://hianime.ad/anime/aquarion-logos",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T20:58:53",
+    "file": "data/aquarion-logos.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion-logos.json"
   }
 ]
