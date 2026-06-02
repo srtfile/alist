@@ -1,0 +1,44 @@
+{
+  "anime_name": "A Rhapsody Called Lucy The Very First Song",
+  "anime_url": "https://hianime.ad/anime/a-rhapsody-called-lucy-the-very-first-song",
+  "slug": "a-rhapsody-called-lucy-the-very-first-song",
+  "mal_id": 2924,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:48:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Eve",
+      "episode_url": "https://hianime.ad/watch/a-rhapsody-called-lucy-the-very-first-song/ep-1",
+      "sub": {
+        "HD-1": {
+          "2924-malep-1_vibeplayer_sub": "https://vibeplayer.site/d8bb7ae1d3313650",
+          "2924-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8bb7ae1d3313650/master.m3u8"
+        },
+        "HD-2": {
+          "2924-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag50b7905689f00ec404309fca1fd1783b4h",
+          "2924-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2924-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vfknb5q6z7od",
+          "2924-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2924-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0a2d1c7b15d2b7d3",
+          "2924-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0a2d1c7b15d2b7d3/master.m3u8"
+        },
+        "HD-2": {
+          "2924-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8316801c9c101c3b4f7233145e3989f44h",
+          "2924-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2924-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x0h223t8jwc9",
+          "2924-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
