@@ -5718,5 +5718,15 @@
     "captured_at": "2026-06-02T20:57:42",
     "file": "data/aquarion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion.json"
+  },
+  {
+    "slug": "aquarion-evol",
+    "mal_id": 10447,
+    "anime_name": "Aquarion Evol",
+    "anime_url": "https://hianime.ad/anime/aquarion-evol",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T20:58:17",
+    "file": "data/aquarion-evol.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion-evol.json"
   }
 ]
