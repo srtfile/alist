@@ -3998,5 +3998,15 @@
     "captured_at": "2026-06-02T19:51:53",
     "file": "data/akiba-maid-war.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akiba-maid-war.json"
+  },
+  {
+    "slug": "akiba-chan",
+    "mal_id": 5304,
+    "anime_name": "Akiba Chan",
+    "anime_url": "https://hianime.ad/anime/akiba-chan",
+    "total_episodes": 10,
+    "captured_at": "2026-06-02T19:52:16",
+    "file": "data/akiba-chan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akiba-chan.json"
   }
 ]
