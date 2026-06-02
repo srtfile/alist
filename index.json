@@ -3098,5 +3098,15 @@
     "captured_at": "2026-06-02T19:06:39",
     "file": "data/against-the-sky-supreme.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/against-the-sky-supreme.json"
+  },
+  {
+    "slug": "agate",
+    "mal_id": 244,
+    "anime_name": "Agate",
+    "anime_url": "https://hianime.ad/anime/agate",
+    "total_episodes": 15,
+    "captured_at": "2026-06-02T19:12:13",
+    "file": "data/agate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/agate.json"
   }
 ]
