@@ -518,5 +518,15 @@
     "captured_at": "2026-06-02T14:35:56",
     "file": "data/raw-around-the-world-with-willy-fog.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-around-the-world-with-willy-fog.json"
+  },
+  {
+    "slug": "raw-asari-chan",
+    "mal_id": 6629,
+    "anime_name": "Raw Asari Chan",
+    "anime_url": "https://hianime.ad/anime/raw-asari-chan",
+    "total_episodes": 54,
+    "captured_at": "2026-06-02T14:36:28",
+    "file": "data/raw-asari-chan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-asari-chan.json"
   }
 ]
