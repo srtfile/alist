@@ -2648,5 +2648,15 @@
     "captured_at": "2026-06-02T18:50:10",
     "file": "data/a3-season-spring-summer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a3-season-spring-summer.json"
+  },
+  {
+    "slug": "aa-megami-sama-tv-specials",
+    "mal_id": 50,
+    "anime_name": "Aa Megami Sama Tv Specials",
+    "anime_url": "https://hianime.ad/anime/aa-megami-sama-tv-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T18:50:30",
+    "file": "data/aa-megami-sama-tv-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aa-megami-sama-tv-specials.json"
   }
 ]
