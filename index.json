@@ -7638,5 +7638,15 @@
     "captured_at": "2026-06-02T22:10:23",
     "file": "data/baka-test-summon-the-beasts.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-test-summon-the-beasts.json"
+  },
+  {
+    "slug": "baka-test-summon-the-beasts-ova-matsuri",
+    "mal_id": 6347,
+    "anime_name": "Baka Test Summon The Beasts Ova Matsuri",
+    "anime_url": "https://hianime.ad/anime/baka-test-summon-the-beasts-ova-matsuri",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T22:10:46",
+    "file": "data/baka-test-summon-the-beasts-ova-matsuri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baka-test-summon-the-beasts-ova-matsuri.json"
   }
 ]
