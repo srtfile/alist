@@ -5878,5 +5878,15 @@
     "captured_at": "2026-06-02T21:04:06",
     "file": "data/arc-the-lad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arc-the-lad.json"
+  },
+  {
+    "slug": "arcade-gamer-fubuki",
+    "mal_id": 59689,
+    "anime_name": "Arcade Gamer Fubuki",
+    "anime_url": "https://hianime.ad/anime/arcade-gamer-fubuki",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T21:04:43",
+    "file": "data/arcade-gamer-fubuki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arcade-gamer-fubuki.json"
   }
 ]
