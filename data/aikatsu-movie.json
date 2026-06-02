@@ -1,0 +1,52 @@
+{
+  "anime_name": "Aikatsu Movie",
+  "anime_url": "https://hianime.ad/anime/aikatsu-movie",
+  "slug": "aikatsu-movie",
+  "mal_id": 15061,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:38:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Can Become an Idol?",
+      "episode_url": "https://hianime.ad/watch/aikatsu-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "15061-malep-1_vibeplayer_sub": "https://vibeplayer.site/a3e71b2c1f5b00b0",
+          "15061-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3e71b2c1f5b00b0/master.m3u8"
+        },
+        "HD-2": {
+          "15061-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7290718670ce362ceb7cba04ada2efb44h",
+          "15061-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15061-malep-1_otakuvid_sub": "https://otakuvid.online/embed/igq5uyb86y89",
+          "15061-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e743bb2602a73eb0",
+          "15061-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e743bb2602a73eb0/master.m3u8"
+        },
+        "HD-2": {
+          "15061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag80e2df92e1e972d4587b8a515ab272544h",
+          "15061-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "15061-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4l046hcy4rd6",
+          "15061-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15061-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x2uvrzfnzxk6",
+          "15061-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15061-malep-1_playmogo_hsub": "https://playmogo.com/e/do1uzv83oh69",
+          "15061-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
