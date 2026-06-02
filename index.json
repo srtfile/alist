@@ -5538,5 +5538,15 @@
     "captured_at": "2026-06-02T20:51:00",
     "file": "data/aooni-the-blue-monster.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aooni-the-blue-monster.json"
+  },
+  {
+    "slug": "ape-escape",
+    "mal_id": 1872,
+    "anime_name": "Ape Escape",
+    "anime_url": "https://hianime.ad/anime/ape-escape",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T20:51:24",
+    "file": "data/ape-escape.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ape-escape.json"
   }
 ]
