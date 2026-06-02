@@ -1258,5 +1258,15 @@
     "captured_at": "2026-06-02T16:35:31",
     "file": "data/raw-perman-1983.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-perman-1983.json"
+  },
+  {
+    "slug": "raw-pro-golfer-saru",
+    "mal_id": 17315,
+    "anime_name": "Raw Pro Golfer Saru",
+    "anime_url": "https://hianime.ad/anime/raw-pro-golfer-saru",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T16:44:26",
+    "file": "data/raw-pro-golfer-saru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-pro-golfer-saru.json"
   }
 ]
