@@ -5588,5 +5588,15 @@
     "captured_at": "2026-06-02T20:52:57",
     "file": "data/apocalypse-zero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apocalypse-zero.json"
+  },
+  {
+    "slug": "apotheosis",
+    "mal_id": null,
+    "anime_name": "Apotheosis",
+    "anime_url": "https://hianime.ad/anime/apotheosis",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T20:53:09",
+    "file": "data/apotheosis.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apotheosis.json"
   }
 ]
