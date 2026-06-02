@@ -2718,5 +2718,15 @@
     "captured_at": "2026-06-02T18:52:18",
     "file": "data/acca-13-territory-inspection-dept.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/acca-13-territory-inspection-dept.json"
+  },
+  {
+    "slug": "accel-world",
+    "mal_id": 11759,
+    "anime_name": "Accel World",
+    "anime_url": "https://hianime.ad/anime/accel-world",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T18:52:38",
+    "file": "data/accel-world.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/accel-world.json"
   }
 ]
