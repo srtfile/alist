@@ -8918,5 +8918,15 @@
     "captured_at": "2026-06-02T23:50:06",
     "file": "data/beatless.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beatless.json"
+  },
+  {
+    "slug": "beatless-final-stage",
+    "mal_id": 38020,
+    "anime_name": "Beatless Final Stage",
+    "anime_url": "https://hianime.ad/anime/beatless-final-stage",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T23:50:34",
+    "file": "data/beatless-final-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beatless-final-stage.json"
   }
 ]
