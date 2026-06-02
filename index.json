@@ -4058,5 +4058,15 @@
     "captured_at": "2026-06-02T19:53:55",
     "file": "data/akuei-to-gacchinpo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuei-to-gacchinpo.json"
+  },
+  {
+    "slug": "akuemon",
+    "mal_id": 61125,
+    "anime_name": "Akuemon",
+    "anime_url": "https://hianime.ad/anime/akuemon",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:54:19",
+    "file": "data/akuemon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuemon.json"
   }
 ]
