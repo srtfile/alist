@@ -1,0 +1,97 @@
+{
+  "anime_name": "Bari Bari Densetsu",
+  "anime_url": "https://hianime.ad/anime/bari-bari-densetsu",
+  "slug": "bari-bari-densetsu",
+  "mal_id": 13333,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T22:38:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Running and Inviting",
+      "episode_url": "https://hianime.ad/watch/bari-bari-densetsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "13333-malep-1_vibeplayer_sub": "https://vibeplayer.site/ff8753d0abe4ffba",
+          "13333-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff8753d0abe4ffba/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag789421beb7398599314e0e7f67c3770d4h",
+          "13333-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gcp1tofrky9o",
+          "13333-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "13333-malep-1_playmogo_sub": "https://playmogo.com/e/v6178rxmoawr",
+          "13333-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ada8eb14d0faa4fa",
+          "13333-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ada8eb14d0faa4fa/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag30fc415f77b4701bf9c52179c2f74b154h",
+          "13333-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "13333-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qk3ojab4uoc9",
+          "13333-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vgs4kmdpwzrh",
+          "13333-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13333-malep-1_playmogo_hsub": "https://playmogo.com/e/fzrj5cis9e23",
+          "13333-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gathering and Struggling",
+      "episode_url": "https://hianime.ad/watch/bari-bari-densetsu/ep-2",
+      "sub": {
+        "HD-1": {
+          "13333-malep-2_vibeplayer_sub": "https://vibeplayer.site/f586b0044f92fe4d",
+          "13333-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f586b0044f92fe4d/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag1a957943572a45b0127fea3658c1d8084h",
+          "13333-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-2_otakuvid_sub": "https://otakuvid.online/embed/80i957tdd7nv",
+          "13333-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13333-malep-2_vibeplayer_hsub": "https://vibeplayer.site/c4d948dc43fb08a5",
+          "13333-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c4d948dc43fb08a5/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag24a01a785fc9e5d0d75ead6f32309c654h",
+          "13333-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "13333-malep-2_otakuhg_hsub": "https://otakuhg.site/e/kuzf64wbceos",
+          "13333-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/av9wg6ztl1oi",
+          "13333-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13333-malep-2_playmogo_hsub": "https://playmogo.com/e/ds49aplgbmpd",
+          "13333-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
