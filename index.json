@@ -5018,5 +5018,15 @@
     "captured_at": "2026-06-02T20:34:15",
     "file": "data/animal-treasure-island.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/animal-treasure-island.json"
+  },
+  {
+    "slug": "animated-classics-of-japanese-literature",
+    "mal_id": 4723,
+    "anime_name": "Animated Classics Of Japanese Literature",
+    "anime_url": "https://hianime.ad/anime/animated-classics-of-japanese-literature",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T20:34:26",
+    "file": "data/animated-classics-of-japanese-literature.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/animated-classics-of-japanese-literature.json"
   }
 ]
