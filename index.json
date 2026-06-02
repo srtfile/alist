@@ -6238,5 +6238,15 @@
     "captured_at": "2026-06-02T21:15:55",
     "file": "data/arknights-animation-prelude-to-dawn.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-animation-prelude-to-dawn.json"
+  },
+  {
+    "slug": "arknights-holy-knight-light",
+    "mal_id": 2221,
+    "anime_name": "Arknights Holy Knight Light",
+    "anime_url": "https://hianime.ad/anime/arknights-holy-knight-light",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:16:14",
+    "file": "data/arknights-holy-knight-light.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-holy-knight-light.json"
   }
 ]
