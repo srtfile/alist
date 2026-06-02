@@ -8248,5 +8248,15 @@
     "captured_at": "2026-06-02T22:37:38",
     "file": "data/barangay-143-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barangay-143-2nd-season.json"
+  },
+  {
+    "slug": "barefoot-gen",
+    "mal_id": 44276,
+    "anime_name": "Barefoot Gen",
+    "anime_url": "https://hianime.ad/anime/barefoot-gen",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:38:00",
+    "file": "data/barefoot-gen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barefoot-gen.json"
   }
 ]
