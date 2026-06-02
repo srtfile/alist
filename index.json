@@ -438,5 +438,15 @@
     "captured_at": "2026-06-02T14:32:07",
     "file": "data/deji-meets-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deji-meets-girl.json"
+  },
+  {
+    "slug": "ippon-again",
+    "mal_id": 49376,
+    "anime_name": "Ippon Again",
+    "anime_url": "https://hianime.ad/anime/ippon-again",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T14:32:27",
+    "file": "data/ippon-again.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ippon-again.json"
   }
 ]
