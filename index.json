@@ -3698,5 +3698,15 @@
     "captured_at": "2026-06-02T19:42:06",
     "file": "data/air-master.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-master.json"
+  },
+  {
+    "slug": "air-the-movie",
+    "mal_id": 6822,
+    "anime_name": "Air The Movie",
+    "anime_url": "https://hianime.ad/anime/air-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:42:42",
+    "file": "data/air-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-the-movie.json"
   }
 ]
