@@ -5058,5 +5058,15 @@
     "captured_at": "2026-06-02T20:35:04",
     "file": "data/anime-de-training-ex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-de-training-ex.json"
+  },
+  {
+    "slug": "anime-de-training-xx",
+    "mal_id": 33746,
+    "anime_name": "Anime De Training Xx",
+    "anime_url": "https://hianime.ad/anime/anime-de-training-xx",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:35:27",
+    "file": "data/anime-de-training-xx.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-de-training-xx.json"
   }
 ]
