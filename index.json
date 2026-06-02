@@ -1178,5 +1178,15 @@
     "captured_at": "2026-06-02T16:19:51",
     "file": "data/raw-microid-s.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-microid-s.json"
+  },
+  {
+    "slug": "raw-mojakou",
+    "mal_id": 2736,
+    "anime_name": "Raw Mojakou",
+    "anime_url": "https://hianime.ad/anime/raw-mojakou",
+    "total_episodes": 74,
+    "captured_at": "2026-06-02T16:20:27",
+    "file": "data/raw-mojakou.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mojakou.json"
   }
 ]
