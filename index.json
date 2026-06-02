@@ -8398,5 +8398,15 @@
     "captured_at": "2026-06-02T22:43:06",
     "file": "data/bastions.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bastions.json"
+  },
+  {
+    "slug": "batman-ninja",
+    "mal_id": 58725,
+    "anime_name": "Batman Ninja",
+    "anime_url": "https://hianime.ad/anime/batman-ninja",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:43:22",
+    "file": "data/batman-ninja.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/batman-ninja.json"
   }
 ]
