@@ -8388,5 +8388,15 @@
     "captured_at": "2026-06-02T22:42:45",
     "file": "data/bastard-heavy-metal-dark-fantasy-part-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bastard-heavy-metal-dark-fantasy-part-2.json"
+  },
+  {
+    "slug": "bastions",
+    "mal_id": 55305,
+    "anime_name": "Bastions",
+    "anime_url": "https://hianime.ad/anime/bastions",
+    "total_episodes": 5,
+    "captured_at": "2026-06-02T22:43:06",
+    "file": "data/bastions.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bastions.json"
   }
 ]
