@@ -3708,5 +3708,15 @@
     "captured_at": "2026-06-02T19:42:42",
     "file": "data/air-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-the-movie.json"
+  },
+  {
+    "slug": "aiseki-mogol-girl",
+    "mal_id": 36073,
+    "anime_name": "Aiseki Mogol Girl",
+    "anime_url": "https://hianime.ad/anime/aiseki-mogol-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:42:54",
+    "file": "data/aiseki-mogol-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aiseki-mogol-girl.json"
   }
 ]
