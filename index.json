@@ -8568,5 +8568,15 @@
     "captured_at": "2026-06-02T23:33:48",
     "file": "data/battle-spirits-brave.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-brave.json"
+  },
+  {
+    "slug": "battle-spirits-heroes",
+    "mal_id": 11017,
+    "anime_name": "Battle Spirits Heroes",
+    "anime_url": "https://hianime.ad/anime/battle-spirits-heroes",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T23:34:42",
+    "file": "data/battle-spirits-heroes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-heroes.json"
   }
 ]
