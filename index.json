@@ -3788,5 +3788,15 @@
     "captured_at": "2026-06-02T19:45:32",
     "file": "data/ajin-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ajin-ova.json"
+  },
+  {
+    "slug": "ajin-demi-human",
+    "mal_id": 31580,
+    "anime_name": "Ajin Demi Human",
+    "anime_url": "https://hianime.ad/anime/ajin-demi-human",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:45:46",
+    "file": "data/ajin-demi-human.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ajin-demi-human.json"
   }
 ]
