@@ -3308,5 +3308,15 @@
     "captured_at": "2026-06-02T19:20:02",
     "file": "data/ah-my-goddess-flights-of-fancy-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-flights-of-fancy-specials.json"
+  },
+  {
+    "slug": "ah-my-goddess-the-movie",
+    "mal_id": 303,
+    "anime_name": "Ah My Goddess The Movie",
+    "anime_url": "https://hianime.ad/anime/ah-my-goddess-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:20:14",
+    "file": "data/ah-my-goddess-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-goddess-the-movie.json"
   }
 ]
