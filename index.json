@@ -798,5 +798,15 @@
     "captured_at": "2026-06-02T14:59:56",
     "file": "data/raw-duel-masters-vs.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-vs.json"
+  },
+  {
+    "slug": "raw-duel-masters-vsr",
+    "mal_id": 29687,
+    "anime_name": "Raw Duel Masters Vsr",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-vsr",
+    "total_episodes": 51,
+    "captured_at": "2026-06-02T15:00:48",
+    "file": "data/raw-duel-masters-vsr.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-vsr.json"
   }
 ]
