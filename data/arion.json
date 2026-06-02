@@ -1,0 +1,48 @@
+{
+  "anime_name": "Arion",
+  "anime_url": "https://hianime.ad/anime/arion",
+  "slug": "arion",
+  "mal_id": 38235,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:15:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gate to the World",
+      "episode_url": "https://hianime.ad/watch/arion/ep-1",
+      "sub": {
+        "HD-1": {
+          "38235-malep-1_vibeplayer_sub": "https://vibeplayer.site/2b134e7dace19ac3",
+          "38235-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2b134e7dace19ac3/master.m3u8"
+        },
+        "HD-2": {
+          "38235-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag282216401b718ddd910d06324ed7ddbc4h",
+          "38235-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38235-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6b9h65z0xx39",
+          "38235-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b8d7c3c13601c42b",
+          "38235-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8d7c3c13601c42b/master.m3u8"
+        },
+        "HD-2": {
+          "38235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag53b139ca90d46fee1187af5b8c6d94b04h",
+          "38235-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38235-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ixotb6gmdke8",
+          "38235-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38235-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mzg6wr2q7t7v",
+          "38235-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
