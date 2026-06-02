@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ame To Shoujo To Watashi No Tegami",
+  "anime_url": "https://hianime.ad/anime/ame-to-shoujo-to-watashi-no-tegami",
+  "slug": "ame-to-shoujo-to-watashi-no-tegami",
+  "mal_id": 59619,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:15:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Rainy Days",
+      "episode_url": "https://hianime.ad/watch/ame-to-shoujo-to-watashi-no-tegami/ep-1",
+      "sub": {
+        "HD-1": {
+          "59619-malep-1_vibeplayer_sub": "https://vibeplayer.site/271bc2966f5ad42a",
+          "59619-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/271bc2966f5ad42a/master.m3u8"
+        },
+        "HD-2": {
+          "59619-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag20fbcaf1753a5f878a0a63163bfcf6ab4h",
+          "59619-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qjv2ahgciiga",
+          "59619-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-1_playmogo_sub": "https://playmogo.com/e/rpvw84uvhzme",
+          "59619-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59619-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b972184a285097b9",
+          "59619-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b972184a285097b9/master.m3u8"
+        },
+        "HD-2": {
+          "59619-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ageec53a77d1a79244b37e9d13442bc31c4h",
+          "59619-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bn8hqt3gzv0b",
+          "59619-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-1_playmogo_hsub": "https://playmogo.com/e/9qsngqk9hu81",
+          "59619-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
