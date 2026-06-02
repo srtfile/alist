@@ -408,5 +408,15 @@
     "captured_at": "2026-06-02T14:31:34",
     "file": "data/bungaku-shoujo-kyou-no-oyatsu-hatsukoi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungaku-shoujo-kyou-no-oyatsu-hatsukoi.json"
+  },
+  {
+    "slug": "bungaku-shoujo-memoire",
+    "mal_id": 7193,
+    "anime_name": "Bungaku Shoujo Memoire",
+    "anime_url": "https://hianime.ad/anime/bungaku-shoujo-memoire",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T14:31:44",
+    "file": "data/bungaku-shoujo-memoire.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungaku-shoujo-memoire.json"
   }
 ]
