@@ -188,5 +188,15 @@
     "captured_at": "2026-06-02T06:21:02",
     "file": "data/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke.json"
+  },
+  {
+    "slug": "rent-a-girlfriend",
+    "mal_id": 40839,
+    "anime_name": "Rent A Girlfriend",
+    "anime_url": "https://hianime.ad/anime/rent-a-girlfriend",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T06:34:07",
+    "file": "data/rent-a-girlfriend.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/rent-a-girlfriend.json"
   }
 ]
