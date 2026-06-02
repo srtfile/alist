@@ -1,0 +1,36 @@
+{
+  "anime_name": "Raw Magicaltaruruuto Kun Movie",
+  "anime_url": "https://hianime.ad/anime/raw-magicaltaruruuto-kun-movie",
+  "slug": "raw-magicaltaruruuto-kun-movie",
+  "mal_id": 23901,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T16:13:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/raw-magicaltaruruuto-kun-movie/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "23901-malep-1_vibeplayer_raw": "https://vibeplayer.site/a86a1ee11345d709",
+          "23901-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/a86a1ee11345d709/master.m3u8"
+        },
+        "HD-2": {
+          "23901-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag98cd9b3c12c6c3d04ba65920d38f76f44h",
+          "23901-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "23901-malep-1_otakuhg_raw": "https://otakuhg.site/e/umfalragykg0",
+          "23901-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "23901-malep-1_otakuvid_raw": "https://otakuvid.online/embed/3zcmnim19emm",
+          "23901-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
