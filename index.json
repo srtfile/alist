@@ -2838,5 +2838,15 @@
     "captured_at": "2026-06-02T18:58:19",
     "file": "data/acro-trip.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/acro-trip.json"
+  },
+  {
+    "slug": "action-heroine-cheer-fruits",
+    "mal_id": 34800,
+    "anime_name": "Action Heroine Cheer Fruits",
+    "anime_url": "https://hianime.ad/anime/action-heroine-cheer-fruits",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:58:39",
+    "file": "data/action-heroine-cheer-fruits.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/action-heroine-cheer-fruits.json"
   }
 ]
