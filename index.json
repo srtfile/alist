@@ -838,5 +838,15 @@
     "captured_at": "2026-06-02T15:36:40",
     "file": "data/raw-edokko-boy-gatten-tasuke.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-edokko-boy-gatten-tasuke.json"
+  },
+  {
+    "slug": "raw-esper-mami",
+    "mal_id": 3023,
+    "anime_name": "Raw Esper Mami",
+    "anime_url": "https://hianime.ad/anime/raw-esper-mami",
+    "total_episodes": 119,
+    "captured_at": "2026-06-02T15:37:12",
+    "file": "data/raw-esper-mami.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-esper-mami.json"
   }
 ]
