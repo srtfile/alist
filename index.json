@@ -848,5 +848,15 @@
     "captured_at": "2026-06-02T15:37:12",
     "file": "data/raw-esper-mami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-esper-mami.json"
+  },
+  {
+    "slug": "raw-esper-mami-special-my-angel-mami-chan",
+    "mal_id": 14563,
+    "anime_name": "Raw Esper Mami Special My Angel Mami Chan",
+    "anime_url": "https://hianime.ad/anime/raw-esper-mami-special-my-angel-mami-chan",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T15:39:19",
+    "file": "data/raw-esper-mami-special-my-angel-mami-chan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-esper-mami-special-my-angel-mami-chan.json"
   }
 ]
