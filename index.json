@@ -6468,5 +6468,15 @@
     "captured_at": "2026-06-02T21:24:22",
     "file": "data/arte.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arte.json"
+  },
+  {
+    "slug": "artiswitch",
+    "mal_id": null,
+    "anime_name": "Artiswitch",
+    "anime_url": "https://hianime.ad/anime/artiswitch",
+    "total_episodes": 6,
+    "captured_at": "2026-06-02T21:24:43",
+    "file": "data/artiswitch.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/artiswitch.json"
   }
 ]
