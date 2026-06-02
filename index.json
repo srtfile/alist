@@ -8618,5 +8618,15 @@
     "captured_at": "2026-06-02T23:36:15",
     "file": "data/battle-spirits-shounen-gekiha-dan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-shounen-gekiha-dan.json"
+  },
+  {
+    "slug": "battle-spirits-sword-eyes",
+    "mal_id": 14913,
+    "anime_name": "Battle Spirits Sword Eyes",
+    "anime_url": "https://hianime.ad/anime/battle-spirits-sword-eyes",
+    "total_episodes": 29,
+    "captured_at": "2026-06-02T23:37:09",
+    "file": "data/battle-spirits-sword-eyes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-sword-eyes.json"
   }
 ]
