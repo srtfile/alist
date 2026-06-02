@@ -6348,5 +6348,15 @@
     "captured_at": "2026-06-02T21:19:16",
     "file": "data/armored-fleet-dairugger-xv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/armored-fleet-dairugger-xv.json"
+  },
+  {
+    "slug": "armored-trooper-votoms",
+    "mal_id": 2582,
+    "anime_name": "Armored Trooper Votoms",
+    "anime_url": "https://hianime.ad/anime/armored-trooper-votoms",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T21:20:17",
+    "file": "data/armored-trooper-votoms.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/armored-trooper-votoms.json"
   }
 ]
