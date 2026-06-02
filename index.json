@@ -4148,5 +4148,15 @@
     "captured_at": "2026-06-02T19:58:46",
     "file": "data/alderamin-on-the-sky.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alderamin-on-the-sky.json"
+  },
+  {
+    "slug": "aldnoah-zero",
+    "mal_id": 22729,
+    "anime_name": "Aldnoah Zero",
+    "anime_url": "https://hianime.ad/anime/aldnoah-zero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:59:10",
+    "file": "data/aldnoah-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aldnoah-zero.json"
   }
 ]
