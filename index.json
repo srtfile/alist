@@ -3028,5 +3028,15 @@
     "captured_at": "2026-06-02T19:03:55",
     "file": "data/after-the-rain.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/after-the-rain.json"
+  },
+  {
+    "slug": "after-war-gundam-x",
+    "mal_id": 92,
+    "anime_name": "After War Gundam X",
+    "anime_url": "https://hianime.ad/anime/after-war-gundam-x",
+    "total_episodes": 39,
+    "captured_at": "2026-06-02T19:04:16",
+    "file": "data/after-war-gundam-x.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/after-war-gundam-x.json"
   }
 ]
