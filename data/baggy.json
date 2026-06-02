@@ -1,0 +1,48 @@
+{
+  "anime_name": "Baggy",
+  "anime_url": "https://hianime.ad/anime/baggy",
+  "slug": "baggy",
+  "mal_id": 59884,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:09:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/baggy/ep-1",
+      "sub": {
+        "HD-1": {
+          "59884-malep-1_vibeplayer_sub": "https://vibeplayer.site/c8d177d8e848a451",
+          "59884-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c8d177d8e848a451/master.m3u8"
+        },
+        "HD-2": {
+          "59884-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5f9dff7e2fb832c78c04df32c8816c054h",
+          "59884-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59884-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4tpq3jewfg4q",
+          "59884-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59884-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e463dc6b6e2bf828",
+          "59884-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e463dc6b6e2bf828/master.m3u8"
+        },
+        "HD-2": {
+          "59884-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3b0207d4298b400bca4d6e9297284c974h",
+          "59884-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59884-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b581kbltkrez",
+          "59884-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59884-malep-1_playmogo_hsub": "https://playmogo.com/e/b7bxcixm6per",
+          "59884-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
