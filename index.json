@@ -3528,5 +3528,15 @@
     "captured_at": "2026-06-02T19:32:23",
     "file": "data/aikatsu-on-parade-ona.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-on-parade-ona.json"
+  },
+  {
+    "slug": "aikatsu-planet",
+    "mal_id": 42653,
+    "anime_name": "Aikatsu Planet",
+    "anime_url": "https://hianime.ad/anime/aikatsu-planet",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T19:32:36",
+    "file": "data/aikatsu-planet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-planet.json"
   }
 ]
