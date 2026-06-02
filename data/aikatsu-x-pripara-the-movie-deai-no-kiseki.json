@@ -1,0 +1,60 @@
+{
+  "anime_name": "Aikatsu X Pripara The Movie Deai No Kiseki",
+  "anime_url": "https://hianime.ad/anime/aikatsu-x-pripara-the-movie-deai-no-kiseki",
+  "slug": "aikatsu-x-pripara-the-movie-deai-no-kiseki",
+  "mal_id": 15061,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:38:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Can Become an Idol?",
+      "episode_url": "https://hianime.ad/watch/aikatsu-x-pripara-the-movie-deai-no-kiseki/ep-1",
+      "sub": {
+        "HD-1": {
+          "15061-malep-1_vibeplayer_sub": "https://vibeplayer.site/4800a66994e980d2",
+          "15061-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4800a66994e980d2/master.m3u8"
+        },
+        "HD-2": {
+          "15061-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdea82ee3b9f7f353206ed0c167038d984h",
+          "15061-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "15061-malep-1_otakuhg_sub": "https://otakuhg.site/e/tesmkhgzek7v",
+          "15061-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15061-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mzoy5lsbyngd",
+          "15061-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "15061-malep-1_playmogo_sub": "https://playmogo.com/e/4kgl0ocqruix",
+          "15061-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e8014afc9a064fb",
+          "15061-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e8014afc9a064fb/master.m3u8"
+        },
+        "HD-2": {
+          "15061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfe27af6d2498dcfd5d7b30553d986b644h",
+          "15061-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "15061-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y47c2l0winju",
+          "15061-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15061-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ghwyqd5lwc16",
+          "15061-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15061-malep-1_playmogo_hsub": "https://playmogo.com/e/kca6zvv1z842",
+          "15061-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
