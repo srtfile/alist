@@ -7398,5 +7398,15 @@
     "captured_at": "2026-06-02T22:00:40",
     "file": "data/bt-x.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bt-x.json"
+  },
+  {
+    "slug": "bt-x-neo",
+    "mal_id": 286,
+    "anime_name": "Bt X Neo",
+    "anime_url": "https://hianime.ad/anime/bt-x-neo",
+    "total_episodes": 14,
+    "captured_at": "2026-06-02T22:01:15",
+    "file": "data/bt-x-neo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bt-x-neo.json"
   }
 ]
