@@ -7788,5 +7788,15 @@
     "captured_at": "2026-06-02T22:17:23",
     "file": "data/bakugan-battle-brawlers-new-vestroia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakugan-battle-brawlers-new-vestroia.json"
+  },
+  {
+    "slug": "bakugan-armored-alliance",
+    "mal_id": 41405,
+    "anime_name": "Bakugan Armored Alliance",
+    "anime_url": "https://hianime.ad/anime/bakugan-armored-alliance",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T22:18:24",
+    "file": "data/bakugan-armored-alliance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakugan-armored-alliance.json"
   }
 ]
