@@ -4228,5 +4228,15 @@
     "captured_at": "2026-06-02T20:01:27",
     "file": "data/alien-9.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alien-9.json"
+  },
+  {
+    "slug": "alien-collections",
+    "mal_id": 6899,
+    "anime_name": "Alien Collections",
+    "anime_url": "https://hianime.ad/anime/alien-collections",
+    "total_episodes": 7,
+    "captured_at": "2026-06-02T20:01:42",
+    "file": "data/alien-collections.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alien-collections.json"
   }
 ]
