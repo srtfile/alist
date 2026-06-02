@@ -2588,5 +2588,15 @@
     "captured_at": "2026-06-02T18:48:18",
     "file": "data/a-channel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-channel.json"
+  },
+  {
+    "slug": "a-channel-a-channel",
+    "mal_id": 9776,
+    "anime_name": "A Channel A Channel",
+    "anime_url": "https://hianime.ad/anime/a-channel-a-channel",
+    "total_episodes": 11,
+    "captured_at": "2026-06-02T18:48:39",
+    "file": "data/a-channel-a-channel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-channel-a-channel.json"
   }
 ]
