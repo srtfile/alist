@@ -1128,5 +1128,15 @@
     "captured_at": "2026-06-02T16:14:27",
     "file": "data/raw-mahou-shoujo-lalabel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mahou-shoujo-lalabel.json"
+  },
+  {
+    "slug": "raw-mahoutsukai-sally-2",
+    "mal_id": 3875,
+    "anime_name": "Raw Mahoutsukai Sally 2",
+    "anime_url": "https://hianime.ad/anime/raw-mahoutsukai-sally-2",
+    "total_episodes": 88,
+    "captured_at": "2026-06-02T16:15:28",
+    "file": "data/raw-mahoutsukai-sally-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mahoutsukai-sally-2.json"
   }
 ]
