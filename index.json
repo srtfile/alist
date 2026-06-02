@@ -7008,5 +7008,15 @@
     "captured_at": "2026-06-02T21:45:48",
     "file": "data/attack-no-1.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-no-1.json"
+  },
+  {
+    "slug": "attack-on-titan-ova",
+    "mal_id": 16498,
+    "anime_name": "Attack On Titan Ova",
+    "anime_url": "https://hianime.ad/anime/attack-on-titan-ova",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T21:47:40",
+    "file": "data/attack-on-titan-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-on-titan-ova.json"
   }
 ]
