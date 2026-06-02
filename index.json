@@ -5918,5 +5918,15 @@
     "captured_at": "2026-06-02T21:05:22",
     "file": "data/are-you-lost.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/are-you-lost.json"
+  },
+  {
+    "slug": "are-you-ok",
+    "mal_id": 38483,
+    "anime_name": "Are You Ok",
+    "anime_url": "https://hianime.ad/anime/are-you-ok",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:05:45",
+    "file": "data/are-you-ok.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/are-you-ok.json"
   }
 ]
