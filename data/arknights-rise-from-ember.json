@@ -1,0 +1,465 @@
+{
+  "anime_name": "Arknights Rise From Ember",
+  "anime_url": "https://hianime.ad/anime/arknights-rise-from-ember",
+  "slug": "arknights-rise-from-ember",
+  "mal_id": 58749,
+  "total_episodes": 10,
+  "captured_at": "2026-06-02T21:16:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Confession",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-1",
+      "sub": {
+        "HD-1": {
+          "58749-malep-1_vibeplayer_sub": "https://vibeplayer.site/2eb6f449b898935a",
+          "58749-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2eb6f449b898935a/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbf807280cf7cd2ee11d718bfecc04a1e4h",
+          "58749-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-1_otakuhg_sub": "https://otakuhg.site/e/b7p63o8hx8mb",
+          "58749-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q4dh35hko9bu",
+          "58749-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-1_playmogo_sub": "https://playmogo.com/e/3ygbi60ztqb5",
+          "58749-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dba94e86034f3828",
+          "58749-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dba94e86034f3828/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag68454960b026b2b4a05df663530f57e64h",
+          "58749-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rrb8qlwzfns6",
+          "58749-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/acv1up6facsf",
+          "58749-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-1_playmogo_hsub": "https://playmogo.com/e/jifn2y3s2zfz",
+          "58749-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Consumables",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-2",
+      "sub": {
+        "HD-1": {
+          "58749-malep-2_vibeplayer_sub": "https://vibeplayer.site/f51815dc35e5086b",
+          "58749-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f51815dc35e5086b/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag7eb251456839a2b04a35847c0d7fefba4h",
+          "58749-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-2_otakuvid_sub": "https://otakuvid.online/embed/4tj1kldzfahq",
+          "58749-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-2_vibeplayer_hsub": "https://vibeplayer.site/46cb9ac032619f56",
+          "58749-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46cb9ac032619f56/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag5f593ea849ef25e574cfe6d0cc0047a84h",
+          "58749-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-2_otakuhg_hsub": "https://otakuhg.site/e/d5sd1e1k2oj3",
+          "58749-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/qcghpka5f79a",
+          "58749-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-2_playmogo_hsub": "https://playmogo.com/e/y5nxr5tbfhxp",
+          "58749-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mission",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-3",
+      "sub": {
+        "HD-1": {
+          "58749-malep-3_vibeplayer_sub": "https://vibeplayer.site/8d0e9f2972feb955",
+          "58749-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d0e9f2972feb955/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag5ffa576d3927fa8efea7428cd984269d4h",
+          "58749-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-3_otakuhg_sub": "https://otakuhg.site/e/kmmaxlqgy0o5",
+          "58749-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-3_otakuvid_sub": "https://otakuvid.online/embed/4jpjib7dkb0u",
+          "58749-malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-3_playmogo_sub": "https://playmogo.com/e/hwh2aovm84c2",
+          "58749-malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-3_vibeplayer_hsub": "https://vibeplayer.site/a58e07b0b0cc6045",
+          "58749-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a58e07b0b0cc6045/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag826a3d8bfdd191f7507a7a36f69174b14h",
+          "58749-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-3_otakuhg_hsub": "https://otakuhg.site/e/ue1v0vidsvjx",
+          "58749-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/8bf8u1ow1hmb",
+          "58749-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-3_playmogo_hsub": "https://playmogo.com/e/c94rfhlxo55w",
+          "58749-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Patriot",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-4",
+      "sub": {
+        "HD-1": {
+          "58749-malep-4_vibeplayer_sub": "https://vibeplayer.site/84968acc88a2599d",
+          "58749-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84968acc88a2599d/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag820423f28c6492ef60ec07d18e1414404h",
+          "58749-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-4_otakuhg_sub": "https://otakuhg.site/e/0owvvfqkhudb",
+          "58749-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-4_otakuvid_sub": "https://otakuvid.online/embed/bgzzn3k0fzkt",
+          "58749-malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-4_playmogo_sub": "https://playmogo.com/e/4n282exd7qsf",
+          "58749-malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-4_vibeplayer_hsub": "https://vibeplayer.site/7ace286d5d64d40c",
+          "58749-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7ace286d5d64d40c/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag0f9b4d2348780d689c13e5f107e4662f4h",
+          "58749-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-4_otakuhg_hsub": "https://otakuhg.site/e/vkjlg9m3qnen",
+          "58749-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/0uv9x9tw9xyk",
+          "58749-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-4_playmogo_hsub": "https://playmogo.com/e/fjvo28vmi5nq",
+          "58749-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Vengeance",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-5",
+      "sub": {
+        "HD-1": {
+          "58749-malep-5_vibeplayer_sub": "https://vibeplayer.site/bef403e45dd66745",
+          "58749-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bef403e45dd66745/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag3a8f8bb2dd8413267935bda89926b4b74h",
+          "58749-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-5_otakuhg_sub": "https://otakuhg.site/e/gdteafnlozi5",
+          "58749-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-5_otakuvid_sub": "https://otakuvid.online/embed/p87tgz047wws",
+          "58749-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-5_playmogo_sub": "https://playmogo.com/e/daqyy3ztj0i9",
+          "58749-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-5_vibeplayer_hsub": "https://vibeplayer.site/0e4d82ff6b2ea6b4",
+          "58749-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e4d82ff6b2ea6b4/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag3a2095dd4447f315cec2fc391f32a0014h",
+          "58749-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-5_otakuhg_hsub": "https://otakuhg.site/e/s39yswmoxl7e",
+          "58749-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/oo1xk6qrreqd",
+          "58749-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-5_playmogo_hsub": "https://playmogo.com/e/9wtup4i1mak6",
+          "58749-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Recurrence",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-6",
+      "sub": {
+        "HD-1": {
+          "58749-malep-6_vibeplayer_sub": "https://vibeplayer.site/b37389d11cff2733",
+          "58749-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b37389d11cff2733/master.m3u8"
+        },
+        "Earnvids": {
+          "58749-malep-6_otakuvid_sub": "https://otakuvid.online/embed/5k7gq9ytixzw",
+          "58749-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-6_playmogo_sub": "https://playmogo.com/e/isr09xp4brx3",
+          "58749-malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-6_vibeplayer_hsub": "https://vibeplayer.site/7a8a0fe7768f99c7",
+          "58749-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a8a0fe7768f99c7/master.m3u8"
+        },
+        "StreamHG": {
+          "58749-malep-6_otakuhg_hsub": "https://otakuhg.site/e/r5v4w9ynt2et",
+          "58749-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/bq7kl3ciijgs",
+          "58749-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-6_playmogo_hsub": "https://playmogo.com/e/bfkirmkjeqsy",
+          "58749-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Stain",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-7",
+      "sub": {
+        "HD-1": {
+          "58749-malep-7_vibeplayer_sub": "https://vibeplayer.site/ed2e5aa479dfc74f",
+          "58749-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed2e5aa479dfc74f/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag796713f905e36e48b3216fb5741b92444h",
+          "58749-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-7_otakuvid_sub": "https://otakuvid.online/embed/qg7tnx75nkdv",
+          "58749-malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-7_playmogo_sub": "https://playmogo.com/e/28hfvroobd8q",
+          "58749-malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-7_vibeplayer_hsub": "https://vibeplayer.site/bbb3868521128342",
+          "58749-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bbb3868521128342/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag99dbb0aaeb472fbbcfa6ece765aef6cb4h",
+          "58749-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-7_otakuhg_hsub": "https://otakuhg.site/e/feugltuhxqpn",
+          "58749-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/yqv1vvi9hist",
+          "58749-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-7_playmogo_hsub": "https://playmogo.com/e/9it950svq10c",
+          "58749-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Recall",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-8",
+      "sub": {
+        "HD-1": {
+          "58749-malep-8_vibeplayer_sub": "https://vibeplayer.site/1a39f97fa1ac351f",
+          "58749-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a39f97fa1ac351f/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag69b932cb2ef9705330d5700d33f78f304h",
+          "58749-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-8_otakuvid_sub": "https://otakuvid.online/embed/y28vnet2tzp2",
+          "58749-malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-8_playmogo_sub": "https://playmogo.com/e/hpy1tabgtzzi",
+          "58749-malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-8_vibeplayer_hsub": "https://vibeplayer.site/b5cd75fae740051b",
+          "58749-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b5cd75fae740051b/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag956dca57d642ebfb0f9b86364d35e9164h",
+          "58749-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-8_otakuhg_hsub": "https://otakuhg.site/e/1d2qcwlcemw0",
+          "58749-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/itj54shxs36b",
+          "58749-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-8_playmogo_hsub": "https://playmogo.com/e/7s31qhr23ywo",
+          "58749-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Inferno",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-9",
+      "sub": {
+        "HD-1": {
+          "58749-malep-9_vibeplayer_sub": "https://vibeplayer.site/bd9476e5bf8fed68",
+          "58749-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd9476e5bf8fed68/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-9_vibeplayer_sub": "https://vibeplayer.site/agd8cd5599215ac70fe3b577b884bdb23a4h",
+          "58749-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-9_otakuhg_sub": "https://otakuhg.site/e/j1ev3erzjitp",
+          "58749-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-9_otakuvid_sub": "https://otakuvid.online/embed/403b5ekwbunk",
+          "58749-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-9_vibeplayer_hsub": "https://vibeplayer.site/3479c9c4f8528746",
+          "58749-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3479c9c4f8528746/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag94452890f5f6e8b2e99805b23528fc904h",
+          "58749-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-9_otakuhg_hsub": "https://otakuhg.site/e/tl6dfdjvdxcy",
+          "58749-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/dftjj6g7h9u7",
+          "58749-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-9_playmogo_hsub": "https://playmogo.com/e/vyphsbocux51",
+          "58749-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dawn",
+      "episode_url": "https://hianime.ad/watch/arknights-rise-from-ember/ep-10",
+      "sub": {
+        "HD-1": {
+          "58749-malep-10_vibeplayer_sub": "https://vibeplayer.site/e782905294f807ea",
+          "58749-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e782905294f807ea/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag828418db8cb62f2ea32dd750ab3754894h",
+          "58749-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-10_otakuhg_sub": "https://otakuhg.site/e/0ymj028t45c9",
+          "58749-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-10_otakuvid_sub": "https://otakuvid.online/embed/fp11dxij3s4f",
+          "58749-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58749-malep-10_vibeplayer_hsub": "https://vibeplayer.site/d8bb382dca483cd9",
+          "58749-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d8bb382dca483cd9/master.m3u8"
+        },
+        "HD-2": {
+          "58749-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag232848889293556bb1c6f2cef055bd444h",
+          "58749-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58749-malep-10_otakuhg_hsub": "https://otakuhg.site/e/c3nm4i8ia28d",
+          "58749-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58749-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/gbz1ymx2t99j",
+          "58749-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58749-malep-10_playmogo_hsub": "https://playmogo.com/e/js4o1k6in75p",
+          "58749-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
