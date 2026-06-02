@@ -4248,5 +4248,15 @@
     "captured_at": "2026-06-02T20:02:00",
     "file": "data/aliens-among-immortals.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aliens-among-immortals.json"
+  },
+  {
+    "slug": "all-out",
+    "mal_id": 31588,
+    "anime_name": "All Out",
+    "anime_url": "https://hianime.ad/anime/all-out",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T20:02:24",
+    "file": "data/all-out.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/all-out.json"
   }
 ]
