@@ -1648,5 +1648,15 @@
     "captured_at": "2026-06-02T17:13:08",
     "file": "data/2200-nen-neko-no-kuni-nippon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/2200-nen-neko-no-kuni-nippon.json"
+  },
+  {
+    "slug": "3000-leagues-in-search-of-mother",
+    "mal_id": 1663,
+    "anime_name": "3000 Leagues In Search Of Mother",
+    "anime_url": "https://hianime.ad/anime/3000-leagues-in-search-of-mother",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T17:13:30",
+    "file": "data/3000-leagues-in-search-of-mother.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/3000-leagues-in-search-of-mother.json"
   }
 ]
