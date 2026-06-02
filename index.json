@@ -4808,5 +4808,15 @@
     "captured_at": "2026-06-02T20:26:57",
     "file": "data/ange-vierge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ange-vierge.json"
+  },
+  {
+    "slug": "angel-beats",
+    "mal_id": 6547,
+    "anime_name": "Angel Beats",
+    "anime_url": "https://hianime.ad/anime/angel-beats",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:27:19",
+    "file": "data/angel-beats.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angel-beats.json"
   }
 ]
