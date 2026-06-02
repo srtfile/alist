@@ -8788,5 +8788,15 @@
     "captured_at": "2026-06-02T23:44:54",
     "file": "data/bean-bandit.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bean-bandit.json"
+  },
+  {
+    "slug": "beanies-daily",
+    "mal_id": 6012,
+    "anime_name": "Beanies Daily",
+    "anime_url": "https://hianime.ad/anime/beanies-daily",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:45:04",
+    "file": "data/beanies-daily.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beanies-daily.json"
   }
 ]
