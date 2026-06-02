@@ -6688,5 +6688,15 @@
     "captured_at": "2026-06-02T21:30:44",
     "file": "data/asobi-asobase-workshop-of-fun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/asobi-asobase-workshop-of-fun.json"
+  },
+  {
+    "slug": "assassination-classroom",
+    "mal_id": 24833,
+    "anime_name": "Assassination Classroom",
+    "anime_url": "https://hianime.ad/anime/assassination-classroom",
+    "total_episodes": 22,
+    "captured_at": "2026-06-02T21:31:06",
+    "file": "data/assassination-classroom.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assassination-classroom.json"
   }
 ]
