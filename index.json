@@ -1218,5 +1218,15 @@
     "captured_at": "2026-06-02T16:32:13",
     "file": "data/raw-onegai-samia-don.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-onegai-samia-don.json"
+  },
+  {
+    "slug": "raw-oraa-guzura-dado-1987",
+    "mal_id": 11873,
+    "anime_name": "Raw Oraa Guzura Dado 1987",
+    "anime_url": "https://hianime.ad/anime/raw-oraa-guzura-dado-1987",
+    "total_episodes": 44,
+    "captured_at": "2026-06-02T16:33:02",
+    "file": "data/raw-oraa-guzura-dado-1987.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-oraa-guzura-dado-1987.json"
   }
 ]
