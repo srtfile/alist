@@ -628,5 +628,15 @@
     "captured_at": "2026-06-02T14:45:40",
     "file": "data/raw-chimpui.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui.json"
+  },
+  {
+    "slug": "raw-chimpui-specials",
+    "mal_id": 2011,
+    "anime_name": "Raw Chimpui Specials",
+    "anime_url": "https://hianime.ad/anime/raw-chimpui-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T14:46:37",
+    "file": "data/raw-chimpui-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui-specials.json"
   }
 ]
