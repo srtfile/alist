@@ -3608,5 +3608,15 @@
     "captured_at": "2026-06-02T19:38:52",
     "file": "data/aim-for-the-ace-final-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aim-for-the-ace-final-stage.json"
+  },
+  {
+    "slug": "aim-for-the-ace",
+    "mal_id": 311,
+    "anime_name": "Aim For The Ace",
+    "anime_url": "https://hianime.ad/anime/aim-for-the-ace",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T19:39:15",
+    "file": "data/aim-for-the-ace.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aim-for-the-ace.json"
   }
 ]
