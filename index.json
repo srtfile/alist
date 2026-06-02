@@ -1118,5 +1118,15 @@
     "captured_at": "2026-06-02T16:14:14",
     "file": "data/raw-magicaltaruruuto-kun-sukisuki-takoyaki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-magicaltaruruuto-kun-sukisuki-takoyaki.json"
+  },
+  {
+    "slug": "raw-mahou-shoujo-lalabel",
+    "mal_id": 3878,
+    "anime_name": "Raw Mahou Shoujo Lalabel",
+    "anime_url": "https://hianime.ad/anime/raw-mahou-shoujo-lalabel",
+    "total_episodes": 49,
+    "captured_at": "2026-06-02T16:14:27",
+    "file": "data/raw-mahou-shoujo-lalabel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mahou-shoujo-lalabel.json"
   }
 ]
