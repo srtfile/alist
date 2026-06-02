@@ -2738,5 +2738,15 @@
     "captured_at": "2026-06-02T18:53:08",
     "file": "data/accel-world-ex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/accel-world-ex.json"
+  },
+  {
+    "slug": "accel-world-acchel-world",
+    "mal_id": 11759,
+    "anime_name": "Accel World Acchel World",
+    "anime_url": "https://hianime.ad/anime/accel-world-acchel-world",
+    "total_episodes": 8,
+    "captured_at": "2026-06-02T18:53:20",
+    "file": "data/accel-world-acchel-world.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/accel-world-acchel-world.json"
   }
 ]
