@@ -1418,5 +1418,15 @@
     "captured_at": "2026-06-02T17:01:28",
     "file": "data/raw-yobarete-tobidete-akubi-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-yobarete-tobidete-akubi-chan.json"
+  },
+  {
+    "slug": "raw-youkai-ningen-bem",
+    "mal_id": 4044,
+    "anime_name": "Raw Youkai Ningen Bem",
+    "anime_url": "https://hianime.ad/anime/raw-youkai-ningen-bem",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T17:03:44",
+    "file": "data/raw-youkai-ningen-bem.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-youkai-ningen-bem.json"
   }
 ]
