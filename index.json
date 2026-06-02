@@ -428,5 +428,15 @@
     "captured_at": "2026-06-02T14:31:56",
     "file": "data/bungaku-shoujo-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungaku-shoujo-movie.json"
+  },
+  {
+    "slug": "deji-meets-girl",
+    "mal_id": 49505,
+    "anime_name": "Deji Meets Girl",
+    "anime_url": "https://hianime.ad/anime/deji-meets-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T14:32:07",
+    "file": "data/deji-meets-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deji-meets-girl.json"
   }
 ]
