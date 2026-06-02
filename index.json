@@ -4188,5 +4188,15 @@
     "captured_at": "2026-06-02T20:00:07",
     "file": "data/alice-zoroku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-zoroku.json"
+  },
+  {
+    "slug": "alice-gear-aegis-expansion",
+    "mal_id": 50871,
+    "anime_name": "Alice Gear Aegis Expansion",
+    "anime_url": "https://hianime.ad/anime/alice-gear-aegis-expansion",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:00:30",
+    "file": "data/alice-gear-aegis-expansion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-gear-aegis-expansion.json"
   }
 ]
