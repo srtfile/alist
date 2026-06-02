@@ -478,5 +478,15 @@
     "captured_at": "2026-06-02T14:33:26",
     "file": "data/raw-21-emon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-21-emon.json"
+  },
+  {
+    "slug": "raw-adventures-of-little-el-cid",
+    "mal_id": 5600,
+    "anime_name": "Raw Adventures Of Little El Cid",
+    "anime_url": "https://hianime.ad/anime/raw-adventures-of-little-el-cid",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T14:34:08",
+    "file": "data/raw-adventures-of-little-el-cid.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-adventures-of-little-el-cid.json"
   }
 ]
