@@ -3508,5 +3508,15 @@
     "captured_at": "2026-06-02T19:31:13",
     "file": "data/aikatsu-friends-kagayaki-no-jewel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-friends-kagayaki-no-jewel.json"
+  },
+  {
+    "slug": "aikatsu-on-parade",
+    "mal_id": 40266,
+    "anime_name": "Aikatsu On Parade",
+    "anime_url": "https://hianime.ad/anime/aikatsu-on-parade",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T19:31:49",
+    "file": "data/aikatsu-on-parade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-on-parade.json"
   }
 ]
