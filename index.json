@@ -8708,5 +8708,15 @@
     "captured_at": "2026-06-02T23:42:49",
     "file": "data/bavi-stock.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bavi-stock.json"
+  },
+  {
+    "slug": "bayonetta-bloody-fate",
+    "mal_id": 22297,
+    "anime_name": "Bayonetta Bloody Fate",
+    "anime_url": "https://hianime.ad/anime/bayonetta-bloody-fate",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T23:43:00",
+    "file": "data/bayonetta-bloody-fate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bayonetta-bloody-fate.json"
   }
 ]
