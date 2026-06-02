@@ -1848,5 +1848,15 @@
     "captured_at": "2026-06-02T17:19:52",
     "file": "data/a-bridge-to-the-starry-skies.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-bridge-to-the-starry-skies.json"
+  },
+  {
+    "slug": "a-centaurs-life",
+    "mal_id": 34525,
+    "anime_name": "A Centaurs Life",
+    "anime_url": "https://hianime.ad/anime/a-centaurs-life",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:20:15",
+    "file": "data/a-centaurs-life.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-centaurs-life.json"
   }
 ]
