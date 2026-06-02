@@ -7848,5 +7848,15 @@
     "captured_at": "2026-06-02T22:22:21",
     "file": "data/bakuman-66.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuman-66.json"
+  },
+  {
+    "slug": "bakuman",
+    "mal_id": 7674,
+    "anime_name": "Bakuman",
+    "anime_url": "https://hianime.ad/anime/bakuman",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T22:22:55",
+    "file": "data/bakuman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuman.json"
   }
 ]
