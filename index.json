@@ -718,5 +718,15 @@
     "captured_at": "2026-06-02T14:53:42",
     "file": "data/raw-duel-masters-2017.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-2017.json"
+  },
+  {
+    "slug": "raw-duel-masters-charge",
+    "mal_id": 4443,
+    "anime_name": "Raw Duel Masters Charge",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-charge",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T14:54:34",
+    "file": "data/raw-duel-masters-charge.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-charge.json"
   }
 ]
