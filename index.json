@@ -7918,5 +7918,15 @@
     "captured_at": "2026-06-02T22:25:25",
     "file": "data/bakuon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuon.json"
+  },
+  {
+    "slug": "bakuon-ova",
+    "mal_id": 30795,
+    "anime_name": "Bakuon Ova",
+    "anime_url": "https://hianime.ad/anime/bakuon-ova",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T22:25:48",
+    "file": "data/bakuon-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuon-ova.json"
   }
 ]
