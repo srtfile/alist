@@ -7508,5 +7508,15 @@
     "captured_at": "2026-06-02T22:06:02",
     "file": "data/babylon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/babylon.json"
+  },
+  {
+    "slug": "baccano",
+    "mal_id": 2251,
+    "anime_name": "Baccano",
+    "anime_url": "https://hianime.ad/anime/baccano",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T22:06:24",
+    "file": "data/baccano.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baccano.json"
   }
 ]
