@@ -4448,5 +4448,15 @@
     "captured_at": "2026-06-02T20:10:49",
     "file": "data/amagami-ss-little-sister.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-little-sister.json"
+  },
+  {
+    "slug": "amagami-ss-plus",
+    "mal_id": 11235,
+    "anime_name": "Amagami Ss Plus",
+    "anime_url": "https://hianime.ad/anime/amagami-ss-plus",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:11:01",
+    "file": "data/amagami-ss-plus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-plus.json"
   }
 ]
