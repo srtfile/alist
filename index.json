@@ -3898,5 +3898,15 @@
     "captured_at": "2026-06-02T19:48:55",
     "file": "data/akane-maniax.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akane-maniax.json"
+  },
+  {
+    "slug": "akane-banashi",
+    "mal_id": 62164,
+    "anime_name": "Akane Banashi",
+    "anime_url": "https://hianime.ad/anime/akane-banashi",
+    "total_episodes": 9,
+    "captured_at": "2026-06-02T19:49:08",
+    "file": "data/akane-banashi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akane-banashi.json"
   }
 ]
