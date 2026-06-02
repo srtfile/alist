@@ -8798,5 +8798,15 @@
     "captured_at": "2026-06-02T23:45:04",
     "file": "data/beanies-daily.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beanies-daily.json"
+  },
+  {
+    "slug": "beanies-daily-extra-story-dont-forget-me",
+    "mal_id": 6012,
+    "anime_name": "Beanies Daily Extra Story Dont Forget Me",
+    "anime_url": "https://hianime.ad/anime/beanies-daily-extra-story-dont-forget-me",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T23:45:25",
+    "file": "data/beanies-daily-extra-story-dont-forget-me.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beanies-daily-extra-story-dont-forget-me.json"
   }
 ]
