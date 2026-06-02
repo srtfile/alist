@@ -1718,5 +1718,15 @@
     "captured_at": "2026-06-02T17:16:05",
     "file": "data/5-centimeters-per-second.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/5-centimeters-per-second.json"
+  },
+  {
+    "slug": "7-seeds",
+    "mal_id": 39836,
+    "anime_name": "7 Seeds",
+    "anime_url": "https://hianime.ad/anime/7-seeds",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:16:17",
+    "file": "data/7-seeds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/7-seeds.json"
   }
 ]
