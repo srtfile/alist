@@ -4998,5 +4998,15 @@
     "captured_at": "2026-06-02T20:33:31",
     "file": "data/anima-yell.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anima-yell.json"
+  },
+  {
+    "slug": "anima-yell-ouen-douga",
+    "mal_id": 37206,
+    "anime_name": "Anima Yell Ouen Douga",
+    "anime_url": "https://hianime.ad/anime/anima-yell-ouen-douga",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:33:53",
+    "file": "data/anima-yell-ouen-douga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anima-yell-ouen-douga.json"
   }
 ]
