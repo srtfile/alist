@@ -3518,5 +3518,15 @@
     "captured_at": "2026-06-02T19:31:49",
     "file": "data/aikatsu-on-parade.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-on-parade.json"
+  },
+  {
+    "slug": "aikatsu-on-parade-ona",
+    "mal_id": 40266,
+    "anime_name": "Aikatsu On Parade Ona",
+    "anime_url": "https://hianime.ad/anime/aikatsu-on-parade-ona",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T19:32:23",
+    "file": "data/aikatsu-on-parade-ona.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-on-parade-ona.json"
   }
 ]
