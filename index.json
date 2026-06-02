@@ -5908,5 +5908,15 @@
     "captured_at": "2026-06-02T21:05:10",
     "file": "data/arcana-famiglia-capriccio-stile-arcana-famiglia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arcana-famiglia-capriccio-stile-arcana-famiglia.json"
+  },
+  {
+    "slug": "are-you-lost",
+    "mal_id": 39456,
+    "anime_name": "Are You Lost",
+    "anime_url": "https://hianime.ad/anime/are-you-lost",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:05:22",
+    "file": "data/are-you-lost.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/are-you-lost.json"
   }
 ]
