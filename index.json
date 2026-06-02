@@ -6728,5 +6728,15 @@
     "captured_at": "2026-06-02T21:32:26",
     "file": "data/assassination-classroom-meeting-time.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assassination-classroom-meeting-time.json"
+  },
+  {
+    "slug": "assassins-pride",
+    "mal_id": 38572,
+    "anime_name": "Assassins Pride",
+    "anime_url": "https://hianime.ad/anime/assassins-pride",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:32:37",
+    "file": "data/assassins-pride.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assassins-pride.json"
   }
 ]
