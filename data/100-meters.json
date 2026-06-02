@@ -1,0 +1,81 @@
+{
+  "anime_name": "100 Meters",
+  "anime_url": "https://hianime.ad/anime/100-meters",
+  "slug": "100-meters",
+  "mal_id": 37510,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:08:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ripped Apart: Someone Is Watching",
+      "episode_url": "https://hianime.ad/watch/100-meters/ep-1",
+      "sub": {
+        "HD-1": {
+          "37510-malep-1_vibeplayer_sub": "https://vibeplayer.site/678ea2914484027d",
+          "37510-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/678ea2914484027d/master.m3u8"
+        },
+        "HD-2": {
+          "37510-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5de6689e27e745ec162e325000863b954h",
+          "37510-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37510-malep-1_otakuhg_sub": "https://otakuhg.site/e/kk5xwyvjhrpe",
+          "37510-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37510-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b4mwxqgov4e3",
+          "37510-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "37510-malep-1_playmogo_sub": "https://playmogo.com/e/javp9ms3yvxu",
+          "37510-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37510-malep-1_vibeplayer_dub": "https://vibeplayer.site/1ddd7b517bc631fb",
+          "37510-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1ddd7b517bc631fb/master.m3u8"
+        },
+        "HD-2": {
+          "37510-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag25739db96e0e8ad6d18f473912a006334h",
+          "37510-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37510-malep-1_otakuhg_dub": "https://otakuhg.site/e/lax4u3px1ce2",
+          "37510-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37510-malep-1_otakuvid_dub": "https://otakuvid.online/embed/elu0f7w624cz",
+          "37510-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "37510-malep-1_playmogo_dub": "https://playmogo.com/e/yncyl2nj4zm0",
+          "37510-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37510-malep-1_vibeplayer_hsub": "https://vibeplayer.site/667a4a47b0decd57",
+          "37510-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/667a4a47b0decd57/master.m3u8"
+        },
+        "HD-2": {
+          "37510-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc6f9eabe52df360bb8b390a22c1522084h",
+          "37510-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37510-malep-1_otakuhg_hsub": "https://otakuhg.site/e/37b2ejbhx9u7",
+          "37510-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37510-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gat19kdis6hk",
+          "37510-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37510-malep-1_playmogo_hsub": "https://playmogo.com/e/ajaqv5kleo6c",
+          "37510-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
