@@ -1268,5 +1268,15 @@
     "captured_at": "2026-06-02T16:44:26",
     "file": "data/raw-pro-golfer-saru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-pro-golfer-saru.json"
+  },
+  {
+    "slug": "raw-pro-golfer-saru-tv",
+    "mal_id": 16650,
+    "anime_name": "Raw Pro Golfer Saru Tv",
+    "anime_url": "https://hianime.ad/anime/raw-pro-golfer-saru-tv",
+    "total_episodes": 153,
+    "captured_at": "2026-06-02T16:44:39",
+    "file": "data/raw-pro-golfer-saru-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-pro-golfer-saru-tv.json"
   }
 ]
