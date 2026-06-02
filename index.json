@@ -3188,5 +3188,15 @@
     "captured_at": "2026-06-02T19:14:52",
     "file": "data/aggretsuko-1006.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aggretsuko-1006.json"
+  },
+  {
+    "slug": "aggretsuko",
+    "mal_id": 32977,
+    "anime_name": "Aggretsuko",
+    "anime_url": "https://hianime.ad/anime/aggretsuko",
+    "total_episodes": 100,
+    "captured_at": "2026-06-02T19:15:12",
+    "file": "data/aggretsuko.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aggretsuko.json"
   }
 ]
