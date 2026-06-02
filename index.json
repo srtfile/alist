@@ -3548,5 +3548,15 @@
     "captured_at": "2026-06-02T19:33:11",
     "file": "data/aikatsu-stars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-stars.json"
+  },
+  {
+    "slug": "aikatsu-stars-movie",
+    "mal_id": 32717,
+    "anime_name": "Aikatsu Stars Movie",
+    "anime_url": "https://hianime.ad/anime/aikatsu-stars-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T19:34:59",
+    "file": "data/aikatsu-stars-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-stars-movie.json"
   }
 ]
