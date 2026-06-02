@@ -618,5 +618,15 @@
     "captured_at": "2026-06-02T14:44:52",
     "file": "data/raw-chie-chan-funsenki-jarinko-chie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chie-chan-funsenki-jarinko-chie.json"
+  },
+  {
+    "slug": "raw-chimpui",
+    "mal_id": 5908,
+    "anime_name": "Raw Chimpui",
+    "anime_url": "https://hianime.ad/anime/raw-chimpui",
+    "total_episodes": 56,
+    "captured_at": "2026-06-02T14:45:40",
+    "file": "data/raw-chimpui.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui.json"
   }
 ]
