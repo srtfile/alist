@@ -658,5 +658,15 @@
     "captured_at": "2026-06-02T14:46:58",
     "file": "data/raw-chouja-raideen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chouja-raideen.json"
+  },
+  {
+    "slug": "raw-coji-coji",
+    "mal_id": 3869,
+    "anime_name": "Raw Coji Coji",
+    "anime_url": "https://hianime.ad/anime/raw-coji-coji",
+    "total_episodes": 100,
+    "captured_at": "2026-06-02T14:47:40",
+    "file": "data/raw-coji-coji.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-coji-coji.json"
   }
 ]
