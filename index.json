@@ -5078,5 +5078,15 @@
     "captured_at": "2026-06-02T20:35:50",
     "file": "data/anime-kabibarasan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-kabibarasan.json"
+  },
+  {
+    "slug": "anime-gataris",
+    "mal_id": 35427,
+    "anime_name": "Anime Gataris",
+    "anime_url": "https://hianime.ad/anime/anime-gataris",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:36:24",
+    "file": "data/anime-gataris.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anime-gataris.json"
   }
 ]
