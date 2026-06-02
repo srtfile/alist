@@ -4008,5 +4008,15 @@
     "captured_at": "2026-06-02T19:52:16",
     "file": "data/akiba-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akiba-chan.json"
+  },
+  {
+    "slug": "akibas-trip-the-animation",
+    "mal_id": 34051,
+    "anime_name": "Akibas Trip The Animation",
+    "anime_url": "https://hianime.ad/anime/akibas-trip-the-animation",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:52:36",
+    "file": "data/akibas-trip-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akibas-trip-the-animation.json"
   }
 ]
