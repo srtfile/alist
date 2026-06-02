@@ -6848,5 +6848,15 @@
     "captured_at": "2026-06-02T21:37:10",
     "file": "data/astro-boy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astro-boy.json"
+  },
+  {
+    "slug": "astro-boy-1980",
+    "mal_id": 3044,
+    "anime_name": "Astro Boy 1980",
+    "anime_url": "https://hianime.ad/anime/astro-boy-1980",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T21:39:02",
+    "file": "data/astro-boy-1980.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astro-boy-1980.json"
   }
 ]
