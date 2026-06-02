@@ -2898,5 +2898,15 @@
     "captured_at": "2026-06-02T19:00:20",
     "file": "data/ad-police-files.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ad-police-files.json"
+  },
+  {
+    "slug": "adachi-and-shimamura",
+    "mal_id": 39790,
+    "anime_name": "Adachi And Shimamura",
+    "anime_url": "https://hianime.ad/anime/adachi-and-shimamura",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:00:32",
+    "file": "data/adachi-and-shimamura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/adachi-and-shimamura.json"
   }
 ]
