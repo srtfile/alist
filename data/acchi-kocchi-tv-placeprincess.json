@@ -1,0 +1,52 @@
+{
+  "anime_name": "Acchi Kocchi Tv Placeprincess",
+  "anime_url": "https://hianime.ad/anime/acchi-kocchi-tv-placeprincess",
+  "slug": "acchi-kocchi-tv-placeprincess",
+  "mal_id": 12291,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T18:53:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Here - There",
+      "episode_url": "https://hianime.ad/watch/acchi-kocchi-tv-placeprincess/ep-1",
+      "sub": {
+        "HD-1": {
+          "12291-malep-1_vibeplayer_sub": "https://vibeplayer.site/4d6de4599949533f",
+          "12291-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d6de4599949533f/master.m3u8"
+        },
+        "HD-2": {
+          "12291-malep-1_vibeplayer_sub": "https://vibeplayer.site/age4b09ec951add8c368409eadce9f04204h",
+          "12291-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12291-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mlfy4gvm5bum",
+          "12291-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12291-malep-1_vibeplayer_hsub": "https://vibeplayer.site/78e9905c831cee87",
+          "12291-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78e9905c831cee87/master.m3u8"
+        },
+        "HD-2": {
+          "12291-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag0746412ec99b41383fbdd09899a866904h",
+          "12291-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12291-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6nwt00s6hjnb",
+          "12291-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12291-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ln8oc86u1fn1",
+          "12291-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12291-malep-1_playmogo_hsub": "https://playmogo.com/e/lbmdkkpf4hou",
+          "12291-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
