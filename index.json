@@ -2968,5 +2968,15 @@
     "captured_at": "2026-06-02T19:02:26",
     "file": "data/africa-salaryman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/africa-salaryman.json"
+  },
+  {
+    "slug": "afro-samurai",
+    "mal_id": 1292,
+    "anime_name": "Afro Samurai",
+    "anime_url": "https://hianime.ad/anime/afro-samurai",
+    "total_episodes": 5,
+    "captured_at": "2026-06-02T19:02:46",
+    "file": "data/afro-samurai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/afro-samurai.json"
   }
 ]
