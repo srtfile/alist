@@ -1228,5 +1228,15 @@
     "captured_at": "2026-06-02T16:33:02",
     "file": "data/raw-oraa-guzura-dado-1987.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-oraa-guzura-dado-1987.json"
+  },
+  {
+    "slug": "raw-oretacha-youkai-ningen-g",
+    "mal_id": 37559,
+    "anime_name": "Raw Oretacha Youkai Ningen G",
+    "anime_url": "https://hianime.ad/anime/raw-oretacha-youkai-ningen-g",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T16:33:56",
+    "file": "data/raw-oretacha-youkai-ningen-g.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-oretacha-youkai-ningen-g.json"
   }
 ]
