@@ -3678,5 +3678,15 @@
     "captured_at": "2026-06-02T19:41:42",
     "file": "data/air-gear-special-trick.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-gear-special-trick.json"
+  },
+  {
+    "slug": "air-in-summer",
+    "mal_id": 6822,
+    "anime_name": "Air In Summer",
+    "anime_url": "https://hianime.ad/anime/air-in-summer",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T19:41:53",
+    "file": "data/air-in-summer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-in-summer.json"
   }
 ]
