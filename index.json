@@ -5988,5 +5988,15 @@
     "captured_at": "2026-06-02T21:08:06",
     "file": "data/argento-soma-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/argento-soma-special.json"
+  },
+  {
+    "slug": "argevollen",
+    "mal_id": 23325,
+    "anime_name": "Argevollen",
+    "anime_url": "https://hianime.ad/anime/argevollen",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T21:08:19",
+    "file": "data/argevollen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/argevollen.json"
   }
 ]
