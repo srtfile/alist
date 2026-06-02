@@ -4128,5 +4128,15 @@
     "captured_at": "2026-06-02T19:55:39",
     "file": "data/akuma-kun-youkoso-akuma-land-e.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuma-kun-youkoso-akuma-land-e.json"
+  },
+  {
+    "slug": "alchemy-supreme",
+    "mal_id": 1536,
+    "anime_name": "Alchemy Supreme",
+    "anime_url": "https://hianime.ad/anime/alchemy-supreme",
+    "total_episodes": 169,
+    "captured_at": "2026-06-02T19:55:50",
+    "file": "data/alchemy-supreme.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alchemy-supreme.json"
   }
 ]
