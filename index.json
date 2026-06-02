@@ -498,5 +498,15 @@
     "captured_at": "2026-06-02T14:34:39",
     "file": "data/raw-akuma-kun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-akuma-kun.json"
+  },
+  {
+    "slug": "raw-alice-in-wonderland",
+    "mal_id": 2572,
+    "anime_name": "Raw Alice In Wonderland",
+    "anime_url": "https://hianime.ad/anime/raw-alice-in-wonderland",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T14:35:25",
+    "file": "data/raw-alice-in-wonderland.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-alice-in-wonderland.json"
   }
 ]
