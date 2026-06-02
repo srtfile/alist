@@ -6458,5 +6458,15 @@
     "captured_at": "2026-06-02T21:24:10",
     "file": "data/art-of-fighting.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/art-of-fighting.json"
+  },
+  {
+    "slug": "arte",
+    "mal_id": 40128,
+    "anime_name": "Arte",
+    "anime_url": "https://hianime.ad/anime/arte",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:24:22",
+    "file": "data/arte.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arte.json"
   }
 ]
