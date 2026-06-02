@@ -8308,5 +8308,15 @@
     "captured_at": "2026-06-02T22:39:12",
     "file": "data/bartender.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bartender.json"
+  },
+  {
+    "slug": "bartender-glass-of-god",
+    "mal_id": 53407,
+    "anime_name": "Bartender Glass Of God",
+    "anime_url": "https://hianime.ad/anime/bartender-glass-of-god",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:39:33",
+    "file": "data/bartender-glass-of-god.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bartender-glass-of-god.json"
   }
 ]
