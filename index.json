@@ -3348,5 +3348,15 @@
     "captured_at": "2026-06-02T19:21:06",
     "file": "data/ahiru-no-sora.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ahiru-no-sora.json"
+  },
+  {
+    "slug": "aho-girl",
+    "mal_id": 34881,
+    "anime_name": "Aho Girl",
+    "anime_url": "https://hianime.ad/anime/aho-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:22:00",
+    "file": "data/aho-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aho-girl.json"
   }
 ]
