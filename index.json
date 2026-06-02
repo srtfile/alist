@@ -1338,5 +1338,15 @@
     "captured_at": "2026-06-02T16:51:50",
     "file": "data/raw-sarutobi-ecchan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-sarutobi-ecchan.json"
+  },
+  {
+    "slug": "raw-shin-bikkuriman",
+    "mal_id": 9885,
+    "anime_name": "Raw Shin Bikkuriman",
+    "anime_url": "https://hianime.ad/anime/raw-shin-bikkuriman",
+    "total_episodes": 72,
+    "captured_at": "2026-06-02T16:52:26",
+    "file": "data/raw-shin-bikkuriman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-shin-bikkuriman.json"
   }
 ]
