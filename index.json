@@ -5348,5 +5348,15 @@
     "captured_at": "2026-06-02T20:44:30",
     "file": "data/antique-bakery.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/antique-bakery.json"
+  },
+  {
+    "slug": "any-and-all-living-things",
+    "mal_id": 63431,
+    "anime_name": "Any And All Living Things",
+    "anime_url": "https://hianime.ad/anime/any-and-all-living-things",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:44:53",
+    "file": "data/any-and-all-living-things.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/any-and-all-living-things.json"
   }
 ]
