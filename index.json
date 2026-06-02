@@ -528,5 +528,15 @@
     "captured_at": "2026-06-02T14:36:28",
     "file": "data/raw-asari-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-asari-chan.json"
+  },
+  {
+    "slug": "raw-bikkuriman",
+    "mal_id": 3909,
+    "anime_name": "Raw Bikkuriman",
+    "anime_url": "https://hianime.ad/anime/raw-bikkuriman",
+    "total_episodes": 75,
+    "captured_at": "2026-06-02T14:37:23",
+    "file": "data/raw-bikkuriman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-bikkuriman.json"
   }
 ]
