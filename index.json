@@ -1378,5 +1378,15 @@
     "captured_at": "2026-06-02T16:55:20",
     "file": "data/raw-tensai-bakabon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-tensai-bakabon.json"
+  },
+  {
+    "slug": "raw-the-many-dream-journeys-of-meme",
+    "mal_id": 3436,
+    "anime_name": "Raw The Many Dream Journeys Of Meme",
+    "anime_url": "https://hianime.ad/anime/raw-the-many-dream-journeys-of-meme",
+    "total_episodes": 127,
+    "captured_at": "2026-06-02T16:56:11",
+    "file": "data/raw-the-many-dream-journeys-of-meme.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-the-many-dream-journeys-of-meme.json"
   }
 ]
