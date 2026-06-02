@@ -3458,5 +3458,15 @@
     "captured_at": "2026-06-02T19:29:21",
     "file": "data/aika-r-16-virgin-mission.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aika-r-16-virgin-mission.json"
+  },
+  {
+    "slug": "aika-zero",
+    "mal_id": 36000,
+    "anime_name": "Aika Zero",
+    "anime_url": "https://hianime.ad/anime/aika-zero",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T19:29:34",
+    "file": "data/aika-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aika-zero.json"
   }
 ]
