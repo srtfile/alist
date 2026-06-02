@@ -1808,5 +1808,15 @@
     "captured_at": "2026-06-02T17:18:41",
     "file": "data/91-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/91-days.json"
+  },
+  {
+    "slug": "91-days-brief-candle",
+    "mal_id": 32998,
+    "anime_name": "91 Days Brief Candle",
+    "anime_url": "https://hianime.ad/anime/91-days-brief-candle",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T17:19:03",
+    "file": "data/91-days-brief-candle.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/91-days-brief-candle.json"
   }
 ]
