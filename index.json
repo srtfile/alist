@@ -3238,5 +3238,15 @@
     "captured_at": "2026-06-02T19:17:37",
     "file": "data/aguu-genius-dolls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aguu-genius-dolls.json"
+  },
+  {
+    "slug": "ah-my-buddha",
+    "mal_id": 591,
+    "anime_name": "Ah My Buddha",
+    "anime_url": "https://hianime.ad/anime/ah-my-buddha",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:17:57",
+    "file": "data/ah-my-buddha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ah-my-buddha.json"
   }
 ]
