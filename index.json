@@ -3018,5 +3018,15 @@
     "captured_at": "2026-06-02T19:03:45",
     "file": "data/after-school-midnighters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/after-school-midnighters.json"
+  },
+  {
+    "slug": "after-the-rain",
+    "mal_id": 34984,
+    "anime_name": "After The Rain",
+    "anime_url": "https://hianime.ad/anime/after-the-rain",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:03:55",
+    "file": "data/after-the-rain.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/after-the-rain.json"
   }
 ]
