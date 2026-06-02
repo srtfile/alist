@@ -9058,5 +9058,15 @@
     "captured_at": "2026-06-02T23:56:20",
     "file": "data/bem-movie-become-human.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bem-movie-become-human.json"
+  },
+  {
+    "slug": "ben-to",
+    "mal_id": 10396,
+    "anime_name": "Ben To",
+    "anime_url": "https://hianime.ad/anime/ben-to",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:56:31",
+    "file": "data/ben-to.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ben-to.json"
   }
 ]
