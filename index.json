@@ -4208,5 +4208,15 @@
     "captured_at": "2026-06-02T20:00:53",
     "file": "data/alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix.json"
+  },
+  {
+    "slug": "alice-or-alice",
+    "mal_id": 36001,
+    "anime_name": "Alice Or Alice",
+    "anime_url": "https://hianime.ad/anime/alice-or-alice",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:01:05",
+    "file": "data/alice-or-alice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-or-alice.json"
   }
 ]
