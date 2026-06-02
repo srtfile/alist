@@ -8638,5 +8638,15 @@
     "captured_at": "2026-06-02T23:37:44",
     "file": "data/battle-spirits-sword-eyes-gekitouden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-sword-eyes-gekitouden.json"
+  },
+  {
+    "slug": "battle-through-the-heavens",
+    "mal_id": 24231,
+    "anime_name": "Battle Through The Heavens",
+    "anime_url": "https://hianime.ad/anime/battle-through-the-heavens",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:38:12",
+    "file": "data/battle-through-the-heavens.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-through-the-heavens.json"
   }
 ]
