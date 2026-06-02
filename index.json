@@ -8558,5 +8558,15 @@
     "captured_at": "2026-06-02T23:33:36",
     "file": "data/battle-skipper.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-skipper.json"
+  },
+  {
+    "slug": "battle-spirits-brave",
+    "mal_id": 9346,
+    "anime_name": "Battle Spirits Brave",
+    "anime_url": "https://hianime.ad/anime/battle-spirits-brave",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T23:33:48",
+    "file": "data/battle-spirits-brave.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-spirits-brave.json"
   }
 ]
