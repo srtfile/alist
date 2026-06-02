@@ -1498,5 +1498,15 @@
     "captured_at": "2026-06-02T17:07:18",
     "file": "data/009-recyborg.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/009-recyborg.json"
+  },
+  {
+    "slug": "009-1",
+    "mal_id": 1583,
+    "anime_name": "009 1",
+    "anime_url": "https://hianime.ad/anime/009-1",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:07:30",
+    "file": "data/009-1.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/009-1.json"
   }
 ]
