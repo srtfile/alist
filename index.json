@@ -1858,5 +1858,15 @@
     "captured_at": "2026-06-02T17:20:15",
     "file": "data/a-centaurs-life.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-centaurs-life.json"
+  },
+  {
+    "slug": "a-certain-magical-index",
+    "mal_id": 4654,
+    "anime_name": "A Certain Magical Index",
+    "anime_url": "https://hianime.ad/anime/a-certain-magical-index",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T17:20:37",
+    "file": "data/a-certain-magical-index.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-certain-magical-index.json"
   }
 ]
