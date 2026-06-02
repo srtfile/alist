@@ -3938,5 +3938,15 @@
     "captured_at": "2026-06-02T19:50:05",
     "file": "data/akazukin-chacha-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akazukin-chacha-ova.json"
+  },
+  {
+    "slug": "akb0048",
+    "mal_id": 12149,
+    "anime_name": "Akb0048",
+    "anime_url": "https://hianime.ad/anime/akb0048",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T19:50:19",
+    "file": "data/akb0048.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akb0048.json"
   }
 ]
