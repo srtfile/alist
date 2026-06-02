@@ -8258,5 +8258,15 @@
     "captured_at": "2026-06-02T22:38:00",
     "file": "data/barefoot-gen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barefoot-gen.json"
+  },
+  {
+    "slug": "barefoot-gen-2",
+    "mal_id": 38524,
+    "anime_name": "Barefoot Gen 2",
+    "anime_url": "https://hianime.ad/anime/barefoot-gen-2",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:38:13",
+    "file": "data/barefoot-gen-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barefoot-gen-2.json"
   }
 ]
