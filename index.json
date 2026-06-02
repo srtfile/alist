@@ -8968,5 +8968,15 @@
     "captured_at": "2026-06-02T23:51:34",
     "file": "data/beck-mongolian-chop-squad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beck-mongolian-chop-squad.json"
+  },
+  {
+    "slug": "beelzebub",
+    "mal_id": 9513,
+    "anime_name": "Beelzebub",
+    "anime_url": "https://hianime.ad/anime/beelzebub",
+    "total_episodes": 60,
+    "captured_at": "2026-06-02T23:52:06",
+    "file": "data/beelzebub.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beelzebub.json"
   }
 ]
