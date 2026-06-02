@@ -1168,5 +1168,15 @@
     "captured_at": "2026-06-02T16:18:44",
     "file": "data/raw-manga-nihonshi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-manga-nihonshi.json"
+  },
+  {
+    "slug": "raw-microid-s",
+    "mal_id": 3846,
+    "anime_name": "Raw Microid S",
+    "anime_url": "https://hianime.ad/anime/raw-microid-s",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T16:19:51",
+    "file": "data/raw-microid-s.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-microid-s.json"
   }
 ]
