@@ -638,5 +638,15 @@
     "captured_at": "2026-06-02T14:46:37",
     "file": "data/raw-chimpui-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui-specials.json"
+  },
+  {
+    "slug": "raw-chimpui-eri-sama-katsudou-daishashin",
+    "mal_id": 5343,
+    "anime_name": "Raw Chimpui Eri Sama Katsudou Daishashin",
+    "anime_url": "https://hianime.ad/anime/raw-chimpui-eri-sama-katsudou-daishashin",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T14:46:48",
+    "file": "data/raw-chimpui-eri-sama-katsudou-daishashin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-chimpui-eri-sama-katsudou-daishashin.json"
   }
 ]
