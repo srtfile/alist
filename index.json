@@ -1558,5 +1558,15 @@
     "captured_at": "2026-06-02T17:09:12",
     "file": "data/100-teacher-pascal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/100-teacher-pascal.json"
+  },
+  {
+    "slug": "11eyes",
+    "mal_id": 6682,
+    "anime_name": "11Eyes",
+    "anime_url": "https://hianime.ad/anime/11eyes",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T17:09:57",
+    "file": "data/11eyes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/11eyes.json"
   }
 ]
