@@ -6788,5 +6788,15 @@
     "captured_at": "2026-06-02T21:34:18",
     "file": "data/astarottes-toy-ex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/astarottes-toy-ex.json"
+  },
+  {
+    "slug": "asteroid-in-love",
+    "mal_id": 39388,
+    "anime_name": "Asteroid In Love",
+    "anime_url": "https://hianime.ad/anime/asteroid-in-love",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:34:30",
+    "file": "data/asteroid-in-love.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/asteroid-in-love.json"
   }
 ]
