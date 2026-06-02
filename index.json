@@ -4598,5 +4598,15 @@
     "captured_at": "2026-06-02T20:15:39",
     "file": "data/ame-to-shoujo-to-watashi-no-tegami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ame-to-shoujo-to-watashi-no-tegami.json"
+  },
+  {
+    "slug": "ame-con",
+    "mal_id": 35923,
+    "anime_name": "Ame Con",
+    "anime_url": "https://hianime.ad/anime/ame-con",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:15:51",
+    "file": "data/ame-con.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ame-con.json"
   }
 ]
