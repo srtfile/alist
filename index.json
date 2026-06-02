@@ -4178,5 +4178,15 @@
     "captured_at": "2026-06-02T19:59:56",
     "file": "data/aldnoah-zero-ame-no-danshou-the-penultimate-truth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aldnoah-zero-ame-no-danshou-the-penultimate-truth.json"
+  },
+  {
+    "slug": "alice-zoroku",
+    "mal_id": 34350,
+    "anime_name": "Alice Zoroku",
+    "anime_url": "https://hianime.ad/anime/alice-zoroku",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:00:07",
+    "file": "data/alice-zoroku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-zoroku.json"
   }
 ]
