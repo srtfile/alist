@@ -8448,5 +8448,15 @@
     "captured_at": "2026-06-02T23:30:03",
     "file": "data/battle-angel-alita.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-angel-alita.json"
+  },
+  {
+    "slug": "battle-arena-toshinden",
+    "mal_id": 24231,
+    "anime_name": "Battle Arena Toshinden",
+    "anime_url": "https://hianime.ad/anime/battle-arena-toshinden",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T23:30:14",
+    "file": "data/battle-arena-toshinden.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/battle-arena-toshinden.json"
   }
 ]
