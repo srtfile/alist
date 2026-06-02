@@ -1,0 +1,73 @@
+{
+  "anime_name": "A Whisker Away",
+  "anime_url": "https://hianime.ad/anime/a-whisker-away",
+  "slug": "a-whisker-away",
+  "mal_id": 54233,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T18:45:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Roof, a Guitar, and Senpai",
+      "episode_url": "https://hianime.ad/watch/a-whisker-away/ep-1",
+      "sub": {
+        "HD-1": {
+          "54233-malep-1_vibeplayer_sub": "https://vibeplayer.site/6c40850dcc3dd84e",
+          "54233-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c40850dcc3dd84e/master.m3u8"
+        },
+        "HD-2": {
+          "54233-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0367dd44856b3c3e76d5dd06f6c3eb764h",
+          "54233-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "54233-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k1kpde86btwy",
+          "54233-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "54233-malep-1_playmogo_sub": "https://playmogo.com/e/6rt6cw5b0q5l",
+          "54233-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "54233-malep-1_vibeplayer_dub": "https://vibeplayer.site/149314ef16360ecf",
+          "54233-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/149314ef16360ecf/master.m3u8"
+        },
+        "HD-2": {
+          "54233-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag3e330da3693cd8b79767a7561bfff4324h",
+          "54233-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "54233-malep-1_otakuhg_dub": "https://otakuhg.site/e/of70aukjjl9b",
+          "54233-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "54233-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hbe25baumnmz",
+          "54233-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "54233-malep-1_vibeplayer_hsub": "https://vibeplayer.site/150aab1fa7de4c1a",
+          "54233-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/150aab1fa7de4c1a/master.m3u8"
+        },
+        "HD-2": {
+          "54233-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6264390d7b3e4b842fa2c06dc755ab244h",
+          "54233-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "54233-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z76z1vt066y5",
+          "54233-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "54233-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c7ptc715ww9w",
+          "54233-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54233-malep-1_playmogo_hsub": "https://playmogo.com/e/dgiw4xehdh04",
+          "54233-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
