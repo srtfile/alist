@@ -2658,5 +2658,15 @@
     "captured_at": "2026-06-02T18:50:30",
     "file": "data/aa-megami-sama-tv-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aa-megami-sama-tv-specials.json"
+  },
+  {
+    "slug": "aa-megami-sama-tatakau-tsubasa",
+    "mal_id": 50,
+    "anime_name": "Aa Megami Sama Tatakau Tsubasa",
+    "anime_url": "https://hianime.ad/anime/aa-megami-sama-tatakau-tsubasa",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T18:50:42",
+    "file": "data/aa-megami-sama-tatakau-tsubasa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aa-megami-sama-tatakau-tsubasa.json"
   }
 ]
