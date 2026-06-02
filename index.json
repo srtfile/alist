@@ -3738,5 +3738,15 @@
     "captured_at": "2026-06-02T19:43:40",
     "file": "data/aishen-qiaokeli-ing-ii.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aishen-qiaokeli-ing-ii.json"
+  },
+  {
+    "slug": "aiura",
+    "mal_id": 17082,
+    "anime_name": "Aiura",
+    "anime_url": "https://hianime.ad/anime/aiura",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:44:05",
+    "file": "data/aiura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aiura.json"
   }
 ]
