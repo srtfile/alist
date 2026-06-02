@@ -8178,5 +8178,15 @@
     "captured_at": "2026-06-02T22:35:22",
     "file": "data/banished-from-the-heroes-party.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/banished-from-the-heroes-party.json"
+  },
+  {
+    "slug": "banner-of-the-stars",
+    "mal_id": 396,
+    "anime_name": "Banner Of The Stars",
+    "anime_url": "https://hianime.ad/anime/banner-of-the-stars",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T22:35:45",
+    "file": "data/banner-of-the-stars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/banner-of-the-stars.json"
   }
 ]
