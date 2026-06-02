@@ -7118,5 +7118,15 @@
     "captured_at": "2026-06-02T21:50:17",
     "file": "data/attack-on-titan-wings-of-freedom.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-on-titan-wings-of-freedom.json"
+  },
+  {
+    "slug": "attack-on-tomorrow",
+    "mal_id": 4339,
+    "anime_name": "Attack On Tomorrow",
+    "anime_url": "https://hianime.ad/anime/attack-on-tomorrow",
+    "total_episodes": 23,
+    "captured_at": "2026-06-02T21:50:28",
+    "file": "data/attack-on-tomorrow.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-on-tomorrow.json"
   }
 ]
