@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bang Dream Film Live",
+  "anime_url": "https://hianime.ad/anime/bang-dream-film-live",
+  "slug": "bang-dream-film-live",
+  "mal_id": 33573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:32:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Met!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-film-live/ep-1",
+      "sub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/3471f28c769bfc1b",
+          "33573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3471f28c769bfc1b/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag34cdccfa67ca85f99c5950fac56afbe54h",
+          "33573-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kpban60m3n5x",
+          "33573-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_sub": "https://playmogo.com/e/nc1wi514ldr7",
+          "33573-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bfd3e697b97e243b",
+          "33573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bfd3e697b97e243b/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag30c00564f648f5d7d041822fc0002fb04h",
+          "33573-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "33573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a6dljjl87oj4",
+          "33573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j7583uemfc31",
+          "33573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_hsub": "https://playmogo.com/e/aj0z8ou4khnj",
+          "33573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
