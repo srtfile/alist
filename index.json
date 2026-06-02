@@ -918,5 +918,15 @@
     "captured_at": "2026-06-02T15:45:57",
     "file": "data/raw-gu-gu-ganmo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-gu-gu-ganmo.json"
+  },
+  {
+    "slug": "raw-guru-guru-town-hanamaru-kun",
+    "mal_id": 8195,
+    "anime_name": "Raw Guru Guru Town Hanamaru Kun",
+    "anime_url": "https://hianime.ad/anime/raw-guru-guru-town-hanamaru-kun",
+    "total_episodes": 101,
+    "captured_at": "2026-06-02T15:49:32",
+    "file": "data/raw-guru-guru-town-hanamaru-kun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-guru-guru-town-hanamaru-kun.json"
   }
 ]
