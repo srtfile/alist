@@ -6058,5 +6058,15 @@
     "captured_at": "2026-06-02T21:10:19",
     "file": "data/aria-the-natural.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-natural.json"
+  },
+  {
+    "slug": "aria-the-origination",
+    "mal_id": 3297,
+    "anime_name": "Aria The Origination",
+    "anime_url": "https://hianime.ad/anime/aria-the-origination",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T21:10:56",
+    "file": "data/aria-the-origination.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aria-the-origination.json"
   }
 ]
