@@ -4568,5 +4568,15 @@
     "captured_at": "2026-06-02T20:14:34",
     "file": "data/amazing-nurse-nanako.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amazing-nurse-nanako.json"
+  },
+  {
+    "slug": "amazing-stranger",
+    "mal_id": 38226,
+    "anime_name": "Amazing Stranger",
+    "anime_url": "https://hianime.ad/anime/amazing-stranger",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:14:51",
+    "file": "data/amazing-stranger.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amazing-stranger.json"
   }
 ]
