@@ -3688,5 +3688,15 @@
     "captured_at": "2026-06-02T19:41:53",
     "file": "data/air-in-summer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-in-summer.json"
+  },
+  {
+    "slug": "air-master",
+    "mal_id": 230,
+    "anime_name": "Air Master",
+    "anime_url": "https://hianime.ad/anime/air-master",
+    "total_episodes": 27,
+    "captured_at": "2026-06-02T19:42:06",
+    "file": "data/air-master.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/air-master.json"
   }
 ]
