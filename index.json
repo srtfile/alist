@@ -8338,5 +8338,15 @@
     "captured_at": "2026-06-02T22:40:29",
     "file": "data/basilisk-the-ouka-ninja-scrolls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/basilisk-the-ouka-ninja-scrolls.json"
+  },
+  {
+    "slug": "basquash",
+    "mal_id": 5675,
+    "anime_name": "Basquash",
+    "anime_url": "https://hianime.ad/anime/basquash",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T22:41:03",
+    "file": "data/basquash.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/basquash.json"
   }
 ]
