@@ -7518,5 +7518,15 @@
     "captured_at": "2026-06-02T22:06:24",
     "file": "data/baccano.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baccano.json"
+  },
+  {
+    "slug": "baccano-specials",
+    "mal_id": 2251,
+    "anime_name": "Baccano Specials",
+    "anime_url": "https://hianime.ad/anime/baccano-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-02T22:06:48",
+    "file": "data/baccano-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/baccano-specials.json"
   }
 ]
