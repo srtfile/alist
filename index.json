@@ -7818,5 +7818,15 @@
     "captured_at": "2026-06-02T22:20:24",
     "file": "data/bakugan-evolutions.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakugan-evolutions.json"
+  },
+  {
+    "slug": "bakugan-geogan-rising",
+    "mal_id": 7334,
+    "anime_name": "Bakugan Geogan Rising",
+    "anime_url": "https://hianime.ad/anime/bakugan-geogan-rising",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T22:20:48",
+    "file": "data/bakugan-geogan-rising.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakugan-geogan-rising.json"
   }
 ]
