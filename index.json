@@ -7868,5 +7868,15 @@
     "captured_at": "2026-06-02T22:23:29",
     "file": "data/bakuman-252.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuman-252.json"
+  },
+  {
+    "slug": "bakumatsu",
+    "mal_id": 37584,
+    "anime_name": "Bakumatsu",
+    "anime_url": "https://hianime.ad/anime/bakumatsu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T22:24:04",
+    "file": "data/bakumatsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu.json"
   }
 ]
