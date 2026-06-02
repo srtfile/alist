@@ -6478,5 +6478,15 @@
     "captured_at": "2026-06-02T21:24:43",
     "file": "data/artiswitch.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/artiswitch.json"
+  },
+  {
+    "slug": "aru-tabibito-no-nikki",
+    "mal_id": 31952,
+    "anime_name": "Aru Tabibito No Nikki",
+    "anime_url": "https://hianime.ad/anime/aru-tabibito-no-nikki",
+    "total_episodes": 6,
+    "captured_at": "2026-06-02T21:25:00",
+    "file": "data/aru-tabibito-no-nikki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aru-tabibito-no-nikki.json"
   }
 ]
