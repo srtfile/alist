@@ -1,0 +1,52 @@
+{
+  "anime_name": "Belladonna Of Sadness",
+  "anime_url": "https://hianime.ad/anime/belladonna-of-sadness",
+  "slug": "belladonna-of-sadness",
+  "mal_id": 2815,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T23:55:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/belladonna-of-sadness/ep-1",
+      "sub": {
+        "HD-1": {
+          "2815-malep-1_vibeplayer_sub": "https://vibeplayer.site/af240c21c48f703d",
+          "2815-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af240c21c48f703d/master.m3u8"
+        },
+        "HD-2": {
+          "2815-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag76cfecd2f89cb52523dc0801a7c9aa454h",
+          "2815-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2815-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z9az6v2fb1lb",
+          "2815-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2815-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bc804568e120a354",
+          "2815-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc804568e120a354/master.m3u8"
+        },
+        "HD-2": {
+          "2815-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga3f1b680153dd12c365b452c41b6ab3f4h",
+          "2815-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2815-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vveaha9zr8k9",
+          "2815-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2815-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9blt5vewswec",
+          "2815-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2815-malep-1_playmogo_hsub": "https://playmogo.com/e/gcfara9ou3y9",
+          "2815-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
