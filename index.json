@@ -958,5 +958,15 @@
     "captured_at": "2026-06-02T15:53:52",
     "file": "data/raw-himitsu-no-akko-chan-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-himitsu-no-akko-chan-3.json"
+  },
+  {
+    "slug": "raw-idaten-jump",
+    "mal_id": 1316,
+    "anime_name": "Raw Idaten Jump",
+    "anime_url": "https://hianime.ad/anime/raw-idaten-jump",
+    "total_episodes": 52,
+    "captured_at": "2026-06-02T15:54:46",
+    "file": "data/raw-idaten-jump.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-idaten-jump.json"
   }
 ]
