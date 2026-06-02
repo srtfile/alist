@@ -688,5 +688,15 @@
     "captured_at": "2026-06-02T14:50:18",
     "file": "data/raw-d-i-c-e.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-d-i-c-e.json"
+  },
+  {
+    "slug": "raw-dangard-ace",
+    "mal_id": 1986,
+    "anime_name": "Raw Dangard Ace",
+    "anime_url": "https://hianime.ad/anime/raw-dangard-ace",
+    "total_episodes": 56,
+    "captured_at": "2026-06-02T14:51:02",
+    "file": "data/raw-dangard-ace.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-dangard-ace.json"
   }
 ]
