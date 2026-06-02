@@ -5178,5 +5178,15 @@
     "captured_at": "2026-06-02T20:40:11",
     "file": "data/anohana-the-flower-we-saw-that-day-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anohana-the-flower-we-saw-that-day-the-movie.json"
+  },
+  {
+    "slug": "anonymous-noise",
+    "mal_id": 33203,
+    "anime_name": "Anonymous Noise",
+    "anime_url": "https://hianime.ad/anime/anonymous-noise",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:40:22",
+    "file": "data/anonymous-noise.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anonymous-noise.json"
   }
 ]
