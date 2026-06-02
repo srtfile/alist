@@ -668,5 +668,15 @@
     "captured_at": "2026-06-02T14:47:40",
     "file": "data/raw-coji-coji.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-coji-coji.json"
+  },
+  {
+    "slug": "raw-cyborg-kuro-chan",
+    "mal_id": 2907,
+    "anime_name": "Raw Cyborg Kuro Chan",
+    "anime_url": "https://hianime.ad/anime/raw-cyborg-kuro-chan",
+    "total_episodes": 66,
+    "captured_at": "2026-06-02T14:49:14",
+    "file": "data/raw-cyborg-kuro-chan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-cyborg-kuro-chan.json"
   }
 ]
