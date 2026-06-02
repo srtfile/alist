@@ -6658,5 +6658,15 @@
     "captured_at": "2026-06-02T21:30:08",
     "file": "data/ashita-no-joe-pilots.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ashita-no-joe-pilots.json"
+  },
+  {
+    "slug": "asobi-asobase-ova",
+    "mal_id": 37171,
+    "anime_name": "Asobi Asobase Ova",
+    "anime_url": "https://hianime.ad/anime/asobi-asobase-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:30:20",
+    "file": "data/asobi-asobase-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/asobi-asobase-ova.json"
   }
 ]
