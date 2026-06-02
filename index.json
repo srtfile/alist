@@ -558,5 +558,15 @@
     "captured_at": "2026-06-02T14:39:02",
     "file": "data/raw-biriken.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-biriken.json"
+  },
+  {
+    "slug": "raw-blocker-gundan-iv-machine-blaster",
+    "mal_id": 5829,
+    "anime_name": "Raw Blocker Gundan Iv Machine Blaster",
+    "anime_url": "https://hianime.ad/anime/raw-blocker-gundan-iv-machine-blaster",
+    "total_episodes": 38,
+    "captured_at": "2026-06-02T14:39:38",
+    "file": "data/raw-blocker-gundan-iv-machine-blaster.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-blocker-gundan-iv-machine-blaster.json"
   }
 ]
