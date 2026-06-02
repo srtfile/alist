@@ -4928,5 +4928,15 @@
     "captured_at": "2026-06-02T20:31:07",
     "file": "data/angels-egg.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-egg.json"
+  },
+  {
+    "slug": "angels-feather",
+    "mal_id": 21053,
+    "anime_name": "Angels Feather",
+    "anime_url": "https://hianime.ad/anime/angels-feather",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T20:31:19",
+    "file": "data/angels-feather.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/angels-feather.json"
   }
 ]
