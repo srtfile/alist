@@ -5098,5 +5098,15 @@
     "captured_at": "2026-06-02T20:36:47",
     "file": "data/animejapan-awards-2026.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/animejapan-awards-2026.json"
+  },
+  {
+    "slug": "anisava",
+    "mal_id": 27757,
+    "anime_name": "Anisava",
+    "anime_url": "https://hianime.ad/anime/anisava",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:37:04",
+    "file": "data/anisava.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anisava.json"
   }
 ]
