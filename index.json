@@ -758,5 +758,15 @@
     "captured_at": "2026-06-02T14:57:08",
     "file": "data/raw-duel-masters-versus-revolution-final.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-versus-revolution-final.json"
+  },
+  {
+    "slug": "raw-duel-masters-victory",
+    "mal_id": 10524,
+    "anime_name": "Raw Duel Masters Victory",
+    "anime_url": "https://hianime.ad/anime/raw-duel-masters-victory",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T14:58:00",
+    "file": "data/raw-duel-masters-victory.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-duel-masters-victory.json"
   }
 ]
