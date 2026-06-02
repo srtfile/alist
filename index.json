@@ -8228,5 +8228,15 @@
     "captured_at": "2026-06-02T22:36:51",
     "file": "data/barakamon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barakamon.json"
+  },
+  {
+    "slug": "barangay-143",
+    "mal_id": null,
+    "anime_name": "Barangay 143",
+    "anime_url": "https://hianime.ad/anime/barangay-143",
+    "total_episodes": 14,
+    "captured_at": "2026-06-02T22:37:13",
+    "file": "data/barangay-143.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/barangay-143.json"
   }
 ]
