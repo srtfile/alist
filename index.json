@@ -1398,5 +1398,15 @@
     "captured_at": "2026-06-02T16:58:23",
     "file": "data/raw-tottemo-luckyman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-tottemo-luckyman.json"
+  },
+  {
+    "slug": "raw-ultra-b",
+    "mal_id": 10250,
+    "anime_name": "Raw Ultra B",
+    "anime_url": "https://hianime.ad/anime/raw-ultra-b",
+    "total_episodes": 117,
+    "captured_at": "2026-06-02T16:59:23",
+    "file": "data/raw-ultra-b.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-ultra-b.json"
   }
 ]
