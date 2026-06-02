@@ -4108,5 +4108,15 @@
     "captured_at": "2026-06-02T19:55:05",
     "file": "data/akuma-kun-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuma-kun-movie.json"
+  },
+  {
+    "slug": "akuma-kun-ona",
+    "mal_id": 8194,
+    "anime_name": "Akuma Kun Ona",
+    "anime_url": "https://hianime.ad/anime/akuma-kun-ona",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:55:17",
+    "file": "data/akuma-kun-ona.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akuma-kun-ona.json"
   }
 ]
