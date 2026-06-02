@@ -1148,5 +1148,15 @@
     "captured_at": "2026-06-02T16:17:05",
     "file": "data/raw-mameushi-kun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-mameushi-kun.json"
+  },
+  {
+    "slug": "raw-manga-aesop-monogatari-tv",
+    "mal_id": 3180,
+    "anime_name": "Raw Manga Aesop Monogatari Tv",
+    "anime_url": "https://hianime.ad/anime/raw-manga-aesop-monogatari-tv",
+    "total_episodes": 26,
+    "captured_at": "2026-06-02T16:18:08",
+    "file": "data/raw-manga-aesop-monogatari-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-manga-aesop-monogatari-tv.json"
   }
 ]
