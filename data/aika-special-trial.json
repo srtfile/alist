@@ -1,0 +1,61 @@
+{
+  "anime_name": "Aika Special Trial",
+  "anime_url": "https://hianime.ad/anime/aika-special-trial",
+  "slug": "aika-special-trial",
+  "mal_id": 36000,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:30:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gonna Fish in Space!",
+      "episode_url": "https://hianime.ad/watch/aika-special-trial/ep-1",
+      "sub": {
+        "HD-1": {
+          "36000-malep-1_vibeplayer_sub": "https://vibeplayer.site/effe256571588b28",
+          "36000-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/effe256571588b28/master.m3u8"
+        },
+        "HD-2": {
+          "36000-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0db94d342c206521ac6bcdd6a5ba45664h",
+          "36000-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36000-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jolv6k1iv1fy",
+          "36000-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "36000-malep-1_vibeplayer_dub": "https://vibeplayer.site/9eca3b822a5222a4",
+          "36000-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9eca3b822a5222a4/master.m3u8"
+        },
+        "HD-2": {
+          "36000-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag40745d8192d08222f5b3be77b74ca8cc4h",
+          "36000-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "36000-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ltaxxgfollqs",
+          "36000-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "36000-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2b98a02ddd2d0d6d",
+          "36000-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2b98a02ddd2d0d6d/master.m3u8"
+        },
+        "HD-2": {
+          "36000-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag66529c95725b79321b9804bf407964a74h",
+          "36000-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "36000-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tzvhtkmrwwke",
+          "36000-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36000-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ld49faqpcjxw",
+          "36000-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
