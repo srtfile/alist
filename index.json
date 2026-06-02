@@ -4218,5 +4218,15 @@
     "captured_at": "2026-06-02T20:01:05",
     "file": "data/alice-or-alice.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alice-or-alice.json"
+  },
+  {
+    "slug": "alien-9",
+    "mal_id": 6899,
+    "anime_name": "Alien 9",
+    "anime_url": "https://hianime.ad/anime/alien-9",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T20:01:27",
+    "file": "data/alien-9.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/alien-9.json"
   }
 ]
