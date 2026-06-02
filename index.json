@@ -6998,5 +6998,15 @@
     "captured_at": "2026-06-02T21:45:24",
     "file": "data/atri-my-dear-moments.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/atri-my-dear-moments.json"
+  },
+  {
+    "slug": "attack-no-1",
+    "mal_id": 1550,
+    "anime_name": "Attack No 1",
+    "anime_url": "https://hianime.ad/anime/attack-no-1",
+    "total_episodes": 104,
+    "captured_at": "2026-06-02T21:45:48",
+    "file": "data/attack-no-1.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/attack-no-1.json"
   }
 ]
