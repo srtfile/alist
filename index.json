@@ -9098,5 +9098,15 @@
     "captured_at": "2026-06-02T23:57:21",
     "file": "data/berserk-1997.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/berserk-1997.json"
+  },
+  {
+    "slug": "berserk-2016",
+    "mal_id": 32379,
+    "anime_name": "Berserk 2016",
+    "anime_url": "https://hianime.ad/anime/berserk-2016",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:57:52",
+    "file": "data/berserk-2016.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/berserk-2016.json"
   }
 ]
