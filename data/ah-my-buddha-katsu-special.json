@@ -1,0 +1,36 @@
+{
+  "anime_name": "Ah My Buddha Katsu Special",
+  "anime_url": "https://hianime.ad/anime/ah-my-buddha-katsu-special",
+  "slug": "ah-my-buddha-katsu-special",
+  "mal_id": 886,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:18:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Don't Tempt Me!!",
+      "episode_url": "https://hianime.ad/watch/ah-my-buddha-katsu-special/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "886-malep-1_vibeplayer_raw": "https://vibeplayer.site/b7aeb3446711eb32",
+          "886-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/b7aeb3446711eb32/master.m3u8"
+        },
+        "HD-2": {
+          "886-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag13da446c7a73253aab6e6c0a7b7afcd24h",
+          "886-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "886-malep-1_otakuhg_raw": "https://otakuhg.site/e/hdok7n6t6o1w",
+          "886-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "886-malep-1_otakuvid_raw": "https://otakuvid.online/embed/kgmoo6ik80e4",
+          "886-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
