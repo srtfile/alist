@@ -3488,5 +3488,15 @@
     "captured_at": "2026-06-02T19:30:00",
     "file": "data/aika-special-trial.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aika-special-trial.json"
+  },
+  {
+    "slug": "aikatsu-friends",
+    "mal_id": 37204,
+    "anime_name": "Aikatsu Friends",
+    "anime_url": "https://hianime.ad/anime/aikatsu-friends",
+    "total_episodes": 50,
+    "captured_at": "2026-06-02T19:30:12",
+    "file": "data/aikatsu-friends.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aikatsu-friends.json"
   }
 ]
