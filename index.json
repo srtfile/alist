@@ -7578,5 +7578,15 @@
     "captured_at": "2026-06-02T22:08:50",
     "file": "data/backflip.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/backflip.json"
+  },
+  {
+    "slug": "backflip-the-movie",
+    "mal_id": 43756,
+    "anime_name": "Backflip The Movie",
+    "anime_url": "https://hianime.ad/anime/backflip-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T22:09:13",
+    "file": "data/backflip-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/backflip-the-movie.json"
   }
 ]
