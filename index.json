@@ -6648,5 +6648,15 @@
     "captured_at": "2026-06-02T21:29:56",
     "file": "data/ashita-no-joe-2-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ashita-no-joe-2-movie.json"
+  },
+  {
+    "slug": "ashita-no-joe-pilots",
+    "mal_id": 2402,
+    "anime_name": "Ashita No Joe Pilots",
+    "anime_url": "https://hianime.ad/anime/ashita-no-joe-pilots",
+    "total_episodes": 2,
+    "captured_at": "2026-06-02T21:30:08",
+    "file": "data/ashita-no-joe-pilots.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ashita-no-joe-pilots.json"
   }
 ]
