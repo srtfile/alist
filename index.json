@@ -7898,5 +7898,15 @@
     "captured_at": "2026-06-02T22:24:48",
     "file": "data/bakumatsu-crisis.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakumatsu-crisis.json"
+  },
+  {
+    "slug": "bakuon-clubhouse",
+    "mal_id": 30795,
+    "anime_name": "Bakuon Clubhouse",
+    "anime_url": "https://hianime.ad/anime/bakuon-clubhouse",
+    "total_episodes": 4,
+    "captured_at": "2026-06-02T22:25:11",
+    "file": "data/bakuon-clubhouse.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bakuon-clubhouse.json"
   }
 ]
