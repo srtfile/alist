@@ -1078,5 +1078,15 @@
     "captured_at": "2026-06-02T16:11:33",
     "file": "data/raw-koni-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-koni-chan.json"
+  },
+  {
+    "slug": "raw-magicaltaruruuto-kun",
+    "mal_id": 23289,
+    "anime_name": "Raw Magicaltaruruuto Kun",
+    "anime_url": "https://hianime.ad/anime/raw-magicaltaruruuto-kun",
+    "total_episodes": 87,
+    "captured_at": "2026-06-02T16:12:12",
+    "file": "data/raw-magicaltaruruuto-kun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-magicaltaruruuto-kun.json"
   }
 ]
