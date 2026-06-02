@@ -5568,5 +5568,15 @@
     "captured_at": "2026-06-02T20:52:22",
     "file": "data/apocalypse-day.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apocalypse-day.json"
+  },
+  {
+    "slug": "apocalypse-hotel",
+    "mal_id": 59675,
+    "anime_name": "Apocalypse Hotel",
+    "anime_url": "https://hianime.ad/anime/apocalypse-hotel",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:52:34",
+    "file": "data/apocalypse-hotel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/apocalypse-hotel.json"
   }
 ]
