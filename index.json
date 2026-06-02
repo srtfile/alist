@@ -5748,5 +5748,15 @@
     "captured_at": "2026-06-02T20:59:29",
     "file": "data/aquarion-movie-ippatsu-gyakuten-hen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion-movie-ippatsu-gyakuten-hen.json"
+  },
+  {
+    "slug": "aquarion-myth-of-emotions",
+    "mal_id": 54769,
+    "anime_name": "Aquarion Myth Of Emotions",
+    "anime_url": "https://hianime.ad/anime/aquarion-myth-of-emotions",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:59:41",
+    "file": "data/aquarion-myth-of-emotions.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/aquarion-myth-of-emotions.json"
   }
 ]
