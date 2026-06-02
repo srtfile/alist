@@ -5008,5 +5008,15 @@
     "captured_at": "2026-06-02T20:33:53",
     "file": "data/anima-yell-ouen-douga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/anima-yell-ouen-douga.json"
+  },
+  {
+    "slug": "animal-treasure-island",
+    "mal_id": 48332,
+    "anime_name": "Animal Treasure Island",
+    "anime_url": "https://hianime.ad/anime/animal-treasure-island",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T20:34:15",
+    "file": "data/animal-treasure-island.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/animal-treasure-island.json"
   }
 ]
