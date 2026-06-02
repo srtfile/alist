@@ -7298,5 +7298,15 @@
     "captured_at": "2026-06-02T21:57:41",
     "file": "data/azur-lane-queens-orders.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane-queens-orders.json"
+  },
+  {
+    "slug": "azure-nihon-data-center",
+    "mal_id": 75,
+    "anime_name": "Azure Nihon Data Center",
+    "anime_url": "https://hianime.ad/anime/azure-nihon-data-center",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T21:57:53",
+    "file": "data/azure-nihon-data-center.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azure-nihon-data-center.json"
   }
 ]
