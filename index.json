@@ -7318,5 +7318,15 @@
     "captured_at": "2026-06-02T21:58:04",
     "file": "data/azusa-will-help.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azusa-will-help.json"
+  },
+  {
+    "slug": "b-project-kodouambitious",
+    "mal_id": 33046,
+    "anime_name": "B Project Kodouambitious",
+    "anime_url": "https://hianime.ad/anime/b-project-kodouambitious",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:58:16",
+    "file": "data/b-project-kodouambitious.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/b-project-kodouambitious.json"
   }
 ]
