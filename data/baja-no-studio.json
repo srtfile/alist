@@ -1,0 +1,48 @@
+{
+  "anime_name": "Baja No Studio",
+  "anime_url": "https://hianime.ad/anime/baja-no-studio",
+  "slug": "baja-no-studio",
+  "mal_id": 338,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:09:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Oscar, the Destiny of a Rose",
+      "episode_url": "https://hianime.ad/watch/baja-no-studio/ep-1",
+      "sub": {
+        "HD-1": {
+          "338-malep-1_vibeplayer_sub": "https://vibeplayer.site/d3b6d54ec03373fc",
+          "338-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3b6d54ec03373fc/master.m3u8"
+        },
+        "HD-2": {
+          "338-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag963fe02703717f2ca08a03320e3a58164h",
+          "338-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "338-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b12tt9pu8zr3",
+          "338-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "338-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d4c2ba4d9ad56821",
+          "338-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d4c2ba4d9ad56821/master.m3u8"
+        },
+        "HD-2": {
+          "338-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag809514cd4ca41f76b9b04baa9a075b5a4h",
+          "338-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "338-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4vwfbyxwsvps",
+          "338-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "338-malep-1_playmogo_hsub": "https://playmogo.com/e/10w9cf4a8nb3",
+          "338-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
