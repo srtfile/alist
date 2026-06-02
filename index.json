@@ -5658,5 +5658,15 @@
     "captured_at": "2026-06-02T20:56:09",
     "file": "data/appleseed-alpha.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/appleseed-alpha.json"
+  },
+  {
+    "slug": "appleseed-xiii",
+    "mal_id": 40454,
+    "anime_name": "Appleseed Xiii",
+    "anime_url": "https://hianime.ad/anime/appleseed-xiii",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T20:56:21",
+    "file": "data/appleseed-xiii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/appleseed-xiii.json"
   }
 ]
