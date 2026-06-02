@@ -7278,5 +7278,15 @@
     "captured_at": "2026-06-02T21:56:55",
     "file": "data/azur-lane.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane.json"
+  },
+  {
+    "slug": "azur-lane-bisoku-zenshin",
+    "mal_id": 40930,
+    "anime_name": "Azur Lane Bisoku Zenshin",
+    "anime_url": "https://hianime.ad/anime/azur-lane-bisoku-zenshin",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:57:18",
+    "file": "data/azur-lane-bisoku-zenshin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/azur-lane-bisoku-zenshin.json"
   }
 ]
