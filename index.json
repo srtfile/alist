@@ -6748,5 +6748,15 @@
     "captured_at": "2026-06-02T21:32:59",
     "file": "data/assault-lily-bouquet.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assault-lily-bouquet.json"
+  },
+  {
+    "slug": "assault-lily-fruits",
+    "mal_id": 40550,
+    "anime_name": "Assault Lily Fruits",
+    "anime_url": "https://hianime.ad/anime/assault-lily-fruits",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T21:33:22",
+    "file": "data/assault-lily-fruits.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assault-lily-fruits.json"
   }
 ]
