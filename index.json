@@ -3958,5 +3958,15 @@
     "captured_at": "2026-06-02T19:50:43",
     "file": "data/akb0048-next-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akb0048-next-stage.json"
+  },
+  {
+    "slug": "akebis-sailor-uniform",
+    "mal_id": 48553,
+    "anime_name": "Akebis Sailor Uniform",
+    "anime_url": "https://hianime.ad/anime/akebis-sailor-uniform",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T19:51:06",
+    "file": "data/akebis-sailor-uniform.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/akebis-sailor-uniform.json"
   }
 ]
