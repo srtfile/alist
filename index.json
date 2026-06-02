@@ -4528,5 +4528,15 @@
     "captured_at": "2026-06-02T20:13:13",
     "file": "data/amanchu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amanchu.json"
+  },
+  {
+    "slug": "amanchu-advance",
+    "mal_id": 36800,
+    "anime_name": "Amanchu Advance",
+    "anime_url": "https://hianime.ad/anime/amanchu-advance",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T20:13:35",
+    "file": "data/amanchu-advance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amanchu-advance.json"
   }
 ]
