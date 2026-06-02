@@ -6248,5 +6248,15 @@
     "captured_at": "2026-06-02T21:16:14",
     "file": "data/arknights-holy-knight-light.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-holy-knight-light.json"
+  },
+  {
+    "slug": "arknights-perish-in-frost",
+    "mal_id": 53881,
+    "anime_name": "Arknights Perish In Frost",
+    "anime_url": "https://hianime.ad/anime/arknights-perish-in-frost",
+    "total_episodes": 8,
+    "captured_at": "2026-06-02T21:16:26",
+    "file": "data/arknights-perish-in-frost.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/arknights-perish-in-frost.json"
   }
 ]
