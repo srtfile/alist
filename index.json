@@ -8038,5 +8038,15 @@
     "captured_at": "2026-06-02T22:30:24",
     "file": "data/bang-dream-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bang-dream-chan.json"
+  },
+  {
+    "slug": "bang-dream",
+    "mal_id": 33573,
+    "anime_name": "Bang Dream",
+    "anime_url": "https://hianime.ad/anime/bang-dream",
+    "total_episodes": 13,
+    "captured_at": "2026-06-02T22:31:03",
+    "file": "data/bang-dream.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bang-dream.json"
   }
 ]
