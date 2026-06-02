@@ -4428,5 +4428,15 @@
     "captured_at": "2026-06-02T20:10:01",
     "file": "data/amagami-ss.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss.json"
+  },
+  {
+    "slug": "amagami-ss-1958",
+    "mal_id": 8676,
+    "anime_name": "Amagami Ss 1958",
+    "anime_url": "https://hianime.ad/anime/amagami-ss-1958",
+    "total_episodes": 25,
+    "captured_at": "2026-06-02T20:10:14",
+    "file": "data/amagami-ss-1958.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/amagami-ss-1958.json"
   }
 ]
