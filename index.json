@@ -888,5 +888,15 @@
     "captured_at": "2026-06-02T15:42:58",
     "file": "data/raw-general-inakappe.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/raw-general-inakappe.json"
+  },
+  {
+    "slug": "grimms-fairy-tale-classics-2242",
+    "mal_id": 4060,
+    "anime_name": "Grimms Fairy Tale Classics 2242",
+    "anime_url": "https://hianime.ad/anime/grimms-fairy-tale-classics-2242",
+    "total_episodes": 23,
+    "captured_at": "2026-06-02T15:44:49",
+    "file": "data/grimms-fairy-tale-classics-2242.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grimms-fairy-tale-classics-2242.json"
   }
 ]
