@@ -6738,5 +6738,15 @@
     "captured_at": "2026-06-02T21:32:37",
     "file": "data/assassins-pride.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assassins-pride.json"
+  },
+  {
+    "slug": "assault-lily-bouquet",
+    "mal_id": 40550,
+    "anime_name": "Assault Lily Bouquet",
+    "anime_url": "https://hianime.ad/anime/assault-lily-bouquet",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T21:32:59",
+    "file": "data/assault-lily-bouquet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/assault-lily-bouquet.json"
   }
 ]
