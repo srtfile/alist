@@ -9108,5 +9108,15 @@
     "captured_at": "2026-06-02T23:57:52",
     "file": "data/berserk-2016.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/berserk-2016.json"
+  },
+  {
+    "slug": "berserk-of-gluttony",
+    "mal_id": 53439,
+    "anime_name": "Berserk Of Gluttony",
+    "anime_url": "https://hianime.ad/anime/berserk-of-gluttony",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T23:58:12",
+    "file": "data/berserk-of-gluttony.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/berserk-of-gluttony.json"
   }
 ]
