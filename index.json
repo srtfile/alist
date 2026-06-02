@@ -2848,5 +2848,15 @@
     "captured_at": "2026-06-02T18:58:39",
     "file": "data/action-heroine-cheer-fruits.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/action-heroine-cheer-fruits.json"
+  },
+  {
+    "slug": "active-raid",
+    "mal_id": 31790,
+    "anime_name": "Active Raid",
+    "anime_url": "https://hianime.ad/anime/active-raid",
+    "total_episodes": 12,
+    "captured_at": "2026-06-02T18:58:58",
+    "file": "data/active-raid.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/active-raid.json"
   }
 ]
