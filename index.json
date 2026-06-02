@@ -2428,5 +2428,15 @@
     "captured_at": "2026-06-02T18:41:51",
     "file": "data/a-sign-of-affection.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-sign-of-affection.json"
+  },
+  {
+    "slug": "a-silent-voice",
+    "mal_id": 2924,
+    "anime_name": "A Silent Voice",
+    "anime_url": "https://hianime.ad/anime/a-silent-voice",
+    "total_episodes": 1,
+    "captured_at": "2026-06-02T18:42:11",
+    "file": "data/a-silent-voice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/a-silent-voice.json"
   }
 ]
