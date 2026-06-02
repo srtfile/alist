@@ -7978,5 +7978,15 @@
     "captured_at": "2026-06-02T22:27:38",
     "file": "data/bamboo-blade.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bamboo-blade.json"
+  },
+  {
+    "slug": "banana-fish",
+    "mal_id": 36649,
+    "anime_name": "Banana Fish",
+    "anime_url": "https://hianime.ad/anime/banana-fish",
+    "total_episodes": 24,
+    "captured_at": "2026-06-02T22:28:13",
+    "file": "data/banana-fish.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/banana-fish.json"
   }
 ]
