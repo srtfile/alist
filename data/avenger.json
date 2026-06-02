@@ -1,0 +1,520 @@
+{
+  "anime_name": "Avenger",
+  "anime_url": "https://hianime.ad/anime/avenger",
+  "slug": "avenger",
+  "mal_id": 56,
+  "total_episodes": 13,
+  "captured_at": "2026-06-02T21:53:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dome",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-1",
+      "sub": {
+        "HD-1": {
+          "56-malep-1_vibeplayer_sub": "https://vibeplayer.site/c0597a9e9ff45053",
+          "56-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0597a9e9ff45053/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5948e4779b1547267b20dd0580ef372c4h",
+          "56-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rrln9o1qkg5j",
+          "56-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-1_playmogo_sub": "https://playmogo.com/e/qn7a52egqdem",
+          "56-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-1_vibeplayer_hsub": "https://vibeplayer.site/672cf52e299dbdde",
+          "56-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/672cf52e299dbdde/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6d26c999377dcc903b3ec3783ceb37274h",
+          "56-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mwkt80s0d81t",
+          "56-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8uoknvsz55dn",
+          "56-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-1_playmogo_hsub": "https://playmogo.com/e/8tm6decqjlq9",
+          "56-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Doll",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-2",
+      "sub": {
+        "HD-1": {
+          "56-malep-2_vibeplayer_sub": "https://vibeplayer.site/bbfac246f5c68a99",
+          "56-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bbfac246f5c68a99/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-2_vibeplayer_sub": "https://vibeplayer.site/agcb3bd3294480db6c300b237ffea1e5d84h",
+          "56-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-2_otakuvid_sub": "https://otakuvid.online/embed/veqrk7q2ocyw",
+          "56-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d5bc0965efa8b1de",
+          "56-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5bc0965efa8b1de/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag49a02f15ed22d60006513a00190c36364h",
+          "56-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-2_otakuhg_hsub": "https://otakuhg.site/e/pz4twd0iviot",
+          "56-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/z2vpybqqqv7p",
+          "56-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-2_playmogo_hsub": "https://playmogo.com/e/ek86ioi8f3wg",
+          "56-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Child",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-3",
+      "sub": {
+        "HD-1": {
+          "56-malep-3_vibeplayer_sub": "https://vibeplayer.site/ab0dcfc9c606e5c8",
+          "56-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab0dcfc9c606e5c8/master.m3u8"
+        },
+        "Earnvids": {
+          "56-malep-3_otakuvid_sub": "https://otakuvid.online/embed/46my4leclqpg",
+          "56-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-3_vibeplayer_hsub": "https://vibeplayer.site/87009b036df31626",
+          "56-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/87009b036df31626/master.m3u8"
+        },
+        "StreamHG": {
+          "56-malep-3_otakuhg_hsub": "https://otakuhg.site/e/52zfnrdkfk49",
+          "56-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/z6ref4fjeezu",
+          "56-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-3_playmogo_hsub": "https://playmogo.com/e/t4hhz39pm3uo",
+          "56-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Adult",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-4",
+      "sub": {
+        "HD-1": {
+          "56-malep-4_vibeplayer_sub": "https://vibeplayer.site/0345699ee26110db",
+          "56-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0345699ee26110db/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag501dd91edcc3506e2c0f91aca7dc10a94h",
+          "56-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-4_otakuvid_sub": "https://otakuvid.online/embed/0ijcthhb7sq4",
+          "56-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-4_vibeplayer_hsub": "https://vibeplayer.site/752712a8b3f5cf4b",
+          "56-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/752712a8b3f5cf4b/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag59ac34a25c3eaf1bc9165cf61833d7174h",
+          "56-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-4_otakuhg_hsub": "https://otakuhg.site/e/yqaxsjfumhmm",
+          "56-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/fgh9dndtmw4f",
+          "56-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-4_playmogo_hsub": "https://playmogo.com/e/og9f1gbgqa5b",
+          "56-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Silhouette",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-5",
+      "sub": {
+        "HD-1": {
+          "56-malep-5_vibeplayer_sub": "https://vibeplayer.site/513b280a58ae1834",
+          "56-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/513b280a58ae1834/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag35c12d265e816c1e2bd0e1d1fd5663d74h",
+          "56-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-5_otakuvid_sub": "https://otakuvid.online/embed/jn3crpa272q4",
+          "56-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-5_playmogo_sub": "https://playmogo.com/e/372456twf97h",
+          "56-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-5_vibeplayer_hsub": "https://vibeplayer.site/c9830e477d481096",
+          "56-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9830e477d481096/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-5_vibeplayer_hsub": "https://vibeplayer.site/agb6ea93050bb279696407280cc17b4d444h",
+          "56-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-5_otakuhg_hsub": "https://otakuhg.site/e/bd7tiv63pihw",
+          "56-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/03vr1khetfo4",
+          "56-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-5_playmogo_hsub": "https://playmogo.com/e/eairho37qbz0",
+          "56-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reflection",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-6",
+      "sub": {
+        "HD-1": {
+          "56-malep-6_vibeplayer_sub": "https://vibeplayer.site/90b743c796e22aff",
+          "56-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/90b743c796e22aff/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag7363e01efba7048d7354cfd0b0bfc3c34h",
+          "56-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-6_otakuvid_sub": "https://otakuvid.online/embed/dk5s8xiwf25u",
+          "56-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-6_vibeplayer_hsub": "https://vibeplayer.site/f783b8bcac910256",
+          "56-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f783b8bcac910256/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag0114e3dcf6adc78bd17bce4be58fb7b14h",
+          "56-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-6_otakuhg_hsub": "https://otakuhg.site/e/yeg8nzu65q35",
+          "56-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/40s6fbqps948",
+          "56-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-6_playmogo_hsub": "https://playmogo.com/e/ftapun6i2mfa",
+          "56-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Barbaroi",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-7",
+      "sub": {
+        "HD-1": {
+          "56-malep-7_vibeplayer_sub": "https://vibeplayer.site/f5efbf9f4873f006",
+          "56-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f5efbf9f4873f006/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-7_vibeplayer_sub": "https://vibeplayer.site/agfce69986e27f25ca97aea36b6ff896e34h",
+          "56-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ob1i4ag63q5j",
+          "56-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-7_vibeplayer_hsub": "https://vibeplayer.site/3d56241ff75f696b",
+          "56-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3d56241ff75f696b/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag5f9338e87a29c5caac2b9d229a20a1504h",
+          "56-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56-malep-7_otakuhg_hsub": "https://otakuhg.site/e/9pvsm1536lig",
+          "56-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ro4p4g42tzi6",
+          "56-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-7_playmogo_hsub": "https://playmogo.com/e/1yko5ztd1hza",
+          "56-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pilgrim",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-8",
+      "sub": {
+        "HD-1": {
+          "56-malep-8_vibeplayer_sub": "https://vibeplayer.site/7f47cd44e9c773f1",
+          "56-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7f47cd44e9c773f1/master.m3u8"
+        },
+        "Earnvids": {
+          "56-malep-8_otakuvid_sub": "https://otakuvid.online/embed/hfrv2f2gbyzo",
+          "56-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-8_vibeplayer_hsub": "https://vibeplayer.site/82b6529d3b0338f8",
+          "56-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/82b6529d3b0338f8/master.m3u8"
+        },
+        "Earnvids": {
+          "56-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/5k7iee1fbacj",
+          "56-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-8_playmogo_hsub": "https://playmogo.com/e/2vxqcwfso42i",
+          "56-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Goddess",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-9",
+      "sub": {
+        "HD-1": {
+          "56-malep-9_vibeplayer_sub": "https://vibeplayer.site/561a98bc9b263b51",
+          "56-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/561a98bc9b263b51/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-9_vibeplayer_sub": "https://vibeplayer.site/agdb402d16cb4329fe8647bd82e2b7ca5e4h",
+          "56-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-9_otakuvid_sub": "https://otakuvid.online/embed/883i43a8in07",
+          "56-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-9_playmogo_sub": "https://playmogo.com/e/l9oy3m39on9w",
+          "56-malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-9_vibeplayer_hsub": "https://vibeplayer.site/3076924d89b2a0ba",
+          "56-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3076924d89b2a0ba/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-9_vibeplayer_hsub": "https://vibeplayer.site/agf936d4a3ac06ab27bd2ce18363020fb04h",
+          "56-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/0bsm099an83x",
+          "56-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-9_playmogo_hsub": "https://playmogo.com/e/euk9b5r9ltao",
+          "56-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Frozen",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-10",
+      "sub": {
+        "HD-1": {
+          "56-malep-10_vibeplayer_sub": "https://vibeplayer.site/3255f51c0d572ee7",
+          "56-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3255f51c0d572ee7/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-10_vibeplayer_sub": "https://vibeplayer.site/agd86717263aab654ba71fb2f7950dd06b4h",
+          "56-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-10_otakuvid_sub": "https://otakuvid.online/embed/h3hjk03e11sp",
+          "56-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-10_vibeplayer_hsub": "https://vibeplayer.site/6a0b45bca4ffc497",
+          "56-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a0b45bca4ffc497/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag7440580cc11c0e7ce62a3fcce72cc3cc4h",
+          "56-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/kwcuz2k0nfe0",
+          "56-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-10_playmogo_hsub": "https://playmogo.com/e/dqrvzj4zxq6s",
+          "56-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lunatic",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-11",
+      "sub": {
+        "HD-1": {
+          "56-malep-11_vibeplayer_sub": "https://vibeplayer.site/0640d58eafec6f97",
+          "56-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0640d58eafec6f97/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag55453113f9b6cf1e3f332c52401ab84e4h",
+          "56-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-11_otakuvid_sub": "https://otakuvid.online/embed/oarc4o3n3frc",
+          "56-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-11_vibeplayer_hsub": "https://vibeplayer.site/45939c591a2853d1",
+          "56-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/45939c591a2853d1/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag2da62444d0d58c0c4f84b6f41da9af314h",
+          "56-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/08cjbi8wpz3s",
+          "56-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-11_playmogo_hsub": "https://playmogo.com/e/0v6gflcyw75e",
+          "56-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Match",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-12",
+      "sub": {
+        "HD-1": {
+          "56-malep-12_vibeplayer_sub": "https://vibeplayer.site/e2037ee15908fd5e",
+          "56-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2037ee15908fd5e/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag672ccebe9c576dba0b08fe8389d345df4h",
+          "56-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-12_otakuvid_sub": "https://otakuvid.online/embed/up2r6n2dr5rx",
+          "56-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-12_vibeplayer_hsub": "https://vibeplayer.site/9243ea812785c018",
+          "56-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9243ea812785c018/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag7ff296f60f76fa78af90f8260740b9674h",
+          "56-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/rp9mjy23db0n",
+          "56-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-12_playmogo_hsub": "https://playmogo.com/e/d1fxvg3rydpi",
+          "56-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Outer",
+      "episode_url": "https://hianime.ad/watch/avenger/ep-13",
+      "sub": {
+        "HD-1": {
+          "56-malep-13_vibeplayer_sub": "https://vibeplayer.site/4bd1d051720846f1",
+          "56-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4bd1d051720846f1/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-13_vibeplayer_sub": "https://vibeplayer.site/agfde380fdbc37d264e69e4999a7b6b7b34h",
+          "56-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-13_otakuvid_sub": "https://otakuvid.online/embed/ljw05azi0ins",
+          "56-malep-13_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-13_playmogo_sub": "https://playmogo.com/e/gxmvohom84xd",
+          "56-malep-13_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56-malep-13_vibeplayer_hsub": "https://vibeplayer.site/5462ec244612b0de",
+          "56-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5462ec244612b0de/master.m3u8"
+        },
+        "HD-2": {
+          "56-malep-13_vibeplayer_hsub": "https://vibeplayer.site/agfda488bb7753f0e0b051cd0ded39eab04h",
+          "56-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/dfqoz7ecotrs",
+          "56-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56-malep-13_playmogo_hsub": "https://playmogo.com/e/bhs6gna6uxva",
+          "56-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
