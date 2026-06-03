@@ -23628,5 +23628,15 @@
     "captured_at": "2026-06-03T12:37:58",
     "file": "data/flag.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flag.json"
+  },
+  {
+    "slug": "flame-of-recca",
+    "mal_id": 238,
+    "anime_name": "Flame Of Recca",
+    "anime_url": "https://hianime.ad/anime/flame-of-recca",
+    "total_episodes": 42,
+    "captured_at": "2026-06-03T12:38:19",
+    "file": "data/flame-of-recca.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flame-of-recca.json"
   }
 ]
