@@ -20818,5 +20818,15 @@
     "captured_at": "2026-06-03T10:07:53",
     "file": "data/es-otherwise.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/es-otherwise.json"
+  },
+  {
+    "slug": "eagle-riders-2",
+    "mal_id": 6375,
+    "anime_name": "Eagle Riders 2",
+    "anime_url": "https://hianime.ad/anime/eagle-riders-2",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T10:08:25",
+    "file": "data/eagle-riders-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eagle-riders-2.json"
   }
 ]
