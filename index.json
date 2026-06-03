@@ -2268,5 +2268,15 @@
     "captured_at": "2026-06-03T18:29:06",
     "file": "data/god-of-war-alliance.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-war-alliance.json"
+  },
+  {
+    "slug": "god-troubles-me",
+    "mal_id": 41353,
+    "anime_name": "God Troubles Me",
+    "anime_url": "https://hianime.ad/anime/god-troubles-me",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:30:01",
+    "file": "data/god-troubles-me.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-troubles-me.json"
   }
 ]
