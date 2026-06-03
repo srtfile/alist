@@ -20988,5 +20988,15 @@
     "captured_at": "2026-06-03T10:13:30",
     "file": "data/edens-zero-recap-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/edens-zero-recap-movie.json"
+  },
+  {
+    "slug": "edens-zero-2nd-season",
+    "mal_id": 50002,
+    "anime_name": "Edens Zero 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/edens-zero-2nd-season",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T10:13:40",
+    "file": "data/edens-zero-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/edens-zero-2nd-season.json"
   }
 ]
