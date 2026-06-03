@@ -22428,5 +22428,15 @@
     "captured_at": "2026-06-03T11:08:08",
     "file": "data/fantastic-children.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fantastic-children.json"
+  },
+  {
+    "slug": "fantastic-detective-labyrinth",
+    "mal_id": 2965,
+    "anime_name": "Fantastic Detective Labyrinth",
+    "anime_url": "https://hianime.ad/anime/fantastic-detective-labyrinth",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T11:08:41",
+    "file": "data/fantastic-detective-labyrinth.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fantastic-detective-labyrinth.json"
   }
 ]
