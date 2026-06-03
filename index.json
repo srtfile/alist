@@ -538,5 +538,15 @@
     "captured_at": "2026-06-03T17:21:37",
     "file": "data/genshiken-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genshiken-ova.json"
+  },
+  {
+    "slug": "genshiken-second-season",
+    "mal_id": 18465,
+    "anime_name": "Genshiken Second Season",
+    "anime_url": "https://hianime.ad/anime/genshiken-second-season",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:21:50",
+    "file": "data/genshiken-second-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genshiken-second-season.json"
   }
 ]
