@@ -1808,5 +1808,15 @@
     "captured_at": "2026-06-03T18:08:23",
     "file": "data/give-it-all.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/give-it-all.json"
+  },
+  {
+    "slug": "given",
+    "mal_id": 39533,
+    "anime_name": "Given",
+    "anime_url": "https://hianime.ad/anime/given",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T18:08:35",
+    "file": "data/given.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given.json"
   }
 ]
