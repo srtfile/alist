@@ -1,0 +1,61 @@
+{
+  "anime_name": "Grappler Baki",
+  "anime_url": "https://hianime.ad/anime/grappler-baki",
+  "slug": "grappler-baki",
+  "mal_id": 287,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:52:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Moving Towards Destiny",
+      "episode_url": "https://hianime.ad/watch/grappler-baki/ep-1",
+      "sub": {
+        "HD-1": {
+          "287-malep-1_vibeplayer_sub": "https://vibeplayer.site/c0260b6e4201a58f",
+          "287-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0260b6e4201a58f/master.m3u8"
+        },
+        "Earnvids": {
+          "287-malep-1_otakuvid_sub": "https://otakuvid.online/embed/m8j0pgagwf73",
+          "287-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "287-malep-1_playmogo_sub": "https://playmogo.com/e/0xx2v6xay8gl",
+          "287-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "287-malep-1_vibeplayer_dub": "https://vibeplayer.site/be9c9626658be450",
+          "287-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be9c9626658be450/master.m3u8"
+        },
+        "StreamHG": {
+          "287-malep-1_otakuhg_dub": "https://otakuhg.site/e/l7wbq0qn7yca",
+          "287-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5v6njk8e5gkn",
+          "287-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "287-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0e66122f0c8da788",
+          "287-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e66122f0c8da788/master.m3u8"
+        },
+        "StreamHG": {
+          "287-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s9wlxf1pe4tf",
+          "287-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1j9am55c2al1",
+          "287-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "287-malep-1_playmogo_hsub": "https://playmogo.com/e/bipxgxth0o1l",
+          "287-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
