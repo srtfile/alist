@@ -17398,5 +17398,15 @@
     "captured_at": "2026-06-03T08:06:20",
     "file": "data/denki-gai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/denki-gai.json"
+  },
+  {
+    "slug": "denpa-teki-na-kanojo",
+    "mal_id": 13759,
+    "anime_name": "Denpa Teki Na Kanojo",
+    "anime_url": "https://hianime.ad/anime/denpa-teki-na-kanojo",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T08:06:40",
+    "file": "data/denpa-teki-na-kanojo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/denpa-teki-na-kanojo.json"
   }
 ]
