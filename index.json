@@ -18048,5 +18048,15 @@
     "captured_at": "2026-06-03T08:22:25",
     "file": "data/di-gi-charat-winter-garden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/di-gi-charat-winter-garden.json"
+  },
+  {
+    "slug": "diabolik-lovers",
+    "mal_id": 17513,
+    "anime_name": "Diabolik Lovers",
+    "anime_url": "https://hianime.ad/anime/diabolik-lovers",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:22:37",
+    "file": "data/diabolik-lovers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/diabolik-lovers.json"
   }
 ]
