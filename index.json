@@ -1878,5 +1878,15 @@
     "captured_at": "2026-06-03T18:10:08",
     "file": "data/gj-bu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gj-bu.json"
+  },
+  {
+    "slug": "glamorous-heroes",
+    "mal_id": 36288,
+    "anime_name": "Glamorous Heroes",
+    "anime_url": "https://hianime.ad/anime/glamorous-heroes",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T18:10:21",
+    "file": "data/glamorous-heroes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glamorous-heroes.json"
   }
 ]
