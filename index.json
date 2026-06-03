@@ -14858,5 +14858,15 @@
     "captured_at": "2026-06-03T06:19:36",
     "file": "data/codebreaker.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/codebreaker.json"
+  },
+  {
+    "slug": "codebreaker-ova",
+    "mal_id": 11703,
+    "anime_name": "Codebreaker Ova",
+    "anime_url": "https://hianime.ad/anime/codebreaker-ova",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T06:19:59",
+    "file": "data/codebreaker-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/codebreaker-ova.json"
   }
 ]
