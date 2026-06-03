@@ -1,0 +1,73 @@
+{
+  "anime_name": "Gantzo",
+  "anime_url": "https://hianime.ad/anime/gantzo",
+  "slug": "gantzo",
+  "mal_id": 384,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:52:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's the Beginning of a Brand New Day",
+      "episode_url": "https://hianime.ad/watch/gantzo/ep-1",
+      "sub": {
+        "HD-1": {
+          "384-malep-1_vibeplayer_sub": "https://vibeplayer.site/afbd3db412215c41",
+          "384-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/afbd3db412215c41/master.m3u8"
+        },
+        "HD-2": {
+          "384-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag61cef624cd982a292f54a9e88080633c4h",
+          "384-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "384-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5itfxx0q64da",
+          "384-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "384-malep-1_playmogo_sub": "https://playmogo.com/e/8ichgjho97w2",
+          "384-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "384-malep-1_vibeplayer_dub": "https://vibeplayer.site/b19da325c363bcab",
+          "384-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b19da325c363bcab/master.m3u8"
+        },
+        "HD-2": {
+          "384-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd8b1ecd26cd61a32efeddf97d9701ebb4h",
+          "384-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "384-malep-1_otakuhg_dub": "https://otakuhg.site/e/jbqvdrpo2fr0",
+          "384-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "384-malep-1_otakuvid_dub": "https://otakuvid.online/embed/aj9a4s2a3g1b",
+          "384-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "384-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f4e30fc25c7a38e6",
+          "384-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f4e30fc25c7a38e6/master.m3u8"
+        },
+        "HD-2": {
+          "384-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age5b227de2593790703af8e008c4eb4cf4h",
+          "384-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "384-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j6qldaw1qr6x",
+          "384-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "384-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6g1kf8o09m32",
+          "384-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "384-malep-1_playmogo_hsub": "https://playmogo.com/e/rv3z24q4ewdl",
+          "384-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
