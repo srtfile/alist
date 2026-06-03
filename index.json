@@ -14108,5 +14108,15 @@
     "captured_at": "2026-06-03T05:53:44",
     "file": "data/chuunibyou-demo-koi-ga-shitai-movie-take-on-me.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chuunibyou-demo-koi-ga-shitai-movie-take-on-me.json"
+  },
+  {
+    "slug": "cinderella-boy",
+    "mal_id": 301,
+    "anime_name": "Cinderella Boy",
+    "anime_url": "https://hianime.ad/anime/cinderella-boy",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T05:53:56",
+    "file": "data/cinderella-boy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cinderella-boy.json"
   }
 ]
