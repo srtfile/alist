@@ -9618,5 +9618,15 @@
     "captured_at": "2026-06-03T00:23:26",
     "file": "data/bio-armor-ryger.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bio-armor-ryger.json"
+  },
+  {
+    "slug": "bio-hunter",
+    "mal_id": 11061,
+    "anime_name": "Bio Hunter",
+    "anime_url": "https://hianime.ad/anime/bio-hunter",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:23:49",
+    "file": "data/bio-hunter.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bio-hunter.json"
   }
 ]
