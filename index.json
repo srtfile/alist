@@ -21908,5 +21908,15 @@
     "captured_at": "2026-06-03T10:44:29",
     "file": "data/everyday-host.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/everyday-host.json"
+  },
+  {
+    "slug": "everyday-is-sunday",
+    "mal_id": 10165,
+    "anime_name": "Everyday Is Sunday",
+    "anime_url": "https://hianime.ad/anime/everyday-is-sunday",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T10:44:57",
+    "file": "data/everyday-is-sunday.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/everyday-is-sunday.json"
   }
 ]
