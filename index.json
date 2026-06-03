@@ -2348,5 +2348,15 @@
     "captured_at": "2026-06-03T18:32:15",
     "file": "data/godzilla-planet-of-the-monsters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/godzilla-planet-of-the-monsters.json"
+  },
+  {
+    "slug": "godzilla-singular-point",
+    "mal_id": 43229,
+    "anime_name": "Godzilla Singular Point",
+    "anime_url": "https://hianime.ad/anime/godzilla-singular-point",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:32:27",
+    "file": "data/godzilla-singular-point.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/godzilla-singular-point.json"
   }
 ]
