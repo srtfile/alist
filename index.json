@@ -10568,5 +10568,15 @@
     "captured_at": "2026-06-03T00:56:39",
     "file": "data/blue-exorcist-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-exorcist-the-movie.json"
+  },
+  {
+    "slug": "blue-exorcist-beyond-the-snow-saga",
+    "mal_id": 58516,
+    "anime_name": "Blue Exorcist Beyond The Snow Saga",
+    "anime_url": "https://hianime.ad/anime/blue-exorcist-beyond-the-snow-saga",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:56:49",
+    "file": "data/blue-exorcist-beyond-the-snow-saga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-exorcist-beyond-the-snow-saga.json"
   }
 ]
