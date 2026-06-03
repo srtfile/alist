@@ -18638,5 +18638,15 @@
     "captured_at": "2026-06-03T08:44:42",
     "file": "data/dive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dive.json"
+  },
+  {
+    "slug": "divergence-eve",
+    "mal_id": 294,
+    "anime_name": "Divergence Eve",
+    "anime_url": "https://hianime.ad/anime/divergence-eve",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T08:45:02",
+    "file": "data/divergence-eve.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/divergence-eve.json"
   }
 ]
