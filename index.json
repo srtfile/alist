@@ -22258,5 +22258,15 @@
     "captured_at": "2026-06-03T10:59:19",
     "file": "data/fairy-tail.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-tail.json"
+  },
+  {
+    "slug": "fairy-tail-final-series",
+    "mal_id": 35972,
+    "anime_name": "Fairy Tail Final Series",
+    "anime_url": "https://hianime.ad/anime/fairy-tail-final-series",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T11:01:58",
+    "file": "data/fairy-tail-final-series.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-tail-final-series.json"
   }
 ]
