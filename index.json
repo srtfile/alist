@@ -20188,5 +20188,15 @@
     "captured_at": "2026-06-03T09:46:46",
     "file": "data/dragon-collection.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-collection.json"
+  },
+  {
+    "slug": "dragon-crisis",
+    "mal_id": 9330,
+    "anime_name": "Dragon Crisis",
+    "anime_url": "https://hianime.ad/anime/dragon-crisis",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:47:38",
+    "file": "data/dragon-crisis.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-crisis.json"
   }
 ]
