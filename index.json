@@ -16718,5 +16718,15 @@
     "captured_at": "2026-06-03T07:45:28",
     "file": "data/date-a-live-iii.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-iii.json"
+  },
+  {
+    "slug": "date-a-live-iv",
+    "mal_id": 41461,
+    "anime_name": "Date A Live Iv",
+    "anime_url": "https://hianime.ad/anime/date-a-live-iv",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:45:47",
+    "file": "data/date-a-live-iv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-iv.json"
   }
 ]
