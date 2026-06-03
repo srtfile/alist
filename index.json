@@ -20168,5 +20168,15 @@
     "captured_at": "2026-06-03T09:46:24",
     "file": "data/dragon-ball-super-saiya-jin-zetsumetsu-keikaku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-super-saiya-jin-zetsumetsu-keikaku.json"
+  },
+  {
+    "slug": "dragon-century",
+    "mal_id": 1956,
+    "anime_name": "Dragon Century",
+    "anime_url": "https://hianime.ad/anime/dragon-century",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T09:46:34",
+    "file": "data/dragon-century.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-century.json"
   }
 ]
