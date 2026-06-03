@@ -6908,5 +6908,15 @@
     "captured_at": "2026-06-03T21:17:05",
     "file": "data/hitorijime-my-hero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitorijime-my-hero.json"
+  },
+  {
+    "slug": "hitsugi-no-chaika-ova",
+    "mal_id": 20853,
+    "anime_name": "Hitsugi No Chaika Ova",
+    "anime_url": "https://hianime.ad/anime/hitsugi-no-chaika-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T21:17:27",
+    "file": "data/hitsugi-no-chaika-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitsugi-no-chaika-ova.json"
   }
 ]
