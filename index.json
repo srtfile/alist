@@ -158,5 +158,15 @@
     "captured_at": "2026-06-03T17:07:19",
     "file": "data/gatchaman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gatchaman.json"
+  },
+  {
+    "slug": "gatchaman-crowds",
+    "mal_id": 18229,
+    "anime_name": "Gatchaman Crowds",
+    "anime_url": "https://hianime.ad/anime/gatchaman-crowds",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:09:06",
+    "file": "data/gatchaman-crowds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gatchaman-crowds.json"
   }
 ]
