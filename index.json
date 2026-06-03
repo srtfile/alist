@@ -3228,5 +3228,15 @@
     "captured_at": "2026-06-03T19:03:15",
     "file": "data/grimms-notes-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grimms-notes-the-animation.json"
+  },
+  {
+    "slug": "grimoire-of-zero",
+    "mal_id": 34176,
+    "anime_name": "Grimoire Of Zero",
+    "anime_url": "https://hianime.ad/anime/grimoire-of-zero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:03:37",
+    "file": "data/grimoire-of-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grimoire-of-zero.json"
   }
 ]
