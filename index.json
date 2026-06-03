@@ -13398,5 +13398,15 @@
     "captured_at": "2026-06-03T05:16:52",
     "file": "data/changan-magic-street.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/changan-magic-street.json"
+  },
+  {
+    "slug": "chaos-dragon",
+    "mal_id": 30091,
+    "anime_name": "Chaos Dragon",
+    "anime_url": "https://hianime.ad/anime/chaos-dragon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:17:39",
+    "file": "data/chaos-dragon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chaos-dragon.json"
   }
 ]
