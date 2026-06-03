@@ -1,0 +1,73 @@
+{
+  "anime_name": "Brave Story",
+  "anime_url": "https://hianime.ad/anime/brave-story",
+  "slug": "brave-story",
+  "mal_id": 8287,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:51:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/brave-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "8287-malep-1_vibeplayer_sub": "https://vibeplayer.site/3983c33bf0d1c9f9",
+          "8287-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3983c33bf0d1c9f9/master.m3u8"
+        },
+        "HD-2": {
+          "8287-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag669d6ad76e1826e2887a1ecaba23a5a04h",
+          "8287-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8287-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zymlqxhiitk8",
+          "8287-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "8287-malep-1_playmogo_sub": "https://playmogo.com/e/0sshc4drv499",
+          "8287-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8287-malep-1_vibeplayer_dub": "https://vibeplayer.site/f4fc1c5147e9d93e",
+          "8287-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f4fc1c5147e9d93e/master.m3u8"
+        },
+        "HD-2": {
+          "8287-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2cb3bc63a1c2182dd93775b166195ade4h",
+          "8287-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8287-malep-1_otakuvid_dub": "https://otakuvid.online/embed/y5kfyrplxnxf",
+          "8287-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "8287-malep-1_playmogo_dub": "https://playmogo.com/e/03655rat0e9e",
+          "8287-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8287-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f14fe855364139db",
+          "8287-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f14fe855364139db/master.m3u8"
+        },
+        "HD-2": {
+          "8287-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd60a8eab93a723b45ad3271ab54e0ebf4h",
+          "8287-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8287-malep-1_otakuhg_hsub": "https://otakuhg.site/e/srjxjjgyhq64",
+          "8287-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8287-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3gnu2izxfoqv",
+          "8287-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8287-malep-1_playmogo_hsub": "https://playmogo.com/e/euxjujjwhhrg",
+          "8287-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
