@@ -9858,5 +9858,15 @@
     "captured_at": "2026-06-03T00:30:21",
     "file": "data/black-butler-public-school-arc.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-public-school-arc.json"
+  },
+  {
+    "slug": "black-cat",
+    "mal_id": 68,
+    "anime_name": "Black Cat",
+    "anime_url": "https://hianime.ad/anime/black-cat",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T00:30:41",
+    "file": "data/black-cat.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-cat.json"
   }
 ]
