@@ -9438,5 +9438,15 @@
     "captured_at": "2026-06-03T00:18:18",
     "file": "data/beywarriors-cyborg-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beywarriors-cyborg-special.json"
+  },
+  {
+    "slug": "beywarriors-cyborg",
+    "mal_id": 1678,
+    "anime_name": "Beywarriors Cyborg",
+    "anime_url": "https://hianime.ad/anime/beywarriors-cyborg",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T00:18:29",
+    "file": "data/beywarriors-cyborg.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beywarriors-cyborg.json"
   }
 ]
