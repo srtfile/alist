@@ -1,0 +1,97 @@
+{
+  "anime_name": "Food Wars Shokugeki No Soma Ova",
+  "anime_url": "https://hianime.ad/anime/food-wars-shokugeki-no-soma-ova",
+  "slug": "food-wars-shokugeki-no-soma-ova",
+  "mal_id": 28171,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T12:46:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Endless Wasteland",
+      "episode_url": "https://hianime.ad/watch/food-wars-shokugeki-no-soma-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "28171-malep-1_vibeplayer_sub": "https://vibeplayer.site/b53bc54135c444cb",
+          "28171-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b53bc54135c444cb/master.m3u8"
+        },
+        "HD-2": {
+          "28171-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbe4f9d1282c06e657a394e5263a464404h",
+          "28171-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "28171-malep-1_otakuhg_sub": "https://otakuhg.site/e/tzyyxfhepelc",
+          "28171-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28171-malep-1_otakuvid_sub": "https://otakuvid.online/embed/25cvqfnkygay",
+          "28171-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "28171-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7b25f8cdc58a3d18",
+          "28171-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7b25f8cdc58a3d18/master.m3u8"
+        },
+        "HD-2": {
+          "28171-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag43590ae6c79e0fac37d786d60b39f6df4h",
+          "28171-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "28171-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rj0umyfoe1k6",
+          "28171-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28171-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/klrc8pxgj9b1",
+          "28171-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28171-malep-1_playmogo_hsub": "https://playmogo.com/e/64ug42r1ylue",
+          "28171-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "God Tongue",
+      "episode_url": "https://hianime.ad/watch/food-wars-shokugeki-no-soma-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "28171-malep-2_vibeplayer_sub": "https://vibeplayer.site/b4070440ee020f34",
+          "28171-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4070440ee020f34/master.m3u8"
+        },
+        "HD-2": {
+          "28171-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag490e9d8879808a93222de3c14e587bef4h",
+          "28171-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28171-malep-2_otakuvid_sub": "https://otakuvid.online/embed/hyzd6h9ybjuf",
+          "28171-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "28171-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ab87ad71252724c1",
+          "28171-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab87ad71252724c1/master.m3u8"
+        },
+        "HD-2": {
+          "28171-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agb7b004125525fc46a54f17b10b9ffaa04h",
+          "28171-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "28171-malep-2_otakuhg_hsub": "https://otakuhg.site/e/p1oqkl2yh9se",
+          "28171-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28171-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ok6axvlipihs",
+          "28171-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28171-malep-2_playmogo_hsub": "https://playmogo.com/e/x347blvggph3",
+          "28171-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
