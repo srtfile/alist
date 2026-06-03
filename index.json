@@ -3568,5 +3568,15 @@
     "captured_at": "2026-06-03T19:15:50",
     "file": "data/gundam-build-divers-rerise-3562.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-divers-rerise-3562.json"
+  },
+  {
+    "slug": "gundam-build-fighters",
+    "mal_id": 19319,
+    "anime_name": "Gundam Build Fighters",
+    "anime_url": "https://hianime.ad/anime/gundam-build-fighters",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T19:16:13",
+    "file": "data/gundam-build-fighters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters.json"
   }
 ]
