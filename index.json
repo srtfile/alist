@@ -10688,5 +10688,15 @@
     "captured_at": "2026-06-03T01:01:03",
     "file": "data/blue-lock-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-lock-season-2.json"
+  },
+  {
+    "slug": "blue-lock-episode-nagi",
+    "mal_id": 49596,
+    "anime_name": "Blue Lock Episode Nagi",
+    "anime_url": "https://hianime.ad/anime/blue-lock-episode-nagi",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T01:01:25",
+    "file": "data/blue-lock-episode-nagi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-lock-episode-nagi.json"
   }
 ]
