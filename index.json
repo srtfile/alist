@@ -21928,5 +21928,15 @@
     "captured_at": "2026-06-03T10:45:12",
     "file": "data/everything-is-fine-with-the-emperor.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/everything-is-fine-with-the-emperor.json"
+  },
+  {
+    "slug": "evil-or-live",
+    "mal_id": 36245,
+    "anime_name": "Evil Or Live",
+    "anime_url": "https://hianime.ad/anime/evil-or-live",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:45:35",
+    "file": "data/evil-or-live.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/evil-or-live.json"
   }
 ]
