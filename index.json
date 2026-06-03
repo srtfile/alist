@@ -20378,5 +20378,15 @@
     "captured_at": "2026-06-03T09:55:26",
     "file": "data/dragonar-academy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragonar-academy.json"
+  },
+  {
+    "slug": "dragonaut-the-resonance",
+    "mal_id": 2795,
+    "anime_name": "Dragonaut The Resonance",
+    "anime_url": "https://hianime.ad/anime/dragonaut-the-resonance",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T09:55:45",
+    "file": "data/dragonaut-the-resonance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragonaut-the-resonance.json"
   }
 ]
