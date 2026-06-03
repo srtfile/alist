@@ -1098,5 +1098,15 @@
     "captured_at": "2026-06-03T17:40:28",
     "file": "data/gibiate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gibiate.json"
+  },
+  {
+    "slug": "gift-eternal-rainbow",
+    "mal_id": 1581,
+    "anime_name": "Gift Eternal Rainbow",
+    "anime_url": "https://hianime.ad/anime/gift-eternal-rainbow",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:40:50",
+    "file": "data/gift-eternal-rainbow.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gift-eternal-rainbow.json"
   }
 ]
