@@ -10408,5 +10408,15 @@
     "captured_at": "2026-06-03T00:48:47",
     "file": "data/blood.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood.json"
+  },
+  {
+    "slug": "bloodivores",
+    "mal_id": 33985,
+    "anime_name": "Bloodivores",
+    "anime_url": "https://hianime.ad/anime/bloodivores",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:49:40",
+    "file": "data/bloodivores.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bloodivores.json"
   }
 ]
