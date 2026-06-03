@@ -14088,5 +14088,15 @@
     "captured_at": "2026-06-03T05:52:33",
     "file": "data/chuubyou-gekihatsu-boy-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chuubyou-gekihatsu-boy-special.json"
+  },
+  {
+    "slug": "chuuka-ichiban",
+    "mal_id": 110,
+    "anime_name": "Chuuka Ichiban",
+    "anime_url": "https://hianime.ad/anime/chuuka-ichiban",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T05:52:45",
+    "file": "data/chuuka-ichiban.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chuuka-ichiban.json"
   }
 ]
