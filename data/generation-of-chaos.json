@@ -1,0 +1,44 @@
+{
+  "anime_name": "Generation Of Chaos",
+  "anime_url": "https://hianime.ad/anime/generation-of-chaos",
+  "slug": "generation-of-chaos",
+  "mal_id": 18465,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:16:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The other side of the path. The promised place.",
+      "episode_url": "https://hianime.ad/watch/generation-of-chaos/ep-1",
+      "sub": {
+        "HD-1": {
+          "18465-malep-1_vibeplayer_sub": "https://vibeplayer.site/44015921ca4c7055",
+          "18465-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/44015921ca4c7055/master.m3u8"
+        },
+        "StreamHG": {
+          "18465-malep-1_otakuhg_sub": "https://otakuhg.site/e/3if605swtg68",
+          "18465-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18465-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pwqqr33jdha0",
+          "18465-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18465-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7820cc2badbc517a",
+          "18465-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7820cc2badbc517a/master.m3u8"
+        },
+        "Earnvids": {
+          "18465-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rqrpmuetf7ju",
+          "18465-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18465-malep-1_playmogo_hsub": "https://playmogo.com/e/f3d713eb97dv",
+          "18465-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
