@@ -5968,5 +5968,15 @@
     "captured_at": "2026-06-03T20:41:30",
     "file": "data/hetalia-axis-powers-paint-it-white.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hetalia-axis-powers-paint-it-white.json"
+  },
+  {
+    "slug": "hetalia-world-series",
+    "mal_id": 35079,
+    "anime_name": "Hetalia World Series",
+    "anime_url": "https://hianime.ad/anime/hetalia-world-series",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T20:41:43",
+    "file": "data/hetalia-world-series.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hetalia-world-series.json"
   }
 ]
