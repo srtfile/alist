@@ -13028,5 +13028,15 @@
     "captured_at": "2026-06-03T05:03:06",
     "file": "data/cat.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cat.json"
+  },
+  {
+    "slug": "cat-god",
+    "mal_id": 9934,
+    "anime_name": "Cat God",
+    "anime_url": "https://hianime.ad/anime/cat-god",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T05:04:26",
+    "file": "data/cat-god.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cat-god.json"
   }
 ]
