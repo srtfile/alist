@@ -2128,5 +2128,15 @@
     "captured_at": "2026-06-03T18:22:19",
     "file": "data/go-princess-precure-movie-go-go-gouka-3-bondate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-princess-precure-movie-go-go-gouka-3-bondate.json"
+  },
+  {
+    "slug": "go-karate-club",
+    "mal_id": 13261,
+    "anime_name": "Go Karate Club",
+    "anime_url": "https://hianime.ad/anime/go-karate-club",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T18:22:31",
+    "file": "data/go-karate-club.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-karate-club.json"
   }
 ]
