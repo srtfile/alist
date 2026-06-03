@@ -11788,5 +11788,15 @@
     "captured_at": "2026-06-03T03:03:44",
     "file": "data/bungo-and-alchemist-gears-of-judgement.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-and-alchemist-gears-of-judgement.json"
+  },
+  {
+    "slug": "bungo-stray-dogs",
+    "mal_id": 31478,
+    "anime_name": "Bungo Stray Dogs",
+    "anime_url": "https://hianime.ad/anime/bungo-stray-dogs",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:04:08",
+    "file": "data/bungo-stray-dogs.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-stray-dogs.json"
   }
 ]
