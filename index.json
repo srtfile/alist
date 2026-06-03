@@ -3348,5 +3348,15 @@
     "captured_at": "2026-06-03T19:07:00",
     "file": "data/gs-mikami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gs-mikami.json"
+  },
+  {
+    "slug": "guan-hai-ce",
+    "mal_id": 46633,
+    "anime_name": "Guan Hai Ce",
+    "anime_url": "https://hianime.ad/anime/guan-hai-ce",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T19:07:52",
+    "file": "data/guan-hai-ce.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guan-hai-ce.json"
   }
 ]
