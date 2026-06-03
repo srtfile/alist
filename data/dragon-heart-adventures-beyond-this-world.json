@@ -1,0 +1,73 @@
+{
+  "anime_name": "Dragon Heart Adventures Beyond This World",
+  "anime_url": "https://hianime.ad/anime/dragon-heart-adventures-beyond-this-world",
+  "slug": "dragon-heart-adventures-beyond-this-world",
+  "mal_id": 1956,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:48:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Signs of the Dragon Spirit",
+      "episode_url": "https://hianime.ad/watch/dragon-heart-adventures-beyond-this-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/a404b46e629ae3c4",
+          "1956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a404b46e629ae3c4/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag40b1e2bc78c0e35de78af5eff50ab7224h",
+          "1956-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3m1tfehcl099",
+          "1956-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_sub": "https://playmogo.com/e/hdt2zoel68ql",
+          "1956-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_dub": "https://vibeplayer.site/0e9908ab6dff2e95",
+          "1956-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0e9908ab6dff2e95/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag0852543ce49e63345f5035bf765ce4c14h",
+          "1956-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bzydnc0ghlsm",
+          "1956-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_dub": "https://playmogo.com/e/czuuvm3qq4jf",
+          "1956-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1db29749572a063c",
+          "1956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1db29749572a063c/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8c1f37f918e9b0ce2e303c7ced55f8a14h",
+          "1956-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1956-malep-1_otakuhg_hsub": "https://otakuhg.site/e/93t0ad3mikbj",
+          "1956-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hdr446dz0k9u",
+          "1956-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_hsub": "https://playmogo.com/e/fxc6kh5256tz",
+          "1956-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
