@@ -14848,5 +14848,15 @@
     "captured_at": "2026-06-03T06:19:13",
     "file": "data/code-e.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/code-e.json"
+  },
+  {
+    "slug": "codebreaker",
+    "mal_id": 11703,
+    "anime_name": "Codebreaker",
+    "anime_url": "https://hianime.ad/anime/codebreaker",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T06:19:36",
+    "file": "data/codebreaker.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/codebreaker.json"
   }
 ]
