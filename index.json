@@ -3438,5 +3438,15 @@
     "captured_at": "2026-06-03T19:10:42",
     "file": "data/guilty-gear-strive-dual-rulers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilty-gear-strive-dual-rulers.json"
+  },
+  {
+    "slug": "guin-saga",
+    "mal_id": 5041,
+    "anime_name": "Guin Saga",
+    "anime_url": "https://hianime.ad/anime/guin-saga",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T19:11:00",
+    "file": "data/guin-saga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guin-saga.json"
   }
 ]
