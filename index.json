@@ -5308,5 +5308,15 @@
     "captured_at": "2026-06-03T20:15:08",
     "file": "data/healin-good-pretty-cure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/healin-good-pretty-cure.json"
+  },
+  {
+    "slug": "heart-and-yummie",
+    "mal_id": 32447,
+    "anime_name": "Heart And Yummie",
+    "anime_url": "https://hianime.ad/anime/heart-and-yummie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T20:16:01",
+    "file": "data/heart-and-yummie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heart-and-yummie.json"
   }
 ]
