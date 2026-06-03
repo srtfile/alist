@@ -648,5 +648,15 @@
     "captured_at": "2026-06-03T17:26:02",
     "file": "data/getter-robo-g.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getter-robo-g.json"
+  },
+  {
+    "slug": "getter-robo-go",
+    "mal_id": 5292,
+    "anime_name": "Getter Robo Go",
+    "anime_url": "https://hianime.ad/anime/getter-robo-go",
+    "total_episodes": 30,
+    "captured_at": "2026-06-03T17:26:49",
+    "file": "data/getter-robo-go.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getter-robo-go.json"
   }
 ]
