@@ -1,0 +1,39 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 25 Shin Chan Shuurai Uchuujin Shiriri",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri",
+  "slug": "crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:43:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/fff69c4e4d713e47",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fff69c4e4d713e47/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag865cdb66de9288d4cad80263abf06a454h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/c5so84xqxu9j",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/5rip7pjchl1h",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/wyqjvcwyctsy",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
