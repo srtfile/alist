@@ -1,0 +1,52 @@
+{
+  "anime_name": "Elementalors",
+  "anime_url": "https://hianime.ad/anime/elementalors",
+  "slug": "elementalors",
+  "mal_id": 22877,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:20:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Sword, the School, and the Fire Cat-Girl",
+      "episode_url": "https://hianime.ad/watch/elementalors/ep-1",
+      "sub": {
+        "HD-1": {
+          "22877-malep-1_vibeplayer_sub": "https://vibeplayer.site/de6f9aacd465e72f",
+          "22877-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de6f9aacd465e72f/master.m3u8"
+        },
+        "HD-2": {
+          "22877-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag838f9cd18e145525bd3e5317226603744h",
+          "22877-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22877-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b4e0rsxpushe",
+          "22877-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "22877-malep-1_playmogo_sub": "https://playmogo.com/e/z7qni8cyojrg",
+          "22877-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22877-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3fede07b1a8e79e7",
+          "22877-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3fede07b1a8e79e7/master.m3u8"
+        },
+        "HD-2": {
+          "22877-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd7700e839d05c601fba80ffd06716b434h",
+          "22877-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22877-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7nf37lc0vi2f",
+          "22877-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22877-malep-1_playmogo_hsub": "https://playmogo.com/e/wwnpsq429h9z",
+          "22877-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
