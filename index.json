@@ -25108,5 +25108,15 @@
     "captured_at": "2026-06-03T13:31:44",
     "file": "data/gabriel-dropout.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gabriel-dropout.json"
+  },
+  {
+    "slug": "gabriel-dropout-specials",
+    "mal_id": 33731,
+    "anime_name": "Gabriel Dropout Specials",
+    "anime_url": "https://hianime.ad/anime/gabriel-dropout-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T13:32:05",
+    "file": "data/gabriel-dropout-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gabriel-dropout-specials.json"
   }
 ]
