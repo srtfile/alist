@@ -13108,5 +13108,15 @@
     "captured_at": "2026-06-03T05:06:29",
     "file": "data/cats-tea-episode-5-5.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cats-tea-episode-5-5.json"
+  },
+  {
+    "slug": "cats-tea-specials",
+    "mal_id": 2043,
+    "anime_name": "Cats Tea Specials",
+    "anime_url": "https://hianime.ad/anime/cats-tea-specials",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T05:06:41",
+    "file": "data/cats-tea-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cats-tea-specials.json"
   }
 ]
