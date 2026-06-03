@@ -1,0 +1,32 @@
+{
+  "anime_name": "Ghost In The Shell Stand Alone Complex Tachikomatic Days",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-stand-alone-complex-tachikomatic-days",
+  "slug": "ghost-in-the-shell-stand-alone-complex-tachikomatic-days",
+  "mal_id": 10870,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:35:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tachikoma na Hibi (TV)",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-stand-alone-complex-tachikomatic-days/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "10870-malep-1_vibeplayer_raw": "https://vibeplayer.site/8f96cb5e07723a39",
+          "10870-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/8f96cb5e07723a39/master.m3u8"
+        },
+        "StreamHG": {
+          "10870-malep-1_otakuhg_raw": "https://otakuhg.site/e/i60oeauy3z5m",
+          "10870-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "10870-malep-1_otakuvid_raw": "https://otakuvid.online/embed/bygamf36lsx3",
+          "10870-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
