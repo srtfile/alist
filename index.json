@@ -2578,5 +2578,15 @@
     "captured_at": "2026-06-03T18:41:08",
     "file": "data/gondora.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gondora.json"
+  },
+  {
+    "slug": "gongitsune",
+    "mal_id": 18411,
+    "anime_name": "Gongitsune",
+    "anime_url": "https://hianime.ad/anime/gongitsune",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:41:19",
+    "file": "data/gongitsune.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gongitsune.json"
   }
 ]
