@@ -10398,5 +10398,15 @@
     "captured_at": "2026-06-03T00:48:37",
     "file": "data/blood-the-last-vampire.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-the-last-vampire.json"
+  },
+  {
+    "slug": "blood",
+    "mal_id": 150,
+    "anime_name": "Blood",
+    "anime_url": "https://hianime.ad/anime/blood",
+    "total_episodes": 50,
+    "captured_at": "2026-06-03T00:48:47",
+    "file": "data/blood.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood.json"
   }
 ]
