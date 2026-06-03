@@ -25318,5 +25318,15 @@
     "captured_at": "2026-06-03T13:40:39",
     "file": "data/galaxy-angel-3-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-3-specials.json"
+  },
+  {
+    "slug": "galaxy-angel-4",
+    "mal_id": 655,
+    "anime_name": "Galaxy Angel 4",
+    "anime_url": "https://hianime.ad/anime/galaxy-angel-4",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:40:51",
+    "file": "data/galaxy-angel-4.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-4.json"
   }
 ]
