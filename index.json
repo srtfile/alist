@@ -5528,5 +5528,15 @@
     "captured_at": "2026-06-03T20:23:48",
     "file": "data/heion-sedai-no-idaten-tachi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heion-sedai-no-idaten-tachi.json"
+  },
+  {
+    "slug": "helck",
+    "mal_id": 51020,
+    "anime_name": "Helck",
+    "anime_url": "https://hianime.ad/anime/helck",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T20:24:09",
+    "file": "data/helck.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/helck.json"
   }
 ]
