@@ -1,0 +1,101 @@
+{
+  "anime_name": "Drifters",
+  "anime_url": "https://hianime.ad/anime/drifters",
+  "slug": "drifters",
+  "mal_id": 31339,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T09:58:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fight Song",
+      "episode_url": "https://hianime.ad/watch/drifters/ep-1",
+      "sub": {
+        "HD-1": {
+          "31339-malep-1_vibeplayer_sub": "https://vibeplayer.site/7174f79734b7c96e",
+          "31339-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7174f79734b7c96e/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-1_vibeplayer_sub": "https://vibeplayer.site/agddb3ec18e12b44934227fedf12ee97c94h",
+          "31339-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31339-malep-1_otakuhg_sub": "https://otakuhg.site/e/3fksnc87723z",
+          "31339-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bh03by6a1dey",
+          "31339-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31339-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4d4a18497b6b103e",
+          "31339-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4d4a18497b6b103e/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaafedc6606efa4fefaef429a9650c9274h",
+          "31339-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31339-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ki89ghrm58ot",
+          "31339-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nlqzxc84d8ee",
+          "31339-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31339-malep-1_playmogo_hsub": "https://playmogo.com/e/72q4l0lp1q93",
+          "31339-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Footsteps",
+      "episode_url": "https://hianime.ad/watch/drifters/ep-2",
+      "sub": {
+        "HD-1": {
+          "31339-malep-2_vibeplayer_sub": "https://vibeplayer.site/0efa63e44295f1cc",
+          "31339-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0efa63e44295f1cc/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag886dbcd3dd96e873d83c8f3586faae584h",
+          "31339-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-2_otakuvid_sub": "https://otakuvid.online/embed/73269sx9oozs",
+          "31339-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31339-malep-2_playmogo_sub": "https://playmogo.com/e/z5xk16npys8c",
+          "31339-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31339-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a098d9f157629115",
+          "31339-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a098d9f157629115/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag977ad6182417ebc4be136a2a8a65d4d24h",
+          "31339-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31339-malep-2_otakuhg_hsub": "https://otakuhg.site/e/9md3iowdo6n2",
+          "31339-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/rjkaxvouza5m",
+          "31339-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31339-malep-2_playmogo_hsub": "https://playmogo.com/e/s2s094uku0oq",
+          "31339-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
