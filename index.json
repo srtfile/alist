@@ -10488,5 +10488,15 @@
     "captured_at": "2026-06-03T00:51:50",
     "file": "data/blue-blink.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-blink.json"
+  },
+  {
+    "slug": "blue-box",
+    "mal_id": 57181,
+    "anime_name": "Blue Box",
+    "anime_url": "https://hianime.ad/anime/blue-box",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T00:52:34",
+    "file": "data/blue-box.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-box.json"
   }
 ]
