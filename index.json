@@ -12138,5 +12138,15 @@
     "captured_at": "2026-06-03T03:58:14",
     "file": "data/caligula.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/caligula.json"
+  },
+  {
+    "slug": "call-me-tonight",
+    "mal_id": 44081,
+    "anime_name": "Call Me Tonight",
+    "anime_url": "https://hianime.ad/anime/call-me-tonight",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T03:58:36",
+    "file": "data/call-me-tonight.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/call-me-tonight.json"
   }
 ]
