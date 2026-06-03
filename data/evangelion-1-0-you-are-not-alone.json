@@ -1,0 +1,77 @@
+{
+  "anime_name": "Evangelion 1 0 You Are Not Alone",
+  "anime_url": "https://hianime.ad/anime/evangelion-1-0-you-are-not-alone",
+  "slug": "evangelion-1-0-you-are-not-alone",
+  "mal_id": 467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:40:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Section 9",
+      "episode_url": "https://hianime.ad/watch/evangelion-1-0-you-are-not-alone/ep-1",
+      "sub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_sub": "https://vibeplayer.site/0e8a3695930c793a",
+          "467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e8a3695930c793a/master.m3u8"
+        },
+        "HD-2": {
+          "467-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2c76c23578d5c2531c305bbc1f51d4644h",
+          "467-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "467-malep-1_otakuhg_sub": "https://otakuhg.site/e/83iefg9b6d9w",
+          "467-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h95tzq6ps4hn",
+          "467-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "467-malep-1_playmogo_sub": "https://playmogo.com/e/7q5cxp11nmjb",
+          "467-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_dub": "https://vibeplayer.site/c201b88470bbec50",
+          "467-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c201b88470bbec50/master.m3u8"
+        },
+        "HD-2": {
+          "467-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd9875a7a04e7ff7ece71ccbd576a474c4h",
+          "467-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "467-malep-1_otakuhg_dub": "https://otakuhg.site/e/w2fiu32esqxk",
+          "467-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4n53e9713oc9",
+          "467-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1fbab0626b4f2ca7",
+          "467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1fbab0626b4f2ca7/master.m3u8"
+        },
+        "HD-2": {
+          "467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7d6ce389562d9b298feafcc9dab5eb854h",
+          "467-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "467-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qcu8unh60sj5",
+          "467-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/djn7gm2hlwl7",
+          "467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "467-malep-1_playmogo_hsub": "https://playmogo.com/e/7ubiy9da6h9o",
+          "467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
