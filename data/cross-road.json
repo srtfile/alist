@@ -1,0 +1,56 @@
+{
+  "anime_name": "Cross Road",
+  "anime_url": "https://hianime.ad/anime/cross-road",
+  "slug": "cross-road",
+  "mal_id": 25731,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:49:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fallen Princess",
+      "episode_url": "https://hianime.ad/watch/cross-road/ep-1",
+      "sub": {
+        "HD-1": {
+          "25731-malep-1_vibeplayer_sub": "https://vibeplayer.site/0b1fad7cf472b24d",
+          "25731-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b1fad7cf472b24d/master.m3u8"
+        },
+        "HD-2": {
+          "25731-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag965277309570e99e34db1f4ba4ad5e054h",
+          "25731-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "25731-malep-1_otakuhg_sub": "https://otakuhg.site/e/xqlrqztnqjrs",
+          "25731-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25731-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fh2achlt0pem",
+          "25731-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25731-malep-1_vibeplayer_hsub": "https://vibeplayer.site/48ed64bd3354e2de",
+          "25731-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48ed64bd3354e2de/master.m3u8"
+        },
+        "HD-2": {
+          "25731-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3434fb3602a54ecc27bfedab0b305a3f4h",
+          "25731-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "25731-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ev0d0ekexqj2",
+          "25731-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25731-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/58ioq57s1yft",
+          "25731-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25731-malep-1_playmogo_hsub": "https://playmogo.com/e/hi0m85jrlf6u",
+          "25731-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
