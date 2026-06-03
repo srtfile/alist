@@ -22228,5 +22228,15 @@
     "captured_at": "2026-06-03T10:57:53",
     "file": "data/fairy-mountain.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-mountain.json"
+  },
+  {
+    "slug": "fairy-musketeers",
+    "mal_id": 607,
+    "anime_name": "Fairy Musketeers",
+    "anime_url": "https://hianime.ad/anime/fairy-musketeers",
+    "total_episodes": 39,
+    "captured_at": "2026-06-03T10:58:17",
+    "file": "data/fairy-musketeers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-musketeers.json"
   }
 ]
