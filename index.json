@@ -1378,5 +1378,15 @@
     "captured_at": "2026-06-03T17:56:15",
     "file": "data/gintama-dai-hanseikai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-dai-hanseikai.json"
+  },
+  {
+    "slug": "gintama-enchousen",
+    "mal_id": 15417,
+    "anime_name": "Gintama Enchousen",
+    "anime_url": "https://hianime.ad/anime/gintama-enchousen",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:56:27",
+    "file": "data/gintama-enchousen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-enchousen.json"
   }
 ]
