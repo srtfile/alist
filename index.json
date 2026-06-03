@@ -318,5 +318,15 @@
     "captured_at": "2026-06-03T17:14:42",
     "file": "data/geisters-fractions-of-the-earth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/geisters-fractions-of-the-earth.json"
+  },
+  {
+    "slug": "gekidol",
+    "mal_id": 32455,
+    "anime_name": "Gekidol",
+    "anime_url": "https://hianime.ad/anime/gekidol",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:15:16",
+    "file": "data/gekidol.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gekidol.json"
   }
 ]
