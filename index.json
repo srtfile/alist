@@ -25348,5 +25348,15 @@
     "captured_at": "2026-06-03T13:41:33",
     "file": "data/galaxy-angel-s.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-s.json"
+  },
+  {
+    "slug": "galaxy-angel-z",
+    "mal_id": 652,
+    "anime_name": "Galaxy Angel Z",
+    "anime_url": "https://hianime.ad/anime/galaxy-angel-z",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T13:41:43",
+    "file": "data/galaxy-angel-z.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-z.json"
   }
 ]
