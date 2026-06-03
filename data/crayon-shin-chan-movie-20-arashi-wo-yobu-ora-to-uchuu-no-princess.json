@@ -1,0 +1,52 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 20 Arashi Wo Yobu Ora To Uchuu No Princess",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-20-arashi-wo-yobu-ora-to-uchuu-no-princess",
+  "slug": "crayon-shin-chan-movie-20-arashi-wo-yobu-ora-to-uchuu-no-princess",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:42:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-20-arashi-wo-yobu-ora-to-uchuu-no-princess/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/1262e74d7991edf4",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1262e74d7991edf4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agddc7c14ed1bdb3298d67d72e4beb9c9d4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qolkogfef7ls",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/4e0f9e45b57780b7",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e0f9e45b57780b7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag10f84e009ecb162981fed1367cf293e34h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/mygee9troxim",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nlz0lko1uslk",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/q7pk0b5d8ti2",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
