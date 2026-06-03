@@ -23118,5 +23118,15 @@
     "captured_at": "2026-06-03T12:13:40",
     "file": "data/fight-kickers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-kickers.json"
+  },
+  {
+    "slug": "fight-kickers-bokutachi-no-densetsu",
+    "mal_id": 3053,
+    "anime_name": "Fight Kickers Bokutachi No Densetsu",
+    "anime_url": "https://hianime.ad/anime/fight-kickers-bokutachi-no-densetsu",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T12:14:15",
+    "file": "data/fight-kickers-bokutachi-no-densetsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-kickers-bokutachi-no-densetsu.json"
   }
 ]
