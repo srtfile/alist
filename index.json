@@ -17418,5 +17418,15 @@
     "captured_at": "2026-06-03T08:06:51",
     "file": "data/denshin-mamotte-shugogetten.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/denshin-mamotte-shugogetten.json"
+  },
+  {
+    "slug": "descendants-of-darkness",
+    "mal_id": 553,
+    "anime_name": "Descendants Of Darkness",
+    "anime_url": "https://hianime.ad/anime/descendants-of-darkness",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T08:07:08",
+    "file": "data/descendants-of-darkness.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/descendants-of-darkness.json"
   }
 ]
