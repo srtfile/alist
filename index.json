@@ -4178,5 +4178,15 @@
     "captured_at": "2026-06-03T19:36:17",
     "file": "data/haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun.json"
+  },
+  {
+    "slug": "haikyuu-vs-akaten",
+    "mal_id": 32935,
+    "anime_name": "Haikyuu Vs Akaten",
+    "anime_url": "https://hianime.ad/anime/haikyuu-vs-akaten",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:36:29",
+    "file": "data/haikyuu-vs-akaten.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikyuu-vs-akaten.json"
   }
 ]
