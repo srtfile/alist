@@ -6568,5 +6568,15 @@
     "captured_at": "2026-06-03T21:01:05",
     "file": "data/higurashi-when-they-cry-gou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/higurashi-when-they-cry-gou.json"
+  },
+  {
+    "slug": "higurashi-when-they-cry-sotsu",
+    "mal_id": 48488,
+    "anime_name": "Higurashi When They Cry Sotsu",
+    "anime_url": "https://hianime.ad/anime/higurashi-when-they-cry-sotsu",
+    "total_episodes": 15,
+    "captured_at": "2026-06-03T21:01:38",
+    "file": "data/higurashi-when-they-cry-sotsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/higurashi-when-they-cry-sotsu.json"
   }
 ]
