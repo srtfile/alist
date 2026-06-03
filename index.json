@@ -24158,5 +24158,15 @@
     "captured_at": "2026-06-03T12:56:19",
     "file": "data/fractale.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fractale.json"
+  },
+  {
+    "slug": "fragtime",
+    "mal_id": null,
+    "anime_name": "Fragtime",
+    "anime_url": "https://hianime.ad/anime/fragtime",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T12:56:37",
+    "file": "data/fragtime.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fragtime.json"
   }
 ]
