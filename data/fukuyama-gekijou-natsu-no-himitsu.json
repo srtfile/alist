@@ -1,0 +1,56 @@
+{
+  "anime_name": "Fukuyama Gekijou Natsu No Himitsu",
+  "anime_url": "https://hianime.ad/anime/fukuyama-gekijou-natsu-no-himitsu",
+  "slug": "fukuyama-gekijou-natsu-no-himitsu",
+  "mal_id": 3467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:08:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's Over...",
+      "episode_url": "https://hianime.ad/watch/fukuyama-gekijou-natsu-no-himitsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "3467-malep-1_vibeplayer_sub": "https://vibeplayer.site/92f0f54f97fcf7ed",
+          "3467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/92f0f54f97fcf7ed/master.m3u8"
+        },
+        "HD-2": {
+          "3467-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3e017f4763a40782c1918324472b00ee4h",
+          "3467-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "3467-malep-1_otakuhg_sub": "https://otakuhg.site/e/ol5t5xv8aw4k",
+          "3467-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n00ux1z80qb3",
+          "3467-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3467-malep-1_playmogo_sub": "https://playmogo.com/e/0rgcss723f34",
+          "3467-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/526cffef784436c7",
+          "3467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/526cffef784436c7/master.m3u8"
+        },
+        "HD-2": {
+          "3467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age54f5c8b46282ab0f6c7f1ffbf8a53704h",
+          "3467-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9w663yr4fyxc",
+          "3467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3467-malep-1_playmogo_hsub": "https://playmogo.com/e/phrzaw5phz8v",
+          "3467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
