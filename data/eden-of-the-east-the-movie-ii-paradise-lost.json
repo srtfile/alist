@@ -1,0 +1,73 @@
+{
+  "anime_name": "Eden Of The East The Movie Ii Paradise Lost",
+  "anime_url": "https://hianime.ad/anime/eden-of-the-east-the-movie-ii-paradise-lost",
+  "slug": "eden-of-the-east-the-movie-ii-paradise-lost",
+  "mal_id": 5630,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:12:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Picked Up a Prince",
+      "episode_url": "https://hianime.ad/watch/eden-of-the-east-the-movie-ii-paradise-lost/ep-1",
+      "sub": {
+        "HD-1": {
+          "5630-malep-1_vibeplayer_sub": "https://vibeplayer.site/a2173f5de14975d4",
+          "5630-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a2173f5de14975d4/master.m3u8"
+        },
+        "HD-2": {
+          "5630-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8c57a17392854f6682277cbdd37426034h",
+          "5630-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5630-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ci0y6hp0t1h4",
+          "5630-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "5630-malep-1_playmogo_sub": "https://playmogo.com/e/3tmr1rjtr6yv",
+          "5630-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "5630-malep-1_vibeplayer_dub": "https://vibeplayer.site/67427b05fcd2c271",
+          "5630-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/67427b05fcd2c271/master.m3u8"
+        },
+        "HD-2": {
+          "5630-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag13dde57c506552a905047ce6a81c6f234h",
+          "5630-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "5630-malep-1_otakuvid_dub": "https://otakuvid.online/embed/orgs2v9egkgu",
+          "5630-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "5630-malep-1_playmogo_dub": "https://playmogo.com/e/5x4838fabdw4",
+          "5630-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "5630-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ed2582453dd96a47",
+          "5630-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ed2582453dd96a47/master.m3u8"
+        },
+        "HD-2": {
+          "5630-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb38fc4b4d88668952b2bc2ecc09a87dc4h",
+          "5630-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "5630-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f57tk6qt8o8l",
+          "5630-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5630-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/srgio4abbx05",
+          "5630-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5630-malep-1_playmogo_hsub": "https://playmogo.com/e/o62fro887pu8",
+          "5630-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
