@@ -1,0 +1,40 @@
+{
+  "anime_name": "Ginga No Uo Ursa Minor Blue",
+  "anime_url": "https://hianime.ad/anime/ginga-no-uo-ursa-minor-blue",
+  "slug": "ginga-no-uo-ursa-minor-blue",
+  "mal_id": 2717,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:48:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A New Departure",
+      "episode_url": "https://hianime.ad/watch/ginga-no-uo-ursa-minor-blue/ep-1",
+      "sub": {
+        "HD-1": {
+          "2717-malep-1_vibeplayer_sub": "https://vibeplayer.site/dc06f79265f206fa",
+          "2717-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc06f79265f206fa/master.m3u8"
+        },
+        "Earnvids": {
+          "2717-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lqupuo19hc1m",
+          "2717-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2717-malep-1_vibeplayer_hsub": "https://vibeplayer.site/82db5a0eb4081353",
+          "2717-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/82db5a0eb4081353/master.m3u8"
+        },
+        "Earnvids": {
+          "2717-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mnsmoxyygoh6",
+          "2717-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2717-malep-1_playmogo_hsub": "https://playmogo.com/e/2so5mj836mre",
+          "2717-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
