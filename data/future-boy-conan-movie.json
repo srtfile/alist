@@ -1,0 +1,52 @@
+{
+  "anime_name": "Future Boy Conan Movie",
+  "anime_url": "https://hianime.ad/anime/future-boy-conan-movie",
+  "slug": "future-boy-conan-movie",
+  "mal_id": 302,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:23:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Remnant Island",
+      "episode_url": "https://hianime.ad/watch/future-boy-conan-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "302-malep-1_vibeplayer_sub": "https://vibeplayer.site/75dcaa8c6787dfd8",
+          "302-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/75dcaa8c6787dfd8/master.m3u8"
+        },
+        "HD-2": {
+          "302-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2ccc3124f20d5d41682e7bc92af755674h",
+          "302-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "302-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nhhkhj3w0fao",
+          "302-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "302-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a879836ce31babe3",
+          "302-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a879836ce31babe3/master.m3u8"
+        },
+        "HD-2": {
+          "302-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc0983ef14efdd929de59fb162ebb91b94h",
+          "302-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "302-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a0s54ntusjrh",
+          "302-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "302-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dh0ql8pdbvkk",
+          "302-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "302-malep-1_playmogo_hsub": "https://playmogo.com/e/myzw9mo2s6ld",
+          "302-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
