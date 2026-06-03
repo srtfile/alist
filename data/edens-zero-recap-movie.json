@@ -1,0 +1,35 @@
+{
+  "anime_name": "Edens Zero Recap Movie",
+  "anime_url": "https://hianime.ad/anime/edens-zero-recap-movie",
+  "slug": "edens-zero-recap-movie",
+  "mal_id": 42192,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:13:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Into the Sky Where Cherry Blossoms Flutter",
+      "episode_url": "https://hianime.ad/watch/edens-zero-recap-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "42192-malep-1_vibeplayer_sub": "https://vibeplayer.site/c745b395fccf7273",
+          "42192-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c745b395fccf7273/master.m3u8"
+        },
+        "HD-2": {
+          "42192-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdefd6a6c40549dde890e01146c515cad4h",
+          "42192-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42192-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nwqclsdoexco",
+          "42192-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "42192-malep-1_playmogo_sub": "https://playmogo.com/e/v10o1yavlzwk",
+          "42192-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}
