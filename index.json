@@ -10338,5 +10338,15 @@
     "captured_at": "2026-06-03T00:47:17",
     "file": "data/blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever.json"
+  },
+  {
+    "slug": "blood-lad",
+    "mal_id": 11633,
+    "anime_name": "Blood Lad",
+    "anime_url": "https://hianime.ad/anime/blood-lad",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T00:47:28",
+    "file": "data/blood-lad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-lad.json"
   }
 ]
