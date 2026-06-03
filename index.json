@@ -24938,5 +24938,15 @@
     "captured_at": "2026-06-03T13:23:04",
     "file": "data/future-boy-conan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-boy-conan.json"
+  },
+  {
+    "slug": "future-boy-conan-movie",
+    "mal_id": 302,
+    "anime_name": "Future Boy Conan Movie",
+    "anime_url": "https://hianime.ad/anime/future-boy-conan-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T13:23:35",
+    "file": "data/future-boy-conan-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-boy-conan-movie.json"
   }
 ]
