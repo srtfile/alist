@@ -20748,5 +20748,15 @@
     "captured_at": "2026-06-03T10:05:51",
     "file": "data/durarara-x2-ketsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/durarara-x2-ketsu.json"
+  },
+  {
+    "slug": "durarara-x2-shou",
+    "mal_id": 23199,
+    "anime_name": "Durarara X2 Shou",
+    "anime_url": "https://hianime.ad/anime/durarara-x2-shou",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:06:11",
+    "file": "data/durarara-x2-shou.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/durarara-x2-shou.json"
   }
 ]
