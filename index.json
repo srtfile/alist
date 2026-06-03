@@ -22248,5 +22248,15 @@
     "captured_at": "2026-06-03T10:58:59",
     "file": "data/fairy-ranmaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-ranmaru.json"
+  },
+  {
+    "slug": "fairy-tail",
+    "mal_id": 6702,
+    "anime_name": "Fairy Tail",
+    "anime_url": "https://hianime.ad/anime/fairy-tail",
+    "total_episodes": 175,
+    "captured_at": "2026-06-03T10:59:19",
+    "file": "data/fairy-tail.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-tail.json"
   }
 ]
