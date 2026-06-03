@@ -3628,5 +3628,15 @@
     "captured_at": "2026-06-03T19:18:02",
     "file": "data/gundam-build-fighters-gm-no-gyakushuu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-gm-no-gyakushuu.json"
+  },
+  {
+    "slug": "gundam-build-metaverse",
+    "mal_id": 19319,
+    "anime_name": "Gundam Build Metaverse",
+    "anime_url": "https://hianime.ad/anime/gundam-build-metaverse",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T19:18:14",
+    "file": "data/gundam-build-metaverse.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-metaverse.json"
   }
 ]
