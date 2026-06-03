@@ -25288,5 +25288,15 @@
     "captured_at": "2026-06-03T13:39:12",
     "file": "data/galactic-patrol-lensman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galactic-patrol-lensman.json"
+  },
+  {
+    "slug": "galaxy-angel",
+    "mal_id": 383,
+    "anime_name": "Galaxy Angel",
+    "anime_url": "https://hianime.ad/anime/galaxy-angel",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T13:39:36",
+    "file": "data/galaxy-angel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel.json"
   }
 ]
