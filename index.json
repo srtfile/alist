@@ -21068,5 +21068,15 @@
     "captured_at": "2026-06-03T10:15:53",
     "file": "data/eiken.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eiken.json"
+  },
+  {
+    "slug": "eins-summer-vacation",
+    "mal_id": 4981,
+    "anime_name": "Eins Summer Vacation",
+    "anime_url": "https://hianime.ad/anime/eins-summer-vacation",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:16:05",
+    "file": "data/eins-summer-vacation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eins-summer-vacation.json"
   }
 ]
