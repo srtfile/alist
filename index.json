@@ -12928,5 +12928,15 @@
     "captured_at": "2026-06-03T04:59:42",
     "file": "data/case-closed-the-phantom-of-baker-street.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed-the-phantom-of-baker-street.json"
+  },
+  {
+    "slug": "case-file-n221-kabukicho",
+    "mal_id": 38161,
+    "anime_name": "Case File N221 Kabukicho",
+    "anime_url": "https://hianime.ad/anime/case-file-n221-kabukicho",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T04:59:54",
+    "file": "data/case-file-n221-kabukicho.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-file-n221-kabukicho.json"
   }
 ]
