@@ -9488,5 +9488,15 @@
     "captured_at": "2026-06-03T00:19:41",
     "file": "data/big-talk-youth-tour.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-talk-youth-tour.json"
+  },
+  {
+    "slug": "big-windup",
+    "mal_id": 2159,
+    "anime_name": "Big Windup",
+    "anime_url": "https://hianime.ad/anime/big-windup",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:20:04",
+    "file": "data/big-windup.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-windup.json"
   }
 ]
