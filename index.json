@@ -24788,5 +24788,15 @@
     "captured_at": "2026-06-03T13:16:57",
     "file": "data/fumoon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fumoon.json"
+  },
+  {
+    "slug": "fureru",
+    "mal_id": null,
+    "anime_name": "Fureru",
+    "anime_url": "https://hianime.ad/anime/fureru",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T13:17:08",
+    "file": "data/fureru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fureru.json"
   }
 ]
