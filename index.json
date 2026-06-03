@@ -25228,5 +25228,15 @@
     "captured_at": "2026-06-03T13:36:55",
     "file": "data/gakuen-handsome.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakuen-handsome.json"
+  },
+  {
+    "slug": "gakuen-heaven",
+    "mal_id": 850,
+    "anime_name": "Gakuen Heaven",
+    "anime_url": "https://hianime.ad/anime/gakuen-heaven",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:37:15",
+    "file": "data/gakuen-heaven.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakuen-heaven.json"
   }
 ]
