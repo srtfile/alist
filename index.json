@@ -17208,5 +17208,15 @@
     "captured_at": "2026-06-03T08:01:07",
     "file": "data/demon-lord-dante.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-lord-dante.json"
+  },
+  {
+    "slug": "demon-lord-retry",
+    "mal_id": 38297,
+    "anime_name": "Demon Lord Retry",
+    "anime_url": "https://hianime.ad/anime/demon-lord-retry",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:01:28",
+    "file": "data/demon-lord-retry.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-lord-retry.json"
   }
 ]
