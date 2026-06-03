@@ -10748,5 +10748,15 @@
     "captured_at": "2026-06-03T01:03:18",
     "file": "data/blue-seed.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-seed.json"
+  },
+  {
+    "slug": "blue-seed-beyond",
+    "mal_id": 998,
+    "anime_name": "Blue Seed Beyond",
+    "anime_url": "https://hianime.ad/anime/blue-seed-beyond",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T01:03:50",
+    "file": "data/blue-seed-beyond.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-seed-beyond.json"
   }
 ]
