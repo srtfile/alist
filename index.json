@@ -3748,5 +3748,15 @@
     "captured_at": "2026-06-03T19:21:50",
     "file": "data/gunparade-march-a-new-song-for-the-march.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunparade-march-a-new-song-for-the-march.json"
+  },
+  {
+    "slug": "gunparade-orchestra",
+    "mal_id": 858,
+    "anime_name": "Gunparade Orchestra",
+    "anime_url": "https://hianime.ad/anime/gunparade-orchestra",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T19:22:11",
+    "file": "data/gunparade-orchestra.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunparade-orchestra.json"
   }
 ]
