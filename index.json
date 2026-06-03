@@ -10758,5 +10758,15 @@
     "captured_at": "2026-06-03T01:03:50",
     "file": "data/blue-seed-beyond.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-seed-beyond.json"
+  },
+  {
+    "slug": "blue-seed-omake",
+    "mal_id": 998,
+    "anime_name": "Blue Seed Omake",
+    "anime_url": "https://hianime.ad/anime/blue-seed-omake",
+    "total_episodes": 14,
+    "captured_at": "2026-06-03T01:04:02",
+    "file": "data/blue-seed-omake.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-seed-omake.json"
   }
 ]
