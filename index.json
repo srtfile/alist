@@ -1588,5 +1588,15 @@
     "captured_at": "2026-06-03T18:01:52",
     "file": "data/girl-meets-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girl-meets-girl.json"
+  },
+  {
+    "slug": "girl-meets-girl-4225",
+    "mal_id": 49505,
+    "anime_name": "Girl Meets Girl 4225",
+    "anime_url": "https://hianime.ad/anime/girl-meets-girl-4225",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:02:14",
+    "file": "data/girl-meets-girl-4225.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girl-meets-girl-4225.json"
   }
 ]
