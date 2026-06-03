@@ -21178,5 +21178,15 @@
     "captured_at": "2026-06-03T10:19:55",
     "file": "data/elemental-gelade.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elemental-gelade.json"
+  },
+  {
+    "slug": "elementalors",
+    "mal_id": 22877,
+    "anime_name": "Elementalors",
+    "anime_url": "https://hianime.ad/anime/elementalors",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:20:27",
+    "file": "data/elementalors.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elementalors.json"
   }
 ]
