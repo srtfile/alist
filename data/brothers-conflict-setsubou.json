@@ -1,0 +1,65 @@
+{
+  "anime_name": "Brothers Conflict Setsubou",
+  "anime_url": "https://hianime.ad/anime/brothers-conflict-setsubou",
+  "slug": "brothers-conflict-setsubou",
+  "mal_id": 15605,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:57:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Brothers",
+      "episode_url": "https://hianime.ad/watch/brothers-conflict-setsubou/ep-1",
+      "sub": {
+        "HD-1": {
+          "15605-malep-1_vibeplayer_sub": "https://vibeplayer.site/e2d2315b5cfb50e4",
+          "15605-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2d2315b5cfb50e4/master.m3u8"
+        },
+        "HD-2": {
+          "15605-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdfa60fbde33ff31db522e7846a01c63f4h",
+          "15605-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15605-malep-1_otakuvid_sub": "https://otakuvid.online/embed/012l41v9tkup",
+          "15605-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "15605-malep-1_vibeplayer_dub": "https://vibeplayer.site/dfeb2d17132988fe",
+          "15605-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dfeb2d17132988fe/master.m3u8"
+        },
+        "HD-2": {
+          "15605-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag01188908d8312055fcf0b4723d66d3fc4h",
+          "15605-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "15605-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vrcqn0cb7qn0",
+          "15605-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "15605-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fb050923a2c117b7",
+          "15605-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb050923a2c117b7/master.m3u8"
+        },
+        "HD-2": {
+          "15605-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7532d51301934f18245a5798cf40e6704h",
+          "15605-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "15605-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fvwz3mhj7dig",
+          "15605-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15605-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2bdm8l1z7xqz",
+          "15605-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15605-malep-1_playmogo_hsub": "https://playmogo.com/e/mipx5d48i3g1",
+          "15605-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
