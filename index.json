@@ -68,5 +68,15 @@
     "captured_at": "2026-06-03T17:04:01",
     "file": "data/garo-vanishing-line.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-vanishing-line.json"
+  },
+  {
+    "slug": "garo-movie-divine-flame",
+    "mal_id": 23311,
+    "anime_name": "Garo Movie Divine Flame",
+    "anime_url": "https://hianime.ad/anime/garo-movie-divine-flame",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:04:34",
+    "file": "data/garo-movie-divine-flame.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-movie-divine-flame.json"
   }
 ]
