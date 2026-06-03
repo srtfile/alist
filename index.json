@@ -14118,5 +14118,15 @@
     "captured_at": "2026-06-03T05:53:56",
     "file": "data/cinderella-boy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cinderella-boy.json"
+  },
+  {
+    "slug": "cinderella-chef",
+    "mal_id": 23587,
+    "anime_name": "Cinderella Chef",
+    "anime_url": "https://hianime.ad/anime/cinderella-chef",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:54:20",
+    "file": "data/cinderella-chef.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cinderella-chef.json"
   }
 ]
