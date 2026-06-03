@@ -1,0 +1,56 @@
+{
+  "anime_name": "Doraemon The Movie Nobita And The Birth Of Japan 2016",
+  "anime_url": "https://hianime.ad/anime/doraemon-the-movie-nobita-and-the-birth-of-japan-2016",
+  "slug": "doraemon-the-movie-nobita-and-the-birth-of-japan-2016",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:06:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-the-movie-nobita-and-the-birth-of-japan-2016/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/325bd52111f27373",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/325bd52111f27373/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag422f05809100df644499b1103a9b2bc54h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/eelf67thvy5z",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/kjqss0e6vfz5",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/cfb8162666961a1b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cfb8162666961a1b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag860907f94c304f9792bb8e3f7bb5f6464h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/ghyde112b1dd",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ambodspc2rtj",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/a31rrg9dcs3x",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
