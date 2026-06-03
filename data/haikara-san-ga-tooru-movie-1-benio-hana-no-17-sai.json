@@ -1,0 +1,35 @@
+{
+  "anime_name": "Haikara San Ga Tooru Movie 1 Benio Hana No 17 Sai",
+  "anime_url": "https://hianime.ad/anime/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai",
+  "slug": "haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai",
+  "mal_id": 3335,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:32:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "3335-malep-1_vibeplayer_dub": "https://vibeplayer.site/78ec462bc57efa51",
+          "3335-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/78ec462bc57efa51/master.m3u8"
+        },
+        "StreamHG": {
+          "3335-malep-1_otakuhg_dub": "https://otakuhg.site/e/0z1y19hhhlbo",
+          "3335-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "3335-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6gnpo9izg5zw",
+          "3335-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "3335-malep-1_playmogo_dub": "https://playmogo.com/e/mjbkhxpirg72",
+          "3335-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
