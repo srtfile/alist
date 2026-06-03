@@ -1,0 +1,73 @@
+{
+  "anime_name": "Drifting Home",
+  "anime_url": "https://hianime.ad/anime/drifting-home",
+  "slug": "drifting-home",
+  "mal_id": 52092,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:00:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "From Today, I Am a Killer",
+      "episode_url": "https://hianime.ad/watch/drifting-home/ep-1",
+      "sub": {
+        "HD-1": {
+          "52092-malep-1_vibeplayer_sub": "https://vibeplayer.site/0358f77367ac0681",
+          "52092-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0358f77367ac0681/master.m3u8"
+        },
+        "HD-2": {
+          "52092-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8c3ee43a48809ea717d468c8051fd9d74h",
+          "52092-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "52092-malep-1_otakuhg_sub": "https://otakuhg.site/e/7cxkzcp4yadt",
+          "52092-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52092-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b9hjygtodkfy",
+          "52092-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "52092-malep-1_vibeplayer_dub": "https://vibeplayer.site/7df829e0e7b5fed7",
+          "52092-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7df829e0e7b5fed7/master.m3u8"
+        },
+        "HD-2": {
+          "52092-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag6f1b44cbaad2effe1c191a58b96d81764h",
+          "52092-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "52092-malep-1_otakuhg_dub": "https://otakuhg.site/e/9jkqum5m58ek",
+          "52092-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "52092-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nsb7swa4c6ga",
+          "52092-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "52092-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bce3887ebf7d3d0e",
+          "52092-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bce3887ebf7d3d0e/master.m3u8"
+        },
+        "HD-2": {
+          "52092-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5ecdd31d76c2f35665db98359fe7f0ab4h",
+          "52092-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "52092-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mu8ddrgj0mtq",
+          "52092-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52092-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eufw0tlcfd4l",
+          "52092-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52092-malep-1_playmogo_hsub": "https://playmogo.com/e/0pr6n5hhoz1e",
+          "52092-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
