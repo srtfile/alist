@@ -1,0 +1,77 @@
+{
+  "anime_name": "Galaxy Express 999 Eternal Fantasy",
+  "anime_url": "https://hianime.ad/anime/galaxy-express-999-eternal-fantasy",
+  "slug": "galaxy-express-999-eternal-fantasy",
+  "mal_id": 1491,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:45:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure Ballad",
+      "episode_url": "https://hianime.ad/watch/galaxy-express-999-eternal-fantasy/ep-1",
+      "sub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/5f82770a948a8327",
+          "1491-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f82770a948a8327/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5e2556cfe3e1a6d2bc8126334d777fa14h",
+          "1491-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1491-malep-1_otakuhg_sub": "https://otakuhg.site/e/bkz55k5bnquj",
+          "1491-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_sub": "https://otakuvid.online/embed/99lapjoodms6",
+          "1491-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_dub": "https://vibeplayer.site/9956fdd65b460a39",
+          "1491-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9956fdd65b460a39/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag74e93ea3ec7e8e6ca658992d12c08a8f4h",
+          "1491-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1491-malep-1_otakuhg_dub": "https://otakuhg.site/e/wcap1peb14pr",
+          "1491-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wx9ydj37cyfv",
+          "1491-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1491-malep-1_playmogo_dub": "https://playmogo.com/e/eu78q4bvvu0y",
+          "1491-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a4c2309397a9a77a",
+          "1491-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a4c2309397a9a77a/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8495dbc93055987ed92671d13f7376ab4h",
+          "1491-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1491-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4shv73asyp0z",
+          "1491-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l2kotjeqeck8",
+          "1491-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1491-malep-1_playmogo_hsub": "https://playmogo.com/e/afrnprl62ii5",
+          "1491-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
