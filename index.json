@@ -23538,5 +23538,15 @@
     "captured_at": "2026-06-03T12:32:47",
     "file": "data/fist-of-the-blue-sky-regenesis-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fist-of-the-blue-sky-regenesis-2nd-season.json"
+  },
+  {
+    "slug": "fist-of-the-north-star",
+    "mal_id": 967,
+    "anime_name": "Fist Of The North Star",
+    "anime_url": "https://hianime.ad/anime/fist-of-the-north-star",
+    "total_episodes": 152,
+    "captured_at": "2026-06-03T12:33:07",
+    "file": "data/fist-of-the-north-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fist-of-the-north-star.json"
   }
 ]
