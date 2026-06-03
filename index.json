@@ -5598,5 +5598,15 @@
     "captured_at": "2026-06-03T20:27:05",
     "file": "data/hell-target.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hell-target.json"
+  },
+  {
+    "slug": "hell-teacher-nube",
+    "mal_id": 59342,
+    "anime_name": "Hell Teacher Nube",
+    "anime_url": "https://hianime.ad/anime/hell-teacher-nube",
+    "total_episodes": 49,
+    "captured_at": "2026-06-03T20:27:17",
+    "file": "data/hell-teacher-nube.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hell-teacher-nube.json"
   }
 ]
