@@ -21658,5 +21658,15 @@
     "captured_at": "2026-06-03T10:36:44",
     "file": "data/eternal-alice.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-alice.json"
+  },
+  {
+    "slug": "eternal-boys",
+    "mal_id": 51293,
+    "anime_name": "Eternal Boys",
+    "anime_url": "https://hianime.ad/anime/eternal-boys",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T10:37:04",
+    "file": "data/eternal-boys.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-boys.json"
   }
 ]
