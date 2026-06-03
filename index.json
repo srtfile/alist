@@ -6268,5 +6268,15 @@
     "captured_at": "2026-06-03T20:52:49",
     "file": "data/high-card-the-flowers-bloom.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-card-the-flowers-bloom.json"
+  },
+  {
+    "slug": "high-school-agent",
+    "mal_id": 41353,
+    "anime_name": "High School Agent",
+    "anime_url": "https://hianime.ad/anime/high-school-agent",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T20:53:00",
+    "file": "data/high-school-agent.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-agent.json"
   }
 ]
