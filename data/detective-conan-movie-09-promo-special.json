@@ -1,0 +1,48 @@
+{
+  "anime_name": "Detective Conan Movie 09 Promo Special",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-09-promo-special",
+  "slug": "detective-conan-movie-09-promo-special",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:09:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-09-promo-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bfa91cea0ee40366",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bfa91cea0ee40366/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5427f2f50dec061f826c9218b08179e34h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/m4gmltksphek",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/917200c54435b376",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/917200c54435b376/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag41a814e652a0bf975d55a7c56651dc654h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qk7fv59qi0c1",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/jatjx78w8weq",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
