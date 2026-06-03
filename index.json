@@ -2798,5 +2798,15 @@
     "captured_at": "2026-06-03T18:47:40",
     "file": "data/gowest-overworked.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gowest-overworked.json"
+  },
+  {
+    "slug": "gr-giant-robo",
+    "mal_id": 3146,
+    "anime_name": "Gr Giant Robo",
+    "anime_url": "https://hianime.ad/anime/gr-giant-robo",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:48:00",
+    "file": "data/gr-giant-robo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gr-giant-robo.json"
   }
 ]
