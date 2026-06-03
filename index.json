@@ -16388,5 +16388,15 @@
     "captured_at": "2026-06-03T07:35:52",
     "file": "data/dallos-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dallos-special.json"
+  },
+  {
+    "slug": "dan-da-dan",
+    "mal_id": 57334,
+    "anime_name": "Dan Da Dan",
+    "anime_url": "https://hianime.ad/anime/dan-da-dan",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:36:02",
+    "file": "data/dan-da-dan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dan-da-dan.json"
   }
 ]
