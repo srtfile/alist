@@ -15028,5 +15028,15 @@
     "captured_at": "2026-06-03T06:25:20",
     "file": "data/comic-party-revolution-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-party-revolution-ova.json"
+  },
+  {
+    "slug": "comic-party-specials",
+    "mal_id": 289,
+    "anime_name": "Comic Party Specials",
+    "anime_url": "https://hianime.ad/anime/comic-party-specials",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T06:25:35",
+    "file": "data/comic-party-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-party-specials.json"
   }
 ]
