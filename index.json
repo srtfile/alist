@@ -14608,5 +14608,15 @@
     "captured_at": "2026-06-03T06:12:23",
     "file": "data/clockwork-planet.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clockwork-planet.json"
+  },
+  {
+    "slug": "close-combat-mage",
+    "mal_id": 235,
+    "anime_name": "Close Combat Mage",
+    "anime_url": "https://hianime.ad/anime/close-combat-mage",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T06:12:48",
+    "file": "data/close-combat-mage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/close-combat-mage.json"
   }
 ]
