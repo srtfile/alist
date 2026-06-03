@@ -1,0 +1,52 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 13 Densetsu Wo Yobu Buriburi 3 Pun Dai Shingeki",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki",
+  "slug": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:41:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/8fb132c431574443",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fb132c431574443/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag09167cf4155fe2cca61a1200b9c819814h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/jrjmom58dj0l",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c9eb82ece6e17ff8",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9eb82ece6e17ff8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag098ae9f20ab08a826895169a122bb6314h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/bvv4e4gz3s2i",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/49zmrps7v2pl",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/67did5ddln0h",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
