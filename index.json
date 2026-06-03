@@ -6698,5 +6698,15 @@
     "captured_at": "2026-06-03T21:07:22",
     "file": "data/himitsu-no-aipri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himitsu-no-aipri.json"
+  },
+  {
+    "slug": "himitsu-no-aipri-2nd-season",
+    "mal_id": 61092,
+    "anime_name": "Himitsu No Aipri 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/himitsu-no-aipri-2nd-season",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T21:08:21",
+    "file": "data/himitsu-no-aipri-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himitsu-no-aipri-2nd-season.json"
   }
 ]
