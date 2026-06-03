@@ -78,5 +78,15 @@
     "captured_at": "2026-06-03T17:04:34",
     "file": "data/garo-movie-divine-flame.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-movie-divine-flame.json"
+  },
+  {
+    "slug": "garo-crimson-moon",
+    "mal_id": 28537,
+    "anime_name": "Garo Crimson Moon",
+    "anime_url": "https://hianime.ad/anime/garo-crimson-moon",
+    "total_episodes": 23,
+    "captured_at": "2026-06-03T17:04:45",
+    "file": "data/garo-crimson-moon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-crimson-moon.json"
   }
 ]
