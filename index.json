@@ -978,5 +978,15 @@
     "captured_at": "2026-06-03T17:36:19",
     "file": "data/ghost-slayers-ayashi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-slayers-ayashi.json"
+  },
+  {
+    "slug": "ghost-slayers-ayashi-inferno",
+    "mal_id": 1587,
+    "anime_name": "Ghost Slayers Ayashi Inferno",
+    "anime_url": "https://hianime.ad/anime/ghost-slayers-ayashi-inferno",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T17:36:57",
+    "file": "data/ghost-slayers-ayashi-inferno.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-slayers-ayashi-inferno.json"
   }
 ]
