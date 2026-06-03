@@ -11968,5 +11968,15 @@
     "captured_at": "2026-06-03T03:52:17",
     "file": "data/burst-angel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burst-angel.json"
+  },
+  {
+    "slug": "bus-gamer",
+    "mal_id": 3389,
+    "anime_name": "Bus Gamer",
+    "anime_url": "https://hianime.ad/anime/bus-gamer",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T03:52:50",
+    "file": "data/bus-gamer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bus-gamer.json"
   }
 ]
