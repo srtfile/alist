@@ -1,0 +1,56 @@
+{
+  "anime_name": "Digimon Tamers Runaway Locomon",
+  "anime_url": "https://hianime.ad/anime/digimon-tamers-runaway-locomon",
+  "slug": "digimon-tamers-runaway-locomon",
+  "mal_id": 874,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:35:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Guilmon Comes Alive",
+      "episode_url": "https://hianime.ad/watch/digimon-tamers-runaway-locomon/ep-1",
+      "sub": {
+        "HD-1": {
+          "874-malep-1_vibeplayer_sub": "https://vibeplayer.site/8235079ccd921d44",
+          "874-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8235079ccd921d44/master.m3u8"
+        },
+        "HD-2": {
+          "874-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag86232d5870b3c044581c2026991fd24c4h",
+          "874-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "874-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jasoz925191m",
+          "874-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "874-malep-1_playmogo_sub": "https://playmogo.com/e/qca5olwb2pyf",
+          "874-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "874-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ee14d989d3762fc",
+          "874-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ee14d989d3762fc/master.m3u8"
+        },
+        "HD-2": {
+          "874-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf1b26943b4ffb666c1c42a0e9e5274404h",
+          "874-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "874-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0ufq1ji6snzm",
+          "874-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "874-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/alp6qdwruprk",
+          "874-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "874-malep-1_playmogo_hsub": "https://playmogo.com/e/tpfdn8rnajqs",
+          "874-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
