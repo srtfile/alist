@@ -11908,5 +11908,15 @@
     "captured_at": "2026-06-03T03:07:35",
     "file": "data/burn-up-excess.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burn-up-excess.json"
+  },
+  {
+    "slug": "burn-up-scramble",
+    "mal_id": 693,
+    "anime_name": "Burn Up Scramble",
+    "anime_url": "https://hianime.ad/anime/burn-up-scramble",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:07:57",
+    "file": "data/burn-up-scramble.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burn-up-scramble.json"
   }
 ]
