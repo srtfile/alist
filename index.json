@@ -1638,5 +1638,15 @@
     "captured_at": "2026-06-03T18:03:30",
     "file": "data/girlish-number.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girlish-number.json"
+  },
+  {
+    "slug": "girls-panzer",
+    "mal_id": 14131,
+    "anime_name": "Girls Panzer",
+    "anime_url": "https://hianime.ad/anime/girls-panzer",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:03:52",
+    "file": "data/girls-panzer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer.json"
   }
 ]
