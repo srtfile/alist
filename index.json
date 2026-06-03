@@ -18178,5 +18178,15 @@
     "captured_at": "2026-06-03T08:27:07",
     "file": "data/digimon-adventure-02-revenge-of-diaboromon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-02-revenge-of-diaboromon.json"
+  },
+  {
+    "slug": "digimon-adventure-tri-coexistence",
+    "mal_id": 552,
+    "anime_name": "Digimon Adventure Tri Coexistence",
+    "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-coexistence",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:27:18",
+    "file": "data/digimon-adventure-tri-coexistence.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-tri-coexistence.json"
   }
 ]
