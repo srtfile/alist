@@ -6758,5 +6758,15 @@
     "captured_at": "2026-06-03T21:10:51",
     "file": "data/hina-logic-from-luck-logic.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hina-logic-from-luck-logic.json"
+  },
+  {
+    "slug": "hinako-note",
+    "mal_id": 33948,
+    "anime_name": "Hinako Note",
+    "anime_url": "https://hianime.ad/anime/hinako-note",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:11:13",
+    "file": "data/hinako-note.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinako-note.json"
   }
 ]
