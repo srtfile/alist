@@ -1,0 +1,52 @@
+{
+  "anime_name": "Free Movie 3 Road To The World Yume",
+  "anime_url": "https://hianime.ad/anime/free-movie-3-road-to-the-world-yume",
+  "slug": "free-movie-3-road-to-the-world-yume",
+  "mal_id": 18507,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:59:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reunion at the Starting Block!",
+      "episode_url": "https://hianime.ad/watch/free-movie-3-road-to-the-world-yume/ep-1",
+      "sub": {
+        "HD-1": {
+          "18507-malep-1_vibeplayer_sub": "https://vibeplayer.site/01f25e86ce4133a5",
+          "18507-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01f25e86ce4133a5/master.m3u8"
+        },
+        "HD-2": {
+          "18507-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag54f4e7975a96204d879e3bfa3c267e5c4h",
+          "18507-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "18507-malep-1_otakuhg_sub": "https://otakuhg.site/e/grekeo0hmwx4",
+          "18507-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18507-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0e9xk7ocfplu",
+          "18507-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c15ae6a7f67e18ac",
+          "18507-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c15ae6a7f67e18ac/master.m3u8"
+        },
+        "HD-2": {
+          "18507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfb70703f75d3dde7c7e9e8ad86a19e9a4h",
+          "18507-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "18507-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1s46flvr2e7t",
+          "18507-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18507-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uoj7hi9zik39",
+          "18507-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
