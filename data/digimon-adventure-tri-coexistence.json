@@ -1,0 +1,35 @@
+{
+  "anime_name": "Digimon Adventure Tri Coexistence",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-coexistence",
+  "slug": "digimon-adventure-tri-coexistence",
+  "mal_id": 552,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:27:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And So it Begins...",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-tri-coexistence/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/e877241242363d05",
+          "552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e877241242363d05/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd9359d7bde5378e33e1c683879d94f314h",
+          "552-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_dub": "https://otakuhg.site/e/ayh85v3tet07",
+          "552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cx1n3vnf9wqu",
+          "552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
