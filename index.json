@@ -22338,5 +22338,15 @@
     "captured_at": "2026-06-03T11:05:47",
     "file": "data/fallen-mystic-master.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fallen-mystic-master.json"
+  },
+  {
+    "slug": "false-memory",
+    "mal_id": 59142,
+    "anime_name": "False Memory",
+    "anime_url": "https://hianime.ad/anime/false-memory",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T11:06:09",
+    "file": "data/false-memory.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/false-memory.json"
   }
 ]
