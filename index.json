@@ -20698,5 +20698,15 @@
     "captured_at": "2026-06-03T10:04:28",
     "file": "data/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova.json"
+  },
+  {
+    "slug": "dungeon-people",
+    "mal_id": 56348,
+    "anime_name": "Dungeon People",
+    "anime_url": "https://hianime.ad/anime/dungeon-people",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:04:38",
+    "file": "data/dungeon-people.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dungeon-people.json"
   }
 ]
