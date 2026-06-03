@@ -1,0 +1,60 @@
+{
+  "anime_name": "Detective Conan Movie 09 Strategy Above The Depths",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-09-strategy-above-the-depths",
+  "slug": "detective-conan-movie-09-strategy-above-the-depths",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:09:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-09-strategy-above-the-depths/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/7f0148d21d233061",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7f0148d21d233061/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4d25a6f4cce9bce01c25aad6bdade05c4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/hv4djygy1h7z",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1z38w74x951m",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/mi3imusf6opg",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/33e70d469415487b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/33e70d469415487b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag14c104b4fe65ef6f1cd1c52fefca8c034h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/a8v91ggqlc94",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ilxu6m83hw4h",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/3o795vgzyg32",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
