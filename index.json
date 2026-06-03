@@ -14368,5 +14368,15 @@
     "captured_at": "2026-06-03T06:02:50",
     "file": "data/city-hunter-the-secret-service.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-hunter-the-secret-service.json"
+  },
+  {
+    "slug": "city-the-animation",
+    "mal_id": 59898,
+    "anime_name": "City The Animation",
+    "anime_url": "https://hianime.ad/anime/city-the-animation",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T06:03:02",
+    "file": "data/city-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-the-animation.json"
   }
 ]
