@@ -9678,5 +9678,15 @@
     "captured_at": "2026-06-03T00:25:13",
     "file": "data/birdy-the-mighty.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/birdy-the-mighty.json"
+  },
+  {
+    "slug": "birdy-the-mighty-decode",
+    "mal_id": 3974,
+    "anime_name": "Birdy The Mighty Decode",
+    "anime_url": "https://hianime.ad/anime/birdy-the-mighty-decode",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:25:26",
+    "file": "data/birdy-the-mighty-decode.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/birdy-the-mighty-decode.json"
   }
 ]
