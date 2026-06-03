@@ -21978,5 +21978,15 @@
     "captured_at": "2026-06-03T10:46:39",
     "file": "data/ex-driver-nina-rei-danger-zone.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ex-driver-nina-rei-danger-zone.json"
+  },
+  {
+    "slug": "excel-saga",
+    "mal_id": 379,
+    "anime_name": "Excel Saga",
+    "anime_url": "https://hianime.ad/anime/excel-saga",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T10:46:49",
+    "file": "data/excel-saga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/excel-saga.json"
   }
 ]
