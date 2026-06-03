@@ -10008,5 +10008,15 @@
     "captured_at": "2026-06-03T00:37:31",
     "file": "data/black-rock-shooter-dawn-fall.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-rock-shooter-dawn-fall.json"
+  },
+  {
+    "slug": "black-summoner",
+    "mal_id": 51064,
+    "anime_name": "Black Summoner",
+    "anime_url": "https://hianime.ad/anime/black-summoner",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:37:52",
+    "file": "data/black-summoner.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-summoner.json"
   }
 ]
