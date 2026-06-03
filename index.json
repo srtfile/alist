@@ -21988,5 +21988,15 @@
     "captured_at": "2026-06-03T10:46:49",
     "file": "data/excel-saga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/excel-saga.json"
+  },
+  {
+    "slug": "exception",
+    "mal_id": 1123,
+    "anime_name": "Exception",
+    "anime_url": "https://hianime.ad/anime/exception",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T10:47:20",
+    "file": "data/exception.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/exception.json"
   }
 ]
