@@ -20678,5 +20678,15 @@
     "captured_at": "2026-06-03T10:04:01",
     "file": "data/duel-masters-lost-crystal-of-reminiscence.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/duel-masters-lost-crystal-of-reminiscence.json"
+  },
+  {
+    "slug": "duel-masters-win",
+    "mal_id": 52460,
+    "anime_name": "Duel Masters Win",
+    "anime_url": "https://hianime.ad/anime/duel-masters-win",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T10:04:14",
+    "file": "data/duel-masters-win.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/duel-masters-win.json"
   }
 ]
