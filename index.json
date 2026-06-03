@@ -14838,5 +14838,15 @@
     "captured_at": "2026-06-03T06:18:56",
     "file": "data/code-zero-daily-report.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/code-zero-daily-report.json"
+  },
+  {
+    "slug": "code-e",
+    "mal_id": 2564,
+    "anime_name": "Code E",
+    "anime_url": "https://hianime.ad/anime/code-e",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:19:13",
+    "file": "data/code-e.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/code-e.json"
   }
 ]
