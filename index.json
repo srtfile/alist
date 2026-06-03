@@ -21128,5 +21128,15 @@
     "captured_at": "2026-06-03T10:17:33",
     "file": "data/el-hazard-the-magnificent-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/el-hazard-the-magnificent-world.json"
+  },
+  {
+    "slug": "el-hazard-the-wanderers",
+    "mal_id": 116,
+    "anime_name": "El Hazard The Wanderers",
+    "anime_url": "https://hianime.ad/anime/el-hazard-the-wanderers",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T10:17:48",
+    "file": "data/el-hazard-the-wanderers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/el-hazard-the-wanderers.json"
   }
 ]
