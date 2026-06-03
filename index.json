@@ -1738,5 +1738,15 @@
     "captured_at": "2026-06-03T18:05:53",
     "file": "data/girls-band-cry.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-band-cry.json"
+  },
+  {
+    "slug": "girls-beyond-the-wasteland",
+    "mal_id": 31914,
+    "anime_name": "Girls Beyond The Wasteland",
+    "anime_url": "https://hianime.ad/anime/girls-beyond-the-wasteland",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:06:19",
+    "file": "data/girls-beyond-the-wasteland.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-beyond-the-wasteland.json"
   }
 ]
