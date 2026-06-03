@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gyo Tokyo Fish Attack",
+  "anime_url": "https://hianime.ad/anime/gyo-tokyo-fish-attack",
+  "slug": "gyo-tokyo-fish-attack",
+  "mal_id": 50197,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:27:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's You and Me, Senpai~",
+      "episode_url": "https://hianime.ad/watch/gyo-tokyo-fish-attack/ep-1",
+      "sub": {
+        "HD-1": {
+          "50197-malep-1_vibeplayer_sub": "https://vibeplayer.site/1eace268bb7eb6f5",
+          "50197-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1eace268bb7eb6f5/master.m3u8"
+        },
+        "StreamHG": {
+          "50197-malep-1_otakuhg_sub": "https://otakuhg.site/e/deb411ol0oss",
+          "50197-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50197-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3500tg0knutv",
+          "50197-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50197-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4a00bff80337cce6",
+          "50197-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a00bff80337cce6/master.m3u8"
+        },
+        "StreamHG": {
+          "50197-malep-1_otakuhg_hsub": "https://otakuhg.site/e/orv1n8bdg01h",
+          "50197-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50197-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qzz82afjpr6o",
+          "50197-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50197-malep-1_playmogo_hsub": "https://playmogo.com/e/im5kd6klm3z9",
+          "50197-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
