@@ -1,0 +1,77 @@
+{
+  "anime_name": "Dragon Ball Z Fusion Reborn",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-fusion-reborn",
+  "slug": "dragon-ball-z-fusion-reborn",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:44:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-fusion-reborn/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/bcc1f118e20ebbce",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bcc1f118e20ebbce/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf76df7a8be47eec39978e0a1f7fd14544h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_sub": "https://otakuhg.site/e/te1a4my8gpse",
+          "813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7ribputx7nh9",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/52a32b0b89bc2b0e",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/52a32b0b89bc2b0e/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag6ba78d3cb5d5f5ce810f91b954f6ee224h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/mjxvvxit6ej5",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/38jzmfxp1o9w",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_dub": "https://playmogo.com/e/ef0zm759qfku",
+          "813-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a255acde9bb34337",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a255acde9bb34337/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag33f656ace90245f0b8f47c2a83032bcc4h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qvwv3ghvwseg",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9dtysn91hrna",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/rwiu1a5tyr6q",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
