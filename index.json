@@ -17018,5 +17018,15 @@
     "captured_at": "2026-06-03T07:54:08",
     "file": "data/deep-insanity-the-lost-child.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deep-insanity-the-lost-child.json"
+  },
+  {
+    "slug": "deep-sea",
+    "mal_id": 45104,
+    "anime_name": "Deep Sea",
+    "anime_url": "https://hianime.ad/anime/deep-sea",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T07:54:27",
+    "file": "data/deep-sea.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deep-sea.json"
   }
 ]
