@@ -19558,5 +19558,15 @@
     "captured_at": "2026-06-03T09:14:39",
     "file": "data/download-devils-circuit.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/download-devils-circuit.json"
+  },
+  {
+    "slug": "dr-dokkiri",
+    "mal_id": 4554,
+    "anime_name": "Dr Dokkiri",
+    "anime_url": "https://hianime.ad/anime/dr-dokkiri",
+    "total_episodes": 27,
+    "captured_at": "2026-06-03T09:14:49",
+    "file": "data/dr-dokkiri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-dokkiri.json"
   }
 ]
