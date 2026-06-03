@@ -1778,5 +1778,15 @@
     "captured_at": "2026-06-03T18:07:26",
     "file": "data/girls-und-panzer-der-film.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-und-panzer-der-film.json"
+  },
+  {
+    "slug": "girls-last-tour",
+    "mal_id": 35838,
+    "anime_name": "Girls Last Tour",
+    "anime_url": "https://hianime.ad/anime/girls-last-tour",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:07:38",
+    "file": "data/girls-last-tour.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-last-tour.json"
   }
 ]
