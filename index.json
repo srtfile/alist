@@ -4518,5 +4518,15 @@
     "captured_at": "2026-06-03T19:47:09",
     "file": "data/hana-no-ko-lunlun-konnichiwa-sakura-no-kuni.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-no-ko-lunlun-konnichiwa-sakura-no-kuni.json"
+  },
+  {
+    "slug": "hana-no-zundamaru",
+    "mal_id": 16201,
+    "anime_name": "Hana No Zundamaru",
+    "anime_url": "https://hianime.ad/anime/hana-no-zundamaru",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T19:47:21",
+    "file": "data/hana-no-zundamaru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-no-zundamaru.json"
   }
 ]
