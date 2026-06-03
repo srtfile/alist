@@ -5728,5 +5728,15 @@
     "captured_at": "2026-06-03T20:31:19",
     "file": "data/hellsing.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hellsing.json"
+  },
+  {
+    "slug": "hellsing-ultimate",
+    "mal_id": 270,
+    "anime_name": "Hellsing Ultimate",
+    "anime_url": "https://hianime.ad/anime/hellsing-ultimate",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T20:31:42",
+    "file": "data/hellsing-ultimate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hellsing-ultimate.json"
   }
 ]
