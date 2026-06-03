@@ -10668,5 +10668,15 @@
     "captured_at": "2026-06-03T01:00:12",
     "file": "data/blue-literature.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-literature.json"
+  },
+  {
+    "slug": "blue-lock",
+    "mal_id": 49596,
+    "anime_name": "Blue Lock",
+    "anime_url": "https://hianime.ad/anime/blue-lock",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T01:00:32",
+    "file": "data/blue-lock.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-lock.json"
   }
 ]
