@@ -1168,5 +1168,15 @@
     "captured_at": "2026-06-03T17:44:03",
     "file": "data/ginga-e-kickoff.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-e-kickoff.json"
+  },
+  {
+    "slug": "ginga-eiyuu-densetsu-gaiden",
+    "mal_id": 31433,
+    "anime_name": "Ginga Eiyuu Densetsu Gaiden",
+    "anime_url": "https://hianime.ad/anime/ginga-eiyuu-densetsu-gaiden",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T17:44:50",
+    "file": "data/ginga-eiyuu-densetsu-gaiden.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-eiyuu-densetsu-gaiden.json"
   }
 ]
