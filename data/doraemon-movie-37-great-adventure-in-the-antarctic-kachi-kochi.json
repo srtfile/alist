@@ -1,0 +1,81 @@
+{
+  "anime_name": "Doraemon Movie 37 Great Adventure In The Antarctic Kachi Kochi",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi",
+  "slug": "doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:05:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b8eda5e497e1621a",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8eda5e497e1621a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag26b8e64f415cfe67c6f03e788ed033544h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/qq36f2z3k8qh",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/0wfkwfdi0aht",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/hy4xq32dtdl2",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/13cbfff3584164c8",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/13cbfff3584164c8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/agc8d43675e392d98a2fafd65ac081fb314h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/aj8f0baimf4r",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/604wac2k7v37",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/5ttdq3ws8zzs",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/0c049e23063b11a3",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0c049e23063b11a3/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag07af578ac73f96b4a6b82dbb0a73b2f64h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/ghtew7mgyouo",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qr02zzlkgos8",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9i1krdyn8ygj",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
