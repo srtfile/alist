@@ -24968,5 +24968,15 @@
     "captured_at": "2026-06-03T13:24:51",
     "file": "data/future-card-buddyfight-ace.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-card-buddyfight-ace.json"
+  },
+  {
+    "slug": "future-card-buddyfight-hundred",
+    "mal_id": 30039,
+    "anime_name": "Future Card Buddyfight Hundred",
+    "anime_url": "https://hianime.ad/anime/future-card-buddyfight-hundred",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T13:25:38",
+    "file": "data/future-card-buddyfight-hundred.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-card-buddyfight-hundred.json"
   }
 ]
