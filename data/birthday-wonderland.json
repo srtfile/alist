@@ -1,0 +1,73 @@
+{
+  "anime_name": "Birthday Wonderland",
+  "anime_url": "https://hianime.ad/anime/birthday-wonderland",
+  "slug": "birthday-wonderland",
+  "mal_id": 48253,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:26:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/birthday-wonderland/ep-1",
+      "sub": {
+        "HD-1": {
+          "48253-malep-1_vibeplayer_sub": "https://vibeplayer.site/88c869f7eda9150f",
+          "48253-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88c869f7eda9150f/master.m3u8"
+        },
+        "HD-2": {
+          "48253-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb45443a1c2f8025387395826bfae83164h",
+          "48253-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48253-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nemretil1sdw",
+          "48253-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "48253-malep-1_playmogo_sub": "https://playmogo.com/e/6ck11zgx3i35",
+          "48253-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48253-malep-1_vibeplayer_dub": "https://vibeplayer.site/4c9a2d64d7c06a02",
+          "48253-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c9a2d64d7c06a02/master.m3u8"
+        },
+        "HD-2": {
+          "48253-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag26a145fe8d4f2a03a505f8ca62d14b674h",
+          "48253-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "48253-malep-1_otakuhg_dub": "https://otakuhg.site/e/dskkr301p8ce",
+          "48253-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48253-malep-1_otakuvid_dub": "https://otakuvid.online/embed/b9vncnhyrnog",
+          "48253-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48253-malep-1_vibeplayer_hsub": "https://vibeplayer.site/edab1b1c7bfdbdf7",
+          "48253-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/edab1b1c7bfdbdf7/master.m3u8"
+        },
+        "HD-2": {
+          "48253-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbfb20843d85b62efc0388a5eca01640b4h",
+          "48253-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "48253-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5lfirjwrlbb6",
+          "48253-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48253-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3t3s4krsiodi",
+          "48253-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48253-malep-1_playmogo_hsub": "https://playmogo.com/e/6ctx9vozo91d",
+          "48253-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
