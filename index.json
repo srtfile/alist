@@ -17088,5 +17088,15 @@
     "captured_at": "2026-06-03T07:57:01",
     "file": "data/delicious-partyprecure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-partyprecure.json"
+  },
+  {
+    "slug": "delicious-partypretty-cure-movie",
+    "mal_id": 50281,
+    "anime_name": "Delicious Partypretty Cure Movie",
+    "anime_url": "https://hianime.ad/anime/delicious-partypretty-cure-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T07:57:49",
+    "file": "data/delicious-partypretty-cure-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-partypretty-cure-movie.json"
   }
 ]
