@@ -19898,5 +19898,15 @@
     "captured_at": "2026-06-03T09:33:05",
     "file": "data/dragon-ball-movie-04-the-path-to-power.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-movie-04-the-path-to-power.json"
+  },
+  {
+    "slug": "dragon-ball-super",
+    "mal_id": 30694,
+    "anime_name": "Dragon Ball Super",
+    "anime_url": "https://hianime.ad/anime/dragon-ball-super",
+    "total_episodes": 131,
+    "captured_at": "2026-06-03T09:33:15",
+    "file": "data/dragon-ball-super.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-super.json"
   }
 ]
