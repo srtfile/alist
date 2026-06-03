@@ -10348,5 +10348,15 @@
     "captured_at": "2026-06-03T00:47:28",
     "file": "data/blood-lad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-lad.json"
+  },
+  {
+    "slug": "blood-lad-ova",
+    "mal_id": 11633,
+    "anime_name": "Blood Lad Ova",
+    "anime_url": "https://hianime.ad/anime/blood-lad-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:47:46",
+    "file": "data/blood-lad-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-lad-ova.json"
   }
 ]
