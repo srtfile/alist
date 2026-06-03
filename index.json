@@ -23498,5 +23498,15 @@
     "captured_at": "2026-06-03T12:31:34",
     "file": "data/first-trip-alone.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/first-trip-alone.json"
+  },
+  {
+    "slug": "fish-in-the-trap",
+    "mal_id": 61126,
+    "anime_name": "Fish In The Trap",
+    "anime_url": "https://hianime.ad/anime/fish-in-the-trap",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T12:31:44",
+    "file": "data/fish-in-the-trap.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fish-in-the-trap.json"
   }
 ]
