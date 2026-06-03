@@ -2658,5 +2658,15 @@
     "captured_at": "2026-06-03T18:43:25",
     "file": "data/good-night-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-night-world.json"
+  },
+  {
+    "slug": "good-bye-cramer",
+    "mal_id": 58445,
+    "anime_name": "Good Bye Cramer",
+    "anime_url": "https://hianime.ad/anime/good-bye-cramer",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:43:46",
+    "file": "data/good-bye-cramer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-bye-cramer.json"
   }
 ]
