@@ -2738,5 +2738,15 @@
     "captured_at": "2026-06-03T18:45:52",
     "file": "data/gosenzo-sama-banbanzai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gosenzo-sama-banbanzai.json"
+  },
+  {
+    "slug": "gosick",
+    "mal_id": 8425,
+    "anime_name": "Gosick",
+    "anime_url": "https://hianime.ad/anime/gosick",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T18:46:08",
+    "file": "data/gosick.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gosick.json"
   }
 ]
