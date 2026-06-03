@@ -2818,5 +2818,15 @@
     "captured_at": "2026-06-03T18:48:23",
     "file": "data/graduation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/graduation.json"
+  },
+  {
+    "slug": "granbelm",
+    "mal_id": 39417,
+    "anime_name": "Granbelm",
+    "anime_url": "https://hianime.ad/anime/granbelm",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:48:35",
+    "file": "data/granbelm.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/granbelm.json"
   }
 ]
