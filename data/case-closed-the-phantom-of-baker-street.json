@@ -1,0 +1,73 @@
+{
+  "anime_name": "Case Closed The Phantom Of Baker Street",
+  "anime_url": "https://hianime.ad/anime/case-closed-the-phantom-of-baker-street",
+  "slug": "case-closed-the-phantom-of-baker-street",
+  "mal_id": 235,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:59:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Roller Coaster Murder Case",
+      "episode_url": "https://hianime.ad/watch/case-closed-the-phantom-of-baker-street/ep-1",
+      "sub": {
+        "HD-1": {
+          "235-malep-1_vibeplayer_sub": "https://vibeplayer.site/43c5224d8cf6b103",
+          "235-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/43c5224d8cf6b103/master.m3u8"
+        },
+        "HD-2": {
+          "235-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag88dc3721d5b5475993a99c17cafa9c9d4h",
+          "235-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "235-malep-1_otakuhg_sub": "https://otakuhg.site/e/27gxor1nrwjy",
+          "235-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "235-malep-1_otakuvid_sub": "https://otakuvid.online/embed/90fqsp31n83c",
+          "235-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "235-malep-1_vibeplayer_dub": "https://vibeplayer.site/bced682e86cb9ef7",
+          "235-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bced682e86cb9ef7/master.m3u8"
+        },
+        "HD-2": {
+          "235-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5243871cf76c9843557c888184ff504d4h",
+          "235-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "235-malep-1_otakuhg_dub": "https://otakuhg.site/e/lreyze7d3y8b",
+          "235-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "235-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lh7hl5saxnhs",
+          "235-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8d5782bb54a8a15",
+          "235-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8d5782bb54a8a15/master.m3u8"
+        },
+        "HD-2": {
+          "235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag0f466f42d341f47d447bcdef9acf69804h",
+          "235-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "235-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tr9h4g3kgabq",
+          "235-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "235-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mfbhmk0ftdqb",
+          "235-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "235-malep-1_playmogo_hsub": "https://playmogo.com/e/3dt1c9gqhatf",
+          "235-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
