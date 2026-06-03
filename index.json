@@ -23658,5 +23658,15 @@
     "captured_at": "2026-06-03T12:39:15",
     "file": "data/flcl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl.json"
+  },
+  {
+    "slug": "flcl-alternative",
+    "mal_id": 29325,
+    "anime_name": "Flcl Alternative",
+    "anime_url": "https://hianime.ad/anime/flcl-alternative",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T12:39:29",
+    "file": "data/flcl-alternative.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-alternative.json"
   }
 ]
