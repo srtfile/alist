@@ -23788,5 +23788,15 @@
     "captured_at": "2026-06-03T12:44:03",
     "file": "data/fly-peek-the-whale.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fly-peek-the-whale.json"
+  },
+  {
+    "slug": "flying-witch",
+    "mal_id": 31376,
+    "anime_name": "Flying Witch",
+    "anime_url": "https://hianime.ad/anime/flying-witch",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:44:13",
+    "file": "data/flying-witch.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flying-witch.json"
   }
 ]
