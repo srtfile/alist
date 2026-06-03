@@ -18448,5 +18448,15 @@
     "captured_at": "2026-06-03T08:37:42",
     "file": "data/dimension-high-school.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dimension-high-school.json"
+  },
+  {
+    "slug": "dimension-movement-of-nazca",
+    "mal_id": 1775,
+    "anime_name": "Dimension Movement Of Nazca",
+    "anime_url": "https://hianime.ad/anime/dimension-movement-of-nazca",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:38:02",
+    "file": "data/dimension-movement-of-nazca.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dimension-movement-of-nazca.json"
   }
 ]
