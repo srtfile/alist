@@ -14988,5 +14988,15 @@
     "captured_at": "2026-06-03T06:23:49",
     "file": "data/comet-lucifer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comet-lucifer.json"
+  },
+  {
+    "slug": "comic-girls",
+    "mal_id": 35756,
+    "anime_name": "Comic Girls",
+    "anime_url": "https://hianime.ad/anime/comic-girls",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:24:12",
+    "file": "data/comic-girls.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-girls.json"
   }
 ]
