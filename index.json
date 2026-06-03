@@ -12128,5 +12128,15 @@
     "captured_at": "2026-06-03T03:58:02",
     "file": "data/calamity-of-the-zombie-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/calamity-of-the-zombie-girl.json"
+  },
+  {
+    "slug": "caligula",
+    "mal_id": 36828,
+    "anime_name": "Caligula",
+    "anime_url": "https://hianime.ad/anime/caligula",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:58:14",
+    "file": "data/caligula.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/caligula.json"
   }
 ]
