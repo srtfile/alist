@@ -1,0 +1,40 @@
+{
+  "anime_name": "Guyver Out Of Control",
+  "anime_url": "https://hianime.ad/anime/guyver-out-of-control",
+  "slug": "guyver-out-of-control",
+  "mal_id": 10163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:27:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Complication",
+      "episode_url": "https://hianime.ad/watch/guyver-out-of-control/ep-1",
+      "sub": {
+        "HD-1": {
+          "10163-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f9ab5481556f63b",
+          "10163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f9ab5481556f63b/master.m3u8"
+        },
+        "Earnvids": {
+          "10163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/538ov18x1ijh",
+          "10163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eb0020da89e4c708",
+          "10163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eb0020da89e4c708/master.m3u8"
+        },
+        "Earnvids": {
+          "10163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/do7jit1341wq",
+          "10163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10163-malep-1_playmogo_hsub": "https://playmogo.com/e/whuzlw8bh0fo",
+          "10163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
