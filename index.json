@@ -11818,5 +11818,15 @@
     "captured_at": "2026-06-03T03:04:54",
     "file": "data/bungo-stray-dogs-2-episode-25-walking-alone.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-stray-dogs-2-episode-25-walking-alone.json"
+  },
+  {
+    "slug": "bungo-stray-dogs-4",
+    "mal_id": 50330,
+    "anime_name": "Bungo Stray Dogs 4",
+    "anime_url": "https://hianime.ad/anime/bungo-stray-dogs-4",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T03:05:06",
+    "file": "data/bungo-stray-dogs-4.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-stray-dogs-4.json"
   }
 ]
