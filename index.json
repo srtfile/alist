@@ -23908,5 +23908,15 @@
     "captured_at": "2026-06-03T12:47:31",
     "file": "data/food-wars-the-second-plate-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/food-wars-the-second-plate-ova.json"
+  },
+  {
+    "slug": "food-wars-the-third-plate",
+    "mal_id": 35788,
+    "anime_name": "Food Wars The Third Plate",
+    "anime_url": "https://hianime.ad/anime/food-wars-the-third-plate",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T12:47:42",
+    "file": "data/food-wars-the-third-plate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/food-wars-the-third-plate.json"
   }
 ]
