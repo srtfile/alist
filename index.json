@@ -16058,5 +16058,15 @@
     "captured_at": "2026-06-03T07:22:50",
     "file": "data/cyclops-shoujo-saipuu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cyclops-shoujo-saipuu.json"
+  },
+  {
+    "slug": "dcide-traumerei",
+    "mal_id": 48470,
+    "anime_name": "Dcide Traumerei",
+    "anime_url": "https://hianime.ad/anime/dcide-traumerei",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T07:23:09",
+    "file": "data/dcide-traumerei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dcide-traumerei.json"
   }
 ]
