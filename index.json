@@ -10168,5 +10168,15 @@
     "captured_at": "2026-06-03T00:42:06",
     "file": "data/blassreiter.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blassreiter.json"
+  },
+  {
+    "slug": "blast-of-tempest",
+    "mal_id": 14075,
+    "anime_name": "Blast Of Tempest",
+    "anime_url": "https://hianime.ad/anime/blast-of-tempest",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T00:42:37",
+    "file": "data/blast-of-tempest.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blast-of-tempest.json"
   }
 ]
