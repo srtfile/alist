@@ -1,0 +1,52 @@
+{
+  "anime_name": "High School Dxd New Oppai Tsutsumimasu",
+  "anime_url": "https://hianime.ad/anime/high-school-dxd-new-oppai-tsutsumimasu",
+  "slug": "high-school-dxd-new-oppai-tsutsumimasu",
+  "mal_id": 15451,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:55:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Another Disquieting Premonition!",
+      "episode_url": "https://hianime.ad/watch/high-school-dxd-new-oppai-tsutsumimasu/ep-1",
+      "sub": {
+        "HD-1": {
+          "15451-malep-1_vibeplayer_sub": "https://vibeplayer.site/9850ad5d8502b98f",
+          "15451-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9850ad5d8502b98f/master.m3u8"
+        },
+        "StreamHG": {
+          "15451-malep-1_otakuhg_sub": "https://otakuhg.site/e/wzwy0d3a1m9a",
+          "15451-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15451-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1q8r4vb1pk3w",
+          "15451-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "15451-malep-1_playmogo_sub": "https://playmogo.com/e/9ntxrwi0vfxf",
+          "15451-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15451-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0aa9f5d5e129abb0",
+          "15451-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0aa9f5d5e129abb0/master.m3u8"
+        },
+        "StreamHG": {
+          "15451-malep-1_otakuhg_hsub": "https://otakuhg.site/e/onqr787sst0b",
+          "15451-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15451-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/crbsogvchzz2",
+          "15451-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15451-malep-1_playmogo_hsub": "https://playmogo.com/e/d2ohffjlzw5m",
+          "15451-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
