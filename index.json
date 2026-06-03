@@ -16558,5 +16558,15 @@
     "captured_at": "2026-06-03T07:40:39",
     "file": "data/daphne-in-the-brilliant-blue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daphne-in-the-brilliant-blue.json"
+  },
+  {
+    "slug": "dark-gathering",
+    "mal_id": 52505,
+    "anime_name": "Dark Gathering",
+    "anime_url": "https://hianime.ad/anime/dark-gathering",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T07:41:09",
+    "file": "data/dark-gathering.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dark-gathering.json"
   }
 ]
