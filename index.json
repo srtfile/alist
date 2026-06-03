@@ -12238,5 +12238,15 @@
     "captured_at": "2026-06-03T04:01:38",
     "file": "data/can-you-keep-a-secret.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/can-you-keep-a-secret.json"
+  },
+  {
+    "slug": "canaan",
+    "mal_id": 5356,
+    "anime_name": "Canaan",
+    "anime_url": "https://hianime.ad/anime/canaan",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T04:01:59",
+    "file": "data/canaan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/canaan.json"
   }
 ]
