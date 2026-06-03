@@ -9898,5 +9898,15 @@
     "captured_at": "2026-06-03T00:34:02",
     "file": "data/black-clover-the-all-magic-knights-thanksgiving-festa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-clover-the-all-magic-knights-thanksgiving-festa.json"
+  },
+  {
+    "slug": "black-jack",
+    "mal_id": 2213,
+    "anime_name": "Black Jack",
+    "anime_url": "https://hianime.ad/anime/black-jack",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:34:13",
+    "file": "data/black-jack.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack.json"
   }
 ]
