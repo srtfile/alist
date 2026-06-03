@@ -3938,5 +3938,15 @@
     "captured_at": "2026-06-03T19:28:30",
     "file": "data/haai-step-jun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haai-step-jun.json"
+  },
+  {
+    "slug": "hackadoll-the-animation",
+    "mal_id": 30721,
+    "anime_name": "Hackadoll The Animation",
+    "anime_url": "https://hianime.ad/anime/hackadoll-the-animation",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:29:05",
+    "file": "data/hackadoll-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hackadoll-the-animation.json"
   }
 ]
