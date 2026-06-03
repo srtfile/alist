@@ -5758,5 +5758,15 @@
     "captured_at": "2026-06-03T20:32:14",
     "file": "data/hellsing-psalm-of-the-darkness.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hellsing-psalm-of-the-darkness.json"
+  },
+  {
+    "slug": "hellsing-the-dawn",
+    "mal_id": 25013,
+    "anime_name": "Hellsing The Dawn",
+    "anime_url": "https://hianime.ad/anime/hellsing-the-dawn",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T20:32:26",
+    "file": "data/hellsing-the-dawn.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hellsing-the-dawn.json"
   }
 ]
