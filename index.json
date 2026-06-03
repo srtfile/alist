@@ -16598,5 +16598,15 @@
     "captured_at": "2026-06-03T07:42:29",
     "file": "data/darker-than-black-beneath-cherry-blossoms-in-full-bloom.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darker-than-black-beneath-cherry-blossoms-in-full-bloom.json"
+  },
+  {
+    "slug": "darker-than-black-gaiden",
+    "mal_id": 2025,
+    "anime_name": "Darker Than Black Gaiden",
+    "anime_url": "https://hianime.ad/anime/darker-than-black-gaiden",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T07:42:38",
+    "file": "data/darker-than-black-gaiden.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darker-than-black-gaiden.json"
   }
 ]
