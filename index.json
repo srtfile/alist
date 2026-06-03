@@ -1388,5 +1388,15 @@
     "captured_at": "2026-06-03T17:56:27",
     "file": "data/gintama-enchousen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-enchousen.json"
+  },
+  {
+    "slug": "gintama-love-incense-arc",
+    "mal_id": 9969,
+    "anime_name": "Gintama Love Incense Arc",
+    "anime_url": "https://hianime.ad/anime/gintama-love-incense-arc",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T17:56:50",
+    "file": "data/gintama-love-incense-arc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-love-incense-arc.json"
   }
 ]
