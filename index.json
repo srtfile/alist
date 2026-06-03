@@ -21458,5 +21458,15 @@
     "captured_at": "2026-06-03T10:30:02",
     "file": "data/engaged-to-the-unidentified.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/engaged-to-the-unidentified.json"
+  },
+  {
+    "slug": "ensemble-stars",
+    "mal_id": 32212,
+    "anime_name": "Ensemble Stars",
+    "anime_url": "https://hianime.ad/anime/ensemble-stars",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T10:30:22",
+    "file": "data/ensemble-stars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ensemble-stars.json"
   }
 ]
