@@ -16778,5 +16778,15 @@
     "captured_at": "2026-06-03T07:47:12",
     "file": "data/day-break-illusion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/day-break-illusion.json"
+  },
+  {
+    "slug": "days",
+    "mal_id": 32494,
+    "anime_name": "Days",
+    "anime_url": "https://hianime.ad/anime/days",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T07:47:32",
+    "file": "data/days.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/days.json"
   }
 ]
