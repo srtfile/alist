@@ -4528,5 +4528,15 @@
     "captured_at": "2026-06-03T19:47:21",
     "file": "data/hana-no-zundamaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-no-zundamaru.json"
+  },
+  {
+    "slug": "hana-no-zundamaru-junk",
+    "mal_id": 16201,
+    "anime_name": "Hana No Zundamaru Junk",
+    "anime_url": "https://hianime.ad/anime/hana-no-zundamaru-junk",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T19:47:39",
+    "file": "data/hana-no-zundamaru-junk.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-no-zundamaru-junk.json"
   }
 ]
