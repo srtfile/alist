@@ -1,0 +1,35 @@
+{
+  "anime_name": "Dragon Age Dawn Of The Seeker",
+  "anime_url": "https://hianime.ad/anime/dragon-age-dawn-of-the-seeker",
+  "slug": "dragon-age-dawn-of-the-seeker",
+  "mal_id": 1956,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:28:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Signs of the Dragon Spirit",
+      "episode_url": "https://hianime.ad/watch/dragon-age-dawn-of-the-seeker/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_dub": "https://vibeplayer.site/fc9ad4fb1bd6d965",
+          "1956-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fc9ad4fb1bd6d965/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_dub": "https://vibeplayer.site/agc0d6eaac368778007640b757c79363f84h",
+          "1956-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xkc7trlboa0s",
+          "1956-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_dub": "https://playmogo.com/e/xysccq4addwj",
+          "1956-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
