@@ -1,0 +1,48 @@
+{
+  "anime_name": "Digimon X Evolution",
+  "anime_url": "https://hianime.ad/anime/digimon-x-evolution",
+  "slug": "digimon-x-evolution",
+  "mal_id": 61269,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:36:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Beat of Emotions",
+      "episode_url": "https://hianime.ad/watch/digimon-x-evolution/ep-1",
+      "sub": {
+        "HD-1": {
+          "61269-malep-1_vibeplayer_sub": "https://vibeplayer.site/b96d6d6198b6733d",
+          "61269-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b96d6d6198b6733d/master.m3u8"
+        },
+        "HD-2": {
+          "61269-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag950b7a48dee7003b160a6ed588976e6d4h",
+          "61269-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61269-malep-1_otakuvid_sub": "https://otakuvid.online/embed/frqtg326hrm5",
+          "61269-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "61269-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e4686a7c611efd6f",
+          "61269-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4686a7c611efd6f/master.m3u8"
+        },
+        "HD-2": {
+          "61269-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9ad4263f510f6fa722e41107b58d59a64h",
+          "61269-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61269-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s73l4aqn7vqu",
+          "61269-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61269-malep-1_playmogo_hsub": "https://playmogo.com/e/jf70f5zxzhur",
+          "61269-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
