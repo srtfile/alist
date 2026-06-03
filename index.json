@@ -19578,5 +19578,15 @@
     "captured_at": "2026-06-03T09:15:22",
     "file": "data/dr-ramune-mysterious-disease-specialist.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-ramune-mysterious-disease-specialist.json"
+  },
+  {
+    "slug": "dr-slump",
+    "mal_id": 3312,
+    "anime_name": "Dr Slump",
+    "anime_url": "https://hianime.ad/anime/dr-slump",
+    "total_episodes": 74,
+    "captured_at": "2026-06-03T09:15:42",
+    "file": "data/dr-slump.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump.json"
   }
 ]
