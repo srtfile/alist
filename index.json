@@ -6928,5 +6928,15 @@
     "captured_at": "2026-06-03T21:17:40",
     "file": "data/hitsuji-no-uta.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitsuji-no-uta.json"
+  },
+  {
+    "slug": "hiwou-war-chronicles",
+    "mal_id": 3935,
+    "anime_name": "Hiwou War Chronicles",
+    "anime_url": "https://hianime.ad/anime/hiwou-war-chronicles",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T21:17:55",
+    "file": "data/hiwou-war-chronicles.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hiwou-war-chronicles.json"
   }
 ]
