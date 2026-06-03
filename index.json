@@ -19808,5 +19808,15 @@
     "captured_at": "2026-06-03T09:28:03",
     "file": "data/dr-stone-stone-wars-eve-of-the-battle-special-feature.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-stone-stone-wars-eve-of-the-battle-special-feature.json"
+  },
+  {
+    "slug": "dragon",
+    "mal_id": 1956,
+    "anime_name": "Dragon",
+    "anime_url": "https://hianime.ad/anime/dragon",
+    "total_episodes": 7,
+    "captured_at": "2026-06-03T09:28:14",
+    "file": "data/dragon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon.json"
   }
 ]
