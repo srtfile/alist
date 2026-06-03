@@ -208,5 +208,15 @@
     "captured_at": "2026-06-03T17:10:21",
     "file": "data/gate-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gate-2nd-season.json"
+  },
+  {
+    "slug": "gate-keepers",
+    "mal_id": 127,
+    "anime_name": "Gate Keepers",
+    "anime_url": "https://hianime.ad/anime/gate-keepers",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T17:10:43",
+    "file": "data/gate-keepers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gate-keepers.json"
   }
 ]
