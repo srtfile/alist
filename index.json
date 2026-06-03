@@ -728,5 +728,15 @@
     "captured_at": "2026-06-03T17:29:22",
     "file": "data/ghost-hunt.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-hunt.json"
+  },
+  {
+    "slug": "ghost-in-the-shell",
+    "mal_id": 58929,
+    "anime_name": "Ghost In The Shell",
+    "anime_url": "https://hianime.ad/anime/ghost-in-the-shell",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:29:55",
+    "file": "data/ghost-in-the-shell.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-in-the-shell.json"
   }
 ]
