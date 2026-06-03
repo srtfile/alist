@@ -1,0 +1,56 @@
+{
+  "anime_name": "Blackfox",
+  "anime_url": "https://hianime.ad/anime/blackfox",
+  "slug": "blackfox",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:38:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/blackfox/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2b077aa673e9a2dd",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2b077aa673e9a2dd/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agc3636a32c7ef66f2742dc23ec916cacf4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/jta16rmqhhvb",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/fmwdcw08ye3g",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/78d996a78850418a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78d996a78850418a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag93b2aefe4513f5f9f85bad4da8ae7b074h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1y35ewfhnlc3",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g5zv5df8em6q",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/jbkgsezmq0oi",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
