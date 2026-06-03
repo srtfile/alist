@@ -14398,5 +14398,15 @@
     "captured_at": "2026-06-03T06:04:02",
     "file": "data/clannad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clannad.json"
+  },
+  {
+    "slug": "clannad-after-story",
+    "mal_id": 4181,
+    "anime_name": "Clannad After Story",
+    "anime_url": "https://hianime.ad/anime/clannad-after-story",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T06:04:35",
+    "file": "data/clannad-after-story.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clannad-after-story.json"
   }
 ]
