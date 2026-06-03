@@ -24328,5 +24328,15 @@
     "captured_at": "2026-06-03T13:00:22",
     "file": "data/free-eternal-summer-kindan-no-all-hard.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/free-eternal-summer-kindan-no-all-hard.json"
+  },
+  {
+    "slug": "freezing",
+    "mal_id": 9367,
+    "anime_name": "Freezing",
+    "anime_url": "https://hianime.ad/anime/freezing",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:00:33",
+    "file": "data/freezing.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/freezing.json"
   }
 ]
