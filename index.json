@@ -4448,5 +4448,15 @@
     "captured_at": "2026-06-03T19:44:56",
     "file": "data/hakyu-hoshin-engi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakyu-hoshin-engi.json"
+  },
+  {
+    "slug": "hal",
+    "mal_id": 5273,
+    "anime_name": "Hal",
+    "anime_url": "https://hianime.ad/anime/hal",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:45:30",
+    "file": "data/hal.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hal.json"
   }
 ]
