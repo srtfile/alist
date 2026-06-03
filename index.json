@@ -23438,5 +23438,15 @@
     "captured_at": "2026-06-03T12:29:48",
     "file": "data/fireball-gebaude-baude.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fireball-gebaude-baude.json"
+  },
+  {
+    "slug": "fireball-humorous",
+    "mal_id": 36166,
+    "anime_name": "Fireball Humorous",
+    "anime_url": "https://hianime.ad/anime/fireball-humorous",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:30:07",
+    "file": "data/fireball-humorous.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fireball-humorous.json"
   }
 ]
