@@ -1,0 +1,48 @@
+{
+  "anime_name": "Cooking Papa",
+  "anime_url": "https://hianime.ad/anime/cooking-papa",
+  "slug": "cooking-papa",
+  "mal_id": 8123,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:29:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1&2",
+      "episode_url": "https://hianime.ad/watch/cooking-papa/ep-1",
+      "sub": {
+        "HD-1": {
+          "8123-malep-1_vibeplayer_sub": "https://vibeplayer.site/94191c040bd916e1",
+          "8123-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/94191c040bd916e1/master.m3u8"
+        },
+        "HD-2": {
+          "8123-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd3a16f98ba9c083dce0bfb54b7491b684h",
+          "8123-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8123-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4dk73zgjbzzl",
+          "8123-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8123-malep-1_vibeplayer_hsub": "https://vibeplayer.site/97a30652fe96e815",
+          "8123-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97a30652fe96e815/master.m3u8"
+        },
+        "HD-2": {
+          "8123-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agadce54dc58af6497dcc62f10e0b6427a4h",
+          "8123-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8123-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kkyx19p41wnt",
+          "8123-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8123-malep-1_playmogo_hsub": "https://playmogo.com/e/s9obaorfchjs",
+          "8123-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
