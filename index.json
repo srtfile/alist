@@ -1868,5 +1868,15 @@
     "captured_at": "2026-06-03T18:09:46",
     "file": "data/gj-club.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gj-club.json"
+  },
+  {
+    "slug": "gj-bu",
+    "mal_id": 14811,
+    "anime_name": "Gj Bu",
+    "anime_url": "https://hianime.ad/anime/gj-bu",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:10:08",
+    "file": "data/gj-bu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gj-bu.json"
   }
 ]
