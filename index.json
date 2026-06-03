@@ -10858,5 +10858,15 @@
     "captured_at": "2026-06-03T01:06:55",
     "file": "data/bna.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bna.json"
+  },
+  {
+    "slug": "boarding-school-juliet",
+    "mal_id": 37475,
+    "anime_name": "Boarding School Juliet",
+    "anime_url": "https://hianime.ad/anime/boarding-school-juliet",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T01:07:15",
+    "file": "data/boarding-school-juliet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boarding-school-juliet.json"
   }
 ]
