@@ -3728,5 +3728,15 @@
     "captured_at": "2026-06-03T19:21:03",
     "file": "data/gunma-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunma-chan.json"
+  },
+  {
+    "slug": "gunma-chan-season-2",
+    "mal_id": 54216,
+    "anime_name": "Gunma Chan Season 2",
+    "anime_url": "https://hianime.ad/anime/gunma-chan-season-2",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:21:27",
+    "file": "data/gunma-chan-season-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunma-chan-season-2.json"
   }
 ]
