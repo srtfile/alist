@@ -4428,5 +4428,15 @@
     "captured_at": "2026-06-03T19:44:14",
     "file": "data/hakuouki-ova-2021.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakuouki-ova-2021.json"
+  },
+  {
+    "slug": "hakushon-daimaou-2020",
+    "mal_id": 40983,
+    "anime_name": "Hakushon Daimaou 2020",
+    "anime_url": "https://hianime.ad/anime/hakushon-daimaou-2020",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T19:44:27",
+    "file": "data/hakushon-daimaou-2020.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakushon-daimaou-2020.json"
   }
 ]
