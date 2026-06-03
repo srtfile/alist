@@ -1,0 +1,52 @@
+{
+  "anime_name": "Di Gi Charat Movie A Trip To The Planet",
+  "anime_url": "https://hianime.ad/anime/di-gi-charat-movie-a-trip-to-the-planet",
+  "slug": "di-gi-charat-movie-a-trip-to-the-planet",
+  "mal_id": 293,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:21:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dejiko is Here-nyo",
+      "episode_url": "https://hianime.ad/watch/di-gi-charat-movie-a-trip-to-the-planet/ep-1",
+      "sub": {
+        "HD-1": {
+          "293-malep-1_vibeplayer_sub": "https://vibeplayer.site/0d9c435d0c910c8d",
+          "293-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d9c435d0c910c8d/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag73fd7809fb6d66f62a01f69ea4652c5d4h",
+          "293-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r9iygzcolx6l",
+          "293-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "293-malep-1_playmogo_sub": "https://playmogo.com/e/hvkz2ee8jlxr",
+          "293-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "293-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c953d8caae52fc3d",
+          "293-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c953d8caae52fc3d/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga29370f66a833d37f2d496020614959a4h",
+          "293-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3zv9toyeily3",
+          "293-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "293-malep-1_playmogo_hsub": "https://playmogo.com/e/av8jzz8o4h2i",
+          "293-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
