@@ -3268,5 +3268,15 @@
     "captured_at": "2026-06-03T19:04:33",
     "file": "data/grisaia-no-rakuen-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grisaia-no-rakuen-specials.json"
+  },
+  {
+    "slug": "grisaia-phantom-trigger",
+    "mal_id": 51119,
+    "anime_name": "Grisaia Phantom Trigger",
+    "anime_url": "https://hianime.ad/anime/grisaia-phantom-trigger",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:04:49",
+    "file": "data/grisaia-phantom-trigger.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grisaia-phantom-trigger.json"
   }
 ]
