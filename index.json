@@ -2548,5 +2548,15 @@
     "captured_at": "2026-06-03T18:39:00",
     "file": "data/goldfish-warning.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/goldfish-warning.json"
+  },
+  {
+    "slug": "golgo-13",
+    "mal_id": 4039,
+    "anime_name": "Golgo 13",
+    "anime_url": "https://hianime.ad/anime/golgo-13",
+    "total_episodes": 50,
+    "captured_at": "2026-06-03T18:40:00",
+    "file": "data/golgo-13.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golgo-13.json"
   }
 ]
