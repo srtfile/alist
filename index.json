@@ -1488,5 +1488,15 @@
     "captured_at": "2026-06-03T17:58:37",
     "file": "data/gintama-silver-soul-arc.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-silver-soul-arc.json"
+  },
+  {
+    "slug": "gintama-silver-soul-arc-second-half-war",
+    "mal_id": 37491,
+    "anime_name": "Gintama Silver Soul Arc Second Half War",
+    "anime_url": "https://hianime.ad/anime/gintama-silver-soul-arc-second-half-war",
+    "total_episodes": 14,
+    "captured_at": "2026-06-03T17:59:12",
+    "file": "data/gintama-silver-soul-arc-second-half-war.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-silver-soul-arc-second-half-war.json"
   }
 ]
