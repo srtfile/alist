@@ -4898,5 +4898,15 @@
     "captured_at": "2026-06-03T20:00:53",
     "file": "data/happy-happy-clover.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happy-happy-clover.json"
+  },
+  {
+    "slug": "happy-sugar-life",
+    "mal_id": 37517,
+    "anime_name": "Happy Sugar Life",
+    "anime_url": "https://hianime.ad/anime/happy-sugar-life",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:01:16",
+    "file": "data/happy-sugar-life.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happy-sugar-life.json"
   }
 ]
