@@ -23138,5 +23138,15 @@
     "captured_at": "2026-06-03T12:14:27",
     "file": "data/fight-kickers-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-kickers-specials.json"
+  },
+  {
+    "slug": "fight-iczer-1",
+    "mal_id": 19997,
+    "anime_name": "Fight Iczer 1",
+    "anime_url": "https://hianime.ad/anime/fight-iczer-1",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:14:43",
+    "file": "data/fight-iczer-1.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-iczer-1.json"
   }
 ]
