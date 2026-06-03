@@ -1,0 +1,73 @@
+{
+  "anime_name": "Fragtime",
+  "anime_url": "https://hianime.ad/anime/fragtime",
+  "slug": "fragtime",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:56:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fragtime/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/34250de1d3452c71",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34250de1d3452c71/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agd7151f709122e08a6d60a75f4f497ed24h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/rerdpc3ri76y",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/fs5repyh46i3",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/dd89fde2bae854bd",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dd89fde2bae854bd/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag9fed2765b6e8ed7a01fc1beee27b28e44h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/lw0gc7z8giq4",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/0gj61fltiwmt",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/003ac9b97ff77047",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/003ac9b97ff77047/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag941cf190507e109e9237ef219d22068b4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/eu18rt4ncvvh",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bl8p5p9itcwg",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9xkzvr3nr7ez",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
