@@ -2868,5 +2868,15 @@
     "captured_at": "2026-06-03T18:49:55",
     "file": "data/granblue-fantasy-the-animation-kabocha-no-lantern.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/granblue-fantasy-the-animation-kabocha-no-lantern.json"
+  },
+  {
+    "slug": "grand-blue-dreaming",
+    "mal_id": 37105,
+    "anime_name": "Grand Blue Dreaming",
+    "anime_url": "https://hianime.ad/anime/grand-blue-dreaming",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:50:07",
+    "file": "data/grand-blue-dreaming.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grand-blue-dreaming.json"
   }
 ]
