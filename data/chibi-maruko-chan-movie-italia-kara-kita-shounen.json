@@ -1,0 +1,56 @@
+{
+  "anime_name": "Chibi Maruko Chan Movie Italia Kara Kita Shounen",
+  "anime_url": "https://hianime.ad/anime/chibi-maruko-chan-movie-italia-kara-kita-shounen",
+  "slug": "chibi-maruko-chan-movie-italia-kara-kita-shounen",
+  "mal_id": 951,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:29:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Maru-chan's Sibling Rivalry! / Maru-chan's in the New Year Mood!",
+      "episode_url": "https://hianime.ad/watch/chibi-maruko-chan-movie-italia-kara-kita-shounen/ep-1",
+      "sub": {
+        "HD-1": {
+          "951-malep-1_vibeplayer_sub": "https://vibeplayer.site/f4ae195791dfa176",
+          "951-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f4ae195791dfa176/master.m3u8"
+        },
+        "HD-2": {
+          "951-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbc798ee43603152681edf1102e8894f94h",
+          "951-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "951-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9190jdicxlcc",
+          "951-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "951-malep-1_playmogo_sub": "https://playmogo.com/e/wqrs625ofrs3",
+          "951-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "951-malep-1_vibeplayer_hsub": "https://vibeplayer.site/770e2d1e19be982a",
+          "951-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/770e2d1e19be982a/master.m3u8"
+        },
+        "HD-2": {
+          "951-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga793b9771a1651ca2ce71955ee7afb794h",
+          "951-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "951-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gcymq0zvw3b5",
+          "951-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "951-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d9osizegk1zy",
+          "951-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "951-malep-1_playmogo_hsub": "https://playmogo.com/e/emsngdsfxiuz",
+          "951-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
