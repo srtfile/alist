@@ -25668,5 +25668,15 @@
     "captured_at": "2026-06-03T13:51:40",
     "file": "data/gankutsuou-the-count-of-monte-cristo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gankutsuou-the-count-of-monte-cristo.json"
+  },
+  {
+    "slug": "gantz",
+    "mal_id": 384,
+    "anime_name": "Gantz",
+    "anime_url": "https://hianime.ad/anime/gantz",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:52:11",
+    "file": "data/gantz.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gantz.json"
   }
 ]
