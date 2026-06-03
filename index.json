@@ -10658,5 +10658,15 @@
     "captured_at": "2026-06-03T00:59:12",
     "file": "data/blue-legend-shoot-1822.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-legend-shoot-1822.json"
+  },
+  {
+    "slug": "blue-literature",
+    "mal_id": 7193,
+    "anime_name": "Blue Literature",
+    "anime_url": "https://hianime.ad/anime/blue-literature",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T01:00:12",
+    "file": "data/blue-literature.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-literature.json"
   }
 ]
