@@ -10698,5 +10698,15 @@
     "captured_at": "2026-06-03T01:01:25",
     "file": "data/blue-lock-episode-nagi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-lock-episode-nagi.json"
+  },
+  {
+    "slug": "blue-miburo",
+    "mal_id": 56647,
+    "anime_name": "Blue Miburo",
+    "anime_url": "https://hianime.ad/anime/blue-miburo",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T01:01:36",
+    "file": "data/blue-miburo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-miburo.json"
   }
 ]
