@@ -19938,5 +19938,15 @@
     "captured_at": "2026-06-03T09:35:39",
     "file": "data/dragon-ball-z.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-z.json"
+  },
+  {
+    "slug": "dragon-ball-z-kai",
+    "mal_id": 6033,
+    "anime_name": "Dragon Ball Z Kai",
+    "anime_url": "https://hianime.ad/anime/dragon-ball-z-kai",
+    "total_episodes": 98,
+    "captured_at": "2026-06-03T09:40:02",
+    "file": "data/dragon-ball-z-kai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-z-kai.json"
   }
 ]
