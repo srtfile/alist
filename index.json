@@ -9918,5 +9918,15 @@
     "captured_at": "2026-06-03T00:34:33",
     "file": "data/black-jack-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack-tv.json"
+  },
+  {
+    "slug": "black-jack-the-movie",
+    "mal_id": 2213,
+    "anime_name": "Black Jack The Movie",
+    "anime_url": "https://hianime.ad/anime/black-jack-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:35:35",
+    "file": "data/black-jack-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack-the-movie.json"
   }
 ]
