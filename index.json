@@ -9458,5 +9458,15 @@
     "captured_at": "2026-06-03T00:19:01",
     "file": "data/big-fish-begonia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-fish-begonia.json"
+  },
+  {
+    "slug": "big-order",
+    "mal_id": 31904,
+    "anime_name": "Big Order",
+    "anime_url": "https://hianime.ad/anime/big-order",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:19:12",
+    "file": "data/big-order.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-order.json"
   }
 ]
