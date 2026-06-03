@@ -12788,5 +12788,15 @@
     "captured_at": "2026-06-03T04:31:26",
     "file": "data/carnival-phantasm-ex-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carnival-phantasm-ex-season.json"
+  },
+  {
+    "slug": "carole-tuesday",
+    "mal_id": 37435,
+    "anime_name": "Carole Tuesday",
+    "anime_url": "https://hianime.ad/anime/carole-tuesday",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T04:31:38",
+    "file": "data/carole-tuesday.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carole-tuesday.json"
   }
 ]
