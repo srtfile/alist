@@ -9928,5 +9928,15 @@
     "captured_at": "2026-06-03T00:35:35",
     "file": "data/black-jack-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack-the-movie.json"
+  },
+  {
+    "slug": "black-lagoon",
+    "mal_id": 889,
+    "anime_name": "Black Lagoon",
+    "anime_url": "https://hianime.ad/anime/black-lagoon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:35:45",
+    "file": "data/black-lagoon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-lagoon.json"
   }
 ]
