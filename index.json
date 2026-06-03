@@ -1558,5 +1558,15 @@
     "captured_at": "2026-06-03T18:01:07",
     "file": "data/giovannis-island.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giovannis-island.json"
+  },
+  {
+    "slug": "girl-friend-beta",
+    "mal_id": 24855,
+    "anime_name": "Girl Friend Beta",
+    "anime_url": "https://hianime.ad/anime/girl-friend-beta",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:01:19",
+    "file": "data/girl-friend-beta.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girl-friend-beta.json"
   }
 ]
