@@ -19048,5 +19048,15 @@
     "captured_at": "2026-06-03T08:58:25",
     "file": "data/doraemon-2005.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/doraemon-2005.json"
+  },
+  {
+    "slug": "doraemon-us",
+    "mal_id": 501,
+    "anime_name": "Doraemon Us",
+    "anime_url": "https://hianime.ad/anime/doraemon-us",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T09:01:39",
+    "file": "data/doraemon-us.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/doraemon-us.json"
   }
 ]
