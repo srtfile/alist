@@ -9908,5 +9908,15 @@
     "captured_at": "2026-06-03T00:34:13",
     "file": "data/black-jack.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack.json"
+  },
+  {
+    "slug": "black-jack-tv",
+    "mal_id": 2213,
+    "anime_name": "Black Jack Tv",
+    "anime_url": "https://hianime.ad/anime/black-jack-tv",
+    "total_episodes": 61,
+    "captured_at": "2026-06-03T00:34:33",
+    "file": "data/black-jack-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-jack-tv.json"
   }
 ]
