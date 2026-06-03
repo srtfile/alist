@@ -20508,5 +20508,15 @@
     "captured_at": "2026-06-03T09:58:50",
     "file": "data/drifters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/drifters.json"
+  },
+  {
+    "slug": "drifters-590",
+    "mal_id": 31339,
+    "anime_name": "Drifters 590",
+    "anime_url": "https://hianime.ad/anime/drifters-590",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:59:02",
+    "file": "data/drifters-590.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/drifters-590.json"
   }
 ]
