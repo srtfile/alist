@@ -13238,5 +13238,15 @@
     "captured_at": "2026-06-03T05:11:22",
     "file": "data/cencoroll-connect.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cencoroll-connect.json"
+  },
+  {
+    "slug": "cerberus",
+    "mal_id": 32595,
+    "anime_name": "Cerberus",
+    "anime_url": "https://hianime.ad/anime/cerberus",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T05:11:35",
+    "file": "data/cerberus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cerberus.json"
   }
 ]
