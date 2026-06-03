@@ -19458,5 +19458,15 @@
     "captured_at": "2026-06-03T09:10:01",
     "file": "data/dororo-and-hyakkimaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dororo-and-hyakkimaru.json"
+  },
+  {
+    "slug": "dororonpa",
+    "mal_id": 24663,
+    "anime_name": "Dororonpa",
+    "anime_url": "https://hianime.ad/anime/dororonpa",
+    "total_episodes": 114,
+    "captured_at": "2026-06-03T09:10:34",
+    "file": "data/dororonpa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dororonpa.json"
   }
 ]
