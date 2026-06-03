@@ -12438,5 +12438,15 @@
     "captured_at": "2026-06-03T04:11:05",
     "file": "data/captain-harlock-arcadia-of-my-youth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-harlock-arcadia-of-my-youth.json"
+  },
+  {
+    "slug": "captain-kuppa",
+    "mal_id": 4940,
+    "anime_name": "Captain Kuppa",
+    "anime_url": "https://hianime.ad/anime/captain-kuppa",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T04:11:17",
+    "file": "data/captain-kuppa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-kuppa.json"
   }
 ]
