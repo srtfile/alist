@@ -12148,5 +12148,15 @@
     "captured_at": "2026-06-03T03:58:36",
     "file": "data/call-me-tonight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/call-me-tonight.json"
+  },
+  {
+    "slug": "call-of-the-night",
+    "mal_id": 50346,
+    "anime_name": "Call Of The Night",
+    "anime_url": "https://hianime.ad/anime/call-of-the-night",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T03:58:48",
+    "file": "data/call-of-the-night.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/call-of-the-night.json"
   }
 ]
