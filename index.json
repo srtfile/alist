@@ -25188,5 +25188,15 @@
     "captured_at": "2026-06-03T13:35:41",
     "file": "data/gaksital.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gaksital.json"
+  },
+  {
+    "slug": "gakuen-alice",
+    "mal_id": 74,
+    "anime_name": "Gakuen Alice",
+    "anime_url": "https://hianime.ad/anime/gakuen-alice",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T13:35:52",
+    "file": "data/gakuen-alice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakuen-alice.json"
   }
 ]
