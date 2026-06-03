@@ -16078,5 +16078,15 @@
     "captured_at": "2026-06-03T07:23:29",
     "file": "data/d-1-devastator.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-1-devastator.json"
+  },
+  {
+    "slug": "d-frag",
+    "mal_id": 20031,
+    "anime_name": "D Frag",
+    "anime_url": "https://hianime.ad/anime/d-frag",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:23:40",
+    "file": "data/d-frag.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-frag.json"
   }
 ]
