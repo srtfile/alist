@@ -1,0 +1,99 @@
+{
+  "anime_name": "Galaxy Angel 3 Specials",
+  "anime_url": "https://hianime.ad/anime/galaxy-angel-3-specials",
+  "slug": "galaxy-angel-3-specials",
+  "mal_id": 653,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T13:40:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/galaxy-angel-3-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "653-malep-1_vibeplayer_sub": "https://vibeplayer.site/3e6236554b21d84b",
+          "653-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3e6236554b21d84b/master.m3u8"
+        },
+        "HD-2": {
+          "653-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf613a5c44e1d893282ea5de40f11b84d4h",
+          "653-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "653-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lwapvh6z06fu",
+          "653-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "653-malep-1_vibeplayer_dub": "https://vibeplayer.site/2baf806ab19efb94",
+          "653-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2baf806ab19efb94/master.m3u8"
+        },
+        "Earnvids": {
+          "653-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cq58ic2kq6sl",
+          "653-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ea346a37668d4269",
+          "653-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ea346a37668d4269/master.m3u8"
+        },
+        "HD-2": {
+          "653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc3fdd08a5a5348f3aed8ac8ccaa2f2fa4h",
+          "653-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "653-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aqmplakds2jw",
+          "653-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "653-malep-1_playmogo_hsub": "https://playmogo.com/e/59cnjj3dra4n",
+          "653-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/galaxy-angel-3-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "653-malep-2_vibeplayer_sub": "https://vibeplayer.site/ebac2b7034eed223",
+          "653-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ebac2b7034eed223/master.m3u8"
+        },
+        "Earnvids": {
+          "653-malep-2_otakuvid_sub": "https://otakuvid.online/embed/7p5dztws7e1m",
+          "653-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "653-malep-2_vibeplayer_dub": "https://vibeplayer.site/24b29a4344fe7edb",
+          "653-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/24b29a4344fe7edb/master.m3u8"
+        },
+        "HD-2": {
+          "653-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag73d65295d2a8ea4d3995de0fbedad9854h",
+          "653-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "653-malep-2_otakuvid_dub": "https://otakuvid.online/embed/l3wuqk290ph0",
+          "653-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "653-malep-2_vibeplayer_hsub": "https://vibeplayer.site/e8aebb9ee861840f",
+          "653-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e8aebb9ee861840f/master.m3u8"
+        },
+        "Earnvids": {
+          "653-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/58d631jiyvxn",
+          "653-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "653-malep-2_playmogo_hsub": "https://playmogo.com/e/isip5p5xfefw",
+          "653-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
