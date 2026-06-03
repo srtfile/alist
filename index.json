@@ -18188,5 +18188,15 @@
     "captured_at": "2026-06-03T08:27:18",
     "file": "data/digimon-adventure-tri-coexistence.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-tri-coexistence.json"
+  },
+  {
+    "slug": "digimon-adventure-tri-confession",
+    "mal_id": 552,
+    "anime_name": "Digimon Adventure Tri Confession",
+    "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-confession",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:27:29",
+    "file": "data/digimon-adventure-tri-confession.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-tri-confession.json"
   }
 ]
