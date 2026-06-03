@@ -21058,5 +21058,15 @@
     "captured_at": "2026-06-03T10:15:33",
     "file": "data/eighty-six-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eighty-six-2nd-season.json"
+  },
+  {
+    "slug": "eiken",
+    "mal_id": 147,
+    "anime_name": "Eiken",
+    "anime_url": "https://hianime.ad/anime/eiken",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T10:15:53",
+    "file": "data/eiken.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eiken.json"
   }
 ]
