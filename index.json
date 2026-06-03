@@ -22058,5 +22058,15 @@
     "captured_at": "2026-06-03T10:51:41",
     "file": "data/fables-of-the-green-forest.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fables-of-the-green-forest.json"
+  },
+  {
+    "slug": "fabulous-beasts",
+    "mal_id": 6347,
+    "anime_name": "Fabulous Beasts",
+    "anime_url": "https://hianime.ad/anime/fabulous-beasts",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:52:34",
+    "file": "data/fabulous-beasts.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fabulous-beasts.json"
   }
 ]
