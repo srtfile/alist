@@ -1,0 +1,61 @@
+{
+  "anime_name": "Dragonaut The Resonance Kotou Tozasareta Kyousoo",
+  "anime_url": "https://hianime.ad/anime/dragonaut-the-resonance-kotou-tozasareta-kyousoo",
+  "slug": "dragonaut-the-resonance-kotou-tozasareta-kyousoo",
+  "mal_id": 2795,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:56:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Resonance: Hand in Hand",
+      "episode_url": "https://hianime.ad/watch/dragonaut-the-resonance-kotou-tozasareta-kyousoo/ep-1",
+      "sub": {
+        "HD-1": {
+          "2795-malep-1_vibeplayer_sub": "https://vibeplayer.site/988def363e28ff58",
+          "2795-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/988def363e28ff58/master.m3u8"
+        },
+        "HD-2": {
+          "2795-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf5146bd60f13140ae0be2e332a8c0b9f4h",
+          "2795-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2795-malep-1_otakuvid_sub": "https://otakuvid.online/embed/97t311cv7e3e",
+          "2795-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2795-malep-1_vibeplayer_dub": "https://vibeplayer.site/32b8f33a37ebca8a",
+          "2795-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/32b8f33a37ebca8a/master.m3u8"
+        },
+        "HD-2": {
+          "2795-malep-1_vibeplayer_dub": "https://vibeplayer.site/agfba8b230ab15fb465bb80b2f83e3cd574h",
+          "2795-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2795-malep-1_otakuvid_dub": "https://otakuvid.online/embed/h7x190gqnxqj",
+          "2795-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2795-malep-1_vibeplayer_hsub": "https://vibeplayer.site/038b2a28d8c76714",
+          "2795-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/038b2a28d8c76714/master.m3u8"
+        },
+        "HD-2": {
+          "2795-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag283518463121c7b7e3ad7d318e494e7c4h",
+          "2795-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2795-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z9u92qwfjet7",
+          "2795-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2795-malep-1_playmogo_hsub": "https://playmogo.com/e/3q842q9amw93",
+          "2795-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
