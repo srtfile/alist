@@ -15978,5 +15978,15 @@
     "captured_at": "2026-06-03T07:20:08",
     "file": "data/cyberpunk-edgerunners.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cyberpunk-edgerunners.json"
+  },
+  {
+    "slug": "cybersix",
+    "mal_id": 2383,
+    "anime_name": "Cybersix",
+    "anime_url": "https://hianime.ad/anime/cybersix",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T07:20:26",
+    "file": "data/cybersix.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cybersix.json"
   }
 ]
