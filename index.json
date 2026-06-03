@@ -21138,5 +21138,15 @@
     "captured_at": "2026-06-03T10:17:48",
     "file": "data/el-hazard-the-wanderers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/el-hazard-the-wanderers.json"
+  },
+  {
+    "slug": "eldlive",
+    "mal_id": 32878,
+    "anime_name": "Eldlive",
+    "anime_url": "https://hianime.ad/anime/eldlive",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:18:21",
+    "file": "data/eldlive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eldlive.json"
   }
 ]
