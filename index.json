@@ -19718,5 +19718,15 @@
     "captured_at": "2026-06-03T09:21:47",
     "file": "data/dr-slump-arale-chan-raw.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump-arale-chan-raw.json"
+  },
+  {
+    "slug": "dr-stone",
+    "mal_id": 38691,
+    "anime_name": "Dr Stone",
+    "anime_url": "https://hianime.ad/anime/dr-stone",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T09:25:29",
+    "file": "data/dr-stone.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-stone.json"
   }
 ]
