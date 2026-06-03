@@ -9238,5 +9238,15 @@
     "captured_at": "2026-06-03T00:03:38",
     "file": "data/beyblade-burst.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst.json"
+  },
+  {
+    "slug": "beyblade-burst-dynamite-battle",
+    "mal_id": 31049,
+    "anime_name": "Beyblade Burst Dynamite Battle",
+    "anime_url": "https://hianime.ad/anime/beyblade-burst-dynamite-battle",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T00:04:32",
+    "file": "data/beyblade-burst-dynamite-battle.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-dynamite-battle.json"
   }
 ]
