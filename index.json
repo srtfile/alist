@@ -5938,5 +5938,15 @@
     "captured_at": "2026-06-03T20:39:42",
     "file": "data/heroman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heroman.json"
+  },
+  {
+    "slug": "heroman-specials",
+    "mal_id": 4334,
+    "anime_name": "Heroman Specials",
+    "anime_url": "https://hianime.ad/anime/heroman-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T20:40:17",
+    "file": "data/heroman-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heroman-specials.json"
   }
 ]
