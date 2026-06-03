@@ -16728,5 +16728,15 @@
     "captured_at": "2026-06-03T07:45:47",
     "file": "data/date-a-live-iv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-iv.json"
+  },
+  {
+    "slug": "date-a-live-movie-mayuri-judgment",
+    "mal_id": 15583,
+    "anime_name": "Date A Live Movie Mayuri Judgment",
+    "anime_url": "https://hianime.ad/anime/date-a-live-movie-mayuri-judgment",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T07:46:06",
+    "file": "data/date-a-live-movie-mayuri-judgment.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-movie-mayuri-judgment.json"
   }
 ]
