@@ -1,0 +1,56 @@
+{
+  "anime_name": "Detective Conan Movie 10 Requiem Of The Detectives",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-10-requiem-of-the-detectives",
+  "slug": "detective-conan-movie-10-requiem-of-the-detectives",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:09:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-10-requiem-of-the-detectives/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6d5b83b278da6b99",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d5b83b278da6b99/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9d2a0c2ade155649744822d579475b694h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/c04z26w55pge",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/9sw1sofwpmix",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ae956b6729dde3c1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae956b6729dde3c1/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag301c1b7c750a490ec00300de948aa5744h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/qdznriidt9qp",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fib76krrnf8x",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/e7k6tdnata14",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
