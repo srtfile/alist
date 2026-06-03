@@ -1,0 +1,57 @@
+{
+  "anime_name": "Ghost In The Shell Arise Border 2 Ghost Whispers",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-arise-border-2-ghost-whispers",
+  "slug": "ghost-in-the-shell-arise-border-2-ghost-whispers",
+  "mal_id": 29325,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:31:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ghost Stands Alone, Part 1",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-arise-border-2-ghost-whispers/ep-1",
+      "sub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_sub": "https://vibeplayer.site/79c641601013b378",
+          "29325-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79c641601013b378/master.m3u8"
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ennmm5y6ung2",
+          "29325-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "29325-malep-1_playmogo_sub": "https://playmogo.com/e/he6xp5ker4ku",
+          "29325-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_dub": "https://vibeplayer.site/4c7d077a94f2cc81",
+          "29325-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c7d077a94f2cc81/master.m3u8"
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_dub": "https://otakuvid.online/embed/8xk12pb9mldn",
+          "29325-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3abc895f239dc334",
+          "29325-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3abc895f239dc334/master.m3u8"
+        },
+        "StreamHG": {
+          "29325-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mnu3ahyewwip",
+          "29325-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gu1xhpoff17x",
+          "29325-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29325-malep-1_playmogo_hsub": "https://playmogo.com/e/kp9w0w1risz0",
+          "29325-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
