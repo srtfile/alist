@@ -22238,5 +22238,15 @@
     "captured_at": "2026-06-03T10:58:17",
     "file": "data/fairy-musketeers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-musketeers.json"
+  },
+  {
+    "slug": "fairy-ranmaru",
+    "mal_id": 45665,
+    "anime_name": "Fairy Ranmaru",
+    "anime_url": "https://hianime.ad/anime/fairy-ranmaru",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:58:59",
+    "file": "data/fairy-ranmaru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-ranmaru.json"
   }
 ]
