@@ -25558,5 +25558,15 @@
     "captured_at": "2026-06-03T13:48:11",
     "file": "data/gall-force-the-revolution.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gall-force-the-revolution.json"
+  },
+  {
+    "slug": "gallery-fake",
+    "mal_id": 364,
+    "anime_name": "Gallery Fake",
+    "anime_url": "https://hianime.ad/anime/gallery-fake",
+    "total_episodes": 37,
+    "captured_at": "2026-06-03T13:48:24",
+    "file": "data/gallery-fake.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gallery-fake.json"
   }
 ]
