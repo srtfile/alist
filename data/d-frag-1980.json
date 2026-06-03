@@ -1,0 +1,52 @@
+{
+  "anime_name": "D Frag 1980",
+  "anime_url": "https://hianime.ad/anime/d-frag-1980",
+  "slug": "d-frag-1980",
+  "mal_id": 20031,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:23:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kazama's Party",
+      "episode_url": "https://hianime.ad/watch/d-frag-1980/ep-1",
+      "sub": {
+        "HD-1": {
+          "20031-malep-1_vibeplayer_sub": "https://vibeplayer.site/9e132ca67c039998",
+          "20031-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9e132ca67c039998/master.m3u8"
+        },
+        "HD-2": {
+          "20031-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5e0bf0cec5204d202000a0ce8d90c5f74h",
+          "20031-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "20031-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2am5rkr8xxq5",
+          "20031-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20031-malep-1_playmogo_sub": "https://playmogo.com/e/gyxdz53w5txr",
+          "20031-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20031-malep-1_vibeplayer_hsub": "https://vibeplayer.site/910301e600c668b6",
+          "20031-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/910301e600c668b6/master.m3u8"
+        },
+        "HD-2": {
+          "20031-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag45758873f777f45ed06dcd3561fe650e4h",
+          "20031-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20031-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2seteu12esw4",
+          "20031-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20031-malep-1_playmogo_hsub": "https://playmogo.com/e/s92btpfwoxzz",
+          "20031-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
