@@ -17408,5 +17408,15 @@
     "captured_at": "2026-06-03T08:06:40",
     "file": "data/denpa-teki-na-kanojo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/denpa-teki-na-kanojo.json"
+  },
+  {
+    "slug": "denshin-mamotte-shugogetten",
+    "mal_id": 45,
+    "anime_name": "Denshin Mamotte Shugogetten",
+    "anime_url": "https://hianime.ad/anime/denshin-mamotte-shugogetten",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T08:06:51",
+    "file": "data/denshin-mamotte-shugogetten.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/denshin-mamotte-shugogetten.json"
   }
 ]
