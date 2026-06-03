@@ -11238,5 +11238,15 @@
     "captured_at": "2026-06-03T02:46:04",
     "file": "data/bosanimal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bosanimal.json"
+  },
+  {
+    "slug": "bosco-adventure",
+    "mal_id": 3460,
+    "anime_name": "Bosco Adventure",
+    "anime_url": "https://hianime.ad/anime/bosco-adventure",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T02:46:25",
+    "file": "data/bosco-adventure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bosco-adventure.json"
   }
 ]
