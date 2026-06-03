@@ -1,0 +1,52 @@
+{
+  "anime_name": "Charanpo Land No Bouken",
+  "anime_url": "https://hianime.ad/anime/charanpo-land-no-bouken",
+  "slug": "charanpo-land-no-bouken",
+  "mal_id": 708,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:18:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "FULL",
+      "episode_url": "https://hianime.ad/watch/charanpo-land-no-bouken/ep-1",
+      "sub": {
+        "HD-1": {
+          "708-malep-1_vibeplayer_sub": "https://vibeplayer.site/d977575b0bd193df",
+          "708-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d977575b0bd193df/master.m3u8"
+        },
+        "HD-2": {
+          "708-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7386731f42c07af0dbe4d9dfe08653474h",
+          "708-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "708-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cv6ue2dfecsl",
+          "708-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "708-malep-1_playmogo_sub": "https://playmogo.com/e/o72rc80nm016",
+          "708-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "708-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1177d4fce3d61d14",
+          "708-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1177d4fce3d61d14/master.m3u8"
+        },
+        "HD-2": {
+          "708-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga03dbdd9d10e3fc9f850d5b22187b8414h",
+          "708-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "708-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hitpslpbpjsy",
+          "708-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "708-malep-1_playmogo_hsub": "https://playmogo.com/e/4u6lqgd16lwl",
+          "708-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
