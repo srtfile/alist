@@ -1,0 +1,65 @@
+{
+  "anime_name": "Chihayafuru 3 Ima Hitotabi No",
+  "anime_url": "https://hianime.ad/anime/chihayafuru-3-ima-hitotabi-no",
+  "slug": "chihayafuru-3-ima-hitotabi-no",
+  "mal_id": 37379,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:33:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "On a Summer Night",
+      "episode_url": "https://hianime.ad/watch/chihayafuru-3-ima-hitotabi-no/ep-1",
+      "sub": {
+        "HD-1": {
+          "37379-malep-1_vibeplayer_sub": "https://vibeplayer.site/b2a641dc66a6dae7",
+          "37379-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2a641dc66a6dae7/master.m3u8"
+        },
+        "HD-2": {
+          "37379-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3ce997ca979eed237a6b8842aae33a204h",
+          "37379-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37379-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1tzogay84dvj",
+          "37379-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37379-malep-1_vibeplayer_dub": "https://vibeplayer.site/8dfeab85758700bd",
+          "37379-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8dfeab85758700bd/master.m3u8"
+        },
+        "HD-2": {
+          "37379-malep-1_vibeplayer_dub": "https://vibeplayer.site/agc59392127d46d51672e002edb65ca3a34h",
+          "37379-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37379-malep-1_otakuvid_dub": "https://otakuvid.online/embed/o1lty03prcxj",
+          "37379-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37379-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2c61ac626665630d",
+          "37379-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c61ac626665630d/master.m3u8"
+        },
+        "HD-2": {
+          "37379-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4e2b1ea5090abb4168a861e7f82cb2634h",
+          "37379-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37379-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hxnm9imfrbj1",
+          "37379-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37379-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/roe1o8nhvpgb",
+          "37379-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37379-malep-1_playmogo_hsub": "https://playmogo.com/e/yrvqwn4tdol7",
+          "37379-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
