@@ -1,0 +1,52 @@
+{
+  "anime_name": "Dragon Ball Super Saiya Jin Zetsumetsu Keikaku",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
+  "slug": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
+  "mal_id": 30694,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:46:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World Peace Prize. Who's Getting the 100 Million Zeni?!",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-super-saiya-jin-zetsumetsu-keikaku/ep-1",
+      "sub": {
+        "HD-1": {
+          "30694-malep-1_vibeplayer_sub": "https://vibeplayer.site/d368ea40c000f715",
+          "30694-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d368ea40c000f715/master.m3u8"
+        },
+        "HD-2": {
+          "30694-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag76575cd9f904215d19f28b617085b6304h",
+          "30694-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30694-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8p8lme6wa1ev",
+          "30694-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6cbf4a5ae3807add",
+          "30694-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6cbf4a5ae3807add/master.m3u8"
+        },
+        "HD-2": {
+          "30694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag50af9e20e55ab8d32ec77e89f7fd2c924h",
+          "30694-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30694-malep-1_otakuhg_hsub": "https://otakuhg.site/e/smvhuhd6esfq",
+          "30694-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30694-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ijyg4ytlfrly",
+          "30694-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30694-malep-1_playmogo_hsub": "https://playmogo.com/e/v0fsutzmhmdj",
+          "30694-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
