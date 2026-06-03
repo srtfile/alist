@@ -19818,5 +19818,15 @@
     "captured_at": "2026-06-03T09:28:14",
     "file": "data/dragon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon.json"
+  },
+  {
+    "slug": "dragon-age-dawn-of-the-seeker",
+    "mal_id": 1956,
+    "anime_name": "Dragon Age Dawn Of The Seeker",
+    "anime_url": "https://hianime.ad/anime/dragon-age-dawn-of-the-seeker",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T09:28:29",
+    "file": "data/dragon-age-dawn-of-the-seeker.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-age-dawn-of-the-seeker.json"
   }
 ]
