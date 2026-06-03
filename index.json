@@ -6518,5 +6518,15 @@
     "captured_at": "2026-06-03T20:59:51",
     "file": "data/highschool-of-the-dead-drifters-of-the-dead.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/highschool-of-the-dead-drifters-of-the-dead.json"
+  },
+  {
+    "slug": "highspeed-etoile",
+    "mal_id": 52405,
+    "anime_name": "Highspeed Etoile",
+    "anime_url": "https://hianime.ad/anime/highspeed-etoile",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:00:03",
+    "file": "data/highspeed-etoile.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/highspeed-etoile.json"
   }
 ]
