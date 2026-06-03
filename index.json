@@ -3388,5 +3388,15 @@
     "captured_at": "2026-06-03T19:09:05",
     "file": "data/gugure-kokkuri-san.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gugure-kokkuri-san.json"
+  },
+  {
+    "slug": "gugure-kokkuri-san-specials",
+    "mal_id": 23251,
+    "anime_name": "Gugure Kokkuri San Specials",
+    "anime_url": "https://hianime.ad/anime/gugure-kokkuri-san-specials",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T19:09:27",
+    "file": "data/gugure-kokkuri-san-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gugure-kokkuri-san-specials.json"
   }
 ]
