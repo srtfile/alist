@@ -21718,5 +21718,15 @@
     "captured_at": "2026-06-03T10:38:34",
     "file": "data/eunhajeonseol-tera.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eunhajeonseol-tera.json"
+  },
+  {
+    "slug": "eureka-seven",
+    "mal_id": 237,
+    "anime_name": "Eureka Seven",
+    "anime_url": "https://hianime.ad/anime/eureka-seven",
+    "total_episodes": 50,
+    "captured_at": "2026-06-03T10:38:44",
+    "file": "data/eureka-seven.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eureka-seven.json"
   }
 ]
