@@ -1,0 +1,52 @@
+{
+  "anime_name": "Gundam Build Fighters Try Island Wars",
+  "anime_url": "https://hianime.ad/anime/gundam-build-fighters-try-island-wars",
+  "slug": "gundam-build-fighters-try-island-wars",
+  "mal_id": 24625,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:17:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy Who Calls the Wind",
+      "episode_url": "https://hianime.ad/watch/gundam-build-fighters-try-island-wars/ep-1",
+      "sub": {
+        "HD-1": {
+          "24625-malep-1_vibeplayer_sub": "https://vibeplayer.site/ea80e830ab25c823",
+          "24625-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea80e830ab25c823/master.m3u8"
+        },
+        "StreamHG": {
+          "24625-malep-1_otakuhg_sub": "https://otakuhg.site/e/yp77s85vjn6j",
+          "24625-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "24625-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gdsgods8oe6f",
+          "24625-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "24625-malep-1_playmogo_sub": "https://playmogo.com/e/d1pizbb3hrqf",
+          "24625-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "24625-malep-1_vibeplayer_hsub": "https://vibeplayer.site/514051b0d78f80cd",
+          "24625-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/514051b0d78f80cd/master.m3u8"
+        },
+        "StreamHG": {
+          "24625-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q96ij0l8qvcm",
+          "24625-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "24625-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ux9vk6w6oypk",
+          "24625-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "24625-malep-1_playmogo_hsub": "https://playmogo.com/e/7bfi7ylfvpm9",
+          "24625-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
