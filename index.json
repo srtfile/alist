@@ -20728,5 +20728,15 @@
     "captured_at": "2026-06-03T10:05:09",
     "file": "data/durarara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/durarara.json"
+  },
+  {
+    "slug": "durarara-specials",
+    "mal_id": 6746,
+    "anime_name": "Durarara Specials",
+    "anime_url": "https://hianime.ad/anime/durarara-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T10:05:39",
+    "file": "data/durarara-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/durarara-specials.json"
   }
 ]
