@@ -1,0 +1,56 @@
+{
+  "anime_name": "Corpse Party Missing Footage Uncensored",
+  "anime_url": "https://hianime.ad/anime/corpse-party-missing-footage-uncensored",
+  "slug": "corpse-party-missing-footage-uncensored",
+  "mal_id": 4581,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:31:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Dead Dance",
+      "episode_url": "https://hianime.ad/watch/corpse-party-missing-footage-uncensored/ep-1",
+      "sub": {
+        "HD-1": {
+          "4581-malep-1_vibeplayer_sub": "https://vibeplayer.site/cd9df87f907bc5b2",
+          "4581-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cd9df87f907bc5b2/master.m3u8"
+        },
+        "HD-2": {
+          "4581-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7ad3aea4d92113476a72f3d56968b5964h",
+          "4581-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "4581-malep-1_otakuhg_sub": "https://otakuhg.site/e/czu7tfy3qifa",
+          "4581-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4581-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1pfk1shni6ji",
+          "4581-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4581-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e208b711a265cae4",
+          "4581-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e208b711a265cae4/master.m3u8"
+        },
+        "HD-2": {
+          "4581-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6bde207ebbc17d680cedaec1913f74e34h",
+          "4581-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4581-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qfag2txtl8ul",
+          "4581-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4581-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b908wtw9ecsa",
+          "4581-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4581-malep-1_playmogo_hsub": "https://playmogo.com/e/9fdww7j3m6qa",
+          "4581-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
