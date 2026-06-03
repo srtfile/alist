@@ -1,0 +1,56 @@
+{
+  "anime_name": "Boruto Naruto The Movie The Day Naruto Became The Hokage",
+  "anime_url": "https://hianime.ad/anime/boruto-naruto-the-movie-the-day-naruto-became-the-hokage",
+  "slug": "boruto-naruto-the-movie-the-day-naruto-became-the-hokage",
+  "mal_id": 34566,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:45:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Boruto Uzumaki!",
+      "episode_url": "https://hianime.ad/watch/boruto-naruto-the-movie-the-day-naruto-became-the-hokage/ep-1",
+      "sub": {
+        "HD-1": {
+          "34566-malep-1_vibeplayer_sub": "https://vibeplayer.site/af77a82c208713e2",
+          "34566-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af77a82c208713e2/master.m3u8"
+        },
+        "HD-2": {
+          "34566-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag297b7393e658763749e3b31f25b9fa0a4h",
+          "34566-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34566-malep-1_otakuhg_sub": "https://otakuhg.site/e/hr7mikb604i5",
+          "34566-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34566-malep-1_otakuvid_sub": "https://otakuvid.online/embed/peh5f3q976ki",
+          "34566-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34566-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d2ceeb19a1478074",
+          "34566-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2ceeb19a1478074/master.m3u8"
+        },
+        "HD-2": {
+          "34566-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3e092bb1be9494286fe822dca6c5d35f4h",
+          "34566-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34566-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4ejsao82qw81",
+          "34566-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34566-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4twkzf1q573q",
+          "34566-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34566-malep-1_playmogo_hsub": "https://playmogo.com/e/slmzcz3gfjch",
+          "34566-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
