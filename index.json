@@ -6418,5 +6418,15 @@
     "captured_at": "2026-06-03T20:56:49",
     "file": "data/high-school-jingi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-jingi.json"
+  },
+  {
+    "slug": "high-school-of-the-dead",
+    "mal_id": 8074,
+    "anime_name": "High School Of The Dead",
+    "anime_url": "https://hianime.ad/anime/high-school-of-the-dead",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:57:01",
+    "file": "data/high-school-of-the-dead.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-of-the-dead.json"
   }
 ]
