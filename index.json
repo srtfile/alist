@@ -1308,5 +1308,15 @@
     "captured_at": "2026-06-03T17:49:45",
     "file": "data/giniro-no-olynsis-tokito.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giniro-no-olynsis-tokito.json"
+  },
+  {
+    "slug": "gintama",
+    "mal_id": 9969,
+    "anime_name": "Gintama",
+    "anime_url": "https://hianime.ad/anime/gintama",
+    "total_episodes": 201,
+    "captured_at": "2026-06-03T17:50:06",
+    "file": "data/gintama.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama.json"
   }
 ]
