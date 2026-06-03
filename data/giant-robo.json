@@ -1,0 +1,44 @@
+{
+  "anime_name": "Giant Robo",
+  "anime_url": "https://hianime.ad/anime/giant-robo",
+  "slug": "giant-robo",
+  "mal_id": 3146,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:39:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/giant-robo/ep-1",
+      "sub": {
+        "HD-1": {
+          "3146-malep-1_vibeplayer_sub": "https://vibeplayer.site/a63444d21a9263e3",
+          "3146-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a63444d21a9263e3/master.m3u8"
+        },
+        "Earnvids": {
+          "3146-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g3zh0ab43hww",
+          "3146-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3146-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3fe557bfc46d700c",
+          "3146-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3fe557bfc46d700c/master.m3u8"
+        },
+        "StreamHG": {
+          "3146-malep-1_otakuhg_hsub": "https://otakuhg.site/e/uoe7btkc8f8d",
+          "3146-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3146-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ob1klo0bpyu5",
+          "3146-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3146-malep-1_playmogo_hsub": "https://playmogo.com/e/5fxnbswbscgf",
+          "3146-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
