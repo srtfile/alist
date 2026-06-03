@@ -13148,5 +13148,15 @@
     "captured_at": "2026-06-03T05:07:42",
     "file": "data/celestial-above-all.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/celestial-above-all.json"
+  },
+  {
+    "slug": "celestial-bonds",
+    "mal_id": 23209,
+    "anime_name": "Celestial Bonds",
+    "anime_url": "https://hianime.ad/anime/celestial-bonds",
+    "total_episodes": 18,
+    "captured_at": "2026-06-03T05:08:49",
+    "file": "data/celestial-bonds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/celestial-bonds.json"
   }
 ]
