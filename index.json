@@ -21668,5 +21668,15 @@
     "captured_at": "2026-06-03T10:37:04",
     "file": "data/eternal-boys.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-boys.json"
+  },
+  {
+    "slug": "eternal-filena",
+    "mal_id": 51293,
+    "anime_name": "Eternal Filena",
+    "anime_url": "https://hianime.ad/anime/eternal-filena",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T10:37:34",
+    "file": "data/eternal-filena.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-filena.json"
   }
 ]
