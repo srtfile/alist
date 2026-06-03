@@ -12988,5 +12988,15 @@
     "captured_at": "2026-06-03T05:01:51",
     "file": "data/castlevania.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castlevania.json"
+  },
+  {
+    "slug": "castlevania-2nd-season",
+    "mal_id": 40417,
+    "anime_name": "Castlevania 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/castlevania-2nd-season",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T05:02:06",
+    "file": "data/castlevania-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castlevania-2nd-season.json"
   }
 ]
