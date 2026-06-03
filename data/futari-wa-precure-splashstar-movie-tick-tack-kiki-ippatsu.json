@@ -1,0 +1,56 @@
+{
+  "anime_name": "Futari Wa Precure Splashstar Movie Tick Tack Kiki Ippatsu",
+  "anime_url": "https://hianime.ad/anime/futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu",
+  "slug": "futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu",
+  "mal_id": 603,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:21:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "You Want Us to Transform? No Way!",
+      "episode_url": "https://hianime.ad/watch/futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "603-malep-1_vibeplayer_sub": "https://vibeplayer.site/f9ddc03e33c0cc08",
+          "603-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9ddc03e33c0cc08/master.m3u8"
+        },
+        "HD-2": {
+          "603-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc1df26165817917a3e8fb42a04db59274h",
+          "603-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "603-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ouwymrhdpr76",
+          "603-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "603-malep-1_playmogo_sub": "https://playmogo.com/e/g28dsdlfzlak",
+          "603-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "603-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0cbb361662f5a9ba",
+          "603-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0cbb361662f5a9ba/master.m3u8"
+        },
+        "HD-2": {
+          "603-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag32d4e8dc24a7e2a74b37650211e98c764h",
+          "603-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "603-malep-1_otakuhg_hsub": "https://otakuhg.site/e/v1xgcpplvvfl",
+          "603-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "603-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k0z60f604bng",
+          "603-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "603-malep-1_playmogo_hsub": "https://playmogo.com/e/suhm246nw17x",
+          "603-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
