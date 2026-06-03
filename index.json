@@ -1068,5 +1068,15 @@
     "captured_at": "2026-06-03T17:39:47",
     "file": "data/giant-robo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-robo.json"
+  },
+  {
+    "slug": "giant-robo-gaiden-ginrei",
+    "mal_id": 3146,
+    "anime_name": "Giant Robo Gaiden Ginrei",
+    "anime_url": "https://hianime.ad/anime/giant-robo-gaiden-ginrei",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T17:39:58",
+    "file": "data/giant-robo-gaiden-ginrei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-robo-gaiden-ginrei.json"
   }
 ]
