@@ -20478,5 +20478,15 @@
     "captured_at": "2026-06-03T09:57:49",
     "file": "data/dream-eater-merry.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dream-eater-merry.json"
+  },
+  {
+    "slug": "dream-festival",
+    "mal_id": 37869,
+    "anime_name": "Dream Festival",
+    "anime_url": "https://hianime.ad/anime/dream-festival",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:58:09",
+    "file": "data/dream-festival.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dream-festival.json"
   }
 ]
