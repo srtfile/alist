@@ -1,0 +1,60 @@
+{
+  "anime_name": "Doraemon The Movie 2025 Nobitas Art World Tales",
+  "anime_url": "https://hianime.ad/anime/doraemon-the-movie-2025-nobitas-art-world-tales",
+  "slug": "doraemon-the-movie-2025-nobitas-art-world-tales",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:06:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-the-movie-2025-nobitas-art-world-tales/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/762ddcd5a422e1b1",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/762ddcd5a422e1b1/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agb338c0f046f3447b5334031b78daed374h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/paqxt8v9u0rq",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/o7zi10697pbe",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/3e57czenvofp",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/dbc9e4166f04ad9c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dbc9e4166f04ad9c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga56d1632db362b93115a2ad7405116d34h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/coizpqunucd3",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5m7mq8e7vr12",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/npw7n5k0z0bs",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
