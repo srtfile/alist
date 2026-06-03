@@ -3418,5 +3418,15 @@
     "captured_at": "2026-06-03T19:09:59",
     "file": "data/guilty-crown.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilty-crown.json"
+  },
+  {
+    "slug": "guilty-crown-lost-christmas",
+    "mal_id": 10793,
+    "anime_name": "Guilty Crown Lost Christmas",
+    "anime_url": "https://hianime.ad/anime/guilty-crown-lost-christmas",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:10:30",
+    "file": "data/guilty-crown-lost-christmas.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilty-crown-lost-christmas.json"
   }
 ]
