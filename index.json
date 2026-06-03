@@ -25448,5 +25448,15 @@
     "captured_at": "2026-06-03T13:45:14",
     "file": "data/galaxy-express-999-eternal-traveller-emeraldas.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-express-999-eternal-traveller-emeraldas.json"
+  },
+  {
+    "slug": "galaxy-fraulein-yuna",
+    "mal_id": 653,
+    "anime_name": "Galaxy Fraulein Yuna",
+    "anime_url": "https://hianime.ad/anime/galaxy-fraulein-yuna",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T13:45:25",
+    "file": "data/galaxy-fraulein-yuna.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-fraulein-yuna.json"
   }
 ]
