@@ -3578,5 +3578,15 @@
     "captured_at": "2026-06-03T19:16:13",
     "file": "data/gundam-build-fighters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters.json"
+  },
+  {
+    "slug": "gundam-build-fighters-specials",
+    "mal_id": 19319,
+    "anime_name": "Gundam Build Fighters Specials",
+    "anime_url": "https://hianime.ad/anime/gundam-build-fighters-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T19:16:46",
+    "file": "data/gundam-build-fighters-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-specials.json"
   }
 ]
