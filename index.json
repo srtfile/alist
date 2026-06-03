@@ -16138,5 +16138,15 @@
     "captured_at": "2026-06-03T07:26:25",
     "file": "data/d-n-angel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-n-angel.json"
+  },
+  {
+    "slug": "d4-princess",
+    "mal_id": 2723,
+    "anime_name": "D4 Princess",
+    "anime_url": "https://hianime.ad/anime/d4-princess",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T07:26:56",
+    "file": "data/d4-princess.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d4-princess.json"
   }
 ]
