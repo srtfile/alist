@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cosmos Pink Shock",
+  "anime_url": "https://hianime.ad/anime/cosmos-pink-shock",
+  "slug": "cosmos-pink-shock",
+  "mal_id": 10528,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:35:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/cosmos-pink-shock/ep-1",
+      "sub": {
+        "HD-1": {
+          "10528-malep-1_vibeplayer_sub": "https://vibeplayer.site/41d836add8a4d6c4",
+          "10528-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/41d836add8a4d6c4/master.m3u8"
+        },
+        "HD-2": {
+          "10528-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag725ea7635048bff0e92586338e8b79194h",
+          "10528-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10528-malep-1_otakuvid_sub": "https://otakuvid.online/embed/35uu8s94apwm",
+          "10528-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10528-malep-1_playmogo_sub": "https://playmogo.com/e/uf2ywhqvxgvp",
+          "10528-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10528-malep-1_vibeplayer_hsub": "https://vibeplayer.site/484a1e4efd39d87f",
+          "10528-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/484a1e4efd39d87f/master.m3u8"
+        },
+        "HD-2": {
+          "10528-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3c2c97b9b5347ac916f2a5d849fe023a4h",
+          "10528-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10528-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3zjleg7oijfr",
+          "10528-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10528-malep-1_playmogo_hsub": "https://playmogo.com/e/7vwog768tpxr",
+          "10528-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
