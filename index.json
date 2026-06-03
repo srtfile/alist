@@ -17368,5 +17368,15 @@
     "captured_at": "2026-06-03T08:05:13",
     "file": "data/demon-warrior-luna-varga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-warrior-luna-varga.json"
+  },
+  {
+    "slug": "demons-ascension",
+    "mal_id": 63045,
+    "anime_name": "Demons Ascension",
+    "anime_url": "https://hianime.ad/anime/demons-ascension",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T08:05:26",
+    "file": "data/demons-ascension.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demons-ascension.json"
   }
 ]
