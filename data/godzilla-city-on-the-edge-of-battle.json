@@ -1,0 +1,57 @@
+{
+  "anime_name": "Godzilla City On The Edge Of Battle",
+  "anime_url": "https://hianime.ad/anime/godzilla-city-on-the-edge-of-battle",
+  "slug": "godzilla-city-on-the-edge-of-battle",
+  "mal_id": 41573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:32:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Say My Will, Demon King",
+      "episode_url": "https://hianime.ad/watch/godzilla-city-on-the-edge-of-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "41573-malep-1_vibeplayer_sub": "https://vibeplayer.site/20fd1e025f1aa87a",
+          "41573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20fd1e025f1aa87a/master.m3u8"
+        },
+        "Earnvids": {
+          "41573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pea78712lrki",
+          "41573-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "41573-malep-1_playmogo_sub": "https://playmogo.com/e/blv0uq4wu2pe",
+          "41573-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "41573-malep-1_vibeplayer_dub": "https://vibeplayer.site/423747564360e529",
+          "41573-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/423747564360e529/master.m3u8"
+        },
+        "Earnvids": {
+          "41573-malep-1_otakuvid_dub": "https://otakuvid.online/embed/iusja8kqn6xi",
+          "41573-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "41573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e1a496429148127e",
+          "41573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1a496429148127e/master.m3u8"
+        },
+        "StreamHG": {
+          "41573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gqpyp6dk6cy5",
+          "41573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d6avmnxabms0",
+          "41573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41573-malep-1_playmogo_hsub": "https://playmogo.com/e/ip6tlnbdko4k",
+          "41573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
