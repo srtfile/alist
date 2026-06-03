@@ -14298,5 +14298,15 @@
     "captured_at": "2026-06-03T06:01:24",
     "file": "data/city-hunter-movie-shinjuku-private-eyes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-hunter-movie-shinjuku-private-eyes.json"
+  },
+  {
+    "slug": "city-hunter-357-magnum",
+    "mal_id": 1470,
+    "anime_name": "City Hunter 357 Magnum",
+    "anime_url": "https://hianime.ad/anime/city-hunter-357-magnum",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T06:01:36",
+    "file": "data/city-hunter-357-magnum.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-hunter-357-magnum.json"
   }
 ]
