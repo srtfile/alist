@@ -20498,5 +20498,15 @@
     "captured_at": "2026-06-03T09:58:29",
     "file": "data/dream-tower.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dream-tower.json"
+  },
+  {
+    "slug": "drifters",
+    "mal_id": 31339,
+    "anime_name": "Drifters",
+    "anime_url": "https://hianime.ad/anime/drifters",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T09:58:50",
+    "file": "data/drifters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/drifters.json"
   }
 ]
