@@ -1,0 +1,52 @@
+{
+  "anime_name": "Encouragement Of Climb Omoide Present",
+  "anime_url": "https://hianime.ad/anime/encouragement-of-climb-omoide-present",
+  "slug": "encouragement-of-climb-omoide-present",
+  "mal_id": 14355,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:25:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Anything but Mountains!",
+      "episode_url": "https://hianime.ad/watch/encouragement-of-climb-omoide-present/ep-1",
+      "sub": {
+        "HD-1": {
+          "14355-malep-1_vibeplayer_sub": "https://vibeplayer.site/c414b730169aefe3",
+          "14355-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c414b730169aefe3/master.m3u8"
+        },
+        "HD-2": {
+          "14355-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4d7dbe429d1d7c041bcaff7e105585344h",
+          "14355-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14355-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tfswx8poqf53",
+          "14355-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14355-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1f86c8d9e8ab709c",
+          "14355-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1f86c8d9e8ab709c/master.m3u8"
+        },
+        "HD-2": {
+          "14355-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb159875366ea6d795bf18c8a9d0a886e4h",
+          "14355-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "14355-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i3ruvtxviug1",
+          "14355-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14355-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/97cdlvjh41n5",
+          "14355-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14355-malep-1_playmogo_hsub": "https://playmogo.com/e/hdxxyoqkm8rg",
+          "14355-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
