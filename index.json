@@ -16168,5 +16168,15 @@
     "captured_at": "2026-06-03T07:27:46",
     "file": "data/d4dj-first-mix.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d4dj-first-mix.json"
+  },
+  {
+    "slug": "d4dj-petit-mix",
+    "mal_id": 45782,
+    "anime_name": "D4Dj Petit Mix",
+    "anime_url": "https://hianime.ad/anime/d4dj-petit-mix",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T07:28:06",
+    "file": "data/d4dj-petit-mix.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d4dj-petit-mix.json"
   }
 ]
