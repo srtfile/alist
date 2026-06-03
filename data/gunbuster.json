@@ -1,0 +1,299 @@
+{
+  "anime_name": "Gunbuster",
+  "anime_url": "https://hianime.ad/anime/gunbuster",
+  "slug": "gunbuster",
+  "mal_id": null,
+  "total_episodes": 6,
+  "captured_at": "2026-06-03T19:13:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Shock! Big Sister and I are Going to be Pilots Together?!",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e279214eedef6736",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e279214eedef6736/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/pxv8zs9lk8cw",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/4bxfibu2owbh",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/222dc9ea000e5e20",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/222dc9ea000e5e20/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/9n5d0im8e4wx",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/iwd8r4si2vwb",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/edlx805vw2j1",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/86c89ab4aa5a11f3",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/86c89ab4aa5a11f3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/qy2kaetpdsds",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uknnikayahag",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/8yl7pw6tzfbn",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Daring! The Girl Genius Challenger!!",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/d0eb4f83533e7858",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0eb4f83533e7858/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/aff3n3rhlkcb",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/299e9afd8d4c151f",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/299e9afd8d4c151f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/7ndeezmms3pb",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/ui0p32p5hk19",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/ede514332027d0ae",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ede514332027d0ae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/e5ithu9t1c6k",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/wcr988o8i2nu",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/w9udsoy77coq",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "First Love☆First Sortie",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/2f2cfd16c225168d",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2f2cfd16c225168d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/dff4mwl7eq0x",
+          "malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_sub": "https://playmogo.com/e/bisx0opfqphl",
+          "malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/8a12b5e123755f0f",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a12b5e123755f0f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/imnar5deimrn",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/11582b7ee9fd33c4",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11582b7ee9fd33c4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/keeo4aelcwde",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/8jnvj1n6158t",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/h4i5m3r73nun",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Launch!! The Incomplete Ultimate Weapon!",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/84bf00b7e4b3e5ac",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84bf00b7e4b3e5ac/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/2pxwciyiz5ym",
+          "malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_sub": "https://playmogo.com/e/ugnolhtztqgp",
+          "malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/cf941d65b2f4ad77",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cf941d65b2f4ad77/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/zoftumcjmu7z",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/3c67a5f3a4544257",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c67a5f3a4544257/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/ogxbc4hupylj",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/sifgqevewavg",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/9xgwuok071c4",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Please!! Time Enough for Love!",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/fc073c05ae2cdc12",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fc073c05ae2cdc12/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/0fz8b5zolze7",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/79ef0475acf4d365",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79ef0475acf4d365/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/dfw51kdf06si",
+          "malep-5_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_dub": "https://playmogo.com/e/1jufhcaezmu5",
+          "malep-5_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/c132521592ce6a35",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c132521592ce6a35/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/9swy4ce4em79",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/e6st4a89dds4",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/swhedi7dd8dx",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "At the End of Eternity...",
+      "episode_url": "https://hianime.ad/watch/gunbuster/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/06976b700309c3ae",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/06976b700309c3ae/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/yrle6pl8064z",
+          "malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_sub": "https://playmogo.com/e/swdfbgqxa68s",
+          "malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/28968d20d9a0b9d5",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/28968d20d9a0b9d5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/p8r3dejkkj26",
+          "malep-6_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_dub": "https://playmogo.com/e/n51xrcru1smn",
+          "malep-6_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/ec95eb4e7108a0ca",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec95eb4e7108a0ca/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/31uy2n9kdtbx",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/0lqnvq67s0dr",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/uzxb5z0zw3wh",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
