@@ -25008,5 +25008,15 @@
     "captured_at": "2026-06-03T13:28:03",
     "file": "data/future-folktales.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-folktales.json"
+  },
+  {
+    "slug": "fuuto-pi",
+    "mal_id": 48649,
+    "anime_name": "Fuuto Pi",
+    "anime_url": "https://hianime.ad/anime/fuuto-pi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:28:59",
+    "file": "data/fuuto-pi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fuuto-pi.json"
   }
 ]
