@@ -18518,5 +18518,15 @@
     "captured_at": "2026-06-03T08:39:58",
     "file": "data/dino-mech-gaiking.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dino-mech-gaiking.json"
+  },
+  {
+    "slug": "dinosaur-king",
+    "mal_id": 3576,
+    "anime_name": "Dinosaur King",
+    "anime_url": "https://hianime.ad/anime/dinosaur-king",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T08:40:45",
+    "file": "data/dinosaur-king.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dinosaur-king.json"
   }
 ]
