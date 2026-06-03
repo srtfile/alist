@@ -12628,5 +12628,15 @@
     "captured_at": "2026-06-03T04:24:20",
     "file": "data/cardfight-vanguard-gaiden-if.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-gaiden-if.json"
+  },
+  {
+    "slug": "cardfight-vanguard-legion-mate",
+    "mal_id": 21729,
+    "anime_name": "Cardfight Vanguard Legion Mate",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-legion-mate",
+    "total_episodes": 33,
+    "captured_at": "2026-06-03T04:24:54",
+    "file": "data/cardfight-vanguard-legion-mate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-legion-mate.json"
   }
 ]
