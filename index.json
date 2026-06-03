@@ -20978,5 +20978,15 @@
     "captured_at": "2026-06-03T10:12:59",
     "file": "data/edens-zero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/edens-zero.json"
+  },
+  {
+    "slug": "edens-zero-recap-movie",
+    "mal_id": 42192,
+    "anime_name": "Edens Zero Recap Movie",
+    "anime_url": "https://hianime.ad/anime/edens-zero-recap-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:13:30",
+    "file": "data/edens-zero-recap-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/edens-zero-recap-movie.json"
   }
 ]
