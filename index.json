@@ -12618,5 +12618,15 @@
     "captured_at": "2026-06-03T04:23:47",
     "file": "data/cardfight-vanguard-g-z.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g-z.json"
+  },
+  {
+    "slug": "cardfight-vanguard-gaiden-if",
+    "mal_id": 41283,
+    "anime_name": "Cardfight Vanguard Gaiden If",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-gaiden-if",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T04:24:20",
+    "file": "data/cardfight-vanguard-gaiden-if.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-gaiden-if.json"
   }
 ]
