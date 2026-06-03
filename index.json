@@ -608,5 +608,15 @@
     "captured_at": "2026-06-03T17:23:27",
     "file": "data/getbackers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getbackers.json"
+  },
+  {
+    "slug": "getsumen-to-heiki-mina",
+    "mal_id": 1865,
+    "anime_name": "Getsumen To Heiki Mina",
+    "anime_url": "https://hianime.ad/anime/getsumen-to-heiki-mina",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T17:24:22",
+    "file": "data/getsumen-to-heiki-mina.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getsumen-to-heiki-mina.json"
   }
 ]
