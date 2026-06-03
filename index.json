@@ -1348,5 +1348,15 @@
     "captured_at": "2026-06-03T17:54:34",
     "file": "data/gintama-season-4.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-season-4.json"
+  },
+  {
+    "slug": "gintama-season-5",
+    "mal_id": 34096,
+    "anime_name": "Gintama Season 5",
+    "anime_url": "https://hianime.ad/anime/gintama-season-5",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:55:32",
+    "file": "data/gintama-season-5.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-season-5.json"
   }
 ]
