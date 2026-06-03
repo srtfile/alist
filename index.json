@@ -9308,5 +9308,15 @@
     "captured_at": "2026-06-03T00:09:59",
     "file": "data/beyblade-metal-fury.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-metal-fury.json"
+  },
+  {
+    "slug": "beyblade-metal-fusion",
+    "mal_id": 5962,
+    "anime_name": "Beyblade Metal Fusion",
+    "anime_url": "https://hianime.ad/anime/beyblade-metal-fusion",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:10:43",
+    "file": "data/beyblade-metal-fusion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-metal-fusion.json"
   }
 ]
