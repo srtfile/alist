@@ -21088,5 +21088,15 @@
     "captured_at": "2026-06-03T10:16:16",
     "file": "data/eiyu-kaitai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eiyu-kaitai.json"
+  },
+  {
+    "slug": "el-cazador-de-la-bruja",
+    "mal_id": 2030,
+    "anime_name": "El Cazador De La Bruja",
+    "anime_url": "https://hianime.ad/anime/el-cazador-de-la-bruja",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T10:16:27",
+    "file": "data/el-cazador-de-la-bruja.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/el-cazador-de-la-bruja.json"
   }
 ]
