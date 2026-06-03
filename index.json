@@ -12518,5 +12518,15 @@
     "captured_at": "2026-06-03T04:16:35",
     "file": "data/card-captor-sakura-movie-2-the-sealed-card.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/card-captor-sakura-movie-2-the-sealed-card.json"
+  },
+  {
+    "slug": "cardcaptor-sakura",
+    "mal_id": 232,
+    "anime_name": "Cardcaptor Sakura",
+    "anime_url": "https://hianime.ad/anime/cardcaptor-sakura",
+    "total_episodes": 70,
+    "captured_at": "2026-06-03T04:16:48",
+    "file": "data/cardcaptor-sakura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardcaptor-sakura.json"
   }
 ]
