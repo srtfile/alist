@@ -18278,5 +18278,15 @@
     "captured_at": "2026-06-03T08:30:38",
     "file": "data/digimon-frontier-island-of-lost-digimon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-frontier-island-of-lost-digimon.json"
+  },
+  {
+    "slug": "digimon-fusion",
+    "mal_id": 8624,
+    "anime_name": "Digimon Fusion",
+    "anime_url": "https://hianime.ad/anime/digimon-fusion",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T08:30:48",
+    "file": "data/digimon-fusion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-fusion.json"
   }
 ]
