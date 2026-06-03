@@ -9278,5 +9278,15 @@
     "captured_at": "2026-06-03T00:07:17",
     "file": "data/beyblade-burst-sparking.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-sparking.json"
+  },
+  {
+    "slug": "beyblade-burst-turbo",
+    "mal_id": 37283,
+    "anime_name": "Beyblade Burst Turbo",
+    "anime_url": "https://hianime.ad/anime/beyblade-burst-turbo",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:08:12",
+    "file": "data/beyblade-burst-turbo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-turbo.json"
   }
 ]
