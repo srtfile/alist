@@ -2218,5 +2218,15 @@
     "captured_at": "2026-06-03T18:24:40",
     "file": "data/god-mars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-mars.json"
+  },
+  {
+    "slug": "god-mazinger",
+    "mal_id": 5250,
+    "anime_name": "God Mazinger",
+    "anime_url": "https://hianime.ad/anime/god-mazinger",
+    "total_episodes": 23,
+    "captured_at": "2026-06-03T18:25:49",
+    "file": "data/god-mazinger.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-mazinger.json"
   }
 ]
