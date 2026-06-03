@@ -168,5 +168,15 @@
     "captured_at": "2026-06-03T17:09:06",
     "file": "data/gatchaman-crowds.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gatchaman-crowds.json"
+  },
+  {
+    "slug": "gatchaman-crowds-insight",
+    "mal_id": 21039,
+    "anime_name": "Gatchaman Crowds Insight",
+    "anime_url": "https://hianime.ad/anime/gatchaman-crowds-insight",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:09:28",
+    "file": "data/gatchaman-crowds-insight.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gatchaman-crowds-insight.json"
   }
 ]
