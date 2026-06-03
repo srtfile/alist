@@ -1,0 +1,52 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 07 Explosion The Hot Springs Feel Good Final Battle",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-07-explosion-the-hot-springs-feel-good-final-battle",
+  "slug": "crayon-shin-chan-movie-07-explosion-the-hot-springs-feel-good-final-battle",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:40:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-07-explosion-the-hot-springs-feel-good-final-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e29988f833dfd0ca",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e29988f833dfd0ca/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4cfbf729e470d94f15e64e49d71137414h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/rtqcz7f8xqtz",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ad8eedb8b6b5aac4",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ad8eedb8b6b5aac4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaa2e4f591c9b0f7b70ca9c1854311c414h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/h4b5dgagylr3",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2o4hrb7yvpwz",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/wzl773b6dink",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
