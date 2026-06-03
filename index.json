@@ -11628,5 +11628,15 @@
     "captured_at": "2026-06-03T02:58:44",
     "file": "data/btooom-bakusatsu-digest.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/btooom-bakusatsu-digest.json"
+  },
+  {
+    "slug": "bubble",
+    "mal_id": 48221,
+    "anime_name": "Bubble",
+    "anime_url": "https://hianime.ad/anime/bubble",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T02:58:57",
+    "file": "data/bubble.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bubble.json"
   }
 ]
