@@ -12808,5 +12808,15 @@
     "captured_at": "2026-06-03T04:32:12",
     "file": "data/carole-tuesday-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carole-tuesday-specials.json"
+  },
+  {
+    "slug": "carp-reborn",
+    "mal_id": 37300,
+    "anime_name": "Carp Reborn",
+    "anime_url": "https://hianime.ad/anime/carp-reborn",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T04:32:30",
+    "file": "data/carp-reborn.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carp-reborn.json"
   }
 ]
