@@ -1,0 +1,69 @@
+{
+  "anime_name": "Dragon Ball Z Special 1 Bardock The Father Of Goku",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-special-1-bardock-the-father-of-goku",
+  "slug": "dragon-ball-z-special-1-bardock-the-father-of-goku",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:42:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-special-1-bardock-the-father-of-goku/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/837b20cc2b965305",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/837b20cc2b965305/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0818d102ec1a14946ab5e8c73fc2c0de4h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ygigv32w5eml",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/5f6c620f92f2adc2",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5f6c620f92f2adc2/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag817a4222a9cc87680a97dda611e74f9b4h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/qijkt2lpd5pl",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kgav0irdk02s",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a01b9c5bda313d65",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a01b9c5bda313d65/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age6036b90dec8bedeeda830bd172998b34h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jxrw33x37nxm",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mb53kmk6zhpy",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/393weoq1bdp7",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
