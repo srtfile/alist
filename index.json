@@ -1928,5 +1928,15 @@
     "captured_at": "2026-06-03T18:12:37",
     "file": "data/glass-mask-the-girl-of-a-thousand-masks.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-mask-the-girl-of-a-thousand-masks.json"
+  },
+  {
+    "slug": "glass-no-kamen",
+    "mal_id": 506,
+    "anime_name": "Glass No Kamen",
+    "anime_url": "https://hianime.ad/anime/glass-no-kamen",
+    "total_episodes": 23,
+    "captured_at": "2026-06-03T18:12:51",
+    "file": "data/glass-no-kamen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-no-kamen.json"
   }
 ]
