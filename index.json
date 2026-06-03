@@ -22188,5 +22188,15 @@
     "captured_at": "2026-06-03T10:56:43",
     "file": "data/fairies-albums-5.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairies-albums-5.json"
+  },
+  {
+    "slug": "fairy-gone",
+    "mal_id": 39063,
+    "anime_name": "Fairy Gone",
+    "anime_url": "https://hianime.ad/anime/fairy-gone",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:57:03",
+    "file": "data/fairy-gone.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-gone.json"
   }
 ]
