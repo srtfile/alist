@@ -14048,5 +14048,15 @@
     "captured_at": "2026-06-03T05:51:17",
     "file": "data/chronos-ruler.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chronos-ruler.json"
+  },
+  {
+    "slug": "chu-bra",
+    "mal_id": 6645,
+    "anime_name": "Chu Bra",
+    "anime_url": "https://hianime.ad/anime/chu-bra",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:51:40",
+    "file": "data/chu-bra.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chu-bra.json"
   }
 ]
