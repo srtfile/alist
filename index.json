@@ -22818,5 +22818,15 @@
     "captured_at": "2026-06-03T11:18:38",
     "file": "data/fateprototype.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fateprototype.json"
+  },
+  {
+    "slug": "fatestay-night",
+    "mal_id": 356,
+    "anime_name": "Fatestay Night",
+    "anime_url": "https://hianime.ad/anime/fatestay-night",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T11:18:49",
+    "file": "data/fatestay-night.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestay-night.json"
   }
 ]
