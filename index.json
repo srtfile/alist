@@ -9838,5 +9838,15 @@
     "captured_at": "2026-06-03T00:29:49",
     "file": "data/black-butler-book-of-the-atlantic.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-book-of-the-atlantic.json"
+  },
+  {
+    "slug": "black-butler-emerald-witch-arc",
+    "mal_id": 59228,
+    "anime_name": "Black Butler Emerald Witch Arc",
+    "anime_url": "https://hianime.ad/anime/black-butler-emerald-witch-arc",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:30:00",
+    "file": "data/black-butler-emerald-witch-arc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-emerald-witch-arc.json"
   }
 ]
