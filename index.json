@@ -15108,5 +15108,15 @@
     "captured_at": "2026-06-03T06:28:08",
     "file": "data/condition-green.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/condition-green.json"
+  },
+  {
+    "slug": "conspiracy-of-love",
+    "mal_id": 37999,
+    "anime_name": "Conspiracy Of Love",
+    "anime_url": "https://hianime.ad/anime/conspiracy-of-love",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:28:26",
+    "file": "data/conspiracy-of-love.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/conspiracy-of-love.json"
   }
 ]
