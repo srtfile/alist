@@ -12528,5 +12528,15 @@
     "captured_at": "2026-06-03T04:16:48",
     "file": "data/cardcaptor-sakura.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardcaptor-sakura.json"
+  },
+  {
+    "slug": "cardcaptor-sakura-clear-card",
+    "mal_id": 33354,
+    "anime_name": "Cardcaptor Sakura Clear Card",
+    "anime_url": "https://hianime.ad/anime/cardcaptor-sakura-clear-card",
+    "total_episodes": 22,
+    "captured_at": "2026-06-03T04:18:05",
+    "file": "data/cardcaptor-sakura-clear-card.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardcaptor-sakura-clear-card.json"
   }
 ]
