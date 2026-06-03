@@ -1,0 +1,40 @@
+{
+  "anime_name": "Hipira Kun Special",
+  "anime_url": "https://hianime.ad/anime/hipira-kun-special",
+  "slug": "hipira-kun-special",
+  "mal_id": 7723,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T21:13:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/hipira-kun-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "7723-malep-1_vibeplayer_sub": "https://vibeplayer.site/5a14020f205e5d46",
+          "7723-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a14020f205e5d46/master.m3u8"
+        },
+        "Earnvids": {
+          "7723-malep-1_otakuvid_sub": "https://otakuvid.online/embed/u5myi718z170",
+          "7723-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7723-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7b83e3c15545a633",
+          "7723-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7b83e3c15545a633/master.m3u8"
+        },
+        "Earnvids": {
+          "7723-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fwftua8k114f",
+          "7723-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7723-malep-1_playmogo_hsub": "https://playmogo.com/e/jbhmlha71fjt",
+          "7723-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
