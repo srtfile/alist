@@ -1728,5 +1728,15 @@
     "captured_at": "2026-06-03T18:05:42",
     "file": "data/girls-panzer-this-is-the-real-anzio-battle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer-this-is-the-real-anzio-battle.json"
+  },
+  {
+    "slug": "girls-band-cry",
+    "mal_id": 55102,
+    "anime_name": "Girls Band Cry",
+    "anime_url": "https://hianime.ad/anime/girls-band-cry",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:05:53",
+    "file": "data/girls-band-cry.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-band-cry.json"
   }
 ]
