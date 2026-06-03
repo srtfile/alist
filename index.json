@@ -16498,5 +16498,15 @@
     "captured_at": "2026-06-03T07:39:06",
     "file": "data/danchigai-juusan-goutou-sentou-ikitai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/danchigai-juusan-goutou-sentou-ikitai.json"
+  },
+  {
+    "slug": "dandelion",
+    "mal_id": 28387,
+    "anime_name": "Dandelion",
+    "anime_url": "https://hianime.ad/anime/dandelion",
+    "total_episodes": 7,
+    "captured_at": "2026-06-03T07:39:16",
+    "file": "data/dandelion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dandelion.json"
   }
 ]
