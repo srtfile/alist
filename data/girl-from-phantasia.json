@@ -1,0 +1,44 @@
+{
+  "anime_name": "Girl From Phantasia",
+  "anime_url": "https://hianime.ad/anime/girl-from-phantasia",
+  "slug": "girl-from-phantasia",
+  "mal_id": 52046,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:01:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Meeting of Fate",
+      "episode_url": "https://hianime.ad/watch/girl-from-phantasia/ep-1",
+      "sub": {
+        "HD-1": {
+          "52046-malep-1_vibeplayer_sub": "https://vibeplayer.site/ca5df68dc4f92f51",
+          "52046-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca5df68dc4f92f51/master.m3u8"
+        },
+        "StreamHG": {
+          "52046-malep-1_otakuhg_sub": "https://otakuhg.site/e/mgxsikb69ife",
+          "52046-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52046-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7dsc858cao82",
+          "52046-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52046-malep-1_vibeplayer_hsub": "https://vibeplayer.site/36776fd9f8f38e63",
+          "52046-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/36776fd9f8f38e63/master.m3u8"
+        },
+        "Earnvids": {
+          "52046-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hcp3g6ihe9g0",
+          "52046-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52046-malep-1_playmogo_hsub": "https://playmogo.com/e/56c2fp5lupjg",
+          "52046-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
