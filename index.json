@@ -21678,5 +21678,15 @@
     "captured_at": "2026-06-03T10:37:34",
     "file": "data/eternal-filena.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-filena.json"
+  },
+  {
+    "slug": "etotama",
+    "mal_id": 28221,
+    "anime_name": "Etotama",
+    "anime_url": "https://hianime.ad/anime/etotama",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:37:48",
+    "file": "data/etotama.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/etotama.json"
   }
 ]
