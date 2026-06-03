@@ -3458,5 +3458,15 @@
     "captured_at": "2026-06-03T19:11:36",
     "file": "data/gun-frontier.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gun-frontier.json"
+  },
+  {
+    "slug": "gun-girls",
+    "mal_id": 60637,
+    "anime_name": "Gun Girls",
+    "anime_url": "https://hianime.ad/anime/gun-girls",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:11:59",
+    "file": "data/gun-girls.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gun-girls.json"
   }
 ]
