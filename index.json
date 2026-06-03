@@ -4138,5 +4138,15 @@
     "captured_at": "2026-06-03T19:34:56",
     "file": "data/haikyuu-lev-genzan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikyuu-lev-genzan.json"
+  },
+  {
+    "slug": "haikyuu-riku-vs-kuu",
+    "mal_id": 20583,
+    "anime_name": "Haikyuu Riku Vs Kuu",
+    "anime_url": "https://hianime.ad/anime/haikyuu-riku-vs-kuu",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T19:35:08",
+    "file": "data/haikyuu-riku-vs-kuu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikyuu-riku-vs-kuu.json"
   }
 ]
