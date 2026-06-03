@@ -1,0 +1,56 @@
+{
+  "anime_name": "Burn The Witch 0 8",
+  "anime_url": "https://hianime.ad/anime/burn-the-witch-0-8",
+  "slug": "burn-the-witch-0-8",
+  "mal_id": 62503,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:07:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/burn-the-witch-0-8/ep-1",
+      "sub": {
+        "HD-1": {
+          "62503-malep-1_vibeplayer_sub": "https://vibeplayer.site/f6a71ce80ab5a328",
+          "62503-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6a71ce80ab5a328/master.m3u8"
+        },
+        "HD-2": {
+          "62503-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6634f899982decbe00fc9578b6c11ef34h",
+          "62503-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "62503-malep-1_otakuhg_sub": "https://otakuhg.site/e/cjes5va431kl",
+          "62503-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "62503-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uk5tih56u2fl",
+          "62503-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62503-malep-1_vibeplayer_hsub": "https://vibeplayer.site/94337047ed0ae488",
+          "62503-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94337047ed0ae488/master.m3u8"
+        },
+        "HD-2": {
+          "62503-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb83e11d0e2cc4372e7b12ba96a09d9fb4h",
+          "62503-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "62503-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ymsg88djzx4r",
+          "62503-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "62503-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k8q8yjb6qrio",
+          "62503-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62503-malep-1_playmogo_hsub": "https://playmogo.com/e/kq70ydb24yq5",
+          "62503-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
