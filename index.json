@@ -6608,5 +6608,15 @@
     "captured_at": "2026-06-03T21:02:50",
     "file": "data/hikari-no-densetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikari-no-densetsu.json"
+  },
+  {
+    "slug": "hikari-to-mizu-no-daphne-specials",
+    "mal_id": 1082,
+    "anime_name": "Hikari To Mizu No Daphne Specials",
+    "anime_url": "https://hianime.ad/anime/hikari-to-mizu-no-daphne-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T21:03:18",
+    "file": "data/hikari-to-mizu-no-daphne-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikari-to-mizu-no-daphne-specials.json"
   }
 ]
