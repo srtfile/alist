@@ -18268,5 +18268,15 @@
     "captured_at": "2026-06-03T08:29:46",
     "file": "data/digimon-frontier.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-frontier.json"
+  },
+  {
+    "slug": "digimon-frontier-island-of-lost-digimon",
+    "mal_id": 1132,
+    "anime_name": "Digimon Frontier Island Of Lost Digimon",
+    "anime_url": "https://hianime.ad/anime/digimon-frontier-island-of-lost-digimon",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:30:38",
+    "file": "data/digimon-frontier-island-of-lost-digimon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-frontier-island-of-lost-digimon.json"
   }
 ]
