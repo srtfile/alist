@@ -16648,5 +16648,15 @@
     "captured_at": "2026-06-03T07:43:32",
     "file": "data/darling-in-the-franxx.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darling-in-the-franxx.json"
+  },
+  {
+    "slug": "darwins-game",
+    "mal_id": 38656,
+    "anime_name": "Darwins Game",
+    "anime_url": "https://hianime.ad/anime/darwins-game",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T07:44:02",
+    "file": "data/darwins-game.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darwins-game.json"
   }
 ]
