@@ -23398,5 +23398,15 @@
     "captured_at": "2026-06-03T12:28:42",
     "file": "data/fire-tripper.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-tripper.json"
+  },
+  {
+    "slug": "fireball",
+    "mal_id": 4362,
+    "anime_name": "Fireball",
+    "anime_url": "https://hianime.ad/anime/fireball",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:28:53",
+    "file": "data/fireball.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fireball.json"
   }
 ]
