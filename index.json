@@ -15008,5 +15008,15 @@
     "captured_at": "2026-06-03T06:24:34",
     "file": "data/comic-party.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-party.json"
+  },
+  {
+    "slug": "comic-party-revolution",
+    "mal_id": 706,
+    "anime_name": "Comic Party Revolution",
+    "anime_url": "https://hianime.ad/anime/comic-party-revolution",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T06:24:57",
+    "file": "data/comic-party-revolution.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-party-revolution.json"
   }
 ]
