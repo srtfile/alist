@@ -17908,5 +17908,15 @@
     "captured_at": "2026-06-03T08:18:56",
     "file": "data/devilman-crybaby-digest-eizou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devilman-crybaby-digest-eizou.json"
+  },
+  {
+    "slug": "devilman-the-birth",
+    "mal_id": 589,
+    "anime_name": "Devilman The Birth",
+    "anime_url": "https://hianime.ad/anime/devilman-the-birth",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:19:06",
+    "file": "data/devilman-the-birth.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devilman-the-birth.json"
   }
 ]
