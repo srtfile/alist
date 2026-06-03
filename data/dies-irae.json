@@ -1,0 +1,593 @@
+{
+  "anime_name": "Dies Irae",
+  "anime_url": "https://hianime.ad/anime/dies-irae",
+  "slug": "dies-irae",
+  "mal_id": 32271,
+  "total_episodes": 11,
+  "captured_at": "2026-06-03T08:24:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Twilight Girl",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-1",
+      "sub": {
+        "HD-1": {
+          "32271-malep-1_vibeplayer_sub": "https://vibeplayer.site/8469c5337752d455",
+          "32271-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8469c5337752d455/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag617b35ee5a53c3e5e84b8864f1dbd99e4h",
+          "32271-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6yj0iz8zel2w",
+          "32271-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-1_vibeplayer_dub": "https://vibeplayer.site/046bf93ba8ed4fad",
+          "32271-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/046bf93ba8ed4fad/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga4b484e4c1d2879b2294a3c2372587994h",
+          "32271-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bj0sip469bif",
+          "32271-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6d9c3b92a0a83dbc",
+          "32271-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6d9c3b92a0a83dbc/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7e6c27bf2fe983dda48775ab3d7b5b384h",
+          "32271-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7udurutssh8g",
+          "32271-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e3sku1juu1za",
+          "32271-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-1_playmogo_hsub": "https://playmogo.com/e/ldescs8uxrlr",
+          "32271-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Claws and Fangs of a Beast",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-2",
+      "sub": {
+        "HD-1": {
+          "32271-malep-2_vibeplayer_sub": "https://vibeplayer.site/dce924fc099c9973",
+          "32271-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dce924fc099c9973/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag041956061c3855715b88945eadde7a4d4h",
+          "32271-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-2_otakuvid_sub": "https://otakuvid.online/embed/holbfny46pp5",
+          "32271-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-2_vibeplayer_dub": "https://vibeplayer.site/cdc9d946fc6a83a9",
+          "32271-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cdc9d946fc6a83a9/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-2_vibeplayer_dub": "https://vibeplayer.site/agcb78bc85d47b55cf17d80cde82ded3dd4h",
+          "32271-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-2_otakuvid_dub": "https://otakuvid.online/embed/vyt42iqddknr",
+          "32271-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-2_vibeplayer_hsub": "https://vibeplayer.site/581e06bf381c82f7",
+          "32271-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/581e06bf381c82f7/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agf22b4c34bea1c8d8d81f31e9151c855d4h",
+          "32271-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-2_otakuhg_hsub": "https://otakuhg.site/e/wqdvro65ocoe",
+          "32271-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/scft2so0tqlo",
+          "32271-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-2_playmogo_hsub": "https://playmogo.com/e/1gfhnn3gndhc",
+          "32271-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The End of the Nightmare Is a Beginning",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-3",
+      "sub": {
+        "HD-1": {
+          "32271-malep-3_vibeplayer_sub": "https://vibeplayer.site/b3549a499bc9558b",
+          "32271-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3549a499bc9558b/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-3_vibeplayer_sub": "https://vibeplayer.site/agf45b00fd1d89cb4553df319a556a48944h",
+          "32271-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-3_otakuvid_sub": "https://otakuvid.online/embed/gf58gn5j6y3l",
+          "32271-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-3_vibeplayer_dub": "https://vibeplayer.site/75c50235913d09f8",
+          "32271-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/75c50235913d09f8/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag7022dd5e71082df3223c880d15b054334h",
+          "32271-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-3_otakuvid_dub": "https://otakuvid.online/embed/pnaujvzxiji5",
+          "32271-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-3_vibeplayer_hsub": "https://vibeplayer.site/9a3c05573f55c8d1",
+          "32271-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9a3c05573f55c8d1/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agf376e213d3a7c760323b93ea6285c49a4h",
+          "32271-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-3_otakuhg_hsub": "https://otakuhg.site/e/x2vg2xz02ubs",
+          "32271-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/42kt8mb2pina",
+          "32271-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-3_playmogo_hsub": "https://playmogo.com/e/e1vy6wxzc0em",
+          "32271-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Spider",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-4",
+      "sub": {
+        "HD-1": {
+          "32271-malep-4_vibeplayer_sub": "https://vibeplayer.site/224a31615fa0be8b",
+          "32271-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/224a31615fa0be8b/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-4_vibeplayer_sub": "https://vibeplayer.site/agd5e67ab8dbb1c503cbd80e22d02983874h",
+          "32271-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-4_otakuvid_sub": "https://otakuvid.online/embed/zcztrk8mxs58",
+          "32271-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-4_vibeplayer_dub": "https://vibeplayer.site/aa6ee57f0e698661",
+          "32271-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aa6ee57f0e698661/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag35727d8287f3b3394c6e1d371597c1d04h",
+          "32271-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-4_otakuvid_dub": "https://otakuvid.online/embed/qxlqoef5xxuo",
+          "32271-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-4_vibeplayer_hsub": "https://vibeplayer.site/8aa6fa97ba6554a8",
+          "32271-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8aa6fa97ba6554a8/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-4_vibeplayer_hsub": "https://vibeplayer.site/agc5884372960a64633dfc044abc36c8314h",
+          "32271-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-4_otakuhg_hsub": "https://otakuhg.site/e/st42lfx1ggr5",
+          "32271-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/j0tciir1g4vo",
+          "32271-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-4_playmogo_hsub": "https://playmogo.com/e/rrcpy3qalxre",
+          "32271-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-5",
+      "sub": {
+        "HD-1": {
+          "32271-malep-5_vibeplayer_sub": "https://vibeplayer.site/9f91efdf982f2ee4",
+          "32271-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9f91efdf982f2ee4/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag8236c1371fda902189813f6e4827cb3e4h",
+          "32271-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-5_otakuvid_sub": "https://otakuvid.online/embed/wr683eiqwil3",
+          "32271-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-5_vibeplayer_dub": "https://vibeplayer.site/373cc2219c4fc74a",
+          "32271-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/373cc2219c4fc74a/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag622334eeb2ea39a5d6db78edc0c27ec94h",
+          "32271-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-5_otakuvid_dub": "https://otakuvid.online/embed/usp49sfsju1g",
+          "32271-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-5_vibeplayer_hsub": "https://vibeplayer.site/16b60979750b20fe",
+          "32271-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/16b60979750b20fe/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag82364b795c5ef28cb5efa87cecd4380b4h",
+          "32271-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-5_otakuhg_hsub": "https://otakuhg.site/e/0i1d5cm1ivyk",
+          "32271-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/q9ihm15dujib",
+          "32271-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-5_playmogo_hsub": "https://playmogo.com/e/mnr0j1175pek",
+          "32271-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Golden Beast",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-6",
+      "sub": {
+        "HD-1": {
+          "32271-malep-6_vibeplayer_sub": "https://vibeplayer.site/92da1dd6de2fbbd1",
+          "32271-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/92da1dd6de2fbbd1/master.m3u8"
+        },
+        "Earnvids": {
+          "32271-malep-6_otakuvid_sub": "https://otakuvid.online/embed/eofhs5sl3gjx",
+          "32271-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-6_vibeplayer_dub": "https://vibeplayer.site/2e1d754c302768fc",
+          "32271-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2e1d754c302768fc/master.m3u8"
+        },
+        "Earnvids": {
+          "32271-malep-6_otakuvid_dub": "https://otakuvid.online/embed/mm9pta2f0df7",
+          "32271-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-6_vibeplayer_hsub": "https://vibeplayer.site/f1b1a2cbb8fbb875",
+          "32271-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f1b1a2cbb8fbb875/master.m3u8"
+        },
+        "Earnvids": {
+          "32271-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/rh02mei2kehn",
+          "32271-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-6_playmogo_hsub": "https://playmogo.com/e/hjomp3kapjix",
+          "32271-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Swastika",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-7",
+      "sub": {
+        "HD-1": {
+          "32271-malep-7_vibeplayer_sub": "https://vibeplayer.site/4d8d3a20c328fe24",
+          "32271-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d8d3a20c328fe24/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag176850ecf0bb1f17bc9db0e8ac483bb14h",
+          "32271-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-7_otakuhg_sub": "https://otakuhg.site/e/eci06dwzbzol",
+          "32271-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-7_otakuvid_sub": "https://otakuvid.online/embed/wq70osu3qmw0",
+          "32271-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-7_vibeplayer_dub": "https://vibeplayer.site/790a236412e30922",
+          "32271-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/790a236412e30922/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag6841327fe6e14aa3fe253cb83bae09e14h",
+          "32271-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-7_otakuvid_dub": "https://otakuvid.online/embed/c92jrg47v3xa",
+          "32271-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-7_vibeplayer_hsub": "https://vibeplayer.site/01c85b8a62c1dad5",
+          "32271-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/01c85b8a62c1dad5/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag5b94db9f678c4ef45f922c93711823364h",
+          "32271-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/v8420ddc4vm8",
+          "32271-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-7_playmogo_hsub": "https://playmogo.com/e/lzb4o0te1ovh",
+          "32271-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Promise",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-8",
+      "sub": {
+        "HD-1": {
+          "32271-malep-8_vibeplayer_sub": "https://vibeplayer.site/4fd8e426e6e8ee2e",
+          "32271-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4fd8e426e6e8ee2e/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag5a70fbae7471511afca03f35e7e372994h",
+          "32271-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-8_otakuvid_sub": "https://otakuvid.online/embed/tucn0ofsnbzs",
+          "32271-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-8_vibeplayer_dub": "https://vibeplayer.site/1222d39d6098a99c",
+          "32271-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1222d39d6098a99c/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-8_vibeplayer_dub": "https://vibeplayer.site/agc387dd2d5d9fdb0909bc95437fe068b54h",
+          "32271-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-8_otakuvid_dub": "https://otakuvid.online/embed/4p3hc02msq2j",
+          "32271-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-8_vibeplayer_hsub": "https://vibeplayer.site/72fcb57b0448b1c3",
+          "32271-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/72fcb57b0448b1c3/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-8_vibeplayer_hsub": "https://vibeplayer.site/aga5873fbca55c2a7b7b4cec0d9f5e30424h",
+          "32271-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-8_otakuhg_hsub": "https://otakuhg.site/e/olyl14qfdesl",
+          "32271-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/lvx85mo7ltd5",
+          "32271-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-8_playmogo_hsub": "https://playmogo.com/e/tbapt9qfwrdi",
+          "32271-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Mother's Sins",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-9",
+      "sub": {
+        "HD-1": {
+          "32271-malep-9_vibeplayer_sub": "https://vibeplayer.site/88ceb46ef99fd8ca",
+          "32271-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88ceb46ef99fd8ca/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag564a7285cbf3eef1420dfae49d277e434h",
+          "32271-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-9_otakuvid_sub": "https://otakuvid.online/embed/8sfp2ezsn3t8",
+          "32271-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-9_vibeplayer_dub": "https://vibeplayer.site/a0c2643fe438c3b3",
+          "32271-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0c2643fe438c3b3/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-9_vibeplayer_dub": "https://vibeplayer.site/aged40fc9d23d0042cf78cf10e95f99f0f4h",
+          "32271-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-9_otakuvid_dub": "https://otakuvid.online/embed/7oqxa0vugx4k",
+          "32271-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-9_vibeplayer_hsub": "https://vibeplayer.site/44c221fd7ad37d6e",
+          "32271-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/44c221fd7ad37d6e/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag4362ed85906545b466032cf024da24ef4h",
+          "32271-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-9_otakuhg_hsub": "https://otakuhg.site/e/z3iu23014pyc",
+          "32271-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/3tqnf6gqumzv",
+          "32271-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-9_playmogo_hsub": "https://playmogo.com/e/xl39a8jqfxjy",
+          "32271-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Einherjar",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-10",
+      "sub": {
+        "HD-1": {
+          "32271-malep-10_vibeplayer_sub": "https://vibeplayer.site/bf36d63962ff7103",
+          "32271-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf36d63962ff7103/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag5ef4579aad705e66fd382c9ab7d9dd914h",
+          "32271-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-10_otakuvid_sub": "https://otakuvid.online/embed/jp4x901ztosu",
+          "32271-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-10_vibeplayer_dub": "https://vibeplayer.site/f82bdf81d3c288d6",
+          "32271-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f82bdf81d3c288d6/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag1dcfb36ebcbfd6886f0acc88e162d3c44h",
+          "32271-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-10_otakuvid_dub": "https://otakuvid.online/embed/u2r6orake1n5",
+          "32271-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-10_vibeplayer_hsub": "https://vibeplayer.site/243a3271fae431ab",
+          "32271-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/243a3271fae431ab/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag978761bd7ab145bfc5c3acc38530cf4f4h",
+          "32271-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-10_otakuhg_hsub": "https://otakuhg.site/e/adpsuv5cwgog",
+          "32271-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/jovcamx34l11",
+          "32271-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-10_playmogo_hsub": "https://playmogo.com/e/p9uky1pd2vwe",
+          "32271-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Self-Destruction Factor",
+      "episode_url": "https://hianime.ad/watch/dies-irae/ep-11",
+      "sub": {
+        "HD-1": {
+          "32271-malep-11_vibeplayer_sub": "https://vibeplayer.site/c6cae7fd605acc37",
+          "32271-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c6cae7fd605acc37/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag6e50e71b16db57586da654b361be21954h",
+          "32271-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-11_otakuhg_sub": "https://otakuhg.site/e/zo2iocsppig5",
+          "32271-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-11_otakuvid_sub": "https://otakuvid.online/embed/xeg03zhl675j",
+          "32271-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32271-malep-11_vibeplayer_dub": "https://vibeplayer.site/a6fe3ea077a0d93b",
+          "32271-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a6fe3ea077a0d93b/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag6c5b1bb38eb9b3f2dfe3f05d838f27d04h",
+          "32271-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-11_otakuvid_dub": "https://otakuvid.online/embed/0cmbxsb1oyn8",
+          "32271-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32271-malep-11_vibeplayer_hsub": "https://vibeplayer.site/575fbc4b84d80795",
+          "32271-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/575fbc4b84d80795/master.m3u8"
+        },
+        "HD-2": {
+          "32271-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag6a6a6ab38885ff70385a912fc8e72dee4h",
+          "32271-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32271-malep-11_otakuhg_hsub": "https://otakuhg.site/e/1ib891wezycw",
+          "32271-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32271-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/2o3g5tzj7ayf",
+          "32271-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32271-malep-11_playmogo_hsub": "https://playmogo.com/e/7ua4iwp2aypx",
+          "32271-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
