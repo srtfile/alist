@@ -1458,5 +1458,15 @@
     "captured_at": "2026-06-03T17:57:59",
     "file": "data/gintama-the-movie-1-crimson-sakura-chapter.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-the-movie-1-crimson-sakura-chapter.json"
+  },
+  {
+    "slug": "gintama-the-semi-final",
+    "mal_id": 9969,
+    "anime_name": "Gintama The Semi Final",
+    "anime_url": "https://hianime.ad/anime/gintama-the-semi-final",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T17:58:11",
+    "file": "data/gintama-the-semi-final.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-the-semi-final.json"
   }
 ]
