@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fureru",
+  "anime_url": "https://hianime.ad/anime/fureru",
+  "slug": "fureru",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:17:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fureru/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e6d26d51bf9b0704",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6d26d51bf9b0704/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1d3992dfcd42425ae9e71d9dbb0c36d44h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1y0pen45ibaq",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/b62aff6230fa71f4",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b62aff6230fa71f4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag988799561ec61db2d667e24319a4cffe4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/9tj216elfw0r",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6a86drrzo2p2",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/uvigjzz0mhxu",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
