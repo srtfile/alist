@@ -3608,5 +3608,15 @@
     "captured_at": "2026-06-03T19:17:35",
     "file": "data/gundam-build-fighters-try-island-wars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-try-island-wars.json"
+  },
+  {
+    "slug": "gundam-build-fighters-battlogue",
+    "mal_id": 19319,
+    "anime_name": "Gundam Build Fighters Battlogue",
+    "anime_url": "https://hianime.ad/anime/gundam-build-fighters-battlogue",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T19:17:47",
+    "file": "data/gundam-build-fighters-battlogue.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-battlogue.json"
   }
 ]
