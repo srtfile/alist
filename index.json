@@ -19408,5 +19408,15 @@
     "captured_at": "2026-06-03T09:08:18",
     "file": "data/dorei-ku-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dorei-ku-the-animation.json"
+  },
+  {
+    "slug": "dorohedoro",
+    "mal_id": 38668,
+    "anime_name": "Dorohedoro",
+    "anime_url": "https://hianime.ad/anime/dorohedoro",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:08:38",
+    "file": "data/dorohedoro.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dorohedoro.json"
   }
 ]
