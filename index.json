@@ -16328,5 +16328,15 @@
     "captured_at": "2026-06-03T07:33:50",
     "file": "data/daimidaler-prince-vs-penguin-empire.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daimidaler-prince-vs-penguin-empire.json"
+  },
+  {
+    "slug": "daimos",
+    "mal_id": 2816,
+    "anime_name": "Daimos",
+    "anime_url": "https://hianime.ad/anime/daimos",
+    "total_episodes": 44,
+    "captured_at": "2026-06-03T07:34:09",
+    "file": "data/daimos.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daimos.json"
   }
 ]
