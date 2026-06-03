@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ebiten Kouritsu Ebisugawa Koukou Tenmonbu Ova",
+  "anime_url": "https://hianime.ad/anime/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova",
+  "slug": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova",
+  "mal_id": 206,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:11:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Free Knight... A New Legend Begins",
+      "episode_url": "https://hianime.ad/watch/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "206-malep-1_vibeplayer_sub": "https://vibeplayer.site/9c29891412e64fc2",
+          "206-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c29891412e64fc2/master.m3u8"
+        },
+        "HD-2": {
+          "206-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5fca711b094ff5b36d817669645b2d6e4h",
+          "206-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "206-malep-1_otakuvid_sub": "https://otakuvid.online/embed/41o1cxwi079f",
+          "206-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "206-malep-1_playmogo_sub": "https://playmogo.com/e/j48bmsxxcvn5",
+          "206-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "206-malep-1_vibeplayer_hsub": "https://vibeplayer.site/27bb9e1fb91cb072",
+          "206-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/27bb9e1fb91cb072/master.m3u8"
+        },
+        "HD-2": {
+          "206-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag32393e0b827b74f4f4e169eda489c9c14h",
+          "206-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "206-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/89xhyv7890xo",
+          "206-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "206-malep-1_playmogo_hsub": "https://playmogo.com/e/r1kulor27yie",
+          "206-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
