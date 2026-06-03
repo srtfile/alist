@@ -12608,5 +12608,15 @@
     "captured_at": "2026-06-03T04:23:14",
     "file": "data/cardfight-vanguard-g-stride-gate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g-stride-gate.json"
+  },
+  {
+    "slug": "cardfight-vanguard-g-z",
+    "mal_id": 36022,
+    "anime_name": "Cardfight Vanguard G Z",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-g-z",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T04:23:47",
+    "file": "data/cardfight-vanguard-g-z.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g-z.json"
   }
 ]
