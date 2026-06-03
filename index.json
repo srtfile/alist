@@ -17198,5 +17198,15 @@
     "captured_at": "2026-06-03T08:00:48",
     "file": "data/demon-lord-2099.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-lord-2099.json"
+  },
+  {
+    "slug": "demon-lord-dante",
+    "mal_id": 1628,
+    "anime_name": "Demon Lord Dante",
+    "anime_url": "https://hianime.ad/anime/demon-lord-dante",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T08:01:07",
+    "file": "data/demon-lord-dante.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-lord-dante.json"
   }
 ]
