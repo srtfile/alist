@@ -22828,5 +22828,15 @@
     "captured_at": "2026-06-03T11:18:49",
     "file": "data/fatestay-night.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestay-night.json"
+  },
+  {
+    "slug": "fatestay-night-tv-reproduction",
+    "mal_id": 356,
+    "anime_name": "Fatestay Night Tv Reproduction",
+    "anime_url": "https://hianime.ad/anime/fatestay-night-tv-reproduction",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T11:19:18",
+    "file": "data/fatestay-night-tv-reproduction.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestay-night-tv-reproduction.json"
   }
 ]
