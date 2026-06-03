@@ -1,0 +1,32 @@
+{
+  "anime_name": "Ground Control To Psychoelectric Girl Special",
+  "anime_url": "https://hianime.ad/anime/ground-control-to-psychoelectric-girl-special",
+  "slug": "ground-control-to-psychoelectric-girl-special",
+  "mal_id": 9379,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:06:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "City of Aliens",
+      "episode_url": "https://hianime.ad/watch/ground-control-to-psychoelectric-girl-special/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "9379-malep-1_vibeplayer_raw": "https://vibeplayer.site/2246455b88db41cb",
+          "9379-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2246455b88db41cb/master.m3u8"
+        },
+        "StreamHG": {
+          "9379-malep-1_otakuhg_raw": "https://otakuhg.site/e/wzrptfowni6r",
+          "9379-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "9379-malep-1_otakuvid_raw": "https://otakuvid.online/embed/pmu97aslus7x",
+          "9379-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
