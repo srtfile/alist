@@ -1,0 +1,48 @@
+{
+  "anime_name": "Chouetsu Sekai",
+  "anime_url": "https://hianime.ad/anime/chouetsu-sekai",
+  "slug": "chouetsu-sekai",
+  "mal_id": 10080,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:45:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Flower in Bloom",
+      "episode_url": "https://hianime.ad/watch/chouetsu-sekai/ep-1",
+      "sub": {
+        "HD-1": {
+          "10080-malep-1_vibeplayer_sub": "https://vibeplayer.site/15f4a3f324202b4d",
+          "10080-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/15f4a3f324202b4d/master.m3u8"
+        },
+        "HD-2": {
+          "10080-malep-1_vibeplayer_sub": "https://vibeplayer.site/agec9e49491a681aab76f770cced1b35054h",
+          "10080-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10080-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0var6yolahdv",
+          "10080-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10080-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3a84af12adf59461",
+          "10080-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a84af12adf59461/master.m3u8"
+        },
+        "HD-2": {
+          "10080-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdea24491cf10db6bb97aca5cdd8357214h",
+          "10080-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10080-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mm9x54gwam2t",
+          "10080-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10080-malep-1_playmogo_hsub": "https://playmogo.com/e/0bj2hgvo5izv",
+          "10080-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
