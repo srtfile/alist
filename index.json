@@ -10918,5 +10918,15 @@
     "captured_at": "2026-06-03T02:27:54",
     "file": "data/bocchi-the-rock-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bocchi-the-rock-movie.json"
+  },
+  {
+    "slug": "bodacious-space-pirates",
+    "mal_id": 8917,
+    "anime_name": "Bodacious Space Pirates",
+    "anime_url": "https://hianime.ad/anime/bodacious-space-pirates",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T02:28:06",
+    "file": "data/bodacious-space-pirates.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bodacious-space-pirates.json"
   }
 ]
