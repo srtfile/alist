@@ -11128,5 +11128,15 @@
     "captured_at": "2026-06-03T02:35:42",
     "file": "data/bono-bono.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bono-bono.json"
+  },
+  {
+    "slug": "bonobono",
+    "mal_id": 4286,
+    "anime_name": "Bonobono",
+    "anime_url": "https://hianime.ad/anime/bonobono",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T02:38:15",
+    "file": "data/bonobono.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bonobono.json"
   }
 ]
