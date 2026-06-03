@@ -18818,5 +18818,15 @@
     "captured_at": "2026-06-03T08:50:52",
     "file": "data/dog-days-limone-resort-tenbou-onsen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dog-days-limone-resort-tenbou-onsen.json"
+  },
+  {
+    "slug": "dog-signal",
+    "mal_id": 54294,
+    "anime_name": "Dog Signal",
+    "anime_url": "https://hianime.ad/anime/dog-signal",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T08:51:02",
+    "file": "data/dog-signal.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dog-signal.json"
   }
 ]
