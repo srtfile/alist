@@ -14388,5 +14388,15 @@
     "captured_at": "2026-06-03T06:03:26",
     "file": "data/clamp-school-detectives.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clamp-school-detectives.json"
+  },
+  {
+    "slug": "clannad",
+    "mal_id": 2167,
+    "anime_name": "Clannad",
+    "anime_url": "https://hianime.ad/anime/clannad",
+    "total_episodes": 23,
+    "captured_at": "2026-06-03T06:04:02",
+    "file": "data/clannad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clannad.json"
   }
 ]
