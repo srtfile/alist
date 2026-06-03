@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fortune Favors Lady Nikuko",
+  "anime_url": "https://hianime.ad/anime/fortune-favors-lady-nikuko",
+  "slug": "fortune-favors-lady-nikuko",
+  "mal_id": 8536,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:52:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Migratory Bird",
+      "episode_url": "https://hianime.ad/watch/fortune-favors-lady-nikuko/ep-1",
+      "sub": {
+        "HD-1": {
+          "8536-malep-1_vibeplayer_sub": "https://vibeplayer.site/26cc707f2c369e9d",
+          "8536-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26cc707f2c369e9d/master.m3u8"
+        },
+        "HD-2": {
+          "8536-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag596c8efbeb28e9baa62d4a299cfd1eee4h",
+          "8536-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8536-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a5lii3pjfsus",
+          "8536-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8536-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a9e7d046c1752517",
+          "8536-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a9e7d046c1752517/master.m3u8"
+        },
+        "HD-2": {
+          "8536-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag68b237cb07738cbddb6116bfaf6952144h",
+          "8536-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8536-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j0k1avglvrqd",
+          "8536-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8536-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hugrmfhj1015",
+          "8536-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8536-malep-1_playmogo_hsub": "https://playmogo.com/e/uesbxeysxgvg",
+          "8536-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
