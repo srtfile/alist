@@ -17378,5 +17378,15 @@
     "captured_at": "2026-06-03T08:05:26",
     "file": "data/demons-ascension.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demons-ascension.json"
+  },
+  {
+    "slug": "den-noh-coil",
+    "mal_id": 2164,
+    "anime_name": "Den Noh Coil",
+    "anime_url": "https://hianime.ad/anime/den-noh-coil",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T08:05:49",
+    "file": "data/den-noh-coil.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/den-noh-coil.json"
   }
 ]
