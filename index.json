@@ -15718,5 +15718,15 @@
     "captured_at": "2026-06-03T06:45:52",
     "file": "data/crest-of-the-stars-birth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crest-of-the-stars-birth.json"
+  },
+  {
+    "slug": "crimson",
+    "mal_id": 3358,
+    "anime_name": "Crimson",
+    "anime_url": "https://hianime.ad/anime/crimson",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:46:05",
+    "file": "data/crimson.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crimson.json"
   }
 ]
