@@ -10368,5 +10368,15 @@
     "captured_at": "2026-06-03T00:47:56",
     "file": "data/blood-reign-curse-of-the-yoma.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-reign-curse-of-the-yoma.json"
+  },
+  {
+    "slug": "blood-c",
+    "mal_id": 10490,
+    "anime_name": "Blood C",
+    "anime_url": "https://hianime.ad/anime/blood-c",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:48:07",
+    "file": "data/blood-c.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blood-c.json"
   }
 ]
