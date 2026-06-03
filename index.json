@@ -13558,5 +13558,15 @@
     "captured_at": "2026-06-03T05:24:50",
     "file": "data/chis-new-address.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chis-new-address.json"
+  },
+  {
+    "slug": "chis-sweet-adventure",
+    "mal_id": 33240,
+    "anime_name": "Chis Sweet Adventure",
+    "anime_url": "https://hianime.ad/anime/chis-sweet-adventure",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T05:26:39",
+    "file": "data/chis-sweet-adventure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chis-sweet-adventure.json"
   }
 ]
