@@ -11318,5 +11318,15 @@
     "captured_at": "2026-06-03T02:49:03",
     "file": "data/box-of-goblins-the-case-of-the-spirits-in-the-boxes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/box-of-goblins-the-case-of-the-spirits-in-the-boxes.json"
+  },
+  {
+    "slug": "boys-be",
+    "mal_id": 105,
+    "anime_name": "Boys Be",
+    "anime_url": "https://hianime.ad/anime/boys-be",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T02:49:15",
+    "file": "data/boys-be.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boys-be.json"
   }
 ]
