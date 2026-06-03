@@ -14448,5 +14448,15 @@
     "captured_at": "2026-06-03T06:05:46",
     "file": "data/class-president-is-a-maid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/class-president-is-a-maid.json"
+  },
+  {
+    "slug": "classic-stars",
+    "mal_id": 59199,
+    "anime_name": "Classic Stars",
+    "anime_url": "https://hianime.ad/anime/classic-stars",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T06:06:21",
+    "file": "data/classic-stars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classic-stars.json"
   }
 ]
