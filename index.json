@@ -9228,5 +9228,15 @@
     "captured_at": "2026-06-03T00:02:43",
     "file": "data/beyblade.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade.json"
+  },
+  {
+    "slug": "beyblade-burst",
+    "mal_id": 31049,
+    "anime_name": "Beyblade Burst",
+    "anime_url": "https://hianime.ad/anime/beyblade-burst",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:03:38",
+    "file": "data/beyblade-burst.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst.json"
   }
 ]
