@@ -23148,5 +23148,15 @@
     "captured_at": "2026-06-03T12:14:43",
     "file": "data/fight-iczer-1.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-iczer-1.json"
+  },
+  {
+    "slug": "fight-ramenman",
+    "mal_id": 4427,
+    "anime_name": "Fight Ramenman",
+    "anime_url": "https://hianime.ad/anime/fight-ramenman",
+    "total_episodes": 35,
+    "captured_at": "2026-06-03T12:14:58",
+    "file": "data/fight-ramenman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-ramenman.json"
   }
 ]
