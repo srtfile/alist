@@ -1,0 +1,93 @@
+{
+  "anime_name": "Collar X Malice Movie Deep Cover",
+  "anime_url": "https://hianime.ad/anime/collar-x-malice-movie-deep-cover",
+  "slug": "collar-x-malice-movie-deep-cover",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T06:21:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/collar-x-malice-movie-deep-cover/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c012d1fddba250a2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c012d1fddba250a2/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agd8ada13484a24ac8540b8a167297bd1e4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/f7e4owxzlhil",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/yx5fok9lbxc6",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e2ffb2fa940c1538",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e2ffb2fa940c1538/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag57bba4d83f75c2aec45d2364e75eeef54h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/jjws64yj5lvz",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a5i0l382bmgr",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/7b95est8p7s7",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/collar-x-malice-movie-deep-cover/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/6bea45136aa49e3c",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6bea45136aa49e3c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/ag281e673d0e4af03ecef704b42406fe094h",
+          "malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/491ik02o7myi",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/14763aacf9b23bd4",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/14763aacf9b23bd4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag1c0d11ecfa9a03f464fb0c3cab50a6194h",
+          "malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/7adygfw9ufm8",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/xsp74gnyj570",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
