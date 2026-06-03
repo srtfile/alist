@@ -25458,5 +25458,15 @@
     "captured_at": "2026-06-03T13:45:25",
     "file": "data/galaxy-fraulein-yuna.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-fraulein-yuna.json"
+  },
+  {
+    "slug": "galaxy-fraulein-yuna-returns",
+    "mal_id": 653,
+    "anime_name": "Galaxy Fraulein Yuna Returns",
+    "anime_url": "https://hianime.ad/anime/galaxy-fraulein-yuna-returns",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T13:45:37",
+    "file": "data/galaxy-fraulein-yuna-returns.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-fraulein-yuna-returns.json"
   }
 ]
