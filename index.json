@@ -17158,5 +17158,15 @@
     "captured_at": "2026-06-03T07:59:47",
     "file": "data/delusional-monthly-magazine.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delusional-monthly-magazine.json"
+  },
+  {
+    "slug": "demon-city-shinjuku",
+    "mal_id": 38000,
+    "anime_name": "Demon City Shinjuku",
+    "anime_url": "https://hianime.ad/anime/demon-city-shinjuku",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:00:07",
+    "file": "data/demon-city-shinjuku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-city-shinjuku.json"
   }
 ]
