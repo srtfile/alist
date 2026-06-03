@@ -1,0 +1,40 @@
+{
+  "anime_name": "Gijinka De Manabo",
+  "anime_url": "https://hianime.ad/anime/gijinka-de-manabo",
+  "slug": "gijinka-de-manabo",
+  "mal_id": 36196,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:42:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/gijinka-de-manabo/ep-1",
+      "sub": {
+        "HD-1": {
+          "36196-malep-1_vibeplayer_sub": "https://vibeplayer.site/13139564a943ba1b",
+          "36196-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13139564a943ba1b/master.m3u8"
+        },
+        "Earnvids": {
+          "36196-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p1ixndr912be",
+          "36196-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36196-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8a4082f7d5fb52bc",
+          "36196-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a4082f7d5fb52bc/master.m3u8"
+        },
+        "Earnvids": {
+          "36196-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d6rvavki37je",
+          "36196-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36196-malep-1_playmogo_hsub": "https://playmogo.com/e/c3jm7iwxixel",
+          "36196-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
