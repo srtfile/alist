@@ -23348,5 +23348,15 @@
     "captured_at": "2026-06-03T12:24:00",
     "file": "data/fire-emblem-heroes-chibi-playhouse.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-emblem-heroes-chibi-playhouse.json"
+  },
+  {
+    "slug": "fire-force",
+    "mal_id": 38671,
+    "anime_name": "Fire Force",
+    "anime_url": "https://hianime.ad/anime/fire-force",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T12:26:57",
+    "file": "data/fire-force.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-force.json"
   }
 ]
