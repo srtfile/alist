@@ -22668,5 +22668,15 @@
     "captured_at": "2026-06-03T11:15:12",
     "file": "data/fategrand-order-zettai-majuu-sensen-babylonia-initium-iter.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fategrand-order-zettai-majuu-sensen-babylonia-initium-iter.json"
+  },
+  {
+    "slug": "fatekaleid-liner-prisma-illya",
+    "mal_id": 14829,
+    "anime_name": "Fatekaleid Liner Prisma Illya",
+    "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prisma-illya",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T11:15:23",
+    "file": "data/fatekaleid-liner-prisma-illya.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatekaleid-liner-prisma-illya.json"
   }
 ]
