@@ -17098,5 +17098,15 @@
     "captured_at": "2026-06-03T07:57:49",
     "file": "data/delicious-partypretty-cure-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-partypretty-cure-movie.json"
+  },
+  {
+    "slug": "delicos-nursery",
+    "mal_id": 56179,
+    "anime_name": "Delicos Nursery",
+    "anime_url": "https://hianime.ad/anime/delicos-nursery",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T07:57:59",
+    "file": "data/delicos-nursery.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicos-nursery.json"
   }
 ]
