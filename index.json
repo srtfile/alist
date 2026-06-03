@@ -21168,5 +21168,15 @@
     "captured_at": "2026-06-03T10:19:12",
     "file": "data/element-hunters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/element-hunters.json"
+  },
+  {
+    "slug": "elemental-gelade",
+    "mal_id": 1250,
+    "anime_name": "Elemental Gelade",
+    "anime_url": "https://hianime.ad/anime/elemental-gelade",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T10:19:55",
+    "file": "data/elemental-gelade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elemental-gelade.json"
   }
 ]
