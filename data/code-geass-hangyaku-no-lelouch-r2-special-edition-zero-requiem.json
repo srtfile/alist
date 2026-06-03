@@ -1,0 +1,52 @@
+{
+  "anime_name": "Code Geass Hangyaku No Lelouch R2 Special Edition Zero Requiem",
+  "anime_url": "https://hianime.ad/anime/code-geass-hangyaku-no-lelouch-r2-special-edition-zero-requiem",
+  "slug": "code-geass-hangyaku-no-lelouch-r2-special-edition-zero-requiem",
+  "mal_id": 2904,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:15:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day a Demon Awakens",
+      "episode_url": "https://hianime.ad/watch/code-geass-hangyaku-no-lelouch-r2-special-edition-zero-requiem/ep-1",
+      "sub": {
+        "HD-1": {
+          "2904-malep-1_vibeplayer_sub": "https://vibeplayer.site/e0174a89fb4f50c7",
+          "2904-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0174a89fb4f50c7/master.m3u8"
+        },
+        "HD-2": {
+          "2904-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf248ff069a713130d5e84ee474decb294h",
+          "2904-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2904-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zx3napy2nx3z",
+          "2904-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2904-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f3c987fcaf88a14b",
+          "2904-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f3c987fcaf88a14b/master.m3u8"
+        },
+        "HD-2": {
+          "2904-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag64947978a975ffbb73e0e521802bf1704h",
+          "2904-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2904-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y9moen3i9yvk",
+          "2904-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2904-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6lupjyyqxfdf",
+          "2904-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2904-malep-1_playmogo_hsub": "https://playmogo.com/e/5330v3cgr8jv",
+          "2904-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
