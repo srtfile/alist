@@ -1,0 +1,48 @@
+{
+  "anime_name": "Higurashi No Naku Koro Ni Kaku Outbreak",
+  "anime_url": "https://hianime.ad/anime/higurashi-no-naku-koro-ni-kaku-outbreak",
+  "slug": "higurashi-no-naku-koro-ni-kaku-outbreak",
+  "mal_id": 934,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T21:00:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Beginning (Chapter: Spirited Away by the Demon, Part 1)",
+      "episode_url": "https://hianime.ad/watch/higurashi-no-naku-koro-ni-kaku-outbreak/ep-1",
+      "sub": {
+        "HD-1": {
+          "934-malep-1_vibeplayer_sub": "https://vibeplayer.site/c38200a963327886",
+          "934-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c38200a963327886/master.m3u8"
+        },
+        "Earnvids": {
+          "934-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5unfefnyi853",
+          "934-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "934-malep-1_playmogo_sub": "https://playmogo.com/e/vwrolfh37w94",
+          "934-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "934-malep-1_vibeplayer_hsub": "https://vibeplayer.site/659ba1cd65ce8275",
+          "934-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/659ba1cd65ce8275/master.m3u8"
+        },
+        "StreamHG": {
+          "934-malep-1_otakuhg_hsub": "https://otakuhg.site/e/le4xyhez6jb4",
+          "934-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "934-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kkh6v484qwbn",
+          "934-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "934-malep-1_playmogo_hsub": "https://playmogo.com/e/5u1az3uk3we1",
+          "934-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
