@@ -12718,5 +12718,15 @@
     "captured_at": "2026-06-03T04:28:47",
     "file": "data/cardfight-vanguard-high-school-arc-cont.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-high-school-arc-cont.json"
+  },
+  {
+    "slug": "cardfight-vanguard-over-dress",
+    "mal_id": 49819,
+    "anime_name": "Cardfight Vanguard Over Dress",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-over-dress",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T04:29:11",
+    "file": "data/cardfight-vanguard-over-dress.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-over-dress.json"
   }
 ]
