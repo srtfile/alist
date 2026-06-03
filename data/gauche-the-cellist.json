@@ -1,0 +1,44 @@
+{
+  "anime_name": "Gauche The Cellist",
+  "anime_url": "https://hianime.ad/anime/gauche-the-cellist",
+  "slug": "gauche-the-cellist",
+  "mal_id": 41710,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:11:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First Begin with a Hero",
+      "episode_url": "https://hianime.ad/watch/gauche-the-cellist/ep-1",
+      "sub": {
+        "HD-1": {
+          "41710-malep-1_vibeplayer_sub": "https://vibeplayer.site/279752b73693c820",
+          "41710-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/279752b73693c820/master.m3u8"
+        },
+        "Earnvids": {
+          "41710-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ieyk86aluqi1",
+          "41710-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41710-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f3a9175d412c0a13",
+          "41710-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f3a9175d412c0a13/master.m3u8"
+        },
+        "StreamHG": {
+          "41710-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fw45hv03fsjh",
+          "41710-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41710-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tbo4ape08zh0",
+          "41710-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41710-malep-1_playmogo_hsub": "https://playmogo.com/e/1uy1x9k8i8x9",
+          "41710-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
