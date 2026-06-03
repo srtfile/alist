@@ -6628,5 +6628,15 @@
     "captured_at": "2026-06-03T21:03:32",
     "file": "data/hikari-kariya-wo-tsunagu-monogatari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikari-kariya-wo-tsunagu-monogatari.json"
+  },
+  {
+    "slug": "hikaru-no-go",
+    "mal_id": 135,
+    "anime_name": "Hikaru No Go",
+    "anime_url": "https://hianime.ad/anime/hikaru-no-go",
+    "total_episodes": 75,
+    "captured_at": "2026-06-03T21:03:44",
+    "file": "data/hikaru-no-go.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikaru-no-go.json"
   }
 ]
