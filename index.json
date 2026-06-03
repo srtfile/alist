@@ -22538,5 +22538,15 @@
     "captured_at": "2026-06-03T11:11:31",
     "file": "data/fatal-fury-the-motion-picture.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatal-fury-the-motion-picture.json"
+  },
+  {
+    "slug": "fatal-rule",
+    "mal_id": 51711,
+    "anime_name": "Fatal Rule",
+    "anime_url": "https://hianime.ad/anime/fatal-rule",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T11:11:42",
+    "file": "data/fatal-rule.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatal-rule.json"
   }
 ]
