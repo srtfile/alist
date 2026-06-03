@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dance With Devils Fortuna",
+  "anime_url": "https://hianime.ad/anime/dance-with-devils-fortuna",
+  "slug": "dance-with-devils-fortuna",
+  "mal_id": 29976,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:38:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Depravity and the Forbidden Quadrille",
+      "episode_url": "https://hianime.ad/watch/dance-with-devils-fortuna/ep-1",
+      "sub": {
+        "HD-1": {
+          "29976-malep-1_vibeplayer_sub": "https://vibeplayer.site/d1fec2d19e763e9a",
+          "29976-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d1fec2d19e763e9a/master.m3u8"
+        },
+        "HD-2": {
+          "29976-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag63d3d97e3052a5b27f163b9cfd357bd74h",
+          "29976-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "29976-malep-1_otakuhg_sub": "https://otakuhg.site/e/cvi1g52vg4eb",
+          "29976-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29976-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hug14pdal7nu",
+          "29976-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "29976-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2d3aa6f7c93723ff",
+          "29976-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2d3aa6f7c93723ff/master.m3u8"
+        },
+        "HD-2": {
+          "29976-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agda81ce57cfb8ba37860b1246790ee4934h",
+          "29976-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "29976-malep-1_otakuhg_hsub": "https://otakuhg.site/e/o4m24ptlszni",
+          "29976-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29976-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5ai6nig1slho",
+          "29976-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29976-malep-1_playmogo_hsub": "https://playmogo.com/e/akitfz1qje6a",
+          "29976-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
