@@ -1648,5 +1648,15 @@
     "captured_at": "2026-06-03T18:03:52",
     "file": "data/girls-panzer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer.json"
+  },
+  {
+    "slug": "girls-panzer-ovas",
+    "mal_id": 14131,
+    "anime_name": "Girls Panzer Ovas",
+    "anime_url": "https://hianime.ad/anime/girls-panzer-ovas",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T18:04:14",
+    "file": "data/girls-panzer-ovas.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer-ovas.json"
   }
 ]
