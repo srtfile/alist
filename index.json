@@ -4728,5 +4728,15 @@
     "captured_at": "2026-06-03T19:54:48",
     "file": "data/hand-maid-mai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-maid-mai.json"
+  },
+  {
+    "slug": "hand-maid-may",
+    "mal_id": 318,
+    "anime_name": "Hand Maid May",
+    "anime_url": "https://hianime.ad/anime/hand-maid-may",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T19:55:00",
+    "file": "data/hand-maid-may.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-maid-may.json"
   }
 ]
