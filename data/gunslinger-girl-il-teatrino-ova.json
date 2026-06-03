@@ -1,0 +1,95 @@
+{
+  "anime_name": "Gunslinger Girl Il Teatrino Ova",
+  "anime_url": "https://hianime.ad/anime/gunslinger-girl-il-teatrino-ova",
+  "slug": "gunslinger-girl-il-teatrino-ova",
+  "mal_id": 3231,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T19:23:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Distance between Two: Brother and Sister",
+      "episode_url": "https://hianime.ad/watch/gunslinger-girl-il-teatrino-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "3231-malep-1_vibeplayer_sub": "https://vibeplayer.site/1f641ef83d005184",
+          "3231-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f641ef83d005184/master.m3u8"
+        },
+        "Earnvids": {
+          "3231-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ye7aji51bl20",
+          "3231-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "3231-malep-1_vibeplayer_dub": "https://vibeplayer.site/379a587b961ad22b",
+          "3231-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/379a587b961ad22b/master.m3u8"
+        },
+        "Earnvids": {
+          "3231-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bmctpm0a0gfm",
+          "3231-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "3231-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9ec16f35a543bf84",
+          "3231-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9ec16f35a543bf84/master.m3u8"
+        },
+        "StreamHG": {
+          "3231-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xnnjnyg828o6",
+          "3231-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3231-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/51csvrh9bpsv",
+          "3231-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3231-malep-1_playmogo_hsub": "https://playmogo.com/e/0kq29n4q4z3f",
+          "3231-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pinocchio",
+      "episode_url": "https://hianime.ad/watch/gunslinger-girl-il-teatrino-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "3231-malep-2_vibeplayer_sub": "https://vibeplayer.site/3af3911b2b9b3aa1",
+          "3231-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3af3911b2b9b3aa1/master.m3u8"
+        },
+        "Earnvids": {
+          "3231-malep-2_otakuvid_sub": "https://otakuvid.online/embed/3en1ck4w2nr0",
+          "3231-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "3231-malep-2_vibeplayer_dub": "https://vibeplayer.site/bd4d2d0d74c2a306",
+          "3231-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bd4d2d0d74c2a306/master.m3u8"
+        },
+        "Earnvids": {
+          "3231-malep-2_otakuvid_dub": "https://otakuvid.online/embed/u83lijhyhv96",
+          "3231-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "3231-malep-2_vibeplayer_hsub": "https://vibeplayer.site/b2fc73def1178116",
+          "3231-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b2fc73def1178116/master.m3u8"
+        },
+        "StreamHG": {
+          "3231-malep-2_otakuhg_hsub": "https://otakuhg.site/e/yy0faphwcmdg",
+          "3231-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3231-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/h3zby9ele8ve",
+          "3231-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3231-malep-2_playmogo_hsub": "https://playmogo.com/e/e89rpvdqdkql",
+          "3231-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
