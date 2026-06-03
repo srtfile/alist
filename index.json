@@ -13938,5 +13938,15 @@
     "captured_at": "2026-06-03T05:46:16",
     "file": "data/choujin-densetsu-urotsukidouji-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/choujin-densetsu-urotsukidouji-movie.json"
+  },
+  {
+    "slug": "chouriki-robo-galatt",
+    "mal_id": 8853,
+    "anime_name": "Chouriki Robo Galatt",
+    "anime_url": "https://hianime.ad/anime/chouriki-robo-galatt",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T05:46:29",
+    "file": "data/chouriki-robo-galatt.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chouriki-robo-galatt.json"
   }
 ]
