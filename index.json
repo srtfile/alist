@@ -5898,5 +5898,15 @@
     "captured_at": "2026-06-03T20:37:25",
     "file": "data/hero-without-a-class-who-even-needs-skills.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hero-without-a-class-who-even-needs-skills.json"
+  },
+  {
+    "slug": "herobank",
+    "mal_id": 22099,
+    "anime_name": "Herobank",
+    "anime_url": "https://hianime.ad/anime/herobank",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T20:37:47",
+    "file": "data/herobank.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/herobank.json"
   }
 ]
