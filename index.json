@@ -4298,5 +4298,15 @@
     "captured_at": "2026-06-03T19:39:49",
     "file": "data/hakata-tonkotsu-ramens.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakata-tonkotsu-ramens.json"
+  },
+  {
+    "slug": "hakkenden-eight-dogs-of-the-east",
+    "mal_id": 15613,
+    "anime_name": "Hakkenden Eight Dogs Of The East",
+    "anime_url": "https://hianime.ad/anime/hakkenden-eight-dogs-of-the-east",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:40:10",
+    "file": "data/hakkenden-eight-dogs-of-the-east.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakkenden-eight-dogs-of-the-east.json"
   }
 ]
