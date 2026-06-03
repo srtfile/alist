@@ -1178,5 +1178,15 @@
     "captured_at": "2026-06-03T17:44:50",
     "file": "data/ginga-eiyuu-densetsu-gaiden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-eiyuu-densetsu-gaiden.json"
+  },
+  {
+    "slug": "ginga-eiyuu-densetsu-gaiden-1999",
+    "mal_id": 31433,
+    "anime_name": "Ginga Eiyuu Densetsu Gaiden 1999",
+    "anime_url": "https://hianime.ad/anime/ginga-eiyuu-densetsu-gaiden-1999",
+    "total_episodes": 28,
+    "captured_at": "2026-06-03T17:45:23",
+    "file": "data/ginga-eiyuu-densetsu-gaiden-1999.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-eiyuu-densetsu-gaiden-1999.json"
   }
 ]
