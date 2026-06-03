@@ -22578,5 +22578,25 @@
     "captured_at": "2026-06-03T11:12:53",
     "file": "data/fateextra-last-encore-illustrias-tendousetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fateextra-last-encore-illustrias-tendousetsu.json"
+  },
+  {
+    "slug": "fategrand-carnival",
+    "mal_id": 38084,
+    "anime_name": "Fategrand Carnival",
+    "anime_url": "https://hianime.ad/anime/fategrand-carnival",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T11:13:05",
+    "file": "data/fategrand-carnival.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fategrand-carnival.json"
+  },
+  {
+    "slug": "fategrand-order-first-order",
+    "mal_id": 38084,
+    "anime_name": "Fategrand Order First Order",
+    "anime_url": "https://hianime.ad/anime/fategrand-order-first-order",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T11:13:24",
+    "file": "data/fategrand-order-first-order.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fategrand-order-first-order.json"
   }
 ]
