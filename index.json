@@ -22448,5 +22448,15 @@
     "captured_at": "2026-06-03T11:09:12",
     "file": "data/fantasy-of-a-kitten.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fantasy-of-a-kitten.json"
+  },
+  {
+    "slug": "fantasy-x-hunter",
+    "mal_id": 40090,
+    "anime_name": "Fantasy X Hunter",
+    "anime_url": "https://hianime.ad/anime/fantasy-x-hunter",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T11:09:22",
+    "file": "data/fantasy-x-hunter.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fantasy-x-hunter.json"
   }
 ]
