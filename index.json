@@ -6668,5 +6668,15 @@
     "captured_at": "2026-06-03T21:05:40",
     "file": "data/hime-chan-no-ribbon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hime-chan-no-ribbon.json"
+  },
+  {
+    "slug": "himegoto",
+    "mal_id": 22835,
+    "anime_name": "Himegoto",
+    "anime_url": "https://hianime.ad/anime/himegoto",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T21:06:47",
+    "file": "data/himegoto.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himegoto.json"
   }
 ]
