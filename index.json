@@ -21208,5 +21208,15 @@
     "captured_at": "2026-06-03T10:20:55",
     "file": "data/elf-princess-rane.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elf-princess-rane.json"
+  },
+  {
+    "slug": "elfen-lied",
+    "mal_id": 226,
+    "anime_name": "Elfen Lied",
+    "anime_url": "https://hianime.ad/anime/elfen-lied",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T10:21:07",
+    "file": "data/elfen-lied.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elfen-lied.json"
   }
 ]
