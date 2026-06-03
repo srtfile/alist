@@ -11338,5 +11338,15 @@
     "captured_at": "2026-06-03T02:49:38",
     "file": "data/brain-powerd.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brain-powerd.json"
+  },
+  {
+    "slug": "brave-10",
+    "mal_id": 11241,
+    "anime_name": "Brave 10",
+    "anime_url": "https://hianime.ad/anime/brave-10",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T02:50:14",
+    "file": "data/brave-10.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brave-10.json"
   }
 ]
