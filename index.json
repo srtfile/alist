@@ -25648,5 +25648,15 @@
     "captured_at": "2026-06-03T13:51:09",
     "file": "data/gangsta.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gangsta.json"
+  },
+  {
+    "slug": "gangsta-1905",
+    "mal_id": 25183,
+    "anime_name": "Gangsta 1905",
+    "anime_url": "https://hianime.ad/anime/gangsta-1905",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:51:20",
+    "file": "data/gangsta-1905.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gangsta-1905.json"
   }
 ]
