@@ -22928,5 +22928,15 @@
     "captured_at": "2026-06-03T12:00:08",
     "file": "data/fatestrange-fake-6058.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestrange-fake-6058.json"
+  },
+  {
+    "slug": "fatestrange-fake",
+    "mal_id": 55830,
+    "anime_name": "Fatestrange Fake",
+    "anime_url": "https://hianime.ad/anime/fatestrange-fake",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:00:21",
+    "file": "data/fatestrange-fake.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestrange-fake.json"
   }
 ]
