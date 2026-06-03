@@ -1838,5 +1838,15 @@
     "captured_at": "2026-06-03T18:09:09",
     "file": "data/given-movie-2024.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given-movie-2024.json"
+  },
+  {
+    "slug": "given-the-movie-3-to-the-sea",
+    "mal_id": 59144,
+    "anime_name": "Given The Movie 3 To The Sea",
+    "anime_url": "https://hianime.ad/anime/given-the-movie-3-to-the-sea",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:09:21",
+    "file": "data/given-the-movie-3-to-the-sea.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given-the-movie-3-to-the-sea.json"
   }
 ]
