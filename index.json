@@ -21568,5 +21568,15 @@
     "captured_at": "2026-06-03T10:33:32",
     "file": "data/erin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/erin.json"
+  },
+  {
+    "slug": "eromanga-sensei",
+    "mal_id": 32901,
+    "anime_name": "Eromanga Sensei",
+    "anime_url": "https://hianime.ad/anime/eromanga-sensei",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:34:23",
+    "file": "data/eromanga-sensei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eromanga-sensei.json"
   }
 ]
