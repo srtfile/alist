@@ -1,0 +1,60 @@
+{
+  "anime_name": "Crayon Shin Chan Fast Asleep The Great Assault On The Dreaming World",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-fast-asleep-the-great-assault-on-the-dreaming-world",
+  "slug": "crayon-shin-chan-fast-asleep-the-great-assault-on-the-dreaming-world",
+  "mal_id": 966,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:45:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Running an Errand / Mom's Mornings are Busy / Drawing",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-fast-asleep-the-great-assault-on-the-dreaming-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "966-malep-1_vibeplayer_sub": "https://vibeplayer.site/62e83a7975445fa9",
+          "966-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62e83a7975445fa9/master.m3u8"
+        },
+        "HD-2": {
+          "966-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2b9a9a1c1dc8aad56158a304a014ded84h",
+          "966-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "966-malep-1_otakuhg_sub": "https://otakuhg.site/e/z555gl67dat8",
+          "966-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "966-malep-1_otakuvid_sub": "https://otakuvid.online/embed/36xip6439zva",
+          "966-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "966-malep-1_playmogo_sub": "https://playmogo.com/e/fqpkbp6a0ic3",
+          "966-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "966-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ea3ef1c937cb2ef1",
+          "966-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ea3ef1c937cb2ef1/master.m3u8"
+        },
+        "HD-2": {
+          "966-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag34f6693f3c8e2c7556d03083aaf14ce34h",
+          "966-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "966-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ibg3f5qzl1tg",
+          "966-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "966-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nlz1sb5wblf5",
+          "966-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "966-malep-1_playmogo_hsub": "https://playmogo.com/e/v3om62a9r4ht",
+          "966-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
