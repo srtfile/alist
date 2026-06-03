@@ -1848,5 +1848,15 @@
     "captured_at": "2026-06-03T18:09:21",
     "file": "data/given-the-movie-3-to-the-sea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given-the-movie-3-to-the-sea.json"
+  },
+  {
+    "slug": "given-uragawa-no-sonzai",
+    "mal_id": 39533,
+    "anime_name": "Given Uragawa No Sonzai",
+    "anime_url": "https://hianime.ad/anime/given-uragawa-no-sonzai",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:09:33",
+    "file": "data/given-uragawa-no-sonzai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given-uragawa-no-sonzai.json"
   }
 ]
