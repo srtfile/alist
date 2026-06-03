@@ -20358,5 +20358,15 @@
     "captured_at": "2026-06-03T09:54:56",
     "file": "data/dragons-heaven.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragons-heaven.json"
+  },
+  {
+    "slug": "dragons-house-hunting",
+    "mal_id": 40526,
+    "anime_name": "Dragons House Hunting",
+    "anime_url": "https://hianime.ad/anime/dragons-house-hunting",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:55:06",
+    "file": "data/dragons-house-hunting.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragons-house-hunting.json"
   }
 ]
