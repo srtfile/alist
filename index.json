@@ -19058,5 +19058,15 @@
     "captured_at": "2026-06-03T09:01:39",
     "file": "data/doraemon-us.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/doraemon-us.json"
+  },
+  {
+    "slug": "doraemon-movie-01-nobitas-dinosaur",
+    "mal_id": null,
+    "anime_name": "Doraemon Movie 01 Nobitas Dinosaur",
+    "anime_url": "https://hianime.ad/anime/doraemon-movie-01-nobitas-dinosaur",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T09:02:32",
+    "file": "data/doraemon-movie-01-nobitas-dinosaur.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/doraemon-movie-01-nobitas-dinosaur.json"
   }
 ]
