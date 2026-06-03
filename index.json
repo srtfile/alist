@@ -12768,5 +12768,15 @@
     "captured_at": "2026-06-03T04:30:43",
     "file": "data/cardfight-vanguard-willdress-season-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-willdress-season-3.json"
+  },
+  {
+    "slug": "carnival-phantasm",
+    "mal_id": null,
+    "anime_name": "Carnival Phantasm",
+    "anime_url": "https://hianime.ad/anime/carnival-phantasm",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T04:31:05",
+    "file": "data/carnival-phantasm.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carnival-phantasm.json"
   }
 ]
