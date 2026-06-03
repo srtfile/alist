@@ -21418,5 +21418,15 @@
     "captured_at": "2026-06-03T10:28:04",
     "file": "data/endride.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/endride.json"
+  },
+  {
+    "slug": "endro",
+    "mal_id": 38062,
+    "anime_name": "Endro",
+    "anime_url": "https://hianime.ad/anime/endro",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:28:33",
+    "file": "data/endro.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/endro.json"
   }
 ]
