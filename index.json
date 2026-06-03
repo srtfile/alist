@@ -9778,5 +9778,15 @@
     "captured_at": "2026-06-03T00:28:02",
     "file": "data/black-butler.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler.json"
+  },
+  {
+    "slug": "black-butler-ii",
+    "mal_id": 6707,
+    "anime_name": "Black Butler Ii",
+    "anime_url": "https://hianime.ad/anime/black-butler-ii",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:28:33",
+    "file": "data/black-butler-ii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-ii.json"
   }
 ]
