@@ -1,0 +1,53 @@
+{
+  "anime_name": "Goodbye Don Glees",
+  "anime_url": "https://hianime.ad/anime/goodbye-don-glees",
+  "slug": "goodbye-don-glees",
+  "mal_id": 42774,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:45:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone",
+      "episode_url": "https://hianime.ad/watch/goodbye-don-glees/ep-1",
+      "sub": {
+        "HD-1": {
+          "42774-malep-1_vibeplayer_sub": "https://vibeplayer.site/88509fbd1ecec894",
+          "42774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88509fbd1ecec894/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pnohgcyiw7b3",
+          "42774-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42774-malep-1_vibeplayer_dub": "https://vibeplayer.site/5a7d4f5dc1f0a284",
+          "42774-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a7d4f5dc1f0a284/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-1_otakuvid_dub": "https://otakuvid.online/embed/yx7quezoieaj",
+          "42774-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/41b94057e07626f1",
+          "42774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41b94057e07626f1/master.m3u8"
+        },
+        "StreamHG": {
+          "42774-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ulh1zc6htgum",
+          "42774-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pdjopjgfi9i1",
+          "42774-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42774-malep-1_playmogo_hsub": "https://playmogo.com/e/tiv91uzzsfhz",
+          "42774-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
