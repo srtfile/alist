@@ -16978,5 +16978,15 @@
     "captured_at": "2026-06-03T07:53:09",
     "file": "data/death-note-relight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/death-note-relight.json"
+  },
+  {
+    "slug": "death-parade",
+    "mal_id": 28223,
+    "anime_name": "Death Parade",
+    "anime_url": "https://hianime.ad/anime/death-parade",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:53:20",
+    "file": "data/death-parade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/death-parade.json"
   }
 ]
