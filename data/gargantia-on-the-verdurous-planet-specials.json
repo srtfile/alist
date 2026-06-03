@@ -1,0 +1,85 @@
+{
+  "anime_name": "Gargantia On The Verdurous Planet Specials",
+  "anime_url": "https://hianime.ad/anime/gargantia-on-the-verdurous-planet-specials",
+  "slug": "gargantia-on-the-verdurous-planet-specials",
+  "mal_id": 16524,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T13:54:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Castaway",
+      "episode_url": "https://hianime.ad/watch/gargantia-on-the-verdurous-planet-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "16524-malep-1_vibeplayer_sub": "https://vibeplayer.site/a0a60ad35e4edcbe",
+          "16524-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0a60ad35e4edcbe/master.m3u8"
+        },
+        "HD-2": {
+          "16524-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag362a94d5192c63e7c1ee07b619db59144h",
+          "16524-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "16524-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q15lt90t5ccu",
+          "16524-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "16524-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bd38e225ee370cc3",
+          "16524-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd38e225ee370cc3/master.m3u8"
+        },
+        "HD-2": {
+          "16524-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4aef592b0ad59fd08d4785bed52be3074h",
+          "16524-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16524-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xpbgylxypd1u",
+          "16524-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16524-malep-1_playmogo_hsub": "https://playmogo.com/e/6s986eigrmmc",
+          "16524-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Planet of Origin",
+      "episode_url": "https://hianime.ad/watch/gargantia-on-the-verdurous-planet-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "16524-malep-2_vibeplayer_sub": "https://vibeplayer.site/b7b32b679c369456",
+          "16524-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7b32b679c369456/master.m3u8"
+        },
+        "HD-2": {
+          "16524-malep-2_vibeplayer_sub": "https://vibeplayer.site/agbd1f334cf96142159a5e0c3fda216e1c4h",
+          "16524-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "16524-malep-2_otakuvid_sub": "https://otakuvid.online/embed/blpep1lykpcg",
+          "16524-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "16524-malep-2_vibeplayer_hsub": "https://vibeplayer.site/c20eb2f8c14f5ff8",
+          "16524-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c20eb2f8c14f5ff8/master.m3u8"
+        },
+        "HD-2": {
+          "16524-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag4bcca2aa7d7dd2392fd469fed6e15ac74h",
+          "16524-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16524-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/aqs4w77u7hru",
+          "16524-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16524-malep-2_playmogo_hsub": "https://playmogo.com/e/191y2dlsso7t",
+          "16524-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
