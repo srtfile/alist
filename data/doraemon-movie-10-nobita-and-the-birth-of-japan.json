@@ -1,0 +1,52 @@
+{
+  "anime_name": "Doraemon Movie 10 Nobita And The Birth Of Japan",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-10-nobita-and-the-birth-of-japan",
+  "slug": "doraemon-movie-10-nobita-and-the-birth-of-japan",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:03:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-10-nobita-and-the-birth-of-japan/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bf78d74a2bef783f",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf78d74a2bef783f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agf1c5f64125883289d4c76d95f9a4feee4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/exv7qiskbp9p",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/lsma6gsinuil",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/fj0gfkvowgdv",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/2b4405294832c504",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2b4405294832c504/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agcdaebb091263792933aa66108875c91b4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i98t182va28w",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
