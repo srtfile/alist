@@ -10628,5 +10628,15 @@
     "captured_at": "2026-06-03T00:58:19",
     "file": "data/blue-gender.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-gender.json"
+  },
+  {
+    "slug": "blue-giant",
+    "mal_id": 2964,
+    "anime_name": "Blue Giant",
+    "anime_url": "https://hianime.ad/anime/blue-giant",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:58:51",
+    "file": "data/blue-giant.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-giant.json"
   }
 ]
