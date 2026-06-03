@@ -1748,5 +1748,15 @@
     "captured_at": "2026-06-03T18:06:19",
     "file": "data/girls-beyond-the-wasteland.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-beyond-the-wasteland.json"
+  },
+  {
+    "slug": "girls-bravo",
+    "mal_id": 241,
+    "anime_name": "Girls Bravo",
+    "anime_url": "https://hianime.ad/anime/girls-bravo",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T18:06:41",
+    "file": "data/girls-bravo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-bravo.json"
   }
 ]
