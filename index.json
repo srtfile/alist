@@ -2048,5 +2048,15 @@
     "captured_at": "2026-06-03T18:19:01",
     "file": "data/go-go-575-meippai-ni-hajiketeru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-go-575-meippai-ni-hajiketeru.json"
+  },
+  {
+    "slug": "go-go-ackman",
+    "mal_id": 10507,
+    "anime_name": "Go Go Ackman",
+    "anime_url": "https://hianime.ad/anime/go-go-ackman",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:19:12",
+    "file": "data/go-go-ackman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-go-ackman.json"
   }
 ]
