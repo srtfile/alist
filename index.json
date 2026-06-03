@@ -20718,5 +20718,15 @@
     "captured_at": "2026-06-03T10:04:59",
     "file": "data/dungeons-television.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dungeons-television.json"
+  },
+  {
+    "slug": "durarara",
+    "mal_id": 6746,
+    "anime_name": "Durarara",
+    "anime_url": "https://hianime.ad/anime/durarara",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T10:05:09",
+    "file": "data/durarara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/durarara.json"
   }
 ]
