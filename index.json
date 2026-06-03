@@ -23278,5 +23278,15 @@
     "captured_at": "2026-06-03T12:22:04",
     "file": "data/final-fantasy-vii-advent-children-complete.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/final-fantasy-vii-advent-children-complete.json"
+  },
+  {
+    "slug": "final-fantasy-vii-last-order",
+    "mal_id": 1157,
+    "anime_name": "Final Fantasy Vii Last Order",
+    "anime_url": "https://hianime.ad/anime/final-fantasy-vii-last-order",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T12:22:17",
+    "file": "data/final-fantasy-vii-last-order.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/final-fantasy-vii-last-order.json"
   }
 ]
