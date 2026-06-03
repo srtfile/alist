@@ -22938,5 +22938,15 @@
     "captured_at": "2026-06-03T12:00:21",
     "file": "data/fatestrange-fake.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestrange-fake.json"
+  },
+  {
+    "slug": "fatestrange-fake-whispers-of-dawn",
+    "mal_id": 55830,
+    "anime_name": "Fatestrange Fake Whispers Of Dawn",
+    "anime_url": "https://hianime.ad/anime/fatestrange-fake-whispers-of-dawn",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T12:00:46",
+    "file": "data/fatestrange-fake-whispers-of-dawn.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestrange-fake-whispers-of-dawn.json"
   }
 ]
