@@ -20178,5 +20178,15 @@
     "captured_at": "2026-06-03T09:46:34",
     "file": "data/dragon-century.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-century.json"
+  },
+  {
+    "slug": "dragon-collection",
+    "mal_id": 22733,
+    "anime_name": "Dragon Collection",
+    "anime_url": "https://hianime.ad/anime/dragon-collection",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T09:46:46",
+    "file": "data/dragon-collection.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-collection.json"
   }
 ]
