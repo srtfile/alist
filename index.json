@@ -24718,5 +24718,15 @@
     "captured_at": "2026-06-03T13:14:00",
     "file": "data/fullmetal-alchemist.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fullmetal-alchemist.json"
+  },
+  {
+    "slug": "fullmetal-alchemist-brotherhood",
+    "mal_id": 5114,
+    "anime_name": "Fullmetal Alchemist Brotherhood",
+    "anime_url": "https://hianime.ad/anime/fullmetal-alchemist-brotherhood",
+    "total_episodes": 64,
+    "captured_at": "2026-06-03T13:14:53",
+    "file": "data/fullmetal-alchemist-brotherhood.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fullmetal-alchemist-brotherhood.json"
   }
 ]
