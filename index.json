@@ -6288,5 +6288,15 @@
     "captured_at": "2026-06-03T20:53:13",
     "file": "data/high-school-dxd.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd.json"
+  },
+  {
+    "slug": "high-school-dxd-born",
+    "mal_id": 24703,
+    "anime_name": "High School Dxd Born",
+    "anime_url": "https://hianime.ad/anime/high-school-dxd-born",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:53:35",
+    "file": "data/high-school-dxd-born.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-born.json"
   }
 ]
