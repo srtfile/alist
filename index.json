@@ -11938,5 +11938,15 @@
     "captured_at": "2026-06-03T03:08:32",
     "file": "data/burn-up-w.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burn-up-w.json"
+  },
+  {
+    "slug": "burning-blood",
+    "mal_id": 27737,
+    "anime_name": "Burning Blood",
+    "anime_url": "https://hianime.ad/anime/burning-blood",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T03:08:46",
+    "file": "data/burning-blood.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burning-blood.json"
   }
 ]
