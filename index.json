@@ -2648,5 +2648,15 @@
     "captured_at": "2026-06-03T18:43:13",
     "file": "data/good-morning-althea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-morning-althea.json"
+  },
+  {
+    "slug": "good-night-world",
+    "mal_id": 40610,
+    "anime_name": "Good Night World",
+    "anime_url": "https://hianime.ad/anime/good-night-world",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:43:25",
+    "file": "data/good-night-world.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-night-world.json"
   }
 ]
