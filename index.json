@@ -21218,5 +21218,15 @@
     "captured_at": "2026-06-03T10:21:07",
     "file": "data/elfen-lied.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elfen-lied.json"
+  },
+  {
+    "slug": "elfen-lied-in-the-passing-rain",
+    "mal_id": 59322,
+    "anime_name": "Elfen Lied In The Passing Rain",
+    "anime_url": "https://hianime.ad/anime/elfen-lied-in-the-passing-rain",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:21:27",
+    "file": "data/elfen-lied-in-the-passing-rain.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elfen-lied-in-the-passing-rain.json"
   }
 ]
