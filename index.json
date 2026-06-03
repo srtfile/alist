@@ -21618,5 +21618,15 @@
     "captured_at": "2026-06-03T10:35:24",
     "file": "data/escha-chron.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/escha-chron.json"
+  },
+  {
+    "slug": "esper-mami",
+    "mal_id": 3023,
+    "anime_name": "Esper Mami",
+    "anime_url": "https://hianime.ad/anime/esper-mami",
+    "total_episodes": 36,
+    "captured_at": "2026-06-03T10:35:35",
+    "file": "data/esper-mami.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/esper-mami.json"
   }
 ]
