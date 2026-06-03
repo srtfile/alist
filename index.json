@@ -20208,5 +20208,15 @@
     "captured_at": "2026-06-03T09:47:58",
     "file": "data/dragon-drive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-drive.json"
+  },
+  {
+    "slug": "dragon-half",
+    "mal_id": 1956,
+    "anime_name": "Dragon Half",
+    "anime_url": "https://hianime.ad/anime/dragon-half",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T09:48:39",
+    "file": "data/dragon-half.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-half.json"
   }
 ]
