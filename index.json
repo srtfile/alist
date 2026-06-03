@@ -4638,5 +4638,15 @@
     "captured_at": "2026-06-03T19:51:27",
     "file": "data/hanappe-bazooka.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanappe-bazooka.json"
+  },
+  {
+    "slug": "hanasakeru-seishounen",
+    "mal_id": 5835,
+    "anime_name": "Hanasakeru Seishounen",
+    "anime_url": "https://hianime.ad/anime/hanasakeru-seishounen",
+    "total_episodes": 39,
+    "captured_at": "2026-06-03T19:51:40",
+    "file": "data/hanasakeru-seishounen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanasakeru-seishounen.json"
   }
 ]
