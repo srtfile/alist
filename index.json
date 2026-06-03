@@ -18688,5 +18688,15 @@
     "captured_at": "2026-06-03T08:46:56",
     "file": "data/dna-sights-999-9.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dna-sights-999-9.json"
+  },
+  {
+    "slug": "dna",
+    "mal_id": 2285,
+    "anime_name": "Dna",
+    "anime_url": "https://hianime.ad/anime/dna",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:47:06",
+    "file": "data/dna.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dna.json"
   }
 ]
