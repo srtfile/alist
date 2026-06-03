@@ -11358,5 +11358,15 @@
     "captured_at": "2026-06-03T02:50:36",
     "file": "data/brave-of-the-sun-fighbird.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brave-of-the-sun-fighbird.json"
+  },
+  {
+    "slug": "brave-story",
+    "mal_id": 8287,
+    "anime_name": "Brave Story",
+    "anime_url": "https://hianime.ad/anime/brave-story",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T02:51:31",
+    "file": "data/brave-story.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brave-story.json"
   }
 ]
