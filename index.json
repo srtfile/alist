@@ -5388,5 +5388,15 @@
     "captured_at": "2026-06-03T20:18:43",
     "file": "data/heaven-officials-blessing-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heaven-officials-blessing-special.json"
+  },
+  {
+    "slug": "heaven-scrap-master",
+    "mal_id": 850,
+    "anime_name": "Heaven Scrap Master",
+    "anime_url": "https://hianime.ad/anime/heaven-scrap-master",
+    "total_episodes": 40,
+    "captured_at": "2026-06-03T20:18:55",
+    "file": "data/heaven-scrap-master.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heaven-scrap-master.json"
   }
 ]
