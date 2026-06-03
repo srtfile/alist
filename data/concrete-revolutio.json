@@ -1,0 +1,636 @@
+{
+  "anime_name": "Concrete Revolutio",
+  "anime_url": "https://hianime.ad/anime/concrete-revolutio",
+  "slug": "concrete-revolutio",
+  "mal_id": 31147,
+  "total_episodes": 13,
+  "captured_at": "2026-06-03T06:27:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Witch Girl of Tokyo",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-1",
+      "sub": {
+        "HD-1": {
+          "31147-malep-1_vibeplayer_sub": "https://vibeplayer.site/34ab59200c63df35",
+          "31147-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34ab59200c63df35/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3b8ac9e362f3decb13eb11709a79a2ec4h",
+          "31147-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31147-malep-1_otakuhg_sub": "https://otakuhg.site/e/zpsu0fw6mdwc",
+          "31147-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4rzh3xaj3xqv",
+          "31147-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-1_vibeplayer_dub": "https://vibeplayer.site/0e6c79271fb2caa1",
+          "31147-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0e6c79271fb2caa1/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf2bc2efea00bc35e483c35effa5b4c604h",
+          "31147-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-1_otakuvid_dub": "https://otakuvid.online/embed/orcjehlyrrlx",
+          "31147-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a558281a5c89c908",
+          "31147-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a558281a5c89c908/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd174955beb9936db9f0728cdeb3168b34h",
+          "31147-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31147-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hyoxpiz9g8gu",
+          "31147-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sf82leceh92i",
+          "31147-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-1_playmogo_hsub": "https://playmogo.com/e/ph6z7oahnbbo",
+          "31147-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Inside the \"Black Fog\"",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-2",
+      "sub": {
+        "HD-1": {
+          "31147-malep-2_vibeplayer_sub": "https://vibeplayer.site/bfd25386441de790",
+          "31147-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bfd25386441de790/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag399b45313802f41df489aa3c99783da14h",
+          "31147-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-2_otakuvid_sub": "https://otakuvid.online/embed/7p2d70y5ttgs",
+          "31147-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-2_vibeplayer_dub": "https://vibeplayer.site/a02327d458d2f48c",
+          "31147-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a02327d458d2f48c/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag6945db1e64fd90d83059858f14821df24h",
+          "31147-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-2_otakuvid_dub": "https://otakuvid.online/embed/fqgj24v6ks7q",
+          "31147-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-2_vibeplayer_hsub": "https://vibeplayer.site/b144ef8218a7c4fa",
+          "31147-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b144ef8218a7c4fa/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-2_vibeplayer_hsub": "https://vibeplayer.site/age8b5ab982691f58c0e849a706740a6234h",
+          "31147-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/er8vddmxeqrx",
+          "31147-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-2_playmogo_hsub": "https://playmogo.com/e/y0vr0iu30kqd",
+          "31147-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Iron Couple",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-3",
+      "sub": {
+        "HD-1": {
+          "31147-malep-3_vibeplayer_sub": "https://vibeplayer.site/b7421e67619ff532",
+          "31147-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7421e67619ff532/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag031b6e3cad04ef6ca025ede9efab06314h",
+          "31147-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-3_otakuvid_sub": "https://otakuvid.online/embed/fg7ahlfupf94",
+          "31147-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-3_vibeplayer_dub": "https://vibeplayer.site/015ede0cf08f9379",
+          "31147-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/015ede0cf08f9379/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag8f01d1603e49f67f537e7908bc1dbac74h",
+          "31147-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-3_otakuvid_dub": "https://otakuvid.online/embed/1nywj2p9nhnn",
+          "31147-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-3_vibeplayer_hsub": "https://vibeplayer.site/82f5c05103eb9db7",
+          "31147-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/82f5c05103eb9db7/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agdf9c258bcf08f3ceb1eeb181dc1ebdc24h",
+          "31147-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/9zdclah9av11",
+          "31147-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-3_playmogo_hsub": "https://playmogo.com/e/4cqmswj6d5eu",
+          "31147-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Japan \"Beast\" History, Part 1",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-4",
+      "sub": {
+        "HD-1": {
+          "31147-malep-4_vibeplayer_sub": "https://vibeplayer.site/ad298c5c394b8e00",
+          "31147-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad298c5c394b8e00/master.m3u8"
+        },
+        "Earnvids": {
+          "31147-malep-4_otakuvid_sub": "https://otakuvid.online/embed/1gn8ph2033md",
+          "31147-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-4_vibeplayer_dub": "https://vibeplayer.site/40401cf372c97993",
+          "31147-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/40401cf372c97993/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag25f1660305507f999a527e6cc536c6374h",
+          "31147-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-4_otakuvid_dub": "https://otakuvid.online/embed/9yu7pbb9w7qm",
+          "31147-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-4_vibeplayer_hsub": "https://vibeplayer.site/4e1bd1c92fc292db",
+          "31147-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e1bd1c92fc292db/master.m3u8"
+        },
+        "Earnvids": {
+          "31147-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/g6uqurgzl3to",
+          "31147-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-4_playmogo_hsub": "https://playmogo.com/e/7l90fwqz9skg",
+          "31147-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Japan \"Beast\" History, Part 2",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-5",
+      "sub": {
+        "HD-1": {
+          "31147-malep-5_vibeplayer_sub": "https://vibeplayer.site/31ea553db966854f",
+          "31147-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/31ea553db966854f/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag5d61dea14fcc1ab2a2d272ba1cb016fa4h",
+          "31147-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-5_otakuvid_sub": "https://otakuvid.online/embed/9351n2zpgvyo",
+          "31147-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-5_vibeplayer_dub": "https://vibeplayer.site/2eb0876fcbc0716b",
+          "31147-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2eb0876fcbc0716b/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag7b063fca41f2f6bb19c30ea39d0f9b4d4h",
+          "31147-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-5_otakuvid_dub": "https://otakuvid.online/embed/hdpu0i09d1s6",
+          "31147-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ddb6cb681beecaa5",
+          "31147-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ddb6cb681beecaa5/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag4ef3c0473e79c44d6d6300d9eda504084h",
+          "31147-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/54ktrva5yv9n",
+          "31147-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-5_playmogo_hsub": "https://playmogo.com/e/has9f6mej0ux",
+          "31147-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They Are Always Laughing",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-6",
+      "sub": {
+        "HD-1": {
+          "31147-malep-6_vibeplayer_sub": "https://vibeplayer.site/cdec82181397ee32",
+          "31147-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cdec82181397ee32/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-6_vibeplayer_sub": "https://vibeplayer.site/agfee7eb895747a85fcea74e104fbe98924h",
+          "31147-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-6_otakuvid_sub": "https://otakuvid.online/embed/18klwp0g6t1x",
+          "31147-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-6_vibeplayer_dub": "https://vibeplayer.site/f928a623c44c8b5e",
+          "31147-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f928a623c44c8b5e/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag470e73d557a56d2956e08f794571c0c74h",
+          "31147-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-6_otakuvid_dub": "https://otakuvid.online/embed/9rmvdsnjal2k",
+          "31147-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-6_vibeplayer_hsub": "https://vibeplayer.site/20a496e97b327c4a",
+          "31147-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/20a496e97b327c4a/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag26fb84a236a46b69a577cd975b6914494h",
+          "31147-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/lxgo16qyhd9b",
+          "31147-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-6_playmogo_hsub": "https://playmogo.com/e/i8rv2t2lyrx8",
+          "31147-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Go Beyond the Sky and Stars",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-7",
+      "sub": {
+        "HD-1": {
+          "31147-malep-7_vibeplayer_sub": "https://vibeplayer.site/5862d6e50f4a471c",
+          "31147-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5862d6e50f4a471c/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag944d4f2bbee93e19e036d18e7f41c7f94h",
+          "31147-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-7_otakuvid_sub": "https://otakuvid.online/embed/a2z4panfwcew",
+          "31147-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-7_vibeplayer_dub": "https://vibeplayer.site/8b980e4d27639115",
+          "31147-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8b980e4d27639115/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag65f3fc7f909b94c288720a8ba098bdb74h",
+          "31147-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-7_otakuvid_dub": "https://otakuvid.online/embed/dyi1rtrdvmij",
+          "31147-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-7_vibeplayer_hsub": "https://vibeplayer.site/5bae281a49f4e8cd",
+          "31147-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5bae281a49f4e8cd/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag3024746563c10a658b03013eb01549e34h",
+          "31147-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/chkzuw978xhy",
+          "31147-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-7_playmogo_hsub": "https://playmogo.com/e/arha8um4nkve",
+          "31147-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Nobody Knows About the Rainbow Knight",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-8",
+      "sub": {
+        "HD-1": {
+          "31147-malep-8_vibeplayer_sub": "https://vibeplayer.site/9f18c83b8e94e1e2",
+          "31147-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9f18c83b8e94e1e2/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag6a6a07c07ccfe0115903cff7fffb2c4e4h",
+          "31147-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-8_otakuvid_sub": "https://otakuvid.online/embed/lzwbjbbi1b5v",
+          "31147-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-8_vibeplayer_dub": "https://vibeplayer.site/87969e2dd5051dd7",
+          "31147-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/87969e2dd5051dd7/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-8_vibeplayer_dub": "https://vibeplayer.site/aga7e00e7197bba11dad8ac93d29a57d304h",
+          "31147-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-8_otakuvid_dub": "https://otakuvid.online/embed/tlwccwey46iv",
+          "31147-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-8_vibeplayer_hsub": "https://vibeplayer.site/b52e2e71d4559446",
+          "31147-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b52e2e71d4559446/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag440b845650c807a897e2fab9ae3ca36b4h",
+          "31147-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/onlfmoibzcnw",
+          "31147-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-8_playmogo_hsub": "https://playmogo.com/e/tel52rykh7p1",
+          "31147-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The End of the Endless Family",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-9",
+      "sub": {
+        "HD-1": {
+          "31147-malep-9_vibeplayer_sub": "https://vibeplayer.site/be567b4bff776b45",
+          "31147-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/be567b4bff776b45/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag8a092bdef2d11567d4f07c8b1e48d9aa4h",
+          "31147-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-9_otakuvid_sub": "https://otakuvid.online/embed/1ba0erb3i9e2",
+          "31147-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-9_vibeplayer_dub": "https://vibeplayer.site/34b5aadedabab665",
+          "31147-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/34b5aadedabab665/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag3e03b4a1d6be491de1a661cf7f56aa484h",
+          "31147-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-9_otakuvid_dub": "https://otakuvid.online/embed/sktgsh15hmty",
+          "31147-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-9_vibeplayer_hsub": "https://vibeplayer.site/35fbc40891386106",
+          "31147-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/35fbc40891386106/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag418ba10db2ebcb016f1e4515d5bc245d4h",
+          "31147-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/ksx5m6q6lmvj",
+          "31147-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-9_playmogo_hsub": "https://playmogo.com/e/1i0ce0z8q7yc",
+          "31147-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mirage of Destiny",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-10",
+      "sub": {
+        "HD-1": {
+          "31147-malep-10_vibeplayer_sub": "https://vibeplayer.site/329f76e515263b1e",
+          "31147-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/329f76e515263b1e/master.m3u8"
+        },
+        "Earnvids": {
+          "31147-malep-10_otakuvid_sub": "https://otakuvid.online/embed/uid2grlz7lvb",
+          "31147-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-10_vibeplayer_dub": "https://vibeplayer.site/1eccf60de01aed08",
+          "31147-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1eccf60de01aed08/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag17a722708201f0a1539456512a7c28764h",
+          "31147-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-10_otakuvid_dub": "https://otakuvid.online/embed/r82xgrufwkyn",
+          "31147-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-10_vibeplayer_hsub": "https://vibeplayer.site/11d587eb1dca3f06",
+          "31147-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11d587eb1dca3f06/master.m3u8"
+        },
+        "Earnvids": {
+          "31147-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/gx6erzl8prw9",
+          "31147-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-10_playmogo_hsub": "https://playmogo.com/e/3lgm8aeg8q19",
+          "31147-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Justice/Freedom/Peace",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-11",
+      "sub": {
+        "HD-1": {
+          "31147-malep-11_vibeplayer_sub": "https://vibeplayer.site/3f97df3766249482",
+          "31147-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f97df3766249482/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-11_vibeplayer_sub": "https://vibeplayer.site/agf409912423921f2ffb932ec016ad172a4h",
+          "31147-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-11_otakuvid_sub": "https://otakuvid.online/embed/t8h5fbztb6o6",
+          "31147-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-11_vibeplayer_dub": "https://vibeplayer.site/37bafe7230dd22d0",
+          "31147-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/37bafe7230dd22d0/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag1912c9d974616576d54eacf0c09c1c864h",
+          "31147-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-11_otakuvid_dub": "https://otakuvid.online/embed/qq93z0kojvkz",
+          "31147-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-11_vibeplayer_hsub": "https://vibeplayer.site/94d02f2634623271",
+          "31147-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94d02f2634623271/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag111b1363d50578fc66b426ab7be37f2c4h",
+          "31147-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/s3fukg9b166v",
+          "31147-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-11_playmogo_hsub": "https://playmogo.com/e/14f86bh586el",
+          "31147-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hakko Superhuman Crash Incident",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-12",
+      "sub": {
+        "HD-1": {
+          "31147-malep-12_vibeplayer_sub": "https://vibeplayer.site/6f7ce3934254e6fb",
+          "31147-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f7ce3934254e6fb/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag7a88ce909b2fda1420ee78fcf3bee9984h",
+          "31147-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-12_otakuvid_sub": "https://otakuvid.online/embed/g7z01wz3xvul",
+          "31147-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-12_vibeplayer_dub": "https://vibeplayer.site/3d2f8af6d9898920",
+          "31147-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3d2f8af6d9898920/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-12_vibeplayer_dub": "https://vibeplayer.site/agcea6f9b9a54be6c63408ae513b21cb8b4h",
+          "31147-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-12_otakuvid_dub": "https://otakuvid.online/embed/n6uyaygal7c4",
+          "31147-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31147-malep-12_vibeplayer_hsub": "https://vibeplayer.site/b404ca7faabe2056",
+          "31147-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b404ca7faabe2056/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag499196e6ce9cf00d51eac48553d569214h",
+          "31147-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/pbsz571csypq",
+          "31147-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31147-malep-12_playmogo_hsub": "https://playmogo.com/e/ms1rizgul4gi",
+          "31147-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Riots in Shinjuku",
+      "episode_url": "https://hianime.ad/watch/concrete-revolutio/ep-13",
+      "sub": {
+        "HD-1": {
+          "31147-malep-13_vibeplayer_sub": "https://vibeplayer.site/41bc815ea4b6183a",
+          "31147-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/41bc815ea4b6183a/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-13_vibeplayer_sub": "https://vibeplayer.site/agf3e96810f43064857da5c5561701979d4h",
+          "31147-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-13_otakuvid_sub": "https://otakuvid.online/embed/ld5dzd4kkqd7",
+          "31147-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31147-malep-13_vibeplayer_dub": "https://vibeplayer.site/547bd8df55469646",
+          "31147-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/547bd8df55469646/master.m3u8"
+        },
+        "HD-2": {
+          "31147-malep-13_vibeplayer_dub": "https://vibeplayer.site/agcf2517e391dc252edc14533deaaf253e4h",
+          "31147-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31147-malep-13_otakuvid_dub": "https://otakuvid.online/embed/c46itruhj72c",
+          "31147-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
