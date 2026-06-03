@@ -1,0 +1,44 @@
+{
+  "anime_name": "Give It All",
+  "anime_url": "https://hianime.ad/anime/give-it-all",
+  "slug": "give-it-all",
+  "mal_id": 30831,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:08:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "This Self-Proclaimed Goddess and Reincarnation in Another World!",
+      "episode_url": "https://hianime.ad/watch/give-it-all/ep-1",
+      "sub": {
+        "HD-1": {
+          "30831-malep-1_vibeplayer_sub": "https://vibeplayer.site/bec065914cb41be7",
+          "30831-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bec065914cb41be7/master.m3u8"
+        },
+        "Earnvids": {
+          "30831-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ceaqg9qoawid",
+          "30831-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30831-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6a0bb2dc6f0f629a",
+          "30831-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a0bb2dc6f0f629a/master.m3u8"
+        },
+        "StreamHG": {
+          "30831-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vvnvwglwbjn0",
+          "30831-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30831-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3vlbudgwth3d",
+          "30831-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30831-malep-1_playmogo_hsub": "https://playmogo.com/e/ll9xfe8fo603",
+          "30831-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
