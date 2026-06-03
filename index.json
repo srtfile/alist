@@ -12458,5 +12458,15 @@
     "captured_at": "2026-06-03T04:11:33",
     "file": "data/captain-of-cosmos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-of-cosmos.json"
+  },
+  {
+    "slug": "captain-tsubasa",
+    "mal_id": 2116,
+    "anime_name": "Captain Tsubasa",
+    "anime_url": "https://hianime.ad/anime/captain-tsubasa",
+    "total_episodes": 128,
+    "captured_at": "2026-06-03T04:11:45",
+    "file": "data/captain-tsubasa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-tsubasa.json"
   }
 ]
