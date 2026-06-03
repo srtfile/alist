@@ -11418,5 +11418,15 @@
     "captured_at": "2026-06-03T02:52:40",
     "file": "data/bride-of-deimos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bride-of-deimos.json"
+  },
+  {
+    "slug": "bridge-my-little-friends",
+    "mal_id": 2104,
+    "anime_name": "Bridge My Little Friends",
+    "anime_url": "https://hianime.ad/anime/bridge-my-little-friends",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T02:52:52",
+    "file": "data/bridge-my-little-friends.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bridge-my-little-friends.json"
   }
 ]
