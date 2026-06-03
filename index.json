@@ -3998,5 +3998,15 @@
     "captured_at": "2026-06-03T19:30:39",
     "file": "data/hagane-orchestra.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hagane-orchestra.json"
+  },
+  {
+    "slug": "haibane-renmei",
+    "mal_id": 387,
+    "anime_name": "Haibane Renmei",
+    "anime_url": "https://hianime.ad/anime/haibane-renmei",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:31:01",
+    "file": "data/haibane-renmei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haibane-renmei.json"
   }
 ]
