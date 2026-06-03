@@ -15728,5 +15728,15 @@
     "captured_at": "2026-06-03T06:46:05",
     "file": "data/crimson.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crimson.json"
+  },
+  {
+    "slug": "crimson-wolf",
+    "mal_id": 3358,
+    "anime_name": "Crimson Wolf",
+    "anime_url": "https://hianime.ad/anime/crimson-wolf",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T06:46:27",
+    "file": "data/crimson-wolf.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crimson-wolf.json"
   }
 ]
