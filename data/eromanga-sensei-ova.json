@@ -1,0 +1,101 @@
+{
+  "anime_name": "Eromanga Sensei Ova",
+  "anime_url": "https://hianime.ad/anime/eromanga-sensei-ova",
+  "slug": "eromanga-sensei-ova",
+  "mal_id": 32901,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T10:34:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Little Sister, and the Sealed Room",
+      "episode_url": "https://hianime.ad/watch/eromanga-sensei-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "32901-malep-1_vibeplayer_sub": "https://vibeplayer.site/49cdab9fd67db76b",
+          "32901-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49cdab9fd67db76b/master.m3u8"
+        },
+        "HD-2": {
+          "32901-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb925539feebe3311315ae5a76295a8874h",
+          "32901-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32901-malep-1_otakuvid_sub": "https://otakuvid.online/embed/12ykmcvkodtc",
+          "32901-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32901-malep-1_playmogo_sub": "https://playmogo.com/e/u6xxts69tvzn",
+          "32901-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32901-malep-1_vibeplayer_hsub": "https://vibeplayer.site/66eefc36ebbe9368",
+          "32901-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66eefc36ebbe9368/master.m3u8"
+        },
+        "HD-2": {
+          "32901-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1e92e2ab1b0a4d68ee5f2d8925f35d034h",
+          "32901-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32901-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vfs6vm5sqq5c",
+          "32901-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32901-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/01uvx637alo4",
+          "32901-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32901-malep-1_playmogo_hsub": "https://playmogo.com/e/miehezas0hzv",
+          "32901-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Class Rep with a Normie Life, and a Fearless Fairy",
+      "episode_url": "https://hianime.ad/watch/eromanga-sensei-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "32901-malep-2_vibeplayer_sub": "https://vibeplayer.site/787552b660d15606",
+          "32901-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/787552b660d15606/master.m3u8"
+        },
+        "HD-2": {
+          "32901-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag7871ead5ec2713c59cbe0bddcd1dc3fb4h",
+          "32901-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32901-malep-2_otakuhg_sub": "https://otakuhg.site/e/fli3kfxp28z7",
+          "32901-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32901-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ylek0robq2hg",
+          "32901-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32901-malep-2_vibeplayer_hsub": "https://vibeplayer.site/df38fd5168389d1f",
+          "32901-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/df38fd5168389d1f/master.m3u8"
+        },
+        "HD-2": {
+          "32901-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agfd0f614a47230127440aa2a4dec571954h",
+          "32901-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32901-malep-2_otakuhg_hsub": "https://otakuhg.site/e/3y0xldt8eocx",
+          "32901-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32901-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/5xxjstcwvd89",
+          "32901-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32901-malep-2_playmogo_hsub": "https://playmogo.com/e/nvhfwth3htli",
+          "32901-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
