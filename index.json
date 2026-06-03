@@ -16758,5 +16758,15 @@
     "captured_at": "2026-06-03T07:46:36",
     "file": "data/date-a-live-date-to-date.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-date-to-date.json"
+  },
+  {
+    "slug": "dawn-of-the-world",
+    "mal_id": 25013,
+    "anime_name": "Dawn Of The World",
+    "anime_url": "https://hianime.ad/anime/dawn-of-the-world",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T07:46:46",
+    "file": "data/dawn-of-the-world.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dawn-of-the-world.json"
   }
 ]
