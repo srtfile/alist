@@ -14018,5 +14018,15 @@
     "captured_at": "2026-06-03T05:50:03",
     "file": "data/chronicles-of-the-going-home-club-chibi-theater.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chronicles-of-the-going-home-club-chibi-theater.json"
+  },
+  {
+    "slug": "chrono-crusade",
+    "mal_id": 60,
+    "anime_name": "Chrono Crusade",
+    "anime_url": "https://hianime.ad/anime/chrono-crusade",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T05:50:23",
+    "file": "data/chrono-crusade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chrono-crusade.json"
   }
 ]
