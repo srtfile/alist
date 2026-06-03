@@ -21028,5 +21028,15 @@
     "captured_at": "2026-06-03T10:14:50",
     "file": "data/ef-a-tale-of-memories-prologue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ef-a-tale-of-memories-prologue.json"
+  },
+  {
+    "slug": "egumi-legacy",
+    "mal_id": 58926,
+    "anime_name": "Egumi Legacy",
+    "anime_url": "https://hianime.ad/anime/egumi-legacy",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:15:01",
+    "file": "data/egumi-legacy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/egumi-legacy.json"
   }
 ]
