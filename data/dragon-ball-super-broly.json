@@ -1,0 +1,73 @@
+{
+  "anime_name": "Dragon Ball Super Broly",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-super-broly",
+  "slug": "dragon-ball-super-broly",
+  "mal_id": 30694,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:35:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World Peace Prize. Who's Getting the 100 Million Zeni?!",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-super-broly/ep-1",
+      "sub": {
+        "HD-1": {
+          "30694-malep-1_vibeplayer_sub": "https://vibeplayer.site/40e59181391f977d",
+          "30694-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/40e59181391f977d/master.m3u8"
+        },
+        "HD-2": {
+          "30694-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag663bdd6695496f9ba116bd57b0bcaf2b4h",
+          "30694-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "30694-malep-1_otakuhg_sub": "https://otakuhg.site/e/al9te8a0421q",
+          "30694-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30694-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rpmsc9dznkrm",
+          "30694-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "30694-malep-1_vibeplayer_dub": "https://vibeplayer.site/896b1c14cc8c428c",
+          "30694-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/896b1c14cc8c428c/master.m3u8"
+        },
+        "HD-2": {
+          "30694-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga642002807959c5534a086ba644022684h",
+          "30694-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "30694-malep-1_otakuhg_dub": "https://otakuhg.site/e/t1bgbfqygf78",
+          "30694-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "30694-malep-1_otakuvid_dub": "https://otakuvid.online/embed/fn0um9074noy",
+          "30694-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "30694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0935c477c27995f7",
+          "30694-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0935c477c27995f7/master.m3u8"
+        },
+        "HD-2": {
+          "30694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag15e4575eafca3ee101d86c3b4c2283334h",
+          "30694-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30694-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0aug74vd7vyh",
+          "30694-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30694-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zcq3qohd9zpo",
+          "30694-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30694-malep-1_playmogo_hsub": "https://playmogo.com/e/j9cnyg49su4u",
+          "30694-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
