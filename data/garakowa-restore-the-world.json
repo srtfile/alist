@@ -1,0 +1,56 @@
+{
+  "anime_name": "Garakowa Restore The World",
+  "anime_url": "https://hianime.ad/anime/garakowa-restore-the-world",
+  "slug": "garakowa-restore-the-world",
+  "mal_id": 35079,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:53:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Inside the Forest, Part B / A Country Where People Can Kill Others / Inside the Forest, Part A",
+      "episode_url": "https://hianime.ad/watch/garakowa-restore-the-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "35079-malep-1_vibeplayer_sub": "https://vibeplayer.site/f418d6a6adf70581",
+          "35079-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f418d6a6adf70581/master.m3u8"
+        },
+        "HD-2": {
+          "35079-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7ab918c27db433cdf23d751ffb9c4e5c4h",
+          "35079-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35079-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tfidpyr7gf8c",
+          "35079-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35079-malep-1_playmogo_sub": "https://playmogo.com/e/ihs0if7o4x37",
+          "35079-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35079-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b834c0857bd3479f",
+          "35079-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b834c0857bd3479f/master.m3u8"
+        },
+        "HD-2": {
+          "35079-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag77c4991f3ab2940edac320631bca02fe4h",
+          "35079-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "35079-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kaq6ugiwejn5",
+          "35079-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35079-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cfh6iftlo0g8",
+          "35079-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35079-malep-1_playmogo_hsub": "https://playmogo.com/e/v2uabhhz0mwk",
+          "35079-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
