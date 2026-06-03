@@ -1,0 +1,56 @@
+{
+  "anime_name": "Food Wars The Third Plate Ova",
+  "anime_url": "https://hianime.ad/anime/food-wars-the-third-plate-ova",
+  "slug": "food-wars-the-third-plate-ova",
+  "mal_id": 35788,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:48:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Challenging the Elite Ten",
+      "episode_url": "https://hianime.ad/watch/food-wars-the-third-plate-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "35788-malep-1_vibeplayer_sub": "https://vibeplayer.site/6b97ad5161ab7acd",
+          "35788-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b97ad5161ab7acd/master.m3u8"
+        },
+        "HD-2": {
+          "35788-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8a3523ec671068c926cc85d05327962d4h",
+          "35788-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "35788-malep-1_otakuhg_sub": "https://otakuhg.site/e/2jc8h52o8d5l",
+          "35788-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35788-malep-1_otakuvid_sub": "https://otakuvid.online/embed/iwlqwyrc2wvv",
+          "35788-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35788-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c016990ac9a62d9d",
+          "35788-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c016990ac9a62d9d/master.m3u8"
+        },
+        "HD-2": {
+          "35788-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9e4584d82b0b0c5cb2891c6782a323764h",
+          "35788-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "35788-malep-1_otakuhg_hsub": "https://otakuhg.site/e/87rwgpp4ne06",
+          "35788-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35788-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jt5ccdebjdg9",
+          "35788-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35788-malep-1_playmogo_hsub": "https://playmogo.com/e/f1tpxt7ykkaa",
+          "35788-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
