@@ -1,0 +1,56 @@
+{
+  "anime_name": "Digimon Savers The Movie Kyuukyoku Power Burst Mode Hatsudou",
+  "anime_url": "https://hianime.ad/anime/digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou",
+  "slug": "digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou",
+  "mal_id": 859,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:33:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I am Masaru! Cockatrimon Strikes",
+      "episode_url": "https://hianime.ad/watch/digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou/ep-1",
+      "sub": {
+        "HD-1": {
+          "859-malep-1_vibeplayer_sub": "https://vibeplayer.site/719915a79ab5e550",
+          "859-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/719915a79ab5e550/master.m3u8"
+        },
+        "HD-2": {
+          "859-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8840177c4bd2b85cb80547951e1f412c4h",
+          "859-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "859-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ocwsuwompzpf",
+          "859-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "859-malep-1_playmogo_sub": "https://playmogo.com/e/bcecaghsj4e2",
+          "859-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "859-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1297dfb9d1846a4f",
+          "859-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1297dfb9d1846a4f/master.m3u8"
+        },
+        "HD-2": {
+          "859-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd5ae556f2e421b9b0ff3d94ea4f4f5504h",
+          "859-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "859-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mhc3zj1binns",
+          "859-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "859-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i3fi5lzbp0qe",
+          "859-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "859-malep-1_playmogo_hsub": "https://playmogo.com/e/5s9e66kdpy7v",
+          "859-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
