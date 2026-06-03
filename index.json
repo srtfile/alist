@@ -5948,5 +5948,15 @@
     "captured_at": "2026-06-03T20:40:17",
     "file": "data/heroman-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heroman-specials.json"
+  },
+  {
+    "slug": "hetalia-axis-powers",
+    "mal_id": 56481,
+    "anime_name": "Hetalia Axis Powers",
+    "anime_url": "https://hianime.ad/anime/hetalia-axis-powers",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T20:40:32",
+    "file": "data/hetalia-axis-powers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hetalia-axis-powers.json"
   }
 ]
