@@ -5928,5 +5928,15 @@
     "captured_at": "2026-06-03T20:39:20",
     "file": "data/heroines-run-the-show-the-unpopular-girl-and-the-secret-task.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heroines-run-the-show-the-unpopular-girl-and-the-secret-task.json"
+  },
+  {
+    "slug": "heroman",
+    "mal_id": 4334,
+    "anime_name": "Heroman",
+    "anime_url": "https://hianime.ad/anime/heroman",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T20:39:42",
+    "file": "data/heroman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heroman.json"
   }
 ]
