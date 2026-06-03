@@ -17438,5 +17438,15 @@
     "captured_at": "2026-06-03T08:07:28",
     "file": "data/descending-stories-showa-genroku-rakugo-shinju.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/descending-stories-showa-genroku-rakugo-shinju.json"
+  },
+  {
+    "slug": "desert-punk",
+    "mal_id": 25,
+    "anime_name": "Desert Punk",
+    "anime_url": "https://hianime.ad/anime/desert-punk",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T08:07:48",
+    "file": "data/desert-punk.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/desert-punk.json"
   }
 ]
