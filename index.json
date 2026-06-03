@@ -5788,5 +5788,15 @@
     "captured_at": "2026-06-03T20:33:03",
     "file": "data/hentai-ouji-to-warawanai-neko-henneko-bbs.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hentai-ouji-to-warawanai-neko-henneko-bbs.json"
+  },
+  {
+    "slug": "hentatsu-tv",
+    "mal_id": 40995,
+    "anime_name": "Hentatsu Tv",
+    "anime_url": "https://hianime.ad/anime/hentatsu-tv",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:33:26",
+    "file": "data/hentatsu-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hentatsu-tv.json"
   }
 ]
