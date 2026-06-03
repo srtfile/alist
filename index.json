@@ -18888,5 +18888,15 @@
     "captured_at": "2026-06-03T08:52:44",
     "file": "data/dolls-frontline.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dolls-frontline.json"
+  },
+  {
+    "slug": "domestic-girlfriend",
+    "mal_id": 37982,
+    "anime_name": "Domestic Girlfriend",
+    "anime_url": "https://hianime.ad/anime/domestic-girlfriend",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:53:06",
+    "file": "data/domestic-girlfriend.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/domestic-girlfriend.json"
   }
 ]
