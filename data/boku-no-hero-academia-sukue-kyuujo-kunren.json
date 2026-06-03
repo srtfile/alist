@@ -1,0 +1,60 @@
+{
+  "anime_name": "Boku No Hero Academia Sukue Kyuujo Kunren",
+  "anime_url": "https://hianime.ad/anime/boku-no-hero-academia-sukue-kyuujo-kunren",
+  "slug": "boku-no-hero-academia-sukue-kyuujo-kunren",
+  "mal_id": 31964,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:30:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Izuku Midoriya: Origin",
+      "episode_url": "https://hianime.ad/watch/boku-no-hero-academia-sukue-kyuujo-kunren/ep-1",
+      "sub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/5a219e67c2c21ae6",
+          "31964-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a219e67c2c21ae6/master.m3u8"
+        },
+        "HD-2": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag09c5fce4c7e07725844d88d04c3147044h",
+          "31964-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_sub": "https://otakuhg.site/e/0emi3lkh2ykj",
+          "31964-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7et5cwa9d79n",
+          "31964-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_sub": "https://playmogo.com/e/h0uvqhvojzaw",
+          "31964-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/54ea46b7607bca76",
+          "31964-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54ea46b7607bca76/master.m3u8"
+        },
+        "HD-2": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8e5cb51a5b9ddc6181332146f368738a4h",
+          "31964-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s48bfkox3n9p",
+          "31964-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ws1okkqu9afp",
+          "31964-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_hsub": "https://playmogo.com/e/pbwu8r58btws",
+          "31964-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
