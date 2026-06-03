@@ -21438,5 +21438,15 @@
     "captured_at": "2026-06-03T10:28:53",
     "file": "data/energetic-bomb-ganbaruger.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/energetic-bomb-ganbaruger.json"
+  },
+  {
+    "slug": "engage-kiss",
+    "mal_id": 51417,
+    "anime_name": "Engage Kiss",
+    "anime_url": "https://hianime.ad/anime/engage-kiss",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T10:29:42",
+    "file": "data/engage-kiss.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/engage-kiss.json"
   }
 ]
