@@ -15318,5 +15318,15 @@
     "captured_at": "2026-06-03T06:35:28",
     "file": "data/cosplay-complex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cosplay-complex.json"
+  },
+  {
+    "slug": "cowboy-bebop",
+    "mal_id": 1,
+    "anime_name": "Cowboy Bebop",
+    "anime_url": "https://hianime.ad/anime/cowboy-bebop",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T06:35:42",
+    "file": "data/cowboy-bebop.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cowboy-bebop.json"
   }
 ]
