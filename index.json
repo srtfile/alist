@@ -9748,5 +9748,15 @@
     "captured_at": "2026-06-03T00:27:02",
     "file": "data/black-and-white-warriors-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-and-white-warriors-3.json"
+  },
+  {
+    "slug": "black-blood-brothers",
+    "mal_id": 1498,
+    "anime_name": "Black Blood Brothers",
+    "anime_url": "https://hianime.ad/anime/black-blood-brothers",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:27:22",
+    "file": "data/black-blood-brothers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-blood-brothers.json"
   }
 ]
