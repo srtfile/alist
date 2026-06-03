@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ex Driver Nina Rei Danger Zone",
+  "anime_url": "https://hianime.ad/anime/ex-driver-nina-rei-danger-zone",
+  "slug": "ex-driver-nina-rei-danger-zone",
+  "mal_id": 1005,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:46:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Transport",
+      "episode_url": "https://hianime.ad/watch/ex-driver-nina-rei-danger-zone/ep-1",
+      "sub": {
+        "HD-1": {
+          "1005-malep-1_vibeplayer_sub": "https://vibeplayer.site/34a33c8c1eb3be89",
+          "1005-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34a33c8c1eb3be89/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga5c15452dbd461c37474a02084ff44e74h",
+          "1005-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5b3r1221upen",
+          "1005-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-1_playmogo_sub": "https://playmogo.com/e/226gt060oc7m",
+          "1005-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1005-malep-1_vibeplayer_hsub": "https://vibeplayer.site/db7a66ba8b12df03",
+          "1005-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/db7a66ba8b12df03/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag15ecdc21e3de583b8b8857163995087d4h",
+          "1005-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xsgf23kdhm6r",
+          "1005-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-1_playmogo_hsub": "https://playmogo.com/e/p394h1nk4r60",
+          "1005-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
