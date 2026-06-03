@@ -16418,5 +16418,15 @@
     "captured_at": "2026-06-03T07:36:40",
     "file": "data/dan-doh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dan-doh.json"
+  },
+  {
+    "slug": "dance-dance-danseur",
+    "mal_id": 48702,
+    "anime_name": "Dance Dance Danseur",
+    "anime_url": "https://hianime.ad/anime/dance-dance-danseur",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T07:37:11",
+    "file": "data/dance-dance-danseur.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dance-dance-danseur.json"
   }
 ]
