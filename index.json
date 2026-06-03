@@ -3508,5 +3508,15 @@
     "captured_at": "2026-06-03T19:13:53",
     "file": "data/gunbuster.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunbuster.json"
+  },
+  {
+    "slug": "gunbuster-2",
+    "mal_id": 38524,
+    "anime_name": "Gunbuster 2",
+    "anime_url": "https://hianime.ad/anime/gunbuster-2",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T19:14:11",
+    "file": "data/gunbuster-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunbuster-2.json"
   }
 ]
