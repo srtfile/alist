@@ -9508,5 +9508,15 @@
     "captured_at": "2026-06-03T00:20:15",
     "file": "data/big-windup-580.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-windup-580.json"
+  },
+  {
+    "slug": "big-windup-2",
+    "mal_id": 7720,
+    "anime_name": "Big Windup 2",
+    "anime_url": "https://hianime.ad/anime/big-windup-2",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:20:46",
+    "file": "data/big-windup-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-windup-2.json"
   }
 ]
