@@ -17848,5 +17848,15 @@
     "captured_at": "2026-06-03T08:16:44",
     "file": "data/devil-hunter-yohko.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devil-hunter-yohko.json"
+  },
+  {
+    "slug": "devil-may-cry",
+    "mal_id": 1726,
+    "anime_name": "Devil May Cry",
+    "anime_url": "https://hianime.ad/anime/devil-may-cry",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:17:00",
+    "file": "data/devil-may-cry.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devil-may-cry.json"
   }
 ]
