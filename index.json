@@ -5108,5 +5108,15 @@
     "captured_at": "2026-06-03T20:07:51",
     "file": "data/harukanaru-toki-no-naka-de-3-owarinaki-unmei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/harukanaru-toki-no-naka-de-3-owarinaki-unmei.json"
+  },
+  {
+    "slug": "hataraki-man",
+    "mal_id": 1592,
+    "anime_name": "Hataraki Man",
+    "anime_url": "https://hianime.ad/anime/hataraki-man",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T20:08:04",
+    "file": "data/hataraki-man.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hataraki-man.json"
   }
 ]
