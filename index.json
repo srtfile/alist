@@ -21698,5 +21698,15 @@
     "captured_at": "2026-06-03T10:38:09",
     "file": "data/etotama-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/etotama-2.json"
+  },
+  {
+    "slug": "etotama-specials",
+    "mal_id": 28221,
+    "anime_name": "Etotama Specials",
+    "anime_url": "https://hianime.ad/anime/etotama-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T10:38:20",
+    "file": "data/etotama-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/etotama-specials.json"
   }
 ]
