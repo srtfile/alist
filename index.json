@@ -11638,5 +11638,15 @@
     "captured_at": "2026-06-03T02:58:57",
     "file": "data/bubble.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bubble.json"
+  },
+  {
+    "slug": "bubblegum-crash",
+    "mal_id": 568,
+    "anime_name": "Bubblegum Crash",
+    "anime_url": "https://hianime.ad/anime/bubblegum-crash",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T02:59:09",
+    "file": "data/bubblegum-crash.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bubblegum-crash.json"
   }
 ]
