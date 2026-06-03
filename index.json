@@ -4708,5 +4708,15 @@
     "captured_at": "2026-06-03T19:54:13",
     "file": "data/hanayaka-nari-waga-ichizoku-kinetograph.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanayaka-nari-waga-ichizoku-kinetograph.json"
+  },
+  {
+    "slug": "hanayamata",
+    "mal_id": 21681,
+    "anime_name": "Hanayamata",
+    "anime_url": "https://hianime.ad/anime/hanayamata",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:54:26",
+    "file": "data/hanayamata.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanayamata.json"
   }
 ]
