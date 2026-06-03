@@ -13638,5 +13638,15 @@
     "captured_at": "2026-06-03T05:31:33",
     "file": "data/chidori-rsc.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chidori-rsc.json"
+  },
+  {
+    "slug": "chihayafuru",
+    "mal_id": 10800,
+    "anime_name": "Chihayafuru",
+    "anime_url": "https://hianime.ad/anime/chihayafuru",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T05:31:55",
+    "file": "data/chihayafuru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chihayafuru.json"
   }
 ]
