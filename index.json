@@ -4018,5 +4018,15 @@
     "captured_at": "2026-06-03T19:31:24",
     "file": "data/haibaras-teenage-new-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haibaras-teenage-new-game.json"
+  },
+  {
+    "slug": "haigakura",
+    "mal_id": 56420,
+    "anime_name": "Haigakura",
+    "anime_url": "https://hianime.ad/anime/haigakura",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:31:44",
+    "file": "data/haigakura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haigakura.json"
   }
 ]
