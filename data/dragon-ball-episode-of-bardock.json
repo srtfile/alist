@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dragon Ball Episode Of Bardock",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-episode-of-bardock",
+  "slug": "dragon-ball-episode-of-bardock",
+  "mal_id": 223,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:46:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Secret of the Dragon Balls",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-episode-of-bardock/ep-1",
+      "sub": {
+        "HD-1": {
+          "223-malep-1_vibeplayer_sub": "https://vibeplayer.site/e222d403ee15434a",
+          "223-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e222d403ee15434a/master.m3u8"
+        },
+        "HD-2": {
+          "223-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2fa1d6a9c07b5bbf145d90393a6d86324h",
+          "223-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "223-malep-1_otakuhg_sub": "https://otakuhg.site/e/qaaf5asy6d0s",
+          "223-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "223-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vse2lt3s0vig",
+          "223-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "223-malep-1_vibeplayer_hsub": "https://vibeplayer.site/09c2525644d7a8b3",
+          "223-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09c2525644d7a8b3/master.m3u8"
+        },
+        "HD-2": {
+          "223-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag713c66a717c8052357f96cd6396673624h",
+          "223-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "223-malep-1_otakuhg_hsub": "https://otakuhg.site/e/elbim9exdwcs",
+          "223-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "223-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3xsc6u38uuxy",
+          "223-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "223-malep-1_playmogo_hsub": "https://playmogo.com/e/8qghifgx5wj5",
+          "223-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
