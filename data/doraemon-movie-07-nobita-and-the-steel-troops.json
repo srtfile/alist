@@ -1,0 +1,77 @@
+{
+  "anime_name": "Doraemon Movie 07 Nobita And The Steel Troops",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-07-nobita-and-the-steel-troops",
+  "slug": "doraemon-movie-07-nobita-and-the-steel-troops",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:03:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-07-nobita-and-the-steel-troops/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/655f131ec8d3c514",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/655f131ec8d3c514/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag434a3fdd8145ce0dd0fbb672082e19ca4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/8y536lg1e9gj",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/nygtcfn19bcw",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/d5bcee0a95eb54f3",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d5bcee0a95eb54f3/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag4089c2c13dd303471417fe51169363874h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/5qghuc1ktski",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/9hdfl0zdjw6e",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/h0jbssaok1gh",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/484c840970d58d3b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/484c840970d58d3b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4a8390ba687aa2333aca84b9409d49b54h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/v9asjn9da85k",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3ajtvvlcuwgo",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qs4vdp7fttae",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
