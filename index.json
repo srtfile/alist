@@ -23678,5 +23678,15 @@
     "captured_at": "2026-06-03T12:39:44",
     "file": "data/flcl-progressive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-progressive.json"
+  },
+  {
+    "slug": "flcl-grunge",
+    "mal_id": 51304,
+    "anime_name": "Flcl Grunge",
+    "anime_url": "https://hianime.ad/anime/flcl-grunge",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:39:59",
+    "file": "data/flcl-grunge.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-grunge.json"
   }
 ]
