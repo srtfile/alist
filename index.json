@@ -18378,5 +18378,15 @@
     "captured_at": "2026-06-03T08:35:01",
     "file": "data/digimon-tamers-runaway-locomon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-tamers-runaway-locomon.json"
+  },
+  {
+    "slug": "digimon-universe-app-monsters",
+    "mal_id": 33314,
+    "anime_name": "Digimon Universe App Monsters",
+    "anime_url": "https://hianime.ad/anime/digimon-universe-app-monsters",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T08:35:11",
+    "file": "data/digimon-universe-app-monsters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-universe-app-monsters.json"
   }
 ]
