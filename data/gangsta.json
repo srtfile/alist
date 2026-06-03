@@ -1,0 +1,61 @@
+{
+  "anime_name": "Gangsta",
+  "anime_url": "https://hianime.ad/anime/gangsta",
+  "slug": "gangsta",
+  "mal_id": 25183,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:51:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Naughty Boys",
+      "episode_url": "https://hianime.ad/watch/gangsta/ep-1",
+      "sub": {
+        "HD-1": {
+          "25183-malep-1_vibeplayer_sub": "https://vibeplayer.site/48490c0cd96b6b7f",
+          "25183-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48490c0cd96b6b7f/master.m3u8"
+        },
+        "HD-2": {
+          "25183-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1869cc9dc0dd57f250b66b6df66783424h",
+          "25183-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25183-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pt7quj5jc5tk",
+          "25183-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "25183-malep-1_vibeplayer_dub": "https://vibeplayer.site/49e1dd21225edf6a",
+          "25183-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/49e1dd21225edf6a/master.m3u8"
+        },
+        "HD-2": {
+          "25183-malep-1_vibeplayer_dub": "https://vibeplayer.site/agc936650de21fa5329ea15e5fde2ecd394h",
+          "25183-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "25183-malep-1_otakuvid_dub": "https://otakuvid.online/embed/t13uwbej58ya",
+          "25183-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "25183-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fa74bd027b140fc6",
+          "25183-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa74bd027b140fc6/master.m3u8"
+        },
+        "HD-2": {
+          "25183-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8687c2f108ef6bf3587ac60a03d1e6a84h",
+          "25183-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25183-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/afjwewdsk7g5",
+          "25183-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25183-malep-1_playmogo_hsub": "https://playmogo.com/e/i6q1hrzylfoq",
+          "25183-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
