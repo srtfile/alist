@@ -2248,5 +2248,15 @@
     "captured_at": "2026-06-03T18:26:44",
     "file": "data/god-of-desolation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-desolation.json"
+  },
+  {
+    "slug": "god-of-ten-thousand-realms",
+    "mal_id": 41353,
+    "anime_name": "God Of Ten Thousand Realms",
+    "anime_url": "https://hianime.ad/anime/god-of-ten-thousand-realms",
+    "total_episodes": 54,
+    "captured_at": "2026-06-03T18:28:06",
+    "file": "data/god-of-ten-thousand-realms.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-ten-thousand-realms.json"
   }
 ]
