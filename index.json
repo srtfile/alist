@@ -23418,5 +23418,15 @@
     "captured_at": "2026-06-03T12:29:15",
     "file": "data/fireball-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fireball-special.json"
+  },
+  {
+    "slug": "fireball-charming",
+    "mal_id": 10348,
+    "anime_name": "Fireball Charming",
+    "anime_url": "https://hianime.ad/anime/fireball-charming",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:29:27",
+    "file": "data/fireball-charming.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fireball-charming.json"
   }
 ]
