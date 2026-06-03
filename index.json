@@ -3988,5 +3988,15 @@
     "captured_at": "2026-06-03T19:30:17",
     "file": "data/haganai-i-dont-have-many-friends-next.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haganai-i-dont-have-many-friends-next.json"
+  },
+  {
+    "slug": "hagane-orchestra",
+    "mal_id": 34013,
+    "anime_name": "Hagane Orchestra",
+    "anime_url": "https://hianime.ad/anime/hagane-orchestra",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:30:39",
+    "file": "data/hagane-orchestra.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hagane-orchestra.json"
   }
 ]
