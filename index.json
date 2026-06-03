@@ -16308,5 +16308,15 @@
     "captured_at": "2026-06-03T07:33:16",
     "file": "data/daily-lives-of-high-school-boys.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daily-lives-of-high-school-boys.json"
+  },
+  {
+    "slug": "daily-lives-of-high-school-boys-specials",
+    "mal_id": 11843,
+    "anime_name": "Daily Lives Of High School Boys Specials",
+    "anime_url": "https://hianime.ad/anime/daily-lives-of-high-school-boys-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T07:33:35",
+    "file": "data/daily-lives-of-high-school-boys-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daily-lives-of-high-school-boys-specials.json"
   }
 ]
