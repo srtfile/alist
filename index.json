@@ -6678,5 +6678,15 @@
     "captured_at": "2026-06-03T21:06:47",
     "file": "data/himegoto.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himegoto.json"
+  },
+  {
+    "slug": "himeyuri",
+    "mal_id": null,
+    "anime_name": "Himeyuri",
+    "anime_url": "https://hianime.ad/anime/himeyuri",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T21:07:10",
+    "file": "data/himeyuri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himeyuri.json"
   }
 ]
