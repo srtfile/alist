@@ -1,0 +1,73 @@
+{
+  "anime_name": "Fairy Tail Movie 2 Dragon Cry",
+  "anime_url": "https://hianime.ad/anime/fairy-tail-movie-2-dragon-cry",
+  "slug": "fairy-tail-movie-2-dragon-cry",
+  "mal_id": 6702,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:03:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Fairy Tail",
+      "episode_url": "https://hianime.ad/watch/fairy-tail-movie-2-dragon-cry/ep-1",
+      "sub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_sub": "https://vibeplayer.site/584e1b2cfa332cda",
+          "6702-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/584e1b2cfa332cda/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4c710616e1bf63727fe9147fc844c2814h",
+          "6702-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4dlgjp1hwbzs",
+          "6702-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_dub": "https://vibeplayer.site/12679111651db7f5",
+          "6702-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/12679111651db7f5/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag081a07a899bcbc020f46b3ae1bbf46d94h",
+          "6702-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "6702-malep-1_otakuhg_dub": "https://otakuhg.site/e/q1lnhwy6j7n0",
+          "6702-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_dub": "https://otakuvid.online/embed/srhjj5dhsuea",
+          "6702-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "6702-malep-1_playmogo_dub": "https://playmogo.com/e/3y54sr52dda5",
+          "6702-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_hsub": "https://vibeplayer.site/184ef4945aa7b2f6",
+          "6702-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/184ef4945aa7b2f6/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb7b5f15588c2a801c0457c7ad3a615574h",
+          "6702-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "6702-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y4yu43w4v636",
+          "6702-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xg5ybz3bbnot",
+          "6702-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6702-malep-1_playmogo_hsub": "https://playmogo.com/e/e4nnu9h46yj3",
+          "6702-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
