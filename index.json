@@ -4048,5 +4048,15 @@
     "captured_at": "2026-06-03T19:32:19",
     "file": "data/haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman.json"
+  },
+  {
+    "slug": "haikyu",
+    "mal_id": 20583,
+    "anime_name": "Haikyu",
+    "anime_url": "https://hianime.ad/anime/haikyu",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T19:32:31",
+    "file": "data/haikyu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/haikyu.json"
   }
 ]
