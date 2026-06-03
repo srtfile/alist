@@ -11958,5 +11958,15 @@
     "captured_at": "2026-06-03T03:51:55",
     "file": "data/burning-kabaddi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burning-kabaddi.json"
+  },
+  {
+    "slug": "burst-angel",
+    "mal_id": 109,
+    "anime_name": "Burst Angel",
+    "anime_url": "https://hianime.ad/anime/burst-angel",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T03:52:17",
+    "file": "data/burst-angel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burst-angel.json"
   }
 ]
