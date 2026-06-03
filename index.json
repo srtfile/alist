@@ -6648,5 +6648,15 @@
     "captured_at": "2026-06-03T21:05:05",
     "file": "data/hikaru-no-go-hokuto-hai-e-no-michi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikaru-no-go-hokuto-hai-e-no-michi.json"
+  },
+  {
+    "slug": "himawari",
+    "mal_id": 910,
+    "anime_name": "Himawari",
+    "anime_url": "https://hianime.ad/anime/himawari",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T21:05:17",
+    "file": "data/himawari.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himawari.json"
   }
 ]
