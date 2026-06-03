@@ -1368,5 +1368,15 @@
     "captured_at": "2026-06-03T17:55:54",
     "file": "data/gintama-3-z-ginpachi-sensei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-3-z-ginpachi-sensei.json"
+  },
+  {
+    "slug": "gintama-dai-hanseikai",
+    "mal_id": 9969,
+    "anime_name": "Gintama Dai Hanseikai",
+    "anime_url": "https://hianime.ad/anime/gintama-dai-hanseikai",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:56:15",
+    "file": "data/gintama-dai-hanseikai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-dai-hanseikai.json"
   }
 ]
