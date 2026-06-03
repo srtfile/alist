@@ -21648,5 +21648,15 @@
     "captured_at": "2026-06-03T10:36:24",
     "file": "data/establishment-in-life.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/establishment-in-life.json"
+  },
+  {
+    "slug": "eternal-alice",
+    "mal_id": 577,
+    "anime_name": "Eternal Alice",
+    "anime_url": "https://hianime.ad/anime/eternal-alice",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T10:36:44",
+    "file": "data/eternal-alice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eternal-alice.json"
   }
 ]
