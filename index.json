@@ -17068,5 +17068,15 @@
     "captured_at": "2026-06-03T07:56:12",
     "file": "data/dekin-no-mogura-the-earthbound-mole.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dekin-no-mogura-the-earthbound-mole.json"
+  },
+  {
+    "slug": "delicious-in-dungeon",
+    "mal_id": 52701,
+    "anime_name": "Delicious In Dungeon",
+    "anime_url": "https://hianime.ad/anime/delicious-in-dungeon",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T07:56:32",
+    "file": "data/delicious-in-dungeon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-in-dungeon.json"
   }
 ]
