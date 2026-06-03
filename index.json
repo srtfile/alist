@@ -19828,5 +19828,15 @@
     "captured_at": "2026-06-03T09:28:29",
     "file": "data/dragon-age-dawn-of-the-seeker.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-age-dawn-of-the-seeker.json"
+  },
+  {
+    "slug": "dragon-ball",
+    "mal_id": 223,
+    "anime_name": "Dragon Ball",
+    "anime_url": "https://hianime.ad/anime/dragon-ball",
+    "total_episodes": 153,
+    "captured_at": "2026-06-03T09:28:40",
+    "file": "data/dragon-ball.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball.json"
   }
 ]
