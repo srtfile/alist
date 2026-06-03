@@ -1,0 +1,103 @@
+{
+  "anime_name": "Fire Emblem",
+  "anime_url": "https://hianime.ad/anime/fire-emblem",
+  "slug": "fire-emblem",
+  "mal_id": 4667,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T12:23:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wishes For The Stars",
+      "episode_url": "https://hianime.ad/watch/fire-emblem/ep-1",
+      "sub": {
+        "HD-1": {
+          "4667-malep-1_vibeplayer_sub": "https://vibeplayer.site/fb05dcb2c3fc1275",
+          "4667-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb05dcb2c3fc1275/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf83101f5e1ede053dc1ea13312dcb7a74h",
+          "4667-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-1_otakuvid_sub": "https://otakuvid.online/embed/42mroo7hpqev",
+          "4667-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4667-malep-1_vibeplayer_dub": "https://vibeplayer.site/1554f1721de83d07",
+          "4667-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1554f1721de83d07/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-1_vibeplayer_dub": "https://vibeplayer.site/agde5dd186df03a349351ec5b02bed02da4h",
+          "4667-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zf5rkcbb8ewj",
+          "4667-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4667-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0299ea7995a6a3e",
+          "4667-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0299ea7995a6a3e/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6abd6100f7fcf81f2bf8538480fd0dc44h",
+          "4667-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9p1rdoahtef3",
+          "4667-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Crimson Warrior",
+      "episode_url": "https://hianime.ad/watch/fire-emblem/ep-2",
+      "sub": {
+        "HD-1": {
+          "4667-malep-2_vibeplayer_sub": "https://vibeplayer.site/1f13dcd9784fe8a1",
+          "4667-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f13dcd9784fe8a1/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag78408936ddb5d4699a5274e6eb90e4284h",
+          "4667-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-2_otakuvid_sub": "https://otakuvid.online/embed/04ru45tnu7jb",
+          "4667-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4667-malep-2_vibeplayer_dub": "https://vibeplayer.site/2879f3d7415e7841",
+          "4667-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2879f3d7415e7841/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag6cde3c1ef6b3965642ae0aa0913f110e4h",
+          "4667-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-2_otakuvid_dub": "https://otakuvid.online/embed/umib7fbtkl82",
+          "4667-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4667-malep-2_vibeplayer_hsub": "https://vibeplayer.site/07ac9f1ac071d031",
+          "4667-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07ac9f1ac071d031/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag1cd1bff88ab85d94e2e2bd2245c2ef594h",
+          "4667-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/fcw4xg41rdlu",
+          "4667-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
