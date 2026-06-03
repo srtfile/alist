@@ -1,0 +1,52 @@
+{
+  "anime_name": "Famous Dog Lassie Yume Ni Mukatte Hashire",
+  "anime_url": "https://hianime.ad/anime/famous-dog-lassie-yume-ni-mukatte-hashire",
+  "slug": "famous-dog-lassie-yume-ni-mukatte-hashire",
+  "mal_id": 3425,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:06:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I am not alone",
+      "episode_url": "https://hianime.ad/watch/famous-dog-lassie-yume-ni-mukatte-hashire/ep-1",
+      "sub": {
+        "HD-1": {
+          "3425-malep-1_vibeplayer_sub": "https://vibeplayer.site/d7f6aebe5b5bc138",
+          "3425-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7f6aebe5b5bc138/master.m3u8"
+        },
+        "HD-2": {
+          "3425-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7a9a16ecd80834c3993dbbe2b2c3a5544h",
+          "3425-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3425-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d8ruturb3nvq",
+          "3425-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3425-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9eef8777d089b0af",
+          "3425-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9eef8777d089b0af/master.m3u8"
+        },
+        "HD-2": {
+          "3425-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdeac6e420adbe83c93211fce9f351c8c4h",
+          "3425-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "3425-malep-1_otakuhg_hsub": "https://otakuhg.site/e/e694qt9uak3b",
+          "3425-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3425-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2l247eu4nrh5",
+          "3425-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3425-malep-1_playmogo_hsub": "https://playmogo.com/e/jt49guv9egf8",
+          "3425-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
