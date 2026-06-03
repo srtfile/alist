@@ -24828,5 +24828,15 @@
     "captured_at": "2026-06-03T13:18:22",
     "file": "data/fushigi-dagashiya-zenitendou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fushigi-dagashiya-zenitendou.json"
+  },
+  {
+    "slug": "fushigi-mahou-fun-fun-pharmacy",
+    "mal_id": 8503,
+    "anime_name": "Fushigi Mahou Fun Fun Pharmacy",
+    "anime_url": "https://hianime.ad/anime/fushigi-mahou-fun-fun-pharmacy",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T13:19:16",
+    "file": "data/fushigi-mahou-fun-fun-pharmacy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fushigi-mahou-fun-fun-pharmacy.json"
   }
 ]
