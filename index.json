@@ -15338,5 +15338,15 @@
     "captured_at": "2026-06-03T06:36:17",
     "file": "data/cowboy-bebop-session-xx.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cowboy-bebop-session-xx.json"
+  },
+  {
+    "slug": "cowboy-bebop-the-movie",
+    "mal_id": 1,
+    "anime_name": "Cowboy Bebop The Movie",
+    "anime_url": "https://hianime.ad/anime/cowboy-bebop-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T06:36:31",
+    "file": "data/cowboy-bebop-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cowboy-bebop-the-movie.json"
   }
 ]
