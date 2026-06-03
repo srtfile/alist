@@ -2938,5 +2938,15 @@
     "captured_at": "2026-06-03T18:52:19",
     "file": "data/grappler-baki-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grappler-baki-tv.json"
+  },
+  {
+    "slug": "grappler-baki-saidai-tournament-hen",
+    "mal_id": 551,
+    "anime_name": "Grappler Baki Saidai Tournament Hen",
+    "anime_url": "https://hianime.ad/anime/grappler-baki-saidai-tournament-hen",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T18:52:52",
+    "file": "data/grappler-baki-saidai-tournament-hen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grappler-baki-saidai-tournament-hen.json"
   }
 ]
