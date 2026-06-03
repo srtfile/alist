@@ -1,0 +1,56 @@
+{
+  "anime_name": "Doraemon Stand By Me 2",
+  "anime_url": "https://hianime.ad/anime/doraemon-stand-by-me-2",
+  "slug": "doraemon-stand-by-me-2",
+  "mal_id": 501,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:07:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Doraemon Is Here! / The Apology Cricket Riot",
+      "episode_url": "https://hianime.ad/watch/doraemon-stand-by-me-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "501-malep-1_vibeplayer_sub": "https://vibeplayer.site/66b0a7c6bc2c1eba",
+          "501-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/66b0a7c6bc2c1eba/master.m3u8"
+        },
+        "HD-2": {
+          "501-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9cf43f4805f1622168ec655bd54a7f2e4h",
+          "501-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "501-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o1co7b8vhoj7",
+          "501-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "501-malep-1_playmogo_sub": "https://playmogo.com/e/96s74q4jq6kn",
+          "501-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "501-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9b6a1011189bb893",
+          "501-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b6a1011189bb893/master.m3u8"
+        },
+        "HD-2": {
+          "501-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7250bae100c0ac58f9724f032f973d864h",
+          "501-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "501-malep-1_otakuhg_hsub": "https://otakuhg.site/e/uv1z5x7pa4yf",
+          "501-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "501-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mhiv16w5cl6i",
+          "501-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "501-malep-1_playmogo_hsub": "https://playmogo.com/e/ezmrvgjtvtkt",
+          "501-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
