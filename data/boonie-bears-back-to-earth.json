@@ -1,0 +1,31 @@
+{
+  "anime_name": "Boonie Bears Back To Earth",
+  "anime_url": "https://hianime.ad/anime/boonie-bears-back-to-earth",
+  "slug": "boonie-bears-back-to-earth",
+  "mal_id": 32807,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:40:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/boonie-bears-back-to-earth/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "32807-malep-1_vibeplayer_dub": "https://vibeplayer.site/1921e5e2c0f8bf1a",
+          "32807-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1921e5e2c0f8bf1a/master.m3u8"
+        },
+        "HD-2": {
+          "32807-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag230d26858c9f6147674a97b760ca9c5e4h",
+          "32807-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32807-malep-1_otakuvid_dub": "https://otakuvid.online/embed/a2j0x0tb0voz",
+          "32807-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
