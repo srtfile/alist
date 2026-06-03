@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fish In The Trap",
+  "anime_url": "https://hianime.ad/anime/fish-in-the-trap",
+  "slug": "fish-in-the-trap",
+  "mal_id": 61126,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:31:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fish-in-the-trap/ep-1",
+      "sub": {
+        "HD-1": {
+          "61126-malep-1_vibeplayer_sub": "https://vibeplayer.site/84a3da6f602f3fdc",
+          "61126-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84a3da6f602f3fdc/master.m3u8"
+        },
+        "HD-2": {
+          "61126-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag03826aa1244c0dc4c798668566f79d804h",
+          "61126-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61126-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b4ivx6283dup",
+          "61126-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "61126-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bccc217b9249ff41",
+          "61126-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bccc217b9249ff41/master.m3u8"
+        },
+        "HD-2": {
+          "61126-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1c9459fd46fa8d4e5a3840a644521b8f4h",
+          "61126-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "61126-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7wx8kmah24ml",
+          "61126-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61126-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gk7javrvdm3l",
+          "61126-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61126-malep-1_playmogo_hsub": "https://playmogo.com/e/9q540a13l3fu",
+          "61126-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
