@@ -12388,5 +12388,15 @@
     "captured_at": "2026-06-03T04:08:11",
     "file": "data/cap-revolution-bottleman-dx.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cap-revolution-bottleman-dx.json"
+  },
+  {
+    "slug": "capeta",
+    "mal_id": 388,
+    "anime_name": "Capeta",
+    "anime_url": "https://hianime.ad/anime/capeta",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T04:09:09",
+    "file": "data/capeta.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/capeta.json"
   }
 ]
