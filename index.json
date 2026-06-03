@@ -2238,5 +2238,15 @@
     "captured_at": "2026-06-03T18:26:21",
     "file": "data/god-of-deception.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-deception.json"
+  },
+  {
+    "slug": "god-of-desolation",
+    "mal_id": 41353,
+    "anime_name": "God Of Desolation",
+    "anime_url": "https://hianime.ad/anime/god-of-desolation",
+    "total_episodes": 79,
+    "captured_at": "2026-06-03T18:26:44",
+    "file": "data/god-of-desolation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-desolation.json"
   }
 ]
