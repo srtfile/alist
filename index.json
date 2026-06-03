@@ -14538,5 +14538,15 @@
     "captured_at": "2026-06-03T06:09:48",
     "file": "data/classroomcrisis.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classroomcrisis.json"
+  },
+  {
+    "slug": "claymore",
+    "mal_id": 1818,
+    "anime_name": "Claymore",
+    "anime_url": "https://hianime.ad/anime/claymore",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T06:10:12",
+    "file": "data/claymore.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/claymore.json"
   }
 ]
