@@ -9608,5 +9608,15 @@
     "captured_at": "2026-06-03T00:23:12",
     "file": "data/binchou-tan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/binchou-tan.json"
+  },
+  {
+    "slug": "bio-armor-ryger",
+    "mal_id": 4119,
+    "anime_name": "Bio Armor Ryger",
+    "anime_url": "https://hianime.ad/anime/bio-armor-ryger",
+    "total_episodes": 15,
+    "captured_at": "2026-06-03T00:23:26",
+    "file": "data/bio-armor-ryger.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bio-armor-ryger.json"
   }
 ]
