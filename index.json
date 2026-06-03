@@ -14598,5 +14598,15 @@
     "captured_at": "2026-06-03T06:12:10",
     "file": "data/clockwork-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clockwork-girl.json"
+  },
+  {
+    "slug": "clockwork-planet",
+    "mal_id": 32407,
+    "anime_name": "Clockwork Planet",
+    "anime_url": "https://hianime.ad/anime/clockwork-planet",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:12:23",
+    "file": "data/clockwork-planet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clockwork-planet.json"
   }
 ]
