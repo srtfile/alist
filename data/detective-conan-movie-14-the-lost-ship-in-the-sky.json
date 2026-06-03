@@ -1,0 +1,60 @@
+{
+  "anime_name": "Detective Conan Movie 14 The Lost Ship In The Sky",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-14-the-lost-ship-in-the-sky",
+  "slug": "detective-conan-movie-14-the-lost-ship-in-the-sky",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:09:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-14-the-lost-ship-in-the-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ca4ffea7460aa13d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca4ffea7460aa13d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4a3eeb9912fb993f4f1542c5a0436bfe4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/k984nitn8kid",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/2jeq2vetak77",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/986udhlrhsz0",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/22193f4de00526b4",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/22193f4de00526b4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2c8413166b55d42ecaac49105ff41ff44h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/dj5wct8pm1ha",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cblmld0xyv6t",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/492rbbhrdfyt",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
