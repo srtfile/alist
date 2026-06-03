@@ -9318,5 +9318,15 @@
     "captured_at": "2026-06-03T00:10:43",
     "file": "data/beyblade-metal-fusion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-metal-fusion.json"
+  },
+  {
+    "slug": "beyblade-v-force",
+    "mal_id": 1669,
+    "anime_name": "Beyblade V Force",
+    "anime_url": "https://hianime.ad/anime/beyblade-v-force",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:11:37",
+    "file": "data/beyblade-v-force.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-v-force.json"
   }
 ]
