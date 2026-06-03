@@ -10108,5 +10108,15 @@
     "captured_at": "2026-06-03T00:40:36",
     "file": "data/blade-runner-black-out-2022.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blade-runner-black-out-2022.json"
+  },
+  {
+    "slug": "blader-soul",
+    "mal_id": 22547,
+    "anime_name": "Blader Soul",
+    "anime_url": "https://hianime.ad/anime/blader-soul",
+    "total_episodes": 18,
+    "captured_at": "2026-06-03T00:40:46",
+    "file": "data/blader-soul.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blader-soul.json"
   }
 ]
