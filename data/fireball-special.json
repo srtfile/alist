@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fireball Special",
+  "anime_url": "https://hianime.ad/anime/fireball-special",
+  "slug": "fireball-special",
+  "mal_id": 4362,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:29:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "See the Aquatic Animals",
+      "episode_url": "https://hianime.ad/watch/fireball-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "4362-malep-1_vibeplayer_sub": "https://vibeplayer.site/2bc02cde15440c35",
+          "4362-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2bc02cde15440c35/master.m3u8"
+        },
+        "HD-2": {
+          "4362-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7ea60bdcf721b023681d5ad717e3d1a84h",
+          "4362-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4362-malep-1_otakuvid_sub": "https://otakuvid.online/embed/352lp1peft78",
+          "4362-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4362-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5afdaa8a06aca181",
+          "4362-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5afdaa8a06aca181/master.m3u8"
+        },
+        "HD-2": {
+          "4362-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3d6f29bd43a727c7363b640fc5df0dea4h",
+          "4362-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4362-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p83dtfowqmza",
+          "4362-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4362-malep-1_playmogo_hsub": "https://playmogo.com/e/445vp0oruk1l",
+          "4362-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
