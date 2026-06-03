@@ -23038,5 +23038,15 @@
     "captured_at": "2026-06-03T12:04:40",
     "file": "data/fei-ren-zai-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fei-ren-zai-specials.json"
+  },
+  {
+    "slug": "fena-pirate-princess",
+    "mal_id": 42544,
+    "anime_name": "Fena Pirate Princess",
+    "anime_url": "https://hianime.ad/anime/fena-pirate-princess",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:04:56",
+    "file": "data/fena-pirate-princess.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fena-pirate-princess.json"
   }
 ]
