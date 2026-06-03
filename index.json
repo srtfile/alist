@@ -11278,5 +11278,15 @@
     "captured_at": "2026-06-03T02:47:41",
     "file": "data/bottom-tier-character-tomozaki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bottom-tier-character-tomozaki.json"
+  },
+  {
+    "slug": "bottom-tier-character-tomozaki-2nd-stage",
+    "mal_id": 50803,
+    "anime_name": "Bottom Tier Character Tomozaki 2Nd Stage",
+    "anime_url": "https://hianime.ad/anime/bottom-tier-character-tomozaki-2nd-stage",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T02:48:04",
+    "file": "data/bottom-tier-character-tomozaki-2nd-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bottom-tier-character-tomozaki-2nd-stage.json"
   }
 ]
