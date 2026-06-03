@@ -3398,5 +3398,15 @@
     "captured_at": "2026-06-03T19:09:27",
     "file": "data/gugure-kokkuri-san-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gugure-kokkuri-san-specials.json"
+  },
+  {
+    "slug": "guilstein",
+    "mal_id": null,
+    "anime_name": "Guilstein",
+    "anime_url": "https://hianime.ad/anime/guilstein",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:09:47",
+    "file": "data/guilstein.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilstein.json"
   }
 ]
