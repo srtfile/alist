@@ -15808,5 +15808,15 @@
     "captured_at": "2026-06-03T06:49:43",
     "file": "data/crows.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crows.json"
+  },
+  {
+    "slug": "crying-freeman",
+    "mal_id": 5342,
+    "anime_name": "Crying Freeman",
+    "anime_url": "https://hianime.ad/anime/crying-freeman",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T06:49:57",
+    "file": "data/crying-freeman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crying-freeman.json"
   }
 ]
