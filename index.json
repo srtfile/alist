@@ -14998,5 +14998,15 @@
     "captured_at": "2026-06-03T06:24:12",
     "file": "data/comic-girls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-girls.json"
+  },
+  {
+    "slug": "comic-party",
+    "mal_id": 289,
+    "anime_name": "Comic Party",
+    "anime_url": "https://hianime.ad/anime/comic-party",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T06:24:34",
+    "file": "data/comic-party.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/comic-party.json"
   }
 ]
