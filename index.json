@@ -9598,5 +9598,15 @@
     "captured_at": "2026-06-03T00:22:53",
     "file": "data/binbou-shimai-monogatari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/binbou-shimai-monogatari.json"
+  },
+  {
+    "slug": "binchou-tan",
+    "mal_id": 750,
+    "anime_name": "Binchou Tan",
+    "anime_url": "https://hianime.ad/anime/binchou-tan",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T00:23:12",
+    "file": "data/binchou-tan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/binchou-tan.json"
   }
 ]
