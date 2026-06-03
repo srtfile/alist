@@ -1,0 +1,40 @@
+{
+  "anime_name": "Genji Monogatari",
+  "anime_url": "https://hianime.ad/anime/genji-monogatari",
+  "slug": "genji-monogatari",
+  "mal_id": 5155,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:18:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Master Hikaru",
+      "episode_url": "https://hianime.ad/watch/genji-monogatari/ep-1",
+      "sub": {
+        "HD-1": {
+          "5155-malep-1_vibeplayer_sub": "https://vibeplayer.site/7fec74f9c6beaa77",
+          "5155-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7fec74f9c6beaa77/master.m3u8"
+        },
+        "StreamHG": {
+          "5155-malep-1_otakuhg_sub": "https://otakuhg.site/e/ecmmnevs8ywt",
+          "5155-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5155-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8ec4b896eph1",
+          "5155-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5155-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9822e8f2baba0ce7",
+          "5155-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9822e8f2baba0ce7/master.m3u8"
+        },
+        "Earnvids": {
+          "5155-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8clzgx43hq5w",
+          "5155-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
