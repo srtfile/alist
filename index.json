@@ -1968,5 +1968,15 @@
     "captured_at": "2026-06-03T18:14:00",
     "file": "data/gleipnir.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gleipnir.json"
+  },
+  {
+    "slug": "glitter-force-doki-doki",
+    "mal_id": 16419,
+    "anime_name": "Glitter Force Doki Doki",
+    "anime_url": "https://hianime.ad/anime/glitter-force-doki-doki",
+    "total_episodes": 49,
+    "captured_at": "2026-06-03T18:14:23",
+    "file": "data/glitter-force-doki-doki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glitter-force-doki-doki.json"
   }
 ]
