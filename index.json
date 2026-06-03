@@ -16068,5 +16068,15 @@
     "captured_at": "2026-06-03T07:23:09",
     "file": "data/dcide-traumerei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dcide-traumerei.json"
+  },
+  {
+    "slug": "d-1-devastator",
+    "mal_id": 185,
+    "anime_name": "D 1 Devastator",
+    "anime_url": "https://hianime.ad/anime/d-1-devastator",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T07:23:29",
+    "file": "data/d-1-devastator.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-1-devastator.json"
   }
 ]
