@@ -1,0 +1,57 @@
+{
+  "anime_name": "Girl Meets Girl 4225",
+  "anime_url": "https://hianime.ad/anime/girl-meets-girl-4225",
+  "slug": "girl-meets-girl-4225",
+  "mal_id": 49505,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:02:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/girl-meets-girl-4225/ep-1",
+      "sub": {
+        "HD-1": {
+          "49505-malep-1_vibeplayer_sub": "https://vibeplayer.site/ae69b2b4c6c5a55d",
+          "49505-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ae69b2b4c6c5a55d/master.m3u8"
+        },
+        "StreamHG": {
+          "49505-malep-1_otakuhg_sub": "https://otakuhg.site/e/zyhf9x2mb2vn",
+          "49505-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49505-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4ddqsmyuc08g",
+          "49505-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49505-malep-1_vibeplayer_dub": "https://vibeplayer.site/618ef2e4a6f25d49",
+          "49505-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/618ef2e4a6f25d49/master.m3u8"
+        },
+        "Earnvids": {
+          "49505-malep-1_otakuvid_dub": "https://otakuvid.online/embed/aqluzcuy7ifc",
+          "49505-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49505-malep-1_vibeplayer_hsub": "https://vibeplayer.site/166f99c8f76fb62f",
+          "49505-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/166f99c8f76fb62f/master.m3u8"
+        },
+        "StreamHG": {
+          "49505-malep-1_otakuhg_hsub": "https://otakuhg.site/e/g030hazwmfm9",
+          "49505-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49505-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ih83uu10e4y2",
+          "49505-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49505-malep-1_playmogo_hsub": "https://playmogo.com/e/m1srcs8y24y6",
+          "49505-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
