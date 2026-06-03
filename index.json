@@ -24928,5 +24928,15 @@
     "captured_at": "2026-06-03T13:22:43",
     "file": "data/futsal-boys.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/futsal-boys.json"
+  },
+  {
+    "slug": "future-boy-conan",
+    "mal_id": 302,
+    "anime_name": "Future Boy Conan",
+    "anime_url": "https://hianime.ad/anime/future-boy-conan",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T13:23:04",
+    "file": "data/future-boy-conan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-boy-conan.json"
   }
 ]
