@@ -268,5 +268,15 @@
     "captured_at": "2026-06-03T17:12:29",
     "file": "data/gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana.json"
+  },
+  {
+    "slug": "gdgd-mens-party",
+    "mal_id": 36797,
+    "anime_name": "Gdgd Mens Party",
+    "anime_url": "https://hianime.ad/anime/gdgd-mens-party",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:12:40",
+    "file": "data/gdgd-mens-party.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gdgd-mens-party.json"
   }
 ]
