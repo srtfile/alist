@@ -16038,5 +16038,15 @@
     "captured_at": "2026-06-03T07:22:09",
     "file": "data/cyborg-009-the-reopening.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cyborg-009-the-reopening.json"
+  },
+  {
+    "slug": "cybuster",
+    "mal_id": 1899,
+    "anime_name": "Cybuster",
+    "anime_url": "https://hianime.ad/anime/cybuster",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T07:22:19",
+    "file": "data/cybuster.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cybuster.json"
   }
 ]
