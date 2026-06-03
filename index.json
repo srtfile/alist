@@ -3338,5 +3338,15 @@
     "captured_at": "2026-06-03T19:06:48",
     "file": "data/growlanser-iv-wayfarer-of-time.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/growlanser-iv-wayfarer-of-time.json"
+  },
+  {
+    "slug": "gs-mikami",
+    "mal_id": 2400,
+    "anime_name": "Gs Mikami",
+    "anime_url": "https://hianime.ad/anime/gs-mikami",
+    "total_episodes": 45,
+    "captured_at": "2026-06-03T19:07:00",
+    "file": "data/gs-mikami.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gs-mikami.json"
   }
 ]
