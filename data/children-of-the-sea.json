@@ -1,0 +1,73 @@
+{
+  "anime_name": "Children Of The Sea",
+  "anime_url": "https://hianime.ad/anime/children-of-the-sea",
+  "slug": "children-of-the-sea",
+  "mal_id": 34712,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:39:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It was the Entirety of Our Precious World",
+      "episode_url": "https://hianime.ad/watch/children-of-the-sea/ep-1",
+      "sub": {
+        "HD-1": {
+          "34712-malep-1_vibeplayer_sub": "https://vibeplayer.site/9a6c7dbbeb51b837",
+          "34712-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9a6c7dbbeb51b837/master.m3u8"
+        },
+        "HD-2": {
+          "34712-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6455c1bbdb3c37ab17492a34892852ec4h",
+          "34712-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34712-malep-1_otakuhg_sub": "https://otakuhg.site/e/ns263d3qqcdx",
+          "34712-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34712-malep-1_otakuvid_sub": "https://otakuvid.online/embed/u5hkmndpo55v",
+          "34712-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34712-malep-1_vibeplayer_dub": "https://vibeplayer.site/1bf6a3eba2310bd7",
+          "34712-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1bf6a3eba2310bd7/master.m3u8"
+        },
+        "HD-2": {
+          "34712-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag51aca7d11511da36560e601331d7bd694h",
+          "34712-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34712-malep-1_otakuhg_dub": "https://otakuhg.site/e/4tnadcobaird",
+          "34712-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34712-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kazw3u7erjl8",
+          "34712-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34712-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0101c4660eec0d6b",
+          "34712-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0101c4660eec0d6b/master.m3u8"
+        },
+        "HD-2": {
+          "34712-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5f526b7109713357d08f3d3a5f0335d34h",
+          "34712-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34712-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ch59sfdjk7mv",
+          "34712-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34712-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/unize4mk8s85",
+          "34712-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34712-malep-1_playmogo_hsub": "https://playmogo.com/e/p1tjeclxhfwb",
+          "34712-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
