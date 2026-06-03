@@ -17178,5 +17178,15 @@
     "captured_at": "2026-06-03T08:00:17",
     "file": "data/demon-fighter-kocho.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-fighter-kocho.json"
+  },
+  {
+    "slug": "demon-king-daimao",
+    "mal_id": 7088,
+    "anime_name": "Demon King Daimao",
+    "anime_url": "https://hianime.ad/anime/demon-king-daimao",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:00:28",
+    "file": "data/demon-king-daimao.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-king-daimao.json"
   }
 ]
