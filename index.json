@@ -12468,5 +12468,15 @@
     "captured_at": "2026-06-03T04:11:45",
     "file": "data/captain-tsubasa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-tsubasa.json"
+  },
+  {
+    "slug": "captain-tsubasa-2018",
+    "mal_id": 36934,
+    "anime_name": "Captain Tsubasa 2018",
+    "anime_url": "https://hianime.ad/anime/captain-tsubasa-2018",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T04:13:53",
+    "file": "data/captain-tsubasa-2018.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-tsubasa-2018.json"
   }
 ]
