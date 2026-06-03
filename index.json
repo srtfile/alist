@@ -2418,5 +2418,15 @@
     "captured_at": "2026-06-03T18:34:20",
     "file": "data/gokujo-souda-onsen-ni-ikou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gokujo-souda-onsen-ni-ikou.json"
+  },
+  {
+    "slug": "gokushufudou-part-2",
+    "mal_id": 38524,
+    "anime_name": "Gokushufudou Part 2",
+    "anime_url": "https://hianime.ad/anime/gokushufudou-part-2",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T18:34:32",
+    "file": "data/gokushufudou-part-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gokushufudou-part-2.json"
   }
 ]
