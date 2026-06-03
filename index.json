@@ -20648,5 +20648,15 @@
     "captured_at": "2026-06-03T10:02:44",
     "file": "data/dual-parallel-trouble-adventure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dual-parallel-trouble-adventure.json"
+  },
+  {
+    "slug": "duel-masters",
+    "mal_id": 1685,
+    "anime_name": "Duel Masters",
+    "anime_url": "https://hianime.ad/anime/duel-masters",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T10:03:04",
+    "file": "data/duel-masters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/duel-masters.json"
   }
 ]
