@@ -22348,5 +22348,15 @@
     "captured_at": "2026-06-03T11:06:09",
     "file": "data/false-memory.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/false-memory.json"
+  },
+  {
+    "slug": "famous-dog-lassie",
+    "mal_id": 3425,
+    "anime_name": "Famous Dog Lassie",
+    "anime_url": "https://hianime.ad/anime/famous-dog-lassie",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T11:06:20",
+    "file": "data/famous-dog-lassie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/famous-dog-lassie.json"
   }
 ]
