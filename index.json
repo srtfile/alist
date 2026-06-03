@@ -398,5 +398,15 @@
     "captured_at": "2026-06-03T17:17:20",
     "file": "data/generator-gawl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/generator-gawl.json"
+  },
+  {
+    "slug": "geneshaft",
+    "mal_id": 909,
+    "anime_name": "Geneshaft",
+    "anime_url": "https://hianime.ad/anime/geneshaft",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:17:41",
+    "file": "data/geneshaft.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/geneshaft.json"
   }
 ]
