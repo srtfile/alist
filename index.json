@@ -11678,5 +11678,15 @@
     "captured_at": "2026-06-03T03:00:17",
     "file": "data/bucchigiri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bucchigiri.json"
+  },
+  {
+    "slug": "bucchigiri-specials",
+    "mal_id": 55358,
+    "anime_name": "Bucchigiri Specials",
+    "anime_url": "https://hianime.ad/anime/bucchigiri-specials",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T03:00:41",
+    "file": "data/bucchigiri-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bucchigiri-specials.json"
   }
 ]
