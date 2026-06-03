@@ -13628,5 +13628,15 @@
     "captured_at": "2026-06-03T05:30:13",
     "file": "data/chibidevi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chibidevi.json"
+  },
+  {
+    "slug": "chidori-rsc",
+    "mal_id": 38529,
+    "anime_name": "Chidori Rsc",
+    "anime_url": "https://hianime.ad/anime/chidori-rsc",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:31:33",
+    "file": "data/chidori-rsc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chidori-rsc.json"
   }
 ]
