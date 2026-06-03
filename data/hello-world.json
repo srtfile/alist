@@ -1,0 +1,48 @@
+{
+  "anime_name": "Hello World",
+  "anime_url": "https://hianime.ad/anime/hello-world",
+  "slug": "hello-world",
+  "mal_id": 60460,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:30:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Born Again at Bottom-Tier",
+      "episode_url": "https://hianime.ad/watch/hello-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "60460-malep-1_vibeplayer_sub": "https://vibeplayer.site/46479f890b531138",
+          "60460-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46479f890b531138/master.m3u8"
+        },
+        "StreamHG": {
+          "60460-malep-1_otakuhg_sub": "https://otakuhg.site/e/k3qpg24pfkis",
+          "60460-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60460-malep-1_otakuvid_sub": "https://otakuvid.online/embed/khgkn9s960r2",
+          "60460-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60460-malep-1_vibeplayer_hsub": "https://vibeplayer.site/29a8a35b50060db4",
+          "60460-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29a8a35b50060db4/master.m3u8"
+        },
+        "StreamHG": {
+          "60460-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ii6xb4iuwsdj",
+          "60460-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60460-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9dht563ybr93",
+          "60460-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60460-malep-1_playmogo_hsub": "https://playmogo.com/e/pclbsh8p4vhg",
+          "60460-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
