@@ -3708,5 +3708,15 @@
     "captured_at": "2026-06-03T19:20:16",
     "file": "data/gundam-g-no-reconguista-movie-iii-uchuu-kara-no-isan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-g-no-reconguista-movie-iii-uchuu-kara-no-isan.json"
+  },
+  {
+    "slug": "gungrave",
+    "mal_id": 267,
+    "anime_name": "Gungrave",
+    "anime_url": "https://hianime.ad/anime/gungrave",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T19:20:28",
+    "file": "data/gungrave.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gungrave.json"
   }
 ]
