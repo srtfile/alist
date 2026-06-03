@@ -2188,5 +2188,15 @@
     "captured_at": "2026-06-03T18:23:52",
     "file": "data/god-bless-dancougar.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-bless-dancougar.json"
+  },
+  {
+    "slug": "god-eater",
+    "mal_id": 27631,
+    "anime_name": "God Eater",
+    "anime_url": "https://hianime.ad/anime/god-eater",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:24:04",
+    "file": "data/god-eater.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-eater.json"
   }
 ]
