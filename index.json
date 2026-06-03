@@ -5708,5 +5708,15 @@
     "captured_at": "2026-06-03T20:30:46",
     "file": "data/hello-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hello-world.json"
+  },
+  {
+    "slug": "hello-kinmoza",
+    "mal_id": 23269,
+    "anime_name": "Hello Kinmoza",
+    "anime_url": "https://hianime.ad/anime/hello-kinmoza",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:30:57",
+    "file": "data/hello-kinmoza.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hello-kinmoza.json"
   }
 ]
