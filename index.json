@@ -25098,5 +25098,15 @@
     "captured_at": "2026-06-03T13:31:33",
     "file": "data/ga-geijutsuka-art-design-class-aozora-ga-kakitai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ga-geijutsuka-art-design-class-aozora-ga-kakitai.json"
+  },
+  {
+    "slug": "gabriel-dropout",
+    "mal_id": 33731,
+    "anime_name": "Gabriel Dropout",
+    "anime_url": "https://hianime.ad/anime/gabriel-dropout",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:31:44",
+    "file": "data/gabriel-dropout.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gabriel-dropout.json"
   }
 ]
