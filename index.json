@@ -18248,5 +18248,15 @@
     "captured_at": "2026-06-03T08:28:20",
     "file": "data/digimon-beatbreak.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-beatbreak.json"
+  },
+  {
+    "slug": "digimon-data-squad",
+    "mal_id": 859,
+    "anime_name": "Digimon Data Squad",
+    "anime_url": "https://hianime.ad/anime/digimon-data-squad",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T08:28:57",
+    "file": "data/digimon-data-squad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-data-squad.json"
   }
 ]
