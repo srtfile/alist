@@ -16638,5 +16638,15 @@
     "captured_at": "2026-06-03T07:43:22",
     "file": "data/darkside-blues.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darkside-blues.json"
+  },
+  {
+    "slug": "darling-in-the-franxx",
+    "mal_id": 35849,
+    "anime_name": "Darling In The Franxx",
+    "anime_url": "https://hianime.ad/anime/darling-in-the-franxx",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T07:43:32",
+    "file": "data/darling-in-the-franxx.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darling-in-the-franxx.json"
   }
 ]
