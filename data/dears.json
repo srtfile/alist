@@ -1,0 +1,655 @@
+{
+  "anime_name": "Dears",
+  "anime_url": "https://hianime.ad/anime/dears",
+  "slug": "dears",
+  "mal_id": 63,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T07:52:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Want to Nibble Sweetly",
+      "episode_url": "https://hianime.ad/watch/dears/ep-1",
+      "sub": {
+        "HD-1": {
+          "63-malep-1_vibeplayer_sub": "https://vibeplayer.site/6ae3b862ada725e8",
+          "63-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ae3b862ada725e8/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag06e958eb6c7ac926a04da4eebd8f62bf4h",
+          "63-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-1_otakuhg_sub": "https://otakuhg.site/e/etbituodmt05",
+          "63-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-1_otakuvid_sub": "https://otakuvid.online/embed/znvzzn77xqak",
+          "63-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-1_vibeplayer_dub": "https://vibeplayer.site/29f9b84a113b4362",
+          "63-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/29f9b84a113b4362/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag88bcc24f58de86920a6aab5b4779a7d04h",
+          "63-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-1_otakuhg_dub": "https://otakuhg.site/e/ldwb1gmtmloc",
+          "63-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-1_otakuvid_dub": "https://otakuvid.online/embed/b4bwas2hu5jt",
+          "63-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9816d57fcd88ea73",
+          "63-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9816d57fcd88ea73/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2b29244a486d07bbc4342f440d1d1c4e4h",
+          "63-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a8j1tthotnv6",
+          "63-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7779us9i6nnu",
+          "63-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-1_playmogo_hsub": "https://playmogo.com/e/j1fi30lv1hvb",
+          "63-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Was It Too Small?",
+      "episode_url": "https://hianime.ad/watch/dears/ep-2",
+      "sub": {
+        "HD-1": {
+          "63-malep-2_vibeplayer_sub": "https://vibeplayer.site/23ea3a44909fabbd",
+          "63-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23ea3a44909fabbd/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-2_vibeplayer_sub": "https://vibeplayer.site/age3b913a305980f5609b5aee84e634db74h",
+          "63-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-2_otakuvid_sub": "https://otakuvid.online/embed/snl9fb5k0dlp",
+          "63-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-2_vibeplayer_dub": "https://vibeplayer.site/156f5b8e2d935865",
+          "63-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/156f5b8e2d935865/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag71349a58b3d2aeab21fefa40aedbf08e4h",
+          "63-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-2_otakuvid_dub": "https://otakuvid.online/embed/npjkxjjkkbd4",
+          "63-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8aaa4c1927b48539",
+          "63-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8aaa4c1927b48539/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-2_vibeplayer_hsub": "https://vibeplayer.site/aga2f960fe73b259013b014bf508803dd44h",
+          "63-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/x97j05vgkuku",
+          "63-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-2_playmogo_hsub": "https://playmogo.com/e/3iyix79evmwd",
+          "63-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ball! Ball!",
+      "episode_url": "https://hianime.ad/watch/dears/ep-3",
+      "sub": {
+        "HD-1": {
+          "63-malep-3_vibeplayer_sub": "https://vibeplayer.site/eac131bf51308784",
+          "63-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eac131bf51308784/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-3_vibeplayer_sub": "https://vibeplayer.site/aga2a2919d439c3cd5eb84ea3a8176698a4h",
+          "63-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-3_otakuhg_sub": "https://otakuhg.site/e/1ivifgsug4le",
+          "63-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-3_otakuvid_sub": "https://otakuvid.online/embed/xf0hcjrtwe62",
+          "63-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-3_vibeplayer_dub": "https://vibeplayer.site/901fe06558048917",
+          "63-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/901fe06558048917/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag645cc1daf045bb33661a245679da1dba4h",
+          "63-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-3_otakuvid_dub": "https://otakuvid.online/embed/kh1v3zke4i84",
+          "63-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ce663ff7adbef8e9",
+          "63-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce663ff7adbef8e9/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag68a9868a8d23bf6c133e704cdbe72a424h",
+          "63-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-3_otakuhg_hsub": "https://otakuhg.site/e/jpr25s7dvy4e",
+          "63-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/knx05l66ux0x",
+          "63-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-3_playmogo_hsub": "https://playmogo.com/e/zh6kjbiaw6mp",
+          "63-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wipe Your Mouth",
+      "episode_url": "https://hianime.ad/watch/dears/ep-4",
+      "sub": {
+        "HD-1": {
+          "63-malep-4_vibeplayer_sub": "https://vibeplayer.site/4f6a06dbb7f81501",
+          "63-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f6a06dbb7f81501/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-4_vibeplayer_sub": "https://vibeplayer.site/agd68788cfc81e62981c71ab37257eb8674h",
+          "63-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-4_otakuvid_sub": "https://otakuvid.online/embed/irymfx80hwwu",
+          "63-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-4_vibeplayer_dub": "https://vibeplayer.site/baad8bdb33000016",
+          "63-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/baad8bdb33000016/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-4_vibeplayer_dub": "https://vibeplayer.site/agcb799d920804222a6aaa754444a5c6af4h",
+          "63-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-4_otakuvid_dub": "https://otakuvid.online/embed/91f6hkn4zs2c",
+          "63-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-4_vibeplayer_hsub": "https://vibeplayer.site/18f61919dfa73c9f",
+          "63-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18f61919dfa73c9f/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-4_vibeplayer_hsub": "https://vibeplayer.site/agcfb1b2a797a26d2ff9b109cb14540e9f4h",
+          "63-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-4_otakuhg_hsub": "https://otakuhg.site/e/m3rfd3ysvb22",
+          "63-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/gml3a6owerqm",
+          "63-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-4_playmogo_hsub": "https://playmogo.com/e/ws595msv0hrp",
+          "63-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Partners?",
+      "episode_url": "https://hianime.ad/watch/dears/ep-5",
+      "sub": {
+        "HD-1": {
+          "63-malep-5_vibeplayer_sub": "https://vibeplayer.site/bcbe1c4a2cec82a7",
+          "63-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bcbe1c4a2cec82a7/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-5_vibeplayer_sub": "https://vibeplayer.site/agafea6684de47c3b8e1ef63a490a2545e4h",
+          "63-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-5_otakuvid_sub": "https://otakuvid.online/embed/4n2ewtaueg4j",
+          "63-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-5_vibeplayer_dub": "https://vibeplayer.site/ccdc73e1941b094b",
+          "63-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ccdc73e1941b094b/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-5_vibeplayer_dub": "https://vibeplayer.site/agba79a09c730b36e43953376f207387dd4h",
+          "63-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-5_otakuvid_dub": "https://otakuvid.online/embed/lgflpf842wxz",
+          "63-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-5_vibeplayer_hsub": "https://vibeplayer.site/32a01a9a6049bd02",
+          "63-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32a01a9a6049bd02/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag7cdb2cc364abd2b17481c6d04e9886004h",
+          "63-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-5_otakuhg_hsub": "https://otakuhg.site/e/5rgbu3mgp31d",
+          "63-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/2qjs0hi1768y",
+          "63-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-5_playmogo_hsub": "https://playmogo.com/e/rnn8mbjdkcyo",
+          "63-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "I'm Frustrated!",
+      "episode_url": "https://hianime.ad/watch/dears/ep-6",
+      "sub": {
+        "HD-1": {
+          "63-malep-6_vibeplayer_sub": "https://vibeplayer.site/8427a02e3d52088f",
+          "63-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8427a02e3d52088f/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag92684a5784a0caae02e10609cebb56644h",
+          "63-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-6_otakuvid_sub": "https://otakuvid.online/embed/0b8e0cu5ylfc",
+          "63-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-6_vibeplayer_dub": "https://vibeplayer.site/d4862a1ecbf43577",
+          "63-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d4862a1ecbf43577/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag592e38b73c43d7b955c6bbb51724cd7b4h",
+          "63-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-6_otakuvid_dub": "https://otakuvid.online/embed/njv0t2h1rrze",
+          "63-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-6_vibeplayer_hsub": "https://vibeplayer.site/84e5b302306d506a",
+          "63-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/84e5b302306d506a/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-6_vibeplayer_hsub": "https://vibeplayer.site/agf898f267c7b2b1e0c7927703cf9cb2224h",
+          "63-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/cpef0u18v0xr",
+          "63-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-6_playmogo_hsub": "https://playmogo.com/e/q19hbjxp1eph",
+          "63-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pervert",
+      "episode_url": "https://hianime.ad/watch/dears/ep-7",
+      "sub": {
+        "HD-1": {
+          "63-malep-7_vibeplayer_sub": "https://vibeplayer.site/a448c031ef44a02e",
+          "63-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a448c031ef44a02e/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag27138ae08a180d7e587122017f49019a4h",
+          "63-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-7_otakuvid_sub": "https://otakuvid.online/embed/haaop3nu7yri",
+          "63-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-7_vibeplayer_dub": "https://vibeplayer.site/90d4f91b064866e2",
+          "63-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/90d4f91b064866e2/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-7_vibeplayer_dub": "https://vibeplayer.site/agf7d0a6cff7d2e597442dcd6a967f0d8b4h",
+          "63-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-7_otakuvid_dub": "https://otakuvid.online/embed/ql1qisesfugw",
+          "63-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-7_vibeplayer_hsub": "https://vibeplayer.site/2857ca9b59541307",
+          "63-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2857ca9b59541307/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag2be2a0103c3015d904d648a9c6768f1e4h",
+          "63-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/1i67fk58gab2",
+          "63-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-7_playmogo_hsub": "https://playmogo.com/e/ohv3ukye9t6c",
+          "63-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "M... My Ball",
+      "episode_url": "https://hianime.ad/watch/dears/ep-8",
+      "sub": {
+        "HD-1": {
+          "63-malep-8_vibeplayer_sub": "https://vibeplayer.site/2d67653c50c97499",
+          "63-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2d67653c50c97499/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag32308e3f358c17f208fb931bbd5b5ba64h",
+          "63-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-8_otakuvid_sub": "https://otakuvid.online/embed/7qwq8z4o69rg",
+          "63-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-8_vibeplayer_dub": "https://vibeplayer.site/74aec99bf1019f55",
+          "63-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/74aec99bf1019f55/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-8_vibeplayer_dub": "https://vibeplayer.site/agabbbaa53afba499833a439b81d7115464h",
+          "63-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-8_otakuvid_dub": "https://otakuvid.online/embed/8nx8mce4pm8l",
+          "63-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-8_vibeplayer_hsub": "https://vibeplayer.site/64ffdb58651a5616",
+          "63-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64ffdb58651a5616/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag70d53b247e227ee3b14f5b79e7e6b1fa4h",
+          "63-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/m7knalhixsy7",
+          "63-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-8_playmogo_hsub": "https://playmogo.com/e/ga46f8s94oqy",
+          "63-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It Hurt A Little",
+      "episode_url": "https://hianime.ad/watch/dears/ep-9",
+      "sub": {
+        "HD-1": {
+          "63-malep-9_vibeplayer_sub": "https://vibeplayer.site/4500adfd9c2a485a",
+          "63-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4500adfd9c2a485a/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag8b87b9b03100344fa4a890390b512f344h",
+          "63-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-9_otakuvid_sub": "https://otakuvid.online/embed/y13ncze3bw67",
+          "63-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-9_vibeplayer_dub": "https://vibeplayer.site/0975f0454cdb93ff",
+          "63-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0975f0454cdb93ff/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag52289921a557404cd5d04846a0d462ac4h",
+          "63-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-9_otakuvid_dub": "https://otakuvid.online/embed/ov8fxmyc0c8u",
+          "63-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-9_vibeplayer_hsub": "https://vibeplayer.site/1a7e8e1393e54446",
+          "63-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a7e8e1393e54446/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-9_vibeplayer_hsub": "https://vibeplayer.site/aga40ad50a44e725623848a7f7600e6c204h",
+          "63-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/wfm8u4dy3nz9",
+          "63-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-9_playmogo_hsub": "https://playmogo.com/e/p9pgosdlph35",
+          "63-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Let's Have An Orgy!",
+      "episode_url": "https://hianime.ad/watch/dears/ep-10",
+      "sub": {
+        "HD-1": {
+          "63-malep-10_vibeplayer_sub": "https://vibeplayer.site/5512fa5e5e5f9736",
+          "63-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5512fa5e5e5f9736/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag43cf5ab028d7a79e270acea0325445cd4h",
+          "63-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-10_otakuvid_sub": "https://otakuvid.online/embed/80j1h5uhn46i",
+          "63-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-10_vibeplayer_dub": "https://vibeplayer.site/84544d60d16c9b2a",
+          "63-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/84544d60d16c9b2a/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag3b799e815f55a8c10c1574db7f4b9bc74h",
+          "63-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-10_otakuhg_dub": "https://otakuhg.site/e/hja7mm9x6nam",
+          "63-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-10_otakuvid_dub": "https://otakuvid.online/embed/g6zkaqxxk94a",
+          "63-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ec349cb487f2e14d",
+          "63-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec349cb487f2e14d/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-10_vibeplayer_hsub": "https://vibeplayer.site/agbc13e07ff37752a87d4bd21ce07b20c84h",
+          "63-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-10_otakuhg_hsub": "https://otakuhg.site/e/au20blmabygb",
+          "63-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/pztpvf64g3xb",
+          "63-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-10_playmogo_hsub": "https://playmogo.com/e/dwi25x7gklum",
+          "63-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "You Want To... Experience It?",
+      "episode_url": "https://hianime.ad/watch/dears/ep-11",
+      "sub": {
+        "HD-1": {
+          "63-malep-11_vibeplayer_sub": "https://vibeplayer.site/cfcb0a8124b32ebc",
+          "63-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cfcb0a8124b32ebc/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag6f6ee8cd549e919f1ef75c6944f79e124h",
+          "63-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-11_otakuvid_sub": "https://otakuvid.online/embed/5fi0wp8nxgv0",
+          "63-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-11_vibeplayer_dub": "https://vibeplayer.site/be138e0e60e39d1f",
+          "63-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be138e0e60e39d1f/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag24b6532717e590799bc0c38f9206d2dc4h",
+          "63-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-11_otakuvid_dub": "https://otakuvid.online/embed/hatw9alj7ng4",
+          "63-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-11_vibeplayer_hsub": "https://vibeplayer.site/8492009c4095736f",
+          "63-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8492009c4095736f/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag12cc6db15a6e57c853c73ce6d7bc6e484h",
+          "63-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/ofyn5wprf47m",
+          "63-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-11_playmogo_hsub": "https://playmogo.com/e/813r5h0ytw7u",
+          "63-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "...... Besides, It Was Hot",
+      "episode_url": "https://hianime.ad/watch/dears/ep-12",
+      "sub": {
+        "HD-1": {
+          "63-malep-12_vibeplayer_sub": "https://vibeplayer.site/c2bf541c3602eb79",
+          "63-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2bf541c3602eb79/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag2f459424d15008c0cbe8289c6e0d6db54h",
+          "63-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-12_otakuvid_sub": "https://otakuvid.online/embed/cj2tk997wuxy",
+          "63-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63-malep-12_vibeplayer_dub": "https://vibeplayer.site/47781478bf546c10",
+          "63-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/47781478bf546c10/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-12_vibeplayer_dub": "https://vibeplayer.site/aga1e77803955576afbf4b730da3dfa8524h",
+          "63-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-12_otakuhg_dub": "https://otakuhg.site/e/j64761wkz393",
+          "63-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-12_otakuvid_dub": "https://otakuvid.online/embed/iau83zhq3dpc",
+          "63-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63-malep-12_vibeplayer_hsub": "https://vibeplayer.site/d5b9da430bf90b94",
+          "63-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5b9da430bf90b94/master.m3u8"
+        },
+        "HD-2": {
+          "63-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag5848510d88124aa2dd6804bc6c9419284h",
+          "63-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63-malep-12_otakuhg_hsub": "https://otakuhg.site/e/oofrtbm9tgv4",
+          "63-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/8nc3nhy0ten6",
+          "63-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63-malep-12_playmogo_hsub": "https://playmogo.com/e/au9sbk6plexj",
+          "63-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
