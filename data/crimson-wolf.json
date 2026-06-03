@@ -1,0 +1,65 @@
+{
+  "anime_name": "Crimson Wolf",
+  "anime_url": "https://hianime.ad/anime/crimson-wolf",
+  "slug": "crimson-wolf",
+  "mal_id": 3358,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:46:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Extreme Night",
+      "episode_url": "https://hianime.ad/watch/crimson-wolf/ep-1",
+      "sub": {
+        "HD-1": {
+          "3358-malep-1_vibeplayer_sub": "https://vibeplayer.site/68d9f0ddfab2035f",
+          "3358-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/68d9f0ddfab2035f/master.m3u8"
+        },
+        "HD-2": {
+          "3358-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag86d5f2dad7eb498509ebcc35c033e58a4h",
+          "3358-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3358-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cmmpehqegr4n",
+          "3358-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "3358-malep-1_vibeplayer_dub": "https://vibeplayer.site/dda8a333ef946d96",
+          "3358-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dda8a333ef946d96/master.m3u8"
+        },
+        "HD-2": {
+          "3358-malep-1_vibeplayer_dub": "https://vibeplayer.site/agbe2336ebb9b2f49854183ee1ec20caaf4h",
+          "3358-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "3358-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6wndga8ek46p",
+          "3358-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "3358-malep-1_vibeplayer_hsub": "https://vibeplayer.site/735ee51cbf5c9f1a",
+          "3358-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/735ee51cbf5c9f1a/master.m3u8"
+        },
+        "HD-2": {
+          "3358-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag11262db5e41de0cbb499fdd3b04508754h",
+          "3358-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "3358-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2qn37tcj3s5x",
+          "3358-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3358-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w7urhjrgh2af",
+          "3358-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3358-malep-1_playmogo_hsub": "https://playmogo.com/e/box57d8nyir3",
+          "3358-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
