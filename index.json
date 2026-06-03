@@ -22018,5 +22018,15 @@
     "captured_at": "2026-06-03T10:47:47",
     "file": "data/extra-olympia-kyklos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/extra-olympia-kyklos.json"
+  },
+  {
+    "slug": "extreme-hearts",
+    "mal_id": 50999,
+    "anime_name": "Extreme Hearts",
+    "anime_url": "https://hianime.ad/anime/extreme-hearts",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:48:17",
+    "file": "data/extreme-hearts.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/extreme-hearts.json"
   }
 ]
