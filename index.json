@@ -9718,5 +9718,15 @@
     "captured_at": "2026-06-03T00:26:17",
     "file": "data/birthday-wonderland.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/birthday-wonderland.json"
+  },
+  {
+    "slug": "bite-me",
+    "mal_id": 41638,
+    "anime_name": "Bite Me",
+    "anime_url": "https://hianime.ad/anime/bite-me",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T00:26:27",
+    "file": "data/bite-me.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bite-me.json"
   }
 ]
