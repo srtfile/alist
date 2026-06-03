@@ -4668,5 +4668,15 @@
     "captured_at": "2026-06-03T19:52:39",
     "file": "data/hanasaku-iroha-blossoms-for-tomorrow.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanasaku-iroha-blossoms-for-tomorrow.json"
+  },
+  {
+    "slug": "hanaukyo-maid-team",
+    "mal_id": 403,
+    "anime_name": "Hanaukyo Maid Team",
+    "anime_url": "https://hianime.ad/anime/hanaukyo-maid-team",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:53:14",
+    "file": "data/hanaukyo-maid-team.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanaukyo-maid-team.json"
   }
 ]
