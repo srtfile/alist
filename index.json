@@ -9968,5 +9968,15 @@
     "captured_at": "2026-06-03T00:36:34",
     "file": "data/black-lagoon-the-second-barrage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-lagoon-the-second-barrage.json"
+  },
+  {
+    "slug": "black-lion",
+    "mal_id": 2025,
+    "anime_name": "Black Lion",
+    "anime_url": "https://hianime.ad/anime/black-lion",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:36:54",
+    "file": "data/black-lion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-lion.json"
   }
 ]
