@@ -10118,5 +10118,15 @@
     "captured_at": "2026-06-03T00:40:46",
     "file": "data/blader-soul.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blader-soul.json"
+  },
+  {
+    "slug": "blades-of-the-guardians",
+    "mal_id": 33,
+    "anime_name": "Blades Of The Guardians",
+    "anime_url": "https://hianime.ad/anime/blades-of-the-guardians",
+    "total_episodes": 15,
+    "captured_at": "2026-06-03T00:41:11",
+    "file": "data/blades-of-the-guardians.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blades-of-the-guardians.json"
   }
 ]
