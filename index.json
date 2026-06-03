@@ -25588,5 +25588,15 @@
     "captured_at": "2026-06-03T13:49:22",
     "file": "data/game-center-arashi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/game-center-arashi.json"
+  },
+  {
+    "slug": "gamera-rebirth",
+    "mal_id": 40129,
+    "anime_name": "Gamera Rebirth",
+    "anime_url": "https://hianime.ad/anime/gamera-rebirth",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T13:49:33",
+    "file": "data/gamera-rebirth.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gamera-rebirth.json"
   }
 ]
