@@ -25368,5 +25368,15 @@
     "captured_at": "2026-06-03T13:42:01",
     "file": "data/galaxy-apartment-cosmo-hills.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-apartment-cosmo-hills.json"
+  },
+  {
+    "slug": "galaxy-devastator",
+    "mal_id": 653,
+    "anime_name": "Galaxy Devastator",
+    "anime_url": "https://hianime.ad/anime/galaxy-devastator",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:42:13",
+    "file": "data/galaxy-devastator.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-devastator.json"
   }
 ]
