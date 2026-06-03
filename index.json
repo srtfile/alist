@@ -3168,5 +3168,15 @@
     "captured_at": "2026-06-03T19:01:33",
     "file": "data/grenadier-the-beautiful-warrior.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grenadier-the-beautiful-warrior.json"
+  },
+  {
+    "slug": "grendizer-u",
+    "mal_id": 56189,
+    "anime_name": "Grendizer U",
+    "anime_url": "https://hianime.ad/anime/grendizer-u",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:01:54",
+    "file": "data/grendizer-u.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grendizer-u.json"
   }
 ]
