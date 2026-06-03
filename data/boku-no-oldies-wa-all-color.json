@@ -1,0 +1,48 @@
+{
+  "anime_name": "Boku No Oldies Wa All Color",
+  "anime_url": "https://hianime.ad/anime/boku-no-oldies-wa-all-color",
+  "slug": "boku-no-oldies-wa-all-color",
+  "mal_id": 58272,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:31:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/boku-no-oldies-wa-all-color/ep-1",
+      "sub": {
+        "HD-1": {
+          "58272-malep-1_vibeplayer_sub": "https://vibeplayer.site/8b59b0876aff507a",
+          "58272-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b59b0876aff507a/master.m3u8"
+        },
+        "HD-2": {
+          "58272-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag24082b00e42382c30a2dac077e833c844h",
+          "58272-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58272-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pejwrg9v951k",
+          "58272-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58272-malep-1_vibeplayer_hsub": "https://vibeplayer.site/af0af12d54b27ec2",
+          "58272-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/af0af12d54b27ec2/master.m3u8"
+        },
+        "HD-2": {
+          "58272-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbe7bda93e35710fad4f6cb369044c5ae4h",
+          "58272-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58272-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4hlq2rvesa1w",
+          "58272-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58272-malep-1_playmogo_hsub": "https://playmogo.com/e/y6facoxij5hg",
+          "58272-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
