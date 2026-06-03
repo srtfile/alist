@@ -1,0 +1,93 @@
+{
+  "anime_name": "D 1 Devastator",
+  "anime_url": "https://hianime.ad/anime/d-1-devastator",
+  "slug": "d-1-devastator",
+  "mal_id": 185,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T07:23:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ultimate Tofu Store Drift",
+      "episode_url": "https://hianime.ad/watch/d-1-devastator/ep-1",
+      "sub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_sub": "https://vibeplayer.site/0c723b40a9b86469",
+          "185-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c723b40a9b86469/master.m3u8"
+        },
+        "HD-2": {
+          "185-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag441b89ed67cf9952021d7ea35f94eaeb4h",
+          "185-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_sub": "https://otakuvid.online/embed/iujr7uz5t7pk",
+          "185-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_hsub": "https://vibeplayer.site/04219dfc0bf1092a",
+          "185-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/04219dfc0bf1092a/master.m3u8"
+        },
+        "HD-2": {
+          "185-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag20a91d755c2f99c4b866988fb8a220cd4h",
+          "185-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5ddn3l442yeh",
+          "185-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0kva8k6behme",
+          "185-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_hsub": "https://playmogo.com/e/ia30mkqeox0b",
+          "185-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Revenge! The Rumbling Turbo",
+      "episode_url": "https://hianime.ad/watch/d-1-devastator/ep-2",
+      "sub": {
+        "HD-1": {
+          "185-malep-2_vibeplayer_sub": "https://vibeplayer.site/d9505a6a604be2e7",
+          "185-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9505a6a604be2e7/master.m3u8"
+        },
+        "HD-2": {
+          "185-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag63f1086c9521a222e9999c5f49d17f0c4h",
+          "185-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-2_otakuvid_sub": "https://otakuvid.online/embed/xqtlaacz1ue2",
+          "185-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "185-malep-2_vibeplayer_hsub": "https://vibeplayer.site/076b379280202849",
+          "185-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/076b379280202849/master.m3u8"
+        },
+        "HD-2": {
+          "185-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag4be2652109a4e650503dde2b6b6102b14h",
+          "185-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "185-malep-2_otakuhg_hsub": "https://otakuhg.site/e/1i7jklwelxn3",
+          "185-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/b304tec3kbkm",
+          "185-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-2_playmogo_hsub": "https://playmogo.com/e/03um1lojtb63",
+          "185-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
