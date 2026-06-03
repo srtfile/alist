@@ -21548,5 +21548,15 @@
     "captured_at": "2026-06-03T10:32:43",
     "file": "data/eren-the-southpaw.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eren-the-southpaw.json"
+  },
+  {
+    "slug": "ergo-proxy",
+    "mal_id": 790,
+    "anime_name": "Ergo Proxy",
+    "anime_url": "https://hianime.ad/anime/ergo-proxy",
+    "total_episodes": 23,
+    "captured_at": "2026-06-03T10:33:00",
+    "file": "data/ergo-proxy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ergo-proxy.json"
   }
 ]
