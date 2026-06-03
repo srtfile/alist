@@ -11558,5 +11558,15 @@
     "captured_at": "2026-06-03T02:56:44",
     "file": "data/brotherhood-final-fantasy-xv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brotherhood-final-fantasy-xv.json"
+  },
+  {
+    "slug": "brothers-conflict",
+    "mal_id": 15605,
+    "anime_name": "Brothers Conflict",
+    "anime_url": "https://hianime.ad/anime/brothers-conflict",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T02:56:59",
+    "file": "data/brothers-conflict.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brothers-conflict.json"
   }
 ]
