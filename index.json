@@ -1758,5 +1758,15 @@
     "captured_at": "2026-06-03T18:06:41",
     "file": "data/girls-bravo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-bravo.json"
+  },
+  {
+    "slug": "girls-bravo-second-season",
+    "mal_id": 487,
+    "anime_name": "Girls Bravo Second Season",
+    "anime_url": "https://hianime.ad/anime/girls-bravo-second-season",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:07:02",
+    "file": "data/girls-bravo-second-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-bravo-second-season.json"
   }
 ]
