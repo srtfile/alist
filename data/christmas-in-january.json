@@ -1,0 +1,48 @@
+{
+  "anime_name": "Christmas In January",
+  "anime_url": "https://hianime.ad/anime/christmas-in-january",
+  "slug": "christmas-in-january",
+  "mal_id": 50608,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:47:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It Is What It Is",
+      "episode_url": "https://hianime.ad/watch/christmas-in-january/ep-1",
+      "sub": {
+        "HD-1": {
+          "50608-malep-1_vibeplayer_sub": "https://vibeplayer.site/4d71581f52b0c4ca",
+          "50608-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d71581f52b0c4ca/master.m3u8"
+        },
+        "HD-2": {
+          "50608-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag36b7aee59edd80fc87d2d5ff267ca2314h",
+          "50608-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50608-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p50rcmdkpm3x",
+          "50608-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50608-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ae1ff9d942e27a63",
+          "50608-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae1ff9d942e27a63/master.m3u8"
+        },
+        "HD-2": {
+          "50608-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3b8b14b507fb202867ecf3ec48d3113e4h",
+          "50608-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "50608-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rfj0oxu358lx",
+          "50608-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50608-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/38dqdq6c8rsf",
+          "50608-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
