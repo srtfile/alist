@@ -9628,5 +9628,15 @@
     "captured_at": "2026-06-03T00:23:49",
     "file": "data/bio-hunter.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bio-hunter.json"
+  },
+  {
+    "slug": "bird-of-fire",
+    "mal_id": 1371,
+    "anime_name": "Bird Of Fire",
+    "anime_url": "https://hianime.ad/anime/bird-of-fire",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:24:00",
+    "file": "data/bird-of-fire.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bird-of-fire.json"
   }
 ]
