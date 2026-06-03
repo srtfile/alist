@@ -9468,5 +9468,15 @@
     "captured_at": "2026-06-03T00:19:12",
     "file": "data/big-order.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-order.json"
+  },
+  {
+    "slug": "big-order-tv",
+    "mal_id": 31904,
+    "anime_name": "Big Order Tv",
+    "anime_url": "https://hianime.ad/anime/big-order-tv",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T00:19:22",
+    "file": "data/big-order-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-order-tv.json"
   }
 ]
