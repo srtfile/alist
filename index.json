@@ -16578,5 +16578,15 @@
     "captured_at": "2026-06-03T07:41:40",
     "file": "data/dark-moon-the-blood-altar.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dark-moon-the-blood-altar.json"
+  },
+  {
+    "slug": "darker-than-black",
+    "mal_id": 2025,
+    "anime_name": "Darker Than Black",
+    "anime_url": "https://hianime.ad/anime/darker-than-black",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T07:41:59",
+    "file": "data/darker-than-black.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/darker-than-black.json"
   }
 ]
