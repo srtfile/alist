@@ -19838,5 +19838,15 @@
     "captured_at": "2026-06-03T09:28:40",
     "file": "data/dragon-ball.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball.json"
+  },
+  {
+    "slug": "dragon-ball-daima",
+    "mal_id": 56894,
+    "anime_name": "Dragon Ball Daima",
+    "anime_url": "https://hianime.ad/anime/dragon-ball-daima",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T09:31:01",
+    "file": "data/dragon-ball-daima.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-daima.json"
   }
 ]
