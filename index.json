@@ -23668,5 +23668,15 @@
     "captured_at": "2026-06-03T12:39:29",
     "file": "data/flcl-alternative.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-alternative.json"
+  },
+  {
+    "slug": "flcl-progressive",
+    "mal_id": 51304,
+    "anime_name": "Flcl Progressive",
+    "anime_url": "https://hianime.ad/anime/flcl-progressive",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T12:39:44",
+    "file": "data/flcl-progressive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-progressive.json"
   }
 ]
