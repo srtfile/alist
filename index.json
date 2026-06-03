@@ -18838,5 +18838,15 @@
     "captured_at": "2026-06-03T08:51:30",
     "file": "data/dogs-tea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dogs-tea.json"
+  },
+  {
+    "slug": "dogs-bullets-carnage",
+    "mal_id": 31478,
+    "anime_name": "Dogs Bullets Carnage",
+    "anime_url": "https://hianime.ad/anime/dogs-bullets-carnage",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T08:51:49",
+    "file": "data/dogs-bullets-carnage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dogs-bullets-carnage.json"
   }
 ]
