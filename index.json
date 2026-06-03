@@ -12978,5 +12978,15 @@
     "captured_at": "2026-06-03T05:01:29",
     "file": "data/castle-town-dandelion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castle-town-dandelion.json"
+  },
+  {
+    "slug": "castlevania",
+    "mal_id": null,
+    "anime_name": "Castlevania",
+    "anime_url": "https://hianime.ad/anime/castlevania",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T05:01:51",
+    "file": "data/castlevania.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castlevania.json"
   }
 ]
