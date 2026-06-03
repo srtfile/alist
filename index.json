@@ -6168,5 +6168,15 @@
     "captured_at": "2026-06-03T20:48:42",
     "file": "data/hidamari-sketch-x-honeycomb.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidamari-sketch-x-honeycomb.json"
+  },
+  {
+    "slug": "hidamari-sketch-x-sp",
+    "mal_id": 7062,
+    "anime_name": "Hidamari Sketch X Sp",
+    "anime_url": "https://hianime.ad/anime/hidamari-sketch-x-sp",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T20:49:04",
+    "file": "data/hidamari-sketch-x-sp.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidamari-sketch-x-sp.json"
   }
 ]
