@@ -11948,5 +11948,15 @@
     "captured_at": "2026-06-03T03:51:42",
     "file": "data/burning-blood.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burning-blood.json"
+  },
+  {
+    "slug": "burning-kabaddi",
+    "mal_id": 42395,
+    "anime_name": "Burning Kabaddi",
+    "anime_url": "https://hianime.ad/anime/burning-kabaddi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:51:55",
+    "file": "data/burning-kabaddi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burning-kabaddi.json"
   }
 ]
