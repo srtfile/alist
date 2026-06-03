@@ -1,0 +1,56 @@
+{
+  "anime_name": "Detective Conan Movie 17 Private Eye In The Distant Sea",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-17-private-eye-in-the-distant-sea",
+  "slug": "detective-conan-movie-17-private-eye-in-the-distant-sea",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:10:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-17-private-eye-in-the-distant-sea/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/d3b4e9644fc1e563",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3b4e9644fc1e563/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5c028b2691eaf2c0739bc493c2304fac4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/xjwpi5x0kb2m",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ovq8ykn7bd9a",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/467630492ca386bc",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/467630492ca386bc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agff566f5708daa481dfd5203f8c83b1f64h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1f46crr5k13v",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gh1qohfw6nef",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/e22yxxxpk0j8",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
