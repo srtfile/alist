@@ -2358,5 +2358,15 @@
     "captured_at": "2026-06-03T18:32:27",
     "file": "data/godzilla-singular-point.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/godzilla-singular-point.json"
+  },
+  {
+    "slug": "godzilla-the-planet-eater",
+    "mal_id": 59935,
+    "anime_name": "Godzilla The Planet Eater",
+    "anime_url": "https://hianime.ad/anime/godzilla-the-planet-eater",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:32:49",
+    "file": "data/godzilla-the-planet-eater.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/godzilla-the-planet-eater.json"
   }
 ]
