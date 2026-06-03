@@ -5418,5 +5418,15 @@
     "captured_at": "2026-06-03T20:19:54",
     "file": "data/heavens-design-team.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavens-design-team.json"
+  },
+  {
+    "slug": "heavens-lost-property",
+    "mal_id": 5958,
+    "anime_name": "Heavens Lost Property",
+    "anime_url": "https://hianime.ad/anime/heavens-lost-property",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T20:20:17",
+    "file": "data/heavens-lost-property.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavens-lost-property.json"
   }
 ]
