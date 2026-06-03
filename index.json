@@ -20488,5 +20488,15 @@
     "captured_at": "2026-06-03T09:58:09",
     "file": "data/dream-festival.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dream-festival.json"
+  },
+  {
+    "slug": "dream-tower",
+    "mal_id": 37869,
+    "anime_name": "Dream Tower",
+    "anime_url": "https://hianime.ad/anime/dream-tower",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T09:58:29",
+    "file": "data/dream-tower.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dream-tower.json"
   }
 ]
