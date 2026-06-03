@@ -20888,5 +20888,15 @@
     "captured_at": "2026-06-03T10:10:28",
     "file": "data/eat-man-5947.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eat-man-5947.json"
+  },
+  {
+    "slug": "eat-man",
+    "mal_id": 1704,
+    "anime_name": "Eat Man",
+    "anime_url": "https://hianime.ad/anime/eat-man",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:10:48",
+    "file": "data/eat-man.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eat-man.json"
   }
 ]
