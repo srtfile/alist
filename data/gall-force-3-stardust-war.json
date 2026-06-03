@@ -1,0 +1,61 @@
+{
+  "anime_name": "Gall Force 3 Stardust War",
+  "anime_url": "https://hianime.ad/anime/gall-force-3-stardust-war",
+  "slug": "gall-force-3-stardust-war",
+  "mal_id": 1728,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:47:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World's Greatest Gal ♥ Go, Go → Ran Kotobuki",
+      "episode_url": "https://hianime.ad/watch/gall-force-3-stardust-war/ep-1",
+      "sub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/879d373f52aa16f1",
+          "1728-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/879d373f52aa16f1/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9bda29a3f6c3c4573f40df8b8d24af154h",
+          "1728-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_sub": "https://otakuvid.online/embed/evc2iz6sw2wg",
+          "1728-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_dub": "https://vibeplayer.site/188754c29af4b836",
+          "1728-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/188754c29af4b836/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag406a004fd4ecd81d0422219a0d3517f64h",
+          "1728-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9ymh2iajz3ma",
+          "1728-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/03598f93ae9e2a0f",
+          "1728-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/03598f93ae9e2a0f/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag50196593aae87455de80b17286140d5e4h",
+          "1728-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hb27de9b7zb8",
+          "1728-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-1_playmogo_hsub": "https://playmogo.com/e/09bxeg6m4zu7",
+          "1728-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
