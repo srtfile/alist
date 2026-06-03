@@ -1,0 +1,65 @@
+{
+  "anime_name": "Full Metal Panic The Second Raid Episode 00",
+  "anime_url": "https://hianime.ad/anime/full-metal-panic-the-second-raid-episode-00",
+  "slug": "full-metal-panic-the-second-raid-episode-00",
+  "mal_id": 73,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:11:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The End of Day by Day",
+      "episode_url": "https://hianime.ad/watch/full-metal-panic-the-second-raid-episode-00/ep-1",
+      "sub": {
+        "HD-1": {
+          "73-malep-1_vibeplayer_sub": "https://vibeplayer.site/2645221accc3bb8b",
+          "73-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2645221accc3bb8b/master.m3u8"
+        },
+        "HD-2": {
+          "73-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1b751010da484c240cfc22c9b61be2a74h",
+          "73-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "73-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ynj4ldvhsint",
+          "73-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "73-malep-1_vibeplayer_dub": "https://vibeplayer.site/5a216a0dca81b5f7",
+          "73-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a216a0dca81b5f7/master.m3u8"
+        },
+        "HD-2": {
+          "73-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag51d16f46bf5165314611cb80163315404h",
+          "73-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "73-malep-1_otakuvid_dub": "https://otakuvid.online/embed/k78tmhkgg23o",
+          "73-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "73-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8a003b8d9f60f208",
+          "73-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a003b8d9f60f208/master.m3u8"
+        },
+        "HD-2": {
+          "73-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb694fde8a15bf1df8c0f4033e1cda5354h",
+          "73-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "73-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zz72xrmfov1p",
+          "73-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "73-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5aiyg64vmaxt",
+          "73-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "73-malep-1_playmogo_hsub": "https://playmogo.com/e/ckms3fkmaxtw",
+          "73-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
