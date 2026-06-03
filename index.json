@@ -4808,5 +4808,15 @@
     "captured_at": "2026-06-03T19:57:14",
     "file": "data/handyman-saitou-in-another-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/handyman-saitou-in-another-world.json"
+  },
+  {
+    "slug": "hanebado",
+    "mal_id": 37259,
+    "anime_name": "Hanebado",
+    "anime_url": "https://hianime.ad/anime/hanebado",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:57:36",
+    "file": "data/hanebado.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanebado.json"
   }
 ]
