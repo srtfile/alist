@@ -9348,5 +9348,15 @@
     "captured_at": "2026-06-03T00:14:29",
     "file": "data/beyblade-metal-masters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-metal-masters.json"
+  },
+  {
+    "slug": "beyblade-shogun-steel",
+    "mal_id": 13231,
+    "anime_name": "Beyblade Shogun Steel",
+    "anime_url": "https://hianime.ad/anime/beyblade-shogun-steel",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T00:15:23",
+    "file": "data/beyblade-shogun-steel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-shogun-steel.json"
   }
 ]
