@@ -1,0 +1,65 @@
+{
+  "anime_name": "Dual Parallel Runrun Monogatari Special",
+  "anime_url": "https://hianime.ad/anime/dual-parallel-runrun-monogatari-special",
+  "slug": "dual-parallel-runrun-monogatari-special",
+  "mal_id": 992,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:02:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Life Sympathy",
+      "episode_url": "https://hianime.ad/watch/dual-parallel-runrun-monogatari-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "992-malep-1_vibeplayer_sub": "https://vibeplayer.site/5a42651a4a244dcc",
+          "992-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a42651a4a244dcc/master.m3u8"
+        },
+        "HD-2": {
+          "992-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5e77876985a2a284d237b982cb7c08194h",
+          "992-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "992-malep-1_otakuvid_sub": "https://otakuvid.online/embed/boijo23kpolz",
+          "992-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "992-malep-1_vibeplayer_dub": "https://vibeplayer.site/e6cf3e05f27482d3",
+          "992-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e6cf3e05f27482d3/master.m3u8"
+        },
+        "HD-2": {
+          "992-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag333ef942cdf4719c71f641348073c9004h",
+          "992-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "992-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hn8gcncrjd1v",
+          "992-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "992-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1e41da7eea2850e8",
+          "992-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e41da7eea2850e8/master.m3u8"
+        },
+        "HD-2": {
+          "992-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb4a9d0d17979b3002a891a202e3a8cf34h",
+          "992-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "992-malep-1_otakuhg_hsub": "https://otakuhg.site/e/eza15s4n09o1",
+          "992-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "992-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aim0xphkmdhe",
+          "992-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "992-malep-1_playmogo_hsub": "https://playmogo.com/e/c4tsbe8zl3m7",
+          "992-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
