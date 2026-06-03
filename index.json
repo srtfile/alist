@@ -448,5 +448,15 @@
     "captured_at": "2026-06-03T17:18:40",
     "file": "data/genji-monogatari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genji-monogatari.json"
+  },
+  {
+    "slug": "genji-tsuushin-agedama",
+    "mal_id": 8215,
+    "anime_name": "Genji Tsuushin Agedama",
+    "anime_url": "https://hianime.ad/anime/genji-tsuushin-agedama",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T17:18:52",
+    "file": "data/genji-tsuushin-agedama.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genji-tsuushin-agedama.json"
   }
 ]
