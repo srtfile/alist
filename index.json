@@ -25168,5 +25168,15 @@
     "captured_at": "2026-06-03T13:34:56",
     "file": "data/gakkatsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakkatsu.json"
+  },
+  {
+    "slug": "gakkou-no-yuurei",
+    "mal_id": 37475,
+    "anime_name": "Gakkou No Yuurei",
+    "anime_url": "https://hianime.ad/anime/gakkou-no-yuurei",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T13:35:27",
+    "file": "data/gakkou-no-yuurei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakkou-no-yuurei.json"
   }
 ]
