@@ -5018,5 +5018,15 @@
     "captured_at": "2026-06-03T20:04:58",
     "file": "data/harmagedon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/harmagedon.json"
+  },
+  {
+    "slug": "harmonie",
+    "mal_id": 55689,
+    "anime_name": "Harmonie",
+    "anime_url": "https://hianime.ad/anime/harmonie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T20:05:10",
+    "file": "data/harmonie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/harmonie.json"
   }
 ]
