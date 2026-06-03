@@ -1,0 +1,85 @@
+{
+  "anime_name": "Gall Force New Era",
+  "anime_url": "https://hianime.ad/anime/gall-force-new-era",
+  "slug": "gall-force-new-era",
+  "mal_id": 1728,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T13:47:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World's Greatest Gal ♥ Go, Go → Ran Kotobuki",
+      "episode_url": "https://hianime.ad/watch/gall-force-new-era/ep-1",
+      "sub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/d98867933a47877b",
+          "1728-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d98867933a47877b/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd66506f00f424b688b966f6ea13aa9e04h",
+          "1728-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fjl4ipfe9gc2",
+          "1728-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e39fb3ba420e7bcd",
+          "1728-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e39fb3ba420e7bcd/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1ea549b7638d9fe29164af2022dbaa5d4h",
+          "1728-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ss1cphv4k9vc",
+          "1728-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-1_playmogo_hsub": "https://playmogo.com/e/r6vvata96ol0",
+          "1728-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shibuya ♥ Thrilling → Great Dragnet",
+      "episode_url": "https://hianime.ad/watch/gall-force-new-era/ep-2",
+      "sub": {
+        "HD-1": {
+          "1728-malep-2_vibeplayer_sub": "https://vibeplayer.site/862eb6e3ee9b00e6",
+          "1728-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/862eb6e3ee9b00e6/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag38fc766eac3d383468753feb6b8f81c64h",
+          "1728-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-2_otakuvid_sub": "https://otakuvid.online/embed/iblsihm7z9ig",
+          "1728-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1728-malep-2_vibeplayer_hsub": "https://vibeplayer.site/1969fbab3779207f",
+          "1728-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1969fbab3779207f/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag5ff853580082717145f04523521acfc44h",
+          "1728-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/j4m6pd2i8bd8",
+          "1728-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-2_playmogo_hsub": "https://playmogo.com/e/zjd2bv4i7rv8",
+          "1728-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
