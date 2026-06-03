@@ -6898,5 +6898,15 @@
     "captured_at": "2026-06-03T21:16:44",
     "file": "data/hitorigurashi-no-shougakusei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitorigurashi-no-shougakusei.json"
+  },
+  {
+    "slug": "hitorijime-my-hero",
+    "mal_id": 33654,
+    "anime_name": "Hitorijime My Hero",
+    "anime_url": "https://hianime.ad/anime/hitorijime-my-hero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:17:05",
+    "file": "data/hitorijime-my-hero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitorijime-my-hero.json"
   }
 ]
