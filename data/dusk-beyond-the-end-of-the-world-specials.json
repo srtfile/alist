@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dusk Beyond The End Of The World Specials",
+  "anime_url": "https://hianime.ad/anime/dusk-beyond-the-end-of-the-world-specials",
+  "slug": "dusk-beyond-the-end-of-the-world-specials",
+  "mal_id": 61917,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:07:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Woman Who Sailed the Soul",
+      "episode_url": "https://hianime.ad/watch/dusk-beyond-the-end-of-the-world-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "61917-malep-1_vibeplayer_sub": "https://vibeplayer.site/e483681edacc65aa",
+          "61917-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e483681edacc65aa/master.m3u8"
+        },
+        "HD-2": {
+          "61917-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4c7dcdad47ff09416ec0a8c2c975b6344h",
+          "61917-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "61917-malep-1_otakuhg_sub": "https://otakuhg.site/e/zulscwswk47z",
+          "61917-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61917-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2uk9gftqz6n8",
+          "61917-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "61917-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee4f9798343b5730",
+          "61917-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee4f9798343b5730/master.m3u8"
+        },
+        "HD-2": {
+          "61917-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc8c47321e15480566e00b50420e25c9a4h",
+          "61917-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "61917-malep-1_otakuhg_hsub": "https://otakuhg.site/e/m3bx4mu7etb2",
+          "61917-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61917-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zhhr1ce1blpz",
+          "61917-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61917-malep-1_playmogo_hsub": "https://playmogo.com/e/nq4mgo8nm626",
+          "61917-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
