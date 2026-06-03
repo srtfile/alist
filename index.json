@@ -6818,5 +6818,15 @@
     "captured_at": "2026-06-03T21:13:05",
     "file": "data/hipira-kun-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hipira-kun-special.json"
+  },
+  {
+    "slug": "hirogaru-sky-precure",
+    "mal_id": 53716,
+    "anime_name": "Hirogaru Sky Precure",
+    "anime_url": "https://hianime.ad/anime/hirogaru-sky-precure",
+    "total_episodes": 50,
+    "captured_at": "2026-06-03T21:13:18",
+    "file": "data/hirogaru-sky-precure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hirogaru-sky-precure.json"
   }
 ]
