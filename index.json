@@ -6778,5 +6778,15 @@
     "captured_at": "2026-06-03T21:11:35",
     "file": "data/hinamatsuri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinamatsuri.json"
+  },
+  {
+    "slug": "hinomaru-sumo",
+    "mal_id": 37007,
+    "anime_name": "Hinomaru Sumo",
+    "anime_url": "https://hianime.ad/anime/hinomaru-sumo",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T21:11:58",
+    "file": "data/hinomaru-sumo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinomaru-sumo.json"
   }
 ]
