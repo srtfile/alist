@@ -988,5 +988,15 @@
     "captured_at": "2026-06-03T17:36:57",
     "file": "data/ghost-slayers-ayashi-inferno.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-slayers-ayashi-inferno.json"
+  },
+  {
+    "slug": "ghost-stories",
+    "mal_id": 1281,
+    "anime_name": "Ghost Stories",
+    "anime_url": "https://hianime.ad/anime/ghost-stories",
+    "total_episodes": 20,
+    "captured_at": "2026-06-03T17:37:12",
+    "file": "data/ghost-stories.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-stories.json"
   }
 ]
