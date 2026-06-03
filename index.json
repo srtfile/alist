@@ -20898,5 +20898,15 @@
     "captured_at": "2026-06-03T10:10:48",
     "file": "data/eat-man.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eat-man.json"
+  },
+  {
+    "slug": "ebiten",
+    "mal_id": null,
+    "anime_name": "Ebiten",
+    "anime_url": "https://hianime.ad/anime/ebiten",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T10:11:07",
+    "file": "data/ebiten.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ebiten.json"
   }
 ]
