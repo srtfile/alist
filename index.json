@@ -5328,5 +5328,15 @@
     "captured_at": "2026-06-03T20:16:13",
     "file": "data/heart-no-kuni-no-alice-wonderful-wonder-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heart-no-kuni-no-alice-wonderful-wonder-world.json"
+  },
+  {
+    "slug": "heartcatch-precure",
+    "mal_id": 7645,
+    "anime_name": "Heartcatch Precure",
+    "anime_url": "https://hianime.ad/anime/heartcatch-precure",
+    "total_episodes": 49,
+    "captured_at": "2026-06-03T20:16:25",
+    "file": "data/heartcatch-precure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heartcatch-precure.json"
   }
 ]
