@@ -17078,5 +17078,15 @@
     "captured_at": "2026-06-03T07:56:32",
     "file": "data/delicious-in-dungeon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-in-dungeon.json"
+  },
+  {
+    "slug": "delicious-partyprecure",
+    "mal_id": 50281,
+    "anime_name": "Delicious Partyprecure",
+    "anime_url": "https://hianime.ad/anime/delicious-partyprecure",
+    "total_episodes": 45,
+    "captured_at": "2026-06-03T07:57:01",
+    "file": "data/delicious-partyprecure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicious-partyprecure.json"
   }
 ]
