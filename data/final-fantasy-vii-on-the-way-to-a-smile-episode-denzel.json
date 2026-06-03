@@ -1,0 +1,52 @@
+{
+  "anime_name": "Final Fantasy Vii On The Way To A Smile Episode Denzel",
+  "anime_url": "https://hianime.ad/anime/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel",
+  "slug": "final-fantasy-vii-on-the-way-to-a-smile-episode-denzel",
+  "mal_id": 1157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:22:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wonderland: Journey into the Darkness",
+      "episode_url": "https://hianime.ad/watch/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel/ep-1",
+      "sub": {
+        "HD-1": {
+          "1157-malep-1_vibeplayer_sub": "https://vibeplayer.site/ef5bab3a15a1f92f",
+          "1157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ef5bab3a15a1f92f/master.m3u8"
+        },
+        "HD-2": {
+          "1157-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag88dcbd72370c6d4549054ae3923d2bbf4h",
+          "1157-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1157-malep-1_otakuhg_sub": "https://otakuhg.site/e/xoqhtvhyga18",
+          "1157-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zcsh2dwve0q5",
+          "1157-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2f83114c33c840b6",
+          "1157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f83114c33c840b6/master.m3u8"
+        },
+        "HD-2": {
+          "1157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ageb6f2e5492c6ae8a85aa98dbbe7b5b914h",
+          "1157-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fw1zzigq6o1b",
+          "1157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1157-malep-1_playmogo_hsub": "https://playmogo.com/e/luvh78xfb9oc",
+          "1157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
