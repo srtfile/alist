@@ -14218,5 +14218,15 @@
     "captured_at": "2026-06-03T05:57:21",
     "file": "data/cinnamoroll-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cinnamoroll-the-movie.json"
+  },
+  {
+    "slug": "circlet-princess",
+    "mal_id": 38157,
+    "anime_name": "Circlet Princess",
+    "anime_url": "https://hianime.ad/anime/circlet-princess",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:57:34",
+    "file": "data/circlet-princess.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/circlet-princess.json"
   }
 ]
