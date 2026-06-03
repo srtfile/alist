@@ -5488,5 +5488,15 @@
     "captured_at": "2026-06-03T20:22:01",
     "file": "data/heavenly-brick-hero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavenly-brick-hero.json"
+  },
+  {
+    "slug": "heavenly-delusion",
+    "mal_id": 53393,
+    "anime_name": "Heavenly Delusion",
+    "anime_url": "https://hianime.ad/anime/heavenly-delusion",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T20:22:29",
+    "file": "data/heavenly-delusion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavenly-delusion.json"
   }
 ]
