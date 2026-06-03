@@ -10588,5 +10588,15 @@
     "captured_at": "2026-06-03T00:57:09",
     "file": "data/blue-exorcist-kyoto-saga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-exorcist-kyoto-saga.json"
+  },
+  {
+    "slug": "blue-exorcist-runaway-kuro",
+    "mal_id": 9919,
+    "anime_name": "Blue Exorcist Runaway Kuro",
+    "anime_url": "https://hianime.ad/anime/blue-exorcist-runaway-kuro",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T00:57:29",
+    "file": "data/blue-exorcist-runaway-kuro.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-exorcist-runaway-kuro.json"
   }
 ]
