@@ -15818,5 +15818,15 @@
     "captured_at": "2026-06-03T06:49:57",
     "file": "data/crying-freeman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crying-freeman.json"
+  },
+  {
+    "slug": "cue",
+    "mal_id": 43735,
+    "anime_name": "Cue",
+    "anime_url": "https://hianime.ad/anime/cue",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T06:50:14",
+    "file": "data/cue.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cue.json"
   }
 ]
