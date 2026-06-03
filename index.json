@@ -21968,5 +21968,15 @@
     "captured_at": "2026-06-03T10:46:29",
     "file": "data/ex-driver-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ex-driver-the-movie.json"
+  },
+  {
+    "slug": "ex-driver-nina-rei-danger-zone",
+    "mal_id": 1005,
+    "anime_name": "Ex Driver Nina Rei Danger Zone",
+    "anime_url": "https://hianime.ad/anime/ex-driver-nina-rei-danger-zone",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:46:39",
+    "file": "data/ex-driver-nina-rei-danger-zone.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ex-driver-nina-rei-danger-zone.json"
   }
 ]
