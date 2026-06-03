@@ -17888,5 +17888,15 @@
     "captured_at": "2026-06-03T08:17:56",
     "file": "data/devilman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devilman.json"
+  },
+  {
+    "slug": "devilman-crybaby",
+    "mal_id": 2252,
+    "anime_name": "Devilman Crybaby",
+    "anime_url": "https://hianime.ad/anime/devilman-crybaby",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T08:18:38",
+    "file": "data/devilman-crybaby.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devilman-crybaby.json"
   }
 ]
