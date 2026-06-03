@@ -23958,5 +23958,15 @@
     "captured_at": "2026-06-03T12:49:28",
     "file": "data/for-whom-the-alchemist-exists.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/for-whom-the-alchemist-exists.json"
+  },
+  {
+    "slug": "foreordination",
+    "mal_id": null,
+    "anime_name": "Foreordination",
+    "anime_url": "https://hianime.ad/anime/foreordination",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:49:38",
+    "file": "data/foreordination.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/foreordination.json"
   }
 ]
