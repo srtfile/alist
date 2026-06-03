@@ -3798,5 +3798,15 @@
     "captured_at": "2026-06-03T19:23:44",
     "file": "data/gunslinger-stratos-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunslinger-stratos-the-animation.json"
+  },
+  {
+    "slug": "gunsmith-cats",
+    "mal_id": 2043,
+    "anime_name": "Gunsmith Cats",
+    "anime_url": "https://hianime.ad/anime/gunsmith-cats",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T19:24:06",
+    "file": "data/gunsmith-cats.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunsmith-cats.json"
   }
 ]
