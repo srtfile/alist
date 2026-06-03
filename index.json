@@ -548,5 +548,15 @@
     "captured_at": "2026-06-03T17:21:50",
     "file": "data/genshiken-second-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genshiken-second-season.json"
+  },
+  {
+    "slug": "gensou-sangokushi-tengen-reishinki",
+    "mal_id": 49514,
+    "anime_name": "Gensou Sangokushi Tengen Reishinki",
+    "anime_url": "https://hianime.ad/anime/gensou-sangokushi-tengen-reishinki",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:22:12",
+    "file": "data/gensou-sangokushi-tengen-reishinki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gensou-sangokushi-tengen-reishinki.json"
   }
 ]
