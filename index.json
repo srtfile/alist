@@ -12968,5 +12968,15 @@
     "captured_at": "2026-06-03T05:01:17",
     "file": "data/castle-in-the-sky.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castle-in-the-sky.json"
+  },
+  {
+    "slug": "castle-town-dandelion",
+    "mal_id": 28387,
+    "anime_name": "Castle Town Dandelion",
+    "anime_url": "https://hianime.ad/anime/castle-town-dandelion",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:01:29",
+    "file": "data/castle-town-dandelion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castle-town-dandelion.json"
   }
 ]
