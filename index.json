@@ -23308,5 +23308,15 @@
     "captured_at": "2026-06-03T12:22:44",
     "file": "data/final-fantasy-unlimited.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/final-fantasy-unlimited.json"
+  },
+  {
+    "slug": "fire-emblem",
+    "mal_id": 4667,
+    "anime_name": "Fire Emblem",
+    "anime_url": "https://hianime.ad/anime/fire-emblem",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T12:23:21",
+    "file": "data/fire-emblem.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-emblem.json"
   }
 ]
