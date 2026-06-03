@@ -11428,5 +11428,15 @@
     "captured_at": "2026-06-03T02:52:52",
     "file": "data/bridge-my-little-friends.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bridge-my-little-friends.json"
+  },
+  {
+    "slug": "brigadoon",
+    "mal_id": 1450,
+    "anime_name": "Brigadoon",
+    "anime_url": "https://hianime.ad/anime/brigadoon",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T02:53:04",
+    "file": "data/brigadoon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brigadoon.json"
   }
 ]
