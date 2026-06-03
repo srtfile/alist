@@ -1,0 +1,503 @@
+{
+  "anime_name": "Burning Kabaddi",
+  "anime_url": "https://hianime.ad/anime/burning-kabaddi",
+  "slug": "burning-kabaddi",
+  "mal_id": 42395,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T03:51:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "What is Kabaddi?",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-1",
+      "sub": {
+        "HD-1": {
+          "42395-malep-1_vibeplayer_sub": "https://vibeplayer.site/799fc11d798d56ce",
+          "42395-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/799fc11d798d56ce/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc93f461d5f5c662964c6794fbc0f18b14h",
+          "42395-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-1_otakuhg_sub": "https://otakuhg.site/e/hx74xplau1ox",
+          "42395-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7qtunymmxqd6",
+          "42395-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bb7c33a4a7cc0644",
+          "42395-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb7c33a4a7cc0644/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbfc1d0bf30c89af460e1cb0b3401ccd04h",
+          "42395-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0y7rlx47rzxt",
+          "42395-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z9k246cpr3h5",
+          "42395-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-1_playmogo_hsub": "https://playmogo.com/e/2go7b8006wjv",
+          "42395-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Men Who Connect",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-2",
+      "sub": {
+        "HD-1": {
+          "42395-malep-2_vibeplayer_sub": "https://vibeplayer.site/90b35035f9ed0bd1",
+          "42395-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/90b35035f9ed0bd1/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-2_vibeplayer_sub": "https://vibeplayer.site/agb6b034fad3d857586fa0fbd2710484104h",
+          "42395-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-2_otakuvid_sub": "https://otakuvid.online/embed/fq2rmycvrjpo",
+          "42395-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-2_vibeplayer_hsub": "https://vibeplayer.site/29c0e37b69d972d6",
+          "42395-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29c0e37b69d972d6/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag4eb6a468eab67a03de787a8e40019b5e4h",
+          "42395-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-2_otakuhg_hsub": "https://otakuhg.site/e/o0u6j4yl020u",
+          "42395-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/gg30pg5b880w",
+          "42395-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-2_playmogo_hsub": "https://playmogo.com/e/0su3zvwqe209",
+          "42395-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Into the Burning World",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-3",
+      "sub": {
+        "HD-1": {
+          "42395-malep-3_vibeplayer_sub": "https://vibeplayer.site/0b5b1f59cc724ee1",
+          "42395-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b5b1f59cc724ee1/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-3_vibeplayer_sub": "https://vibeplayer.site/agb4475a976352ab0b5e9b5786e577fdc24h",
+          "42395-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-3_otakuvid_sub": "https://otakuvid.online/embed/agvh6645jm1x",
+          "42395-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-3_vibeplayer_hsub": "https://vibeplayer.site/62fb742027e7de26",
+          "42395-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/62fb742027e7de26/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag29ac22afeb634b5fd48ce114f8eb4c534h",
+          "42395-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-3_otakuhg_hsub": "https://otakuhg.site/e/h0kn6eh3nfo1",
+          "42395-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/ok46e01gg7ji",
+          "42395-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-3_playmogo_hsub": "https://playmogo.com/e/kzcj8apm4qw2",
+          "42395-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Strongest Raider",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-4",
+      "sub": {
+        "HD-1": {
+          "42395-malep-4_vibeplayer_sub": "https://vibeplayer.site/6eddb46fe10fa60e",
+          "42395-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6eddb46fe10fa60e/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag1aa06282be8cc98517cfda09635a82f24h",
+          "42395-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-4_otakuvid_sub": "https://otakuvid.online/embed/tf60u4p7ksac",
+          "42395-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-4_vibeplayer_hsub": "https://vibeplayer.site/7503fbc4c5b8dbbc",
+          "42395-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7503fbc4c5b8dbbc/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag77435277a7a573d3a5366f6e30e6cb6e4h",
+          "42395-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-4_otakuhg_hsub": "https://otakuhg.site/e/a8o8ju5g6llc",
+          "42395-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/3ypcsf5zcadv",
+          "42395-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-4_playmogo_hsub": "https://playmogo.com/e/ahle63h6652s",
+          "42395-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Match Begins!!!",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-5",
+      "sub": {
+        "HD-1": {
+          "42395-malep-5_vibeplayer_sub": "https://vibeplayer.site/84a03fdb6219ec7a",
+          "42395-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84a03fdb6219ec7a/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag3f86cc2748dab680e7a5dbae0e8d65cd4h",
+          "42395-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-5_otakuvid_sub": "https://otakuvid.online/embed/westy42sw7bg",
+          "42395-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-5_vibeplayer_hsub": "https://vibeplayer.site/88bf93a76d2ddb94",
+          "42395-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/88bf93a76d2ddb94/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag063ad2d2ce4214e712cc550c86ef261e4h",
+          "42395-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-5_otakuhg_hsub": "https://otakuhg.site/e/746gppnf6acy",
+          "42395-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/2ey6umwoj8q2",
+          "42395-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-5_playmogo_hsub": "https://playmogo.com/e/n5yx81e7nnau",
+          "42395-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chase X Counterattack",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-6",
+      "sub": {
+        "HD-1": {
+          "42395-malep-6_vibeplayer_sub": "https://vibeplayer.site/b56de165fe824734",
+          "42395-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b56de165fe824734/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-6_vibeplayer_sub": "https://vibeplayer.site/agc9a42578e12c200ecd87f107ec26c4a14h",
+          "42395-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-6_otakuvid_sub": "https://otakuvid.online/embed/oaau7ti9pdsb",
+          "42395-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-6_vibeplayer_hsub": "https://vibeplayer.site/12a8883bcf769cb8",
+          "42395-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/12a8883bcf769cb8/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag8609ecd2bf9e6752ed988c01f52a11404h",
+          "42395-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-6_otakuhg_hsub": "https://otakuhg.site/e/opy64ap7tlur",
+          "42395-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/9eqry0tsu1ik",
+          "42395-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-6_playmogo_hsub": "https://playmogo.com/e/8h1sn5st54v9",
+          "42395-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Struggle",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-7",
+      "sub": {
+        "HD-1": {
+          "42395-malep-7_vibeplayer_sub": "https://vibeplayer.site/96e2539d928ce142",
+          "42395-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96e2539d928ce142/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-7_vibeplayer_sub": "https://vibeplayer.site/age1d44e42cb5783570cb857aafa00140d4h",
+          "42395-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-7_otakuvid_sub": "https://otakuvid.online/embed/6nxel21a3k59",
+          "42395-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-7_vibeplayer_hsub": "https://vibeplayer.site/43696f074ad2b130",
+          "42395-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/43696f074ad2b130/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag5722f4a366cad2b6d798c3fd7b0a2e834h",
+          "42395-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-7_otakuhg_hsub": "https://otakuhg.site/e/r1xvnag9kown",
+          "42395-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/4wbnl2ci72jk",
+          "42395-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-7_playmogo_hsub": "https://playmogo.com/e/1ow3su45us1d",
+          "42395-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Team Applicants",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-8",
+      "sub": {
+        "HD-1": {
+          "42395-malep-8_vibeplayer_sub": "https://vibeplayer.site/9d982bc93ac13bf3",
+          "42395-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d982bc93ac13bf3/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag3d27f7d983e15a163d8f88a4c5570bd84h",
+          "42395-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-8_otakuvid_sub": "https://otakuvid.online/embed/f6s90hj5zumv",
+          "42395-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-8_vibeplayer_hsub": "https://vibeplayer.site/bcaf238857a3a7e3",
+          "42395-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bcaf238857a3a7e3/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-8_vibeplayer_hsub": "https://vibeplayer.site/agb07c619d413f46b0acff3bcbddd182014h",
+          "42395-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-8_otakuhg_hsub": "https://otakuhg.site/e/ayp5y3vakmyj",
+          "42395-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/1qozlpn9houo",
+          "42395-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-8_playmogo_hsub": "https://playmogo.com/e/3yauud50xkt7",
+          "42395-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Battle of Wills",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-9",
+      "sub": {
+        "HD-1": {
+          "42395-malep-9_vibeplayer_sub": "https://vibeplayer.site/dc707846541417d8",
+          "42395-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc707846541417d8/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag25e864be1954d0fac87ca5e4237ac2064h",
+          "42395-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-9_otakuvid_sub": "https://otakuvid.online/embed/pr1m7297qe09",
+          "42395-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-9_vibeplayer_hsub": "https://vibeplayer.site/6dff4000a75ad744",
+          "42395-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6dff4000a75ad744/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag43161fa00d72bb39d36b2ec8211306bc4h",
+          "42395-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-9_otakuhg_hsub": "https://otakuhg.site/e/pnnnqnz4rh34",
+          "42395-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/8zab46w07ykh",
+          "42395-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-9_playmogo_hsub": "https://playmogo.com/e/yikkdxl6m3qu",
+          "42395-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Because He's the Ace",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-10",
+      "sub": {
+        "HD-1": {
+          "42395-malep-10_vibeplayer_sub": "https://vibeplayer.site/e89f8ade98f67f36",
+          "42395-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e89f8ade98f67f36/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-10_vibeplayer_sub": "https://vibeplayer.site/agaa6ef237cc53eb17e8b5ba57e6a47ce84h",
+          "42395-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-10_otakuvid_sub": "https://otakuvid.online/embed/4fng1xc6scjc",
+          "42395-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-10_vibeplayer_hsub": "https://vibeplayer.site/c3c1697494208719",
+          "42395-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3c1697494208719/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-10_vibeplayer_hsub": "https://vibeplayer.site/agb07a66048ce627bd96c4418c0b62459c4h",
+          "42395-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/naywen8e0jsa",
+          "42395-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-10_playmogo_hsub": "https://playmogo.com/e/3o762mtyztkv",
+          "42395-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Direction We're Aiming",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-11",
+      "sub": {
+        "HD-1": {
+          "42395-malep-11_vibeplayer_sub": "https://vibeplayer.site/4389fefaa46f6fdf",
+          "42395-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4389fefaa46f6fdf/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag58ab89e91fbf29135d647147c6b1e2534h",
+          "42395-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-11_otakuvid_sub": "https://otakuvid.online/embed/2b5idtzrr4j4",
+          "42395-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-11_vibeplayer_hsub": "https://vibeplayer.site/011f61f8f542ee2f",
+          "42395-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/011f61f8f542ee2f/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag1d4a4368eba9d1078475d1a2987b80ef4h",
+          "42395-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-11_otakuhg_hsub": "https://otakuhg.site/e/psrr6yhb3vnf",
+          "42395-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/7sryb10145vm",
+          "42395-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-11_playmogo_hsub": "https://playmogo.com/e/5elabimr3fh5",
+          "42395-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "After Giving Every Last Drop",
+      "episode_url": "https://hianime.ad/watch/burning-kabaddi/ep-12",
+      "sub": {
+        "HD-1": {
+          "42395-malep-12_vibeplayer_sub": "https://vibeplayer.site/6d71d07944118574",
+          "42395-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d71d07944118574/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag01cc24dd182ea3866e9f663e5858d4fb4h",
+          "42395-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-12_otakuvid_sub": "https://otakuvid.online/embed/egomihlas7da",
+          "42395-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42395-malep-12_vibeplayer_hsub": "https://vibeplayer.site/5b141f489a1bae93",
+          "42395-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b141f489a1bae93/master.m3u8"
+        },
+        "HD-2": {
+          "42395-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agba7cec6b98f2fa2a3f828ca46b6340824h",
+          "42395-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "42395-malep-12_otakuhg_hsub": "https://otakuhg.site/e/4pxmwrcajpet",
+          "42395-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42395-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/3kaj6xzpogsm",
+          "42395-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42395-malep-12_playmogo_hsub": "https://playmogo.com/e/7swlvf5p11w0",
+          "42395-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
