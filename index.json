@@ -13418,5 +13418,15 @@
     "captured_at": "2026-06-03T05:18:01",
     "file": "data/choschild.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/choschild.json"
+  },
+  {
+    "slug": "choshead",
+    "mal_id": 4975,
+    "anime_name": "Choshead",
+    "anime_url": "https://hianime.ad/anime/choshead",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:18:24",
+    "file": "data/choshead.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/choshead.json"
   }
 ]
