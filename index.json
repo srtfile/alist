@@ -1018,5 +1018,15 @@
     "captured_at": "2026-06-03T17:37:52",
     "file": "data/ghost-tale.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-tale.json"
+  },
+  {
+    "slug": "ghost-talkers-daydream",
+    "mal_id": 63469,
+    "anime_name": "Ghost Talkers Daydream",
+    "anime_url": "https://hianime.ad/anime/ghost-talkers-daydream",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T17:38:03",
+    "file": "data/ghost-talkers-daydream.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-talkers-daydream.json"
   }
 ]
