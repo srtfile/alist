@@ -16708,5 +16708,15 @@
     "captured_at": "2026-06-03T07:45:18",
     "file": "data/date-a-live-ii-kurumi-star-festival.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-ii-kurumi-star-festival.json"
+  },
+  {
+    "slug": "date-a-live-iii",
+    "mal_id": 36633,
+    "anime_name": "Date A Live Iii",
+    "anime_url": "https://hianime.ad/anime/date-a-live-iii",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:45:28",
+    "file": "data/date-a-live-iii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/date-a-live-iii.json"
   }
 ]
