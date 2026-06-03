@@ -1118,5 +1118,15 @@
     "captured_at": "2026-06-03T17:41:12",
     "file": "data/gifuu-doudou-kanetsugu-to-keiji.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gifuu-doudou-kanetsugu-to-keiji.json"
+  },
+  {
+    "slug": "gigantor",
+    "mal_id": 2686,
+    "anime_name": "Gigantor",
+    "anime_url": "https://hianime.ad/anime/gigantor",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T17:41:45",
+    "file": "data/gigantor.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gigantor.json"
   }
 ]
