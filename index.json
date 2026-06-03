@@ -11298,5 +11298,15 @@
     "captured_at": "2026-06-03T02:48:27",
     "file": "data/bottom-tier-character-tomozaki-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bottom-tier-character-tomozaki-ova.json"
+  },
+  {
+    "slug": "box-of-goblins",
+    "mal_id": 4879,
+    "anime_name": "Box Of Goblins",
+    "anime_url": "https://hianime.ad/anime/box-of-goblins",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T02:48:40",
+    "file": "data/box-of-goblins.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/box-of-goblins.json"
   }
 ]
