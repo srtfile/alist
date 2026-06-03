@@ -24148,5 +24148,15 @@
     "captured_at": "2026-06-03T12:56:00",
     "file": "data/fox-spirit-matchmaker-8th-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fox-spirit-matchmaker-8th-season.json"
+  },
+  {
+    "slug": "fractale",
+    "mal_id": 9314,
+    "anime_name": "Fractale",
+    "anime_url": "https://hianime.ad/anime/fractale",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T12:56:19",
+    "file": "data/fractale.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fractale.json"
   }
 ]
