@@ -2728,5 +2728,15 @@
     "captured_at": "2026-06-03T18:45:40",
     "file": "data/gorillaman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gorillaman.json"
+  },
+  {
+    "slug": "gosenzo-sama-banbanzai",
+    "mal_id": null,
+    "anime_name": "Gosenzo Sama Banbanzai",
+    "anime_url": "https://hianime.ad/anime/gosenzo-sama-banbanzai",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T18:45:52",
+    "file": "data/gosenzo-sama-banbanzai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gosenzo-sama-banbanzai.json"
   }
 ]
