@@ -1908,5 +1908,15 @@
     "captured_at": "2026-06-03T18:11:16",
     "file": "data/glass-maiden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-maiden.json"
+  },
+  {
+    "slug": "glass-mask",
+    "mal_id": 1974,
+    "anime_name": "Glass Mask",
+    "anime_url": "https://hianime.ad/anime/glass-mask",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T18:11:39",
+    "file": "data/glass-mask.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-mask.json"
   }
 ]
