@@ -13718,5 +13718,15 @@
     "captured_at": "2026-06-03T05:39:17",
     "file": "data/children-of-the-sea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/children-of-the-sea.json"
+  },
+  {
+    "slug": "children-of-the-whales",
+    "mal_id": 34712,
+    "anime_name": "Children Of The Whales",
+    "anime_url": "https://hianime.ad/anime/children-of-the-whales",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:39:29",
+    "file": "data/children-of-the-whales.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/children-of-the-whales.json"
   }
 ]
