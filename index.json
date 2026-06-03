@@ -4678,5 +4678,15 @@
     "captured_at": "2026-06-03T19:53:14",
     "file": "data/hanaukyo-maid-team.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanaukyo-maid-team.json"
+  },
+  {
+    "slug": "hanaukyo-maid-team-la-verite",
+    "mal_id": 649,
+    "anime_name": "Hanaukyo Maid Team La Verite",
+    "anime_url": "https://hianime.ad/anime/hanaukyo-maid-team-la-verite",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:53:36",
+    "file": "data/hanaukyo-maid-team-la-verite.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanaukyo-maid-team-la-verite.json"
   }
 ]
