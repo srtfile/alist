@@ -1,0 +1,40 @@
+{
+  "anime_name": "Glassy Ocean",
+  "anime_url": "https://hianime.ad/anime/glassy-ocean",
+  "slug": "glassy-ocean",
+  "mal_id": 1974,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:13:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Girl of a Thousand Masks",
+      "episode_url": "https://hianime.ad/watch/glassy-ocean/ep-1",
+      "sub": {
+        "HD-1": {
+          "1974-malep-1_vibeplayer_sub": "https://vibeplayer.site/44da8a8889cf53d3",
+          "1974-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/44da8a8889cf53d3/master.m3u8"
+        },
+        "Earnvids": {
+          "1974-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kpqc9aj6b17k",
+          "1974-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1974-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e20d0429170f750f",
+          "1974-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e20d0429170f750f/master.m3u8"
+        },
+        "Earnvids": {
+          "1974-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/612v0w04k8uo",
+          "1974-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1974-malep-1_playmogo_hsub": "https://playmogo.com/e/bc9r0nhjjw25",
+          "1974-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
