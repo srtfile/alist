@@ -1,0 +1,331 @@
+{
+  "anime_name": "Ex Driver",
+  "anime_url": "https://hianime.ad/anime/ex-driver",
+  "slug": "ex-driver",
+  "mal_id": 1005,
+  "total_episodes": 6,
+  "captured_at": "2026-06-03T10:46:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Transport",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-1",
+      "sub": {
+        "HD-1": {
+          "1005-malep-1_vibeplayer_sub": "https://vibeplayer.site/0313a5b8b4793320",
+          "1005-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0313a5b8b4793320/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9b4872e1a1cac1b532d879957f71c5cc4h",
+          "1005-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k7zlkkv6086o",
+          "1005-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-1_playmogo_sub": "https://playmogo.com/e/78zi4db8zvbt",
+          "1005-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-1_vibeplayer_dub": "https://vibeplayer.site/1cfcf7313fde42e0",
+          "1005-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1cfcf7313fde42e0/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd17c544de11d3e91e9a8775fb1e035454h",
+          "1005-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pltsbdjwfhj3",
+          "1005-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-1_vibeplayer_hsub": "https://vibeplayer.site/908ca59f9f4347db",
+          "1005-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/908ca59f9f4347db/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9c162ee94ca0eeb5a907c123f88b91164h",
+          "1005-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1005-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y8hdlsz1u5ce",
+          "1005-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4etmdrom0yq4",
+          "1005-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-1_playmogo_hsub": "https://playmogo.com/e/vcpwzdnn3u27",
+          "1005-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Encounter ~Contract~",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-2",
+      "sub": {
+        "HD-1": {
+          "1005-malep-2_vibeplayer_sub": "https://vibeplayer.site/50cef43a1be458ac",
+          "1005-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50cef43a1be458ac/master.m3u8"
+        },
+        "Earnvids": {
+          "1005-malep-2_otakuvid_sub": "https://otakuvid.online/embed/2c1h4j6yxrvw",
+          "1005-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-2_vibeplayer_dub": "https://vibeplayer.site/7374904a3873cd0b",
+          "1005-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7374904a3873cd0b/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag21864985a098a26a05d951f94ba061394h",
+          "1005-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-2_otakuvid_dub": "https://otakuvid.online/embed/6ufmyggm955h",
+          "1005-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-2_vibeplayer_hsub": "https://vibeplayer.site/e1c598be861a583b",
+          "1005-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1c598be861a583b/master.m3u8"
+        },
+        "StreamHG": {
+          "1005-malep-2_otakuhg_hsub": "https://otakuhg.site/e/dml4hily7bp6",
+          "1005-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/4dpnn941y41k",
+          "1005-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-2_playmogo_hsub": "https://playmogo.com/e/7if84xmke11r",
+          "1005-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Magic Stone",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-3",
+      "sub": {
+        "HD-1": {
+          "1005-malep-3_vibeplayer_sub": "https://vibeplayer.site/8abf66db8abf3e30",
+          "1005-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8abf66db8abf3e30/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-3_vibeplayer_sub": "https://vibeplayer.site/agdbe2e596ec2ed6cde1706ab00b5f53784h",
+          "1005-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-3_otakuvid_sub": "https://otakuvid.online/embed/bioyy6yoom2k",
+          "1005-malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-3_playmogo_sub": "https://playmogo.com/e/gkz6ktnuz4jm",
+          "1005-malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-3_vibeplayer_dub": "https://vibeplayer.site/6b75ee46e80c0465",
+          "1005-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6b75ee46e80c0465/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-3_vibeplayer_dub": "https://vibeplayer.site/agc5853f9ffedc6fdebbadc9cbaf37aafd4h",
+          "1005-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-3_otakuvid_dub": "https://otakuvid.online/embed/k6f8aq5zg4ak",
+          "1005-malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-3_playmogo_dub": "https://playmogo.com/e/l147ibczlqjq",
+          "1005-malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-3_vibeplayer_hsub": "https://vibeplayer.site/09eba039b00176ff",
+          "1005-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09eba039b00176ff/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agd9a12078c387da5ab5593ac6bbf21b494h",
+          "1005-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/nap36v5mtckp",
+          "1005-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-3_playmogo_hsub": "https://playmogo.com/e/iz9z0aoqnlxl",
+          "1005-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Heraldic Magic",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-4",
+      "sub": {
+        "HD-1": {
+          "1005-malep-4_vibeplayer_sub": "https://vibeplayer.site/5e9e440dc1414a18",
+          "1005-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5e9e440dc1414a18/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-4_vibeplayer_sub": "https://vibeplayer.site/agf3860aa921d8ffbeaf46f015ee7d60254h",
+          "1005-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-4_otakuvid_sub": "https://otakuvid.online/embed/gr8g0ekvbgc1",
+          "1005-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-4_vibeplayer_dub": "https://vibeplayer.site/8a1d4b65471ff13c",
+          "1005-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a1d4b65471ff13c/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-4_vibeplayer_dub": "https://vibeplayer.site/agd65eb642a203cbe1a9f172c8108562684h",
+          "1005-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-4_otakuvid_dub": "https://otakuvid.online/embed/h71ex7cgqfxd",
+          "1005-malep-4_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-4_playmogo_dub": "https://playmogo.com/e/24hwax2z2l8k",
+          "1005-malep-4_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-4_vibeplayer_hsub": "https://vibeplayer.site/a6d53616ce697c15",
+          "1005-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a6d53616ce697c15/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag3f22d439b204a756d2325067648efdb34h",
+          "1005-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/z388yaf8cymj",
+          "1005-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-4_playmogo_hsub": "https://playmogo.com/e/4pgupehb3e3m",
+          "1005-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kuhazan",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-5",
+      "sub": {
+        "HD-1": {
+          "1005-malep-5_vibeplayer_sub": "https://vibeplayer.site/bd1f046c09f06ba0",
+          "1005-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd1f046c09f06ba0/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag3b1d1d456aa735ef23be13fa677eb6504h",
+          "1005-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-5_otakuvid_sub": "https://otakuvid.online/embed/5ncmvg1jejxe",
+          "1005-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-5_vibeplayer_dub": "https://vibeplayer.site/e9848c6ecf4f1831",
+          "1005-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e9848c6ecf4f1831/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-5_vibeplayer_dub": "https://vibeplayer.site/agc3968c59bcff250d90e87f55d65d7ef04h",
+          "1005-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-5_otakuvid_dub": "https://otakuvid.online/embed/icoz3x0vps7r",
+          "1005-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-5_vibeplayer_hsub": "https://vibeplayer.site/a8cbe2464723d41a",
+          "1005-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8cbe2464723d41a/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag18df24a4cb796d9ea48388173151d5f34h",
+          "1005-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/9rwyh47ema4a",
+          "1005-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-5_playmogo_hsub": "https://playmogo.com/e/dv23vs5yvfad",
+          "1005-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Two-Headed Dragon",
+      "episode_url": "https://hianime.ad/watch/ex-driver/ep-6",
+      "sub": {
+        "HD-1": {
+          "1005-malep-6_vibeplayer_sub": "https://vibeplayer.site/a1d24245276bbbff",
+          "1005-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a1d24245276bbbff/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag850a86d8f55f47908d9bfc0d78e967e74h",
+          "1005-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-6_otakuvid_sub": "https://otakuvid.online/embed/6pilmq0wqyp8",
+          "1005-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1005-malep-6_vibeplayer_dub": "https://vibeplayer.site/d758f046c9595343",
+          "1005-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d758f046c9595343/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-6_vibeplayer_dub": "https://vibeplayer.site/agfd4c7da9d5fe32fd64a9a1ac7ba15a164h",
+          "1005-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-6_otakuvid_dub": "https://otakuvid.online/embed/wpzv1yvaq8yt",
+          "1005-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1005-malep-6_vibeplayer_hsub": "https://vibeplayer.site/6a054873f8b79f98",
+          "1005-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a054873f8b79f98/master.m3u8"
+        },
+        "HD-2": {
+          "1005-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag08d0c296f23a1cde452b6ace09f9bbfe4h",
+          "1005-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1005-malep-6_otakuhg_hsub": "https://otakuhg.site/e/9zipidtce9c1",
+          "1005-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1005-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/cxk9s0ow2voq",
+          "1005-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1005-malep-6_playmogo_hsub": "https://playmogo.com/e/r0qi1vnjfst1",
+          "1005-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
