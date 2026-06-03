@@ -11518,5 +11518,15 @@
     "captured_at": "2026-06-03T02:55:22",
     "file": "data/broken-blade-5.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/broken-blade-5.json"
+  },
+  {
+    "slug": "broken-blade-6",
+    "mal_id": 22433,
+    "anime_name": "Broken Blade 6",
+    "anime_url": "https://hianime.ad/anime/broken-blade-6",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T02:55:34",
+    "file": "data/broken-blade-6.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/broken-blade-6.json"
   }
 ]
