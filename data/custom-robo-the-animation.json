@@ -1,0 +1,48 @@
+{
+  "anime_name": "Custom Robo The Animation",
+  "anime_url": "https://hianime.ad/anime/custom-robo-the-animation",
+  "slug": "custom-robo-the-animation",
+  "mal_id": 36531,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:51:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Depart!! Shinkalion E5 Hayabusa",
+      "episode_url": "https://hianime.ad/watch/custom-robo-the-animation/ep-1",
+      "sub": {
+        "HD-1": {
+          "36531-malep-1_vibeplayer_sub": "https://vibeplayer.site/06ee2a2549101dde",
+          "36531-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/06ee2a2549101dde/master.m3u8"
+        },
+        "HD-2": {
+          "36531-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6fc71962842f2c08169c9aaa62ab81f94h",
+          "36531-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36531-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g28ysk7oe0cr",
+          "36531-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36531-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8eae82ba033dd1cb",
+          "36531-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8eae82ba033dd1cb/master.m3u8"
+        },
+        "HD-2": {
+          "36531-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdeb66fe09a80f3ea0b8e22ccccef75564h",
+          "36531-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36531-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ke5lvwzbf2sc",
+          "36531-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36531-malep-1_playmogo_hsub": "https://playmogo.com/e/fez7gysjwxw7",
+          "36531-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
