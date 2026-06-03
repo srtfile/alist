@@ -5718,5 +5718,15 @@
     "captured_at": "2026-06-03T20:30:57",
     "file": "data/hello-kinmoza.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hello-kinmoza.json"
+  },
+  {
+    "slug": "hellsing",
+    "mal_id": 270,
+    "anime_name": "Hellsing",
+    "anime_url": "https://hianime.ad/anime/hellsing",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T20:31:19",
+    "file": "data/hellsing.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hellsing.json"
   }
 ]
