@@ -10768,5 +10768,15 @@
     "captured_at": "2026-06-03T01:04:02",
     "file": "data/blue-seed-omake.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-seed-omake.json"
+  },
+  {
+    "slug": "blue-sonnet",
+    "mal_id": 2964,
+    "anime_name": "Blue Sonnet",
+    "anime_url": "https://hianime.ad/anime/blue-sonnet",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T01:04:24",
+    "file": "data/blue-sonnet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-sonnet.json"
   }
 ]
