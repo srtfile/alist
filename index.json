@@ -20198,5 +20198,15 @@
     "captured_at": "2026-06-03T09:47:38",
     "file": "data/dragon-crisis.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-crisis.json"
+  },
+  {
+    "slug": "dragon-drive",
+    "mal_id": 296,
+    "anime_name": "Dragon Drive",
+    "anime_url": "https://hianime.ad/anime/dragon-drive",
+    "total_episodes": 38,
+    "captured_at": "2026-06-03T09:47:58",
+    "file": "data/dragon-drive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-drive.json"
   }
 ]
