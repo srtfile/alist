@@ -3668,5 +3668,15 @@
     "captured_at": "2026-06-03T19:19:27",
     "file": "data/gundam-reconguista-in-g-iv-love-that-cries-out-in-battle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-reconguista-in-g-iv-love-that-cries-out-in-battle.json"
+  },
+  {
+    "slug": "gundam-reconguista-in-g-movie",
+    "mal_id": 23259,
+    "anime_name": "Gundam Reconguista In G Movie",
+    "anime_url": "https://hianime.ad/anime/gundam-reconguista-in-g-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:19:39",
+    "file": "data/gundam-reconguista-in-g-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-reconguista-in-g-movie.json"
   }
 ]
