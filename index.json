@@ -24508,5 +24508,15 @@
     "captured_at": "2026-06-03T13:07:49",
     "file": "data/fruits-basket-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fruits-basket-2nd-season.json"
+  },
+  {
+    "slug": "fruits-basket-prelude",
+    "mal_id": 120,
+    "anime_name": "Fruits Basket Prelude",
+    "anime_url": "https://hianime.ad/anime/fruits-basket-prelude",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T13:08:20",
+    "file": "data/fruits-basket-prelude.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fruits-basket-prelude.json"
   }
 ]
