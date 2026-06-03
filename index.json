@@ -11568,5 +11568,15 @@
     "captured_at": "2026-06-03T02:56:59",
     "file": "data/brothers-conflict.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brothers-conflict.json"
+  },
+  {
+    "slug": "brothers-conflict-ova",
+    "mal_id": 15605,
+    "anime_name": "Brothers Conflict Ova",
+    "anime_url": "https://hianime.ad/anime/brothers-conflict-ova",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T02:57:21",
+    "file": "data/brothers-conflict-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brothers-conflict-ova.json"
   }
 ]
