@@ -4568,5 +4568,15 @@
     "captured_at": "2026-06-03T19:49:02",
     "file": "data/hana-doll-reinterpretation-of-flowering.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-doll-reinterpretation-of-flowering.json"
+  },
+  {
+    "slug": "hana-kimi",
+    "mal_id": 58861,
+    "anime_name": "Hana Kimi",
+    "anime_url": "https://hianime.ad/anime/hana-kimi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:49:20",
+    "file": "data/hana-kimi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-kimi.json"
   }
 ]
