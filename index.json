@@ -1148,5 +1148,15 @@
     "captured_at": "2026-06-03T17:42:54",
     "file": "data/gilgamesh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gilgamesh.json"
+  },
+  {
+    "slug": "ginga-densetsu-weed",
+    "mal_id": 915,
+    "anime_name": "Ginga Densetsu Weed",
+    "anime_url": "https://hianime.ad/anime/ginga-densetsu-weed",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T17:43:29",
+    "file": "data/ginga-densetsu-weed.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-densetsu-weed.json"
   }
 ]
