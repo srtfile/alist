@@ -13448,5 +13448,15 @@
     "captured_at": "2026-06-03T05:18:59",
     "file": "data/charge-mens-private-school.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/charge-mens-private-school.json"
+  },
+  {
+    "slug": "chargeman-ken",
+    "mal_id": 6383,
+    "anime_name": "Chargeman Ken",
+    "anime_url": "https://hianime.ad/anime/chargeman-ken",
+    "total_episodes": 65,
+    "captured_at": "2026-06-03T05:19:41",
+    "file": "data/chargeman-ken.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chargeman-ken.json"
   }
 ]
