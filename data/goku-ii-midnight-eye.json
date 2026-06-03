@@ -1,0 +1,45 @@
+{
+  "anime_name": "Goku Ii Midnight Eye",
+  "anime_url": "https://hianime.ad/anime/goku-ii-midnight-eye",
+  "slug": "goku-ii-midnight-eye",
+  "mal_id": 49981,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:33:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Witch: Planet's Fate",
+      "episode_url": "https://hianime.ad/watch/goku-ii-midnight-eye/ep-1",
+      "sub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_sub": "https://vibeplayer.site/11030681915bc730",
+          "49981-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11030681915bc730/master.m3u8"
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mu8slzfal9dp",
+          "49981-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_dub": "https://vibeplayer.site/b65ed97ec3faeb74",
+          "49981-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b65ed97ec3faeb74/master.m3u8"
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_dub": "https://otakuvid.online/embed/njhb3zxe48lx",
+          "49981-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7a2a1d91e837e85c",
+          "49981-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a2a1d91e837e85c/master.m3u8"
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ww70f0n2bn8o",
+          "49981-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
