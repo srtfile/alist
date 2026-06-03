@@ -19568,5 +19568,15 @@
     "captured_at": "2026-06-03T09:14:49",
     "file": "data/dr-dokkiri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-dokkiri.json"
+  },
+  {
+    "slug": "dr-ramune-mysterious-disease-specialist",
+    "mal_id": 42822,
+    "anime_name": "Dr Ramune Mysterious Disease Specialist",
+    "anime_url": "https://hianime.ad/anime/dr-ramune-mysterious-disease-specialist",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:15:22",
+    "file": "data/dr-ramune-mysterious-disease-specialist.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-ramune-mysterious-disease-specialist.json"
   }
 ]
