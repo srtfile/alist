@@ -1,0 +1,77 @@
+{
+  "anime_name": "Dungeons Television",
+  "anime_url": "https://hianime.ad/anime/dungeons-television",
+  "slug": "dungeons-television",
+  "mal_id": 63706,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:04:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/dungeons-television/ep-1",
+      "sub": {
+        "HD-1": {
+          "63706-malep-1_vibeplayer_sub": "https://vibeplayer.site/ab5714c0f1e74cc0",
+          "63706-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab5714c0f1e74cc0/master.m3u8"
+        },
+        "HD-2": {
+          "63706-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1d8ae8cd6060f3019595258717cd7cce4h",
+          "63706-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "63706-malep-1_otakuhg_sub": "https://otakuhg.site/e/b1hac9f8ndnl",
+          "63706-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63706-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mxxz83v0xta7",
+          "63706-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "63706-malep-1_playmogo_sub": "https://playmogo.com/e/wifltj3bwb45",
+          "63706-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "63706-malep-1_vibeplayer_dub": "https://vibeplayer.site/d032477d28e856ed",
+          "63706-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d032477d28e856ed/master.m3u8"
+        },
+        "HD-2": {
+          "63706-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd3fc82bd5eee4b10e09ebeef0bf5eea54h",
+          "63706-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "63706-malep-1_otakuhg_dub": "https://otakuhg.site/e/tvt0uepnzign",
+          "63706-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "63706-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ns9l9xmqc0iv",
+          "63706-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "63706-malep-1_vibeplayer_hsub": "https://vibeplayer.site/66d15e9b30b2a5ab",
+          "63706-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66d15e9b30b2a5ab/master.m3u8"
+        },
+        "HD-2": {
+          "63706-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1e7b1dd6af0b9aab6884d45ec06b92814h",
+          "63706-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "63706-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kr0pcz6yd679",
+          "63706-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63706-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ghe6g8dowi8q",
+          "63706-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63706-malep-1_playmogo_hsub": "https://playmogo.com/e/yozvrdcb3jkv",
+          "63706-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
