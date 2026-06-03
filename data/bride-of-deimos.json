@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bride Of Deimos",
+  "anime_url": "https://hianime.ad/anime/bride-of-deimos",
+  "slug": "bride-of-deimos",
+  "mal_id": 62311,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:52:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/bride-of-deimos/ep-1",
+      "sub": {
+        "HD-1": {
+          "62311-malep-1_vibeplayer_sub": "https://vibeplayer.site/34b5e45f14407155",
+          "62311-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34b5e45f14407155/master.m3u8"
+        },
+        "HD-2": {
+          "62311-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5fa2baf50f99d1e0d823c0cadf8ef2854h",
+          "62311-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "62311-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3p09vek2rrqg",
+          "62311-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62311-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3cb77f247da3027e",
+          "62311-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3cb77f247da3027e/master.m3u8"
+        },
+        "HD-2": {
+          "62311-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3db56edf66eaf41db2e6b28e74744ce84h",
+          "62311-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "62311-malep-1_otakuhg_hsub": "https://otakuhg.site/e/o1wrouwewgdh",
+          "62311-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "62311-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wott96lcij0s",
+          "62311-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62311-malep-1_playmogo_hsub": "https://playmogo.com/e/8apbywltullm",
+          "62311-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
