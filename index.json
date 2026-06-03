@@ -2838,5 +2838,15 @@
     "captured_at": "2026-06-03T18:48:58",
     "file": "data/granblue-fantasy-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/granblue-fantasy-the-animation.json"
+  },
+  {
+    "slug": "granblue-fantasy-the-animation-season-2-extras",
+    "mal_id": 36587,
+    "anime_name": "Granblue Fantasy The Animation Season 2 Extras",
+    "anime_url": "https://hianime.ad/anime/granblue-fantasy-the-animation-season-2-extras",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T18:49:21",
+    "file": "data/granblue-fantasy-the-animation-season-2-extras.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/granblue-fantasy-the-animation-season-2-extras.json"
   }
 ]
