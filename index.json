@@ -19438,5 +19438,15 @@
     "captured_at": "2026-06-03T09:09:20",
     "file": "data/dorohedoro-ma-no-omake.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dorohedoro-ma-no-omake.json"
+  },
+  {
+    "slug": "dororo",
+    "mal_id": 37520,
+    "anime_name": "Dororo",
+    "anime_url": "https://hianime.ad/anime/dororo",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T09:09:31",
+    "file": "data/dororo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dororo.json"
   }
 ]
