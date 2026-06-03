@@ -14238,5 +14238,15 @@
     "captured_at": "2026-06-03T05:57:56",
     "file": "data/circuit-angel-ketsui-no-starting-grid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/circuit-angel-ketsui-no-starting-grid.json"
+  },
+  {
+    "slug": "citrus",
+    "mal_id": 34382,
+    "anime_name": "Citrus",
+    "anime_url": "https://hianime.ad/anime/citrus",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T05:58:09",
+    "file": "data/citrus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/citrus.json"
   }
 ]
