@@ -1,0 +1,52 @@
+{
+  "anime_name": "Doraemon Movie 12 Nobitas Dorabian Nights",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-12-nobitas-dorabian-nights",
+  "slug": "doraemon-movie-12-nobitas-dorabian-nights",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:03:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-12-nobitas-dorabian-nights/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e2caf8bcc81d40f4",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2caf8bcc81d40f4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6efca877e65073e31104ac969590cc144h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/oirmehlb7j3p",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/bd8bea7b17065bbb",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd8bea7b17065bbb/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc8d2b704e2d41e016272aa1d4b00345d4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/8q41n7ysak06",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8r9kow39bjkk",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ewem7aspumo6",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
