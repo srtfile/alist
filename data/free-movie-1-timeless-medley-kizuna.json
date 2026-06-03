@@ -1,0 +1,77 @@
+{
+  "anime_name": "Free Movie 1 Timeless Medley Kizuna",
+  "anime_url": "https://hianime.ad/anime/free-movie-1-timeless-medley-kizuna",
+  "slug": "free-movie-1-timeless-medley-kizuna",
+  "mal_id": 18507,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:58:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reunion at the Starting Block!",
+      "episode_url": "https://hianime.ad/watch/free-movie-1-timeless-medley-kizuna/ep-1",
+      "sub": {
+        "HD-1": {
+          "18507-malep-1_vibeplayer_sub": "https://vibeplayer.site/b84bd2b5da860214",
+          "18507-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b84bd2b5da860214/master.m3u8"
+        },
+        "HD-2": {
+          "18507-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4c611923d25dde7647e357097591d7674h",
+          "18507-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "18507-malep-1_otakuhg_sub": "https://otakuhg.site/e/3zat3sjc7dxl",
+          "18507-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18507-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z7o2hobd829s",
+          "18507-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "18507-malep-1_playmogo_sub": "https://playmogo.com/e/7tzkbltnqqjz",
+          "18507-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "18507-malep-1_vibeplayer_dub": "https://vibeplayer.site/03023ebb3a413b6e",
+          "18507-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/03023ebb3a413b6e/master.m3u8"
+        },
+        "HD-2": {
+          "18507-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag7af31c5b4e5c001494d8530300ca25cb4h",
+          "18507-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "18507-malep-1_otakuhg_dub": "https://otakuhg.site/e/803svjt8jkyj",
+          "18507-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "18507-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0ytz8xcx1zgs",
+          "18507-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "18507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/91add0e6b99eb335",
+          "18507-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91add0e6b99eb335/master.m3u8"
+        },
+        "HD-2": {
+          "18507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag861e686ef5ba1d6b7aa7962b391e9eb34h",
+          "18507-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "18507-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fh55u9bv1vj4",
+          "18507-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18507-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a77a6bdhl3ot",
+          "18507-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18507-malep-1_playmogo_hsub": "https://playmogo.com/e/fx02rxu1a20n",
+          "18507-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
