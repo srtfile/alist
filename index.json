@@ -19928,5 +19928,15 @@
     "captured_at": "2026-06-03T09:35:28",
     "file": "data/dragon-ball-super-super-hero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-super-super-hero.json"
+  },
+  {
+    "slug": "dragon-ball-z",
+    "mal_id": 813,
+    "anime_name": "Dragon Ball Z",
+    "anime_url": "https://hianime.ad/anime/dragon-ball-z",
+    "total_episodes": 291,
+    "captured_at": "2026-06-03T09:35:39",
+    "file": "data/dragon-ball-z.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-ball-z.json"
   }
 ]
