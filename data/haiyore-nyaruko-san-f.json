@@ -1,0 +1,48 @@
+{
+  "anime_name": "Haiyore Nyaruko San F",
+  "anime_url": "https://hianime.ad/anime/haiyore-nyaruko-san-f",
+  "slug": "haiyore-nyaruko-san-f",
+  "mal_id": 11785,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:37:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Like a Close Encounter of the Third Kind",
+      "episode_url": "https://hianime.ad/watch/haiyore-nyaruko-san-f/ep-1",
+      "sub": {
+        "HD-1": {
+          "11785-malep-1_vibeplayer_sub": "https://vibeplayer.site/e42adccd27f1b5ac",
+          "11785-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e42adccd27f1b5ac/master.m3u8"
+        },
+        "Earnvids": {
+          "11785-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ut3ea3j1xwt4",
+          "11785-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "11785-malep-1_playmogo_sub": "https://playmogo.com/e/cj9lk9kvu075",
+          "11785-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11785-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8c16ef6d7ed1386b",
+          "11785-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c16ef6d7ed1386b/master.m3u8"
+        },
+        "StreamHG": {
+          "11785-malep-1_otakuhg_hsub": "https://otakuhg.site/e/coitmbd9uv34",
+          "11785-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11785-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qj9sgbjii351",
+          "11785-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11785-malep-1_playmogo_hsub": "https://playmogo.com/e/5ak5l8e2jj7c",
+          "11785-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
