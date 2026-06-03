@@ -4748,5 +4748,15 @@
     "captured_at": "2026-06-03T19:55:20",
     "file": "data/hand-maid-may-akiramemasen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-maid-may-akiramemasen.json"
+  },
+  {
+    "slug": "hand-shakers",
+    "mal_id": 32981,
+    "anime_name": "Hand Shakers",
+    "anime_url": "https://hianime.ad/anime/hand-shakers",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:55:32",
+    "file": "data/hand-shakers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-shakers.json"
   }
 ]
