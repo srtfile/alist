@@ -21498,5 +21498,15 @@
     "captured_at": "2026-06-03T10:31:12",
     "file": "data/enter-the-garden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/enter-the-garden.json"
+  },
+  {
+    "slug": "eon-kid",
+    "mal_id": 20945,
+    "anime_name": "Eon Kid",
+    "anime_url": "https://hianime.ad/anime/eon-kid",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T10:31:23",
+    "file": "data/eon-kid.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eon-kid.json"
   }
 ]
