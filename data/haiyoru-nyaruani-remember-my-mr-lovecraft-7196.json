@@ -1,0 +1,40 @@
+{
+  "anime_name": "Haiyoru Nyaruani Remember My Mr Lovecraft 7196",
+  "anime_url": "https://hianime.ad/anime/haiyoru-nyaruani-remember-my-mr-lovecraft-7196",
+  "slug": "haiyoru-nyaruani-remember-my-mr-lovecraft-7196",
+  "mal_id": 9598,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:38:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Because I'm Not a Person",
+      "episode_url": "https://hianime.ad/watch/haiyoru-nyaruani-remember-my-mr-lovecraft-7196/ep-1",
+      "sub": {
+        "HD-1": {
+          "9598-malep-1_vibeplayer_sub": "https://vibeplayer.site/acebc6c4a9b2976f",
+          "9598-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/acebc6c4a9b2976f/master.m3u8"
+        },
+        "Earnvids": {
+          "9598-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bn594vplkao5",
+          "9598-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9598-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d01dbdec6932ff63",
+          "9598-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d01dbdec6932ff63/master.m3u8"
+        },
+        "Earnvids": {
+          "9598-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zxrvsxcvr08n",
+          "9598-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9598-malep-1_playmogo_hsub": "https://playmogo.com/e/rnmpiji67bqr",
+          "9598-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
