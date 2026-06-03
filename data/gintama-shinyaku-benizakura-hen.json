@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gintama Shinyaku Benizakura Hen",
+  "anime_url": "https://hianime.ad/anime/gintama-shinyaku-benizakura-hen",
+  "slug": "gintama-shinyaku-benizakura-hen",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:57:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-shinyaku-benizakura-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/46ec40d9cb68c220",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46ec40d9cb68c220/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/1wyqkd9sd0pg",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3qugqfoblbao",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a6c84a3365637bd9",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a6c84a3365637bd9/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y2vdjd1rl826",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iu1i8gs3vvea",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/ts4vn8rpkqxy",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
