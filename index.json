@@ -12858,5 +12858,15 @@
     "captured_at": "2026-06-03T04:34:10",
     "file": "data/carried-by-the-wind-tsukikage-ran.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carried-by-the-wind-tsukikage-ran.json"
+  },
+  {
+    "slug": "case-closed",
+    "mal_id": 235,
+    "anime_name": "Case Closed",
+    "anime_url": "https://hianime.ad/anime/case-closed",
+    "total_episodes": 1202,
+    "captured_at": "2026-06-03T04:34:37",
+    "file": "data/case-closed.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed.json"
   }
 ]
