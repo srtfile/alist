@@ -1,0 +1,65 @@
+{
+  "anime_name": "Digimon Adventure 02 Movie",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-02-movie",
+  "slug": "digimon-adventure-02-movie",
+  "mal_id": 1313,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:26:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Enter Flamedramon",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-02-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "1313-malep-1_vibeplayer_sub": "https://vibeplayer.site/d9f3d163d4d46488",
+          "1313-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9f3d163d4d46488/master.m3u8"
+        },
+        "HD-2": {
+          "1313-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag27ea0b09feafe0dcda8ae24e6c6be5564h",
+          "1313-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1313-malep-1_otakuvid_sub": "https://otakuvid.online/embed/icyzdb83k8zt",
+          "1313-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1313-malep-1_vibeplayer_dub": "https://vibeplayer.site/49ba8e76a906d5ee",
+          "1313-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/49ba8e76a906d5ee/master.m3u8"
+        },
+        "HD-2": {
+          "1313-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag324aed279a5f87cbfbbece3eaa13b5f74h",
+          "1313-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1313-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kgfbmtxi2piz",
+          "1313-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1313-malep-1_vibeplayer_hsub": "https://vibeplayer.site/20f847e57fff67f9",
+          "1313-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/20f847e57fff67f9/master.m3u8"
+        },
+        "HD-2": {
+          "1313-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9df77a26aa8ea282bc3def858be2eeb24h",
+          "1313-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1313-malep-1_otakuhg_hsub": "https://otakuhg.site/e/amq7dnob9kph",
+          "1313-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1313-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mbv43btahej9",
+          "1313-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1313-malep-1_playmogo_hsub": "https://playmogo.com/e/pplrs8fdtafq",
+          "1313-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
