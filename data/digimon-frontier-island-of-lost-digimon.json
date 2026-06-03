@@ -1,0 +1,52 @@
+{
+  "anime_name": "Digimon Frontier Island Of Lost Digimon",
+  "anime_url": "https://hianime.ad/anime/digimon-frontier-island-of-lost-digimon",
+  "slug": "digimon-frontier-island-of-lost-digimon",
+  "mal_id": 1132,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:30:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "All Aboard",
+      "episode_url": "https://hianime.ad/watch/digimon-frontier-island-of-lost-digimon/ep-1",
+      "sub": {
+        "HD-1": {
+          "1132-malep-1_vibeplayer_sub": "https://vibeplayer.site/b10ab6d6a2077f4f",
+          "1132-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b10ab6d6a2077f4f/master.m3u8"
+        },
+        "HD-2": {
+          "1132-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag947ac117666408250c59faf2142996464h",
+          "1132-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1132-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hel16geiwx2o",
+          "1132-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1132-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4cd387ccb4b09ea7",
+          "1132-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4cd387ccb4b09ea7/master.m3u8"
+        },
+        "HD-2": {
+          "1132-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf6c36bbb39b623284a4dbcde29f66aea4h",
+          "1132-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1132-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b69x373m28vi",
+          "1132-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1132-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z8mv6bg0ekbv",
+          "1132-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1132-malep-1_playmogo_hsub": "https://playmogo.com/e/yqg45tqwv4m9",
+          "1132-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
