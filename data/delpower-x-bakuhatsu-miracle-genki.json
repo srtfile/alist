@@ -1,0 +1,56 @@
+{
+  "anime_name": "Delpower X Bakuhatsu Miracle Genki",
+  "anime_url": "https://hianime.ad/anime/delpower-x-bakuhatsu-miracle-genki",
+  "slug": "delpower-x-bakuhatsu-miracle-genki",
+  "mal_id": 3213,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:58:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/delpower-x-bakuhatsu-miracle-genki/ep-1",
+      "sub": {
+        "HD-1": {
+          "3213-malep-1_vibeplayer_sub": "https://vibeplayer.site/6497c6cf800d8690",
+          "3213-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6497c6cf800d8690/master.m3u8"
+        },
+        "HD-2": {
+          "3213-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag76a83771b91cc82ef3b0c7e7dab6d9b64h",
+          "3213-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3213-malep-1_otakuvid_sub": "https://otakuvid.online/embed/m2xdwj9dao5a",
+          "3213-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3213-malep-1_playmogo_sub": "https://playmogo.com/e/jmkaib86ud5g",
+          "3213-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3213-malep-1_vibeplayer_hsub": "https://vibeplayer.site/edc58e6384efafcc",
+          "3213-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/edc58e6384efafcc/master.m3u8"
+        },
+        "HD-2": {
+          "3213-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd982c764ae12611136f2f825eff8a9584h",
+          "3213-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "3213-malep-1_otakuhg_hsub": "https://otakuhg.site/e/g654429ffe6n",
+          "3213-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3213-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0pwvbdqfkica",
+          "3213-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3213-malep-1_playmogo_hsub": "https://playmogo.com/e/agf1tlyg1n5k",
+          "3213-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
