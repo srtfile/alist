@@ -1,0 +1,651 @@
+{
+  "anime_name": "Clockwork Planet",
+  "anime_url": "https://hianime.ad/anime/clockwork-planet",
+  "slug": "clockwork-planet",
+  "mal_id": 32407,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T06:12:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gear of Destiny",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-1",
+      "sub": {
+        "HD-1": {
+          "32407-malep-1_vibeplayer_sub": "https://vibeplayer.site/1cff121752726aed",
+          "32407-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1cff121752726aed/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7a39b0952cd43511b16ee29a3a7785654h",
+          "32407-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ya3gjby4djiy",
+          "32407-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-1_vibeplayer_dub": "https://vibeplayer.site/e2fc1db8432ca341",
+          "32407-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e2fc1db8432ca341/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag27993ad457791942bcbda0822d6d51084h",
+          "32407-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-1_otakuhg_dub": "https://otakuhg.site/e/bxv70oemjtu3",
+          "32407-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6pqakt2aaqaa",
+          "32407-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1321b51e79b846d9",
+          "32407-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1321b51e79b846d9/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag03d731a94acf11d3e7c700bc7ab429724h",
+          "32407-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vx87pt4l75sa",
+          "32407-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qah55f3ws12l",
+          "32407-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-1_playmogo_hsub": "https://playmogo.com/e/ymiumm7g5i27",
+          "32407-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Purge",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-2",
+      "sub": {
+        "HD-1": {
+          "32407-malep-2_vibeplayer_sub": "https://vibeplayer.site/ca2a33fa196352c2",
+          "32407-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca2a33fa196352c2/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-2_vibeplayer_sub": "https://vibeplayer.site/agbceb3d9012634d3a46437a62525cf86c4h",
+          "32407-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-2_otakuvid_sub": "https://otakuvid.online/embed/f41emlwrpxdn",
+          "32407-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-2_vibeplayer_dub": "https://vibeplayer.site/caa4d5b7fb65de5d",
+          "32407-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/caa4d5b7fb65de5d/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag651406940edc693cc9bc597efda0f29d4h",
+          "32407-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-2_otakuhg_dub": "https://otakuhg.site/e/svhjubq9vp6u",
+          "32407-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-2_otakuvid_dub": "https://otakuvid.online/embed/2u8g0x9pivu0",
+          "32407-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-2_vibeplayer_hsub": "https://vibeplayer.site/4be5102b463e7972",
+          "32407-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4be5102b463e7972/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agd255dc3f58eb34cc86d3d313257b7c7b4h",
+          "32407-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/2yevc2294haj",
+          "32407-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-2_playmogo_hsub": "https://playmogo.com/e/3hquacywlx8t",
+          "32407-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Conflict",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-3",
+      "sub": {
+        "HD-1": {
+          "32407-malep-3_vibeplayer_sub": "https://vibeplayer.site/634903185679b8e0",
+          "32407-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/634903185679b8e0/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag52e1a96f3fa504c8d3380363faa349154h",
+          "32407-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-3_otakuvid_sub": "https://otakuvid.online/embed/yx98x2a5bnrl",
+          "32407-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-3_vibeplayer_dub": "https://vibeplayer.site/75d9e6b8506403f7",
+          "32407-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/75d9e6b8506403f7/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag0e4528f7d7bd529d2f9b1283f08c3c784h",
+          "32407-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-3_otakuvid_dub": "https://otakuvid.online/embed/zs42nlq8dqrj",
+          "32407-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-3_vibeplayer_hsub": "https://vibeplayer.site/1b9c66a3ef3d2e49",
+          "32407-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1b9c66a3ef3d2e49/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agb200705cdc7df9f1160235690f989a1c4h",
+          "32407-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/kscm1k63gte8",
+          "32407-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-3_playmogo_hsub": "https://playmogo.com/e/1ppn853yumol",
+          "32407-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Imaginary Gear",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-4",
+      "sub": {
+        "HD-1": {
+          "32407-malep-4_vibeplayer_sub": "https://vibeplayer.site/8512281a82bbec5c",
+          "32407-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8512281a82bbec5c/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag56955b66247f280c7277a4a5cbdf84254h",
+          "32407-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-4_otakuvid_sub": "https://otakuvid.online/embed/xdratpnkcz9o",
+          "32407-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-4_vibeplayer_dub": "https://vibeplayer.site/44295ba2ad55ca76",
+          "32407-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44295ba2ad55ca76/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag621ef53ff0402af6e5ee2eabb1b75f314h",
+          "32407-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-4_otakuvid_dub": "https://otakuvid.online/embed/qyqo33mkhgz1",
+          "32407-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-4_vibeplayer_hsub": "https://vibeplayer.site/71ce4520e45da7f7",
+          "32407-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71ce4520e45da7f7/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag119ccf49f75655389d0fabf8a45245db4h",
+          "32407-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-4_otakuhg_hsub": "https://otakuhg.site/e/bvvhw6ybpuj8",
+          "32407-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/3ivq8h0obgc2",
+          "32407-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-4_playmogo_hsub": "https://playmogo.com/e/vv6woe4qkfh2",
+          "32407-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Trishula",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-5",
+      "sub": {
+        "HD-1": {
+          "32407-malep-5_vibeplayer_sub": "https://vibeplayer.site/45ccef89d85db624",
+          "32407-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45ccef89d85db624/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag0e9b90d0befb357849cd80d705e5ca7d4h",
+          "32407-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-5_otakuvid_sub": "https://otakuvid.online/embed/huqractphai3",
+          "32407-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-5_vibeplayer_dub": "https://vibeplayer.site/e7609ded5e329d04",
+          "32407-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e7609ded5e329d04/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag98a0d34cdcd7b35dc7284e84175122014h",
+          "32407-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-5_otakuhg_dub": "https://otakuhg.site/e/cz6qmcn55muo",
+          "32407-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-5_otakuvid_dub": "https://otakuvid.online/embed/bz13sy6ettzm",
+          "32407-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-5_vibeplayer_hsub": "https://vibeplayer.site/c935b056d8d9a9a4",
+          "32407-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c935b056d8d9a9a4/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-5_vibeplayer_hsub": "https://vibeplayer.site/agd5e6a70e6a32e1d265b7bcac3352c6604h",
+          "32407-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/vg2uh7w4vp3q",
+          "32407-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-5_playmogo_hsub": "https://playmogo.com/e/48qh9gzvl5q0",
+          "32407-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Deep Underground",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-6",
+      "sub": {
+        "HD-1": {
+          "32407-malep-6_vibeplayer_sub": "https://vibeplayer.site/e3cb18fe5a532001",
+          "32407-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e3cb18fe5a532001/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag6d0bdfd3ec3ba5d17cfe0501f5094cc54h",
+          "32407-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-6_otakuvid_sub": "https://otakuvid.online/embed/q95wq6ibu4f8",
+          "32407-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-6_vibeplayer_dub": "https://vibeplayer.site/f9c2e456a2ff05d2",
+          "32407-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f9c2e456a2ff05d2/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag986a4ea15a96e7e7f952fdfd026e8b674h",
+          "32407-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-6_otakuhg_dub": "https://otakuhg.site/e/j522mxqfomsz",
+          "32407-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-6_otakuvid_dub": "https://otakuvid.online/embed/7m2a3pd9kwwv",
+          "32407-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-6_vibeplayer_hsub": "https://vibeplayer.site/0ead5df6599e95b4",
+          "32407-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0ead5df6599e95b4/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-6_vibeplayer_hsub": "https://vibeplayer.site/aga04d6545e48c357c0466950a48c2cc384h",
+          "32407-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/uqfb0qimwaci",
+          "32407-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-6_playmogo_hsub": "https://playmogo.com/e/etjrhqi3oyae",
+          "32407-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Attack the Multiple Grid",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-7",
+      "sub": {
+        "HD-1": {
+          "32407-malep-7_vibeplayer_sub": "https://vibeplayer.site/48875818b7fe8e9d",
+          "32407-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48875818b7fe8e9d/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag51b04f3504bc5c6c8bbdcab3246b6c314h",
+          "32407-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-7_otakuvid_sub": "https://otakuvid.online/embed/h3y59oazg940",
+          "32407-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-7_vibeplayer_dub": "https://vibeplayer.site/c86a1236185c454f",
+          "32407-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c86a1236185c454f/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag001b4e66e9973ee44aad6875c54bc9074h",
+          "32407-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-7_otakuhg_dub": "https://otakuhg.site/e/hbmpewgjvitw",
+          "32407-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-7_otakuvid_dub": "https://otakuvid.online/embed/q0a40txfk71b",
+          "32407-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-7_vibeplayer_hsub": "https://vibeplayer.site/885c6139cabf5508",
+          "32407-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/885c6139cabf5508/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag2a6176415df13fef1e3dc71a9bc2845b4h",
+          "32407-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-7_otakuhg_hsub": "https://otakuhg.site/e/laxvc3wr108h",
+          "32407-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ke2jp19zthqt",
+          "32407-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-7_playmogo_hsub": "https://playmogo.com/e/5wkcgf1mpsin",
+          "32407-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Yatsukahagi",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-8",
+      "sub": {
+        "HD-1": {
+          "32407-malep-8_vibeplayer_sub": "https://vibeplayer.site/5ba9b3132eb48b35",
+          "32407-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5ba9b3132eb48b35/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-8_vibeplayer_sub": "https://vibeplayer.site/agd08b9e5eae133196f487799ab1e851a44h",
+          "32407-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-8_otakuvid_sub": "https://otakuvid.online/embed/xk2lcp86eilq",
+          "32407-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-8_vibeplayer_dub": "https://vibeplayer.site/43a8b71867141e98",
+          "32407-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/43a8b71867141e98/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag8c58534255fa2814b9ff8389530c12984h",
+          "32407-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-8_otakuhg_dub": "https://otakuhg.site/e/3vgik9mp2jg3",
+          "32407-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-8_otakuvid_dub": "https://otakuvid.online/embed/erk04q26fe5e",
+          "32407-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-8_vibeplayer_hsub": "https://vibeplayer.site/bf3b4b005332db40",
+          "32407-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf3b4b005332db40/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag09ef29f7f37d0f83d35a29ec8f3c743a4h",
+          "32407-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/s8yhqf2qvblw",
+          "32407-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-8_playmogo_hsub": "https://playmogo.com/e/7jox4rnqdp5g",
+          "32407-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Criminal Act",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-9",
+      "sub": {
+        "HD-1": {
+          "32407-malep-9_vibeplayer_sub": "https://vibeplayer.site/5e04f2d073fb4526",
+          "32407-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5e04f2d073fb4526/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag9f8e3e651d72577f9a12187f4c21e2a14h",
+          "32407-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-9_otakuvid_sub": "https://otakuvid.online/embed/zr6dpoo5eopt",
+          "32407-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-9_vibeplayer_dub": "https://vibeplayer.site/3fae62f0ff4e2188",
+          "32407-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3fae62f0ff4e2188/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-9_vibeplayer_dub": "https://vibeplayer.site/agdb356dad092d147578ba1cd94f498cca4h",
+          "32407-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32407-malep-9_otakuhg_dub": "https://otakuhg.site/e/8h8761jafbtm",
+          "32407-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-9_otakuvid_dub": "https://otakuvid.online/embed/hzttn1dutxje",
+          "32407-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-9_vibeplayer_hsub": "https://vibeplayer.site/cac2936c34491194",
+          "32407-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cac2936c34491194/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-9_vibeplayer_hsub": "https://vibeplayer.site/age05d547f7a75c43b9fa65de68df61ea54h",
+          "32407-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/u7oggtpts259",
+          "32407-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-9_playmogo_hsub": "https://playmogo.com/e/wzlh1yxmqga6",
+          "32407-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Progressor",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-10",
+      "sub": {
+        "HD-1": {
+          "32407-malep-10_vibeplayer_sub": "https://vibeplayer.site/6d897d7dada406bb",
+          "32407-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d897d7dada406bb/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag3f28401421c5705ab03e2feaec2fb17d4h",
+          "32407-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-10_otakuvid_sub": "https://otakuvid.online/embed/8s6h8v25jd5e",
+          "32407-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-10_vibeplayer_dub": "https://vibeplayer.site/535dfac5557cb4c0",
+          "32407-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/535dfac5557cb4c0/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-10_vibeplayer_dub": "https://vibeplayer.site/agae9d034e741f15a13a4942c274997f854h",
+          "32407-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-10_otakuvid_dub": "https://otakuvid.online/embed/arc6cna8m4ow",
+          "32407-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-10_vibeplayer_hsub": "https://vibeplayer.site/e7ffb62a6e0f0e70",
+          "32407-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e7ffb62a6e0f0e70/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag4525eb89c40a16b78518fdcfee2ee5244h",
+          "32407-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/v2q2pqioj9no",
+          "32407-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-10_playmogo_hsub": "https://playmogo.com/e/9bfywbazsmex",
+          "32407-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Theory of Y",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-11",
+      "sub": {
+        "HD-1": {
+          "32407-malep-11_vibeplayer_sub": "https://vibeplayer.site/5877aeccb86f5685",
+          "32407-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5877aeccb86f5685/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag9e4a408f26d0ada3ca556f012a4e9fbf4h",
+          "32407-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-11_otakuvid_sub": "https://otakuvid.online/embed/baz7lq4v9ytn",
+          "32407-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-11_vibeplayer_dub": "https://vibeplayer.site/5f879c91b8c963af",
+          "32407-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5f879c91b8c963af/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag5e6ae8acfc6db810ac841d598788a7564h",
+          "32407-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-11_otakuvid_dub": "https://otakuvid.online/embed/n28zk6zbgv2b",
+          "32407-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-11_vibeplayer_hsub": "https://vibeplayer.site/2f3d4d8f8f1f380b",
+          "32407-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f3d4d8f8f1f380b/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag74d176743693d22ff2ac9b09d042521c4h",
+          "32407-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/pllgfsyntp8g",
+          "32407-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-11_playmogo_hsub": "https://playmogo.com/e/agc8kuu3jut2",
+          "32407-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Steel Weight",
+      "episode_url": "https://hianime.ad/watch/clockwork-planet/ep-12",
+      "sub": {
+        "HD-1": {
+          "32407-malep-12_vibeplayer_sub": "https://vibeplayer.site/b2a022b144a1d28e",
+          "32407-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2a022b144a1d28e/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag0c68062c32cb36e49996e8065d4851704h",
+          "32407-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-12_otakuvid_sub": "https://otakuvid.online/embed/dof66i72dymq",
+          "32407-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32407-malep-12_vibeplayer_dub": "https://vibeplayer.site/cd57f1dcdbcf96be",
+          "32407-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cd57f1dcdbcf96be/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-12_vibeplayer_dub": "https://vibeplayer.site/aga0cbf3f236d30851b76a50e9e180d1104h",
+          "32407-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-12_otakuvid_dub": "https://otakuvid.online/embed/y6ien7d13cjt",
+          "32407-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32407-malep-12_vibeplayer_hsub": "https://vibeplayer.site/b39f50a1d52249ad",
+          "32407-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b39f50a1d52249ad/master.m3u8"
+        },
+        "HD-2": {
+          "32407-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag28e70386a16c61f4d3b76c501e68b9a34h",
+          "32407-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32407-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/j4mn2lyl1yrs",
+          "32407-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32407-malep-12_playmogo_hsub": "https://playmogo.com/e/w7tp84lr38kl",
+          "32407-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
