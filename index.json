@@ -18648,5 +18648,15 @@
     "captured_at": "2026-06-03T08:45:02",
     "file": "data/divergence-eve.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/divergence-eve.json"
+  },
+  {
+    "slug": "divine-gate",
+    "mal_id": 31710,
+    "anime_name": "Divine Gate",
+    "anime_url": "https://hianime.ad/anime/divine-gate",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:45:23",
+    "file": "data/divine-gate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/divine-gate.json"
   }
 ]
