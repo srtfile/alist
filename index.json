@@ -15798,5 +15798,15 @@
     "captured_at": "2026-06-03T06:49:21",
     "file": "data/crossing-time.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crossing-time.json"
+  },
+  {
+    "slug": "crows",
+    "mal_id": 21039,
+    "anime_name": "Crows",
+    "anime_url": "https://hianime.ad/anime/crows",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T06:49:43",
+    "file": "data/crows.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crows.json"
   }
 ]
