@@ -1,0 +1,69 @@
+{
+  "anime_name": "Cells At Work Special",
+  "anime_url": "https://hianime.ad/anime/cells-at-work-special",
+  "slug": "cells-at-work-special",
+  "mal_id": 37141,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:09:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pneumococcus",
+      "episode_url": "https://hianime.ad/watch/cells-at-work-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "37141-malep-1_vibeplayer_sub": "https://vibeplayer.site/8bc67c1a4847d9ef",
+          "37141-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8bc67c1a4847d9ef/master.m3u8"
+        },
+        "HD-2": {
+          "37141-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6464353cd7fe4bfd82e7c5bd8dd5f79b4h",
+          "37141-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37141-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ukvcd8rn384z",
+          "37141-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37141-malep-1_vibeplayer_dub": "https://vibeplayer.site/29f78d65dd58cec6",
+          "37141-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/29f78d65dd58cec6/master.m3u8"
+        },
+        "HD-2": {
+          "37141-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag61bcfa189bdd3022f7365e6e342615394h",
+          "37141-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37141-malep-1_otakuhg_dub": "https://otakuhg.site/e/qzj3w84cbgy0",
+          "37141-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37141-malep-1_otakuvid_dub": "https://otakuvid.online/embed/myzzqhvgszan",
+          "37141-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37141-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9755353b4fba00e6",
+          "37141-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9755353b4fba00e6/master.m3u8"
+        },
+        "HD-2": {
+          "37141-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag511dfa16477af4d6c33cc76f99ebeabb4h",
+          "37141-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37141-malep-1_otakuhg_hsub": "https://otakuhg.site/e/an511hc4rs88",
+          "37141-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37141-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rlxu7di8x4uf",
+          "37141-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37141-malep-1_playmogo_hsub": "https://playmogo.com/e/1vd11nbscxvu",
+          "37141-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
