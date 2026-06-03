@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 08 Arashi Wo Yobu Jungle",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-08-arashi-wo-yobu-jungle",
+  "slug": "crayon-shin-chan-movie-08-arashi-wo-yobu-jungle",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:40:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-08-arashi-wo-yobu-jungle/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/149532dfdc7f0c40",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/149532dfdc7f0c40/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag65dc15b50d0801ebe2f8299592fba7674h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/9g9rq84ar49w",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/y4145w1yg7oo",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/8dfa0776c4ef66b8",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8dfa0776c4ef66b8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag60c434c637c921dbc591196601769d9b4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1ns1p4sh6x5j",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6yqwv2w4szso",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/fa24j5t8yzrw",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
