@@ -11228,5 +11228,15 @@
     "captured_at": "2026-06-03T02:45:52",
     "file": "data/boruto-naruto-the-movie-the-day-naruto-became-the-hokage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boruto-naruto-the-movie-the-day-naruto-became-the-hokage.json"
+  },
+  {
+    "slug": "bosanimal",
+    "mal_id": 54630,
+    "anime_name": "Bosanimal",
+    "anime_url": "https://hianime.ad/anime/bosanimal",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T02:46:04",
+    "file": "data/bosanimal.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bosanimal.json"
   }
 ]
