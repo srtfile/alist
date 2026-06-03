@@ -25068,5 +25068,15 @@
     "captured_at": "2026-06-03T13:30:39",
     "file": "data/g-on-riders-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/g-on-riders-special.json"
+  },
+  {
+    "slug": "ga-rei-zero",
+    "mal_id": 4725,
+    "anime_name": "Ga Rei Zero",
+    "anime_url": "https://hianime.ad/anime/ga-rei-zero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:30:51",
+    "file": "data/ga-rei-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ga-rei-zero.json"
   }
 ]
