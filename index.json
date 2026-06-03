@@ -23128,5 +23128,15 @@
     "captured_at": "2026-06-03T12:14:15",
     "file": "data/fight-kickers-bokutachi-no-densetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-kickers-bokutachi-no-densetsu.json"
+  },
+  {
+    "slug": "fight-kickers-specials",
+    "mal_id": 3053,
+    "anime_name": "Fight Kickers Specials",
+    "anime_url": "https://hianime.ad/anime/fight-kickers-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:14:27",
+    "file": "data/fight-kickers-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fight-kickers-specials.json"
   }
 ]
