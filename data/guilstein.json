@@ -1,0 +1,44 @@
+{
+  "anime_name": "Guilstein",
+  "anime_url": "https://hianime.ad/anime/guilstein",
+  "slug": "guilstein",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:09:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/guilstein/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/73003fa1f9d04071",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73003fa1f9d04071/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/pl8ku916qyy6",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/nw1muvfytera",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/98037a293c8a43cf",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/98037a293c8a43cf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o4gavz8znbn2",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/l6br0zcexnt9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
