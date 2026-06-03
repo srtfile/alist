@@ -4328,5 +4328,15 @@
     "captured_at": "2026-06-03T19:40:58",
     "file": "data/hakone-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakone-chan.json"
+  },
+  {
+    "slug": "hakugei-legend-of-the-moby-dick",
+    "mal_id": 1466,
+    "anime_name": "Hakugei Legend Of The Moby Dick",
+    "anime_url": "https://hianime.ad/anime/hakugei-legend-of-the-moby-dick",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T19:41:22",
+    "file": "data/hakugei-legend-of-the-moby-dick.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakugei-legend-of-the-moby-dick.json"
   }
 ]
