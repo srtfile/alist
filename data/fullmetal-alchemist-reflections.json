@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fullmetal Alchemist Reflections",
+  "anime_url": "https://hianime.ad/anime/fullmetal-alchemist-reflections",
+  "slug": "fullmetal-alchemist-reflections",
+  "mal_id": 121,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:16:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To Challenge the Sun",
+      "episode_url": "https://hianime.ad/watch/fullmetal-alchemist-reflections/ep-1",
+      "sub": {
+        "HD-1": {
+          "121-malep-1_vibeplayer_sub": "https://vibeplayer.site/0268311061749009",
+          "121-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0268311061749009/master.m3u8"
+        },
+        "HD-2": {
+          "121-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5d4424bfd1c10335cfba06e491ae09d74h",
+          "121-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "121-malep-1_otakuhg_sub": "https://otakuhg.site/e/tp2ed36zx2uc",
+          "121-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "121-malep-1_otakuvid_sub": "https://otakuvid.online/embed/np82yf7jf4u9",
+          "121-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "121-malep-1_vibeplayer_hsub": "https://vibeplayer.site/54b685db21c2463d",
+          "121-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54b685db21c2463d/master.m3u8"
+        },
+        "HD-2": {
+          "121-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7de7fc9a7119f2838104491372121b294h",
+          "121-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "121-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1ynncwd9m3sh",
+          "121-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "121-malep-1_playmogo_hsub": "https://playmogo.com/e/ay7f7aqxro3a",
+          "121-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
