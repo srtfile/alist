@@ -22028,5 +22028,15 @@
     "captured_at": "2026-06-03T10:48:17",
     "file": "data/extreme-hearts.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/extreme-hearts.json"
+  },
+  {
+    "slug": "eyeshield-21",
+    "mal_id": 15,
+    "anime_name": "Eyeshield 21",
+    "anime_url": "https://hianime.ad/anime/eyeshield-21",
+    "total_episodes": 145,
+    "captured_at": "2026-06-03T10:48:37",
+    "file": "data/eyeshield-21.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eyeshield-21.json"
   }
 ]
