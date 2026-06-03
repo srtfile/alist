@@ -11828,5 +11828,15 @@
     "captured_at": "2026-06-03T03:05:06",
     "file": "data/bungo-stray-dogs-4.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-stray-dogs-4.json"
+  },
+  {
+    "slug": "bungo-stray-dogs-5",
+    "mal_id": 54898,
+    "anime_name": "Bungo Stray Dogs 5",
+    "anime_url": "https://hianime.ad/anime/bungo-stray-dogs-5",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T03:05:29",
+    "file": "data/bungo-stray-dogs-5.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bungo-stray-dogs-5.json"
   }
 ]
