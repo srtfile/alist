@@ -22948,5 +22948,15 @@
     "captured_at": "2026-06-03T12:00:46",
     "file": "data/fatestrange-fake-whispers-of-dawn.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatestrange-fake-whispers-of-dawn.json"
+  },
+  {
+    "slug": "fatezero",
+    "mal_id": 10087,
+    "anime_name": "Fatezero",
+    "anime_url": "https://hianime.ad/anime/fatezero",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:00:59",
+    "file": "data/fatezero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatezero.json"
   }
 ]
