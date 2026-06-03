@@ -18158,5 +18158,15 @@
     "captured_at": "2026-06-03T08:26:05",
     "file": "data/digimon-adventure-02.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-02.json"
+  },
+  {
+    "slug": "digimon-adventure-02-movie",
+    "mal_id": 1313,
+    "anime_name": "Digimon Adventure 02 Movie",
+    "anime_url": "https://hianime.ad/anime/digimon-adventure-02-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:26:56",
+    "file": "data/digimon-adventure-02-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-02-movie.json"
   }
 ]
