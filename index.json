@@ -1938,5 +1938,15 @@
     "captured_at": "2026-06-03T18:12:51",
     "file": "data/glass-no-kamen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-no-kamen.json"
+  },
+  {
+    "slug": "glasslip",
+    "mal_id": 23079,
+    "anime_name": "Glasslip",
+    "anime_url": "https://hianime.ad/anime/glasslip",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:13:23",
+    "file": "data/glasslip.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glasslip.json"
   }
 ]
