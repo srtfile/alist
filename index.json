@@ -16248,5 +16248,15 @@
     "captured_at": "2026-06-03T07:31:32",
     "file": "data/daemons-of-the-shadow-realm.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/daemons-of-the-shadow-realm.json"
+  },
+  {
+    "slug": "dagashi-kashi",
+    "mal_id": 31636,
+    "anime_name": "Dagashi Kashi",
+    "anime_url": "https://hianime.ad/anime/dagashi-kashi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:31:49",
+    "file": "data/dagashi-kashi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dagashi-kashi.json"
   }
 ]
