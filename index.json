@@ -23688,5 +23688,15 @@
     "captured_at": "2026-06-03T12:39:59",
     "file": "data/flcl-grunge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-grunge.json"
+  },
+  {
+    "slug": "flcl-shoegaze",
+    "mal_id": 51305,
+    "anime_name": "Flcl Shoegaze",
+    "anime_url": "https://hianime.ad/anime/flcl-shoegaze",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:40:11",
+    "file": "data/flcl-shoegaze.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl-shoegaze.json"
   }
 ]
