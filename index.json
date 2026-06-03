@@ -13158,5 +13158,15 @@
     "captured_at": "2026-06-03T05:08:49",
     "file": "data/celestial-bonds.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/celestial-bonds.json"
+  },
+  {
+    "slug": "celestial-method",
+    "mal_id": 23209,
+    "anime_name": "Celestial Method",
+    "anime_url": "https://hianime.ad/anime/celestial-method",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T05:09:17",
+    "file": "data/celestial-method.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/celestial-method.json"
   }
 ]
