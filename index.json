@@ -21608,5 +21608,15 @@
     "captured_at": "2026-06-03T10:35:05",
     "file": "data/escha-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/escha-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi.json"
+  },
+  {
+    "slug": "escha-chron",
+    "mal_id": 21167,
+    "anime_name": "Escha Chron",
+    "anime_url": "https://hianime.ad/anime/escha-chron",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T10:35:24",
+    "file": "data/escha-chron.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/escha-chron.json"
   }
 ]
