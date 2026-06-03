@@ -6368,5 +6368,15 @@
     "captured_at": "2026-06-03T20:55:33",
     "file": "data/high-school-dxd-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-ova.json"
+  },
+  {
+    "slug": "high-school-dxd-specials",
+    "mal_id": 11617,
+    "anime_name": "High School Dxd Specials",
+    "anime_url": "https://hianime.ad/anime/high-school-dxd-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T20:55:46",
+    "file": "data/high-school-dxd-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-specials.json"
   }
 ]
