@@ -18458,5 +18458,15 @@
     "captured_at": "2026-06-03T08:38:02",
     "file": "data/dimension-movement-of-nazca.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dimension-movement-of-nazca.json"
+  },
+  {
+    "slug": "dimension-w",
+    "mal_id": 31163,
+    "anime_name": "Dimension W",
+    "anime_url": "https://hianime.ad/anime/dimension-w",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:38:22",
+    "file": "data/dimension-w.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dimension-w.json"
   }
 ]
