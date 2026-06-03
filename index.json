@@ -3838,5 +3838,15 @@
     "captured_at": "2026-06-03T19:25:03",
     "file": "data/gurazeni-money-pitch.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gurazeni-money-pitch.json"
+  },
+  {
+    "slug": "gurren-lagann",
+    "mal_id": 2001,
+    "anime_name": "Gurren Lagann",
+    "anime_url": "https://hianime.ad/anime/gurren-lagann",
+    "total_episodes": 27,
+    "captured_at": "2026-06-03T19:25:26",
+    "file": "data/gurren-lagann.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gurren-lagann.json"
   }
 ]
