@@ -23338,5 +23338,15 @@
     "captured_at": "2026-06-03T12:23:47",
     "file": "data/fire-emblem-heroes-booke-iii-moviecohort-of-the-dead.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-emblem-heroes-booke-iii-moviecohort-of-the-dead.json"
+  },
+  {
+    "slug": "fire-emblem-heroes-chibi-playhouse",
+    "mal_id": 4667,
+    "anime_name": "Fire Emblem Heroes Chibi Playhouse",
+    "anime_url": "https://hianime.ad/anime/fire-emblem-heroes-chibi-playhouse",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:24:00",
+    "file": "data/fire-emblem-heroes-chibi-playhouse.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-emblem-heroes-chibi-playhouse.json"
   }
 ]
