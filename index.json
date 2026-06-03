@@ -5028,5 +5028,15 @@
     "captured_at": "2026-06-03T20:05:10",
     "file": "data/harmonie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/harmonie.json"
+  },
+  {
+    "slug": "harmony",
+    "mal_id": 55689,
+    "anime_name": "Harmony",
+    "anime_url": "https://hianime.ad/anime/harmony",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T20:05:22",
+    "file": "data/harmony.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/harmony.json"
   }
 ]
