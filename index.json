@@ -18608,5 +18608,15 @@
     "captured_at": "2026-06-03T08:43:54",
     "file": "data/dirty-pair-project-eden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dirty-pair-project-eden.json"
+  },
+  {
+    "slug": "disgaea",
+    "mal_id": 860,
+    "anime_name": "Disgaea",
+    "anime_url": "https://hianime.ad/anime/disgaea",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:44:05",
+    "file": "data/disgaea.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/disgaea.json"
   }
 ]
