@@ -21188,5 +21188,15 @@
     "captured_at": "2026-06-03T10:20:27",
     "file": "data/elementalors.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elementalors.json"
+  },
+  {
+    "slug": "elf-academy",
+    "mal_id": 53434,
+    "anime_name": "Elf Academy",
+    "anime_url": "https://hianime.ad/anime/elf-academy",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T10:20:37",
+    "file": "data/elf-academy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elf-academy.json"
   }
 ]
