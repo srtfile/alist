@@ -5498,5 +5498,15 @@
     "captured_at": "2026-06-03T20:22:29",
     "file": "data/heavenly-delusion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavenly-delusion.json"
+  },
+  {
+    "slug": "heavy-object",
+    "mal_id": 27829,
+    "anime_name": "Heavy Object",
+    "anime_url": "https://hianime.ad/anime/heavy-object",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T20:22:53",
+    "file": "data/heavy-object.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavy-object.json"
   }
 ]
