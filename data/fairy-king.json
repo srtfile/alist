@@ -1,0 +1,60 @@
+{
+  "anime_name": "Fairy King",
+  "anime_url": "https://hianime.ad/anime/fairy-king",
+  "slug": "fairy-king",
+  "mal_id": 38122,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:57:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/fairy-king/ep-1",
+      "sub": {
+        "HD-1": {
+          "38122-malep-1_vibeplayer_sub": "https://vibeplayer.site/8cc2e97f096f9267",
+          "38122-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8cc2e97f096f9267/master.m3u8"
+        },
+        "HD-2": {
+          "38122-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag571f4e5cd87a2f10bdb3a9d472c6d2354h",
+          "38122-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "38122-malep-1_otakuhg_sub": "https://otakuhg.site/e/xnyqv5jq6rzf",
+          "38122-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38122-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qexw0zh66ets",
+          "38122-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38122-malep-1_playmogo_sub": "https://playmogo.com/e/gdhwc1amw1b7",
+          "38122-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7d279951fb456745",
+          "38122-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7d279951fb456745/master.m3u8"
+        },
+        "HD-2": {
+          "38122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb7d60ae34cc042166c4061595e1811054h",
+          "38122-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38122-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7souwl5betr9",
+          "38122-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38122-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7b3yn5e081o2",
+          "38122-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38122-malep-1_playmogo_hsub": "https://playmogo.com/e/idxbnh3z4nm4",
+          "38122-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
