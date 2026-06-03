@@ -11328,5 +11328,15 @@
     "captured_at": "2026-06-03T02:49:15",
     "file": "data/boys-be.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boys-be.json"
+  },
+  {
+    "slug": "brain-powerd",
+    "mal_id": 1542,
+    "anime_name": "Brain Powerd",
+    "anime_url": "https://hianime.ad/anime/brain-powerd",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T02:49:38",
+    "file": "data/brain-powerd.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/brain-powerd.json"
   }
 ]
