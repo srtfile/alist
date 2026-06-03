@@ -1,0 +1,60 @@
+{
+  "anime_name": "Dragon Raja 18323",
+  "anime_url": "https://hianime.ad/anime/dragon-raja-18323",
+  "slug": "dragon-raja-18323",
+  "mal_id": 1956,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:53:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Signs of the Dragon Spirit",
+      "episode_url": "https://hianime.ad/watch/dragon-raja-18323/ep-1",
+      "sub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/047f315ef1dd8c32",
+          "1956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/047f315ef1dd8c32/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga80dc4ff1d43696bc68a3fb59ebad4264h",
+          "1956-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1956-malep-1_otakuhg_sub": "https://otakuhg.site/e/ddrgcs9ma40j",
+          "1956-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vn5a5sbqu8r6",
+          "1956-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_sub": "https://playmogo.com/e/mxwiso7nwsay",
+          "1956-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c6dfc766b674ec83",
+          "1956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c6dfc766b674ec83/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2a66d2b12ddc5f6344497280d2ff1a9e4h",
+          "1956-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1956-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ekyjx8ylwytg",
+          "1956-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/24zzcjq73swk",
+          "1956-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_hsub": "https://playmogo.com/e/ihv6fv7fr8za",
+          "1956-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
