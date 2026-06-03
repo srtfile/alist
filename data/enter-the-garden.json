@@ -1,0 +1,69 @@
+{
+  "anime_name": "Enter The Garden",
+  "anime_url": "https://hianime.ad/anime/enter-the-garden",
+  "slug": "enter-the-garden",
+  "mal_id": 41899,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T10:31:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Powerful Skill Set",
+      "episode_url": "https://hianime.ad/watch/enter-the-garden/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "41899-malep-1_vibeplayer_raw": "https://vibeplayer.site/413bdffad3368305",
+          "41899-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/413bdffad3368305/master.m3u8"
+        },
+        "HD-2": {
+          "41899-malep-1_vibeplayer_raw": "https://vibeplayer.site/agdddaf83a5ee2aec6ec804e66227e141e4h",
+          "41899-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "41899-malep-1_otakuhg_raw": "https://otakuhg.site/e/nveqhkh6nh8l",
+          "41899-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "41899-malep-1_otakuvid_raw": "https://otakuvid.online/embed/ts6vi93h7rph",
+          "41899-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Guild and the Receptionist",
+      "episode_url": "https://hianime.ad/watch/enter-the-garden/ep-2",
+      "sub": {
+        "HD-1": {
+          "41899-malep-2_vibeplayer_sub": "https://vibeplayer.site/9fdc3137cc2872e7",
+          "41899-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9fdc3137cc2872e7/master.m3u8"
+        },
+        "HD-2": {
+          "41899-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag3bcf406d4a46b06387603edb5922008a4h",
+          "41899-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "41899-malep-2_otakuvid_sub": "https://otakuvid.online/embed/9ehj9giu1klj",
+          "41899-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41899-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3f04c14d531baa80",
+          "41899-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f04c14d531baa80/master.m3u8"
+        },
+        "HD-2": {
+          "41899-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agdd3ef7ab8b91f6a76279a3bfdc76326c4h",
+          "41899-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41899-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/fy7po4x257u1",
+          "41899-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
