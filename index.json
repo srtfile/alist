@@ -478,5 +478,15 @@
     "captured_at": "2026-06-03T17:20:01",
     "file": "data/genocidal-organ.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genocidal-organ.json"
+  },
+  {
+    "slug": "genocyber",
+    "mal_id": null,
+    "anime_name": "Genocyber",
+    "anime_url": "https://hianime.ad/anime/genocyber",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T17:20:11",
+    "file": "data/genocyber.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genocyber.json"
   }
 ]
