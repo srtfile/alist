@@ -22798,5 +22798,15 @@
     "captured_at": "2026-06-03T11:18:14",
     "file": "data/fatekaleid-liner-prismaillya-movie-oath-under-snow-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatekaleid-liner-prismaillya-movie-oath-under-snow-special.json"
+  },
+  {
+    "slug": "fatekaleid-liner-prismaillya-specials",
+    "mal_id": 14829,
+    "anime_name": "Fatekaleid Liner Prismaillya Specials",
+    "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prismaillya-specials",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T11:18:25",
+    "file": "data/fatekaleid-liner-prismaillya-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatekaleid-liner-prismaillya-specials.json"
   }
 ]
