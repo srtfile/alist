@@ -9808,5 +9808,15 @@
     "captured_at": "2026-06-03T00:29:08",
     "file": "data/black-butler-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-special.json"
+  },
+  {
+    "slug": "black-butler-book-of-circus",
+    "mal_id": 22145,
+    "anime_name": "Black Butler Book Of Circus",
+    "anime_url": "https://hianime.ad/anime/black-butler-book-of-circus",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T00:29:19",
+    "file": "data/black-butler-book-of-circus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-butler-book-of-circus.json"
   }
 ]
