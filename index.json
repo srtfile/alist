@@ -2538,5 +2538,15 @@
     "captured_at": "2026-06-03T18:38:02",
     "file": "data/golden-warrior-the-gold-lightan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-warrior-the-gold-lightan.json"
+  },
+  {
+    "slug": "goldfish-warning",
+    "mal_id": 727,
+    "anime_name": "Goldfish Warning",
+    "anime_url": "https://hianime.ad/anime/goldfish-warning",
+    "total_episodes": 54,
+    "captured_at": "2026-06-03T18:39:00",
+    "file": "data/goldfish-warning.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/goldfish-warning.json"
   }
 ]
