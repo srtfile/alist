@@ -25328,5 +25328,15 @@
     "captured_at": "2026-06-03T13:40:51",
     "file": "data/galaxy-angel-4.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-4.json"
+  },
+  {
+    "slug": "galaxy-angel-rune",
+    "mal_id": 1600,
+    "anime_name": "Galaxy Angel Rune",
+    "anime_url": "https://hianime.ad/anime/galaxy-angel-rune",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:41:12",
+    "file": "data/galaxy-angel-rune.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/galaxy-angel-rune.json"
   }
 ]
