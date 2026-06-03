@@ -11918,5 +11918,15 @@
     "captured_at": "2026-06-03T03:07:57",
     "file": "data/burn-up-scramble.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burn-up-scramble.json"
+  },
+  {
+    "slug": "burn-up",
+    "mal_id": 370,
+    "anime_name": "Burn Up",
+    "anime_url": "https://hianime.ad/anime/burn-up",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T03:08:20",
+    "file": "data/burn-up.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/burn-up.json"
   }
 ]
