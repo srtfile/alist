@@ -18358,5 +18358,15 @@
     "captured_at": "2026-06-03T08:33:58",
     "file": "data/digimon-tamers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-tamers.json"
+  },
+  {
+    "slug": "digimon-tamers-battle-of-adventurers",
+    "mal_id": 874,
+    "anime_name": "Digimon Tamers Battle Of Adventurers",
+    "anime_url": "https://hianime.ad/anime/digimon-tamers-battle-of-adventurers",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:34:51",
+    "file": "data/digimon-tamers-battle-of-adventurers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-tamers-battle-of-adventurers.json"
   }
 ]
