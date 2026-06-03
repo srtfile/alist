@@ -1,0 +1,52 @@
+{
+  "anime_name": "Code Geass Lelouch Of The Rebellion Ii Transgression",
+  "anime_url": "https://hianime.ad/anime/code-geass-lelouch-of-the-rebellion-ii-transgression",
+  "slug": "code-geass-lelouch-of-the-rebellion-ii-transgression",
+  "mal_id": 1575,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:16:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day a New Demon was Born",
+      "episode_url": "https://hianime.ad/watch/code-geass-lelouch-of-the-rebellion-ii-transgression/ep-1",
+      "sub": {
+        "HD-1": {
+          "1575-malep-1_vibeplayer_sub": "https://vibeplayer.site/ac5fa2cdd2d9c39b",
+          "1575-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac5fa2cdd2d9c39b/master.m3u8"
+        },
+        "HD-2": {
+          "1575-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4adf9e7b73ea1a1e7957c2d6e0e780b14h",
+          "1575-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1575-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x3x1wkuh6ugi",
+          "1575-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d71307954f765139",
+          "1575-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d71307954f765139/master.m3u8"
+        },
+        "HD-2": {
+          "1575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ageabadcacbe368d12b64897b196021afb4h",
+          "1575-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1575-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cfradoykwoiz",
+          "1575-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1575-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y7pq0ml132lh",
+          "1575-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1575-malep-1_playmogo_hsub": "https://playmogo.com/e/t2ccrig36ebx",
+          "1575-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
