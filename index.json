@@ -20668,5 +20668,15 @@
     "captured_at": "2026-06-03T10:03:16",
     "file": "data/duel-masters-king-raw.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/duel-masters-king-raw.json"
+  },
+  {
+    "slug": "duel-masters-lost-crystal-of-reminiscence",
+    "mal_id": 1685,
+    "anime_name": "Duel Masters Lost Crystal Of Reminiscence",
+    "anime_url": "https://hianime.ad/anime/duel-masters-lost-crystal-of-reminiscence",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T10:04:01",
+    "file": "data/duel-masters-lost-crystal-of-reminiscence.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/duel-masters-lost-crystal-of-reminiscence.json"
   }
 ]
