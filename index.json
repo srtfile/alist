@@ -24298,5 +24298,15 @@
     "captured_at": "2026-06-03T12:59:39",
     "file": "data/free-starting-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/free-starting-days.json"
+  },
+  {
+    "slug": "free-dive-to-the-future",
+    "mal_id": 36704,
+    "anime_name": "Free Dive To The Future",
+    "anime_url": "https://hianime.ad/anime/free-dive-to-the-future",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:59:50",
+    "file": "data/free-dive-to-the-future.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/free-dive-to-the-future.json"
   }
 ]
