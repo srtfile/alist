@@ -18708,5 +18708,15 @@
     "captured_at": "2026-06-03T08:47:26",
     "file": "data/dna-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dna-ova.json"
+  },
+  {
+    "slug": "do-it-yourself",
+    "mal_id": 48542,
+    "anime_name": "Do It Yourself",
+    "anime_url": "https://hianime.ad/anime/do-it-yourself",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:47:38",
+    "file": "data/do-it-yourself.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/do-it-yourself.json"
   }
 ]
