@@ -1428,5 +1428,15 @@
     "captured_at": "2026-06-03T17:57:26",
     "file": "data/gintama-shinyaku-benizakura-hen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-shinyaku-benizakura-hen.json"
+  },
+  {
+    "slug": "gintama-shiroyasha-koutan",
+    "mal_id": 9969,
+    "anime_name": "Gintama Shiroyasha Koutan",
+    "anime_url": "https://hianime.ad/anime/gintama-shiroyasha-koutan",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:57:37",
+    "file": "data/gintama-shiroyasha-koutan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-shiroyasha-koutan.json"
   }
 ]
