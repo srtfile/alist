@@ -20408,5 +20408,15 @@
     "captured_at": "2026-06-03T09:56:25",
     "file": "data/dragonblade-the-legend-of-lang.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragonblade-the-legend-of-lang.json"
+  },
+  {
+    "slug": "dragoon",
+    "mal_id": 1956,
+    "anime_name": "Dragoon",
+    "anime_url": "https://hianime.ad/anime/dragoon",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T09:56:35",
+    "file": "data/dragoon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragoon.json"
   }
 ]
