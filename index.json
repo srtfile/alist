@@ -14248,5 +14248,15 @@
     "captured_at": "2026-06-03T05:58:09",
     "file": "data/citrus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/citrus.json"
+  },
+  {
+    "slug": "city-hunter-617",
+    "mal_id": 1470,
+    "anime_name": "City Hunter 617",
+    "anime_url": "https://hianime.ad/anime/city-hunter-617",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T05:58:31",
+    "file": "data/city-hunter-617.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-hunter-617.json"
   }
 ]
