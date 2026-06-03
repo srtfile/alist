@@ -1498,5 +1498,15 @@
     "captured_at": "2026-06-03T17:59:12",
     "file": "data/gintama-silver-soul-arc-second-half-war.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-silver-soul-arc-second-half-war.json"
+  },
+  {
+    "slug": "gintama-slip-arc",
+    "mal_id": 35843,
+    "anime_name": "Gintama Slip Arc",
+    "anime_url": "https://hianime.ad/anime/gintama-slip-arc",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:59:35",
+    "file": "data/gintama-slip-arc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-slip-arc.json"
   }
 ]
