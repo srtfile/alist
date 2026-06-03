@@ -4758,5 +4758,15 @@
     "captured_at": "2026-06-03T19:55:32",
     "file": "data/hand-shakers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-shakers.json"
+  },
+  {
+    "slug": "handa-kun",
+    "mal_id": 32648,
+    "anime_name": "Handa Kun",
+    "anime_url": "https://hianime.ad/anime/handa-kun",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:55:54",
+    "file": "data/handa-kun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/handa-kun.json"
   }
 ]
