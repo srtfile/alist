@@ -14028,5 +14028,15 @@
     "captured_at": "2026-06-03T05:50:23",
     "file": "data/chrono-crusade.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chrono-crusade.json"
+  },
+  {
+    "slug": "chrono-crusade-azmarias-lessons",
+    "mal_id": 60,
+    "anime_name": "Chrono Crusade Azmarias Lessons",
+    "anime_url": "https://hianime.ad/anime/chrono-crusade-azmarias-lessons",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T05:50:56",
+    "file": "data/chrono-crusade-azmarias-lessons.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chrono-crusade-azmarias-lessons.json"
   }
 ]
