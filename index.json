@@ -5468,5 +5468,15 @@
     "captured_at": "2026-06-03T20:21:26",
     "file": "data/heavens-lost-property-my-eternal-master.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavens-lost-property-my-eternal-master.json"
+  },
+  {
+    "slug": "heavens-memo-pad",
+    "mal_id": 10568,
+    "anime_name": "Heavens Memo Pad",
+    "anime_url": "https://hianime.ad/anime/heavens-memo-pad",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:21:39",
+    "file": "data/heavens-memo-pad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavens-memo-pad.json"
   }
 ]
