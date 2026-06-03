@@ -1,0 +1,35 @@
+{
+  "anime_name": "Charlotte Tsuyoimono Tachi",
+  "anime_url": "https://hianime.ad/anime/charlotte-tsuyoimono-tachi",
+  "slug": "charlotte-tsuyoimono-tachi",
+  "mal_id": 28999,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:21:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Think About Others",
+      "episode_url": "https://hianime.ad/watch/charlotte-tsuyoimono-tachi/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "28999-malep-1_vibeplayer_dub": "https://vibeplayer.site/50511793532366c6",
+          "28999-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/50511793532366c6/master.m3u8"
+        },
+        "HD-2": {
+          "28999-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf18e862e67f367a7867e6e976934af354h",
+          "28999-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "28999-malep-1_otakuhg_dub": "https://otakuhg.site/e/zapyhbo2nha8",
+          "28999-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "28999-malep-1_otakuvid_dub": "https://otakuvid.online/embed/02wy6wlgc59u",
+          "28999-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
