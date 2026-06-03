@@ -15138,5 +15138,15 @@
     "captured_at": "2026-06-03T06:29:11",
     "file": "data/coo-of-the-far-seas.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/coo-of-the-far-seas.json"
+  },
+  {
+    "slug": "cooking-papa",
+    "mal_id": 8123,
+    "anime_name": "Cooking Papa",
+    "anime_url": "https://hianime.ad/anime/cooking-papa",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T06:29:24",
+    "file": "data/cooking-papa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cooking-papa.json"
   }
 ]
