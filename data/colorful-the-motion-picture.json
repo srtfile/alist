@@ -1,0 +1,81 @@
+{
+  "anime_name": "Colorful The Motion Picture",
+  "anime_url": "https://hianime.ad/anime/colorful-the-motion-picture",
+  "slug": "colorful-the-motion-picture",
+  "mal_id": 39792,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:22:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Greatest World!",
+      "episode_url": "https://hianime.ad/watch/colorful-the-motion-picture/ep-1",
+      "sub": {
+        "HD-1": {
+          "39792-malep-1_vibeplayer_sub": "https://vibeplayer.site/83676da325a42d0e",
+          "39792-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/83676da325a42d0e/master.m3u8"
+        },
+        "HD-2": {
+          "39792-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2a2d23084f87d1e9ac0b007158110f544h",
+          "39792-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "39792-malep-1_otakuhg_sub": "https://otakuhg.site/e/jxdd8e5gav0k",
+          "39792-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "39792-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zhhykg8278et",
+          "39792-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "39792-malep-1_playmogo_sub": "https://playmogo.com/e/tklvueipwbx8",
+          "39792-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "39792-malep-1_vibeplayer_dub": "https://vibeplayer.site/88ee15680bfc2164",
+          "39792-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/88ee15680bfc2164/master.m3u8"
+        },
+        "HD-2": {
+          "39792-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag4fd38f26f226c46c7a4d5dc44358af454h",
+          "39792-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "39792-malep-1_otakuhg_dub": "https://otakuhg.site/e/2kza4cdosyuv",
+          "39792-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "39792-malep-1_otakuvid_dub": "https://otakuvid.online/embed/236m8rnhv37s",
+          "39792-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "39792-malep-1_playmogo_dub": "https://playmogo.com/e/3600cjksizjj",
+          "39792-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "39792-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f12fc780e2650a5",
+          "39792-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f12fc780e2650a5/master.m3u8"
+        },
+        "HD-2": {
+          "39792-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb6dd5c5aef654d5bd0f8eb887fef7c5a4h",
+          "39792-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "39792-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9uplbz84a4va",
+          "39792-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "39792-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4f7ktm013abv",
+          "39792-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "39792-malep-1_playmogo_hsub": "https://playmogo.com/e/j9rgfrumeo3w",
+          "39792-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
