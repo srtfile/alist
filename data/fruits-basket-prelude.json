@@ -1,0 +1,73 @@
+{
+  "anime_name": "Fruits Basket Prelude",
+  "anime_url": "https://hianime.ad/anime/fruits-basket-prelude",
+  "slug": "fruits-basket-prelude",
+  "mal_id": 120,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:08:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Strangest Day",
+      "episode_url": "https://hianime.ad/watch/fruits-basket-prelude/ep-1",
+      "sub": {
+        "HD-1": {
+          "120-malep-1_vibeplayer_sub": "https://vibeplayer.site/b2704cdf23e18c6e",
+          "120-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2704cdf23e18c6e/master.m3u8"
+        },
+        "HD-2": {
+          "120-malep-1_vibeplayer_sub": "https://vibeplayer.site/agfdcac0b7685f6ff1b11bfde29b59628f4h",
+          "120-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "120-malep-1_otakuvid_sub": "https://otakuvid.online/embed/j9xzhb5f0n4g",
+          "120-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "120-malep-1_vibeplayer_dub": "https://vibeplayer.site/72e14da62a7ffb27",
+          "120-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/72e14da62a7ffb27/master.m3u8"
+        },
+        "HD-2": {
+          "120-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag1962b5bfbe5f74142714d316bc57fa8d4h",
+          "120-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "120-malep-1_otakuhg_dub": "https://otakuhg.site/e/ygxxz3v7urwy",
+          "120-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "120-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3kb4gyvu5h6s",
+          "120-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "120-malep-1_playmogo_dub": "https://playmogo.com/e/dc7qqmckzf0t",
+          "120-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "120-malep-1_vibeplayer_hsub": "https://vibeplayer.site/27b06563fb89eeec",
+          "120-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/27b06563fb89eeec/master.m3u8"
+        },
+        "HD-2": {
+          "120-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5c4732ec744420022313bb05d012b2724h",
+          "120-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "120-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ormpdxtp53k2",
+          "120-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "120-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6t7pdgirndw4",
+          "120-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "120-malep-1_playmogo_hsub": "https://playmogo.com/e/vna7d6ja227q",
+          "120-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
