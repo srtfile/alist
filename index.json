@@ -22218,5 +22218,15 @@
     "captured_at": "2026-06-03T10:57:43",
     "file": "data/fairy-king.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-king.json"
+  },
+  {
+    "slug": "fairy-mountain",
+    "mal_id": 518,
+    "anime_name": "Fairy Mountain",
+    "anime_url": "https://hianime.ad/anime/fairy-mountain",
+    "total_episodes": 17,
+    "captured_at": "2026-06-03T10:57:53",
+    "file": "data/fairy-mountain.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairy-mountain.json"
   }
 ]
