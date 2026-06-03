@@ -12868,5 +12868,15 @@
     "captured_at": "2026-06-03T04:34:37",
     "file": "data/case-closed.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed.json"
+  },
+  {
+    "slug": "case-closed-movie-3-the-last-wizard-of-the-century",
+    "mal_id": 235,
+    "anime_name": "Case Closed Movie 3 The Last Wizard Of The Century",
+    "anime_url": "https://hianime.ad/anime/case-closed-movie-3-the-last-wizard-of-the-century",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T04:58:28",
+    "file": "data/case-closed-movie-3-the-last-wizard-of-the-century.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed-movie-3-the-last-wizard-of-the-century.json"
   }
 ]
