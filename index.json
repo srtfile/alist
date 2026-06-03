@@ -338,5 +338,15 @@
     "captured_at": "2026-06-03T17:15:40",
     "file": "data/gekiganger-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gekiganger-3.json"
+  },
+  {
+    "slug": "gekitou-crush-gear-turbo",
+    "mal_id": 3012,
+    "anime_name": "Gekitou Crush Gear Turbo",
+    "anime_url": "https://hianime.ad/anime/gekitou-crush-gear-turbo",
+    "total_episodes": 27,
+    "captured_at": "2026-06-03T17:15:51",
+    "file": "data/gekitou-crush-gear-turbo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gekitou-crush-gear-turbo.json"
   }
 ]
