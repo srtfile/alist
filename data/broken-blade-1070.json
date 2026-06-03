@@ -1,0 +1,77 @@
+{
+  "anime_name": "Broken Blade 1070",
+  "anime_url": "https://hianime.ad/anime/broken-blade-1070",
+  "slug": "broken-blade-1070",
+  "mal_id": 22433,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:54:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Un Sorcerer",
+      "episode_url": "https://hianime.ad/watch/broken-blade-1070/ep-1",
+      "sub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_sub": "https://vibeplayer.site/e46276a85efb5c35",
+          "22433-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e46276a85efb5c35/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag242a4b1ede58f2bcb6bd70e2d34498584h",
+          "22433-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4w0ein2blbjz",
+          "22433-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "22433-malep-1_playmogo_sub": "https://playmogo.com/e/fnttxmgp1bmm",
+          "22433-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_dub": "https://vibeplayer.site/1f7eff74d08affe8",
+          "22433-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f7eff74d08affe8/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_dub": "https://vibeplayer.site/agfa0f00401f6e9761bac1d1092c4fff784h",
+          "22433-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "22433-malep-1_otakuhg_dub": "https://otakuhg.site/e/b3cvw3u9sjfl",
+          "22433-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_dub": "https://otakuvid.online/embed/x9rigy5u50c6",
+          "22433-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "22433-malep-1_playmogo_dub": "https://playmogo.com/e/qwts39cl5lc5",
+          "22433-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77e883bcfa1bbec9",
+          "22433-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77e883bcfa1bbec9/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag71b09a8b5351762e8ae91a14e83db0d74h",
+          "22433-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22433-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sp2pd73gvmvz",
+          "22433-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lnwrq9smacq2",
+          "22433-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22433-malep-1_playmogo_hsub": "https://playmogo.com/e/r1enydnf81xr",
+          "22433-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
