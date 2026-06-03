@@ -1,0 +1,52 @@
+{
+  "anime_name": "Boku No Hero Academia Training Of The Dead",
+  "anime_url": "https://hianime.ad/anime/boku-no-hero-academia-training-of-the-dead",
+  "slug": "boku-no-hero-academia-training-of-the-dead",
+  "mal_id": 31964,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:31:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Izuku Midoriya: Origin",
+      "episode_url": "https://hianime.ad/watch/boku-no-hero-academia-training-of-the-dead/ep-1",
+      "sub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/b627aa2a60a6459b",
+          "31964-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b627aa2a60a6459b/master.m3u8"
+        },
+        "HD-2": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0bb69cce5b0d984a1dadc917e5604a4f4h",
+          "31964-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_sub": "https://otakuhg.site/e/ygu7rv5d9m8z",
+          "31964-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_sub": "https://otakuvid.online/embed/65308bh8pwui",
+          "31964-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/936b5d8d2d5d788f",
+          "31964-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/936b5d8d2d5d788f/master.m3u8"
+        },
+        "HD-2": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age60b66a6a5b98d22348ea35bf13e7f924h",
+          "31964-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qkma8sh4zjrv",
+          "31964-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ubgw18ppqcka",
+          "31964-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
