@@ -1,0 +1,36 @@
+{
+  "anime_name": "Generation Of Chaos Next Chikai No Pendant",
+  "anime_url": "https://hianime.ad/anime/generation-of-chaos-next-chikai-no-pendant",
+  "slug": "generation-of-chaos-next-chikai-no-pendant",
+  "mal_id": 18465,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:17:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The other side of the path. The promised place.",
+      "episode_url": "https://hianime.ad/watch/generation-of-chaos-next-chikai-no-pendant/ep-1",
+      "sub": {
+        "HD-1": {
+          "18465-malep-1_vibeplayer_sub": "https://vibeplayer.site/ba4c6db231f0fa3c",
+          "18465-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba4c6db231f0fa3c/master.m3u8"
+        },
+        "Earnvids": {
+          "18465-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cr73dc3j9w2n",
+          "18465-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18465-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2e4338dbce1ce3ef",
+          "18465-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e4338dbce1ce3ef/master.m3u8"
+        },
+        "Earnvids": {
+          "18465-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4fm83s8ntapb",
+          "18465-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
