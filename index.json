@@ -5158,5 +5158,15 @@
     "captured_at": "2026-06-03T20:09:18",
     "file": "data/hatsukoi-limited.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hatsukoi-limited.json"
+  },
+  {
+    "slug": "hatsukoi-limited-shorts",
+    "mal_id": 5150,
+    "anime_name": "Hatsukoi Limited Shorts",
+    "anime_url": "https://hianime.ad/anime/hatsukoi-limited-shorts",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T20:09:41",
+    "file": "data/hatsukoi-limited-shorts.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hatsukoi-limited-shorts.json"
   }
 ]
