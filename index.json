@@ -14458,5 +14458,15 @@
     "captured_at": "2026-06-03T06:06:21",
     "file": "data/classic-stars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classic-stars.json"
+  },
+  {
+    "slug": "classicaloid",
+    "mal_id": 31157,
+    "anime_name": "Classicaloid",
+    "anime_url": "https://hianime.ad/anime/classicaloid",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T06:06:44",
+    "file": "data/classicaloid.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classicaloid.json"
   }
 ]
