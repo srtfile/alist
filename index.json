@@ -3648,5 +3648,15 @@
     "captured_at": "2026-06-03T19:18:27",
     "file": "data/gundam-evolve.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-evolve.json"
+  },
+  {
+    "slug": "gundam-reconguista-in-g",
+    "mal_id": 23259,
+    "anime_name": "Gundam Reconguista In G",
+    "anime_url": "https://hianime.ad/anime/gundam-reconguista-in-g",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T19:18:52",
+    "file": "data/gundam-reconguista-in-g.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-reconguista-in-g.json"
   }
 ]
