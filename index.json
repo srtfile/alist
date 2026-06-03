@@ -14038,5 +14038,15 @@
     "captured_at": "2026-06-03T05:50:56",
     "file": "data/chrono-crusade-azmarias-lessons.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chrono-crusade-azmarias-lessons.json"
+  },
+  {
+    "slug": "chronos-ruler",
+    "mal_id": 34565,
+    "anime_name": "Chronos Ruler",
+    "anime_url": "https://hianime.ad/anime/chronos-ruler",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T05:51:17",
+    "file": "data/chronos-ruler.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chronos-ruler.json"
   }
 ]
