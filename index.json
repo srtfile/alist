@@ -12918,5 +12918,15 @@
     "captured_at": "2026-06-03T04:59:28",
     "file": "data/case-closed-the-fourteenth-target.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed-the-fourteenth-target.json"
+  },
+  {
+    "slug": "case-closed-the-phantom-of-baker-street",
+    "mal_id": 235,
+    "anime_name": "Case Closed The Phantom Of Baker Street",
+    "anime_url": "https://hianime.ad/anime/case-closed-the-phantom-of-baker-street",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T04:59:42",
+    "file": "data/case-closed-the-phantom-of-baker-street.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-closed-the-phantom-of-baker-street.json"
   }
 ]
