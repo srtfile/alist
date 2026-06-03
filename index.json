@@ -13908,5 +13908,15 @@
     "captured_at": "2026-06-03T05:45:39",
     "file": "data/choubakumatsu-shounen-seiki-takamaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/choubakumatsu-shounen-seiki-takamaru.json"
+  },
+  {
+    "slug": "chouetsu-sekai",
+    "mal_id": 10080,
+    "anime_name": "Chouetsu Sekai",
+    "anime_url": "https://hianime.ad/anime/chouetsu-sekai",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T05:45:52",
+    "file": "data/chouetsu-sekai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chouetsu-sekai.json"
   }
 ]
