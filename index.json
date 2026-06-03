@@ -3128,5 +3128,15 @@
     "captured_at": "2026-06-03T19:00:34",
     "file": "data/greed.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/greed.json"
+  },
+  {
+    "slug": "green-green",
+    "mal_id": 133,
+    "anime_name": "Green Green",
+    "anime_url": "https://hianime.ad/anime/green-green",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:00:46",
+    "file": "data/green-green.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/green-green.json"
   }
 ]
