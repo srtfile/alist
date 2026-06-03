@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bobby Ni Kubittake",
+  "anime_url": "https://hianime.ad/anime/bobby-ni-kubittake",
+  "slug": "bobby-ni-kubittake",
+  "mal_id": 46437,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T01:07:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/bobby-ni-kubittake/ep-1",
+      "sub": {
+        "HD-1": {
+          "46437-malep-1_vibeplayer_sub": "https://vibeplayer.site/49c884dc2ccbadb1",
+          "46437-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49c884dc2ccbadb1/master.m3u8"
+        },
+        "HD-2": {
+          "46437-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0ca5b68675b9f80e9fefaf512e8e92fe4h",
+          "46437-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "46437-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6wu3yyqx70tp",
+          "46437-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "46437-malep-1_playmogo_sub": "https://playmogo.com/e/rmjdaod54uym",
+          "46437-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "46437-malep-1_vibeplayer_hsub": "https://vibeplayer.site/69f3c399659396b4",
+          "46437-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/69f3c399659396b4/master.m3u8"
+        },
+        "HD-2": {
+          "46437-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9d6396c1d0eb285cf988e9066179c2534h",
+          "46437-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "46437-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w07o3sn32lpz",
+          "46437-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "46437-malep-1_playmogo_hsub": "https://playmogo.com/e/dhp37tvciutr",
+          "46437-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
