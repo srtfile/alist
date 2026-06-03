@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 14 Densetsu Wo Yobu Odore Amigo",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo",
+  "slug": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:41:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/51d1fa8d023d9a4d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/51d1fa8d023d9a4d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agb7da660da3c163b322ae2cd8086a6dbe4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/7eb5pm6mr6wd",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/4gae8ff1063q",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/3b205855d2d5295c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b205855d2d5295c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3f7c12870275c40478a8efd86b460e2f4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/jj1diexjvnqc",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/985ee86q67d9",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/z8grg2d0jeme",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
