@@ -3808,5 +3808,15 @@
     "captured_at": "2026-06-03T19:24:06",
     "file": "data/gunsmith-cats.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gunsmith-cats.json"
+  },
+  {
+    "slug": "guraburu",
+    "mal_id": 41574,
+    "anime_name": "Guraburu",
+    "anime_url": "https://hianime.ad/anime/guraburu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:24:19",
+    "file": "data/guraburu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guraburu.json"
   }
 ]
