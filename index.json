@@ -4918,5 +4918,15 @@
     "captured_at": "2026-06-03T20:01:38",
     "file": "data/happy-go-lucky-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happy-go-lucky-days.json"
+  },
+  {
+    "slug": "happylesson-tv",
+    "mal_id": 260,
+    "anime_name": "Happylesson Tv",
+    "anime_url": "https://hianime.ad/anime/happylesson-tv",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T20:01:50",
+    "file": "data/happylesson-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happylesson-tv.json"
   }
 ]
