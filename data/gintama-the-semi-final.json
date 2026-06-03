@@ -1,0 +1,81 @@
+{
+  "anime_name": "Gintama The Semi Final",
+  "anime_url": "https://hianime.ad/anime/gintama-the-semi-final",
+  "slug": "gintama-the-semi-final",
+  "mal_id": 9969,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T17:58:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-the-semi-final/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/9fef60ceb7da6521",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9fef60ceb7da6521/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/412fmy09zzqk",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gy5h7odmak2t",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9bb2f2eaa3b160f7",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9bb2f2eaa3b160f7/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jnni5njhjklh",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8pgppajoeia9",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Everyone Looks Pretty Grown up after Summer Break",
+      "episode_url": "https://hianime.ad/watch/gintama-the-semi-final/ep-2",
+      "sub": {
+        "HD-1": {
+          "9969-malep-2_vibeplayer_sub": "https://vibeplayer.site/c90821a1d9036f8e",
+          "9969-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c90821a1d9036f8e/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-2_otakuhg_sub": "https://otakuhg.site/e/8mnhym3xmlct",
+          "9969-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-2_otakuvid_sub": "https://otakuvid.online/embed/x0vppx9kth1t",
+          "9969-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-2_vibeplayer_hsub": "https://vibeplayer.site/fc213ab52560f1c9",
+          "9969-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc213ab52560f1c9/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-2_otakuhg_hsub": "https://otakuhg.site/e/f224g4vx9nv1",
+          "9969-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/vkcwi7h305lz",
+          "9969-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-2_playmogo_hsub": "https://playmogo.com/e/jzw80sd25syi",
+          "9969-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
