@@ -12588,5 +12588,15 @@
     "captured_at": "2026-06-03T04:21:40",
     "file": "data/cardfight-vanguard-g-girs-crisis.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g-girs-crisis.json"
+  },
+  {
+    "slug": "cardfight-vanguard-g-next",
+    "mal_id": 34077,
+    "anime_name": "Cardfight Vanguard G Next",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-g-next",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T04:22:15",
+    "file": "data/cardfight-vanguard-g-next.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g-next.json"
   }
 ]
