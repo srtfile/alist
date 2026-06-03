@@ -4928,5 +4928,15 @@
     "captured_at": "2026-06-03T20:01:50",
     "file": "data/happylesson-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happylesson-tv.json"
+  },
+  {
+    "slug": "happylesson-advance",
+    "mal_id": 261,
+    "anime_name": "Happylesson Advance",
+    "anime_url": "https://hianime.ad/anime/happylesson-advance",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T20:02:13",
+    "file": "data/happylesson-advance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happylesson-advance.json"
   }
 ]
