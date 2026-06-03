@@ -3408,5 +3408,15 @@
     "captured_at": "2026-06-03T19:09:47",
     "file": "data/guilstein.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilstein.json"
+  },
+  {
+    "slug": "guilty-crown",
+    "mal_id": 10793,
+    "anime_name": "Guilty Crown",
+    "anime_url": "https://hianime.ad/anime/guilty-crown",
+    "total_episodes": 22,
+    "captured_at": "2026-06-03T19:09:59",
+    "file": "data/guilty-crown.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/guilty-crown.json"
   }
 ]
