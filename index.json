@@ -17118,5 +17118,15 @@
     "captured_at": "2026-06-03T07:58:19",
     "file": "data/delicos-nursery-recap.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delicos-nursery-recap.json"
+  },
+  {
+    "slug": "delinquent-detective",
+    "mal_id": 15109,
+    "anime_name": "Delinquent Detective",
+    "anime_url": "https://hianime.ad/anime/delinquent-detective",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T07:58:29",
+    "file": "data/delinquent-detective.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delinquent-detective.json"
   }
 ]
