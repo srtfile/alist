@@ -1,0 +1,60 @@
+{
+  "anime_name": "Cinderella Express",
+  "anime_url": "https://hianime.ad/anime/cinderella-express",
+  "slug": "cinderella-express",
+  "mal_id": 23587,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:55:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Who is in the pumpkin carriage?",
+      "episode_url": "https://hianime.ad/watch/cinderella-express/ep-1",
+      "sub": {
+        "HD-1": {
+          "23587-malep-1_vibeplayer_sub": "https://vibeplayer.site/6bbae4c3c1aa1cd3",
+          "23587-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6bbae4c3c1aa1cd3/master.m3u8"
+        },
+        "HD-2": {
+          "23587-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0368ae984dbe4428026375d588af955b4h",
+          "23587-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "23587-malep-1_otakuhg_sub": "https://otakuhg.site/e/onjce47ekdea",
+          "23587-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23587-malep-1_otakuvid_sub": "https://otakuvid.online/embed/oz85gusvlrnn",
+          "23587-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "23587-malep-1_playmogo_sub": "https://playmogo.com/e/bo4zi5ec9mkm",
+          "23587-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23587-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b0c538859e607c29",
+          "23587-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b0c538859e607c29/master.m3u8"
+        },
+        "HD-2": {
+          "23587-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6166fb0a2b59bbfacdf36397ae7a50ec4h",
+          "23587-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "23587-malep-1_otakuhg_hsub": "https://otakuhg.site/e/heqx00pb4cp1",
+          "23587-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23587-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k64dnt7iw661",
+          "23587-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23587-malep-1_playmogo_hsub": "https://playmogo.com/e/vv7cly63d9wz",
+          "23587-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
