@@ -13608,5 +13608,15 @@
     "captured_at": "2026-06-03T05:29:48",
     "file": "data/chibi-maruko-chan-movie-italia-kara-kita-shounen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chibi-maruko-chan-movie-italia-kara-kita-shounen.json"
+  },
+  {
+    "slug": "chibi-maruko-chan-my-favorite-song",
+    "mal_id": 951,
+    "anime_name": "Chibi Maruko Chan My Favorite Song",
+    "anime_url": "https://hianime.ad/anime/chibi-maruko-chan-my-favorite-song",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T05:30:01",
+    "file": "data/chibi-maruko-chan-my-favorite-song.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chibi-maruko-chan-my-favorite-song.json"
   }
 ]
