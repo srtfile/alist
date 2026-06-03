@@ -5358,5 +5358,15 @@
     "captured_at": "2026-06-03T20:17:34",
     "file": "data/heatguy-j.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heatguy-j.json"
+  },
+  {
+    "slug": "heatguy-j-special",
+    "mal_id": 958,
+    "anime_name": "Heatguy J Special",
+    "anime_url": "https://hianime.ad/anime/heatguy-j-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T20:18:09",
+    "file": "data/heatguy-j-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heatguy-j-special.json"
   }
 ]
