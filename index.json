@@ -118,5 +118,15 @@
     "captured_at": "2026-06-03T17:06:01",
     "file": "data/garo-the-animation-home.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-the-animation-home.json"
+  },
+  {
+    "slug": "garouden-the-way-of-the-lone-wolf",
+    "mal_id": 2810,
+    "anime_name": "Garouden The Way Of The Lone Wolf",
+    "anime_url": "https://hianime.ad/anime/garouden-the-way-of-the-lone-wolf",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T17:06:12",
+    "file": "data/garouden-the-way-of-the-lone-wolf.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garouden-the-way-of-the-lone-wolf.json"
   }
 ]
