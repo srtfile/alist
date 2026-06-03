@@ -24708,5 +24708,15 @@
     "captured_at": "2026-06-03T13:13:39",
     "file": "data/full-time-magister-6th-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/full-time-magister-6th-season.json"
+  },
+  {
+    "slug": "fullmetal-alchemist",
+    "mal_id": 121,
+    "anime_name": "Fullmetal Alchemist",
+    "anime_url": "https://hianime.ad/anime/fullmetal-alchemist",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T13:14:00",
+    "file": "data/fullmetal-alchemist.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fullmetal-alchemist.json"
   }
 ]
