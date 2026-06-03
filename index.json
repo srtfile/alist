@@ -11058,5 +11058,15 @@
     "captured_at": "2026-06-03T02:32:22",
     "file": "data/bokura-wa-minna-kawai-sou-hajimete-no.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bokura-wa-minna-kawai-sou-hajimete-no.json"
+  },
+  {
+    "slug": "bokurano",
+    "mal_id": 1690,
+    "anime_name": "Bokurano",
+    "anime_url": "https://hianime.ad/anime/bokurano",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T02:32:34",
+    "file": "data/bokurano.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bokurano.json"
   }
 ]
