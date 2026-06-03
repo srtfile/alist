@@ -11758,5 +11758,15 @@
     "captured_at": "2026-06-03T03:02:39",
     "file": "data/build-divide-code-white.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/build-divide-code-white.json"
+  },
+  {
+    "slug": "bullbuster",
+    "mal_id": 53633,
+    "anime_name": "Bullbuster",
+    "anime_url": "https://hianime.ad/anime/bullbuster",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:03:01",
+    "file": "data/bullbuster.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bullbuster.json"
   }
 ]
