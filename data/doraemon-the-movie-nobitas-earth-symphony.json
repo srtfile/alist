@@ -1,0 +1,56 @@
+{
+  "anime_name": "Doraemon The Movie Nobitas Earth Symphony",
+  "anime_url": "https://hianime.ad/anime/doraemon-the-movie-nobitas-earth-symphony",
+  "slug": "doraemon-the-movie-nobitas-earth-symphony",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:06:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-the-movie-nobitas-earth-symphony/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bf43e4875c6daadc",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf43e4875c6daadc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag04b99798758928eb2dfb6753d4743dad4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/yqt84job3jwg",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/xy72ec1cpynt",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/b88fbba38638155a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b88fbba38638155a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3e4aa7ae209834597be08a42fd7a0a8c4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/3yabtnvj4lxf",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6fqznduzqxw7",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/vvhat1vtjzp7",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
