@@ -6738,5 +6738,15 @@
     "captured_at": "2026-06-03T21:10:05",
     "file": "data/himouto-umaru-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himouto-umaru-chan.json"
+  },
+  {
+    "slug": "himouto-umaru-chan-r",
+    "mal_id": 35376,
+    "anime_name": "Himouto Umaru Chan R",
+    "anime_url": "https://hianime.ad/anime/himouto-umaru-chan-r",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:10:28",
+    "file": "data/himouto-umaru-chan-r.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himouto-umaru-chan-r.json"
   }
 ]
