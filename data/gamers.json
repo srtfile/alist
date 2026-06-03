@@ -1,0 +1,635 @@
+{
+  "anime_name": "Gamers",
+  "anime_url": "https://hianime.ad/anime/gamers",
+  "slug": "gamers",
+  "mal_id": 34280,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T13:49:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Keita Amano and Chapters of the Chosen",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-1",
+      "sub": {
+        "HD-1": {
+          "34280-malep-1_vibeplayer_sub": "https://vibeplayer.site/5012c4a980625fa2",
+          "34280-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5012c4a980625fa2/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc7aa4e0daa067f3643c52f39af70b0fd4h",
+          "34280-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-1_otakuvid_sub": "https://otakuvid.online/embed/skp4c9wi8vjx",
+          "34280-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-1_vibeplayer_dub": "https://vibeplayer.site/a0d68276396a8135",
+          "34280-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0d68276396a8135/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd21a412d49f00656d3ef20daa12ffe6b4h",
+          "34280-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-1_otakuhg_dub": "https://otakuhg.site/e/g63xztmph2z6",
+          "34280-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2st5inyedvcc",
+          "34280-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-1_vibeplayer_hsub": "https://vibeplayer.site/398725d3efa06bcd",
+          "34280-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/398725d3efa06bcd/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7dffa69ad6fe37ad5e2f7c1eca0aaf1f4h",
+          "34280-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6pv0mufe2pc4",
+          "34280-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r6wmy01ivbuu",
+          "34280-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-1_playmogo_hsub": "https://playmogo.com/e/5ghh4spcsdpp",
+          "34280-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tasuku Uehara and New Game+",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-2",
+      "sub": {
+        "HD-1": {
+          "34280-malep-2_vibeplayer_sub": "https://vibeplayer.site/aeb6dbf9583946e2",
+          "34280-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aeb6dbf9583946e2/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-2_vibeplayer_sub": "https://vibeplayer.site/age9fe471cafa2704391369e8c157ae6ff4h",
+          "34280-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-2_otakuhg_sub": "https://otakuhg.site/e/pbmdgb03rl67",
+          "34280-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-2_otakuvid_sub": "https://otakuvid.online/embed/pobcqqsep4t7",
+          "34280-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-2_vibeplayer_dub": "https://vibeplayer.site/c8c4c6f98a0062e9",
+          "34280-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c8c4c6f98a0062e9/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag8d50a70af8c8386617e15a09af96d71c4h",
+          "34280-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-2_otakuhg_dub": "https://otakuhg.site/e/gwdjqdu8x6rs",
+          "34280-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-2_otakuvid_dub": "https://otakuvid.online/embed/08h9bdvfo7bo",
+          "34280-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Chiaki Hoshinomori and StreetPass Communication",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-3",
+      "sub": {
+        "HD-1": {
+          "34280-malep-3_vibeplayer_sub": "https://vibeplayer.site/8319f50e867af898",
+          "34280-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8319f50e867af898/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag1cb0a9ce6f7834214900013114381a244h",
+          "34280-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-3_otakuvid_sub": "https://otakuvid.online/embed/pfwc9hh8jcce",
+          "34280-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-3_vibeplayer_dub": "https://vibeplayer.site/bac0077a4541bd9a",
+          "34280-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bac0077a4541bd9a/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-3_vibeplayer_dub": "https://vibeplayer.site/agf237a0863c326d070325c4f79c6409114h",
+          "34280-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-3_otakuhg_dub": "https://otakuhg.site/e/rcqh3i8r6aon",
+          "34280-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-3_otakuvid_dub": "https://otakuvid.online/embed/lf3xvkbhn01w",
+          "34280-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-3_vibeplayer_hsub": "https://vibeplayer.site/c0ffcc8f15b93b27",
+          "34280-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0ffcc8f15b93b27/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agfc3d3d55acef22ad46a0543d8cefb6094h",
+          "34280-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-3_otakuhg_hsub": "https://otakuhg.site/e/5cd7j80xjm01",
+          "34280-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/mf77wwlr0bfd",
+          "34280-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-3_playmogo_hsub": "https://playmogo.com/e/tznhrh7bdw1g",
+          "34280-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Intermission x Karen Tendou and Slump Days",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-4",
+      "sub": {
+        "HD-1": {
+          "34280-malep-4_vibeplayer_sub": "https://vibeplayer.site/8c0f888bb99527e9",
+          "34280-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c0f888bb99527e9/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag92698895e7d5d2fd4151126fd5eeda594h",
+          "34280-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-4_otakuvid_sub": "https://otakuvid.online/embed/q53k38sppxa8",
+          "34280-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-4_vibeplayer_dub": "https://vibeplayer.site/e7dc7305a29a98fa",
+          "34280-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e7dc7305a29a98fa/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-4_vibeplayer_dub": "https://vibeplayer.site/agf88e4924ef78276a3456b88cff1780364h",
+          "34280-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-4_otakuhg_dub": "https://otakuhg.site/e/3li6lgveatx4",
+          "34280-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-4_otakuvid_dub": "https://otakuvid.online/embed/c1mcblul9wvj",
+          "34280-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-4_vibeplayer_hsub": "https://vibeplayer.site/f346e2ad353f6040",
+          "34280-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f346e2ad353f6040/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag9cb7cce9108f88aa5d6a0ef8e39be32d4h",
+          "34280-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-4_otakuhg_hsub": "https://otakuhg.site/e/xo0tzavxjroj",
+          "34280-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/7glylt6wn34t",
+          "34280-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-4_playmogo_hsub": "https://playmogo.com/e/wozrb7odxra0",
+          "34280-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Aguri and Communication Error",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-5",
+      "sub": {
+        "HD-1": {
+          "34280-malep-5_vibeplayer_sub": "https://vibeplayer.site/918115712c92ffc8",
+          "34280-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/918115712c92ffc8/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag2d85f085fdb1368abbcfe753937fb8bc4h",
+          "34280-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-5_otakuvid_sub": "https://otakuvid.online/embed/3m3sbw9q796u",
+          "34280-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-5_vibeplayer_dub": "https://vibeplayer.site/56c442efde89a0be",
+          "34280-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/56c442efde89a0be/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-5_vibeplayer_dub": "https://vibeplayer.site/aga40625f655a99d4de59e3f38fe5e5b354h",
+          "34280-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-5_otakuhg_dub": "https://otakuhg.site/e/w6kwz6alzacm",
+          "34280-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-5_otakuvid_dub": "https://otakuvid.online/embed/8fzs4te93s8i",
+          "34280-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-5_vibeplayer_hsub": "https://vibeplayer.site/321d571146dee18a",
+          "34280-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/321d571146dee18a/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag09faa05202be11e071523f24a5e23a954h",
+          "34280-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-5_otakuhg_hsub": "https://otakuhg.site/e/rzo4hwao0okn",
+          "34280-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/kqm813imj0xi",
+          "34280-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-5_playmogo_hsub": "https://playmogo.com/e/jygafy2n8peq",
+          "34280-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Karen Tendou and Surprise Happy End",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-6",
+      "sub": {
+        "HD-1": {
+          "34280-malep-6_vibeplayer_sub": "https://vibeplayer.site/bdce8047aee04ec9",
+          "34280-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bdce8047aee04ec9/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-6_vibeplayer_sub": "https://vibeplayer.site/age6cdab3c6e3821017e45e9777287e6444h",
+          "34280-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-6_otakuhg_sub": "https://otakuhg.site/e/paw67d87tb7m",
+          "34280-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-6_otakuvid_sub": "https://otakuvid.online/embed/573rl4hsyqdp",
+          "34280-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-6_vibeplayer_dub": "https://vibeplayer.site/2686e68ecc3dc214",
+          "34280-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2686e68ecc3dc214/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag67417c3409322ff1d7a5cb8575debefc4h",
+          "34280-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-6_otakuhg_dub": "https://otakuhg.site/e/piqslh11dxgt",
+          "34280-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-6_otakuvid_dub": "https://otakuvid.online/embed/ccs4gnb1uqph",
+          "34280-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Keita Amano and Karen's Best Entertainment",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-7",
+      "sub": {
+        "HD-1": {
+          "34280-malep-7_vibeplayer_sub": "https://vibeplayer.site/46459186c3f9a5d4",
+          "34280-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46459186c3f9a5d4/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag5290cbff71b135e198d52019c1d7ec8d4h",
+          "34280-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-7_otakuvid_sub": "https://otakuvid.online/embed/maibs24k0iws",
+          "34280-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-7_vibeplayer_dub": "https://vibeplayer.site/09599c87003c1283",
+          "34280-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/09599c87003c1283/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag3bb28175303aad27dce8a35124fd5f304h",
+          "34280-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-7_otakuhg_dub": "https://otakuhg.site/e/4egwe4697upd",
+          "34280-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-7_otakuvid_dub": "https://otakuvid.online/embed/fpedeekiypv8",
+          "34280-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-7_vibeplayer_hsub": "https://vibeplayer.site/95d98d3752f771d5",
+          "34280-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95d98d3752f771d5/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag796d3f8b80614f98e843c65a8c6fdf524h",
+          "34280-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-7_otakuhg_hsub": "https://otakuhg.site/e/cpiggc7cipq9",
+          "34280-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/mrt3zxjwtn8x",
+          "34280-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-7_playmogo_hsub": "https://playmogo.com/e/qcnxq1ucd1hn",
+          "34280-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Erogamer and Watching Mode / Gamers and Half their Life Game",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-8",
+      "sub": {
+        "HD-1": {
+          "34280-malep-8_vibeplayer_sub": "https://vibeplayer.site/52e276c531fb5175",
+          "34280-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/52e276c531fb5175/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-8_vibeplayer_sub": "https://vibeplayer.site/agc5d8e680e444752ef61e6fae4399b3404h",
+          "34280-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-8_otakuhg_sub": "https://otakuhg.site/e/ssb5dluw3jt8",
+          "34280-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-8_otakuvid_sub": "https://otakuvid.online/embed/064cadhycgpf",
+          "34280-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-8_vibeplayer_dub": "https://vibeplayer.site/70ca9fdea829cd03",
+          "34280-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/70ca9fdea829cd03/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag7d21a2e161f58404520bb390a09e1f6e4h",
+          "34280-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-8_otakuhg_dub": "https://otakuhg.site/e/bgaikx1gz142",
+          "34280-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-8_otakuvid_dub": "https://otakuvid.online/embed/5u5gi3q43jr8",
+          "34280-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Chiaki Hoshinomori and Account Hack",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-9",
+      "sub": {
+        "HD-1": {
+          "34280-malep-9_vibeplayer_sub": "https://vibeplayer.site/69c14856f2cdea4e",
+          "34280-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/69c14856f2cdea4e/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag4cc382d3d532b22dbd718f77d15ee2744h",
+          "34280-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-9_otakuhg_sub": "https://otakuhg.site/e/zijyi7buos5t",
+          "34280-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-9_otakuvid_sub": "https://otakuvid.online/embed/r7ljvctnt3ha",
+          "34280-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-9_vibeplayer_dub": "https://vibeplayer.site/a1216a821a4eb57a",
+          "34280-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a1216a821a4eb57a/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag6d621fea41a8aa070e8c7cf156b26fa24h",
+          "34280-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-9_otakuhg_dub": "https://otakuhg.site/e/ni1vxrfy8vvy",
+          "34280-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-9_otakuvid_dub": "https://otakuvid.online/embed/lyca9wqmuflh",
+          "34280-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Gamers and Next Stage",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-10",
+      "sub": {
+        "HD-1": {
+          "34280-malep-10_vibeplayer_sub": "https://vibeplayer.site/fbf4e4b2d14d8e60",
+          "34280-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fbf4e4b2d14d8e60/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-10_vibeplayer_sub": "https://vibeplayer.site/agc61baef5ce355e90e34afd56d524f44c4h",
+          "34280-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-10_otakuvid_sub": "https://otakuvid.online/embed/tbbiwh4as4nc",
+          "34280-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-10_vibeplayer_dub": "https://vibeplayer.site/0062c8edf1647f15",
+          "34280-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0062c8edf1647f15/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-10_vibeplayer_dub": "https://vibeplayer.site/aga5145f039577804966178f8a7ffb3b324h",
+          "34280-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-10_otakuvid_dub": "https://otakuvid.online/embed/o10qevyqoqwu",
+          "34280-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-10_vibeplayer_hsub": "https://vibeplayer.site/26e2b6920d298f47",
+          "34280-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/26e2b6920d298f47/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag317a31f8a31e01299679a1d2fcf036b94h",
+          "34280-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-10_otakuhg_hsub": "https://otakuhg.site/e/yvaweckhhnb8",
+          "34280-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/68nqmdtztav8",
+          "34280-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-10_playmogo_hsub": "https://playmogo.com/e/uckezxq1hnl4",
+          "34280-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gamers and Youth Continue",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-11",
+      "sub": {
+        "HD-1": {
+          "34280-malep-11_vibeplayer_sub": "https://vibeplayer.site/fcfe244a83ec5631",
+          "34280-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fcfe244a83ec5631/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag071814ddbd66be63902084e3403dd3674h",
+          "34280-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-11_otakuhg_sub": "https://otakuhg.site/e/6gyqyxrgqu4h",
+          "34280-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-11_otakuvid_sub": "https://otakuvid.online/embed/6e8rlza3t98w",
+          "34280-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-11_vibeplayer_dub": "https://vibeplayer.site/5e4bd797d6d7d11e",
+          "34280-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e4bd797d6d7d11e/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag633362b7d0e902160ceb938d3f8abbcf4h",
+          "34280-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-11_otakuhg_dub": "https://otakuhg.site/e/4b7xur2adxn2",
+          "34280-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-11_otakuvid_dub": "https://otakuvid.online/embed/tm7wdaau1g3t",
+          "34280-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-11_vibeplayer_hsub": "https://vibeplayer.site/fc38dd837ce2817a",
+          "34280-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc38dd837ce2817a/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-11_vibeplayer_hsub": "https://vibeplayer.site/agd51bd075120f7dd93da91339b39fc6e44h",
+          "34280-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-11_otakuhg_hsub": "https://otakuhg.site/e/kfcfuukwgb9i",
+          "34280-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/u8ix9pmeooab",
+          "34280-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-11_playmogo_hsub": "https://playmogo.com/e/jv2ipkjka2nn",
+          "34280-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Intermission x Gamers and Billing System Talk",
+      "episode_url": "https://hianime.ad/watch/gamers/ep-12",
+      "sub": {
+        "HD-1": {
+          "34280-malep-12_vibeplayer_sub": "https://vibeplayer.site/311b0e352dce1d9b",
+          "34280-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/311b0e352dce1d9b/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag8bfc5ed73165698647fb1cc4371188844h",
+          "34280-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-12_otakuvid_sub": "https://otakuvid.online/embed/fzhdg27rme56",
+          "34280-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34280-malep-12_vibeplayer_dub": "https://vibeplayer.site/b93dfa4a54827d4c",
+          "34280-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b93dfa4a54827d4c/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-12_vibeplayer_dub": "https://vibeplayer.site/agb57fcf3bb4c2b372fbf9675aec6f4ec64h",
+          "34280-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-12_otakuvid_dub": "https://otakuvid.online/embed/khl7rytflmzu",
+          "34280-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34280-malep-12_vibeplayer_hsub": "https://vibeplayer.site/0b7f3c717255eea7",
+          "34280-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0b7f3c717255eea7/master.m3u8"
+        },
+        "HD-2": {
+          "34280-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ageb9e6a23320a967cab46b2180ce3aa884h",
+          "34280-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34280-malep-12_otakuhg_hsub": "https://otakuhg.site/e/kwu7ekbhcw80",
+          "34280-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34280-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/ksrbwoe6558l",
+          "34280-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34280-malep-12_playmogo_hsub": "https://playmogo.com/e/2fz8kv2ygg2v",
+          "34280-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
