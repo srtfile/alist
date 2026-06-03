@@ -1,0 +1,36 @@
+{
+  "anime_name": "Colorful Ninja Iromaki",
+  "anime_url": "https://hianime.ad/anime/colorful-ninja-iromaki",
+  "slug": "colorful-ninja-iromaki",
+  "mal_id": 841,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:21:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Color 01",
+      "episode_url": "https://hianime.ad/watch/colorful-ninja-iromaki/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "841-malep-1_vibeplayer_raw": "https://vibeplayer.site/793b3826fe4cc76e",
+          "841-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/793b3826fe4cc76e/master.m3u8"
+        },
+        "HD-2": {
+          "841-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag8054abdbfbe4e47eec7a0570217891534h",
+          "841-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "Earnvids": {
+          "841-malep-1_otakuvid_raw": "https://otakuvid.online/embed/cfwfu1fiuus3",
+          "841-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "841-malep-1_playmogo_raw": "https://playmogo.com/e/n0d595h5wx6y",
+          "841-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
