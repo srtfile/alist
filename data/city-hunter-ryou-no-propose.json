@@ -1,0 +1,52 @@
+{
+  "anime_name": "City Hunter Ryou No Propose",
+  "anime_url": "https://hianime.ad/anime/city-hunter-ryou-no-propose",
+  "slug": "city-hunter-ryou-no-propose",
+  "mal_id": 1470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:02:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "One Cool Sweeper! XYZ is a Dangerous Cocktail",
+      "episode_url": "https://hianime.ad/watch/city-hunter-ryou-no-propose/ep-1",
+      "sub": {
+        "HD-1": {
+          "1470-malep-1_vibeplayer_sub": "https://vibeplayer.site/26f280628ec2ed1b",
+          "1470-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26f280628ec2ed1b/master.m3u8"
+        },
+        "HD-2": {
+          "1470-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcd4815d84ed870ce76830a0b54886bc84h",
+          "1470-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1470-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qowuaiy469cd",
+          "1470-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/81e5c2862d951590",
+          "1470-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/81e5c2862d951590/master.m3u8"
+        },
+        "HD-2": {
+          "1470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf1d68ac037912b9461a2104ac394ecb24h",
+          "1470-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1470-malep-1_otakuhg_hsub": "https://otakuhg.site/e/e2s1iva8wvvl",
+          "1470-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1470-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xocoumuioofj",
+          "1470-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1470-malep-1_playmogo_hsub": "https://playmogo.com/e/7lpjl57dlbf4",
+          "1470-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
