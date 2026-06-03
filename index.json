@@ -9428,5 +9428,15 @@
     "captured_at": "2026-06-03T00:17:59",
     "file": "data/beyond-twilight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyond-twilight.json"
+  },
+  {
+    "slug": "beywarriors-cyborg-special",
+    "mal_id": 2011,
+    "anime_name": "Beywarriors Cyborg Special",
+    "anime_url": "https://hianime.ad/anime/beywarriors-cyborg-special",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T00:18:18",
+    "file": "data/beywarriors-cyborg-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beywarriors-cyborg-special.json"
   }
 ]
