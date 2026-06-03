@@ -1,0 +1,65 @@
+{
+  "anime_name": "Fatal Fury 2 The New Battle",
+  "anime_url": "https://hianime.ad/anime/fatal-fury-2-the-new-battle",
+  "slug": "fatal-fury-2-the-new-battle",
+  "mal_id": 49981,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:11:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Witch: Planet's Fate",
+      "episode_url": "https://hianime.ad/watch/fatal-fury-2-the-new-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_sub": "https://vibeplayer.site/53aee854faa95b5a",
+          "49981-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/53aee854faa95b5a/master.m3u8"
+        },
+        "HD-2": {
+          "49981-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag07cf428ca3ffa34dd5ab6f51c0af88924h",
+          "49981-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nbppuow4zrv5",
+          "49981-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_dub": "https://vibeplayer.site/f62b91927cbcd56f",
+          "49981-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f62b91927cbcd56f/master.m3u8"
+        },
+        "HD-2": {
+          "49981-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf0afeedb5481426326d0989c825eb81b4h",
+          "49981-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qagmmokvxwje",
+          "49981-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49981-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1465e5bba983e050",
+          "49981-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1465e5bba983e050/master.m3u8"
+        },
+        "HD-2": {
+          "49981-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag094cd0366fb3dbf37830fa73c104d03e4h",
+          "49981-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49981-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wk12z3dx9xsi",
+          "49981-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49981-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r70ob6cp49o9",
+          "49981-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49981-malep-1_playmogo_hsub": "https://playmogo.com/e/1lufnp54i0i0",
+          "49981-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
