@@ -1,0 +1,45 @@
+{
+  "anime_name": "Heaven Officials Blessing Special",
+  "anime_url": "https://hianime.ad/anime/heaven-officials-blessing-special",
+  "slug": "heaven-officials-blessing-special",
+  "mal_id": 850,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:18:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Off-Season Transfer Student",
+      "episode_url": "https://hianime.ad/watch/heaven-officials-blessing-special/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "850-malep-1_vibeplayer_dub": "https://vibeplayer.site/ce31dd1b0335f149",
+          "850-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ce31dd1b0335f149/master.m3u8"
+        },
+        "StreamHG": {
+          "850-malep-1_otakuhg_dub": "https://otakuhg.site/e/q0ma24d48o28",
+          "850-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "850-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6cpm3yq0ed8h",
+          "850-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "850-malep-1_vibeplayer_raw": "https://vibeplayer.site/46ff5eb506ae798d",
+          "850-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/46ff5eb506ae798d/master.m3u8"
+        },
+        "StreamHG": {
+          "850-malep-1_otakuhg_raw": "https://otakuhg.site/e/5rsd6mjhrmss",
+          "850-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "850-malep-1_otakuvid_raw": "https://otakuvid.online/embed/9w64naqqea6c",
+          "850-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
