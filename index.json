@@ -14468,5 +14468,15 @@
     "captured_at": "2026-06-03T06:06:44",
     "file": "data/classicaloid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classicaloid.json"
+  },
+  {
+    "slug": "classicaloid-2",
+    "mal_id": 35334,
+    "anime_name": "Classicaloid 2",
+    "anime_url": "https://hianime.ad/anime/classicaloid-2",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T06:07:20",
+    "file": "data/classicaloid-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classicaloid-2.json"
   }
 ]
