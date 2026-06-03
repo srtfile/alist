@@ -1,0 +1,69 @@
+{
+  "anime_name": "Detective Conan The Sunflowers Of Inferno",
+  "anime_url": "https://hianime.ad/anime/detective-conan-the-sunflowers-of-inferno",
+  "slug": "detective-conan-the-sunflowers-of-inferno",
+  "mal_id": 50010,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:13:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Criminal Arrives",
+      "episode_url": "https://hianime.ad/watch/detective-conan-the-sunflowers-of-inferno/ep-1",
+      "sub": {
+        "HD-1": {
+          "50010-malep-1_vibeplayer_sub": "https://vibeplayer.site/b33709132b2b67de",
+          "50010-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b33709132b2b67de/master.m3u8"
+        },
+        "HD-2": {
+          "50010-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag21f2edf212fea1a7ae6c32a5b28f92e54h",
+          "50010-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50010-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8w6fdtbwxi44",
+          "50010-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "50010-malep-1_playmogo_sub": "https://playmogo.com/e/5035sg7zcrlm",
+          "50010-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "50010-malep-1_vibeplayer_dub": "https://vibeplayer.site/afd9f040b55e13cf",
+          "50010-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/afd9f040b55e13cf/master.m3u8"
+        },
+        "HD-2": {
+          "50010-malep-1_vibeplayer_dub": "https://vibeplayer.site/agc7d72619d158677ca88a5a2e081d8c144h",
+          "50010-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "50010-malep-1_otakuvid_dub": "https://otakuvid.online/embed/b2y1zknjyuwn",
+          "50010-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "50010-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2d64dfddf6390b83",
+          "50010-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2d64dfddf6390b83/master.m3u8"
+        },
+        "HD-2": {
+          "50010-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag98e697c1be98fe357387d15fa3b472c94h",
+          "50010-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "50010-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r4cag05vmz38",
+          "50010-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50010-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c7rorj5fyyzp",
+          "50010-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50010-malep-1_playmogo_hsub": "https://playmogo.com/e/asm1abce2n3x",
+          "50010-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
