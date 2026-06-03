@@ -2448,5 +2448,15 @@
     "captured_at": "2026-06-03T18:34:59",
     "file": "data/golden-boy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-boy.json"
+  },
+  {
+    "slug": "golden-kamuy",
+    "mal_id": 36028,
+    "anime_name": "Golden Kamuy",
+    "anime_url": "https://hianime.ad/anime/golden-kamuy",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:35:15",
+    "file": "data/golden-kamuy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-kamuy.json"
   }
 ]
