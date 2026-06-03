@@ -1,0 +1,52 @@
+{
+  "anime_name": "Daigo Of Fire Company",
+  "anime_url": "https://hianime.ad/anime/daigo-of-fire-company",
+  "slug": "daigo-of-fire-company",
+  "mal_id": 40595,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:33:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter: The Two Nations' Ultimate Weapons",
+      "episode_url": "https://hianime.ad/watch/daigo-of-fire-company/ep-1",
+      "sub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_sub": "https://vibeplayer.site/a0f770f1e434f0ed",
+          "40595-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0f770f1e434f0ed/master.m3u8"
+        },
+        "HD-2": {
+          "40595-malep-1_vibeplayer_sub": "https://vibeplayer.site/agaca5308e64b9011c092022ce890b49b54h",
+          "40595-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h5kms5vd3988",
+          "40595-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "40595-malep-1_playmogo_sub": "https://playmogo.com/e/6eiop73k9gah",
+          "40595-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee07344e44092956",
+          "40595-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee07344e44092956/master.m3u8"
+        },
+        "HD-2": {
+          "40595-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag62d4b580002c347c2f1dc53de217950a4h",
+          "40595-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/68cbveo6hyo7",
+          "40595-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40595-malep-1_playmogo_hsub": "https://playmogo.com/e/h0mxainqh47v",
+          "40595-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
