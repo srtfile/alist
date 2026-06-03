@@ -1,0 +1,60 @@
+{
+  "anime_name": "Doraemon Movie 31 Nobita And The New Steel Troops Angel Wings",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-31-nobita-and-the-new-steel-troops-angel-wings",
+  "slug": "doraemon-movie-31-nobita-and-the-new-steel-troops-angel-wings",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:04:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-31-nobita-and-the-new-steel-troops-angel-wings/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e9f7cb4de05c5dbc",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e9f7cb4de05c5dbc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agadb193534bdd24df552a44f64a5c28af4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/6lf1l754k9mb",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/by1amlcq4ssa",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/8ielv43auwwz",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/590e4b2b2e21bef0",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/590e4b2b2e21bef0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1218a9fd15110cf4943218bfe6e1827c4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/7vcvgsmo1iax",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/may0628p2s28",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/v46aqtr2btay",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
