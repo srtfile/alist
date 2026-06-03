@@ -10278,5 +10278,15 @@
     "captured_at": "2026-06-03T00:45:12",
     "file": "data/bleach-thousand-year-blood-war-arc.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bleach-thousand-year-blood-war-arc.json"
+  },
+  {
+    "slug": "blend-s",
+    "mal_id": 34618,
+    "anime_name": "Blend S",
+    "anime_url": "https://hianime.ad/anime/blend-s",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:45:34",
+    "file": "data/blend-s.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blend-s.json"
   }
 ]
