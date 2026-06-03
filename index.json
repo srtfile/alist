@@ -9868,5 +9868,15 @@
     "captured_at": "2026-06-03T00:30:41",
     "file": "data/black-cat.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-cat.json"
+  },
+  {
+    "slug": "black-clover",
+    "mal_id": 34572,
+    "anime_name": "Black Clover",
+    "anime_url": "https://hianime.ad/anime/black-clover",
+    "total_episodes": 170,
+    "captured_at": "2026-06-03T00:31:11",
+    "file": "data/black-clover.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/black-clover.json"
   }
 ]
