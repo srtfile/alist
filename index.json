@@ -24168,5 +24168,15 @@
     "captured_at": "2026-06-03T12:56:37",
     "file": "data/fragtime.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fragtime.json"
+  },
+  {
+    "slug": "frame-arms-girl",
+    "mal_id": 34427,
+    "anime_name": "Frame Arms Girl",
+    "anime_url": "https://hianime.ad/anime/frame-arms-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:56:48",
+    "file": "data/frame-arms-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/frame-arms-girl.json"
   }
 ]
