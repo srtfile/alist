@@ -1898,5 +1898,15 @@
     "captured_at": "2026-06-03T18:10:41",
     "file": "data/glass-fleet-the-legend-of-the-wind-of-the-universe.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-fleet-the-legend-of-the-wind-of-the-universe.json"
+  },
+  {
+    "slug": "glass-maiden",
+    "mal_id": 3840,
+    "anime_name": "Glass Maiden",
+    "anime_url": "https://hianime.ad/anime/glass-maiden",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:11:16",
+    "file": "data/glass-maiden.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/glass-maiden.json"
   }
 ]
