@@ -11698,5 +11698,15 @@
     "captured_at": "2026-06-03T03:00:53",
     "file": "data/buddha-2-the-endless-journey.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/buddha-2-the-endless-journey.json"
+  },
+  {
+    "slug": "buddy-complex",
+    "mal_id": 21437,
+    "anime_name": "Buddy Complex",
+    "anime_url": "https://hianime.ad/anime/buddy-complex",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T03:01:05",
+    "file": "data/buddy-complex.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/buddy-complex.json"
   }
 ]
