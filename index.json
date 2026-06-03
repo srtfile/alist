@@ -19488,5 +19488,15 @@
     "captured_at": "2026-06-03T09:12:50",
     "file": "data/double-decker-doug-kirill-extra.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/double-decker-doug-kirill-extra.json"
+  },
+  {
+    "slug": "double-j",
+    "mal_id": 10838,
+    "anime_name": "Double J",
+    "anime_url": "https://hianime.ad/anime/double-j",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T09:13:02",
+    "file": "data/double-j.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/double-j.json"
   }
 ]
