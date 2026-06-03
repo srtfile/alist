@@ -11998,5 +11998,15 @@
     "captured_at": "2026-06-03T03:53:20",
     "file": "data/busted-darklord.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/busted-darklord.json"
+  },
+  {
+    "slug": "buta",
+    "mal_id": 37450,
+    "anime_name": "Buta",
+    "anime_url": "https://hianime.ad/anime/buta",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T03:53:54",
+    "file": "data/buta.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/buta.json"
   }
 ]
