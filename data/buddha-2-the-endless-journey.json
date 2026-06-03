@@ -1,0 +1,60 @@
+{
+  "anime_name": "Buddha 2 The Endless Journey",
+  "anime_url": "https://hianime.ad/anime/buddha-2-the-endless-journey",
+  "slug": "buddha-2-the-endless-journey",
+  "mal_id": 886,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:00:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Don't Tempt Me!!",
+      "episode_url": "https://hianime.ad/watch/buddha-2-the-endless-journey/ep-1",
+      "sub": {
+        "HD-1": {
+          "886-malep-1_vibeplayer_sub": "https://vibeplayer.site/cc5b68848dcdc5e4",
+          "886-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cc5b68848dcdc5e4/master.m3u8"
+        },
+        "HD-2": {
+          "886-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2d7ddf663a4bad09fbeaaf1115ec78a14h",
+          "886-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "886-malep-1_otakuhg_sub": "https://otakuhg.site/e/zo0t3h9hv277",
+          "886-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "886-malep-1_otakuvid_sub": "https://otakuvid.online/embed/67ovd3n6yom9",
+          "886-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "886-malep-1_playmogo_sub": "https://playmogo.com/e/di70m9ut6ftv",
+          "886-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "886-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b8c261453820c64d",
+          "886-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8c261453820c64d/master.m3u8"
+        },
+        "HD-2": {
+          "886-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag065be25d04fc963830baeddd986ce28f4h",
+          "886-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "886-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l9vj7b5i7stv",
+          "886-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "886-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ksgtr9c34786",
+          "886-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "886-malep-1_playmogo_hsub": "https://playmogo.com/e/u2yqhomo57vl",
+          "886-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
