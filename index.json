@@ -708,5 +708,15 @@
     "captured_at": "2026-06-03T17:28:33",
     "file": "data/ghost-concert-missing-songs.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-concert-missing-songs.json"
+  },
+  {
+    "slug": "ghost-hound",
+    "mal_id": 2596,
+    "anime_name": "Ghost Hound",
+    "anime_url": "https://hianime.ad/anime/ghost-hound",
+    "total_episodes": 22,
+    "captured_at": "2026-06-03T17:28:51",
+    "file": "data/ghost-hound.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-hound.json"
   }
 ]
