@@ -16948,5 +16948,15 @@
     "captured_at": "2026-06-03T07:52:29",
     "file": "data/death-billiards.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/death-billiards.json"
+  },
+  {
+    "slug": "death-hall",
+    "mal_id": 789,
+    "anime_name": "Death Hall",
+    "anime_url": "https://hianime.ad/anime/death-hall",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T07:52:40",
+    "file": "data/death-hall.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/death-hall.json"
   }
 ]
