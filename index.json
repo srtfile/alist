@@ -2228,5 +2228,15 @@
     "captured_at": "2026-06-03T18:25:49",
     "file": "data/god-mazinger.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-mazinger.json"
+  },
+  {
+    "slug": "god-of-deception",
+    "mal_id": 41353,
+    "anime_name": "God Of Deception",
+    "anime_url": "https://hianime.ad/anime/god-of-deception",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:26:21",
+    "file": "data/god-of-deception.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-deception.json"
   }
 ]
