@@ -16828,5 +16828,15 @@
     "captured_at": "2026-06-03T07:49:02",
     "file": "data/dd-fist-of-the-north-star-2-strawberry-flavor-plus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dd-fist-of-the-north-star-2-strawberry-flavor-plus.json"
+  },
+  {
+    "slug": "dead-account",
+    "mal_id": 61196,
+    "anime_name": "Dead Account",
+    "anime_url": "https://hianime.ad/anime/dead-account",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:49:22",
+    "file": "data/dead-account.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dead-account.json"
   }
 ]
