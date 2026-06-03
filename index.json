@@ -23508,5 +23508,15 @@
     "captured_at": "2026-06-03T12:31:44",
     "file": "data/fish-in-the-trap.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fish-in-the-trap.json"
+  },
+  {
+    "slug": "fist-of-the-blue-sky",
+    "mal_id": 1541,
+    "anime_name": "Fist Of The Blue Sky",
+    "anime_url": "https://hianime.ad/anime/fist-of-the-blue-sky",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T12:31:55",
+    "file": "data/fist-of-the-blue-sky.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fist-of-the-blue-sky.json"
   }
 ]
