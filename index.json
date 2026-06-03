@@ -20418,5 +20418,15 @@
     "captured_at": "2026-06-03T09:56:35",
     "file": "data/dragoon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragoon.json"
+  },
+  {
+    "slug": "dramatical-murder",
+    "mal_id": 23333,
+    "anime_name": "Dramatical Murder",
+    "anime_url": "https://hianime.ad/anime/dramatical-murder",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:56:47",
+    "file": "data/dramatical-murder.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dramatical-murder.json"
   }
 ]
