@@ -5478,5 +5478,15 @@
     "captured_at": "2026-06-03T20:21:39",
     "file": "data/heavens-memo-pad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavens-memo-pad.json"
+  },
+  {
+    "slug": "heavenly-brick-hero",
+    "mal_id": 53393,
+    "anime_name": "Heavenly Brick Hero",
+    "anime_url": "https://hianime.ad/anime/heavenly-brick-hero",
+    "total_episodes": 18,
+    "captured_at": "2026-06-03T20:22:01",
+    "file": "data/heavenly-brick-hero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/heavenly-brick-hero.json"
   }
 ]
