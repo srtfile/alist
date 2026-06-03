@@ -15788,5 +15788,15 @@
     "captured_at": "2026-06-03T06:49:08",
     "file": "data/cross-road.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cross-road.json"
+  },
+  {
+    "slug": "crossing-time",
+    "mal_id": 37188,
+    "anime_name": "Crossing Time",
+    "anime_url": "https://hianime.ad/anime/crossing-time",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:49:21",
+    "file": "data/crossing-time.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/crossing-time.json"
   }
 ]
