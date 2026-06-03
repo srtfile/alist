@@ -2438,5 +2438,15 @@
     "captured_at": "2026-06-03T18:34:48",
     "file": "data/gold-kingdom-and-water-kingdom.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gold-kingdom-and-water-kingdom.json"
+  },
+  {
+    "slug": "golden-boy",
+    "mal_id": 36028,
+    "anime_name": "Golden Boy",
+    "anime_url": "https://hianime.ad/anime/golden-boy",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T18:34:59",
+    "file": "data/golden-boy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-boy.json"
   }
 ]
