@@ -16478,5 +16478,15 @@
     "captured_at": "2026-06-03T07:38:28",
     "file": "data/dances-with-the-dragons.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dances-with-the-dragons.json"
+  },
+  {
+    "slug": "danchigai",
+    "mal_id": 30127,
+    "anime_name": "Danchigai",
+    "anime_url": "https://hianime.ad/anime/danchigai",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:38:47",
+    "file": "data/danchigai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/danchigai.json"
   }
 ]
