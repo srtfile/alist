@@ -20538,5 +20538,15 @@
     "captured_at": "2026-06-03T09:59:32",
     "file": "data/drifters-the-outlandish-knight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/drifters-the-outlandish-knight.json"
+  },
+  {
+    "slug": "drifting-dragons",
+    "mal_id": 39531,
+    "anime_name": "Drifting Dragons",
+    "anime_url": "https://hianime.ad/anime/drifting-dragons",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T09:59:42",
+    "file": "data/drifting-dragons.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/drifting-dragons.json"
   }
 ]
