@@ -14478,5 +14478,15 @@
     "captured_at": "2026-06-03T06:07:20",
     "file": "data/classicaloid-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classicaloid-2.json"
+  },
+  {
+    "slug": "classroom-for-heroes",
+    "mal_id": 49894,
+    "anime_name": "Classroom For Heroes",
+    "anime_url": "https://hianime.ad/anime/classroom-for-heroes",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T06:07:55",
+    "file": "data/classroom-for-heroes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/classroom-for-heroes.json"
   }
 ]
