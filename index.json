@@ -10828,5 +10828,15 @@
     "captured_at": "2026-06-03T01:06:13",
     "file": "data/bluer-than-indigo-fate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bluer-than-indigo-fate.json"
+  },
+  {
+    "slug": "bluer-than-indigo-fate-miyuki",
+    "mal_id": 394,
+    "anime_name": "Bluer Than Indigo Fate Miyuki",
+    "anime_url": "https://hianime.ad/anime/bluer-than-indigo-fate-miyuki",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T01:06:34",
+    "file": "data/bluer-than-indigo-fate-miyuki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bluer-than-indigo-fate-miyuki.json"
   }
 ]
