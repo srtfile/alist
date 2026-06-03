@@ -6838,5 +6838,15 @@
     "captured_at": "2026-06-03T21:14:15",
     "file": "data/his-and-her-circumstances.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/his-and-her-circumstances.json"
+  },
+  {
+    "slug": "hitohira",
+    "mal_id": 1721,
+    "anime_name": "Hitohira",
+    "anime_url": "https://hianime.ad/anime/hitohira",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:14:50",
+    "file": "data/hitohira.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hitohira.json"
   }
 ]
