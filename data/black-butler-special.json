@@ -1,0 +1,52 @@
+{
+  "anime_name": "Black Butler Special",
+  "anime_url": "https://hianime.ad/anime/black-butler-special",
+  "slug": "black-butler-special",
+  "mal_id": 4898,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:29:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "His Butler, Able",
+      "episode_url": "https://hianime.ad/watch/black-butler-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "4898-malep-1_vibeplayer_sub": "https://vibeplayer.site/e6c59dfa07473b06",
+          "4898-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6c59dfa07473b06/master.m3u8"
+        },
+        "HD-2": {
+          "4898-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcd382bfda1a5b0feefa83c94d730ab534h",
+          "4898-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4898-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3dsqekbh5b0u",
+          "4898-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4898-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d0b533df274d1316",
+          "4898-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d0b533df274d1316/master.m3u8"
+        },
+        "HD-2": {
+          "4898-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9bea54b19211892f630e359105a34ddc4h",
+          "4898-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4898-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cqppez7cftw7",
+          "4898-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4898-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k1wb7jy1mkt9",
+          "4898-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4898-malep-1_playmogo_hsub": "https://playmogo.com/e/9bvkjdlnamnk",
+          "4898-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
