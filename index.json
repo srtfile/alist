@@ -6558,5 +6558,15 @@
     "captured_at": "2026-06-03T21:00:53",
     "file": "data/higurashi-no-naku-koro-ni-special-nekogoroshi-hen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/higurashi-no-naku-koro-ni-special-nekogoroshi-hen.json"
+  },
+  {
+    "slug": "higurashi-when-they-cry-gou",
+    "mal_id": 41006,
+    "anime_name": "Higurashi When They Cry Gou",
+    "anime_url": "https://hianime.ad/anime/higurashi-when-they-cry-gou",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T21:01:05",
+    "file": "data/higurashi-when-they-cry-gou.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/higurashi-when-they-cry-gou.json"
   }
 ]
