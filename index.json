@@ -23028,5 +23028,15 @@
     "captured_at": "2026-06-03T12:04:19",
     "file": "data/fei-ren-zai-4th-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fei-ren-zai-4th-season.json"
+  },
+  {
+    "slug": "fei-ren-zai-specials",
+    "mal_id": 9806,
+    "anime_name": "Fei Ren Zai Specials",
+    "anime_url": "https://hianime.ad/anime/fei-ren-zai-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T12:04:40",
+    "file": "data/fei-ren-zai-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fei-ren-zai-specials.json"
   }
 ]
