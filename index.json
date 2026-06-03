@@ -1478,5 +1478,15 @@
     "captured_at": "2026-06-03T17:58:25",
     "file": "data/gintama-yorinuki-gintama-san-on-theater-2d.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-yorinuki-gintama-san-on-theater-2d.json"
+  },
+  {
+    "slug": "gintama-silver-soul-arc",
+    "mal_id": 36838,
+    "anime_name": "Gintama Silver Soul Arc",
+    "anime_url": "https://hianime.ad/anime/gintama-silver-soul-arc",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T17:58:37",
+    "file": "data/gintama-silver-soul-arc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gintama-silver-soul-arc.json"
   }
 ]
