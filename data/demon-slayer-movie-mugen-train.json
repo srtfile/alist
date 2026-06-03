@@ -1,0 +1,77 @@
+{
+  "anime_name": "Demon Slayer Movie Mugen Train",
+  "anime_url": "https://hianime.ad/anime/demon-slayer-movie-mugen-train",
+  "slug": "demon-slayer-movie-mugen-train",
+  "mal_id": 49926,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:02:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Flame Hashira Kyojuro Rengoku",
+      "episode_url": "https://hianime.ad/watch/demon-slayer-movie-mugen-train/ep-1",
+      "sub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_sub": "https://vibeplayer.site/e96fc34244fdb648",
+          "49926-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e96fc34244fdb648/master.m3u8"
+        },
+        "HD-2": {
+          "49926-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga67302b3f6bbaeafc495290726a9fb814h",
+          "49926-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "49926-malep-1_otakuhg_sub": "https://otakuhg.site/e/rb74uw90eavd",
+          "49926-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0opnb0ghvsm8",
+          "49926-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49926-malep-1_playmogo_sub": "https://playmogo.com/e/9uiv42jxi3kk",
+          "49926-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_dub": "https://vibeplayer.site/9c8e241ef43ae952",
+          "49926-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9c8e241ef43ae952/master.m3u8"
+        },
+        "HD-2": {
+          "49926-malep-1_vibeplayer_dub": "https://vibeplayer.site/agc6bf83b5e15a795a4722c95e0cbbcef64h",
+          "49926-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "49926-malep-1_otakuhg_dub": "https://otakuhg.site/e/i5tp6c0dcz7j",
+          "49926-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2m1m51mrgkxd",
+          "49926-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_hsub": "https://vibeplayer.site/38aceaaa1d2f04f9",
+          "49926-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/38aceaaa1d2f04f9/master.m3u8"
+        },
+        "HD-2": {
+          "49926-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9ffd7fcdbf870e196099cdfeec1677db4h",
+          "49926-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49926-malep-1_otakuhg_hsub": "https://otakuhg.site/e/e6c143czc7pd",
+          "49926-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ej48712fc0gx",
+          "49926-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49926-malep-1_playmogo_hsub": "https://playmogo.com/e/o8841q42ikxn",
+          "49926-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
