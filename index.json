@@ -22168,5 +22168,15 @@
     "captured_at": "2026-06-03T10:56:05",
     "file": "data/fairies-albums-3rd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairies-albums-3rd-season.json"
+  },
+  {
+    "slug": "fairies-albums-4",
+    "mal_id": 11809,
+    "anime_name": "Fairies Albums 4",
+    "anime_url": "https://hianime.ad/anime/fairies-albums-4",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:56:24",
+    "file": "data/fairies-albums-4.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairies-albums-4.json"
   }
 ]
