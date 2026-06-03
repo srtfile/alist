@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fly Peek The Whale",
+  "anime_url": "https://hianime.ad/anime/fly-peek-the-whale",
+  "slug": "fly-peek-the-whale",
+  "mal_id": 41389,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:44:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Marriage",
+      "episode_url": "https://hianime.ad/watch/fly-peek-the-whale/ep-1",
+      "sub": {
+        "HD-1": {
+          "41389-malep-1_vibeplayer_sub": "https://vibeplayer.site/8767dea4261608f8",
+          "41389-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8767dea4261608f8/master.m3u8"
+        },
+        "HD-2": {
+          "41389-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb9a3d04d9dc5ee4238763d023d74c86a4h",
+          "41389-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "41389-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8jq5qwl0wd4k",
+          "41389-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "41389-malep-1_playmogo_sub": "https://playmogo.com/e/emdj56oylv28",
+          "41389-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41389-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2331957013e15026",
+          "41389-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2331957013e15026/master.m3u8"
+        },
+        "HD-2": {
+          "41389-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age71c91725e0eabca6e07dfb58e871db14h",
+          "41389-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41389-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5b8xr6mbwi56",
+          "41389-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41389-malep-1_playmogo_hsub": "https://playmogo.com/e/vt7zkqrw9mlc",
+          "41389-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
