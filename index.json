@@ -13018,5 +13018,15 @@
     "captured_at": "2026-06-03T05:02:46",
     "file": "data/castlevania-4th-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/castlevania-4th-season.json"
+  },
+  {
+    "slug": "cat",
+    "mal_id": 2043,
+    "anime_name": "Cat",
+    "anime_url": "https://hianime.ad/anime/cat",
+    "total_episodes": 73,
+    "captured_at": "2026-06-03T05:03:06",
+    "file": "data/cat.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cat.json"
   }
 ]
