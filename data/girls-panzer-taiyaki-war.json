@@ -1,0 +1,53 @@
+{
+  "anime_name": "Girls Panzer Taiyaki War",
+  "anime_url": "https://hianime.ad/anime/girls-panzer-taiyaki-war",
+  "slug": "girls-panzer-taiyaki-war",
+  "mal_id": 14131,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:05:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tankery, Here It Comes",
+      "episode_url": "https://hianime.ad/watch/girls-panzer-taiyaki-war/ep-1",
+      "sub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_sub": "https://vibeplayer.site/e238996135537eab",
+          "14131-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e238996135537eab/master.m3u8"
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t4d7jfjbwrze",
+          "14131-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_dub": "https://vibeplayer.site/5a0b42b4bc4dfdd6",
+          "14131-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a0b42b4bc4dfdd6/master.m3u8"
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_dub": "https://otakuvid.online/embed/skh93x06ck8a",
+          "14131-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2e5d4b5c42664372",
+          "14131-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e5d4b5c42664372/master.m3u8"
+        },
+        "StreamHG": {
+          "14131-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4wijnehnhd5r",
+          "14131-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0mmf7dah5tk0",
+          "14131-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14131-malep-1_playmogo_hsub": "https://playmogo.com/e/8ajkei1npf0y",
+          "14131-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
