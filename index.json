@@ -23188,5 +23188,15 @@
     "captured_at": "2026-06-03T12:17:02",
     "file": "data/fighting-for-the-throne.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fighting-for-the-throne.json"
+  },
+  {
+    "slug": "fighting-spirit",
+    "mal_id": 263,
+    "anime_name": "Fighting Spirit",
+    "anime_url": "https://hianime.ad/anime/fighting-spirit",
+    "total_episodes": 75,
+    "captured_at": "2026-06-03T12:18:01",
+    "file": "data/fighting-spirit.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fighting-spirit.json"
   }
 ]
