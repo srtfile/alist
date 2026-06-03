@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cooking With Valkyries Spring Festival Special",
+  "anime_url": "https://hianime.ad/anime/cooking-with-valkyries-spring-festival-special",
+  "slug": "cooking-with-valkyries-spring-festival-special",
+  "mal_id": 53446,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:30:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Absurd Skill Is Unexpectedly Useful",
+      "episode_url": "https://hianime.ad/watch/cooking-with-valkyries-spring-festival-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "53446-malep-1_vibeplayer_sub": "https://vibeplayer.site/f589d2a2378fd334",
+          "53446-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f589d2a2378fd334/master.m3u8"
+        },
+        "HD-2": {
+          "53446-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcc909574c0983bb1cfae289585e41c494h",
+          "53446-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53446-malep-1_otakuvid_sub": "https://otakuvid.online/embed/za4jbe0xr9bv",
+          "53446-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53446-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77dd7acd8e3bf5af",
+          "53446-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77dd7acd8e3bf5af/master.m3u8"
+        },
+        "HD-2": {
+          "53446-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8908a4e35d54b2f2fc7078edd4e36dbf4h",
+          "53446-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53446-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pt15k5ffzqlk",
+          "53446-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53446-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7sdi5c4f688v",
+          "53446-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53446-malep-1_playmogo_hsub": "https://playmogo.com/e/opszz30jiphs",
+          "53446-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
