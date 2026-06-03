@@ -1,0 +1,52 @@
+{
+  "anime_name": "G On Riders Special",
+  "anime_url": "https://hianime.ad/anime/g-on-riders-special",
+  "slug": "g-on-riders-special",
+  "mal_id": 1623,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:30:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/g-on-riders-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "1623-malep-1_vibeplayer_sub": "https://vibeplayer.site/283958a85571f2ea",
+          "1623-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/283958a85571f2ea/master.m3u8"
+        },
+        "HD-2": {
+          "1623-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf8ba4c32d5c077817fdc344fdeff62da4h",
+          "1623-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1623-malep-1_otakuvid_sub": "https://otakuvid.online/embed/quoig2cbnj9j",
+          "1623-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1623-malep-1_vibeplayer_hsub": "https://vibeplayer.site/935e1589cb9dbe91",
+          "1623-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/935e1589cb9dbe91/master.m3u8"
+        },
+        "HD-2": {
+          "1623-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdf69cc41f9128b0849746e6aa71baec74h",
+          "1623-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1623-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7mn9chx1rsuq",
+          "1623-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1623-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nkv7umbpaww1",
+          "1623-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1623-malep-1_playmogo_hsub": "https://playmogo.com/e/5yx256nxgej4",
+          "1623-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
