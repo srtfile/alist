@@ -1,0 +1,44 @@
+{
+  "anime_name": "Birds Song Birds Poem",
+  "anime_url": "https://hianime.ad/anime/birds-song-birds-poem",
+  "slug": "birds-song-birds-poem",
+  "mal_id": 3969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:24:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/birds-song-birds-poem/ep-1",
+      "sub": {
+        "HD-1": {
+          "3969-malep-1_vibeplayer_sub": "https://vibeplayer.site/6ccffe9e1ebccf26",
+          "3969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ccffe9e1ebccf26/master.m3u8"
+        },
+        "HD-2": {
+          "3969-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag77681b3498fd06bf7140068cf39f12964h",
+          "3969-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r66836ewom1a",
+          "3969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/668b31d54ef54b56",
+          "3969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/668b31d54ef54b56/master.m3u8"
+        },
+        "HD-2": {
+          "3969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agda9d6ad5413a4e8f5ef91909d95023ad4h",
+          "3969-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vpmq7su7e3ya",
+          "3969-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
