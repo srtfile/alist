@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 12 Arashi Wo Yobu Yuuhi No Kasukabe Boys",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys",
+  "slug": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:41:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2e7a1a5287bfe8e5",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e7a1a5287bfe8e5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3de060d662396ff7575bc248c92191704h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ttltuedwjnz0",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/hsd51raiip66",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/23124664f3dd1c41",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/23124664f3dd1c41/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag0403fc19fe141e206b540eaa044b74d84h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/eifhpen36lvd",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fxe12fye0ahg",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/o7j0r4118mx5",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
