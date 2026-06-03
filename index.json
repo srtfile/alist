@@ -9478,5 +9478,15 @@
     "captured_at": "2026-06-03T00:19:22",
     "file": "data/big-order-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-order-tv.json"
+  },
+  {
+    "slug": "big-talk-youth-tour",
+    "mal_id": 33788,
+    "anime_name": "Big Talk Youth Tour",
+    "anime_url": "https://hianime.ad/anime/big-talk-youth-tour",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T00:19:41",
+    "file": "data/big-talk-youth-tour.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/big-talk-youth-tour.json"
   }
 ]
