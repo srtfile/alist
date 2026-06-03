@@ -1,0 +1,61 @@
+{
+  "anime_name": "Burn Up",
+  "anime_url": "https://hianime.ad/anime/burn-up",
+  "slug": "burn-up",
+  "mal_id": 370,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:08:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Warrior Team Deploys!",
+      "episode_url": "https://hianime.ad/watch/burn-up/ep-1",
+      "sub": {
+        "HD-1": {
+          "370-malep-1_vibeplayer_sub": "https://vibeplayer.site/96ba6c908c1490ff",
+          "370-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96ba6c908c1490ff/master.m3u8"
+        },
+        "HD-2": {
+          "370-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag003118d9655d6c307487784dbe311e454h",
+          "370-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "370-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ro9tw6ugvl18",
+          "370-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "370-malep-1_vibeplayer_dub": "https://vibeplayer.site/5ec5c3cb32acef48",
+          "370-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5ec5c3cb32acef48/master.m3u8"
+        },
+        "HD-2": {
+          "370-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2b429415a69c8428f643438f6034b33f4h",
+          "370-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "370-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ktbzozvdxaw4",
+          "370-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "370-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8fc1e429103ae064",
+          "370-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8fc1e429103ae064/master.m3u8"
+        },
+        "HD-2": {
+          "370-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag24408e5edb6d637283633d3742be75c64h",
+          "370-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "370-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/40pyjbrj1s66",
+          "370-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "370-malep-1_playmogo_hsub": "https://playmogo.com/e/7sy169n4hf2k",
+          "370-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
