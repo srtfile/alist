@@ -17958,5 +17958,15 @@
     "captured_at": "2026-06-03T08:19:55",
     "file": "data/devils-line.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devils-line.json"
+  },
+  {
+    "slug": "devour-eternity",
+    "mal_id": 41025,
+    "anime_name": "Devour Eternity",
+    "anime_url": "https://hianime.ad/anime/devour-eternity",
+    "total_episodes": 30,
+    "captured_at": "2026-06-03T08:20:16",
+    "file": "data/devour-eternity.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/devour-eternity.json"
   }
 ]
