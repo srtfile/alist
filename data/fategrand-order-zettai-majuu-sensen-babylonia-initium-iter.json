@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fategrand Order Zettai Majuu Sensen Babylonia Initium Iter",
+  "anime_url": "https://hianime.ad/anime/fategrand-order-zettai-majuu-sensen-babylonia-initium-iter",
+  "slug": "fategrand-order-zettai-majuu-sensen-babylonia-initium-iter",
+  "mal_id": 38084,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:15:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolute Demonic Front Babylonia",
+      "episode_url": "https://hianime.ad/watch/fategrand-order-zettai-majuu-sensen-babylonia-initium-iter/ep-1",
+      "sub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/551d4c5bc7c0ebb5",
+          "38084-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/551d4c5bc7c0ebb5/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag373db41bddce45265cf23071a75ea1bc4h",
+          "38084-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gtkcc2q7vdo6",
+          "38084-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30cda78cd91b5833",
+          "38084-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30cda78cd91b5833/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag120ddd9c70a0632d56370078bb8af47b4h",
+          "38084-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1malyb0ndmeo",
+          "38084-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zzo47tr9oobi",
+          "38084-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38084-malep-1_playmogo_hsub": "https://playmogo.com/e/4om3xc4egyuj",
+          "38084-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
