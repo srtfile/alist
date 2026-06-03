@@ -10038,5 +10038,15 @@
     "captured_at": "2026-06-03T00:38:22",
     "file": "data/blackfox.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blackfox.json"
+  },
+  {
+    "slug": "blade-soul",
+    "mal_id": 22547,
+    "anime_name": "Blade Soul",
+    "anime_url": "https://hianime.ad/anime/blade-soul",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:38:32",
+    "file": "data/blade-soul.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blade-soul.json"
   }
 ]
