@@ -2678,5 +2678,15 @@
     "captured_at": "2026-06-03T18:44:09",
     "file": "data/goodbye-mr-despair-oad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/goodbye-mr-despair-oad.json"
+  },
+  {
+    "slug": "goodbye-teacher-despair",
+    "mal_id": 2605,
+    "anime_name": "Goodbye Teacher Despair",
+    "anime_url": "https://hianime.ad/anime/goodbye-teacher-despair",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:44:22",
+    "file": "data/goodbye-teacher-despair.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/goodbye-teacher-despair.json"
   }
 ]
