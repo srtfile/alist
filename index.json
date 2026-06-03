@@ -18288,5 +18288,15 @@
     "captured_at": "2026-06-03T08:30:48",
     "file": "data/digimon-fusion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-fusion.json"
+  },
+  {
+    "slug": "digimon-fusion-4552",
+    "mal_id": 8624,
+    "anime_name": "Digimon Fusion 4552",
+    "anime_url": "https://hianime.ad/anime/digimon-fusion-4552",
+    "total_episodes": 30,
+    "captured_at": "2026-06-03T08:31:18",
+    "file": "data/digimon-fusion-4552.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-fusion-4552.json"
   }
 ]
