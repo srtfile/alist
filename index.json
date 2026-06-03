@@ -21528,5 +21528,15 @@
     "captured_at": "2026-06-03T10:32:04",
     "file": "data/epic-of-divinity-light.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/epic-of-divinity-light.json"
+  },
+  {
+    "slug": "erased",
+    "mal_id": 31043,
+    "anime_name": "Erased",
+    "anime_url": "https://hianime.ad/anime/erased",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:32:23",
+    "file": "data/erased.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/erased.json"
   }
 ]
