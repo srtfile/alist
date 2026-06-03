@@ -138,5 +138,15 @@
     "captured_at": "2026-06-03T17:06:31",
     "file": "data/gasaraki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gasaraki.json"
+  },
+  {
+    "slug": "gatchaman-6192",
+    "mal_id": 2389,
+    "anime_name": "Gatchaman 6192",
+    "anime_url": "https://hianime.ad/anime/gatchaman-6192",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T17:07:05",
+    "file": "data/gatchaman-6192.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gatchaman-6192.json"
   }
 ]
