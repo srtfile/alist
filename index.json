@@ -6938,5 +6938,15 @@
     "captured_at": "2026-06-03T21:17:55",
     "file": "data/hiwou-war-chronicles.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hiwou-war-chronicles.json"
+  },
+  {
+    "slug": "hiyokoi",
+    "mal_id": 59322,
+    "anime_name": "Hiyokoi",
+    "anime_url": "https://hianime.ad/anime/hiyokoi",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T21:18:30",
+    "file": "data/hiyokoi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hiyokoi.json"
   }
 ]
