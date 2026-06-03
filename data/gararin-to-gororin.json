@@ -1,0 +1,44 @@
+{
+  "anime_name": "Gararin To Gororin",
+  "anime_url": "https://hianime.ad/anime/gararin-to-gororin",
+  "slug": "gararin-to-gororin",
+  "mal_id": 14623,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:53:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/gararin-to-gororin/ep-1",
+      "sub": {
+        "HD-1": {
+          "14623-malep-1_vibeplayer_sub": "https://vibeplayer.site/2eb4e31cb33dc171",
+          "14623-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2eb4e31cb33dc171/master.m3u8"
+        },
+        "HD-2": {
+          "14623-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd6cafdaaf3aeb4feec28cf2d5bb0dd3d4h",
+          "14623-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14623-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ohf26fc0ni27",
+          "14623-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14623-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1464c657be715344",
+          "14623-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1464c657be715344/master.m3u8"
+        },
+        "HD-2": {
+          "14623-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3856ce46a53717a7258999a06ac70f704h",
+          "14623-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14623-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/15f12aot2arv",
+          "14623-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
