@@ -24348,5 +24348,15 @@
     "captured_at": "2026-06-03T13:00:53",
     "file": "data/freezing-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/freezing-specials.json"
+  },
+  {
+    "slug": "freezing-vibration",
+    "mal_id": 18001,
+    "anime_name": "Freezing Vibration",
+    "anime_url": "https://hianime.ad/anime/freezing-vibration",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:01:08",
+    "file": "data/freezing-vibration.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/freezing-vibration.json"
   }
 ]
