@@ -1,0 +1,73 @@
+{
+  "anime_name": "Fairy Tail Movie 1 Houou No Miko",
+  "anime_url": "https://hianime.ad/anime/fairy-tail-movie-1-houou-no-miko",
+  "slug": "fairy-tail-movie-1-houou-no-miko",
+  "mal_id": 6702,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:02:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Fairy Tail",
+      "episode_url": "https://hianime.ad/watch/fairy-tail-movie-1-houou-no-miko/ep-1",
+      "sub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_sub": "https://vibeplayer.site/e71f789c86c0d160",
+          "6702-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e71f789c86c0d160/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8b7bb6672fab761413842d1d17bcc0854h",
+          "6702-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nodpm9qqxmza",
+          "6702-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6702-malep-1_playmogo_sub": "https://playmogo.com/e/4c87ng0zjj5e",
+          "6702-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_dub": "https://vibeplayer.site/5ad25f829b362e31",
+          "6702-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5ad25f829b362e31/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag13d30154013c75d2ce9d49d237fc92334h",
+          "6702-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "6702-malep-1_otakuhg_dub": "https://otakuhg.site/e/wuntdme3m7gn",
+          "6702-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_dub": "https://otakuvid.online/embed/scvzqnjkzfoo",
+          "6702-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6702-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a731cf330bece4d4",
+          "6702-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a731cf330bece4d4/master.m3u8"
+        },
+        "HD-2": {
+          "6702-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga6bd3c2891bac34372ffa7695512ef924h",
+          "6702-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "6702-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oelweo80nzz8",
+          "6702-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6702-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k2mg4jsi8mb3",
+          "6702-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6702-malep-1_playmogo_hsub": "https://playmogo.com/e/r4nj50x2bl96",
+          "6702-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
