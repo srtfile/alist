@@ -1,0 +1,940 @@
+{
+  "anime_name": "Digimon Fusion",
+  "anime_url": "https://hianime.ad/anime/digimon-fusion",
+  "slug": "digimon-fusion",
+  "mal_id": 8624,
+  "total_episodes": 24,
+  "captured_at": "2026-06-03T08:30:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Taiki Goes to Another World!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-1",
+      "sub": {
+        "HD-1": {
+          "8624-malep-1_vibeplayer_sub": "https://vibeplayer.site/6d72f95bf8380556",
+          "8624-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d72f95bf8380556/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5065cd56c1335f09cd68a9c59d2687234h",
+          "8624-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cdtc9e11wffl",
+          "8624-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fdc10843717f3cdf",
+          "8624-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fdc10843717f3cdf/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag91f7e8b3e9d9db42f446b80a94007de44h",
+          "8624-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pk8wzbymve6v",
+          "8624-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aq8vozkqvf1t",
+          "8624-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-1_playmogo_hsub": "https://playmogo.com/e/f6a7qistb2ry",
+          "8624-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shoutmon Roars!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-2",
+      "sub": {
+        "HD-1": {
+          "8624-malep-2_vibeplayer_sub": "https://vibeplayer.site/b09bee58870673af",
+          "8624-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b09bee58870673af/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag50c9ed6cf22a2a0c07f1abaa0b926a004h",
+          "8624-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-2_otakuhg_sub": "https://otakuhg.site/e/3vxhggghbys5",
+          "8624-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-2_otakuvid_sub": "https://otakuvid.online/embed/4q4bwbnz5633",
+          "8624-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Rival, Kiriha, Appears!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-3",
+      "sub": {
+        "HD-1": {
+          "8624-malep-3_vibeplayer_sub": "https://vibeplayer.site/652c9c029c0c08e3",
+          "8624-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/652c9c029c0c08e3/master.m3u8"
+        },
+        "Earnvids": {
+          "8624-malep-3_otakuvid_sub": "https://otakuvid.online/embed/zghqj6911rjk",
+          "8624-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-3_vibeplayer_hsub": "https://vibeplayer.site/29c93e084a5fe4ee",
+          "8624-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29c93e084a5fe4ee/master.m3u8"
+        },
+        "StreamHG": {
+          "8624-malep-3_otakuhg_hsub": "https://otakuhg.site/e/gmymjz79rk24",
+          "8624-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/6e340uwc9r5s",
+          "8624-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-3_playmogo_hsub": "https://playmogo.com/e/2z2j34l3pgz9",
+          "8624-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Upheaval in the Island Zone!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-4",
+      "sub": {
+        "HD-1": {
+          "8624-malep-4_vibeplayer_sub": "https://vibeplayer.site/a97242b3fbfaac1b",
+          "8624-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a97242b3fbfaac1b/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-4_vibeplayer_sub": "https://vibeplayer.site/agf54dc776c28da48b834dadc5487d35354h",
+          "8624-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-4_otakuvid_sub": "https://otakuvid.online/embed/omeq2i77n9xo",
+          "8624-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-4_vibeplayer_hsub": "https://vibeplayer.site/3036d22281c74091",
+          "8624-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3036d22281c74091/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-4_vibeplayer_hsub": "https://vibeplayer.site/agce30cc337245bb68d578525623c3c9364h",
+          "8624-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-4_otakuhg_hsub": "https://otakuhg.site/e/dfwgam6fkk00",
+          "8624-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/1tz6m1hmft53",
+          "8624-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-4_playmogo_hsub": "https://playmogo.com/e/60239sjg0xs4",
+          "8624-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The DigiMemory Shines!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-5",
+      "sub": {
+        "HD-1": {
+          "8624-malep-5_vibeplayer_sub": "https://vibeplayer.site/1a0135b462067215",
+          "8624-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a0135b462067215/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-5_vibeplayer_sub": "https://vibeplayer.site/agf66a569e97e20ef4b663ec9a5eb695bb4h",
+          "8624-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-5_otakuvid_sub": "https://otakuvid.online/embed/15eisdintq2w",
+          "8624-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-5_vibeplayer_hsub": "https://vibeplayer.site/4e6af226dcfe5b91",
+          "8624-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e6af226dcfe5b91/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag5f59321de67ca85c5e3a805e2dd5b6c74h",
+          "8624-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-5_otakuhg_hsub": "https://otakuhg.site/e/vq1m8ge3a7i7",
+          "8624-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ftjmdxg9cq1p",
+          "8624-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-5_playmogo_hsub": "https://playmogo.com/e/rqar72zvt7lw",
+          "8624-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "X4 Breaks Through the Crisis!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-6",
+      "sub": {
+        "HD-1": {
+          "8624-malep-6_vibeplayer_sub": "https://vibeplayer.site/01d7830afa91faee",
+          "8624-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01d7830afa91faee/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-6_vibeplayer_sub": "https://vibeplayer.site/agfe107650059da59cc944d38a20508d914h",
+          "8624-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-6_otakuhg_sub": "https://otakuhg.site/e/h5du30iarq4i",
+          "8624-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-6_otakuvid_sub": "https://otakuvid.online/embed/xbrbh6avgnkv",
+          "8624-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Volcanic Digimon's Big Explosion!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-7",
+      "sub": {
+        "HD-1": {
+          "8624-malep-7_vibeplayer_sub": "https://vibeplayer.site/8c8e4df50938438e",
+          "8624-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c8e4df50938438e/master.m3u8"
+        },
+        "Earnvids": {
+          "8624-malep-7_otakuvid_sub": "https://otakuvid.online/embed/sma588h2cxxv",
+          "8624-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-7_vibeplayer_hsub": "https://vibeplayer.site/33ec8522242157b3",
+          "8624-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/33ec8522242157b3/master.m3u8"
+        },
+        "StreamHG": {
+          "8624-malep-7_otakuhg_hsub": "https://otakuhg.site/e/m5mqac9bjr9u",
+          "8624-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/gv0ku7qp3d47",
+          "8624-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-7_playmogo_hsub": "https://playmogo.com/e/z7o9yac0u3r8",
+          "8624-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Brave General Tactimon Approaches!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-8",
+      "sub": {
+        "HD-1": {
+          "8624-malep-8_vibeplayer_sub": "https://vibeplayer.site/00b44fec32bc95b3",
+          "8624-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/00b44fec32bc95b3/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag4837c30a6612e8392a6129a52db376e04h",
+          "8624-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-8_otakuvid_sub": "https://otakuvid.online/embed/p1tc8att1bl1",
+          "8624-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-8_vibeplayer_hsub": "https://vibeplayer.site/3c1e56a93832753e",
+          "8624-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c1e56a93832753e/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag6decfec6bf7eac5dc772d02bfdfa91894h",
+          "8624-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-8_otakuhg_hsub": "https://otakuhg.site/e/haicpzgj8dkg",
+          "8624-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/n09m1pcqgtwb",
+          "8624-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-8_playmogo_hsub": "https://playmogo.com/e/zr7xj3mfpq27",
+          "8624-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dorulumon Runs with the Wind!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-9",
+      "sub": {
+        "HD-1": {
+          "8624-malep-9_vibeplayer_sub": "https://vibeplayer.site/0828f808d9f77c08",
+          "8624-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0828f808d9f77c08/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-9_vibeplayer_sub": "https://vibeplayer.site/age51218da1c39c25e78cba1290d8bb1ef4h",
+          "8624-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-9_otakuvid_sub": "https://otakuvid.online/embed/j70rdrfl3bfa",
+          "8624-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-9_vibeplayer_hsub": "https://vibeplayer.site/a1d71a49cba30df8",
+          "8624-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a1d71a49cba30df8/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag2ca27ba594f03d5bc453dd46fc0136434h",
+          "8624-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-9_otakuhg_hsub": "https://otakuhg.site/e/ain79tzhjanr",
+          "8624-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/tdaiceofy8iy",
+          "8624-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-9_playmogo_hsub": "https://playmogo.com/e/pu1nrcshtb46",
+          "8624-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Taiki Becomes a Knight!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-10",
+      "sub": {
+        "HD-1": {
+          "8624-malep-10_vibeplayer_sub": "https://vibeplayer.site/79fd648aa78a4e6c",
+          "8624-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79fd648aa78a4e6c/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag5e76c018d78a7b0a2b086012c11f7cc04h",
+          "8624-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-10_otakuhg_sub": "https://otakuhg.site/e/ul853506zc5s",
+          "8624-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-10_otakuvid_sub": "https://otakuvid.online/embed/a36dkt2muw92",
+          "8624-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-10_vibeplayer_hsub": "https://vibeplayer.site/11fd08cbcbe5e448",
+          "8624-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11fd08cbcbe5e448/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag920dbba77c37dfadfaea6eb0ef95b6f34h",
+          "8624-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-10_otakuhg_hsub": "https://otakuhg.site/e/d991xztbhmt5",
+          "8624-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/wwl4vexlnozi",
+          "8624-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-10_playmogo_hsub": "https://playmogo.com/e/sot4yti2bydv",
+          "8624-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Burn, Xros Heart!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-11",
+      "sub": {
+        "HD-1": {
+          "8624-malep-11_vibeplayer_sub": "https://vibeplayer.site/1bab0f57511687a9",
+          "8624-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1bab0f57511687a9/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-11_vibeplayer_sub": "https://vibeplayer.site/age15bb51fd6d3b0523cfc670b7abb7a7b4h",
+          "8624-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-11_otakuhg_sub": "https://otakuhg.site/e/uiodbyq52g1t",
+          "8624-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-11_otakuvid_sub": "https://otakuvid.online/embed/2zvdu61kso9g",
+          "8624-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-11_vibeplayer_hsub": "https://vibeplayer.site/abf10616fa97eeff",
+          "8624-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abf10616fa97eeff/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag80c2d4b55151395e711dad6b2d4efda64h",
+          "8624-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-11_otakuhg_hsub": "https://otakuhg.site/e/dwv6ibcxunvq",
+          "8624-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/2aos16fnzfou",
+          "8624-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-11_playmogo_hsub": "https://playmogo.com/e/q2zui2ajxwv9",
+          "8624-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Big Adventure in the Sand Zone Ruins!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-12",
+      "sub": {
+        "HD-1": {
+          "8624-malep-12_vibeplayer_sub": "https://vibeplayer.site/e58fa6aba7b6263f",
+          "8624-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e58fa6aba7b6263f/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag7dd2025d9ac2edf9a02b444cb936e8dd4h",
+          "8624-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-12_otakuvid_sub": "https://otakuvid.online/embed/fjcs5wro8xwu",
+          "8624-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-12_vibeplayer_hsub": "https://vibeplayer.site/9001fa0a61a39935",
+          "8624-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9001fa0a61a39935/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agd5f9c54b8b84448a58f94fce53d0fd254h",
+          "8624-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-12_otakuhg_hsub": "https://otakuhg.site/e/ms0q3e1yzpnw",
+          "8624-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/ch8nh3rl0d9u",
+          "8624-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-12_playmogo_hsub": "https://playmogo.com/e/txip5lfdkq1n",
+          "8624-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Taiki, Warrior of the Goddess!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-13",
+      "sub": {
+        "HD-1": {
+          "8624-malep-13_vibeplayer_sub": "https://vibeplayer.site/5fe9e60f9a492d73",
+          "8624-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fe9e60f9a492d73/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-13_vibeplayer_sub": "https://vibeplayer.site/agcfc45d053089c20ee6fd2d3aaf439d974h",
+          "8624-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-13_otakuvid_sub": "https://otakuvid.online/embed/5k30vu5gi7ph",
+          "8624-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-13_vibeplayer_hsub": "https://vibeplayer.site/1b2e9807f21cd00a",
+          "8624-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1b2e9807f21cd00a/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-13_vibeplayer_hsub": "https://vibeplayer.site/ag70b7458f8f6b5ec7ceddff940f683f624h",
+          "8624-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-13_otakuhg_hsub": "https://otakuhg.site/e/4f7qd4mlzw6y",
+          "8624-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/fjopq4ir4yki",
+          "8624-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-13_playmogo_hsub": "https://playmogo.com/e/a3bn4oamvmht",
+          "8624-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Dance of the Warrior, Beelzebumon!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-14",
+      "sub": {
+        "HD-1": {
+          "8624-malep-14_vibeplayer_sub": "https://vibeplayer.site/fa6f8780e9566ba9",
+          "8624-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa6f8780e9566ba9/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-14_vibeplayer_sub": "https://vibeplayer.site/agf2a38c92b262782124b979c53ded871a4h",
+          "8624-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-14_otakuvid_sub": "https://otakuvid.online/embed/8g3iyyx9be93",
+          "8624-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-14_vibeplayer_hsub": "https://vibeplayer.site/99ee1a2b389e1bc2",
+          "8624-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/99ee1a2b389e1bc2/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ag51961afb34646063a811e03288d9463c4h",
+          "8624-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-14_otakuhg_hsub": "https://otakuhg.site/e/d0gpsoojgmam",
+          "8624-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/nx8t3ttolm7b",
+          "8624-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-14_playmogo_hsub": "https://playmogo.com/e/t2yq1kj1bo5l",
+          "8624-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Heaven Zone, A Trap in Paradise!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-15",
+      "sub": {
+        "HD-1": {
+          "8624-malep-15_vibeplayer_sub": "https://vibeplayer.site/10f5f9feb6520317",
+          "8624-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/10f5f9feb6520317/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-15_vibeplayer_sub": "https://vibeplayer.site/agbfbb3ec10262b59326f1e96cf013b5ba4h",
+          "8624-malep-15_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-15_otakuvid_sub": "https://otakuvid.online/embed/lsdzxtevlhjy",
+          "8624-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-15_vibeplayer_hsub": "https://vibeplayer.site/37c7ad1fd1eeae68",
+          "8624-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37c7ad1fd1eeae68/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-15_vibeplayer_hsub": "https://vibeplayer.site/agcad1cf848c276c8953f34a60b0c114e64h",
+          "8624-malep-15_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-15_otakuhg_hsub": "https://otakuhg.site/e/6utf51cagse9",
+          "8624-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/q533tp02t9zk",
+          "8624-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-15_playmogo_hsub": "https://playmogo.com/e/x6tbeys9cpzt",
+          "8624-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Black Knight Digimon Appears!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-16",
+      "sub": {
+        "HD-1": {
+          "8624-malep-16_vibeplayer_sub": "https://vibeplayer.site/c749bb78fa0b7dd7",
+          "8624-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c749bb78fa0b7dd7/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag0e987d4b8e6f3179a612f4f9ce9031144h",
+          "8624-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-16_otakuvid_sub": "https://otakuvid.online/embed/awjb637hf95v",
+          "8624-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-16_vibeplayer_hsub": "https://vibeplayer.site/4e6c37d4ff46ff1d",
+          "8624-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e6c37d4ff46ff1d/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-16_vibeplayer_hsub": "https://vibeplayer.site/agee83b83273ba9364612335049d7985514h",
+          "8624-malep-16_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-16_otakuhg_hsub": "https://otakuhg.site/e/3u74aopqvqyj",
+          "8624-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/9slusivsfvc4",
+          "8624-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-16_playmogo_hsub": "https://playmogo.com/e/73ks5i8prct1",
+          "8624-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Miraculous DigiXros! Shoutmon X5 Takes Flight!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-17",
+      "sub": {
+        "HD-1": {
+          "8624-malep-17_vibeplayer_sub": "https://vibeplayer.site/4e8ef73f98dded0f",
+          "8624-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e8ef73f98dded0f/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-17_vibeplayer_sub": "https://vibeplayer.site/ag73a84586926ecc39b3087e1d84103df54h",
+          "8624-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-17_otakuvid_sub": "https://otakuvid.online/embed/edcoypjp1xh0",
+          "8624-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-17_vibeplayer_hsub": "https://vibeplayer.site/9e3f94cbace8672f",
+          "8624-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9e3f94cbace8672f/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-17_vibeplayer_hsub": "https://vibeplayer.site/agabe4279b6c5f49cdf5247f31c233d0744h",
+          "8624-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-17_otakuhg_hsub": "https://otakuhg.site/e/i8akwx6x6dvc",
+          "8624-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/mjsij9xprtut",
+          "8624-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-17_playmogo_hsub": "https://playmogo.com/e/1zyxt01hqhba",
+          "8624-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Stingmon, Hero of the Digimon Jungle",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-18",
+      "sub": {
+        "HD-1": {
+          "8624-malep-18_vibeplayer_sub": "https://vibeplayer.site/fe42d67b93a4638f",
+          "8624-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fe42d67b93a4638f/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-18_vibeplayer_sub": "https://vibeplayer.site/agabaf8523dbadc9409bbdea27ba0e94074h",
+          "8624-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-18_otakuhg_sub": "https://otakuhg.site/e/awcef6qluruz",
+          "8624-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-18_otakuvid_sub": "https://otakuvid.online/embed/99e6s4uu65e4",
+          "8624-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Legendary Deckerdramon Stirs!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-19",
+      "sub": {
+        "HD-1": {
+          "8624-malep-19_vibeplayer_sub": "https://vibeplayer.site/42e06e7bc10c5b39",
+          "8624-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42e06e7bc10c5b39/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-19_vibeplayer_sub": "https://vibeplayer.site/aga37c8957dd11192319c57161cda508694h",
+          "8624-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-19_otakuvid_sub": "https://otakuvid.online/embed/0k80wgxazuha",
+          "8624-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-19_vibeplayer_hsub": "https://vibeplayer.site/fb9254b78d9372e4",
+          "8624-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb9254b78d9372e4/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-19_vibeplayer_hsub": "https://vibeplayer.site/ag3dcc6babc00ba727ca03e84bf710fc1e4h",
+          "8624-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-19_otakuhg_hsub": "https://otakuhg.site/e/3w9bttomtzcn",
+          "8624-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/cd3395f8n3a4",
+          "8624-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-19_playmogo_hsub": "https://playmogo.com/e/9mfmdkrbxyc5",
+          "8624-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dust Zone, GrandLocomon's Great Scrap City!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-20",
+      "sub": {
+        "HD-1": {
+          "8624-malep-20_vibeplayer_sub": "https://vibeplayer.site/dc02cb5ecb7163f7",
+          "8624-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc02cb5ecb7163f7/master.m3u8"
+        },
+        "Earnvids": {
+          "8624-malep-20_otakuvid_sub": "https://otakuvid.online/embed/55r9r4llfgdc",
+          "8624-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-20_vibeplayer_hsub": "https://vibeplayer.site/cf3b08f2b49d3cc1",
+          "8624-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf3b08f2b49d3cc1/master.m3u8"
+        },
+        "StreamHG": {
+          "8624-malep-20_otakuhg_hsub": "https://otakuhg.site/e/fm8e7pt3tb1p",
+          "8624-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/rmrp48vlqfz9",
+          "8624-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-20_playmogo_hsub": "https://playmogo.com/e/kut5i8bxkw54",
+          "8624-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Decisive Battle! DarkKnightmon vs. Xros Heart!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-21",
+      "sub": {
+        "HD-1": {
+          "8624-malep-21_vibeplayer_sub": "https://vibeplayer.site/a2a96e61c63e3478",
+          "8624-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a2a96e61c63e3478/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag121de6cf1bce20e0fbef24353bc76a8c4h",
+          "8624-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-21_otakuvid_sub": "https://otakuvid.online/embed/llq6j193gbe9",
+          "8624-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-21_vibeplayer_hsub": "https://vibeplayer.site/373c03c09d60cb72",
+          "8624-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/373c03c09d60cb72/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-21_vibeplayer_hsub": "https://vibeplayer.site/ag987084b629b45dde70e2537fcdad069b4h",
+          "8624-malep-21_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-21_otakuhg_hsub": "https://otakuhg.site/e/l4fvplt92es9",
+          "8624-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/jkdjhaavqomv",
+          "8624-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-21_playmogo_hsub": "https://playmogo.com/e/7uqsi5qss4ex",
+          "8624-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wisemon and the Secrets of the Digital World!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-22",
+      "sub": {
+        "HD-1": {
+          "8624-malep-22_vibeplayer_sub": "https://vibeplayer.site/e6d1267d76cd228a",
+          "8624-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6d1267d76cd228a/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-22_vibeplayer_sub": "https://vibeplayer.site/ag579cad028792f9a91b57fa8d25e4fc2f4h",
+          "8624-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-22_otakuhg_sub": "https://otakuhg.site/e/txcpzdd2bp9l",
+          "8624-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-22_otakuvid_sub": "https://otakuvid.online/embed/kjxk6r7th46q",
+          "8624-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-22_vibeplayer_hsub": "https://vibeplayer.site/763341446e95da22",
+          "8624-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/763341446e95da22/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-22_vibeplayer_hsub": "https://vibeplayer.site/ag2702312df79ac0823a004ba8a00dfc484h",
+          "8624-malep-22_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-22_otakuhg_hsub": "https://otakuhg.site/e/xk48zy8qan6c",
+          "8624-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/k4fa521sr25j",
+          "8624-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-22_playmogo_hsub": "https://playmogo.com/e/dcf8yrc4j3ig",
+          "8624-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shinobi Zone, the Comic Ninja Battle!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-23",
+      "sub": {
+        "HD-1": {
+          "8624-malep-23_vibeplayer_sub": "https://vibeplayer.site/e663b2a0c0345f1d",
+          "8624-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e663b2a0c0345f1d/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-23_vibeplayer_sub": "https://vibeplayer.site/agdcd01d80f1e38b622ba0a1b78123f6ec4h",
+          "8624-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-23_otakuhg_sub": "https://otakuhg.site/e/une2a3lenbot",
+          "8624-malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-23_otakuvid_sub": "https://otakuvid.online/embed/rmshj4u9kga6",
+          "8624-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-23_vibeplayer_hsub": "https://vibeplayer.site/9f3a57361740db23",
+          "8624-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9f3a57361740db23/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-23_vibeplayer_hsub": "https://vibeplayer.site/agc41e0b98ce1afd2f6f572e99063575304h",
+          "8624-malep-23_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-23_otakuhg_hsub": "https://otakuhg.site/e/s68ez7v6x8cr",
+          "8624-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/5qjmqz2lc2gj",
+          "8624-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-23_playmogo_hsub": "https://playmogo.com/e/uv4yiei708jb",
+          "8624-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Underachieving Monitamons Give It Their All!",
+      "episode_url": "https://hianime.ad/watch/digimon-fusion/ep-24",
+      "sub": {
+        "HD-1": {
+          "8624-malep-24_vibeplayer_sub": "https://vibeplayer.site/75a402a9ec4486c7",
+          "8624-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/75a402a9ec4486c7/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-24_vibeplayer_sub": "https://vibeplayer.site/age1ff0df80488ad052a7b43467682761c4h",
+          "8624-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-24_otakuhg_sub": "https://otakuhg.site/e/h3f7xgma7381",
+          "8624-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-24_otakuvid_sub": "https://otakuvid.online/embed/jk37vsy8zx7b",
+          "8624-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8624-malep-24_vibeplayer_hsub": "https://vibeplayer.site/fb850c84cdeee5b2",
+          "8624-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb850c84cdeee5b2/master.m3u8"
+        },
+        "HD-2": {
+          "8624-malep-24_vibeplayer_hsub": "https://vibeplayer.site/ag003ec1495fea097ae993b45a06440cf84h",
+          "8624-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8624-malep-24_otakuhg_hsub": "https://otakuhg.site/e/y6b4txgkinql",
+          "8624-malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8624-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/g82yl4rpv06d",
+          "8624-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8624-malep-24_playmogo_hsub": "https://playmogo.com/e/em0xtqpt3jqu",
+          "8624-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
