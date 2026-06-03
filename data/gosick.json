@@ -1,0 +1,992 @@
+{
+  "anime_name": "Gosick",
+  "anime_url": "https://hianime.ad/anime/gosick",
+  "slug": "gosick",
+  "mal_id": 8425,
+  "total_episodes": 24,
+  "captured_at": "2026-06-03T18:46:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Dark Reaper Finds the Golden Fairy",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-1",
+      "sub": {
+        "HD-1": {
+          "8425-malep-1_vibeplayer_sub": "https://vibeplayer.site/e8df826e39de2735",
+          "8425-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8df826e39de2735/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-1_otakuhg_sub": "https://otakuhg.site/e/8ufzbpuixa50",
+          "8425-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hj6jz4hrv31f",
+          "8425-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "8425-malep-1_otakuhg_dub": "https://otakuhg.site/e/s7cale5kmqk7",
+          "8425-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-1_otakuvid_dub": "https://otakuvid.online/embed/v7j6xlq4yhup",
+          "8425-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-1_vibeplayer_hsub": "https://vibeplayer.site/54c5601fdab297b2",
+          "8425-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54c5601fdab297b2/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3iyqek25bjjx",
+          "8425-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lx01znr8hbjp",
+          "8425-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-1_playmogo_hsub": "https://playmogo.com/e/38cod6vz3umt",
+          "8425-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Souls of the Dead Raise a Shipwreck",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-2",
+      "sub": {
+        "HD-1": {
+          "8425-malep-2_vibeplayer_sub": "https://vibeplayer.site/b65ee1830a1cbf9a",
+          "8425-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b65ee1830a1cbf9a/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-2_otakuvid_sub": "https://otakuvid.online/embed/4f46tbc5hst7",
+          "8425-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-2_vibeplayer_dub": "https://vibeplayer.site/e234a1a2f1ce2737",
+          "8425-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e234a1a2f1ce2737/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-2_otakuhg_dub": "https://otakuhg.site/e/x2m6liwwwjdr",
+          "8425-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-2_otakuvid_dub": "https://otakuvid.online/embed/1mnxpm718y27",
+          "8425-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-2_vibeplayer_hsub": "https://vibeplayer.site/0155ddce0aa34577",
+          "8425-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0155ddce0aa34577/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-2_otakuhg_hsub": "https://otakuhg.site/e/gj0vuilg0zas",
+          "8425-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/yd7s1b41exas",
+          "8425-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-2_playmogo_hsub": "https://playmogo.com/e/4afw697bjd2v",
+          "8425-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Hares Break a Promise Under the Morning Sun",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-3",
+      "sub": {
+        "HD-1": {
+          "8425-malep-3_vibeplayer_sub": "https://vibeplayer.site/79b4175275b75be1",
+          "8425-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79b4175275b75be1/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-3_otakuvid_sub": "https://otakuvid.online/embed/30717ua3ubhk",
+          "8425-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-3_vibeplayer_dub": "https://vibeplayer.site/210b1a9adffe0858",
+          "8425-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/210b1a9adffe0858/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-3_otakuhg_dub": "https://otakuhg.site/e/ecesbzqp85o6",
+          "8425-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-3_otakuvid_dub": "https://otakuvid.online/embed/q7mv0v7a2d22",
+          "8425-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-3_vibeplayer_hsub": "https://vibeplayer.site/d0352a4a4f4a6464",
+          "8425-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d0352a4a4f4a6464/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-3_otakuhg_hsub": "https://otakuhg.site/e/hh577elb49on",
+          "8425-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/lnw9kb759jcd",
+          "8425-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-3_playmogo_hsub": "https://playmogo.com/e/at0mog9sqkuo",
+          "8425-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Golden Thread Cuts Through a Passing Moment",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-4",
+      "sub": {
+        "HD-1": {
+          "8425-malep-4_vibeplayer_sub": "https://vibeplayer.site/136442054a621916",
+          "8425-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/136442054a621916/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-4_otakuvid_sub": "https://otakuvid.online/embed/wm8m725420ph",
+          "8425-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-4_vibeplayer_dub": "https://vibeplayer.site/d9c12238c0c5fdea",
+          "8425-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d9c12238c0c5fdea/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-4_otakuhg_dub": "https://otakuhg.site/e/ljj623a5pyoa",
+          "8425-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-4_otakuvid_dub": "https://otakuvid.online/embed/lk5ekbx5vtqp",
+          "8425-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-4_vibeplayer_hsub": "https://vibeplayer.site/1c4a300710a43dfc",
+          "8425-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c4a300710a43dfc/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-4_otakuhg_hsub": "https://otakuhg.site/e/8xhx7gquau3j",
+          "8425-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/sz9smw01kusa",
+          "8425-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-4_playmogo_hsub": "https://playmogo.com/e/37t5no0stbs5",
+          "8425-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "There's a Mysterious Ghost in the Abandoned Storehouse",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-5",
+      "sub": {
+        "HD-1": {
+          "8425-malep-5_vibeplayer_sub": "https://vibeplayer.site/e8e49a65df4331a4",
+          "8425-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8e49a65df4331a4/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-5_otakuvid_sub": "https://otakuvid.online/embed/1qjyedbjp6ju",
+          "8425-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-5_vibeplayer_dub": "https://vibeplayer.site/dea23140dd1d752a",
+          "8425-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dea23140dd1d752a/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-5_otakuvid_dub": "https://otakuvid.online/embed/9d1ffc1vzzfz",
+          "8425-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-5_vibeplayer_hsub": "https://vibeplayer.site/da4d190856e35d0c",
+          "8425-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/da4d190856e35d0c/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-5_otakuhg_hsub": "https://otakuhg.site/e/scwgh4p9jcqg",
+          "8425-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/q46kloqzj3zj",
+          "8425-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-5_playmogo_hsub": "https://playmogo.com/e/62qpswznpzjn",
+          "8425-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Gray Wolves Summon Their Brethren",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-6",
+      "sub": {
+        "HD-1": {
+          "8425-malep-6_vibeplayer_sub": "https://vibeplayer.site/b1ad3de25c2a3a47",
+          "8425-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1ad3de25c2a3a47/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-6_otakuvid_sub": "https://otakuvid.online/embed/utfp0iz8qv7j",
+          "8425-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-6_vibeplayer_dub": "https://vibeplayer.site/35726ecc7e13cb9a",
+          "8425-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/35726ecc7e13cb9a/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-6_otakuvid_dub": "https://otakuvid.online/embed/vlvl7y7p8ndp",
+          "8425-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-6_vibeplayer_hsub": "https://vibeplayer.site/3c73f412c9ae0c51",
+          "8425-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c73f412c9ae0c51/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-6_otakuhg_hsub": "https://otakuhg.site/e/j8kpkpsnwzwj",
+          "8425-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/ziz3t5hs2uwh",
+          "8425-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-6_playmogo_hsub": "https://playmogo.com/e/yud77bk2m49w",
+          "8425-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Divine Revelation is Given at the Summer Solstice Festival",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-7",
+      "sub": {
+        "HD-1": {
+          "8425-malep-7_vibeplayer_sub": "https://vibeplayer.site/e8cba1e4d4367001",
+          "8425-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8cba1e4d4367001/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-7_otakuvid_sub": "https://otakuvid.online/embed/du5swq4r30zv",
+          "8425-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "Earnvids": {
+          "8425-malep-7_otakuvid_dub": "https://otakuvid.online/embed/r6fexvd9v0i8",
+          "8425-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-7_vibeplayer_hsub": "https://vibeplayer.site/5aa09dddb233596c",
+          "8425-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5aa09dddb233596c/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-7_otakuhg_hsub": "https://otakuhg.site/e/3v91jfcv1275",
+          "8425-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/t89vqyrsvvyq",
+          "8425-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-7_playmogo_hsub": "https://playmogo.com/e/30grjp88ife2",
+          "8425-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Howling Echoes from the Kingdom of the Past",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-8",
+      "sub": {
+        "HD-1": {
+          "8425-malep-8_vibeplayer_sub": "https://vibeplayer.site/70c9bb674d4cecd7",
+          "8425-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70c9bb674d4cecd7/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-8_otakuvid_sub": "https://otakuvid.online/embed/yi220vsrckf2",
+          "8425-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-8_vibeplayer_dub": "https://vibeplayer.site/a6f839fb4b45db02",
+          "8425-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a6f839fb4b45db02/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-8_otakuvid_dub": "https://otakuvid.online/embed/2t8vdyexm33c",
+          "8425-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-8_vibeplayer_hsub": "https://vibeplayer.site/e8f7cb2b57ed0db4",
+          "8425-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e8f7cb2b57ed0db4/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-8_otakuhg_hsub": "https://otakuhg.site/e/y4og2hegy7og",
+          "8425-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/dknppemrcq2o",
+          "8425-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-8_playmogo_hsub": "https://playmogo.com/e/i73ciizya2vl",
+          "8425-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Blue Roses Bloom in the Cannibal Department Store",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-9",
+      "sub": {
+        "HD-1": {
+          "8425-malep-9_vibeplayer_sub": "https://vibeplayer.site/f9e6f78fefb99381",
+          "8425-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9e6f78fefb99381/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-9_otakuvid_sub": "https://otakuvid.online/embed/fom20y04b5fl",
+          "8425-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-9_vibeplayer_dub": "https://vibeplayer.site/f0e8e43d10600526",
+          "8425-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f0e8e43d10600526/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-9_otakuvid_dub": "https://otakuvid.online/embed/zja2mwhxa0nj",
+          "8425-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ecbb86cb0a4fd7b5",
+          "8425-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ecbb86cb0a4fd7b5/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-9_otakuhg_hsub": "https://otakuhg.site/e/03jphamtbwxj",
+          "8425-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/k3rcm376rkax",
+          "8425-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-9_playmogo_hsub": "https://playmogo.com/e/bazqt4m4sj7x",
+          "8425-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Girl with a Cold Dreams of Her Stubborn Friend",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-10",
+      "sub": {
+        "HD-1": {
+          "8425-malep-10_vibeplayer_sub": "https://vibeplayer.site/7fb6b5edb0470782",
+          "8425-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7fb6b5edb0470782/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-10_otakuhg_sub": "https://otakuhg.site/e/2wuulllkyl2b",
+          "8425-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-10_otakuvid_sub": "https://otakuvid.online/embed/2d97axfpp6c3",
+          "8425-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-10_vibeplayer_dub": "https://vibeplayer.site/a332b62f3a01eca1",
+          "8425-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a332b62f3a01eca1/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-10_otakuvid_dub": "https://otakuvid.online/embed/rwoxe9dbvedj",
+          "8425-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "That Drill Eloquently Speaks of Love",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-11",
+      "sub": {
+        "HD-1": {
+          "8425-malep-11_vibeplayer_sub": "https://vibeplayer.site/af3be7bc7c4befd8",
+          "8425-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af3be7bc7c4befd8/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-11_otakuvid_sub": "https://otakuvid.online/embed/dlplzb7r58r9",
+          "8425-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "Earnvids": {
+          "8425-malep-11_otakuvid_dub": "https://otakuvid.online/embed/wq8y3wfb33wy",
+          "8425-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-11_vibeplayer_hsub": "https://vibeplayer.site/f4ea6360b3456402",
+          "8425-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f4ea6360b3456402/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-11_otakuhg_hsub": "https://otakuhg.site/e/6aupblvdszk1",
+          "8425-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/gw2yvb402r93",
+          "8425-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-11_playmogo_hsub": "https://playmogo.com/e/u1xsr40bnpie",
+          "8425-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Cicadas are Heard on Summer Afternoons",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-12",
+      "sub": {
+        "HD-1": {
+          "8425-malep-12_vibeplayer_sub": "https://vibeplayer.site/bb10ba79cb086ddc",
+          "8425-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bb10ba79cb086ddc/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-12_otakuvid_sub": "https://otakuvid.online/embed/7kxmx2cexe92",
+          "8425-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-12_vibeplayer_dub": "https://vibeplayer.site/99ae7a2757182ffa",
+          "8425-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99ae7a2757182ffa/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-12_otakuhg_dub": "https://otakuhg.site/e/nc00zqrcttml",
+          "8425-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-12_otakuvid_dub": "https://otakuvid.online/embed/2icvnd76yh8f",
+          "8425-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-12_vibeplayer_hsub": "https://vibeplayer.site/1bdd11824ae30eaa",
+          "8425-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1bdd11824ae30eaa/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-12_otakuhg_hsub": "https://otakuhg.site/e/jkog89y53avx",
+          "8425-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/bkf0nvwnyti3",
+          "8425-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-12_playmogo_hsub": "https://playmogo.com/e/eowoubfs8tkv",
+          "8425-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Fool Designates His Own Spokesperson",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-13",
+      "sub": {
+        "HD-1": {
+          "8425-malep-13_vibeplayer_sub": "https://vibeplayer.site/3393103b961d0d4f",
+          "8425-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3393103b961d0d4f/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-13_otakuvid_sub": "https://otakuvid.online/embed/fkdosfhcu8vh",
+          "8425-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-13_vibeplayer_dub": "https://vibeplayer.site/8615b90637c9c3b7",
+          "8425-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8615b90637c9c3b7/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-13_otakuvid_dub": "https://otakuvid.online/embed/c9p9f9n10rjc",
+          "8425-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-13_vibeplayer_hsub": "https://vibeplayer.site/c8ac04126e54d4b6",
+          "8425-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8ac04126e54d4b6/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-13_otakuhg_hsub": "https://otakuhg.site/e/v7q0vac1d7ow",
+          "8425-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/tsfjs5iwpg43",
+          "8425-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-13_playmogo_hsub": "https://playmogo.com/e/jvc0d9osp5tv",
+          "8425-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Malicious Frill Denounces a Farting Newt",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-14",
+      "sub": {
+        "HD-1": {
+          "8425-malep-14_vibeplayer_sub": "https://vibeplayer.site/8377d6ccfe1ff4f3",
+          "8425-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8377d6ccfe1ff4f3/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-14_otakuvid_sub": "https://otakuvid.online/embed/zpn0lg6hd84f",
+          "8425-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-14_vibeplayer_dub": "https://vibeplayer.site/019ddbac0a80065d",
+          "8425-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/019ddbac0a80065d/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-14_otakuvid_dub": "https://otakuvid.online/embed/vkekwxa2ly8r",
+          "8425-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-14_vibeplayer_hsub": "https://vibeplayer.site/a66ed37311d082fe",
+          "8425-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a66ed37311d082fe/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-14_otakuhg_hsub": "https://otakuhg.site/e/1n1w0uiofwwm",
+          "8425-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/olyebiaed3ab",
+          "8425-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-14_playmogo_hsub": "https://playmogo.com/e/gjhi8t3i1its",
+          "8425-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Two Monsters Know Each Others' Hearts",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-15",
+      "sub": {
+        "HD-1": {
+          "8425-malep-15_vibeplayer_sub": "https://vibeplayer.site/9552afdde489b249",
+          "8425-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9552afdde489b249/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-15_otakuvid_sub": "https://otakuvid.online/embed/ekvb45t32zio",
+          "8425-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "Earnvids": {
+          "8425-malep-15_otakuvid_dub": "https://otakuvid.online/embed/1uuke1cg8uyu",
+          "8425-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-15_vibeplayer_hsub": "https://vibeplayer.site/28cc6e763ea4f305",
+          "8425-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/28cc6e763ea4f305/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-15_otakuhg_hsub": "https://otakuhg.site/e/u9v82beqs1ng",
+          "8425-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/cx4qse0rwcoh",
+          "8425-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-15_playmogo_hsub": "https://playmogo.com/e/mh6lruoco9hz",
+          "8425-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Felling Maria Has the Head of a Fly",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-16",
+      "sub": {
+        "HD-1": {
+          "8425-malep-16_vibeplayer_sub": "https://vibeplayer.site/f61dff7ef39f68de",
+          "8425-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f61dff7ef39f68de/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-16_otakuvid_sub": "https://otakuvid.online/embed/6yd2ih136mx8",
+          "8425-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-16_vibeplayer_dub": "https://vibeplayer.site/17b25248419972fe",
+          "8425-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/17b25248419972fe/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-16_otakuvid_dub": "https://otakuvid.online/embed/u82xbgxgdk48",
+          "8425-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-16_vibeplayer_hsub": "https://vibeplayer.site/ebb4e00d44441ece",
+          "8425-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ebb4e00d44441ece/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-16_otakuhg_hsub": "https://otakuhg.site/e/8na7nvbthotv",
+          "8425-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/due7kx8l3hjt",
+          "8425-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-16_playmogo_hsub": "https://playmogo.com/e/hhmd4zd70hol",
+          "8425-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Box Lies in the Spiral Labyrinth",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-17",
+      "sub": {
+        "HD-1": {
+          "8425-malep-17_vibeplayer_sub": "https://vibeplayer.site/fa666d3739fbab28",
+          "8425-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa666d3739fbab28/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-17_otakuvid_sub": "https://otakuvid.online/embed/1jmgfk9ym7x1",
+          "8425-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-17_vibeplayer_dub": "https://vibeplayer.site/110e52346f285311",
+          "8425-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/110e52346f285311/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-17_otakuvid_dub": "https://otakuvid.online/embed/29c57e1o15y0",
+          "8425-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-17_vibeplayer_hsub": "https://vibeplayer.site/b58270ba45a5f5f7",
+          "8425-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b58270ba45a5f5f7/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-17_otakuhg_hsub": "https://otakuhg.site/e/d6su58fe7xql",
+          "8425-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/3r9gdah50nq6",
+          "8425-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-17_playmogo_hsub": "https://playmogo.com/e/egs1qo65fzd2",
+          "8425-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Jet-Black Train Carries Several Lies",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-18",
+      "sub": {
+        "HD-1": {
+          "8425-malep-18_vibeplayer_sub": "https://vibeplayer.site/d1d149c506de2464",
+          "8425-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d1d149c506de2464/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-18_otakuvid_sub": "https://otakuvid.online/embed/45zl5fb9omo5",
+          "8425-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-18_vibeplayer_dub": "https://vibeplayer.site/7400d81579c06db2",
+          "8425-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7400d81579c06db2/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-18_otakuvid_dub": "https://otakuvid.online/embed/bgfweoc6rfbb",
+          "8425-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-18_vibeplayer_hsub": "https://vibeplayer.site/95e6af81adb15a3e",
+          "8425-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95e6af81adb15a3e/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-18_otakuhg_hsub": "https://otakuhg.site/e/9nlg5w2glct6",
+          "8425-malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/1uzbaeiq0ndk",
+          "8425-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-18_playmogo_hsub": "https://playmogo.com/e/tu7mp0kahq95",
+          "8425-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Rosy Life is Buried Under a New Snow",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-19",
+      "sub": {
+        "HD-1": {
+          "8425-malep-19_vibeplayer_sub": "https://vibeplayer.site/9cb0e95462d48db4",
+          "8425-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9cb0e95462d48db4/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-19_otakuhg_sub": "https://otakuhg.site/e/368zmcnjbbxf",
+          "8425-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-19_otakuvid_sub": "https://otakuvid.online/embed/cjqtwvlx5nc0",
+          "8425-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-19_vibeplayer_dub": "https://vibeplayer.site/ac086650edf74a41",
+          "8425-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ac086650edf74a41/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-19_otakuvid_dub": "https://otakuvid.online/embed/y2a61rn4c91k",
+          "8425-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Guided by the Phantom of the Phantom",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-20",
+      "sub": {
+        "HD-1": {
+          "8425-malep-20_vibeplayer_sub": "https://vibeplayer.site/3aa193b7cce4d686",
+          "8425-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3aa193b7cce4d686/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-20_otakuvid_sub": "https://otakuvid.online/embed/fm8f9tp05yfv",
+          "8425-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "Earnvids": {
+          "8425-malep-20_otakuvid_dub": "https://otakuvid.online/embed/8uix3ddv04zu",
+          "8425-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-20_vibeplayer_hsub": "https://vibeplayer.site/3c486450549e7180",
+          "8425-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c486450549e7180/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-20_otakuhg_hsub": "https://otakuhg.site/e/twgxgdj0r3vf",
+          "8425-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/6peehpf2xlz2",
+          "8425-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-20_playmogo_hsub": "https://playmogo.com/e/q41tfc8tvcho",
+          "8425-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Holy Night Bell Drives the Hour Onward",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-21",
+      "sub": {
+        "HD-1": {
+          "8425-malep-21_vibeplayer_sub": "https://vibeplayer.site/cf2c2ab8d0ca75b5",
+          "8425-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf2c2ab8d0ca75b5/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-21_otakuvid_sub": "https://otakuvid.online/embed/qgazum0k5bux",
+          "8425-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-21_vibeplayer_dub": "https://vibeplayer.site/d8dcff81585c545d",
+          "8425-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d8dcff81585c545d/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-21_otakuvid_dub": "https://otakuvid.online/embed/5a5uw1unnzkw",
+          "8425-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-21_vibeplayer_hsub": "https://vibeplayer.site/718190516560ce79",
+          "8425-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/718190516560ce79/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-21_otakuhg_hsub": "https://otakuhg.site/e/x4pgpqfobtmk",
+          "8425-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/zji1emwdkynx",
+          "8425-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-21_playmogo_hsub": "https://playmogo.com/e/0oh14g1ua82w",
+          "8425-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Christmas Carol Hangs Happiness by the Window",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-22",
+      "sub": {
+        "HD-1": {
+          "8425-malep-22_vibeplayer_sub": "https://vibeplayer.site/1cc8d92f46baf2a6",
+          "8425-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1cc8d92f46baf2a6/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-22_otakuvid_sub": "https://otakuvid.online/embed/g4um2id5p5gj",
+          "8425-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-22_vibeplayer_dub": "https://vibeplayer.site/4e4374cae978e0c5",
+          "8425-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4e4374cae978e0c5/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-22_otakuvid_dub": "https://otakuvid.online/embed/tp0sgrw5zgw7",
+          "8425-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-22_vibeplayer_hsub": "https://vibeplayer.site/f6d877e96c52a3b0",
+          "8425-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f6d877e96c52a3b0/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-22_otakuhg_hsub": "https://otakuhg.site/e/q8q9enmhzxoi",
+          "8425-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/dj404c65s0mb",
+          "8425-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-22_playmogo_hsub": "https://playmogo.com/e/39uonuzlfoaa",
+          "8425-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Checkmate is Called on a Gray Chess Board",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-23",
+      "sub": {
+        "HD-1": {
+          "8425-malep-23_vibeplayer_sub": "https://vibeplayer.site/6898e2f7233778c3",
+          "8425-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6898e2f7233778c3/master.m3u8"
+        },
+        "Earnvids": {
+          "8425-malep-23_otakuvid_sub": "https://otakuvid.online/embed/wp1ixb13umnb",
+          "8425-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-23_vibeplayer_dub": "https://vibeplayer.site/718e4e9cfe77c165",
+          "8425-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/718e4e9cfe77c165/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-23_otakuhg_dub": "https://otakuhg.site/e/p7sn08xv4inl",
+          "8425-malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-23_otakuvid_dub": "https://otakuvid.online/embed/ew6y3p2jtvyu",
+          "8425-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8425-malep-23_vibeplayer_hsub": "https://vibeplayer.site/4c0ae7a691cf7829",
+          "8425-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4c0ae7a691cf7829/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-23_otakuhg_hsub": "https://otakuhg.site/e/wnuhf4yyxmty",
+          "8425-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/cknwvvrl2469",
+          "8425-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8425-malep-23_playmogo_hsub": "https://playmogo.com/e/pq5g7k2lix6y",
+          "8425-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Eternity is Seen Over the Reaper's Shoulder",
+      "episode_url": "https://hianime.ad/watch/gosick/ep-24",
+      "sub": {
+        "HD-1": {
+          "8425-malep-24_vibeplayer_sub": "https://vibeplayer.site/e1abef000faa13d2",
+          "8425-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e1abef000faa13d2/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-24_otakuhg_sub": "https://otakuhg.site/e/kxpu98tiwyl6",
+          "8425-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-24_otakuvid_sub": "https://otakuvid.online/embed/kg0ienv6k709",
+          "8425-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8425-malep-24_vibeplayer_dub": "https://vibeplayer.site/5e2b0a682f9cf78f",
+          "8425-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e2b0a682f9cf78f/master.m3u8"
+        },
+        "StreamHG": {
+          "8425-malep-24_otakuhg_dub": "https://otakuhg.site/e/jvw188fai438",
+          "8425-malep-24_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8425-malep-24_otakuvid_dub": "https://otakuvid.online/embed/cu30nrybr4ao",
+          "8425-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
