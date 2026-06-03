@@ -24908,5 +24908,15 @@
     "captured_at": "2026-06-03T13:21:51",
     "file": "data/futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu.json"
+  },
+  {
+    "slug": "futarigurashi",
+    "mal_id": 8765,
+    "anime_name": "Futarigurashi",
+    "anime_url": "https://hianime.ad/anime/futarigurashi",
+    "total_episodes": 36,
+    "captured_at": "2026-06-03T13:22:02",
+    "file": "data/futarigurashi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/futarigurashi.json"
   }
 ]
