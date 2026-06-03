@@ -21408,5 +21408,15 @@
     "captured_at": "2026-06-03T10:27:45",
     "file": "data/endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte.json"
+  },
+  {
+    "slug": "endride",
+    "mal_id": 32608,
+    "anime_name": "Endride",
+    "anime_url": "https://hianime.ad/anime/endride",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T10:28:04",
+    "file": "data/endride.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/endride.json"
   }
 ]
