@@ -4288,5 +4288,15 @@
     "captured_at": "2026-06-03T19:39:26",
     "file": "data/hakata-mentai-pirikarako-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakata-mentai-pirikarako-chan.json"
+  },
+  {
+    "slug": "hakata-tonkotsu-ramens",
+    "mal_id": 35889,
+    "anime_name": "Hakata Tonkotsu Ramens",
+    "anime_url": "https://hianime.ad/anime/hakata-tonkotsu-ramens",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:39:49",
+    "file": "data/hakata-tonkotsu-ramens.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hakata-tonkotsu-ramens.json"
   }
 ]
