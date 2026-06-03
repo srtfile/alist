@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bluer Than Indigo Fate Miyuki",
+  "anime_url": "https://hianime.ad/anime/bluer-than-indigo-fate-miyuki",
+  "slug": "bluer-than-indigo-fate-miyuki",
+  "mal_id": 394,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T01:06:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring Blossom",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo-fate-miyuki/ep-1",
+      "sub": {
+        "HD-1": {
+          "394-malep-1_vibeplayer_sub": "https://vibeplayer.site/54d079b72867a058",
+          "394-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/54d079b72867a058/master.m3u8"
+        },
+        "HD-2": {
+          "394-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf2b33275e8f4d8942c6478206af3c8fa4h",
+          "394-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "394-malep-1_otakuvid_sub": "https://otakuvid.online/embed/187hyhhqo1il",
+          "394-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "394-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bd8400e4ec6d1fe4",
+          "394-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd8400e4ec6d1fe4/master.m3u8"
+        },
+        "HD-2": {
+          "394-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag63a2c2a11d00ac759f4fba3e3eec212a4h",
+          "394-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "394-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kecrheo6cyf9",
+          "394-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "394-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l56587z45fhk",
+          "394-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "394-malep-1_playmogo_hsub": "https://playmogo.com/e/a00yrwspk6ib",
+          "394-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
