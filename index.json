@@ -1788,5 +1788,15 @@
     "captured_at": "2026-06-03T18:07:38",
     "file": "data/girls-last-tour.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-last-tour.json"
+  },
+  {
+    "slug": "girly-air-force",
+    "mal_id": 37998,
+    "anime_name": "Girly Air Force",
+    "anime_url": "https://hianime.ad/anime/girly-air-force",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:08:00",
+    "file": "data/girly-air-force.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girly-air-force.json"
   }
 ]
