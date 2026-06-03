@@ -718,5 +718,15 @@
     "captured_at": "2026-06-03T17:28:51",
     "file": "data/ghost-hound.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-hound.json"
+  },
+  {
+    "slug": "ghost-hunt",
+    "mal_id": 1571,
+    "anime_name": "Ghost Hunt",
+    "anime_url": "https://hianime.ad/anime/ghost-hunt",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T17:29:22",
+    "file": "data/ghost-hunt.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ghost-hunt.json"
   }
 ]
