@@ -16998,5 +16998,15 @@
     "captured_at": "2026-06-03T07:53:39",
     "file": "data/debutante-detective-corps.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/debutante-detective-corps.json"
+  },
+  {
+    "slug": "deca-dence",
+    "mal_id": 40056,
+    "anime_name": "Deca Dence",
+    "anime_url": "https://hianime.ad/anime/deca-dence",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T07:53:49",
+    "file": "data/deca-dence.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deca-dence.json"
   }
 ]
