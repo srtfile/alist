@@ -24998,5 +24998,15 @@
     "captured_at": "2026-06-03T13:27:02",
     "file": "data/future-card-buddyfight-x.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-card-buddyfight-x.json"
+  },
+  {
+    "slug": "future-folktales",
+    "mal_id": 41558,
+    "anime_name": "Future Folktales",
+    "anime_url": "https://hianime.ad/anime/future-folktales",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:28:03",
+    "file": "data/future-folktales.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/future-folktales.json"
   }
 ]
