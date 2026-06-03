@@ -24478,5 +24478,15 @@
     "captured_at": "2026-06-03T13:06:35",
     "file": "data/from-up-on-poppy-hill.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/from-up-on-poppy-hill.json"
+  },
+  {
+    "slug": "fruits-basket-2001",
+    "mal_id": 120,
+    "anime_name": "Fruits Basket 2001",
+    "anime_url": "https://hianime.ad/anime/fruits-basket-2001",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T13:06:46",
+    "file": "data/fruits-basket-2001.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fruits-basket-2001.json"
   }
 ]
