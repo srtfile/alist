@@ -1,0 +1,77 @@
+{
+  "anime_name": "Detective Conan Movie 20 The Darkest Nightmare",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-20-the-darkest-nightmare",
+  "slug": "detective-conan-movie-20-the-darkest-nightmare",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:10:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-20-the-darkest-nightmare/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/fc2f470397da62e8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fc2f470397da62e8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7fd6e671272ee01f734cf947eff06c314h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/nf5dpmgtvhc1",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/pt4niwggb6h0",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/aa7b354215f96ab5",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aa7b354215f96ab5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag4b13df2ce432ec8a5f89b83ffeae2df24h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/zmu6h2ozx1mv",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/eitck3ws3ckd",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/l7e7ri0rk95h",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a129885da8cbb321",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a129885da8cbb321/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfdbde5e7872d90dfeb258d3529548d234h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/tip8h6g7oe3r",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lv9c4zabgklx",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/m2nqn4e2krh7",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
