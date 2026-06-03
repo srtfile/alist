@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fatekaleid Liner Prismaillya Movie Oath Under Snow Special",
+  "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prismaillya-movie-oath-under-snow-special",
+  "slug": "fatekaleid-liner-prismaillya-movie-oath-under-snow-special",
+  "mal_id": 14829,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:18:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth! A Magical Girl!",
+      "episode_url": "https://hianime.ad/watch/fatekaleid-liner-prismaillya-movie-oath-under-snow-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/707b9088c36351a3",
+          "14829-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/707b9088c36351a3/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbc99977d6b2f6f0f7a4bd860d8001fb24h",
+          "14829-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "14829-malep-1_otakuhg_sub": "https://otakuhg.site/e/461tfaqqqz16",
+          "14829-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xfjvl9yaon1j",
+          "14829-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/37f10f1f1e312813",
+          "14829-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37f10f1f1e312813/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfa800f01f1f41c4997fa868f0f0e2b174h",
+          "14829-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xjy4l4txajts",
+          "14829-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
