@@ -1,0 +1,40 @@
+{
+  "anime_name": "Chibi Maruko Chan Movie",
+  "anime_url": "https://hianime.ad/anime/chibi-maruko-chan-movie",
+  "slug": "chibi-maruko-chan-movie",
+  "mal_id": 951,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:29:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Maru-chan's Sibling Rivalry! / Maru-chan's in the New Year Mood!",
+      "episode_url": "https://hianime.ad/watch/chibi-maruko-chan-movie/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "951-malep-1_vibeplayer_raw": "https://vibeplayer.site/8d8529485387cdab",
+          "951-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/8d8529485387cdab/master.m3u8"
+        },
+        "HD-2": {
+          "951-malep-1_vibeplayer_raw": "https://vibeplayer.site/agcd6584b5bd3db8aa1c519d588380786d4h",
+          "951-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "951-malep-1_otakuhg_raw": "https://otakuhg.site/e/qxaesand4i55",
+          "951-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "951-malep-1_otakuvid_raw": "https://otakuvid.online/embed/abfrs95p7uwr",
+          "951-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "951-malep-1_playmogo_raw": "https://playmogo.com/e/kr36jm755iy7",
+          "951-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
