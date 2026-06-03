@@ -6378,5 +6378,15 @@
     "captured_at": "2026-06-03T20:55:46",
     "file": "data/high-school-dxd-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-specials.json"
+  },
+  {
+    "slug": "high-school-fleet",
+    "mal_id": 31500,
+    "anime_name": "High School Fleet",
+    "anime_url": "https://hianime.ad/anime/high-school-fleet",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:56:02",
+    "file": "data/high-school-fleet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-fleet.json"
   }
 ]
