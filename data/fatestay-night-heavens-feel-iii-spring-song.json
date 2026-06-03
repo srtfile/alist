@@ -1,0 +1,73 @@
+{
+  "anime_name": "Fatestay Night Heavens Feel Iii Spring Song",
+  "anime_url": "https://hianime.ad/anime/fatestay-night-heavens-feel-iii-spring-song",
+  "slug": "fatestay-night-heavens-feel-iii-spring-song",
+  "mal_id": 356,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:58:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Day",
+      "episode_url": "https://hianime.ad/watch/fatestay-night-heavens-feel-iii-spring-song/ep-1",
+      "sub": {
+        "HD-1": {
+          "356-malep-1_vibeplayer_sub": "https://vibeplayer.site/df4167bb3c34b8f0",
+          "356-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df4167bb3c34b8f0/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3cfbb32336d752d3ad6d003f3e7d5d4e4h",
+          "356-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-1_otakuhg_sub": "https://otakuhg.site/e/tpsmvqt7f5mg",
+          "356-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vfrc765yzoyc",
+          "356-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "356-malep-1_vibeplayer_dub": "https://vibeplayer.site/0d6bdddbcc18b1cc",
+          "356-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0d6bdddbcc18b1cc/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5ba89b9e22081cbca0bbcede96caff7d4h",
+          "356-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-1_otakuhg_dub": "https://otakuhg.site/e/6qpl2cz29ltc",
+          "356-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-1_otakuvid_dub": "https://otakuvid.online/embed/c8wq3g0t8wxg",
+          "356-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "356-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9fa2a0c08e84091e",
+          "356-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9fa2a0c08e84091e/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd4aec7bfa77d331472c18602aa9e9e7f4h",
+          "356-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5fwkuxg2jp0f",
+          "356-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1wg66dqtwwri",
+          "356-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "356-malep-1_playmogo_hsub": "https://playmogo.com/e/777fi16ymd5c",
+          "356-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
