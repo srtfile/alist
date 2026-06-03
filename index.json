@@ -2088,5 +2088,15 @@
     "captured_at": "2026-06-03T18:20:08",
     "file": "data/go-go-vehicle-zoo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-go-vehicle-zoo.json"
+  },
+  {
+    "slug": "go-go-vehicle-zoo-2024",
+    "mal_id": 55020,
+    "anime_name": "Go Go Vehicle Zoo 2024",
+    "anime_url": "https://hianime.ad/anime/go-go-vehicle-zoo-2024",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T18:20:42",
+    "file": "data/go-go-vehicle-zoo-2024.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/go-go-vehicle-zoo-2024.json"
   }
 ]
