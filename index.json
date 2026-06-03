@@ -23368,5 +23368,15 @@
     "captured_at": "2026-06-03T12:27:28",
     "file": "data/fire-force-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-force-season-2.json"
+  },
+  {
+    "slug": "fire-force-season-3",
+    "mal_id": 51818,
+    "anime_name": "Fire Force Season 3",
+    "anime_url": "https://hianime.ad/anime/fire-force-season-3",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T12:28:00",
+    "file": "data/fire-force-season-3.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fire-force-season-3.json"
   }
 ]
