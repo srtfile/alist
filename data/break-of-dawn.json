@@ -1,0 +1,52 @@
+{
+  "anime_name": "Break Of Dawn",
+  "anime_url": "https://hianime.ad/anime/break-of-dawn",
+  "slug": "break-of-dawn",
+  "mal_id": 22663,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:52:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Reincarnater",
+      "episode_url": "https://hianime.ad/watch/break-of-dawn/ep-1",
+      "sub": {
+        "HD-1": {
+          "22663-malep-1_vibeplayer_sub": "https://vibeplayer.site/00b733d1e613db43",
+          "22663-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/00b733d1e613db43/master.m3u8"
+        },
+        "HD-2": {
+          "22663-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf7191e214b754c2655d63e68a04024024h",
+          "22663-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22663-malep-1_otakuvid_sub": "https://otakuvid.online/embed/byw3xw62d4nb",
+          "22663-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22663-malep-1_vibeplayer_hsub": "https://vibeplayer.site/40da8ee290e7d9ff",
+          "22663-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/40da8ee290e7d9ff/master.m3u8"
+        },
+        "HD-2": {
+          "22663-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4761583f841c7ad57467ab08ead6aa234h",
+          "22663-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22663-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wwy4n9v82ck6",
+          "22663-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22663-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1xhdwjqmruf8",
+          "22663-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22663-malep-1_playmogo_hsub": "https://playmogo.com/e/fdj2pco0wj6f",
+          "22663-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
