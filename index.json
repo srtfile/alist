@@ -20858,5 +20858,15 @@
     "captured_at": "2026-06-03T10:09:45",
     "file": "data/earth-story-telepath-2500.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/earth-story-telepath-2500.json"
+  },
+  {
+    "slug": "earthian",
+    "mal_id": 218,
+    "anime_name": "Earthian",
+    "anime_url": "https://hianime.ad/anime/earthian",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T10:09:55",
+    "file": "data/earthian.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/earthian.json"
   }
 ]
