@@ -24388,5 +24388,15 @@
     "captured_at": "2026-06-03T13:02:35",
     "file": "data/fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai.json"
+  },
+  {
+    "slug": "freshly-baked-japan",
+    "mal_id": 28,
+    "anime_name": "Freshly Baked Japan",
+    "anime_url": "https://hianime.ad/anime/freshly-baked-japan",
+    "total_episodes": 69,
+    "captured_at": "2026-06-03T13:02:47",
+    "file": "data/freshly-baked-japan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/freshly-baked-japan.json"
   }
 ]
