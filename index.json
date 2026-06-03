@@ -9398,5 +9398,15 @@
     "captured_at": "2026-06-03T00:16:37",
     "file": "data/beyond-the-boundary-idol-trial.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyond-the-boundary-idol-trial.json"
+  },
+  {
+    "slug": "beyond-the-heavens",
+    "mal_id": 5226,
+    "anime_name": "Beyond The Heavens",
+    "anime_url": "https://hianime.ad/anime/beyond-the-heavens",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T00:16:51",
+    "file": "data/beyond-the-heavens.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyond-the-heavens.json"
   }
 ]
