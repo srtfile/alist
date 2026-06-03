@@ -1,0 +1,52 @@
+{
+  "anime_name": "Esper Mami Hoshizora No Dancing Doll",
+  "anime_url": "https://hianime.ad/anime/esper-mami-hoshizora-no-dancing-doll",
+  "slug": "esper-mami-hoshizora-no-dancing-doll",
+  "mal_id": 3023,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:36:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/esper-mami-hoshizora-no-dancing-doll/ep-1",
+      "sub": {
+        "HD-1": {
+          "3023-malep-1_vibeplayer_sub": "https://vibeplayer.site/53da4957e0de59da",
+          "3023-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/53da4957e0de59da/master.m3u8"
+        },
+        "HD-2": {
+          "3023-malep-1_vibeplayer_sub": "https://vibeplayer.site/agae3b86beb0ef494688784113dc5a3d344h",
+          "3023-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3023-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jtdwlqvrn1lj",
+          "3023-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3023-malep-1_playmogo_sub": "https://playmogo.com/e/rm5x8s7tc3lf",
+          "3023-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3023-malep-1_vibeplayer_hsub": "https://vibeplayer.site/110e3886a5da2bcd",
+          "3023-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/110e3886a5da2bcd/master.m3u8"
+        },
+        "HD-2": {
+          "3023-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4ffd8d3fe34aa1dc5b19669195b4131a4h",
+          "3023-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3023-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1e65nwlomvqr",
+          "3023-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3023-malep-1_playmogo_hsub": "https://playmogo.com/e/9jr2v4yiv4ux",
+          "3023-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
