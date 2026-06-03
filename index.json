@@ -6688,5 +6688,15 @@
     "captured_at": "2026-06-03T21:07:10",
     "file": "data/himeyuri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himeyuri.json"
+  },
+  {
+    "slug": "himitsu-no-aipri",
+    "mal_id": 57946,
+    "anime_name": "Himitsu No Aipri",
+    "anime_url": "https://hianime.ad/anime/himitsu-no-aipri",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T21:07:22",
+    "file": "data/himitsu-no-aipri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/himitsu-no-aipri.json"
   }
 ]
