@@ -1,0 +1,102 @@
+{
+  "anime_name": "Goodbye Mr Despair Oad",
+  "anime_url": "https://hianime.ad/anime/goodbye-mr-despair-oad",
+  "slug": "goodbye-mr-despair-oad",
+  "mal_id": 42774,
+  "total_episodes": 3,
+  "captured_at": "2026-06-03T18:44:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone",
+      "episode_url": "https://hianime.ad/watch/goodbye-mr-despair-oad/ep-1",
+      "sub": {
+        "HD-1": {
+          "42774-malep-1_vibeplayer_sub": "https://vibeplayer.site/a94fefe7ff73ea9a",
+          "42774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a94fefe7ff73ea9a/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ly8w50oglhrv",
+          "42774-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "42774-malep-1_playmogo_sub": "https://playmogo.com/e/02drw40azqyl",
+          "42774-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8b505245ef3dc532",
+          "42774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b505245ef3dc532/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/en3knh54ykcb",
+          "42774-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42774-malep-1_playmogo_hsub": "https://playmogo.com/e/k7badr6ppo21",
+          "42774-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Impact",
+      "episode_url": "https://hianime.ad/watch/goodbye-mr-despair-oad/ep-2",
+      "sub": {
+        "HD-1": {
+          "42774-malep-2_vibeplayer_sub": "https://vibeplayer.site/e5dd3ab87c40671e",
+          "42774-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5dd3ab87c40671e/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-2_otakuvid_sub": "https://otakuvid.online/embed/q6n5rkppiymd",
+          "42774-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42774-malep-2_vibeplayer_hsub": "https://vibeplayer.site/37915f29731631c2",
+          "42774-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37915f29731631c2/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/j4xrwzk99ulm",
+          "42774-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42774-malep-2_playmogo_hsub": "https://playmogo.com/e/pggghm6mfgz3",
+          "42774-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gates of Hell",
+      "episode_url": "https://hianime.ad/watch/goodbye-mr-despair-oad/ep-3",
+      "sub": {
+        "HD-1": {
+          "42774-malep-3_vibeplayer_sub": "https://vibeplayer.site/c365863f337fb3c0",
+          "42774-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c365863f337fb3c0/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-3_otakuvid_sub": "https://otakuvid.online/embed/74efjh9rr9tq",
+          "42774-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42774-malep-3_vibeplayer_hsub": "https://vibeplayer.site/acd8309231557303",
+          "42774-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/acd8309231557303/master.m3u8"
+        },
+        "Earnvids": {
+          "42774-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/60u9xku9c7q3",
+          "42774-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42774-malep-3_playmogo_hsub": "https://playmogo.com/e/ltt6041py36n",
+          "42774-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
