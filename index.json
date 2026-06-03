@@ -9288,5 +9288,15 @@
     "captured_at": "2026-06-03T00:08:12",
     "file": "data/beyblade-burst-turbo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-turbo.json"
+  },
+  {
+    "slug": "beyblade-g-revolution",
+    "mal_id": 1668,
+    "anime_name": "Beyblade G Revolution",
+    "anime_url": "https://hianime.ad/anime/beyblade-g-revolution",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:09:06",
+    "file": "data/beyblade-g-revolution.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-g-revolution.json"
   }
 ]
