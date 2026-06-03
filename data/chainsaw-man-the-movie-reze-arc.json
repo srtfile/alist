@@ -1,0 +1,60 @@
+{
+  "anime_name": "Chainsaw Man The Movie Reze Arc",
+  "anime_url": "https://hianime.ad/anime/chainsaw-man-the-movie-reze-arc",
+  "slug": "chainsaw-man-the-movie-reze-arc",
+  "mal_id": 44511,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:15:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dog and Chainsaw",
+      "episode_url": "https://hianime.ad/watch/chainsaw-man-the-movie-reze-arc/ep-1",
+      "sub": {
+        "HD-1": {
+          "44511-malep-1_vibeplayer_sub": "https://vibeplayer.site/541f8f6d189f8e06",
+          "44511-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/541f8f6d189f8e06/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7c28ca98e80c8a5582426cefb5910f044h",
+          "44511-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-1_otakuhg_sub": "https://otakuhg.site/e/cqqpdhbektcw",
+          "44511-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hoj6n54j1mas",
+          "44511-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "44511-malep-1_playmogo_sub": "https://playmogo.com/e/agyv3vklfszj",
+          "44511-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44511-malep-1_vibeplayer_dub": "https://vibeplayer.site/f4c8e965fcaa4ed7",
+          "44511-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f4c8e965fcaa4ed7/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-1_vibeplayer_dub": "https://vibeplayer.site/agfc59207303f21a71726a5aab15f625364h",
+          "44511-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-1_otakuhg_dub": "https://otakuhg.site/e/snr1lto3e6he",
+          "44511-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-1_otakuvid_dub": "https://otakuvid.online/embed/o8pkrddy1hyn",
+          "44511-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "44511-malep-1_playmogo_dub": "https://playmogo.com/e/g85jeau5vh79",
+          "44511-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
