@@ -1,0 +1,52 @@
+{
+  "anime_name": "Delicos Nursery Recap",
+  "anime_url": "https://hianime.ad/anime/delicos-nursery-recap",
+  "slug": "delicos-nursery-recap",
+  "mal_id": 56179,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:58:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to the Nursery",
+      "episode_url": "https://hianime.ad/watch/delicos-nursery-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "56179-malep-1_vibeplayer_sub": "https://vibeplayer.site/bf2fe1a966a38cea",
+          "56179-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf2fe1a966a38cea/master.m3u8"
+        },
+        "HD-2": {
+          "56179-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3ad1627e18f16ccaa67464efa69630e54h",
+          "56179-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56179-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vmcpj3zg5c43",
+          "56179-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56179-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f28892796e42ef4",
+          "56179-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f28892796e42ef4/master.m3u8"
+        },
+        "HD-2": {
+          "56179-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf188347a04a569c786d3cced15b5b9e24h",
+          "56179-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "56179-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3kk74ht0kgf5",
+          "56179-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56179-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t3qzzd8kfzvo",
+          "56179-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56179-malep-1_playmogo_hsub": "https://playmogo.com/e/y270rtx79f38",
+          "56179-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
