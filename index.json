@@ -11668,5 +11668,15 @@
     "captured_at": "2026-06-03T02:59:41",
     "file": "data/bubblegum-crisis-tokyo-2040.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bubblegum-crisis-tokyo-2040.json"
+  },
+  {
+    "slug": "bucchigiri",
+    "mal_id": 55358,
+    "anime_name": "Bucchigiri",
+    "anime_url": "https://hianime.ad/anime/bucchigiri",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:00:17",
+    "file": "data/bucchigiri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bucchigiri.json"
   }
 ]
