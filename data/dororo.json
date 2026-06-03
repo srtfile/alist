@@ -1,0 +1,1234 @@
+{
+  "anime_name": "Dororo",
+  "anime_url": "https://hianime.ad/anime/dororo",
+  "slug": "dororo",
+  "mal_id": 37520,
+  "total_episodes": 24,
+  "captured_at": "2026-06-03T09:09:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Story of Daigo",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-1",
+      "sub": {
+        "HD-1": {
+          "37520-malep-1_vibeplayer_sub": "https://vibeplayer.site/31097d9f26ff1af5",
+          "37520-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/31097d9f26ff1af5/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga18b8253e1eb8c7feb09ec154d7ce6f24h",
+          "37520-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-1_otakuhg_sub": "https://otakuhg.site/e/5cvvlosrm1mb",
+          "37520-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a1tcsepedp2i",
+          "37520-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-1_vibeplayer_dub": "https://vibeplayer.site/8fc456088313f323",
+          "37520-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8fc456088313f323/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag285036ef6930af02d419332c1b9cac294h",
+          "37520-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-1_otakuhg_dub": "https://otakuhg.site/e/g3ipos9hd4mw",
+          "37520-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z6sgxh7e6xar",
+          "37520-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of Bandai",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-2",
+      "sub": {
+        "HD-1": {
+          "37520-malep-2_vibeplayer_sub": "https://vibeplayer.site/ac7bcf156c832bb7",
+          "37520-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac7bcf156c832bb7/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-2_vibeplayer_sub": "https://vibeplayer.site/age6cf9e552f281e0cee22a98aa2a6f67b4h",
+          "37520-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-2_otakuhg_sub": "https://otakuhg.site/e/7eaxzb4sqx6v",
+          "37520-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-2_otakuvid_sub": "https://otakuvid.online/embed/561p9jj3lpvo",
+          "37520-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-2_vibeplayer_dub": "https://vibeplayer.site/741974b898f00ec3",
+          "37520-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/741974b898f00ec3/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-2_vibeplayer_dub": "https://vibeplayer.site/age48e15f8680e98693e6c9598a731e5934h",
+          "37520-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-2_otakuhg_dub": "https://otakuhg.site/e/a9hvvjbntyna",
+          "37520-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-2_otakuvid_dub": "https://otakuvid.online/embed/otg5s3mm6e91",
+          "37520-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3095dabfbc529c21",
+          "37520-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3095dabfbc529c21/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agcf7b7d8f9330a0c71a63d489e438d1724h",
+          "37520-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-2_otakuhg_hsub": "https://otakuhg.site/e/uxwby82adjfa",
+          "37520-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/nmfkizjc3xa4",
+          "37520-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-2_playmogo_hsub": "https://playmogo.com/e/88bhio4z4ogl",
+          "37520-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Jukai",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-3",
+      "sub": {
+        "HD-2": {
+          "37520-malep-3_vibeplayer_sub": "https://vibeplayer.site/agedd682c9375e8dbca5131cd25437d5564h",
+          "37520-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-3_otakuhg_sub": "https://otakuhg.site/e/ptoew7ih1rfc",
+          "37520-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-3_otakuvid_sub": "https://otakuvid.online/embed/2y6h7dskbrsi",
+          "37520-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-3_vibeplayer_dub": "https://vibeplayer.site/cbcea56efc9a2f5a",
+          "37520-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cbcea56efc9a2f5a/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag60f5ee88f9eef19bc37c408f10fde24c4h",
+          "37520-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-3_otakuhg_dub": "https://otakuhg.site/e/urtw06tgnmub",
+          "37520-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-3_otakuvid_dub": "https://otakuvid.online/embed/vz7n8589yxuo",
+          "37520-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of the Cursed Sword",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-4",
+      "sub": {
+        "HD-1": {
+          "37520-malep-4_vibeplayer_sub": "https://vibeplayer.site/8210798bb0747419",
+          "37520-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8210798bb0747419/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag2cd009ad0ac44e7f3b58e191e8d162c44h",
+          "37520-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-4_otakuhg_sub": "https://otakuhg.site/e/hyv0imi3x6ex",
+          "37520-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-4_otakuvid_sub": "https://otakuvid.online/embed/kzbrko1cdtja",
+          "37520-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-4_vibeplayer_dub": "https://vibeplayer.site/17ba1f650dc37c2d",
+          "37520-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/17ba1f650dc37c2d/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-4_vibeplayer_dub": "https://vibeplayer.site/age31785a0d67941875887685e51a051614h",
+          "37520-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-4_otakuhg_dub": "https://otakuhg.site/e/fy89p9ykjueu",
+          "37520-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-4_otakuvid_dub": "https://otakuvid.online/embed/uwxsk2gc76a6",
+          "37520-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of the Moriko Song, Part 1",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-5",
+      "sub": {
+        "HD-1": {
+          "37520-malep-5_vibeplayer_sub": "https://vibeplayer.site/48a452a87c9d2a0c",
+          "37520-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48a452a87c9d2a0c/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-5_vibeplayer_sub": "https://vibeplayer.site/agd98c34cfee67b9254a85e50d4ce3ab954h",
+          "37520-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-5_otakuhg_sub": "https://otakuhg.site/e/dg3j67555qoq",
+          "37520-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-5_otakuvid_sub": "https://otakuvid.online/embed/wubk89k9wf0e",
+          "37520-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-5_vibeplayer_dub": "https://vibeplayer.site/ecd1fc8b5100765d",
+          "37520-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ecd1fc8b5100765d/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag752288682e7902c780ccc94cf18201004h",
+          "37520-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-5_otakuvid_dub": "https://otakuvid.online/embed/xn5qub7kt27b",
+          "37520-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-5_vibeplayer_hsub": "https://vibeplayer.site/6cdcf3b54eed2d14",
+          "37520-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6cdcf3b54eed2d14/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-5_vibeplayer_hsub": "https://vibeplayer.site/aged6999fa07a44b7960feab9608ff396b4h",
+          "37520-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-5_otakuhg_hsub": "https://otakuhg.site/e/cmqknfekfpiy",
+          "37520-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/s2xuqm52hk9u",
+          "37520-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-5_playmogo_hsub": "https://playmogo.com/e/uc81nub3fx1y",
+          "37520-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Moriko Song, Part 2",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-6",
+      "sub": {
+        "HD-1": {
+          "37520-malep-6_vibeplayer_sub": "https://vibeplayer.site/ecc1b8007a3c6f7b",
+          "37520-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ecc1b8007a3c6f7b/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag9ba5f65ad2e87a0e1b69664ef3c62cb94h",
+          "37520-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-6_otakuhg_sub": "https://otakuhg.site/e/ohzhvhu7c924",
+          "37520-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-6_otakuvid_sub": "https://otakuvid.online/embed/9vnt9z4sp45l",
+          "37520-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-6_vibeplayer_dub": "https://vibeplayer.site/3261db479feace08",
+          "37520-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3261db479feace08/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag51ed1528870a486eb143c081594696864h",
+          "37520-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-6_otakuhg_dub": "https://otakuhg.site/e/040umr37z05g",
+          "37520-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-6_otakuvid_dub": "https://otakuvid.online/embed/e0knomygkgtx",
+          "37520-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of the Jorogumo Silk Spider",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-7",
+      "sub": {
+        "HD-1": {
+          "37520-malep-7_vibeplayer_sub": "https://vibeplayer.site/e86e0213259753eb",
+          "37520-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e86e0213259753eb/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-7_vibeplayer_sub": "https://vibeplayer.site/agfbd22cc26b3aa4b7d20ee6bc097381f34h",
+          "37520-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-7_otakuhg_sub": "https://otakuhg.site/e/803wh44pm5w6",
+          "37520-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-7_otakuvid_sub": "https://otakuvid.online/embed/j7n46acqitjb",
+          "37520-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-2": {
+          "37520-malep-7_vibeplayer_dub": "https://vibeplayer.site/agd3844b08ab83e8c628bf00a91f399c004h",
+          "37520-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-7_otakuhg_dub": "https://otakuhg.site/e/l2sjf9cqg8vq",
+          "37520-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-7_otakuvid_dub": "https://otakuvid.online/embed/ecrcliix5z1v",
+          "37520-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-7_vibeplayer_hsub": "https://vibeplayer.site/8964c106f5a5600f",
+          "37520-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8964c106f5a5600f/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag7c11d9c9abbf7db072e6cffe88b74f9b4h",
+          "37520-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-7_otakuhg_hsub": "https://otakuhg.site/e/n31q590gfkum",
+          "37520-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/w6e6a3c9uwzd",
+          "37520-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-7_playmogo_hsub": "https://playmogo.com/e/c0synsrhe2d4",
+          "37520-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Saru",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-8",
+      "sub": {
+        "HD-1": {
+          "37520-malep-8_vibeplayer_sub": "https://vibeplayer.site/f5677e7a170560c0",
+          "37520-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f5677e7a170560c0/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag67d8be7f702af73084e6fb3aaf47be6b4h",
+          "37520-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-8_otakuhg_sub": "https://otakuhg.site/e/2sl61otfz74a",
+          "37520-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-8_otakuvid_sub": "https://otakuvid.online/embed/l7j6eq1o8ydp",
+          "37520-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-8_vibeplayer_dub": "https://vibeplayer.site/00a009d0c6a557bb",
+          "37520-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/00a009d0c6a557bb/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-8_vibeplayer_dub": "https://vibeplayer.site/age69ec1b58be56ffffca7d69360ddd44d4h",
+          "37520-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-8_otakuhg_dub": "https://otakuhg.site/e/l2twalhx5l9u",
+          "37520-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-8_otakuvid_dub": "https://otakuvid.online/embed/sfs2qrh5z4zd",
+          "37520-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-8_vibeplayer_hsub": "https://vibeplayer.site/938d3a82cd670930",
+          "37520-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/938d3a82cd670930/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-8_vibeplayer_hsub": "https://vibeplayer.site/agbdf5d74019e084ce239698d503672c034h",
+          "37520-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-8_otakuhg_hsub": "https://otakuhg.site/e/wk08g9u3qdsc",
+          "37520-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/sdenz8mmecqu",
+          "37520-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-8_playmogo_hsub": "https://playmogo.com/e/gt45c53al9pk",
+          "37520-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Mercilessness",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-9",
+      "sub": {
+        "HD-1": {
+          "37520-malep-9_vibeplayer_sub": "https://vibeplayer.site/cdd86151c4122df9",
+          "37520-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cdd86151c4122df9/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag93c0924464c87d829d0adad8e76bbfce4h",
+          "37520-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-9_otakuhg_sub": "https://otakuhg.site/e/n35hr87ccu78",
+          "37520-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-9_otakuvid_sub": "https://otakuvid.online/embed/ssbw86dh02x0",
+          "37520-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-9_vibeplayer_dub": "https://vibeplayer.site/ad28df7c0efc175f",
+          "37520-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ad28df7c0efc175f/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag97ac1f2c4c12d3a11f3694574e17fc5f4h",
+          "37520-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-9_otakuvid_dub": "https://otakuvid.online/embed/rn99n9p4eatb",
+          "37520-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-9_vibeplayer_hsub": "https://vibeplayer.site/153f195d55350958",
+          "37520-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/153f195d55350958/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-9_vibeplayer_hsub": "https://vibeplayer.site/aga2c5f5eb296da43c49395ced8a604e454h",
+          "37520-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-9_otakuhg_hsub": "https://otakuhg.site/e/v9gl19p5y14p",
+          "37520-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/5rzabk91mfuz",
+          "37520-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-9_playmogo_hsub": "https://playmogo.com/e/4cubq2t4722y",
+          "37520-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Tahoumaru",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-10",
+      "sub": {
+        "HD-1": {
+          "37520-malep-10_vibeplayer_sub": "https://vibeplayer.site/9856d422dde06271",
+          "37520-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9856d422dde06271/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag487622845990ac12f83380c07d0455314h",
+          "37520-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-10_otakuhg_sub": "https://otakuhg.site/e/4osafz4d4fbx",
+          "37520-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-10_otakuvid_sub": "https://otakuvid.online/embed/huc63k05u6nv",
+          "37520-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-10_vibeplayer_dub": "https://vibeplayer.site/8bf83c9862a705a2",
+          "37520-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8bf83c9862a705a2/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag7813c945fbd65b7b9fbc2781afae79474h",
+          "37520-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-10_otakuvid_dub": "https://otakuvid.online/embed/luihn0kkpbhs",
+          "37520-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of Banmon, Part 1",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-11",
+      "sub": {
+        "HD-1": {
+          "37520-malep-11_vibeplayer_sub": "https://vibeplayer.site/5b2a868c1ea7d960",
+          "37520-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b2a868c1ea7d960/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag17892386e9fce69af304ef8b3109a5ba4h",
+          "37520-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-11_otakuhg_sub": "https://otakuhg.site/e/byjbxy4qunl1",
+          "37520-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-11_otakuvid_sub": "https://otakuvid.online/embed/q14f8q8ey9ye",
+          "37520-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-11_vibeplayer_dub": "https://vibeplayer.site/ddc9e8d95980ccdb",
+          "37520-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ddc9e8d95980ccdb/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag5633423c0588b81e763acf2f621888c84h",
+          "37520-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-11_otakuvid_dub": "https://otakuvid.online/embed/pty8cwif15ct",
+          "37520-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of Banmon, Part 2",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-12",
+      "sub": {
+        "HD-1": {
+          "37520-malep-12_vibeplayer_sub": "https://vibeplayer.site/4baa755d83d581b2",
+          "37520-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4baa755d83d581b2/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag118dd65ca3100240224105887220467c4h",
+          "37520-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-12_otakuhg_sub": "https://otakuhg.site/e/terddlt374b9",
+          "37520-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-12_otakuvid_sub": "https://otakuvid.online/embed/fjyn97zb4a00",
+          "37520-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-12_vibeplayer_dub": "https://vibeplayer.site/a38a778e00f86ee8",
+          "37520-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a38a778e00f86ee8/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag126c76114bac4fe82c2d055669b339004h",
+          "37520-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-12_otakuvid_dub": "https://otakuvid.online/embed/v308e1uhjtqu",
+          "37520-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-12_vibeplayer_hsub": "https://vibeplayer.site/e158c84e95c88095",
+          "37520-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e158c84e95c88095/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag104e9af2077cf4f192148b6a4f534ff64h",
+          "37520-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-12_otakuhg_hsub": "https://otakuhg.site/e/bvmfigrvgxvb",
+          "37520-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/d6v51kxj6tc2",
+          "37520-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-12_playmogo_hsub": "https://playmogo.com/e/923thaxqic3g",
+          "37520-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Blank-faced Buddah",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-13",
+      "sub": {
+        "HD-1": {
+          "37520-malep-13_vibeplayer_sub": "https://vibeplayer.site/8d6b1db3db3051e9",
+          "37520-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d6b1db3db3051e9/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-13_vibeplayer_sub": "https://vibeplayer.site/agc054673d3c6613892739b5fd6d9abddb4h",
+          "37520-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-13_otakuhg_sub": "https://otakuhg.site/e/w8ii27gqnsrh",
+          "37520-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-13_otakuvid_sub": "https://otakuvid.online/embed/43ylbfyst1bh",
+          "37520-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-13_vibeplayer_dub": "https://vibeplayer.site/aeda6763e4fd7ecb",
+          "37520-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aeda6763e4fd7ecb/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-13_vibeplayer_dub": "https://vibeplayer.site/ag8801bef2346cd4f6f5628d50c22de44f4h",
+          "37520-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-13_otakuvid_dub": "https://otakuvid.online/embed/x37zl2g2u9pn",
+          "37520-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-13_vibeplayer_hsub": "https://vibeplayer.site/b4296cb05f669e86",
+          "37520-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b4296cb05f669e86/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-13_vibeplayer_hsub": "https://vibeplayer.site/ag20df20a53fa096c2d06d0486470e5fd84h",
+          "37520-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-13_otakuhg_hsub": "https://otakuhg.site/e/ni1ncnfccu8j",
+          "37520-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/m1ugjogonjo5",
+          "37520-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-13_playmogo_hsub": "https://playmogo.com/e/tky1gdt10bxy",
+          "37520-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Sabame",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-14",
+      "sub": {
+        "HD-1": {
+          "37520-malep-14_vibeplayer_sub": "https://vibeplayer.site/4d12132258fdeba7",
+          "37520-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d12132258fdeba7/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-14_vibeplayer_sub": "https://vibeplayer.site/ag95665597dbe410263ae31287ec64cf5b4h",
+          "37520-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-14_otakuhg_sub": "https://otakuhg.site/e/1c6f1gr6i2fj",
+          "37520-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-14_otakuvid_sub": "https://otakuvid.online/embed/kwh3sgai6yg4",
+          "37520-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-2": {
+          "37520-malep-14_vibeplayer_dub": "https://vibeplayer.site/agd3a84dd600e4a06580508a416d23b8b64h",
+          "37520-malep-14_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-14_otakuvid_dub": "https://otakuvid.online/embed/0mpfa3eke18n",
+          "37520-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-14_vibeplayer_hsub": "https://vibeplayer.site/838413bbede00e2a",
+          "37520-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/838413bbede00e2a/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-14_vibeplayer_hsub": "https://vibeplayer.site/agfba587bdeca57fe5d9ee9acc3d5ca1264h",
+          "37520-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-14_otakuhg_hsub": "https://otakuhg.site/e/n6nxp7g1est0",
+          "37520-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/jvmgoxdxqa4z",
+          "37520-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-14_playmogo_hsub": "https://playmogo.com/e/jj5dt196z5oq",
+          "37520-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Scene from Hell",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-15",
+      "sub": {
+        "HD-1": {
+          "37520-malep-15_vibeplayer_sub": "https://vibeplayer.site/3d596c62eece32c1",
+          "37520-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3d596c62eece32c1/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-15_vibeplayer_sub": "https://vibeplayer.site/agd6bdb4e7eba3c05570413f77c4b932274h",
+          "37520-malep-15_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-15_otakuhg_sub": "https://otakuhg.site/e/dhuxc5l54ktc",
+          "37520-malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-15_otakuvid_sub": "https://otakuvid.online/embed/hqlgszgb2g7h",
+          "37520-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-15_vibeplayer_dub": "https://vibeplayer.site/70115bccaef190ef",
+          "37520-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/70115bccaef190ef/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-15_vibeplayer_dub": "https://vibeplayer.site/ag06625d6a740c26661ac279b2762413a74h",
+          "37520-malep-15_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-15_otakuvid_dub": "https://otakuvid.online/embed/niocsy76x42y",
+          "37520-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-15_vibeplayer_hsub": "https://vibeplayer.site/e5049e7ec8882fd3",
+          "37520-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e5049e7ec8882fd3/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-15_vibeplayer_hsub": "https://vibeplayer.site/ag729cb5486de354ee708544cac47e85db4h",
+          "37520-malep-15_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-15_otakuhg_hsub": "https://otakuhg.site/e/0x7tn1k9s8pd",
+          "37520-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/zr2h7jlih27n",
+          "37520-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-15_playmogo_hsub": "https://playmogo.com/e/bfec07ei913f",
+          "37520-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Shiranui\" Transcription",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-16",
+      "sub": {
+        "HD-2": {
+          "37520-malep-16_vibeplayer_sub": "https://vibeplayer.site/aga3ba066fa27caa7d99cf06a11135919c4h",
+          "37520-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-16_otakuhg_sub": "https://otakuhg.site/e/9mjlre2iglhp",
+          "37520-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-16_otakuvid_sub": "https://otakuvid.online/embed/03bm2dc6fv61",
+          "37520-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-16_vibeplayer_dub": "https://vibeplayer.site/d0f1698ff167a23f",
+          "37520-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d0f1698ff167a23f/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-16_vibeplayer_dub": "https://vibeplayer.site/agbc7a7d7a8e942457b71b6388a393cbc84h",
+          "37520-malep-16_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-16_otakuvid_dub": "https://otakuvid.online/embed/vl4725j21d8w",
+          "37520-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of Questions and Answers",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-17",
+      "sub": {
+        "HD-1": {
+          "37520-malep-17_vibeplayer_sub": "https://vibeplayer.site/d366ac91b92e1486",
+          "37520-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d366ac91b92e1486/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-17_vibeplayer_sub": "https://vibeplayer.site/ag97fcf1afbfe928eecc326ef1de9a2f2c4h",
+          "37520-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-17_otakuhg_sub": "https://otakuhg.site/e/uk7b2s5kaeen",
+          "37520-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-17_otakuvid_sub": "https://otakuvid.online/embed/mgfcy3o9ihjt",
+          "37520-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-17_vibeplayer_dub": "https://vibeplayer.site/871dfee78e6afb6b",
+          "37520-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/871dfee78e6afb6b/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-17_vibeplayer_dub": "https://vibeplayer.site/ag3b26e83aadc078d4d9d0ebbddf8eb1a54h",
+          "37520-malep-17_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-17_otakuhg_dub": "https://otakuhg.site/e/4dl46teswcfe",
+          "37520-malep-17_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-17_otakuvid_dub": "https://otakuvid.online/embed/akjfmbxjzfki",
+          "37520-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-17_vibeplayer_hsub": "https://vibeplayer.site/5e855830c419cb05",
+          "37520-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5e855830c419cb05/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-17_vibeplayer_hsub": "https://vibeplayer.site/agbbe7a9111bbce617871a6588eac100df4h",
+          "37520-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-17_otakuhg_hsub": "https://otakuhg.site/e/uh2hh2sx9fir",
+          "37520-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/5qkladfkurj8",
+          "37520-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-17_playmogo_hsub": "https://playmogo.com/e/b0nc4gv928pp",
+          "37520-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Cape of No Mercy",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-18",
+      "sub": {
+        "HD-1": {
+          "37520-malep-18_vibeplayer_sub": "https://vibeplayer.site/705e79c07e60750d",
+          "37520-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/705e79c07e60750d/master.m3u8"
+        },
+        "StreamHG": {
+          "37520-malep-18_otakuhg_sub": "https://otakuhg.site/e/1u6g7pxbhyq5",
+          "37520-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-18_otakuvid_sub": "https://otakuvid.online/embed/7n030215e37r",
+          "37520-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-18_vibeplayer_dub": "https://vibeplayer.site/1154385bf2d2083d",
+          "37520-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1154385bf2d2083d/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-18_vibeplayer_dub": "https://vibeplayer.site/agcf5ee748c579580546aa69ac8fb3d0954h",
+          "37520-malep-18_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-18_otakuvid_dub": "https://otakuvid.online/embed/49b3f881k5ui",
+          "37520-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Story of the Amanojaku",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-19",
+      "sub": {
+        "HD-1": {
+          "37520-malep-19_vibeplayer_sub": "https://vibeplayer.site/d2c5e6a29db3c43c",
+          "37520-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2c5e6a29db3c43c/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-19_vibeplayer_sub": "https://vibeplayer.site/ag31d01ef61251aa9c696430b4f7361b4d4h",
+          "37520-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-19_otakuhg_sub": "https://otakuhg.site/e/9d8cgbutzmla",
+          "37520-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-19_otakuvid_sub": "https://otakuvid.online/embed/z5bochp87koi",
+          "37520-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-19_vibeplayer_dub": "https://vibeplayer.site/1c095b6561399bd1",
+          "37520-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1c095b6561399bd1/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-19_vibeplayer_dub": "https://vibeplayer.site/ag5fb6546c606916dec4f54c1fdf893cd44h",
+          "37520-malep-19_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-19_otakuhg_dub": "https://otakuhg.site/e/tn4jdiyj4v1d",
+          "37520-malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-19_otakuvid_dub": "https://otakuvid.online/embed/ypm4xwktlmyy",
+          "37520-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-19_vibeplayer_hsub": "https://vibeplayer.site/ab99a2b96a75e4da",
+          "37520-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab99a2b96a75e4da/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-19_vibeplayer_hsub": "https://vibeplayer.site/agc18fc6557215c81b064b29092371a7f94h",
+          "37520-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-19_otakuhg_hsub": "https://otakuhg.site/e/7bg3bqmptdvs",
+          "37520-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/a7ulqsple9jq",
+          "37520-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-19_playmogo_hsub": "https://playmogo.com/e/52vg91qeda0c",
+          "37520-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Nue",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-20",
+      "sub": {
+        "HD-1": {
+          "37520-malep-20_vibeplayer_sub": "https://vibeplayer.site/8b8e712e1f8bd19d",
+          "37520-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b8e712e1f8bd19d/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-20_vibeplayer_sub": "https://vibeplayer.site/ag4fac79d4fa1cf23a1d8b55e4ffd3f1344h",
+          "37520-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-20_otakuhg_sub": "https://otakuhg.site/e/fgxx1dmbayta",
+          "37520-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-20_otakuvid_sub": "https://otakuvid.online/embed/2v2hif2vf64l",
+          "37520-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-20_vibeplayer_dub": "https://vibeplayer.site/4cbcd1cfdda10421",
+          "37520-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4cbcd1cfdda10421/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-20_vibeplayer_dub": "https://vibeplayer.site/ag8151d25b8c6043b7c32d1bfe24526a4c4h",
+          "37520-malep-20_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-20_otakuvid_dub": "https://otakuvid.online/embed/2p8wib01n6wt",
+          "37520-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-20_vibeplayer_hsub": "https://vibeplayer.site/fa0c3f47ee7553bd",
+          "37520-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa0c3f47ee7553bd/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-20_vibeplayer_hsub": "https://vibeplayer.site/ag96c450ba150f57839afea108941af4944h",
+          "37520-malep-20_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-20_otakuhg_hsub": "https://otakuhg.site/e/uy6j46ixv8es",
+          "37520-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/ucz16gewp8tf",
+          "37520-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-20_playmogo_hsub": "https://playmogo.com/e/77mnlvhnrlgu",
+          "37520-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Breaking the Cycle of Suffering",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-21",
+      "sub": {
+        "HD-1": {
+          "37520-malep-21_vibeplayer_sub": "https://vibeplayer.site/76f70157c6c461ee",
+          "37520-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76f70157c6c461ee/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag398c0dadea3a8d8be05ecfdf0bf637224h",
+          "37520-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-21_otakuhg_sub": "https://otakuhg.site/e/caw88jchud7t",
+          "37520-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-21_otakuvid_sub": "https://otakuvid.online/embed/3wxa5s4gxv69",
+          "37520-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-21_vibeplayer_dub": "https://vibeplayer.site/0e6a595b8bed5051",
+          "37520-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0e6a595b8bed5051/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-21_vibeplayer_dub": "https://vibeplayer.site/ag9b63a17b757c6063ab3728b7bd1626a14h",
+          "37520-malep-21_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-21_otakuhg_dub": "https://otakuhg.site/e/1987rva75qco",
+          "37520-malep-21_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-21_otakuvid_dub": "https://otakuvid.online/embed/5mlpzj0twhmb",
+          "37520-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-21_vibeplayer_hsub": "https://vibeplayer.site/e403b949aa9cce17",
+          "37520-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e403b949aa9cce17/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-21_vibeplayer_hsub": "https://vibeplayer.site/ag390942d357859458e3a9928f921f22964h",
+          "37520-malep-21_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-21_otakuhg_hsub": "https://otakuhg.site/e/dr7i84g4kkd2",
+          "37520-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/bxtzr9iptn9b",
+          "37520-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-21_playmogo_hsub": "https://playmogo.com/e/p0l96vpk5i7p",
+          "37520-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of Nui",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-22",
+      "sub": {
+        "HD-1": {
+          "37520-malep-22_vibeplayer_sub": "https://vibeplayer.site/b31a7e4902bfd958",
+          "37520-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b31a7e4902bfd958/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-22_vibeplayer_sub": "https://vibeplayer.site/aga6951a5e4d26d954a3703d893e48abd64h",
+          "37520-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-22_otakuhg_sub": "https://otakuhg.site/e/ribzdp1g38m2",
+          "37520-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-22_otakuvid_sub": "https://otakuvid.online/embed/gskh0kufxk11",
+          "37520-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-22_vibeplayer_dub": "https://vibeplayer.site/a228514b3fbbf256",
+          "37520-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a228514b3fbbf256/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-22_vibeplayer_dub": "https://vibeplayer.site/agff6ca4bc84235e444e9406f00ba2a5b34h",
+          "37520-malep-22_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-22_otakuhg_dub": "https://otakuhg.site/e/9yxw1gkkxl6i",
+          "37520-malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-22_otakuvid_dub": "https://otakuvid.online/embed/8n399docthkq",
+          "37520-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-22_vibeplayer_hsub": "https://vibeplayer.site/11931f79698746ea",
+          "37520-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11931f79698746ea/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-22_vibeplayer_hsub": "https://vibeplayer.site/ag88ce31f1d4c2d87787bf37f84f954ec64h",
+          "37520-malep-22_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-22_otakuhg_hsub": "https://otakuhg.site/e/dq4syv7gtwxz",
+          "37520-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/0w2kpmuxwzbd",
+          "37520-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-22_playmogo_hsub": "https://playmogo.com/e/zz4uqenlszjh",
+          "37520-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Story of the Demons",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-23",
+      "sub": {
+        "HD-2": {
+          "37520-malep-23_vibeplayer_sub": "https://vibeplayer.site/agb5ed2b3fdd5aea8a2db8cef06b29800c4h",
+          "37520-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-23_otakuhg_sub": "https://otakuhg.site/e/n02ov833zcrt",
+          "37520-malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-23_otakuvid_sub": "https://otakuvid.online/embed/6ab7w9y13pu2",
+          "37520-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-23_vibeplayer_dub": "https://vibeplayer.site/91acd2dc73b01c83",
+          "37520-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/91acd2dc73b01c83/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-23_vibeplayer_dub": "https://vibeplayer.site/ag170c839b5e76c7a3de6f127b721501c44h",
+          "37520-malep-23_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-23_otakuvid_dub": "https://otakuvid.online/embed/lnx6ktgo8a7g",
+          "37520-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Dororo and Hyakkimaru",
+      "episode_url": "https://hianime.ad/watch/dororo/ep-24",
+      "sub": {
+        "HD-1": {
+          "37520-malep-24_vibeplayer_sub": "https://vibeplayer.site/6611888ef13c57be",
+          "37520-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6611888ef13c57be/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-24_vibeplayer_sub": "https://vibeplayer.site/ag692ae7753b93af9ddd7b51b8ba1cfe6f4h",
+          "37520-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-24_otakuhg_sub": "https://otakuhg.site/e/yl8u9oha4e66",
+          "37520-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-24_otakuvid_sub": "https://otakuvid.online/embed/gzwq7wjxwthf",
+          "37520-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37520-malep-24_vibeplayer_dub": "https://vibeplayer.site/1637c1849636def5",
+          "37520-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1637c1849636def5/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-24_vibeplayer_dub": "https://vibeplayer.site/agc0d08366da70980c327acaa1715cf01c4h",
+          "37520-malep-24_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-24_otakuvid_dub": "https://otakuvid.online/embed/fwp6piylvzah",
+          "37520-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37520-malep-24_vibeplayer_hsub": "https://vibeplayer.site/0c9d4f976ce9e131",
+          "37520-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0c9d4f976ce9e131/master.m3u8"
+        },
+        "HD-2": {
+          "37520-malep-24_vibeplayer_hsub": "https://vibeplayer.site/ag44ac4b50efc8e04150d7afb8429490034h",
+          "37520-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37520-malep-24_otakuhg_hsub": "https://otakuhg.site/e/7rkgdjsy8v0t",
+          "37520-malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37520-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/iee1a5csw82n",
+          "37520-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37520-malep-24_playmogo_hsub": "https://playmogo.com/e/0bwb5li0ous4",
+          "37520-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
