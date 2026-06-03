@@ -5988,5 +5988,15 @@
     "captured_at": "2026-06-03T20:42:38",
     "file": "data/hetalia-world-series-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hetalia-world-series-specials.json"
+  },
+  {
+    "slug": "hetalia-world-stars",
+    "mal_id": 53698,
+    "anime_name": "Hetalia World Stars",
+    "anime_url": "https://hianime.ad/anime/hetalia-world-stars",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:42:53",
+    "file": "data/hetalia-world-stars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hetalia-world-stars.json"
   }
 ]
