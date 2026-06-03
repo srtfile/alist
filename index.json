@@ -12658,5 +12658,15 @@
     "captured_at": "2026-06-03T04:26:41",
     "file": "data/cardfight-vanguard-movie-neon-messiah.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-movie-neon-messiah.json"
+  },
+  {
+    "slug": "cardfight-vanguard-divinez",
+    "mal_id": 54142,
+    "anime_name": "Cardfight Vanguard Divinez",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-divinez",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T04:26:53",
+    "file": "data/cardfight-vanguard-divinez.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-divinez.json"
   }
 ]
