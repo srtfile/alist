@@ -10848,5 +10848,15 @@
     "captured_at": "2026-06-03T01:06:44",
     "file": "data/bluer-than-indigo-speaking-of-dreams.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bluer-than-indigo-speaking-of-dreams.json"
+  },
+  {
+    "slug": "bna",
+    "mal_id": 40060,
+    "anime_name": "Bna",
+    "anime_url": "https://hianime.ad/anime/bna",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T01:06:55",
+    "file": "data/bna.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bna.json"
   }
 ]
