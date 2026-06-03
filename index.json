@@ -498,5 +498,15 @@
     "captured_at": "2026-06-03T17:20:26",
     "file": "data/gensei-shugoshin-p-hyoro-ikka-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gensei-shugoshin-p-hyoro-ikka-ova.json"
+  },
+  {
+    "slug": "genshiken",
+    "mal_id": 240,
+    "anime_name": "Genshiken",
+    "anime_url": "https://hianime.ad/anime/genshiken",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:20:39",
+    "file": "data/genshiken.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genshiken.json"
   }
 ]
