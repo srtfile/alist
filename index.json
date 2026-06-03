@@ -298,5 +298,15 @@
     "captured_at": "2026-06-03T17:13:12",
     "file": "data/gear-fighter-dendoh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gear-fighter-dendoh.json"
+  },
+  {
+    "slug": "gegege-no-kitarou-1968",
+    "mal_id": 5688,
+    "anime_name": "Gegege No Kitarou 1968",
+    "anime_url": "https://hianime.ad/anime/gegege-no-kitarou-1968",
+    "total_episodes": 35,
+    "captured_at": "2026-06-03T17:13:58",
+    "file": "data/gegege-no-kitarou-1968.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gegege-no-kitarou-1968.json"
   }
 ]
