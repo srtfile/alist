@@ -13218,5 +13218,15 @@
     "captured_at": "2026-06-03T05:10:47",
     "file": "data/cells-at-work-code-black-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cells-at-work-code-black-tv.json"
+  },
+  {
+    "slug": "cencoroll",
+    "mal_id": null,
+    "anime_name": "Cencoroll",
+    "anime_url": "https://hianime.ad/anime/cencoroll",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T05:11:10",
+    "file": "data/cencoroll.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cencoroll.json"
   }
 ]
