@@ -21238,5 +21238,15 @@
     "captured_at": "2026-06-03T10:21:37",
     "file": "data/ellcia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ellcia.json"
+  },
+  {
+    "slug": "elysium",
+    "mal_id": null,
+    "anime_name": "Elysium",
+    "anime_url": "https://hianime.ad/anime/elysium",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:21:49",
+    "file": "data/elysium.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elysium.json"
   }
 ]
