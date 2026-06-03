@@ -18238,5 +18238,15 @@
     "captured_at": "2026-06-03T08:28:10",
     "file": "data/digimon-adventure-tri-reunion.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-adventure-tri-reunion.json"
+  },
+  {
+    "slug": "digimon-beatbreak",
+    "mal_id": 61269,
+    "anime_name": "Digimon Beatbreak",
+    "anime_url": "https://hianime.ad/anime/digimon-beatbreak",
+    "total_episodes": 33,
+    "captured_at": "2026-06-03T08:28:20",
+    "file": "data/digimon-beatbreak.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-beatbreak.json"
   }
 ]
