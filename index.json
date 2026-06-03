@@ -15778,5 +15778,15 @@
     "captured_at": "2026-06-03T06:48:11",
     "file": "data/cross-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cross-game.json"
+  },
+  {
+    "slug": "cross-road",
+    "mal_id": 25731,
+    "anime_name": "Cross Road",
+    "anime_url": "https://hianime.ad/anime/cross-road",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T06:49:08",
+    "file": "data/cross-road.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cross-road.json"
   }
 ]
