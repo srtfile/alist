@@ -3548,5 +3548,15 @@
     "captured_at": "2026-06-03T19:15:15",
     "file": "data/gundam-build-divers-prologue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-divers-prologue.json"
+  },
+  {
+    "slug": "gundam-build-divers-rerise",
+    "mal_id": 37245,
+    "anime_name": "Gundam Build Divers Rerise",
+    "anime_url": "https://hianime.ad/anime/gundam-build-divers-rerise",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:15:27",
+    "file": "data/gundam-build-divers-rerise.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-divers-rerise.json"
   }
 ]
