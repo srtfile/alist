@@ -1,0 +1,48 @@
+{
+  "anime_name": "Bridge My Little Friends",
+  "anime_url": "https://hianime.ad/anime/bridge-my-little-friends",
+  "slug": "bridge-my-little-friends",
+  "mal_id": 2104,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:52:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Yakuza Wife",
+      "episode_url": "https://hianime.ad/watch/bridge-my-little-friends/ep-1",
+      "sub": {
+        "HD-1": {
+          "2104-malep-1_vibeplayer_sub": "https://vibeplayer.site/2a59edd61fc4a64e",
+          "2104-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a59edd61fc4a64e/master.m3u8"
+        },
+        "HD-2": {
+          "2104-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4f14162228384f66a7746f13c37b09304h",
+          "2104-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2104-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yftol1uymxbf",
+          "2104-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1cae4480e95e1240",
+          "2104-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1cae4480e95e1240/master.m3u8"
+        },
+        "HD-2": {
+          "2104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag452c75cd8e65d2693c1060ccbb0039d54h",
+          "2104-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2104-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rupp1d58929z",
+          "2104-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2104-malep-1_playmogo_hsub": "https://playmogo.com/e/v2ub843wszmg",
+          "2104-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
