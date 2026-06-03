@@ -2618,5 +2618,15 @@
     "captured_at": "2026-06-03T18:42:14",
     "file": "data/good-killer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-killer.json"
+  },
+  {
+    "slug": "good-luck-girl",
+    "mal_id": 13535,
+    "anime_name": "Good Luck Girl",
+    "anime_url": "https://hianime.ad/anime/good-luck-girl",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:42:29",
+    "file": "data/good-luck-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-luck-girl.json"
   }
 ]
