@@ -2568,5 +2568,15 @@
     "captured_at": "2026-06-03T18:40:56",
     "file": "data/golgo-13-queen-bee.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golgo-13-queen-bee.json"
+  },
+  {
+    "slug": "gondora",
+    "mal_id": 1985,
+    "anime_name": "Gondora",
+    "anime_url": "https://hianime.ad/anime/gondora",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:41:08",
+    "file": "data/gondora.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gondora.json"
   }
 ]
