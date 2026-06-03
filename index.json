@@ -22548,5 +22548,15 @@
     "captured_at": "2026-06-03T11:11:42",
     "file": "data/fatal-rule.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fatal-rule.json"
+  },
+  {
+    "slug": "fateapocrypha",
+    "mal_id": 34662,
+    "anime_name": "Fateapocrypha",
+    "anime_url": "https://hianime.ad/anime/fateapocrypha",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T11:12:05",
+    "file": "data/fateapocrypha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fateapocrypha.json"
   }
 ]
