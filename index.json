@@ -12448,5 +12448,15 @@
     "captured_at": "2026-06-03T04:11:17",
     "file": "data/captain-kuppa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-kuppa.json"
+  },
+  {
+    "slug": "captain-of-cosmos",
+    "mal_id": 2203,
+    "anime_name": "Captain Of Cosmos",
+    "anime_url": "https://hianime.ad/anime/captain-of-cosmos",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T04:11:33",
+    "file": "data/captain-of-cosmos.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-of-cosmos.json"
   }
 ]
