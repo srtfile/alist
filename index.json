@@ -18628,5 +18628,15 @@
     "captured_at": "2026-06-03T08:44:26",
     "file": "data/disney-twisted-wonderland-the-animation-episode-of-heartslabyul.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/disney-twisted-wonderland-the-animation-episode-of-heartslabyul.json"
+  },
+  {
+    "slug": "dive",
+    "mal_id": 34543,
+    "anime_name": "Dive",
+    "anime_url": "https://hianime.ad/anime/dive",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T08:44:42",
+    "file": "data/dive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dive.json"
   }
 ]
