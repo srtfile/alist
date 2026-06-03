@@ -3488,5 +3488,15 @@
     "captured_at": "2026-06-03T19:12:57",
     "file": "data/gun-x-sword.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gun-x-sword.json"
+  },
+  {
+    "slug": "gun-x-sword-san",
+    "mal_id": 411,
+    "anime_name": "Gun X Sword San",
+    "anime_url": "https://hianime.ad/anime/gun-x-sword-san",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T19:13:31",
+    "file": "data/gun-x-sword-san.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gun-x-sword-san.json"
   }
 ]
