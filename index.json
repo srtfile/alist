@@ -9538,5 +9538,15 @@
     "captured_at": "2026-06-03T00:21:17",
     "file": "data/bihada-ichizoku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bihada-ichizoku.json"
+  },
+  {
+    "slug": "bikini-warriors",
+    "mal_id": 30782,
+    "anime_name": "Bikini Warriors",
+    "anime_url": "https://hianime.ad/anime/bikini-warriors",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:21:37",
+    "file": "data/bikini-warriors.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bikini-warriors.json"
   }
 ]
