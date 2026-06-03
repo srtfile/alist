@@ -4538,5 +4538,15 @@
     "captured_at": "2026-06-03T19:47:39",
     "file": "data/hana-no-zundamaru-junk.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-no-zundamaru-junk.json"
+  },
+  {
+    "slug": "hana-yori-dango",
+    "mal_id": 106,
+    "anime_name": "Hana Yori Dango",
+    "anime_url": "https://hianime.ad/anime/hana-yori-dango",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T19:47:53",
+    "file": "data/hana-yori-dango.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hana-yori-dango.json"
   }
 ]
