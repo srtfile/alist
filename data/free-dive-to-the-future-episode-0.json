@@ -1,0 +1,61 @@
+{
+  "anime_name": "Free Dive To The Future Episode 0",
+  "anime_url": "https://hianime.ad/anime/free-dive-to-the-future-episode-0",
+  "slug": "free-dive-to-the-future-episode-0",
+  "mal_id": 36704,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:00:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sprouting Dive Start!",
+      "episode_url": "https://hianime.ad/watch/free-dive-to-the-future-episode-0/ep-1",
+      "sub": {
+        "HD-1": {
+          "36704-malep-1_vibeplayer_sub": "https://vibeplayer.site/316360a62a3f142f",
+          "36704-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/316360a62a3f142f/master.m3u8"
+        },
+        "HD-2": {
+          "36704-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbb31dc46d737f263607361102b522f904h",
+          "36704-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36704-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bky0ea6bc9e8",
+          "36704-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "36704-malep-1_vibeplayer_dub": "https://vibeplayer.site/4c423549e146ca6d",
+          "36704-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c423549e146ca6d/master.m3u8"
+        },
+        "HD-2": {
+          "36704-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf1dad46258a39beca96183f15f2a6f9f4h",
+          "36704-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "36704-malep-1_otakuvid_dub": "https://otakuvid.online/embed/yfmqa4ekryty",
+          "36704-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "36704-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dadd841357197d3b",
+          "36704-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dadd841357197d3b/master.m3u8"
+        },
+        "HD-2": {
+          "36704-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaa167ed51a4d0644f70bdd33d25841424h",
+          "36704-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "36704-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vhpttcm0p73i",
+          "36704-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36704-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qzmgzxdirpup",
+          "36704-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
