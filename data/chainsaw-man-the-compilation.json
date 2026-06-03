@@ -1,0 +1,101 @@
+{
+  "anime_name": "Chainsaw Man The Compilation",
+  "anime_url": "https://hianime.ad/anime/chainsaw-man-the-compilation",
+  "slug": "chainsaw-man-the-compilation",
+  "mal_id": 44511,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T05:16:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dog and Chainsaw",
+      "episode_url": "https://hianime.ad/watch/chainsaw-man-the-compilation/ep-1",
+      "sub": {
+        "HD-1": {
+          "44511-malep-1_vibeplayer_sub": "https://vibeplayer.site/d9a8f798f36699fd",
+          "44511-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9a8f798f36699fd/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8360dc18681b7dc485027ea8899cd22a4h",
+          "44511-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-1_otakuhg_sub": "https://otakuhg.site/e/38ru8m0e5vr0",
+          "44511-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gh7j1a6fgg0p",
+          "44511-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "44511-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bc3e90a13314febf",
+          "44511-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc3e90a13314febf/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8e4ef44e00b737ba16a065411ccf2e8c4h",
+          "44511-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2d3sv4ib51uu",
+          "44511-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wcasguey7tio",
+          "44511-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44511-malep-1_playmogo_hsub": "https://playmogo.com/e/iv6m5ray6wdl",
+          "44511-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Arrival in Tokyo",
+      "episode_url": "https://hianime.ad/watch/chainsaw-man-the-compilation/ep-2",
+      "sub": {
+        "HD-1": {
+          "44511-malep-2_vibeplayer_sub": "https://vibeplayer.site/96cda4f3b9c41b8a",
+          "44511-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96cda4f3b9c41b8a/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag7f8c19396ef4b99742be9df71e9463f14h",
+          "44511-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-2_otakuhg_sub": "https://otakuhg.site/e/m26dtdt1nr5l",
+          "44511-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-2_otakuvid_sub": "https://otakuvid.online/embed/xjsj0wxhiajq",
+          "44511-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "44511-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a2400000c48b545b",
+          "44511-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a2400000c48b545b/master.m3u8"
+        },
+        "HD-2": {
+          "44511-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag26aabb7fe2501ee07fad70ab0bf8936c4h",
+          "44511-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "44511-malep-2_otakuhg_hsub": "https://otakuhg.site/e/s8e8y7akmxv9",
+          "44511-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44511-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/z8n8p3quep6b",
+          "44511-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44511-malep-2_playmogo_hsub": "https://playmogo.com/e/10l58iy576ne",
+          "44511-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
