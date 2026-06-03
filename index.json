@@ -6448,5 +6448,15 @@
     "captured_at": "2026-06-03T20:57:45",
     "file": "data/high-school-kimengumi-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-kimengumi-movie.json"
+  },
+  {
+    "slug": "high-score-girl",
+    "mal_id": 21877,
+    "anime_name": "High Score Girl",
+    "anime_url": "https://hianime.ad/anime/high-score-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:57:58",
+    "file": "data/high-score-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-score-girl.json"
   }
 ]
