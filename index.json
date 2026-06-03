@@ -12338,5 +12338,15 @@
     "captured_at": "2026-06-03T04:06:11",
     "file": "data/candy-candy-the-call-of-spring.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/candy-candy-the-call-of-spring.json"
+  },
+  {
+    "slug": "candy-caries",
+    "mal_id": 63276,
+    "anime_name": "Candy Caries",
+    "anime_url": "https://hianime.ad/anime/candy-caries",
+    "total_episodes": 7,
+    "captured_at": "2026-06-03T04:06:24",
+    "file": "data/candy-caries.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/candy-caries.json"
   }
 ]
