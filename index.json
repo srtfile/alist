@@ -6318,5 +6318,15 @@
     "captured_at": "2026-06-03T20:54:13",
     "file": "data/high-school-dxd-born-yomigaeranai-fushichou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-born-yomigaeranai-fushichou.json"
+  },
+  {
+    "slug": "high-school-dxd-hero",
+    "mal_id": 34281,
+    "anime_name": "High School Dxd Hero",
+    "anime_url": "https://hianime.ad/anime/high-school-dxd-hero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:54:25",
+    "file": "data/high-school-dxd-hero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-dxd-hero.json"
   }
 ]
