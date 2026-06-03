@@ -6768,5 +6768,15 @@
     "captured_at": "2026-06-03T21:11:13",
     "file": "data/hinako-note.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinako-note.json"
+  },
+  {
+    "slug": "hinamatsuri",
+    "mal_id": 36296,
+    "anime_name": "Hinamatsuri",
+    "anime_url": "https://hianime.ad/anime/hinamatsuri",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T21:11:35",
+    "file": "data/hinamatsuri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinamatsuri.json"
   }
 ]
