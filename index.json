@@ -12938,5 +12938,15 @@
     "captured_at": "2026-06-03T04:59:54",
     "file": "data/case-file-n221-kabukicho.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/case-file-n221-kabukicho.json"
+  },
+  {
+    "slug": "casshan-robot-hunter",
+    "mal_id": 11061,
+    "anime_name": "Casshan Robot Hunter",
+    "anime_url": "https://hianime.ad/anime/casshan-robot-hunter",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T05:00:29",
+    "file": "data/casshan-robot-hunter.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/casshan-robot-hunter.json"
   }
 ]
