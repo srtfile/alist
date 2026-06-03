@@ -1708,5 +1708,15 @@
     "captured_at": "2026-06-03T18:05:18",
     "file": "data/girls-panzer-saishuushou-part-4.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer-saishuushou-part-4.json"
+  },
+  {
+    "slug": "girls-panzer-taiyaki-war",
+    "mal_id": 14131,
+    "anime_name": "Girls Panzer Taiyaki War",
+    "anime_url": "https://hianime.ad/anime/girls-panzer-taiyaki-war",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T18:05:30",
+    "file": "data/girls-panzer-taiyaki-war.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/girls-panzer-taiyaki-war.json"
   }
 ]
