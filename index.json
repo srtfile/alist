@@ -1238,5 +1238,15 @@
     "captured_at": "2026-06-03T17:47:07",
     "file": "data/ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai.json"
+  },
+  {
+    "slug": "ginga-hyouryuu-vifam",
+    "mal_id": 2987,
+    "anime_name": "Ginga Hyouryuu Vifam",
+    "anime_url": "https://hianime.ad/anime/ginga-hyouryuu-vifam",
+    "total_episodes": 46,
+    "captured_at": "2026-06-03T17:47:21",
+    "file": "data/ginga-hyouryuu-vifam.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ginga-hyouryuu-vifam.json"
   }
 ]
