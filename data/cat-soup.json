@@ -1,0 +1,56 @@
+{
+  "anime_name": "Cat Soup",
+  "anime_url": "https://hianime.ad/anime/cat-soup",
+  "slug": "cat-soup",
+  "mal_id": 1062,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:05:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "School Chapter",
+      "episode_url": "https://hianime.ad/watch/cat-soup/ep-1",
+      "sub": {
+        "HD-1": {
+          "1062-malep-1_vibeplayer_sub": "https://vibeplayer.site/d7632fdc339f84b2",
+          "1062-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7632fdc339f84b2/master.m3u8"
+        },
+        "HD-2": {
+          "1062-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag03cb84b096b7569e5379ae7f3259cea94h",
+          "1062-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1062-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1kd7r6yfdstg",
+          "1062-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1062-malep-1_playmogo_sub": "https://playmogo.com/e/wfw038gjsmre",
+          "1062-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1062-malep-1_vibeplayer_hsub": "https://vibeplayer.site/425961b89fe1c4fe",
+          "1062-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/425961b89fe1c4fe/master.m3u8"
+        },
+        "HD-2": {
+          "1062-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5b59f5ec777c85283c5642ad2ae5aad84h",
+          "1062-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1062-malep-1_otakuhg_hsub": "https://otakuhg.site/e/23e364o6c9mn",
+          "1062-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1062-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b0qd049v2rj6",
+          "1062-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1062-malep-1_playmogo_hsub": "https://playmogo.com/e/o8ss3nml8os3",
+          "1062-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
