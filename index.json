@@ -22148,5 +22148,15 @@
     "captured_at": "2026-06-03T10:55:25",
     "file": "data/fairies-albums.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairies-albums.json"
+  },
+  {
+    "slug": "fairies-albums-2nd-season",
+    "mal_id": 11809,
+    "anime_name": "Fairies Albums 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/fairies-albums-2nd-season",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T10:55:45",
+    "file": "data/fairies-albums-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fairies-albums-2nd-season.json"
   }
 ]
