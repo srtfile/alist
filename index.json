@@ -4938,5 +4938,15 @@
     "captured_at": "2026-06-03T20:02:13",
     "file": "data/happylesson-advance.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happylesson-advance.json"
+  },
+  {
+    "slug": "happylesson-the-final",
+    "mal_id": 40028,
+    "anime_name": "Happylesson The Final",
+    "anime_url": "https://hianime.ad/anime/happylesson-the-final",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T20:02:37",
+    "file": "data/happylesson-the-final.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/happylesson-the-final.json"
   }
 ]
