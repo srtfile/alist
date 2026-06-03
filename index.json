@@ -16108,5 +16108,15 @@
     "captured_at": "2026-06-03T07:24:09",
     "file": "data/d-c-iii-da-capo-iii.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-c-iii-da-capo-iii.json"
+  },
+  {
+    "slug": "d-gray-man",
+    "mal_id": 1482,
+    "anime_name": "D Gray Man",
+    "anime_url": "https://hianime.ad/anime/d-gray-man",
+    "total_episodes": 103,
+    "captured_at": "2026-06-03T07:24:30",
+    "file": "data/d-gray-man.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-gray-man.json"
   }
 ]
