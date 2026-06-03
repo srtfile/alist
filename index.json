@@ -6488,5 +6488,15 @@
     "captured_at": "2026-06-03T20:58:53",
     "file": "data/high-speed-jessie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-speed-jessie.json"
+  },
+  {
+    "slug": "high-rise-invasion",
+    "mal_id": 41353,
+    "anime_name": "High Rise Invasion",
+    "anime_url": "https://hianime.ad/anime/high-rise-invasion",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:59:15",
+    "file": "data/high-rise-invasion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-rise-invasion.json"
   }
 ]
