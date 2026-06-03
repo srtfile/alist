@@ -2608,5 +2608,15 @@
     "captured_at": "2026-06-03T18:41:52",
     "file": "data/good-bye-dragon-life.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-bye-dragon-life.json"
+  },
+  {
+    "slug": "good-killer",
+    "mal_id": 40610,
+    "anime_name": "Good Killer",
+    "anime_url": "https://hianime.ad/anime/good-killer",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T18:42:14",
+    "file": "data/good-killer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/good-killer.json"
   }
 ]
