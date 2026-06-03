@@ -1,0 +1,52 @@
+{
+  "anime_name": "Hi No Tori 2772 Ai No Cosmozone",
+  "anime_url": "https://hianime.ad/anime/hi-no-tori-2772-ai-no-cosmozone",
+  "slug": "hi-no-tori-2772-ai-no-cosmozone",
+  "mal_id": 1371,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:46:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dawn, Part 1",
+      "episode_url": "https://hianime.ad/watch/hi-no-tori-2772-ai-no-cosmozone/ep-1",
+      "sub": {
+        "HD-1": {
+          "1371-malep-1_vibeplayer_sub": "https://vibeplayer.site/f85b785ec663fd07",
+          "1371-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f85b785ec663fd07/master.m3u8"
+        },
+        "StreamHG": {
+          "1371-malep-1_otakuhg_sub": "https://otakuhg.site/e/20z77lrg1hts",
+          "1371-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1371-malep-1_otakuvid_sub": "https://otakuvid.online/embed/usb580v9g091",
+          "1371-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1371-malep-1_playmogo_sub": "https://playmogo.com/e/yj9w2fjynxra",
+          "1371-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1371-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e7cfaa8307284557",
+          "1371-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e7cfaa8307284557/master.m3u8"
+        },
+        "StreamHG": {
+          "1371-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ag2y5sys3iv1",
+          "1371-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1371-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uno1bmafv8x2",
+          "1371-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1371-malep-1_playmogo_hsub": "https://playmogo.com/e/i0r1n34x18lh",
+          "1371-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
