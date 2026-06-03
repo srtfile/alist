@@ -25568,5 +25568,15 @@
     "captured_at": "2026-06-03T13:48:24",
     "file": "data/gallery-fake.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gallery-fake.json"
+  },
+  {
+    "slug": "gals-cant-be-kind-to-otaku",
+    "mal_id": 62604,
+    "anime_name": "Gals Cant Be Kind To Otaku",
+    "anime_url": "https://hianime.ad/anime/gals-cant-be-kind-to-otaku",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T13:49:05",
+    "file": "data/gals-cant-be-kind-to-otaku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gals-cant-be-kind-to-otaku.json"
   }
 ]
