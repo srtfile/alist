@@ -408,5 +408,15 @@
     "captured_at": "2026-06-03T17:17:41",
     "file": "data/geneshaft.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/geneshaft.json"
+  },
+  {
+    "slug": "genesis-survivor-gaiarth",
+    "mal_id": 21843,
+    "anime_name": "Genesis Survivor Gaiarth",
+    "anime_url": "https://hianime.ad/anime/genesis-survivor-gaiarth",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T17:18:04",
+    "file": "data/genesis-survivor-gaiarth.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/genesis-survivor-gaiarth.json"
   }
 ]
