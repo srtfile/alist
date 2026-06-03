@@ -9198,5 +9198,15 @@
     "captured_at": "2026-06-03T00:01:31",
     "file": "data/betrothed-to-my-sisters-ex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/betrothed-to-my-sisters-ex.json"
+  },
+  {
+    "slug": "betterman",
+    "mal_id": 1136,
+    "anime_name": "Betterman",
+    "anime_url": "https://hianime.ad/anime/betterman",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T00:01:51",
+    "file": "data/betterman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/betterman.json"
   }
 ]
