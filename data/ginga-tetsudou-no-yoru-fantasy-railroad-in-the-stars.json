@@ -1,0 +1,40 @@
+{
+  "anime_name": "Ginga Tetsudou No Yoru Fantasy Railroad In The Stars",
+  "anime_url": "https://hianime.ad/anime/ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars",
+  "slug": "ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:48:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ed5f3ed2b2169426",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed5f3ed2b2169426/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/uccr8g5f6qd3",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/39e2955f2345564c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39e2955f2345564c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qk1xh7n3fakt",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/06uswlw7b7uz",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
