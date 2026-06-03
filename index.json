@@ -228,5 +228,15 @@
     "captured_at": "2026-06-03T17:11:15",
     "file": "data/gate-keepers-21.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gate-keepers-21.json"
+  },
+  {
+    "slug": "gauche-the-cellist",
+    "mal_id": 41710,
+    "anime_name": "Gauche The Cellist",
+    "anime_url": "https://hianime.ad/anime/gauche-the-cellist",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:11:32",
+    "file": "data/gauche-the-cellist.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gauche-the-cellist.json"
   }
 ]
