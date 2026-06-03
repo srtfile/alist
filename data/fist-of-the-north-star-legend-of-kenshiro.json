@@ -1,0 +1,53 @@
+{
+  "anime_name": "Fist Of The North Star Legend Of Kenshiro",
+  "anime_url": "https://hianime.ad/anime/fist-of-the-north-star-legend-of-kenshiro",
+  "slug": "fist-of-the-north-star-legend-of-kenshiro",
+  "mal_id": 4549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:35:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Fists Are for the Heavens",
+      "episode_url": "https://hianime.ad/watch/fist-of-the-north-star-legend-of-kenshiro/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_dub": "https://vibeplayer.site/e026d76059a14790",
+          "4549-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e026d76059a14790/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag70d2a55f6115e8c2016d486bf639d58a4h",
+          "4549-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_dub": "https://otakuhg.site/e/suo2fjvwb993",
+          "4549-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_dub": "https://otakuvid.online/embed/llpyirx2zd8l",
+          "4549-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_raw": "https://vibeplayer.site/c3db8f92bd611fde",
+          "4549-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/c3db8f92bd611fde/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag328a55043eddbed762413bf928d8e6964h",
+          "4549-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_raw": "https://otakuhg.site/e/uk5l6pdf67w0",
+          "4549-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_raw": "https://otakuvid.online/embed/568mf186e7je",
+          "4549-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
