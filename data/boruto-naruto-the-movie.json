@@ -1,0 +1,53 @@
+{
+  "anime_name": "Boruto Naruto The Movie",
+  "anime_url": "https://hianime.ad/anime/boruto-naruto-the-movie",
+  "slug": "boruto-naruto-the-movie",
+  "mal_id": 34566,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:45:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Boruto Uzumaki!",
+      "episode_url": "https://hianime.ad/watch/boruto-naruto-the-movie/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "34566-malep-1_vibeplayer_dub": "https://vibeplayer.site/fcf75dbf5ff64431",
+          "34566-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fcf75dbf5ff64431/master.m3u8"
+        },
+        "HD-2": {
+          "34566-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag57f3b1b842218979d8066ff7fce8bbd94h",
+          "34566-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "34566-malep-1_otakuhg_dub": "https://otakuhg.site/e/t1upzldaifah",
+          "34566-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34566-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sd04gwftnbul",
+          "34566-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "34566-malep-1_vibeplayer_raw": "https://vibeplayer.site/e2d381d65e2de158",
+          "34566-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e2d381d65e2de158/master.m3u8"
+        },
+        "HD-2": {
+          "34566-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag8e34b739a299cbefcf0d9218c9fa665b4h",
+          "34566-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "34566-malep-1_otakuhg_raw": "https://otakuhg.site/e/b38nla6ueism",
+          "34566-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "34566-malep-1_otakuvid_raw": "https://otakuvid.online/embed/it8v0i3bye13",
+          "34566-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
