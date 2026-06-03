@@ -1,0 +1,85 @@
+{
+  "anime_name": "Di Gi Charat Tsuyu Specials",
+  "anime_url": "https://hianime.ad/anime/di-gi-charat-tsuyu-specials",
+  "slug": "di-gi-charat-tsuyu-specials",
+  "mal_id": 293,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T08:22:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dejiko is Here-nyo",
+      "episode_url": "https://hianime.ad/watch/di-gi-charat-tsuyu-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "293-malep-1_vibeplayer_sub": "https://vibeplayer.site/6d2367bc916d279b",
+          "293-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d2367bc916d279b/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb750f31cfe918949de3600731adaa44f4h",
+          "293-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-1_otakuvid_sub": "https://otakuvid.online/embed/91cw9ihmet5v",
+          "293-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "293-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c3fb509e009e7d6f",
+          "293-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3fb509e009e7d6f/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag69a4585c5935b01c820604d84893fbf24h",
+          "293-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k3zqlj5qrx0s",
+          "293-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "293-malep-1_playmogo_hsub": "https://playmogo.com/e/2pgv9a2z99lt",
+          "293-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Call me Rabi-en-Rose",
+      "episode_url": "https://hianime.ad/watch/di-gi-charat-tsuyu-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "293-malep-2_vibeplayer_sub": "https://vibeplayer.site/051aaf10a43beacd",
+          "293-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/051aaf10a43beacd/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag1b09f3e48e75fc4e8748fe88552532a54h",
+          "293-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vexvmkf4pm5d",
+          "293-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "293-malep-2_vibeplayer_hsub": "https://vibeplayer.site/99c8b6ad87fb2d94",
+          "293-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/99c8b6ad87fb2d94/master.m3u8"
+        },
+        "HD-2": {
+          "293-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agf0534cbe550a8d93e17c66e1af04b0c54h",
+          "293-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "293-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/86n4mp0a8fqi",
+          "293-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "293-malep-2_playmogo_hsub": "https://playmogo.com/e/4ju3alkox280",
+          "293-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
