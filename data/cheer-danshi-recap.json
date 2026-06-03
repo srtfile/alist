@@ -1,0 +1,61 @@
+{
+  "anime_name": "Cheer Danshi Recap",
+  "anime_url": "https://hianime.ad/anime/cheer-danshi-recap",
+  "slug": "cheer-danshi-recap",
+  "mal_id": 32483,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:24:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Curtain Rises",
+      "episode_url": "https://hianime.ad/watch/cheer-danshi-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "32483-malep-1_vibeplayer_sub": "https://vibeplayer.site/f7989714fb6fe7d7",
+          "32483-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f7989714fb6fe7d7/master.m3u8"
+        },
+        "HD-2": {
+          "32483-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag38b36da8c40f91b4429733a1e31440384h",
+          "32483-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32483-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sju6go1c8uhj",
+          "32483-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32483-malep-1_vibeplayer_dub": "https://vibeplayer.site/a4239807bd607503",
+          "32483-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a4239807bd607503/master.m3u8"
+        },
+        "HD-2": {
+          "32483-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5c25a66f38a8f5e3f416517f059177ee4h",
+          "32483-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32483-malep-1_otakuvid_dub": "https://otakuvid.online/embed/e9g7jld72e9r",
+          "32483-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32483-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3d8836b95fae2b17",
+          "32483-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3d8836b95fae2b17/master.m3u8"
+        },
+        "HD-2": {
+          "32483-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9786a1f11ca13e53be1b3d434a4bc8164h",
+          "32483-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32483-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ih7xl2irwqy",
+          "32483-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32483-malep-1_playmogo_hsub": "https://playmogo.com/e/hg7zoku90w09",
+          "32483-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
