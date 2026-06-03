@@ -1,0 +1,31 @@
+{
+  "anime_name": "Great Mazinger Tai Getter Robo G Kuuchuu Daigekitotsu",
+  "anime_url": "https://hianime.ad/anime/great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu",
+  "slug": "great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu",
+  "mal_id": 5658,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:58:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Hero of the Skies, Great Mazinger",
+      "episode_url": "https://hianime.ad/watch/great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "5658-malep-1_vibeplayer_dub": "https://vibeplayer.site/ec7b0a99cbd93cb0",
+          "5658-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ec7b0a99cbd93cb0/master.m3u8"
+        },
+        "StreamHG": {
+          "5658-malep-1_otakuhg_dub": "https://otakuhg.site/e/d6zipdn0oeg0",
+          "5658-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "5658-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kvqeod15ggdk",
+          "5658-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
