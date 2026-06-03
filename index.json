@@ -25678,5 +25678,15 @@
     "captured_at": "2026-06-03T13:52:11",
     "file": "data/gantz.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gantz.json"
+  },
+  {
+    "slug": "gantz-second-stage",
+    "mal_id": 395,
+    "anime_name": "Gantz Second Stage",
+    "anime_url": "https://hianime.ad/anime/gantz-second-stage",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T13:52:32",
+    "file": "data/gantz-second-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gantz-second-stage.json"
   }
 ]
