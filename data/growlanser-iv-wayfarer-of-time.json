@@ -1,0 +1,36 @@
+{
+  "anime_name": "Growlanser Iv Wayfarer Of Time",
+  "anime_url": "https://hianime.ad/anime/growlanser-iv-wayfarer-of-time",
+  "slug": "growlanser-iv-wayfarer-of-time",
+  "mal_id": 247,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:06:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It Is Thee, Priestess of the Dragon God",
+      "episode_url": "https://hianime.ad/watch/growlanser-iv-wayfarer-of-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "247-malep-1_vibeplayer_sub": "https://vibeplayer.site/fff57887ebdec81b",
+          "247-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fff57887ebdec81b/master.m3u8"
+        },
+        "Earnvids": {
+          "247-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sr0cbv3xkxj4",
+          "247-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "247-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6d769d7f89dee36c",
+          "247-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6d769d7f89dee36c/master.m3u8"
+        },
+        "Earnvids": {
+          "247-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/orz4yf84mxtv",
+          "247-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
