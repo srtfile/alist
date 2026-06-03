@@ -10548,5 +10548,15 @@
     "captured_at": "2026-06-03T00:55:47",
     "file": "data/blue-drop.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-drop.json"
+  },
+  {
+    "slug": "blue-exorcist",
+    "mal_id": 9919,
+    "anime_name": "Blue Exorcist",
+    "anime_url": "https://hianime.ad/anime/blue-exorcist",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T00:56:08",
+    "file": "data/blue-exorcist.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-exorcist.json"
   }
 ]
