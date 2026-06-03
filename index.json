@@ -12568,5 +12568,15 @@
     "captured_at": "2026-06-03T04:19:59",
     "file": "data/cardfight-vanguard-asia-circuit.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-asia-circuit.json"
+  },
+  {
+    "slug": "cardfight-vanguard-g",
+    "mal_id": 27815,
+    "anime_name": "Cardfight Vanguard G",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-g",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T04:20:45",
+    "file": "data/cardfight-vanguard-g.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-g.json"
   }
 ]
