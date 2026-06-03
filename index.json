@@ -10518,5 +10518,15 @@
     "captured_at": "2026-06-03T00:53:16",
     "file": "data/blue-comet-spt-layzner.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-comet-spt-layzner.json"
+  },
+  {
+    "slug": "blue-dragon",
+    "mal_id": 2142,
+    "anime_name": "Blue Dragon",
+    "anime_url": "https://hianime.ad/anime/blue-dragon",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:53:58",
+    "file": "data/blue-dragon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-dragon.json"
   }
 ]
