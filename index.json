@@ -9258,5 +9258,15 @@
     "captured_at": "2026-06-03T00:05:27",
     "file": "data/beyblade-burst-evolution.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-evolution.json"
+  },
+  {
+    "slug": "beyblade-burst-gachi",
+    "mal_id": 39282,
+    "anime_name": "Beyblade Burst Gachi",
+    "anime_url": "https://hianime.ad/anime/beyblade-burst-gachi",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T00:06:22",
+    "file": "data/beyblade-burst-gachi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-gachi.json"
   }
 ]
