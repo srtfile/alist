@@ -15148,5 +15148,15 @@
     "captured_at": "2026-06-03T06:29:24",
     "file": "data/cooking-papa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cooking-papa.json"
+  },
+  {
+    "slug": "cooking-with-valkyries",
+    "mal_id": 53446,
+    "anime_name": "Cooking With Valkyries",
+    "anime_url": "https://hianime.ad/anime/cooking-with-valkyries",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T06:29:36",
+    "file": "data/cooking-with-valkyries.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cooking-with-valkyries.json"
   }
 ]
