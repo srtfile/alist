@@ -5118,5 +5118,15 @@
     "captured_at": "2026-06-03T20:08:04",
     "file": "data/hataraki-man.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hataraki-man.json"
+  },
+  {
+    "slug": "hataraku-saibou-specials",
+    "mal_id": 39586,
+    "anime_name": "Hataraku Saibou Specials",
+    "anime_url": "https://hianime.ad/anime/hataraku-saibou-specials",
+    "total_episodes": 5,
+    "captured_at": "2026-06-03T20:08:26",
+    "file": "data/hataraku-saibou-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hataraku-saibou-specials.json"
   }
 ]
