@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 04 Adventure In Henderland",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-04-adventure-in-henderland",
+  "slug": "crayon-shin-chan-movie-04-adventure-in-henderland",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:39:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-04-adventure-in-henderland/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/0d213dfce3f898b7",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d213dfce3f898b7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6e18e1d4b7abbb66e5fda78157b914934h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/tbevfrvn6rgo",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/u942xrlrwr6o",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/d3c2e37e88b2ec8b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3c2e37e88b2ec8b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag11cd99ea54f2d86cad8b347a88800afc4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/a2efwkr7ixba",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/if35twyv24bz",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/5dy072h9b99q",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
