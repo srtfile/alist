@@ -1,0 +1,61 @@
+{
+  "anime_name": "Broken Blade 5",
+  "anime_url": "https://hianime.ad/anime/broken-blade-5",
+  "slug": "broken-blade-5",
+  "mal_id": 22433,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T02:55:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Un Sorcerer",
+      "episode_url": "https://hianime.ad/watch/broken-blade-5/ep-1",
+      "sub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_sub": "https://vibeplayer.site/6cfbb62be1676b7e",
+          "22433-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6cfbb62be1676b7e/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2425cc534e9d7ef34149ee3148b4c8a54h",
+          "22433-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i2c3x6qckvi8",
+          "22433-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_dub": "https://vibeplayer.site/3a0f6360308724a6",
+          "22433-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3a0f6360308724a6/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga4918f4beb32cc9b35c69590f21b428f4h",
+          "22433-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_dub": "https://otakuvid.online/embed/yw3xkz7dspnj",
+          "22433-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4a79992e77004125",
+          "22433-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a79992e77004125/master.m3u8"
+        },
+        "HD-2": {
+          "22433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag96a6c809c4f31cf7ff7f0347d70bdfba4h",
+          "22433-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22433-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xssilb89bxzm",
+          "22433-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22433-malep-1_playmogo_hsub": "https://playmogo.com/e/bt6as0fw6wm7",
+          "22433-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
