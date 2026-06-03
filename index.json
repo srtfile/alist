@@ -2258,5 +2258,15 @@
     "captured_at": "2026-06-03T18:28:06",
     "file": "data/god-of-ten-thousand-realms.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-ten-thousand-realms.json"
+  },
+  {
+    "slug": "god-of-war-alliance",
+    "mal_id": 2510,
+    "anime_name": "God Of War Alliance",
+    "anime_url": "https://hianime.ad/anime/god-of-war-alliance",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T18:29:06",
+    "file": "data/god-of-war-alliance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/god-of-war-alliance.json"
   }
 ]
