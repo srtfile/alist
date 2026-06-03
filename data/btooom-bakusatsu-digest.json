@@ -1,0 +1,89 @@
+{
+  "anime_name": "Btooom Bakusatsu Digest",
+  "anime_url": "https://hianime.ad/anime/btooom-bakusatsu-digest",
+  "slug": "btooom-bakusatsu-digest",
+  "mal_id": 14345,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T02:58:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Start",
+      "episode_url": "https://hianime.ad/watch/btooom-bakusatsu-digest/ep-1",
+      "sub": {
+        "HD-1": {
+          "14345-malep-1_vibeplayer_sub": "https://vibeplayer.site/9872564fe3788015",
+          "14345-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9872564fe3788015/master.m3u8"
+        },
+        "HD-2": {
+          "14345-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag323f66ad20e564a34209867f8e4106ba4h",
+          "14345-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "14345-malep-1_otakuhg_sub": "https://otakuhg.site/e/b8ghm0gp0uca",
+          "14345-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14345-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1n5pxtqo0evq",
+          "14345-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14345-malep-1_vibeplayer_hsub": "https://vibeplayer.site/deea7cc2c3f28c9a",
+          "14345-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/deea7cc2c3f28c9a/master.m3u8"
+        },
+        "HD-2": {
+          "14345-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga0d593503708ef9027034e7a07b7ba144h",
+          "14345-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14345-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x1mmsjcelqyj",
+          "14345-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14345-malep-1_playmogo_hsub": "https://playmogo.com/e/h69e54jjnsss",
+          "14345-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Bloodstained High School Girl",
+      "episode_url": "https://hianime.ad/watch/btooom-bakusatsu-digest/ep-2",
+      "sub": {
+        "HD-1": {
+          "14345-malep-2_vibeplayer_sub": "https://vibeplayer.site/d018db2d16101fa0",
+          "14345-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d018db2d16101fa0/master.m3u8"
+        },
+        "HD-2": {
+          "14345-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag436562b87f96ff8db391361c115eee864h",
+          "14345-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14345-malep-2_otakuvid_sub": "https://otakuvid.online/embed/5093wu7rezwp",
+          "14345-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14345-malep-2_vibeplayer_hsub": "https://vibeplayer.site/99b806b86c87fe6a",
+          "14345-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/99b806b86c87fe6a/master.m3u8"
+        },
+        "HD-2": {
+          "14345-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag13a6dd03eee7fb8de37ab92d799200da4h",
+          "14345-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14345-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ehqovmbe5kem",
+          "14345-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14345-malep-2_playmogo_hsub": "https://playmogo.com/e/t7hkzbrzmp0h",
+          "14345-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
