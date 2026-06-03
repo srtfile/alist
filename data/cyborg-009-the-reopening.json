@@ -1,0 +1,60 @@
+{
+  "anime_name": "Cyborg 009 The Reopening",
+  "anime_url": "https://hianime.ad/anime/cyborg-009-the-reopening",
+  "slug": "cyborg-009-the-reopening",
+  "mal_id": 1678,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:22:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Birth",
+      "episode_url": "https://hianime.ad/watch/cyborg-009-the-reopening/ep-1",
+      "sub": {
+        "HD-1": {
+          "1678-malep-1_vibeplayer_sub": "https://vibeplayer.site/6105b2fd96951814",
+          "1678-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6105b2fd96951814/master.m3u8"
+        },
+        "HD-2": {
+          "1678-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag49edda436eea30cdaee2ffa6fac5aaec4h",
+          "1678-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1678-malep-1_otakuhg_sub": "https://otakuhg.site/e/ug8v6xi3dudl",
+          "1678-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1678-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6rtopjceif20",
+          "1678-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1678-malep-1_playmogo_sub": "https://playmogo.com/e/lsvq3g7b6ipe",
+          "1678-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1678-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d7b763960e26120a",
+          "1678-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d7b763960e26120a/master.m3u8"
+        },
+        "HD-2": {
+          "1678-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag598bf49a7e722b651024170792023cb74h",
+          "1678-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1678-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cykhyje62kak",
+          "1678-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1678-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k4erpcf1cds3",
+          "1678-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1678-malep-1_playmogo_hsub": "https://playmogo.com/e/10b49g7tfcwv",
+          "1678-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
