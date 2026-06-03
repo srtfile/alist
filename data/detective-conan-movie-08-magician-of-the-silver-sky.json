@@ -1,0 +1,60 @@
+{
+  "anime_name": "Detective Conan Movie 08 Magician Of The Silver Sky",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-08-magician-of-the-silver-sky",
+  "slug": "detective-conan-movie-08-magician-of-the-silver-sky",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:08:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-08-magician-of-the-silver-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/80b98627a6bf9edd",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/80b98627a6bf9edd/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/age584bb37951c751fa82a2bf2ef1890184h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/z8jo5vq3w6hx",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ney1om0qhff7",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/7rx3pepcfhlv",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/38d0b383f1322800",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/38d0b383f1322800/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5d8410ae13f5f603eb5e43c38000a2954h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/6sb0xk563ddv",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vbe2nj621qq4",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/mn9idf83upim",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
