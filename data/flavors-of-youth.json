@@ -1,0 +1,65 @@
+{
+  "anime_name": "Flavors Of Youth",
+  "anime_url": "https://hianime.ad/anime/flavors-of-youth",
+  "slug": "flavors-of-youth",
+  "mal_id": 518,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:39:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Love Love Minky Momo",
+      "episode_url": "https://hianime.ad/watch/flavors-of-youth/ep-1",
+      "sub": {
+        "HD-1": {
+          "518-malep-1_vibeplayer_sub": "https://vibeplayer.site/11927acfad869525",
+          "518-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11927acfad869525/master.m3u8"
+        },
+        "HD-2": {
+          "518-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1942bb1a350d77796668170a308766a54h",
+          "518-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "518-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ambohxjh5wwr",
+          "518-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "518-malep-1_vibeplayer_dub": "https://vibeplayer.site/38d48489ca8ca6e4",
+          "518-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/38d48489ca8ca6e4/master.m3u8"
+        },
+        "HD-2": {
+          "518-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2a879d4c513576c20229b2fd57dde3c94h",
+          "518-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "518-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nyohg3gxq4jm",
+          "518-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "518-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f324483a766bb6b0",
+          "518-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f324483a766bb6b0/master.m3u8"
+        },
+        "HD-2": {
+          "518-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8549a20e9e5849d869b42ccf7b514e244h",
+          "518-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "518-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zemg2wy4hi2p",
+          "518-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "518-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2dpmioxj719j",
+          "518-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "518-malep-1_playmogo_hsub": "https://playmogo.com/e/awdys7bahy9v",
+          "518-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
