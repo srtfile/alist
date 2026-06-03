@@ -11158,5 +11158,15 @@
     "captured_at": "2026-06-03T02:39:22",
     "file": "data/boogiepop-and-others.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boogiepop-and-others.json"
+  },
+  {
+    "slug": "boogiepop-phantom",
+    "mal_id": 369,
+    "anime_name": "Boogiepop Phantom",
+    "anime_url": "https://hianime.ad/anime/boogiepop-phantom",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T02:39:50",
+    "file": "data/boogiepop-phantom.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/boogiepop-phantom.json"
   }
 ]
