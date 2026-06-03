@@ -1,0 +1,52 @@
+{
+  "anime_name": "Gintama Movie 2 The Final Chapter Be Forever Yorozuya",
+  "anime_url": "https://hianime.ad/anime/gintama-movie-2-the-final-chapter-be-forever-yorozuya",
+  "slug": "gintama-movie-2-the-final-chapter-be-forever-yorozuya",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:53:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-movie-2-the-final-chapter-be-forever-yorozuya/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/eb57e4c50e34eb87",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eb57e4c50e34eb87/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/upbypl2humfk",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/erbwa9woa1ze",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_sub": "https://playmogo.com/e/3rjgtx6yig9m",
+          "9969-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/70a84216322e8f0f",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70a84216322e8f0f/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0uktigy9nwc9",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yhbl865hbnso",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/x40mp6wd49s1",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
