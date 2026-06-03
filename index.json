@@ -23648,5 +23648,15 @@
     "captured_at": "2026-06-03T12:39:04",
     "file": "data/flavors-of-youth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flavors-of-youth.json"
+  },
+  {
+    "slug": "flcl",
+    "mal_id": 51304,
+    "anime_name": "Flcl",
+    "anime_url": "https://hianime.ad/anime/flcl",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T12:39:15",
+    "file": "data/flcl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flcl.json"
   }
 ]
