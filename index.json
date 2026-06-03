@@ -12798,5 +12798,15 @@
     "captured_at": "2026-06-03T04:31:38",
     "file": "data/carole-tuesday.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carole-tuesday.json"
+  },
+  {
+    "slug": "carole-tuesday-specials",
+    "mal_id": 37435,
+    "anime_name": "Carole Tuesday Specials",
+    "anime_url": "https://hianime.ad/anime/carole-tuesday-specials",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T04:32:12",
+    "file": "data/carole-tuesday-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/carole-tuesday-specials.json"
   }
 ]
