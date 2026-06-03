@@ -11408,5 +11408,15 @@
     "captured_at": "2026-06-03T02:52:28",
     "file": "data/break-age.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/break-age.json"
+  },
+  {
+    "slug": "bride-of-deimos",
+    "mal_id": 62311,
+    "anime_name": "Bride Of Deimos",
+    "anime_url": "https://hianime.ad/anime/bride-of-deimos",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T02:52:40",
+    "file": "data/bride-of-deimos.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bride-of-deimos.json"
   }
 ]
