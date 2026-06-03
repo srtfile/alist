@@ -12638,5 +12638,15 @@
     "captured_at": "2026-06-03T04:24:54",
     "file": "data/cardfight-vanguard-legion-mate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-legion-mate.json"
+  },
+  {
+    "slug": "cardfight-vanguard-link-joker",
+    "mal_id": 15611,
+    "anime_name": "Cardfight Vanguard Link Joker",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard-link-joker",
+    "total_episodes": 59,
+    "captured_at": "2026-06-03T04:25:36",
+    "file": "data/cardfight-vanguard-link-joker.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard-link-joker.json"
   }
 ]
