@@ -4458,5 +4458,15 @@
     "captured_at": "2026-06-03T19:45:30",
     "file": "data/hal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hal.json"
+  },
+  {
+    "slug": "halo-legends",
+    "mal_id": 4879,
+    "anime_name": "Halo Legends",
+    "anime_url": "https://hianime.ad/anime/halo-legends",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T19:45:42",
+    "file": "data/halo-legends.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/halo-legends.json"
   }
 ]
