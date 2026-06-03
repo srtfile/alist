@@ -6788,5 +6788,15 @@
     "captured_at": "2026-06-03T21:11:58",
     "file": "data/hinomaru-sumo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hinomaru-sumo.json"
+  },
+  {
+    "slug": "hipira-kun",
+    "mal_id": 7723,
+    "anime_name": "Hipira Kun",
+    "anime_url": "https://hianime.ad/anime/hipira-kun",
+    "total_episodes": 10,
+    "captured_at": "2026-06-03T21:12:31",
+    "file": "data/hipira-kun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hipira-kun.json"
   }
 ]
