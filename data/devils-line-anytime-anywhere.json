@@ -1,0 +1,52 @@
+{
+  "anime_name": "Devils Line Anytime Anywhere",
+  "anime_url": "https://hianime.ad/anime/devils-line-anytime-anywhere",
+  "slug": "devils-line-anytime-anywhere",
+  "mal_id": 35928,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:19:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dark Side",
+      "episode_url": "https://hianime.ad/watch/devils-line-anytime-anywhere/ep-1",
+      "sub": {
+        "HD-1": {
+          "35928-malep-1_vibeplayer_sub": "https://vibeplayer.site/bd79efa7af4e73ab",
+          "35928-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd79efa7af4e73ab/master.m3u8"
+        },
+        "HD-2": {
+          "35928-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5dd3ed58819764ba42381d6c28e682704h",
+          "35928-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "35928-malep-1_otakuhg_sub": "https://otakuhg.site/e/uq9hbqptgt95",
+          "35928-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35928-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yeos8a754sgd",
+          "35928-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35928-malep-1_vibeplayer_hsub": "https://vibeplayer.site/304c83b6601479d3",
+          "35928-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/304c83b6601479d3/master.m3u8"
+        },
+        "HD-2": {
+          "35928-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9133bd44e49333367bc970f0a5b670ec4h",
+          "35928-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "35928-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b3svh24hjcg6",
+          "35928-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35928-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/89t956twjled",
+          "35928-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
