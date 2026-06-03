@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 21 Bakauma B Kyuu Gourmet Survival Battle",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle",
+  "slug": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:43:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/9c83001323a6cc67",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c83001323a6cc67/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3ec69b989ac7b8154cd73039aebb14024h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/vtbw20va2xov",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/5ndrt0alas0t",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/31e9e828b22bc84a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31e9e828b22bc84a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag546dda7cb4ee3241b6d230e633a887c14h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/hhqh345hezpl",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rvf1kz09ixat",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9ip8rihxdh5m",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
