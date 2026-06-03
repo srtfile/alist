@@ -1,0 +1,69 @@
+{
+  "anime_name": "Detective Conan Movie 21 The Crimson Love Letter",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-21-the-crimson-love-letter",
+  "slug": "detective-conan-movie-21-the-crimson-love-letter",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:10:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-21-the-crimson-love-letter/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ddb5972c00240c37",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ddb5972c00240c37/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag04420f88f51fe61fd790a7f89db2a9714h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qgp8orc45p5y",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/c196b42b9da69f3d",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c196b42b9da69f3d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/agc4e3dac4acba65f4c2b0a8a7a21b902a4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/dafiwk4lzioi",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/l1ewhnxxtayf",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/206d3657a67ec16b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/206d3657a67ec16b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5f7aa4ccabc6d2efdcc9fe1b616544eb4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/l17m8d247i2c",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k2n14rqb1671",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/hnwerbotx18q",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
