@@ -658,5 +658,15 @@
     "captured_at": "2026-06-03T17:26:49",
     "file": "data/getter-robo-go.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getter-robo-go.json"
+  },
+  {
+    "slug": "getter-robo-armageddon",
+    "mal_id": 3579,
+    "anime_name": "Getter Robo Armageddon",
+    "anime_url": "https://hianime.ad/anime/getter-robo-armageddon",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T17:27:27",
+    "file": "data/getter-robo-armageddon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/getter-robo-armageddon.json"
   }
 ]
