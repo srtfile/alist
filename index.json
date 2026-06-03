@@ -13618,5 +13618,15 @@
     "captured_at": "2026-06-03T05:30:01",
     "file": "data/chibi-maruko-chan-my-favorite-song.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chibi-maruko-chan-my-favorite-song.json"
+  },
+  {
+    "slug": "chibidevi",
+    "mal_id": 11457,
+    "anime_name": "Chibidevi",
+    "anime_url": "https://hianime.ad/anime/chibidevi",
+    "total_episodes": 75,
+    "captured_at": "2026-06-03T05:30:13",
+    "file": "data/chibidevi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chibidevi.json"
   }
 ]
