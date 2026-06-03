@@ -1058,5 +1058,15 @@
     "captured_at": "2026-06-03T17:39:12",
     "file": "data/giant-killing.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-killing.json"
+  },
+  {
+    "slug": "giant-robo",
+    "mal_id": 3146,
+    "anime_name": "Giant Robo",
+    "anime_url": "https://hianime.ad/anime/giant-robo",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T17:39:47",
+    "file": "data/giant-robo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-robo.json"
   }
 ]
