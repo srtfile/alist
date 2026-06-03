@@ -6148,5 +6148,15 @@
     "captured_at": "2026-06-03T20:48:05",
     "file": "data/hidamari-sketch-x-365.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidamari-sketch-x-365.json"
+  },
+  {
+    "slug": "hidamari-sketch-x-365-specials",
+    "mal_id": 3604,
+    "anime_name": "Hidamari Sketch X 365 Specials",
+    "anime_url": "https://hianime.ad/anime/hidamari-sketch-x-365-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T20:48:28",
+    "file": "data/hidamari-sketch-x-365-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidamari-sketch-x-365-specials.json"
   }
 ]
