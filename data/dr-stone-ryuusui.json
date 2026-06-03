@@ -1,0 +1,73 @@
+{
+  "anime_name": "Dr Stone Ryuusui",
+  "anime_url": "https://hianime.ad/anime/dr-stone-ryuusui",
+  "slug": "dr-stone-ryuusui",
+  "mal_id": 38691,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:26:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Stone World",
+      "episode_url": "https://hianime.ad/watch/dr-stone-ryuusui/ep-1",
+      "sub": {
+        "HD-1": {
+          "38691-malep-1_vibeplayer_sub": "https://vibeplayer.site/c969337afd820c2a",
+          "38691-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c969337afd820c2a/master.m3u8"
+        },
+        "HD-2": {
+          "38691-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga9c292477dddd24113db5a2779a09f304h",
+          "38691-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "38691-malep-1_otakuhg_sub": "https://otakuhg.site/e/og6f7lbdbdhc",
+          "38691-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38691-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2vlrqq5231ar",
+          "38691-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38691-malep-1_vibeplayer_dub": "https://vibeplayer.site/e751ad4431c98f72",
+          "38691-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e751ad4431c98f72/master.m3u8"
+        },
+        "HD-2": {
+          "38691-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag58fa0476fc39127a78436177757ff5314h",
+          "38691-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "38691-malep-1_otakuhg_dub": "https://otakuhg.site/e/jiejdoc8ykbc",
+          "38691-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "38691-malep-1_otakuvid_dub": "https://otakuvid.online/embed/viyryhy4h49h",
+          "38691-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "38691-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4c29962172ff9cf7",
+          "38691-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4c29962172ff9cf7/master.m3u8"
+        },
+        "HD-2": {
+          "38691-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8703530b1196c61a8a52f1a7bfa545814h",
+          "38691-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38691-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sqc8912epxje",
+          "38691-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38691-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4iu5a0lr8b0b",
+          "38691-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38691-malep-1_playmogo_hsub": "https://playmogo.com/e/gz9o16m0ety1",
+          "38691-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
