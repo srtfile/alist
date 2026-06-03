@@ -23848,5 +23848,15 @@
     "captured_at": "2026-06-03T12:45:26",
     "file": "data/food-for-the-soul.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/food-for-the-soul.json"
+  },
+  {
+    "slug": "food-wars-shokugeki-no-soma",
+    "mal_id": 28171,
+    "anime_name": "Food Wars Shokugeki No Soma",
+    "anime_url": "https://hianime.ad/anime/food-wars-shokugeki-no-soma",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T12:45:46",
+    "file": "data/food-wars-shokugeki-no-soma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/food-wars-shokugeki-no-soma.json"
   }
 ]
