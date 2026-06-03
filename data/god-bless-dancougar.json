@@ -1,0 +1,40 @@
+{
+  "anime_name": "God Bless Dancougar",
+  "anime_url": "https://hianime.ad/anime/god-bless-dancougar",
+  "slug": "god-bless-dancougar",
+  "mal_id": 41353,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:23:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Set Up / Stand Up",
+      "episode_url": "https://hianime.ad/watch/god-bless-dancougar/ep-1",
+      "sub": {
+        "HD-1": {
+          "41353-malep-1_vibeplayer_sub": "https://vibeplayer.site/cbc0d9c052893e90",
+          "41353-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cbc0d9c052893e90/master.m3u8"
+        },
+        "Earnvids": {
+          "41353-malep-1_otakuvid_sub": "https://otakuvid.online/embed/meggq9jivotd",
+          "41353-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41353-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e238482f9512591d",
+          "41353-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e238482f9512591d/master.m3u8"
+        },
+        "Earnvids": {
+          "41353-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lb90iugqon5s",
+          "41353-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41353-malep-1_playmogo_hsub": "https://playmogo.com/e/sclx4g7uljw9",
+          "41353-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
