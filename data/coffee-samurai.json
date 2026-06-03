@@ -1,0 +1,48 @@
+{
+  "anime_name": "Coffee Samurai",
+  "anime_url": "https://hianime.ad/anime/coffee-samurai",
+  "slug": "coffee-samurai",
+  "mal_id": 419,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:20:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Road to Armageddon",
+      "episode_url": "https://hianime.ad/watch/coffee-samurai/ep-1",
+      "sub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_sub": "https://vibeplayer.site/af80e9bdfa5cc5d5",
+          "419-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af80e9bdfa5cc5d5/master.m3u8"
+        },
+        "HD-2": {
+          "419-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6637675fc20d9ea944d038d27472c56d4h",
+          "419-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_sub": "https://otakuvid.online/embed/45xtnemhitp7",
+          "419-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7c73a6f93f2b606e",
+          "419-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7c73a6f93f2b606e/master.m3u8"
+        },
+        "HD-2": {
+          "419-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag66ac146acd1d4a1ae0de8af9d7d72ee34h",
+          "419-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gwftzym1rhez",
+          "419-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "419-malep-1_playmogo_hsub": "https://playmogo.com/e/ggysjuagv5wn",
+          "419-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
