@@ -10538,5 +10538,15 @@
     "captured_at": "2026-06-03T00:54:53",
     "file": "data/blue-dragon-the-seven-dragons-of-the-heavens.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-dragon-the-seven-dragons-of-the-heavens.json"
+  },
+  {
+    "slug": "blue-drop",
+    "mal_id": 2964,
+    "anime_name": "Blue Drop",
+    "anime_url": "https://hianime.ad/anime/blue-drop",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T00:55:47",
+    "file": "data/blue-drop.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blue-drop.json"
   }
 ]
