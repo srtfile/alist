@@ -3528,5 +3528,15 @@
     "captured_at": "2026-06-03T19:14:28",
     "file": "data/gundam-build-divers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-divers.json"
+  },
+  {
+    "slug": "gundam-build-divers-battlogue",
+    "mal_id": 37245,
+    "anime_name": "Gundam Build Divers Battlogue",
+    "anime_url": "https://hianime.ad/anime/gundam-build-divers-battlogue",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:15:03",
+    "file": "data/gundam-build-divers-battlogue.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-divers-battlogue.json"
   }
 ]
