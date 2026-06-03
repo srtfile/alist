@@ -18828,5 +18828,15 @@
     "captured_at": "2026-06-03T08:51:02",
     "file": "data/dog-signal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dog-signal.json"
+  },
+  {
+    "slug": "dogs-tea",
+    "mal_id": 2233,
+    "anime_name": "Dogs Tea",
+    "anime_url": "https://hianime.ad/anime/dogs-tea",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T08:51:30",
+    "file": "data/dogs-tea.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dogs-tea.json"
   }
 ]
