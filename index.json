@@ -10158,5 +10158,15 @@
     "captured_at": "2026-06-03T00:41:54",
     "file": "data/blame-prologue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blame-prologue.json"
+  },
+  {
+    "slug": "blassreiter",
+    "mal_id": 3407,
+    "anime_name": "Blassreiter",
+    "anime_url": "https://hianime.ad/anime/blassreiter",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T00:42:06",
+    "file": "data/blassreiter.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blassreiter.json"
   }
 ]
