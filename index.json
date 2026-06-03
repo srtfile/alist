@@ -1858,5 +1858,15 @@
     "captured_at": "2026-06-03T18:09:33",
     "file": "data/given-uragawa-no-sonzai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/given-uragawa-no-sonzai.json"
+  },
+  {
+    "slug": "gj-club",
+    "mal_id": 14811,
+    "anime_name": "Gj Club",
+    "anime_url": "https://hianime.ad/anime/gj-club",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T18:09:46",
+    "file": "data/gj-club.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gj-club.json"
   }
 ]
