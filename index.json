@@ -17228,5 +17228,15 @@
     "captured_at": "2026-06-03T08:01:48",
     "file": "data/demon-lord-retry-r.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-lord-retry-r.json"
+  },
+  {
+    "slug": "demon-prince-enma",
+    "mal_id": 55998,
+    "anime_name": "Demon Prince Enma",
+    "anime_url": "https://hianime.ad/anime/demon-prince-enma",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T08:02:08",
+    "file": "data/demon-prince-enma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-prince-enma.json"
   }
 ]
