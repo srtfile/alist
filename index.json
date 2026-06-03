@@ -2468,5 +2468,15 @@
     "captured_at": "2026-06-03T18:35:36",
     "file": "data/golden-kamuy-2nd-season-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-kamuy-2nd-season-ova.json"
+  },
+  {
+    "slug": "golden-kamuy-final-season",
+    "mal_id": 55772,
+    "anime_name": "Golden Kamuy Final Season",
+    "anime_url": "https://hianime.ad/anime/golden-kamuy-final-season",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T18:35:50",
+    "file": "data/golden-kamuy-final-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/golden-kamuy-final-season.json"
   }
 ]
