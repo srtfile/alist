@@ -1,0 +1,77 @@
+{
+  "anime_name": "Evangelion 3 01 0 Thrice Upon A Time",
+  "anime_url": "https://hianime.ad/anime/evangelion-3-01-0-thrice-upon-a-time",
+  "slug": "evangelion-3-01-0-thrice-upon-a-time",
+  "mal_id": 11307,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:41:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/evangelion-3-01-0-thrice-upon-a-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "11307-malep-1_vibeplayer_sub": "https://vibeplayer.site/0ebb18b3f81d37f0",
+          "11307-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ebb18b3f81d37f0/master.m3u8"
+        },
+        "HD-2": {
+          "11307-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0a248e80558c4ec478898d18f34048e14h",
+          "11307-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "11307-malep-1_otakuhg_sub": "https://otakuhg.site/e/1hdf2k8au9uh",
+          "11307-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "11307-malep-1_otakuvid_sub": "https://otakuvid.online/embed/e7whe4404j94",
+          "11307-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "11307-malep-1_playmogo_sub": "https://playmogo.com/e/utp2yi1gkaxn",
+          "11307-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "11307-malep-1_vibeplayer_dub": "https://vibeplayer.site/4fd942577df7c3fd",
+          "11307-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4fd942577df7c3fd/master.m3u8"
+        },
+        "HD-2": {
+          "11307-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag329d580fd85d9225a43d57335e9a80cb4h",
+          "11307-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "11307-malep-1_otakuhg_dub": "https://otakuhg.site/e/oqcv51luvfxt",
+          "11307-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "11307-malep-1_otakuvid_dub": "https://otakuvid.online/embed/23yi66rjrpd7",
+          "11307-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "11307-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8feac5b6afdd600d",
+          "11307-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8feac5b6afdd600d/master.m3u8"
+        },
+        "HD-2": {
+          "11307-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agabc0d1642ac1c0a55b1875233fbe28834h",
+          "11307-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "11307-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i2vz8gf9j07a",
+          "11307-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11307-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/m9hnhs1q5oo8",
+          "11307-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11307-malep-1_playmogo_hsub": "https://playmogo.com/e/o6id5hsi8tki",
+          "11307-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
