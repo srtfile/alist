@@ -10178,5 +10178,15 @@
     "captured_at": "2026-06-03T00:42:37",
     "file": "data/blast-of-tempest.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blast-of-tempest.json"
+  },
+  {
+    "slug": "blazblue-alter-memory",
+    "mal_id": 18767,
+    "anime_name": "Blazblue Alter Memory",
+    "anime_url": "https://hianime.ad/anime/blazblue-alter-memory",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T00:43:07",
+    "file": "data/blazblue-alter-memory.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/blazblue-alter-memory.json"
   }
 ]
