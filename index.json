@@ -20708,5 +20708,15 @@
     "captured_at": "2026-06-03T10:04:38",
     "file": "data/dungeon-people.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dungeon-people.json"
+  },
+  {
+    "slug": "dungeons-television",
+    "mal_id": 63706,
+    "anime_name": "Dungeons Television",
+    "anime_url": "https://hianime.ad/anime/dungeons-television",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:04:59",
+    "file": "data/dungeons-television.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dungeons-television.json"
   }
 ]
