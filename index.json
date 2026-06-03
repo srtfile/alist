@@ -25598,5 +25598,15 @@
     "captured_at": "2026-06-03T13:49:33",
     "file": "data/gamera-rebirth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gamera-rebirth.json"
+  },
+  {
+    "slug": "gamers",
+    "mal_id": 34280,
+    "anime_name": "Gamers",
+    "anime_url": "https://hianime.ad/anime/gamers",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:49:48",
+    "file": "data/gamers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gamers.json"
   }
 ]
