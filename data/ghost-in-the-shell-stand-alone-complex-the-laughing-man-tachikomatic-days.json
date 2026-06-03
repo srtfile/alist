@@ -1,0 +1,49 @@
+{
+  "anime_name": "Ghost In The Shell Stand Alone Complex The Laughing Man Tachikomatic Days",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days",
+  "slug": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days",
+  "mal_id": 467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:32:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Section 9",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days/ep-1",
+      "sub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_sub": "https://vibeplayer.site/18300f98aaa27e06",
+          "467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/18300f98aaa27e06/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/90bab83d45wu",
+          "467-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_dub": "https://vibeplayer.site/35d838088aaaf976",
+          "467-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/35d838088aaaf976/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qen4tvwpvbhq",
+          "467-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5b6b96159a09f55c",
+          "467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b6b96159a09f55c/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/34uxyzawyt5l",
+          "467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "467-malep-1_playmogo_hsub": "https://playmogo.com/e/chzsiahyr2pm",
+          "467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
