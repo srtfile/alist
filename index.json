@@ -13088,5 +13088,15 @@
     "captured_at": "2026-06-03T05:05:46",
     "file": "data/cats-tea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cats-tea.json"
+  },
+  {
+    "slug": "cats-tea-2nd-season",
+    "mal_id": 2043,
+    "anime_name": "Cats Tea 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/cats-tea-2nd-season",
+    "total_episodes": 11,
+    "captured_at": "2026-06-03T05:06:08",
+    "file": "data/cats-tea-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cats-tea-2nd-season.json"
   }
 ]
