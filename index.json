@@ -25258,5 +25258,15 @@
     "captured_at": "2026-06-03T13:37:58",
     "file": "data/gakuen-utopia-manabi-straight-natsu-da-manabi-da-kyouka-gasshuku-da.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakuen-utopia-manabi-straight-natsu-da-manabi-da-kyouka-gasshuku-da.json"
+  },
+  {
+    "slug": "gal-dino",
+    "mal_id": 40358,
+    "anime_name": "Gal Dino",
+    "anime_url": "https://hianime.ad/anime/gal-dino",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T13:38:09",
+    "file": "data/gal-dino.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gal-dino.json"
   }
 ]
