@@ -1,0 +1,44 @@
+{
+  "anime_name": "Hokuto No Ken Legend Of Heroes",
+  "anime_url": "https://hianime.ad/anime/hokuto-no-ken-legend-of-heroes",
+  "slug": "hokuto-no-ken-legend-of-heroes",
+  "mal_id": 4549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T21:19:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Fists Are for the Heavens",
+      "episode_url": "https://hianime.ad/watch/hokuto-no-ken-legend-of-heroes/ep-1",
+      "sub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_sub": "https://vibeplayer.site/c2cb5226bf9114a4",
+          "4549-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2cb5226bf9114a4/master.m3u8"
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qrvlm74jyjq8",
+          "4549-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77d7fda632fc181e",
+          "4549-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77d7fda632fc181e/master.m3u8"
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tu7bognpt8gz",
+          "4549-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oiakk7zavxoy",
+          "4549-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4549-malep-1_playmogo_hsub": "https://playmogo.com/e/xiunssnbsxrl",
+          "4549-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
