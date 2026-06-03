@@ -23798,5 +23798,15 @@
     "captured_at": "2026-06-03T12:44:13",
     "file": "data/flying-witch.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flying-witch.json"
+  },
+  {
+    "slug": "flying-witch-petit",
+    "mal_id": 31376,
+    "anime_name": "Flying Witch Petit",
+    "anime_url": "https://hianime.ad/anime/flying-witch-petit",
+    "total_episodes": 8,
+    "captured_at": "2026-06-03T12:44:33",
+    "file": "data/flying-witch-petit.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flying-witch-petit.json"
   }
 ]
