@@ -24488,5 +24488,15 @@
     "captured_at": "2026-06-03T13:06:46",
     "file": "data/fruits-basket-2001.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fruits-basket-2001.json"
+  },
+  {
+    "slug": "fruits-basket-1st-season",
+    "mal_id": 38680,
+    "anime_name": "Fruits Basket 1St Season",
+    "anime_url": "https://hianime.ad/anime/fruits-basket-1st-season",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T13:07:18",
+    "file": "data/fruits-basket-1st-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fruits-basket-1st-season.json"
   }
 ]
