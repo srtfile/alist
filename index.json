@@ -17168,5 +17168,15 @@
     "captured_at": "2026-06-03T08:00:07",
     "file": "data/demon-city-shinjuku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-city-shinjuku.json"
+  },
+  {
+    "slug": "demon-fighter-kocho",
+    "mal_id": 1708,
+    "anime_name": "Demon Fighter Kocho",
+    "anime_url": "https://hianime.ad/anime/demon-fighter-kocho",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T08:00:17",
+    "file": "data/demon-fighter-kocho.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/demon-fighter-kocho.json"
   }
 ]
