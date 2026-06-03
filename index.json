@@ -21228,5 +21228,15 @@
     "captured_at": "2026-06-03T10:21:27",
     "file": "data/elfen-lied-in-the-passing-rain.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/elfen-lied-in-the-passing-rain.json"
+  },
+  {
+    "slug": "ellcia",
+    "mal_id": null,
+    "anime_name": "Ellcia",
+    "anime_url": "https://hianime.ad/anime/ellcia",
+    "total_episodes": 4,
+    "captured_at": "2026-06-03T10:21:37",
+    "file": "data/ellcia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ellcia.json"
   }
 ]
