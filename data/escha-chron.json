@@ -1,0 +1,85 @@
+{
+  "anime_name": "Escha Chron",
+  "anime_url": "https://hianime.ad/anime/escha-chron",
+  "slug": "escha-chron",
+  "mal_id": 21167,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T10:35:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to the Atelier!",
+      "episode_url": "https://hianime.ad/watch/escha-chron/ep-1",
+      "sub": {
+        "HD-1": {
+          "21167-malep-1_vibeplayer_sub": "https://vibeplayer.site/4be3690091162981",
+          "21167-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4be3690091162981/master.m3u8"
+        },
+        "HD-2": {
+          "21167-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6bb0fd8e51170af87a770ab1e9d5cb5e4h",
+          "21167-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21167-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0gxxo5g765q7",
+          "21167-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21167-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f3b82e64e92fc5ae",
+          "21167-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f3b82e64e92fc5ae/master.m3u8"
+        },
+        "HD-2": {
+          "21167-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag562c5463d35dc51e06e60a732e605ecc4h",
+          "21167-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21167-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wqd863tpt98d",
+          "21167-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21167-malep-1_playmogo_hsub": "https://playmogo.com/e/ucxjcj8844nb",
+          "21167-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "What's a Witch?",
+      "episode_url": "https://hianime.ad/watch/escha-chron/ep-2",
+      "sub": {
+        "HD-1": {
+          "21167-malep-2_vibeplayer_sub": "https://vibeplayer.site/c22f6d866a47a51d",
+          "21167-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c22f6d866a47a51d/master.m3u8"
+        },
+        "HD-2": {
+          "21167-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag87bbb51c7f16c504fdd13fb86b41e1704h",
+          "21167-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21167-malep-2_otakuvid_sub": "https://otakuvid.online/embed/1c8a6sigxl1d",
+          "21167-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21167-malep-2_vibeplayer_hsub": "https://vibeplayer.site/343a17a7e55c8c1b",
+          "21167-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/343a17a7e55c8c1b/master.m3u8"
+        },
+        "HD-2": {
+          "21167-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag3bcaa52d8da000d1486c411a004903694h",
+          "21167-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21167-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/xuem23yp2rhu",
+          "21167-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21167-malep-2_playmogo_hsub": "https://playmogo.com/e/9iragnl23krs",
+          "21167-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
