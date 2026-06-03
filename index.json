@@ -2808,5 +2808,15 @@
     "captured_at": "2026-06-03T18:48:00",
     "file": "data/gr-giant-robo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gr-giant-robo.json"
+  },
+  {
+    "slug": "graduation",
+    "mal_id": 291,
+    "anime_name": "Graduation",
+    "anime_url": "https://hianime.ad/anime/graduation",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T18:48:23",
+    "file": "data/graduation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/graduation.json"
   }
 ]
