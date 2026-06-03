@@ -98,5 +98,15 @@
     "captured_at": "2026-06-03T17:05:17",
     "file": "data/garo-crimson-moon-the-butterfly-of-time.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-crimson-moon-the-butterfly-of-time.json"
+  },
+  {
+    "slug": "garo-the-animation",
+    "mal_id": 23311,
+    "anime_name": "Garo The Animation",
+    "anime_url": "https://hianime.ad/anime/garo-the-animation",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T17:05:28",
+    "file": "data/garo-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/garo-the-animation.json"
   }
 ]
