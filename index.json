@@ -10898,5 +10898,15 @@
     "captured_at": "2026-06-03T02:27:19",
     "file": "data/bobobo-bo-bo-bobo-recap.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bobobo-bo-bo-bobo-recap.json"
+  },
+  {
+    "slug": "bocchi-the-rock",
+    "mal_id": 47917,
+    "anime_name": "Bocchi The Rock",
+    "anime_url": "https://hianime.ad/anime/bocchi-the-rock",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T02:27:31",
+    "file": "data/bocchi-the-rock.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/bocchi-the-rock.json"
   }
 ]
