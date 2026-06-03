@@ -6198,5 +6198,15 @@
     "captured_at": "2026-06-03T20:49:29",
     "file": "data/hidari-no-oclock.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidari-no-oclock.json"
+  },
+  {
+    "slug": "hidden-sect-leader",
+    "mal_id": 41899,
+    "anime_name": "Hidden Sect Leader",
+    "anime_url": "https://hianime.ad/anime/hidden-sect-leader",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T20:49:42",
+    "file": "data/hidden-sect-leader.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hidden-sect-leader.json"
   }
 ]
