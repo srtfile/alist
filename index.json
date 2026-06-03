@@ -6598,5 +6598,15 @@
     "captured_at": "2026-06-03T21:02:27",
     "file": "data/hiiro-no-kakera-the-tamayori-princess-saga-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hiiro-no-kakera-the-tamayori-princess-saga-season-2.json"
+  },
+  {
+    "slug": "hikari-no-densetsu",
+    "mal_id": 2224,
+    "anime_name": "Hikari No Densetsu",
+    "anime_url": "https://hianime.ad/anime/hikari-no-densetsu",
+    "total_episodes": 19,
+    "captured_at": "2026-06-03T21:02:50",
+    "file": "data/hikari-no-densetsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hikari-no-densetsu.json"
   }
 ]
