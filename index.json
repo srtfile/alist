@@ -9268,5 +9268,15 @@
     "captured_at": "2026-06-03T00:06:22",
     "file": "data/beyblade-burst-gachi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-gachi.json"
+  },
+  {
+    "slug": "beyblade-burst-sparking",
+    "mal_id": 31049,
+    "anime_name": "Beyblade Burst Sparking",
+    "anime_url": "https://hianime.ad/anime/beyblade-burst-sparking",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T00:07:17",
+    "file": "data/beyblade-burst-sparking.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade-burst-sparking.json"
   }
 ]
