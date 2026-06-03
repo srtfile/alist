@@ -16128,5 +16128,15 @@
     "captured_at": "2026-06-03T07:26:05",
     "file": "data/d-gray-man-hallow.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-gray-man-hallow.json"
+  },
+  {
+    "slug": "d-n-angel",
+    "mal_id": 61,
+    "anime_name": "D N Angel",
+    "anime_url": "https://hianime.ad/anime/d-n-angel",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T07:26:25",
+    "file": "data/d-n-angel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-n-angel.json"
   }
 ]
