@@ -4718,5 +4718,15 @@
     "captured_at": "2026-06-03T19:54:26",
     "file": "data/hanayamata.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanayamata.json"
+  },
+  {
+    "slug": "hand-maid-mai",
+    "mal_id": 318,
+    "anime_name": "Hand Maid Mai",
+    "anime_url": "https://hianime.ad/anime/hand-maid-mai",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T19:54:48",
+    "file": "data/hand-maid-mai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hand-maid-mai.json"
   }
 ]
