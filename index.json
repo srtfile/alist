@@ -20308,5 +20308,15 @@
     "captured_at": "2026-06-03T09:53:20",
     "file": "data/dragon-quest-your-story.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-quest-your-story.json"
+  },
+  {
+    "slug": "dragon-raja",
+    "mal_id": 1956,
+    "anime_name": "Dragon Raja",
+    "anime_url": "https://hianime.ad/anime/dragon-raja",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T09:53:30",
+    "file": "data/dragon-raja.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dragon-raja.json"
   }
 ]
