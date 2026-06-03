@@ -1,0 +1,49 @@
+{
+  "anime_name": "Heavens Lost Property Ova",
+  "anime_url": "https://hianime.ad/anime/heavens-lost-property-ova",
+  "slug": "heavens-lost-property-ova",
+  "mal_id": 5958,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:20:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Full-frontal Hero Arises in the World!",
+      "episode_url": "https://hianime.ad/watch/heavens-lost-property-ova/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "5958-malep-1_vibeplayer_dub": "https://vibeplayer.site/c3338842b0350739",
+          "5958-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c3338842b0350739/master.m3u8"
+        },
+        "StreamHG": {
+          "5958-malep-1_otakuhg_dub": "https://otakuhg.site/e/8ohijjrw5idi",
+          "5958-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "5958-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sr84at0ozg90",
+          "5958-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "5958-malep-1_playmogo_dub": "https://playmogo.com/e/yrszjzaxlhll",
+          "5958-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "5958-malep-1_vibeplayer_raw": "https://vibeplayer.site/f436ccaefba16b29",
+          "5958-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/f436ccaefba16b29/master.m3u8"
+        },
+        "StreamHG": {
+          "5958-malep-1_otakuhg_raw": "https://otakuhg.site/e/jowdpwc9161h",
+          "5958-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "5958-malep-1_otakuvid_raw": "https://otakuvid.online/embed/1csgcjjjtglr",
+          "5958-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
