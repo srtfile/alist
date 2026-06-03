@@ -2928,5 +2928,15 @@
     "captured_at": "2026-06-03T18:52:07",
     "file": "data/grappler-baki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grappler-baki.json"
+  },
+  {
+    "slug": "grappler-baki-tv",
+    "mal_id": 287,
+    "anime_name": "Grappler Baki Tv",
+    "anime_url": "https://hianime.ad/anime/grappler-baki-tv",
+    "total_episodes": 24,
+    "captured_at": "2026-06-03T18:52:19",
+    "file": "data/grappler-baki-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grappler-baki-tv.json"
   }
 ]
