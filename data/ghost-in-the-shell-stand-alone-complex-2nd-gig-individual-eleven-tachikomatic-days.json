@@ -1,0 +1,53 @@
+{
+  "anime_name": "Ghost In The Shell Stand Alone Complex 2Nd Gig Individual Eleven Tachikomatic Days",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days",
+  "slug": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days",
+  "mal_id": 801,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:34:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reembody",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days/ep-1",
+      "sub": {
+        "HD-1": {
+          "801-malep-1_vibeplayer_sub": "https://vibeplayer.site/0fefa155044ca7fc",
+          "801-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0fefa155044ca7fc/master.m3u8"
+        },
+        "Earnvids": {
+          "801-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bcslf8wbhe5j",
+          "801-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "801-malep-1_vibeplayer_dub": "https://vibeplayer.site/0404db8868fed9f7",
+          "801-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0404db8868fed9f7/master.m3u8"
+        },
+        "Earnvids": {
+          "801-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nin78mt3vdnf",
+          "801-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "801-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7d0fcb323f579af3",
+          "801-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7d0fcb323f579af3/master.m3u8"
+        },
+        "StreamHG": {
+          "801-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gpthp8m9b524",
+          "801-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "801-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e5qhdm8bxi4c",
+          "801-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "801-malep-1_playmogo_hsub": "https://playmogo.com/e/8kqn3vtnkmll",
+          "801-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
