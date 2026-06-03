@@ -18348,5 +18348,15 @@
     "captured_at": "2026-06-03T08:33:48",
     "file": "data/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle.json"
+  },
+  {
+    "slug": "digimon-tamers",
+    "mal_id": 874,
+    "anime_name": "Digimon Tamers",
+    "anime_url": "https://hianime.ad/anime/digimon-tamers",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T08:33:58",
+    "file": "data/digimon-tamers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/digimon-tamers.json"
   }
 ]
