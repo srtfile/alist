@@ -1,0 +1,65 @@
+{
+  "anime_name": "Godzilla Planet Of The Monsters",
+  "anime_url": "https://hianime.ad/anime/godzilla-planet-of-the-monsters",
+  "slug": "godzilla-planet-of-the-monsters",
+  "mal_id": 43229,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:32:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Distant Road Home",
+      "episode_url": "https://hianime.ad/watch/godzilla-planet-of-the-monsters/ep-1",
+      "sub": {
+        "HD-1": {
+          "43229-malep-1_vibeplayer_sub": "https://vibeplayer.site/61daad15205ff8d7",
+          "43229-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61daad15205ff8d7/master.m3u8"
+        },
+        "StreamHG": {
+          "43229-malep-1_otakuhg_sub": "https://otakuhg.site/e/ethkuyo0vl8x",
+          "43229-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "43229-malep-1_otakuvid_sub": "https://otakuvid.online/embed/icz31hxhh141",
+          "43229-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "43229-malep-1_playmogo_sub": "https://playmogo.com/e/h6g11wada3k5",
+          "43229-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "43229-malep-1_vibeplayer_dub": "https://vibeplayer.site/2f2a35f50b476fb5",
+          "43229-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f2a35f50b476fb5/master.m3u8"
+        },
+        "StreamHG": {
+          "43229-malep-1_otakuhg_dub": "https://otakuhg.site/e/mu0zx60gmcci",
+          "43229-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "43229-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5rn1fi6u65z6",
+          "43229-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "43229-malep-1_vibeplayer_hsub": "https://vibeplayer.site/031835b58ae687b4",
+          "43229-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/031835b58ae687b4/master.m3u8"
+        },
+        "StreamHG": {
+          "43229-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1uiwt8zsxtun",
+          "43229-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "43229-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rauiiokjpbas",
+          "43229-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "43229-malep-1_playmogo_hsub": "https://playmogo.com/e/eop16dlwoqb8",
+          "43229-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
