@@ -1,0 +1,85 @@
+{
+  "anime_name": "Dragon Half",
+  "anime_url": "https://hianime.ad/anime/dragon-half",
+  "slug": "dragon-half",
+  "mal_id": 1956,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T09:48:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Signs of the Dragon Spirit",
+      "episode_url": "https://hianime.ad/watch/dragon-half/ep-1",
+      "sub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/1eba54ab29f6b01c",
+          "1956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1eba54ab29f6b01c/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdc5b68171da55f7ba04e0ca05b8cf1bf4h",
+          "1956-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1956-malep-1_otakuhg_sub": "https://otakuhg.site/e/pa6eac1cp1gi",
+          "1956-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9u0ihsa0v08m",
+          "1956-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e522bb59b7bb1842",
+          "1956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e522bb59b7bb1842/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd0ebb3dcc7072d5ad170b4aa773cf5f64h",
+          "1956-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/v2hp66vqdxr9",
+          "1956-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Evil Lord Awakens",
+      "episode_url": "https://hianime.ad/watch/dragon-half/ep-2",
+      "sub": {
+        "HD-1": {
+          "1956-malep-2_vibeplayer_sub": "https://vibeplayer.site/008dcaadffa73baf",
+          "1956-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/008dcaadffa73baf/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag5c0087fd16e3ad3d873aace23c77b9ee4h",
+          "1956-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1956-malep-2_otakuhg_sub": "https://otakuhg.site/e/rp5n88nxui4v",
+          "1956-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-2_otakuvid_sub": "https://otakuvid.online/embed/5yq2eoxk33jo",
+          "1956-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1956-malep-2_vibeplayer_hsub": "https://vibeplayer.site/91ccbe58e3d47e6b",
+          "1956-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91ccbe58e3d47e6b/master.m3u8"
+        },
+        "HD-2": {
+          "1956-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag95c3a680193eff60bc796832bfe3ee464h",
+          "1956-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1956-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/vtmw0jqkvz5z",
+          "1956-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
