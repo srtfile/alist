@@ -25158,5 +25158,15 @@
     "captured_at": "2026-06-03T13:34:02",
     "file": "data/gaist-crusher.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gaist-crusher.json"
+  },
+  {
+    "slug": "gakkatsu",
+    "mal_id": 13139,
+    "anime_name": "Gakkatsu",
+    "anime_url": "https://hianime.ad/anime/gakkatsu",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T13:34:56",
+    "file": "data/gakkatsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gakkatsu.json"
   }
 ]
