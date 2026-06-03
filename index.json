@@ -21508,5 +21508,15 @@
     "captured_at": "2026-06-03T10:31:23",
     "file": "data/eon-kid.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/eon-kid.json"
+  },
+  {
+    "slug": "ephemere",
+    "mal_id": null,
+    "anime_name": "Ephemere",
+    "anime_url": "https://hianime.ad/anime/ephemere",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T10:31:54",
+    "file": "data/ephemere.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ephemere.json"
   }
 ]
