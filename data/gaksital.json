@@ -1,0 +1,52 @@
+{
+  "anime_name": "Gaksital",
+  "anime_url": "https://hianime.ad/anime/gaksital",
+  "slug": "gaksital",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:35:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/gaksital/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bbae9fea4ddf3a06",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bbae9fea4ddf3a06/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/aga64dc0e4b250448bfcf8114e7bc433054h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/4hj0ha6jsie9",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/wx7yhla71vj8",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f8d1b0e2561c3462",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8d1b0e2561c3462/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag390e69353b9fd6770d4df0ba5fa62a374h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wv208vyl4isz",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/jfovodhaw9xm",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
