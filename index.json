@@ -4468,5 +4468,15 @@
     "captured_at": "2026-06-03T19:45:42",
     "file": "data/halo-legends.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/halo-legends.json"
+  },
+  {
+    "slug": "hamatora-the-animation",
+    "mal_id": 20689,
+    "anime_name": "Hamatora The Animation",
+    "anime_url": "https://hianime.ad/anime/hamatora-the-animation",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:46:00",
+    "file": "data/hamatora-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hamatora-the-animation.json"
   }
 ]
