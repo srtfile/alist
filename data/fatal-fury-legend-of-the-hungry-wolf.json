@@ -1,0 +1,61 @@
+{
+  "anime_name": "Fatal Fury Legend Of The Hungry Wolf",
+  "anime_url": "https://hianime.ad/anime/fatal-fury-legend-of-the-hungry-wolf",
+  "slug": "fatal-fury-legend-of-the-hungry-wolf",
+  "mal_id": 51122,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:11:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Harvest Festival and the Crowded Driver's Box",
+      "episode_url": "https://hianime.ad/watch/fatal-fury-legend-of-the-hungry-wolf/ep-1",
+      "sub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_sub": "https://vibeplayer.site/be0658b2632a3079",
+          "51122-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/be0658b2632a3079/master.m3u8"
+        },
+        "HD-2": {
+          "51122-malep-1_vibeplayer_sub": "https://vibeplayer.site/agfc2bb78b6940446b3a93815bc1ff5d794h",
+          "51122-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0js1g7w8xfix",
+          "51122-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_dub": "https://vibeplayer.site/f016239217b31567",
+          "51122-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f016239217b31567/master.m3u8"
+        },
+        "HD-2": {
+          "51122-malep-1_vibeplayer_dub": "https://vibeplayer.site/agffcecfdc0a159a524e6f7bd17dc5e8364h",
+          "51122-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_dub": "https://otakuvid.online/embed/8l7w0mh4c31w",
+          "51122-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee731bc553d9a379",
+          "51122-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee731bc553d9a379/master.m3u8"
+        },
+        "HD-2": {
+          "51122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag202338c44a2c27181893c652745cc6b74h",
+          "51122-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/05cyexrss9pj",
+          "51122-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51122-malep-1_playmogo_hsub": "https://playmogo.com/e/6s8sjur8zopt",
+          "51122-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
