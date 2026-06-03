@@ -1038,5 +1038,15 @@
     "captured_at": "2026-06-03T17:38:17",
     "file": "data/giant-beasts-of-ars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-beasts-of-ars.json"
+  },
+  {
+    "slug": "giant-gorg",
+    "mal_id": 3327,
+    "anime_name": "Giant Gorg",
+    "anime_url": "https://hianime.ad/anime/giant-gorg",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T17:38:39",
+    "file": "data/giant-gorg.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/giant-gorg.json"
   }
 ]
