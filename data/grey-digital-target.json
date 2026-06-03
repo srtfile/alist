@@ -1,0 +1,57 @@
+{
+  "anime_name": "Grey Digital Target",
+  "anime_url": "https://hianime.ad/anime/grey-digital-target",
+  "slug": "grey-digital-target",
+  "mal_id": 38573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:02:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy Thought He Was Embarking on a Great Adventure... But, Uh, What's Going on Here?",
+      "episode_url": "https://hianime.ad/watch/grey-digital-target/ep-1",
+      "sub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_sub": "https://vibeplayer.site/893c66565f16d8ea",
+          "38573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/893c66565f16d8ea/master.m3u8"
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wghqiie4m6di",
+          "38573-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_dub": "https://vibeplayer.site/8a927cea825bd9ed",
+          "38573-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a927cea825bd9ed/master.m3u8"
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4cszf21s5ibr",
+          "38573-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_dub": "https://playmogo.com/e/2vt9r0z6zmvj",
+          "38573-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30e067e3b97fb007",
+          "38573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30e067e3b97fb007/master.m3u8"
+        },
+        "StreamHG": {
+          "38573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/35ece1c4zzzg",
+          "38573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i65kbx299stf",
+          "38573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_hsub": "https://playmogo.com/e/0q3x6gg4u5tq",
+          "38573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
