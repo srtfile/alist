@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cinderella Nine The Story Continues Special",
+  "anime_url": "https://hianime.ad/anime/cinderella-nine-the-story-continues-special",
+  "slug": "cinderella-nine-the-story-continues-special",
+  "mal_id": 38091,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:57:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Play Ball!",
+      "episode_url": "https://hianime.ad/watch/cinderella-nine-the-story-continues-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "38091-malep-1_vibeplayer_sub": "https://vibeplayer.site/5d8214e9be07ff1a",
+          "38091-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5d8214e9be07ff1a/master.m3u8"
+        },
+        "HD-2": {
+          "38091-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf717ef8e95aa5766d67b286d232d0ee14h",
+          "38091-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38091-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8h21uftoou4z",
+          "38091-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38091-malep-1_vibeplayer_hsub": "https://vibeplayer.site/97e4f8df8e2f89ab",
+          "38091-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97e4f8df8e2f89ab/master.m3u8"
+        },
+        "HD-2": {
+          "38091-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4d3146e509b8e9587cbc831c8773abf14h",
+          "38091-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38091-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3jrk0ydmhsbo",
+          "38091-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38091-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wjko5p9wmu10",
+          "38091-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38091-malep-1_playmogo_hsub": "https://playmogo.com/e/qr7qpb0dnrss",
+          "38091-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
