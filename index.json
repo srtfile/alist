@@ -17138,5 +17138,15 @@
     "captured_at": "2026-06-03T07:58:40",
     "file": "data/delpower-x-bakuhatsu-miracle-genki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/delpower-x-bakuhatsu-miracle-genki.json"
+  },
+  {
+    "slug": "deltora-quest",
+    "mal_id": 1826,
+    "anime_name": "Deltora Quest",
+    "anime_url": "https://hianime.ad/anime/deltora-quest",
+    "total_episodes": 57,
+    "captured_at": "2026-06-03T07:58:50",
+    "file": "data/deltora-quest.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/deltora-quest.json"
   }
 ]
