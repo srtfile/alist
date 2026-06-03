@@ -288,5 +288,15 @@
     "captured_at": "2026-06-03T17:13:01",
     "file": "data/gdleen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gdleen.json"
+  },
+  {
+    "slug": "gear-fighter-dendoh",
+    "mal_id": 2484,
+    "anime_name": "Gear Fighter Dendoh",
+    "anime_url": "https://hianime.ad/anime/gear-fighter-dendoh",
+    "total_episodes": 38,
+    "captured_at": "2026-06-03T17:13:12",
+    "file": "data/gear-fighter-dendoh.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gear-fighter-dendoh.json"
   }
 ]
