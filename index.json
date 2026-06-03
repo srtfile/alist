@@ -16088,5 +16088,15 @@
     "captured_at": "2026-06-03T07:23:40",
     "file": "data/d-frag.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-frag.json"
+  },
+  {
+    "slug": "d-frag-1980",
+    "mal_id": 20031,
+    "anime_name": "D Frag 1980",
+    "anime_url": "https://hianime.ad/anime/d-frag-1980",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T07:23:59",
+    "file": "data/d-frag-1980.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/d-frag-1980.json"
   }
 ]
