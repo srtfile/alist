@@ -9218,5 +9218,15 @@
     "captured_at": "2026-06-03T00:02:23",
     "file": "data/between-the-sky-and-sea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/between-the-sky-and-sea.json"
+  },
+  {
+    "slug": "beyblade",
+    "mal_id": 288,
+    "anime_name": "Beyblade",
+    "anime_url": "https://hianime.ad/anime/beyblade",
+    "total_episodes": 51,
+    "captured_at": "2026-06-03T00:02:43",
+    "file": "data/beyblade.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/beyblade.json"
   }
 ]
