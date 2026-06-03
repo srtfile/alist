@@ -18698,5 +18698,15 @@
     "captured_at": "2026-06-03T08:47:06",
     "file": "data/dna.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dna.json"
+  },
+  {
+    "slug": "dna-ova",
+    "mal_id": 563,
+    "anime_name": "Dna Ova",
+    "anime_url": "https://hianime.ad/anime/dna-ova",
+    "total_episodes": 3,
+    "captured_at": "2026-06-03T08:47:26",
+    "file": "data/dna-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dna-ova.json"
   }
 ]
