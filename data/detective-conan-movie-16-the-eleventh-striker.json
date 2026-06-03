@@ -1,0 +1,60 @@
+{
+  "anime_name": "Detective Conan Movie 16 The Eleventh Striker",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-16-the-eleventh-striker",
+  "slug": "detective-conan-movie-16-the-eleventh-striker",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:10:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-16-the-eleventh-striker/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/d63099a3e5d06f7d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d63099a3e5d06f7d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agd3f7e1c0c4ed75dcdbf6cd52342555a14h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/2otstojduxnj",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/w3xmduu92t9k",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/44t1pwqi796w",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/6b4f8912820ec6bd",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6b4f8912820ec6bd/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag87c2a329093ac2c043cbae0e7724112d4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/z5jjyjgpqb2x",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/der196s6kmr9",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/muplq22euhkk",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
