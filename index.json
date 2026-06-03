@@ -14378,5 +14378,15 @@
     "captured_at": "2026-06-03T06:03:02",
     "file": "data/city-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/city-the-animation.json"
+  },
+  {
+    "slug": "clamp-school-detectives",
+    "mal_id": 1844,
+    "anime_name": "Clamp School Detectives",
+    "anime_url": "https://hianime.ad/anime/clamp-school-detectives",
+    "total_episodes": 26,
+    "captured_at": "2026-06-03T06:03:26",
+    "file": "data/clamp-school-detectives.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/clamp-school-detectives.json"
   }
 ]
