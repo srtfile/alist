@@ -12308,5 +12308,15 @@
     "captured_at": "2026-06-03T04:03:40",
     "file": "data/candy-boy-nonchalant-talk-of-the-certain-twin-sisters-in-daily-life.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/candy-boy-nonchalant-talk-of-the-certain-twin-sisters-in-daily-life.json"
+  },
+  {
+    "slug": "candy-candy",
+    "mal_id": 2800,
+    "anime_name": "Candy Candy",
+    "anime_url": "https://hianime.ad/anime/candy-candy",
+    "total_episodes": 115,
+    "captured_at": "2026-06-03T04:03:58",
+    "file": "data/candy-candy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/candy-candy.json"
   }
 ]
