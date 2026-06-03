@@ -19708,5 +19708,15 @@
     "captured_at": "2026-06-03T09:18:54",
     "file": "data/dr-slump-arale-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump-arale-chan.json"
+  },
+  {
+    "slug": "dr-slump-arale-chan-raw",
+    "mal_id": 2222,
+    "anime_name": "Dr Slump Arale Chan Raw",
+    "anime_url": "https://hianime.ad/anime/dr-slump-arale-chan-raw",
+    "total_episodes": 243,
+    "captured_at": "2026-06-03T09:21:47",
+    "file": "data/dr-slump-arale-chan-raw.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump-arale-chan-raw.json"
   }
 ]
