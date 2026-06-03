@@ -1,0 +1,61 @@
+{
+  "anime_name": "Golgo 13 Queen Bee",
+  "anime_url": "https://hianime.ad/anime/golgo-13-queen-bee",
+  "slug": "golgo-13-queen-bee",
+  "mal_id": 4039,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:40:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "At Pin-Hole!",
+      "episode_url": "https://hianime.ad/watch/golgo-13-queen-bee/ep-1",
+      "sub": {
+        "HD-1": {
+          "4039-malep-1_vibeplayer_sub": "https://vibeplayer.site/476fb8e3523c31a8",
+          "4039-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/476fb8e3523c31a8/master.m3u8"
+        },
+        "StreamHG": {
+          "4039-malep-1_otakuhg_sub": "https://otakuhg.site/e/w7o7oemmdoas",
+          "4039-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4039-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hg1u8gwfe8tz",
+          "4039-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4039-malep-1_vibeplayer_dub": "https://vibeplayer.site/51e0c6b4e00f5c2e",
+          "4039-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/51e0c6b4e00f5c2e/master.m3u8"
+        },
+        "Earnvids": {
+          "4039-malep-1_otakuvid_dub": "https://otakuvid.online/embed/yepqt9eok8pn",
+          "4039-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "4039-malep-1_playmogo_dub": "https://playmogo.com/e/vv5uzfbr3s39",
+          "4039-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4039-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3c0a70e068763f90",
+          "4039-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c0a70e068763f90/master.m3u8"
+        },
+        "StreamHG": {
+          "4039-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5jlniqxnekse",
+          "4039-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4039-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dwe5y5ubnn71",
+          "4039-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4039-malep-1_playmogo_hsub": "https://playmogo.com/e/muan5rn17r9x",
+          "4039-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
