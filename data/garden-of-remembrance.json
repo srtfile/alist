@@ -1,0 +1,56 @@
+{
+  "anime_name": "Garden Of Remembrance",
+  "anime_url": "https://hianime.ad/anime/garden-of-remembrance",
+  "slug": "garden-of-remembrance",
+  "mal_id": 62050,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:53:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Mountain God Visits the Garden of Gods",
+      "episode_url": "https://hianime.ad/watch/garden-of-remembrance/ep-1",
+      "sub": {
+        "HD-1": {
+          "62050-malep-1_vibeplayer_sub": "https://vibeplayer.site/0c4d67fff7b0d523",
+          "62050-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c4d67fff7b0d523/master.m3u8"
+        },
+        "HD-2": {
+          "62050-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag309536d365c9c5259075caef79e7f8204h",
+          "62050-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "62050-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i4as8t6lhbkg",
+          "62050-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "62050-malep-1_playmogo_sub": "https://playmogo.com/e/ag0w86uy8olb",
+          "62050-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62050-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e6edc186c64188b3",
+          "62050-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6edc186c64188b3/master.m3u8"
+        },
+        "HD-2": {
+          "62050-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc975e9c2be960cbf2cfc976c52f199014h",
+          "62050-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "62050-malep-1_otakuhg_hsub": "https://otakuhg.site/e/u1et3y8e41ur",
+          "62050-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "62050-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2wozoby7qmes",
+          "62050-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62050-malep-1_playmogo_hsub": "https://playmogo.com/e/zziiunp3bbwu",
+          "62050-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
