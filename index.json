@@ -13678,5 +13678,15 @@
     "captured_at": "2026-06-03T05:33:43",
     "file": "data/chihayafuru-3-ima-hitotabi-no.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chihayafuru-3-ima-hitotabi-no.json"
+  },
+  {
+    "slug": "chiikawa",
+    "mal_id": 50250,
+    "anime_name": "Chiikawa",
+    "anime_url": "https://hianime.ad/anime/chiikawa",
+    "total_episodes": 280,
+    "captured_at": "2026-06-03T05:33:55",
+    "file": "data/chiikawa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/chiikawa.json"
   }
 ]
