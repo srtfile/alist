@@ -238,5 +238,15 @@
     "captured_at": "2026-06-03T17:11:32",
     "file": "data/gauche-the-cellist.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gauche-the-cellist.json"
+  },
+  {
+    "slug": "gdgd-fairies",
+    "mal_id": 11809,
+    "anime_name": "Gdgd Fairies",
+    "anime_url": "https://hianime.ad/anime/gdgd-fairies",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T17:11:44",
+    "file": "data/gdgd-fairies.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gdgd-fairies.json"
   }
 ]
