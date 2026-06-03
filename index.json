@@ -14908,5 +14908,15 @@
     "captured_at": "2026-06-03T06:21:01",
     "file": "data/collar-x-malice-movie-deep-cover.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/collar-x-malice-movie-deep-cover.json"
+  },
+  {
+    "slug": "colorful",
+    "mal_id": 841,
+    "anime_name": "Colorful",
+    "anime_url": "https://hianime.ad/anime/colorful",
+    "total_episodes": 16,
+    "captured_at": "2026-06-03T06:21:14",
+    "file": "data/colorful.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/colorful.json"
   }
 ]
