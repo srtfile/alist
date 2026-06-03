@@ -1,0 +1,73 @@
+{
+  "anime_name": "Dragon Ball Movie 01 Curse Of The Blood Rubies",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-movie-01-curse-of-the-blood-rubies",
+  "slug": "dragon-ball-movie-01-curse-of-the-blood-rubies",
+  "mal_id": 223,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:32:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Secret of the Dragon Balls",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-movie-01-curse-of-the-blood-rubies/ep-1",
+      "sub": {
+        "HD-1": {
+          "223-malep-1_vibeplayer_sub": "https://vibeplayer.site/0bfed2ad631cbece",
+          "223-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0bfed2ad631cbece/master.m3u8"
+        },
+        "HD-2": {
+          "223-malep-1_vibeplayer_sub": "https://vibeplayer.site/age494e967995b55e3288e1402d19786c44h",
+          "223-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "223-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9p1k7oq8tbgg",
+          "223-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "223-malep-1_playmogo_sub": "https://playmogo.com/e/8hrov628p62y",
+          "223-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "223-malep-1_vibeplayer_dub": "https://vibeplayer.site/8bf23c87e3725a58",
+          "223-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8bf23c87e3725a58/master.m3u8"
+        },
+        "HD-2": {
+          "223-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd14eb5b37570c1eab07c515794ef5d3a4h",
+          "223-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "223-malep-1_otakuhg_dub": "https://otakuhg.site/e/7qg9nzgbujpy",
+          "223-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "223-malep-1_otakuvid_dub": "https://otakuvid.online/embed/gbruadr8fgg7",
+          "223-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "223-malep-1_vibeplayer_hsub": "https://vibeplayer.site/39034efb664518bf",
+          "223-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39034efb664518bf/master.m3u8"
+        },
+        "HD-2": {
+          "223-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfb89a7109c5b41163776f2f05d0cbb804h",
+          "223-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "223-malep-1_otakuhg_hsub": "https://otakuhg.site/e/d1au1fwi091l",
+          "223-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "223-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5lfby495v4y1",
+          "223-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "223-malep-1_playmogo_hsub": "https://playmogo.com/e/nsw4w0euw2fv",
+          "223-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
