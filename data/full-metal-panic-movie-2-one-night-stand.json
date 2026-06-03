@@ -1,0 +1,52 @@
+{
+  "anime_name": "Full Metal Panic Movie 2 One Night Stand",
+  "anime_url": "https://hianime.ad/anime/full-metal-panic-movie-2-one-night-stand",
+  "slug": "full-metal-panic-movie-2-one-night-stand",
+  "mal_id": 71,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:10:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Guy I Kinda Like is a Sergeant",
+      "episode_url": "https://hianime.ad/watch/full-metal-panic-movie-2-one-night-stand/ep-1",
+      "sub": {
+        "HD-1": {
+          "71-malep-1_vibeplayer_sub": "https://vibeplayer.site/8685106317464147",
+          "71-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8685106317464147/master.m3u8"
+        },
+        "HD-2": {
+          "71-malep-1_vibeplayer_sub": "https://vibeplayer.site/agea8ecf46eff3677ecd89b674e888b3dc4h",
+          "71-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "71-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zzmbndgh6qzq",
+          "71-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "71-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6a02682d0074c351",
+          "71-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a02682d0074c351/master.m3u8"
+        },
+        "HD-2": {
+          "71-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4322044ac2c6668d78f556077cf9580a4h",
+          "71-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "71-malep-1_otakuhg_hsub": "https://otakuhg.site/e/m8b27zrfvvzs",
+          "71-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "71-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q6nogas1unmy",
+          "71-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "71-malep-1_playmogo_hsub": "https://playmogo.com/e/7ctu5fuclo4l",
+          "71-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
