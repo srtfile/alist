@@ -12548,5 +12548,15 @@
     "captured_at": "2026-06-03T04:18:36",
     "file": "data/cardcaptor-sakura-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardcaptor-sakura-the-movie.json"
+  },
+  {
+    "slug": "cardfight-vanguard",
+    "mal_id": 9539,
+    "anime_name": "Cardfight Vanguard",
+    "anime_url": "https://hianime.ad/anime/cardfight-vanguard",
+    "total_episodes": 65,
+    "captured_at": "2026-06-03T04:18:48",
+    "file": "data/cardfight-vanguard.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/cardfight-vanguard.json"
   }
 ]
