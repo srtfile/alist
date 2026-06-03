@@ -18548,5 +18548,15 @@
     "captured_at": "2026-06-03T08:42:10",
     "file": "data/dirty-pair.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dirty-pair.json"
+  },
+  {
+    "slug": "dirty-pair-flash",
+    "mal_id": 424,
+    "anime_name": "Dirty Pair Flash",
+    "anime_url": "https://hianime.ad/anime/dirty-pair-flash",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T08:42:42",
+    "file": "data/dirty-pair-flash.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dirty-pair-flash.json"
   }
 ]
