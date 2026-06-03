@@ -1,0 +1,77 @@
+{
+  "anime_name": "Detective Conan Zero The Enforcer",
+  "anime_url": "https://hianime.ad/anime/detective-conan-zero-the-enforcer",
+  "slug": "detective-conan-zero-the-enforcer",
+  "mal_id": 50012,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:14:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "TIME.1",
+      "episode_url": "https://hianime.ad/watch/detective-conan-zero-the-enforcer/ep-1",
+      "sub": {
+        "HD-1": {
+          "50012-malep-1_vibeplayer_sub": "https://vibeplayer.site/3e7c008c633d943e",
+          "50012-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3e7c008c633d943e/master.m3u8"
+        },
+        "HD-2": {
+          "50012-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0d735096ae4035b25ecc6d2116b6179b4h",
+          "50012-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "50012-malep-1_otakuhg_sub": "https://otakuhg.site/e/ukvs6324j5ky",
+          "50012-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50012-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hcvafsmebdha",
+          "50012-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "50012-malep-1_vibeplayer_dub": "https://vibeplayer.site/dfe3154328fff969",
+          "50012-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dfe3154328fff969/master.m3u8"
+        },
+        "HD-2": {
+          "50012-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag61948a13ba631025ea2c2b705c1f3c8f4h",
+          "50012-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "50012-malep-1_otakuhg_dub": "https://otakuhg.site/e/q84tscoeom5p",
+          "50012-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "50012-malep-1_otakuvid_dub": "https://otakuvid.online/embed/g6t201uviqzg",
+          "50012-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "50012-malep-1_playmogo_dub": "https://playmogo.com/e/gn0pgr9totd4",
+          "50012-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "50012-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c0364e5a387b306c",
+          "50012-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0364e5a387b306c/master.m3u8"
+        },
+        "HD-2": {
+          "50012-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf1a86fb15d9c3ef586f1fc2d17867f574h",
+          "50012-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "50012-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vktjjw1qug5o",
+          "50012-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50012-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wcoar24aqp8m",
+          "50012-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50012-malep-1_playmogo_hsub": "https://playmogo.com/e/ot16nx03rzxj",
+          "50012-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
