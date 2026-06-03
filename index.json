@@ -12418,5 +12418,15 @@
     "captured_at": "2026-06-03T04:10:19",
     "file": "data/captain-bal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-bal.json"
+  },
+  {
+    "slug": "captain-earth",
+    "mal_id": 21677,
+    "anime_name": "Captain Earth",
+    "anime_url": "https://hianime.ad/anime/captain-earth",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T04:10:31",
+    "file": "data/captain-earth.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/captain-earth.json"
   }
 ]
