@@ -6438,5 +6438,15 @@
     "captured_at": "2026-06-03T20:57:24",
     "file": "data/high-school-kimengumi-2026.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-kimengumi-2026.json"
+  },
+  {
+    "slug": "high-school-kimengumi-movie",
+    "mal_id": 714,
+    "anime_name": "High School Kimengumi Movie",
+    "anime_url": "https://hianime.ad/anime/high-school-kimengumi-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-03T20:57:45",
+    "file": "data/high-school-kimengumi-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-school-kimengumi-movie.json"
   }
 ]
