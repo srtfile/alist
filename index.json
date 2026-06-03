@@ -15258,5 +15258,15 @@
     "captured_at": "2026-06-03T06:32:38",
     "file": "data/corpse-princess-kuro-even-so-as-a-person.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/corpse-princess-kuro-even-so-as-a-person.json"
+  },
+  {
+    "slug": "corrector-yui",
+    "mal_id": 111,
+    "anime_name": "Corrector Yui",
+    "anime_url": "https://hianime.ad/anime/corrector-yui",
+    "total_episodes": 52,
+    "captured_at": "2026-06-03T06:32:50",
+    "file": "data/corrector-yui.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/corrector-yui.json"
   }
 ]
