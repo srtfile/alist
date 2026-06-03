@@ -4608,5 +4608,15 @@
     "captured_at": "2026-06-03T19:50:43",
     "file": "data/hanako.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanako.json"
+  },
+  {
+    "slug": "hanamaru-kindergarten",
+    "mal_id": 6574,
+    "anime_name": "Hanamaru Kindergarten",
+    "anime_url": "https://hianime.ad/anime/hanamaru-kindergarten",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T19:50:55",
+    "file": "data/hanamaru-kindergarten.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hanamaru-kindergarten.json"
   }
 ]
