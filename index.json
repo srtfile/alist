@@ -18658,5 +18658,15 @@
     "captured_at": "2026-06-03T08:45:23",
     "file": "data/divine-gate.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/divine-gate.json"
+  },
+  {
+    "slug": "divine-lord-of-the-heavens",
+    "mal_id": 1603,
+    "anime_name": "Divine Lord Of The Heavens",
+    "anime_url": "https://hianime.ad/anime/divine-lord-of-the-heavens",
+    "total_episodes": 48,
+    "captured_at": "2026-06-03T08:45:45",
+    "file": "data/divine-lord-of-the-heavens.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/divine-lord-of-the-heavens.json"
   }
 ]
