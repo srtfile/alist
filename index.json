@@ -3638,5 +3638,15 @@
     "captured_at": "2026-06-03T19:18:14",
     "file": "data/gundam-build-metaverse.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-metaverse.json"
+  },
+  {
+    "slug": "gundam-evolve",
+    "mal_id": 95,
+    "anime_name": "Gundam Evolve",
+    "anime_url": "https://hianime.ad/anime/gundam-evolve",
+    "total_episodes": 15,
+    "captured_at": "2026-06-03T19:18:27",
+    "file": "data/gundam-evolve.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-evolve.json"
   }
 ]
