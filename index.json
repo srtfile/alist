@@ -11718,5 +11718,15 @@
     "captured_at": "2026-06-03T03:01:29",
     "file": "data/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de.json"
+  },
+  {
+    "slug": "buddy-daddies",
+    "mal_id": 53411,
+    "anime_name": "Buddy Daddies",
+    "anime_url": "https://hianime.ad/anime/buddy-daddies",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T03:01:42",
+    "file": "data/buddy-daddies.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/buddy-daddies.json"
   }
 ]
