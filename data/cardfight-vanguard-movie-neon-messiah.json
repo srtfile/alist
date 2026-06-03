@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cardfight Vanguard Movie Neon Messiah",
+  "anime_url": "https://hianime.ad/anime/cardfight-vanguard-movie-neon-messiah",
+  "slug": "cardfight-vanguard-movie-neon-messiah",
+  "mal_id": 9539,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:26:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Vanguard of Destiny!!",
+      "episode_url": "https://hianime.ad/watch/cardfight-vanguard-movie-neon-messiah/ep-1",
+      "sub": {
+        "HD-1": {
+          "9539-malep-1_vibeplayer_sub": "https://vibeplayer.site/0a52cbe0f3218a2c",
+          "9539-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a52cbe0f3218a2c/master.m3u8"
+        },
+        "HD-2": {
+          "9539-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9c3f1b9b7ed5fafd50facbe55dbf5bd94h",
+          "9539-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9539-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3qv16p67dxh3",
+          "9539-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9539-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0ee97675b8ad8f1",
+          "9539-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0ee97675b8ad8f1/master.m3u8"
+        },
+        "HD-2": {
+          "9539-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8186cdd0bc024d77ff5cb1e5683a87bd4h",
+          "9539-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "9539-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mov8jhg2suu0",
+          "9539-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9539-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/70do4njz0amz",
+          "9539-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9539-malep-1_playmogo_hsub": "https://playmogo.com/e/lizzwe8nl4cx",
+          "9539-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
