@@ -21488,5 +21488,15 @@
     "captured_at": "2026-06-03T10:31:01",
     "file": "data/ensemble-stars-road-to-show.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ensemble-stars-road-to-show.json"
+  },
+  {
+    "slug": "enter-the-garden",
+    "mal_id": 41899,
+    "anime_name": "Enter The Garden",
+    "anime_url": "https://hianime.ad/anime/enter-the-garden",
+    "total_episodes": 2,
+    "captured_at": "2026-06-03T10:31:12",
+    "file": "data/enter-the-garden.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/enter-the-garden.json"
   }
 ]
