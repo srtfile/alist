@@ -6238,5 +6238,15 @@
     "captured_at": "2026-06-03T20:51:18",
     "file": "data/higepiyo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/higepiyo.json"
+  },
+  {
+    "slug": "high-card",
+    "mal_id": 49154,
+    "anime_name": "High Card",
+    "anime_url": "https://hianime.ad/anime/high-card",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:52:05",
+    "file": "data/high-card.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/high-card.json"
   }
 ]
