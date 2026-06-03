@@ -3588,5 +3588,15 @@
     "captured_at": "2026-06-03T19:16:46",
     "file": "data/gundam-build-fighters-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-specials.json"
+  },
+  {
+    "slug": "gundam-build-fighters-try",
+    "mal_id": 24625,
+    "anime_name": "Gundam Build Fighters Try",
+    "anime_url": "https://hianime.ad/anime/gundam-build-fighters-try",
+    "total_episodes": 25,
+    "captured_at": "2026-06-03T19:17:00",
+    "file": "data/gundam-build-fighters-try.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/gundam-build-fighters-try.json"
   }
 ]
