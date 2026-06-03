@@ -1,0 +1,65 @@
+{
+  "anime_name": "Deadman Wonderland Akai Knife Tsukai",
+  "anime_url": "https://hianime.ad/anime/deadman-wonderland-akai-knife-tsukai",
+  "slug": "deadman-wonderland-akai-knife-tsukai",
+  "mal_id": 6880,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:51:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Death Row Inmate",
+      "episode_url": "https://hianime.ad/watch/deadman-wonderland-akai-knife-tsukai/ep-1",
+      "sub": {
+        "HD-1": {
+          "6880-malep-1_vibeplayer_sub": "https://vibeplayer.site/4c7ddcb87046a903",
+          "6880-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c7ddcb87046a903/master.m3u8"
+        },
+        "HD-2": {
+          "6880-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag35ebb347851a788c53176a434bb8653f4h",
+          "6880-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6880-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2ps56iwz996s",
+          "6880-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6880-malep-1_vibeplayer_dub": "https://vibeplayer.site/0a7e6cf564ccb04e",
+          "6880-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0a7e6cf564ccb04e/master.m3u8"
+        },
+        "HD-2": {
+          "6880-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag144ceddcbaf91efe9ce25ae6242086854h",
+          "6880-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6880-malep-1_otakuvid_dub": "https://otakuvid.online/embed/c332u8562omq",
+          "6880-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "6880-malep-1_playmogo_dub": "https://playmogo.com/e/u43a167hysnd",
+          "6880-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6880-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6edb940ea70cd172",
+          "6880-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6edb940ea70cd172/master.m3u8"
+        },
+        "HD-2": {
+          "6880-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9806618f3f687b53c4eba65614d85ac64h",
+          "6880-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6880-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u9fdwrppz2oa",
+          "6880-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6880-malep-1_playmogo_hsub": "https://playmogo.com/e/cfwnfn1op9wl",
+          "6880-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
