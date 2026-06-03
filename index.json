@@ -3238,5 +3238,15 @@
     "captured_at": "2026-06-03T19:03:37",
     "file": "data/grimoire-of-zero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grimoire-of-zero.json"
+  },
+  {
+    "slug": "grisaia-no-kajitsu-specials",
+    "mal_id": 17729,
+    "anime_name": "Grisaia No Kajitsu Specials",
+    "anime_url": "https://hianime.ad/anime/grisaia-no-kajitsu-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-03T19:04:00",
+    "file": "data/grisaia-no-kajitsu-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/grisaia-no-kajitsu-specials.json"
   }
 ]
