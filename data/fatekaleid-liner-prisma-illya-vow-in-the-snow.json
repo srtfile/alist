@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fatekaleid Liner Prisma Illya Vow In The Snow",
+  "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prisma-illya-vow-in-the-snow",
+  "slug": "fatekaleid-liner-prisma-illya-vow-in-the-snow",
+  "mal_id": 14829,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:17:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth! A Magical Girl!",
+      "episode_url": "https://hianime.ad/watch/fatekaleid-liner-prisma-illya-vow-in-the-snow/ep-1",
+      "sub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/2da5dd2e8a955cb2",
+          "14829-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2da5dd2e8a955cb2/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5552fb0ad52cb6a43c4290f6ce27f1c34h",
+          "14829-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "14829-malep-1_otakuhg_sub": "https://otakuhg.site/e/4rn6y178r0s7",
+          "14829-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bvxcmhp8g47e",
+          "14829-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14829-malep-1_playmogo_sub": "https://playmogo.com/e/9uujxfrxrhd2",
+          "14829-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30f2e8c366f11afd",
+          "14829-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30f2e8c366f11afd/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag75a7c149b731fb94738ec5b994a0c5064h",
+          "14829-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xl6o23buk6ex",
+          "14829-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
