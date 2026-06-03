@@ -24068,5 +24068,15 @@
     "captured_at": "2026-06-03T12:53:11",
     "file": "data/four-panel-heroes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/four-panel-heroes.json"
+  },
+  {
+    "slug": "fox-spirit-matchmaker",
+    "mal_id": 38759,
+    "anime_name": "Fox Spirit Matchmaker",
+    "anime_url": "https://hianime.ad/anime/fox-spirit-matchmaker",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:53:29",
+    "file": "data/fox-spirit-matchmaker.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/fox-spirit-matchmaker.json"
   }
 ]
