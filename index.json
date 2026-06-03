@@ -5128,5 +5128,15 @@
     "captured_at": "2026-06-03T20:08:26",
     "file": "data/hataraku-saibou-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hataraku-saibou-specials.json"
+  },
+  {
+    "slug": "hatena-illusion",
+    "mal_id": 35252,
+    "anime_name": "Hatena Illusion",
+    "anime_url": "https://hianime.ad/anime/hatena-illusion",
+    "total_episodes": 12,
+    "captured_at": "2026-06-03T20:08:42",
+    "file": "data/hatena-illusion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hatena-illusion.json"
   }
 ]
