@@ -1,0 +1,77 @@
+{
+  "anime_name": "Bungou Stray Dogs Dead Apple",
+  "anime_url": "https://hianime.ad/anime/bungou-stray-dogs-dead-apple",
+  "slug": "bungou-stray-dogs-dead-apple",
+  "mal_id": 31478,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:06:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fortune Is Unpredictable and Mutable",
+      "episode_url": "https://hianime.ad/watch/bungou-stray-dogs-dead-apple/ep-1",
+      "sub": {
+        "HD-1": {
+          "31478-malep-1_vibeplayer_sub": "https://vibeplayer.site/d26a11262bbf4d49",
+          "31478-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d26a11262bbf4d49/master.m3u8"
+        },
+        "HD-2": {
+          "31478-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3bb2d498ba4caa44ca45321f57ae14724h",
+          "31478-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31478-malep-1_otakuhg_sub": "https://otakuhg.site/e/hhu8zx99kdjv",
+          "31478-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31478-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s1xjbh5pb1oi",
+          "31478-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31478-malep-1_playmogo_sub": "https://playmogo.com/e/q0hd8zho0zas",
+          "31478-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31478-malep-1_vibeplayer_dub": "https://vibeplayer.site/f777b9af6173a264",
+          "31478-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f777b9af6173a264/master.m3u8"
+        },
+        "HD-2": {
+          "31478-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd1ddfac14d4965ed5d58360e668f2e004h",
+          "31478-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "31478-malep-1_otakuhg_dub": "https://otakuhg.site/e/6nh1l6qtk32w",
+          "31478-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31478-malep-1_otakuvid_dub": "https://otakuvid.online/embed/g0zf2hsxmttz",
+          "31478-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31478-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fd68c5b2a49a6506",
+          "31478-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fd68c5b2a49a6506/master.m3u8"
+        },
+        "HD-2": {
+          "31478-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaf89afed558a275e753ba03b87b5367c4h",
+          "31478-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31478-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jlyx9hqrkuzl",
+          "31478-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31478-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o9x2rme6z52m",
+          "31478-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31478-malep-1_playmogo_hsub": "https://playmogo.com/e/0pei80kmt76w",
+          "31478-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
