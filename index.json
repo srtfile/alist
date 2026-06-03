@@ -19698,5 +19698,15 @@
     "captured_at": "2026-06-03T09:18:42",
     "file": "data/dr-slump-and-arale-chan-movie-11-dr-mashirito-and-abale-chan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump-and-arale-chan-movie-11-dr-mashirito-and-abale-chan.json"
+  },
+  {
+    "slug": "dr-slump-arale-chan",
+    "mal_id": 2222,
+    "anime_name": "Dr Slump Arale Chan",
+    "anime_url": "https://hianime.ad/anime/dr-slump-arale-chan",
+    "total_episodes": 184,
+    "captured_at": "2026-06-03T09:18:54",
+    "file": "data/dr-slump-arale-chan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/dr-slump-arale-chan.json"
   }
 ]
