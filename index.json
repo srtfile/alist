@@ -23758,5 +23758,15 @@
     "captured_at": "2026-06-03T12:42:51",
     "file": "data/flowering-heart.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flowering-heart.json"
+  },
+  {
+    "slug": "flowers-of-evil",
+    "mal_id": 16201,
+    "anime_name": "Flowers Of Evil",
+    "anime_url": "https://hianime.ad/anime/flowers-of-evil",
+    "total_episodes": 13,
+    "captured_at": "2026-06-03T12:43:23",
+    "file": "data/flowers-of-evil.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/flowers-of-evil.json"
   }
 ]
