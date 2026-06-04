@@ -12318,5 +12318,15 @@
     "captured_at": "2026-06-04T08:47:09",
     "file": "data/kakyuusei-elf-version-anata-dake-wo-mitsumete.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakyuusei-elf-version-anata-dake-wo-mitsumete.json"
+  },
+  {
+    "slug": "kaleido-star",
+    "mal_id": 427,
+    "anime_name": "Kaleido Star",
+    "anime_url": "https://hianime.ad/anime/kaleido-star",
+    "total_episodes": 51,
+    "captured_at": "2026-06-04T08:47:24",
+    "file": "data/kaleido-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaleido-star.json"
   }
 ]
