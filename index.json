@@ -11318,5 +11318,15 @@
     "captured_at": "2026-06-04T08:13:23",
     "file": "data/judo-boy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judo-boy.json"
+  },
+  {
+    "slug": "judo-story",
+    "mal_id": 4181,
+    "anime_name": "Judo Story",
+    "anime_url": "https://hianime.ad/anime/judo-story",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:14:00",
+    "file": "data/judo-story.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judo-story.json"
   }
 ]
