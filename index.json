@@ -9868,5 +9868,15 @@
     "captured_at": "2026-06-04T07:13:47",
     "file": "data/inuyasha-kuroi-tessaiga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inuyasha-kuroi-tessaiga.json"
+  },
+  {
+    "slug": "inuyasha-the-final-act",
+    "mal_id": 6811,
+    "anime_name": "Inuyasha The Final Act",
+    "anime_url": "https://hianime.ad/anime/inuyasha-the-final-act",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T07:13:59",
+    "file": "data/inuyasha-the-final-act.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inuyasha-the-final-act.json"
   }
 ]
