@@ -1,0 +1,77 @@
+{
+  "anime_name": "Izumo",
+  "anime_url": "https://hianime.ad/anime/izumo",
+  "slug": "izumo",
+  "mal_id": 2523,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T07:37:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "VOICES FROM THE DREAMS",
+      "episode_url": "https://hianime.ad/watch/izumo/ep-1",
+      "sub": {
+        "HD-1": {
+          "2523-malep-1_vibeplayer_sub": "https://vibeplayer.site/932b56bf38df62bb",
+          "2523-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/932b56bf38df62bb/master.m3u8"
+        },
+        "Earnvids": {
+          "2523-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i7qcu8qjtr0g",
+          "2523-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2523-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9cbcd7061a90e8e1",
+          "2523-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9cbcd7061a90e8e1/master.m3u8"
+        },
+        "StreamHG": {
+          "2523-malep-1_otakuhg_hsub": "https://otakuhg.site/e/05issatb36h4",
+          "2523-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2523-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tccwn10rnuvc",
+          "2523-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2523-malep-1_playmogo_hsub": "https://playmogo.com/e/oe769g15y37o",
+          "2523-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A STRANGE WORLD",
+      "episode_url": "https://hianime.ad/watch/izumo/ep-2",
+      "sub": {
+        "HD-1": {
+          "2523-malep-2_vibeplayer_sub": "https://vibeplayer.site/de1ff245ea7c98ec",
+          "2523-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de1ff245ea7c98ec/master.m3u8"
+        },
+        "Earnvids": {
+          "2523-malep-2_otakuvid_sub": "https://otakuvid.online/embed/absbpmna4yir",
+          "2523-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2523-malep-2_vibeplayer_hsub": "https://vibeplayer.site/bd36edcd1cb572c3",
+          "2523-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd36edcd1cb572c3/master.m3u8"
+        },
+        "StreamHG": {
+          "2523-malep-2_otakuhg_hsub": "https://otakuhg.site/e/jwekl5tjnpvw",
+          "2523-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2523-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ckzt5epjxu0y",
+          "2523-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2523-malep-2_playmogo_hsub": "https://playmogo.com/e/ez0wvincwi34",
+          "2523-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
