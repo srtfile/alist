@@ -11928,5 +11928,15 @@
     "captured_at": "2026-06-04T08:33:24",
     "file": "data/kaguya-sama-love-is-war-ultra-romantic.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaguya-sama-love-is-war-ultra-romantic.json"
+  },
+  {
+    "slug": "kaguya-sama-love-is-war",
+    "mal_id": 37999,
+    "anime_name": "Kaguya Sama Love Is War",
+    "anime_url": "https://hianime.ad/anime/kaguya-sama-love-is-war",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:33:47",
+    "file": "data/kaguya-sama-love-is-war.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaguya-sama-love-is-war.json"
   }
 ]
