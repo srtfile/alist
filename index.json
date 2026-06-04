@@ -13408,5 +13408,15 @@
     "captured_at": "2026-06-04T09:26:01",
     "file": "data/key-the-metal-idol.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/key-the-metal-idol.json"
+  },
+  {
+    "slug": "keyboard-immortal",
+    "mal_id": 3270,
+    "anime_name": "Keyboard Immortal",
+    "anime_url": "https://hianime.ad/anime/keyboard-immortal",
+    "total_episodes": 150,
+    "captured_at": "2026-06-04T09:26:27",
+    "file": "data/keyboard-immortal.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/keyboard-immortal.json"
   }
 ]
