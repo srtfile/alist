@@ -10948,5 +10948,15 @@
     "captured_at": "2026-06-04T07:57:14",
     "file": "data/jk-meshi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jk-meshi.json"
+  },
+  {
+    "slug": "jochum",
+    "mal_id": 58944,
+    "anime_name": "Jochum",
+    "anime_url": "https://hianime.ad/anime/jochum",
+    "total_episodes": 24,
+    "captured_at": "2026-06-04T07:57:50",
+    "file": "data/jochum.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jochum.json"
   }
 ]
