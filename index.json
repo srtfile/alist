@@ -10748,5 +10748,15 @@
     "captured_at": "2026-06-04T07:44:42",
     "file": "data/jewelpet.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet.json"
+  },
+  {
+    "slug": "jewelpet-happiness",
+    "mal_id": 17497,
+    "anime_name": "Jewelpet Happiness",
+    "anime_url": "https://hianime.ad/anime/jewelpet-happiness",
+    "total_episodes": 52,
+    "captured_at": "2026-06-04T07:45:43",
+    "file": "data/jewelpet-happiness.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet-happiness.json"
   }
 ]
