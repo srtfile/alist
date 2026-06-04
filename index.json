@@ -9578,5 +9578,15 @@
     "captured_at": "2026-06-04T07:01:58",
     "file": "data/initial-d-fifth-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-fifth-stage.json"
+  },
+  {
+    "slug": "initial-d-final-stage",
+    "mal_id": 22507,
+    "anime_name": "Initial D Final Stage",
+    "anime_url": "https://hianime.ad/anime/initial-d-final-stage",
+    "total_episodes": 4,
+    "captured_at": "2026-06-04T07:02:22",
+    "file": "data/initial-d-final-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-final-stage.json"
   }
 ]
