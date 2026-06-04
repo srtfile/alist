@@ -12478,5 +12478,15 @@
     "captured_at": "2026-06-04T08:53:41",
     "file": "data/kamisama-dolls-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-dolls-specials.json"
+  },
+  {
+    "slug": "kamisama-hajimemashita-ova",
+    "mal_id": 25681,
+    "anime_name": "Kamisama Hajimemashita Ova",
+    "anime_url": "https://hianime.ad/anime/kamisama-hajimemashita-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:53:57",
+    "file": "data/kamisama-hajimemashita-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-hajimemashita-ova.json"
   }
 ]
