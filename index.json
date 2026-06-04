@@ -10568,5 +10568,15 @@
     "captured_at": "2026-06-04T07:37:27",
     "file": "data/izetta-the-last-witch.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/izetta-the-last-witch.json"
+  },
+  {
+    "slug": "izumo",
+    "mal_id": 2523,
+    "anime_name": "Izumo",
+    "anime_url": "https://hianime.ad/anime/izumo",
+    "total_episodes": 2,
+    "captured_at": "2026-06-04T07:37:50",
+    "file": "data/izumo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/izumo.json"
   }
 ]
