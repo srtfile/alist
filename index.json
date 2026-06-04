@@ -11688,5 +11688,15 @@
     "captured_at": "2026-06-04T08:26:36",
     "file": "data/k-missing-kings-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-missing-kings-the-movie.json"
+  },
+  {
+    "slug": "k-return-of-kings",
+    "mal_id": 27991,
+    "anime_name": "K Return Of Kings",
+    "anime_url": "https://hianime.ad/anime/k-return-of-kings",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:26:48",
+    "file": "data/k-return-of-kings.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-return-of-kings.json"
   }
 ]
