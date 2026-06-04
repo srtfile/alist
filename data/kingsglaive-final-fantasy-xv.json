@@ -1,0 +1,52 @@
+{
+  "anime_name": "Kingsglaive Final Fantasy Xv",
+  "anime_url": "https://hianime.ad/anime/kingsglaive-final-fantasy-xv",
+  "slug": "kingsglaive-final-fantasy-xv",
+  "mal_id": 32843,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:57:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "From the Horizon of Mankind's History",
+      "episode_url": "https://hianime.ad/watch/kingsglaive-final-fantasy-xv/ep-1",
+      "sub": {
+        "HD-1": {
+          "32843-malep-1_vibeplayer_sub": "https://vibeplayer.site/d3e20a1d0511fd71",
+          "32843-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3e20a1d0511fd71/master.m3u8"
+        },
+        "StreamHG": {
+          "32843-malep-1_otakuhg_sub": "https://otakuhg.site/e/83ucsum1dl0m",
+          "32843-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32843-malep-1_otakuvid_sub": "https://otakuvid.online/embed/st0gyd3lsycz",
+          "32843-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32843-malep-1_playmogo_sub": "https://playmogo.com/e/gdjoy1ojls79",
+          "32843-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32843-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aafd0fac272e1ff5",
+          "32843-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aafd0fac272e1ff5/master.m3u8"
+        },
+        "StreamHG": {
+          "32843-malep-1_otakuhg_hsub": "https://otakuhg.site/e/nwka6lvgy41c",
+          "32843-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32843-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0tws59xyv446",
+          "32843-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32843-malep-1_playmogo_hsub": "https://playmogo.com/e/fbtwuki97yor",
+          "32843-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
