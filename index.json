@@ -8368,5 +8368,15 @@
     "captured_at": "2026-06-04T06:13:29",
     "file": "data/i-cinnamoroll-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/i-cinnamoroll-animation.json"
+  },
+  {
+    "slug": "is",
+    "mal_id": 9041,
+    "anime_name": "Is",
+    "anime_url": "https://hianime.ad/anime/is",
+    "total_episodes": 2,
+    "captured_at": "2026-06-04T06:14:57",
+    "file": "data/is.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is.json"
   }
 ]
