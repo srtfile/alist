@@ -8798,5 +8798,15 @@
     "captured_at": "2026-06-04T06:28:23",
     "file": "data/idol-project.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-project.json"
+  },
+  {
+    "slug": "idol-time-pripara",
+    "mal_id": 34787,
+    "anime_name": "Idol Time Pripara",
+    "anime_url": "https://hianime.ad/anime/idol-time-pripara",
+    "total_episodes": 51,
+    "captured_at": "2026-06-04T06:28:38",
+    "file": "data/idol-time-pripara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-time-pripara.json"
   }
 ]
