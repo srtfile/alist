@@ -9528,5 +9528,15 @@
     "captured_at": "2026-06-04T07:00:47",
     "file": "data/ingress-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ingress-the-animation.json"
+  },
+  {
+    "slug": "initial-d-battle-stage",
+    "mal_id": 185,
+    "anime_name": "Initial D Battle Stage",
+    "anime_url": "https://hianime.ad/anime/initial-d-battle-stage",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T07:01:09",
+    "file": "data/initial-d-battle-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-battle-stage.json"
   }
 ]
