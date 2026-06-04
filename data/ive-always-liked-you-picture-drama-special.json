@@ -1,0 +1,44 @@
+{
+  "anime_name": "Ive Always Liked You Picture Drama Special",
+  "anime_url": "https://hianime.ad/anime/ive-always-liked-you-picture-drama-special",
+  "slug": "ive-always-liked-you-picture-drama-special",
+  "mal_id": 40586,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:21:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Maxed Out My Level",
+      "episode_url": "https://hianime.ad/watch/ive-always-liked-you-picture-drama-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "40586-malep-1_vibeplayer_sub": "https://vibeplayer.site/52d8c3f5d3b2957f",
+          "40586-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/52d8c3f5d3b2957f/master.m3u8"
+        },
+        "Earnvids": {
+          "40586-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hb51muhwwd16",
+          "40586-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40586-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fab994439305b30d",
+          "40586-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fab994439305b30d/master.m3u8"
+        },
+        "StreamHG": {
+          "40586-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4f4ect4j4p1j",
+          "40586-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40586-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dh0zp9jx7zia",
+          "40586-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40586-malep-1_playmogo_hsub": "https://playmogo.com/e/l9acb9cua4rk",
+          "40586-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
