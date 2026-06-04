@@ -9668,5 +9668,15 @@
     "captured_at": "2026-06-04T07:05:10",
     "file": "data/insomniacs-after-school.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/insomniacs-after-school.json"
+  },
+  {
+    "slug": "interlude",
+    "mal_id": null,
+    "anime_name": "Interlude",
+    "anime_url": "https://hianime.ad/anime/interlude",
+    "total_episodes": 3,
+    "captured_at": "2026-06-04T07:05:33",
+    "file": "data/interlude.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/interlude.json"
   }
 ]
