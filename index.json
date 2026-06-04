@@ -12528,5 +12528,15 @@
     "captured_at": "2026-06-04T08:55:00",
     "file": "data/kamisama-kiss.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-kiss.json"
+  },
+  {
+    "slug": "kamisama-kiss-2nd-season",
+    "mal_id": 25681,
+    "anime_name": "Kamisama Kiss 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/kamisama-kiss-2nd-season",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:55:24",
+    "file": "data/kamisama-kiss-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-kiss-2nd-season.json"
   }
 ]
