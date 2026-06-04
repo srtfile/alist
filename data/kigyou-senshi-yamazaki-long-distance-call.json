@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kigyou Senshi Yamazaki Long Distance Call",
+  "anime_url": "https://hianime.ad/anime/kigyou-senshi-yamazaki-long-distance-call",
+  "slug": "kigyou-senshi-yamazaki-long-distance-call",
+  "mal_id": 1312,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:31:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Disaster From the Sea",
+      "episode_url": "https://hianime.ad/watch/kigyou-senshi-yamazaki-long-distance-call/ep-1",
+      "sub": {
+        "HD-1": {
+          "1312-malep-1_vibeplayer_sub": "https://vibeplayer.site/9cfa79b998886550",
+          "1312-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9cfa79b998886550/master.m3u8"
+        },
+        "Earnvids": {
+          "1312-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bw49gxczwfij",
+          "1312-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1312-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8b21d970a5593cea",
+          "1312-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b21d970a5593cea/master.m3u8"
+        },
+        "Earnvids": {
+          "1312-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9btdaqdjm1qt",
+          "1312-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1312-malep-1_playmogo_hsub": "https://playmogo.com/e/vrmsm4baxs2m",
+          "1312-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
