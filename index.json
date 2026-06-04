@@ -10668,5 +10668,15 @@
     "captured_at": "2026-06-04T07:41:35",
     "file": "data/japan-animators-exhibition.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/japan-animators-exhibition.json"
+  },
+  {
+    "slug": "japan-sinks-2020",
+    "mal_id": 54865,
+    "anime_name": "Japan Sinks 2020",
+    "anime_url": "https://hianime.ad/anime/japan-sinks-2020",
+    "total_episodes": 10,
+    "captured_at": "2026-06-04T07:42:19",
+    "file": "data/japan-sinks-2020.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/japan-sinks-2020.json"
   }
 ]
