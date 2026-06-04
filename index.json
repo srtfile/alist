@@ -12198,5 +12198,15 @@
     "captured_at": "2026-06-04T08:42:50",
     "file": "data/kakegurui-compulsive-gambler.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakegurui-compulsive-gambler.json"
+  },
+  {
+    "slug": "kakegurui",
+    "mal_id": 34933,
+    "anime_name": "Kakegurui",
+    "anime_url": "https://hianime.ad/anime/kakegurui",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:43:13",
+    "file": "data/kakegurui.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakegurui.json"
   }
 ]
