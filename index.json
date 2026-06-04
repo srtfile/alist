@@ -7808,5 +7808,15 @@
     "captured_at": "2026-06-04T05:51:12",
     "file": "data/hunter-x-hunter-original-video-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hunter-x-hunter-original-video-animation.json"
+  },
+  {
+    "slug": "hurricane-polymar",
+    "mal_id": 4808,
+    "anime_name": "Hurricane Polymar",
+    "anime_url": "https://hianime.ad/anime/hurricane-polymar",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T05:51:30",
+    "file": "data/hurricane-polymar.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hurricane-polymar.json"
   }
 ]
