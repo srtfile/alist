@@ -9068,5 +9068,15 @@
     "captured_at": "2026-06-04T06:39:05",
     "file": "data/ikkitousen-great-guardians.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikkitousen-great-guardians.json"
+  },
+  {
+    "slug": "ikkitousen-great-guardians-specials",
+    "mal_id": 4196,
+    "anime_name": "Ikkitousen Great Guardians Specials",
+    "anime_url": "https://hianime.ad/anime/ikkitousen-great-guardians-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T06:39:28",
+    "file": "data/ikkitousen-great-guardians-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikkitousen-great-guardians-specials.json"
   }
 ]
