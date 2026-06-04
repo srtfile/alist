@@ -10838,5 +10838,15 @@
     "captured_at": "2026-06-04T07:51:12",
     "file": "data/jiadao-zhong-er.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jiadao-zhong-er.json"
+  },
+  {
+    "slug": "jian-gu",
+    "mal_id": 39133,
+    "anime_name": "Jian Gu",
+    "anime_url": "https://hianime.ad/anime/jian-gu",
+    "total_episodes": 60,
+    "captured_at": "2026-06-04T07:53:18",
+    "file": "data/jian-gu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jian-gu.json"
   }
 ]
