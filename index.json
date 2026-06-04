@@ -9588,5 +9588,15 @@
     "captured_at": "2026-06-04T07:02:22",
     "file": "data/initial-d-final-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-final-stage.json"
+  },
+  {
+    "slug": "initial-d-first-stage",
+    "mal_id": 185,
+    "anime_name": "Initial D First Stage",
+    "anime_url": "https://hianime.ad/anime/initial-d-first-stage",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T07:02:37",
+    "file": "data/initial-d-first-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-first-stage.json"
   }
 ]
