@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kimi No Matsu Mirai Basho E",
+  "anime_url": "https://hianime.ad/anime/kimi-no-matsu-mirai-basho-e",
+  "slug": "kimi-no-matsu-mirai-basho-e",
+  "mal_id": 58861,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:42:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Please Be My Friend!",
+      "episode_url": "https://hianime.ad/watch/kimi-no-matsu-mirai-basho-e/ep-1",
+      "sub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_sub": "https://vibeplayer.site/d266519bfc39831e",
+          "58861-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d266519bfc39831e/master.m3u8"
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mm48cqxd6rwz",
+          "58861-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85ddcafd1b738833",
+          "58861-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85ddcafd1b738833/master.m3u8"
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/29xskvefj98m",
+          "58861-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58861-malep-1_playmogo_hsub": "https://playmogo.com/e/qyuhilrl6cni",
+          "58861-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
