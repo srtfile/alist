@@ -10448,5 +10448,15 @@
     "captured_at": "2026-06-04T07:33:42",
     "file": "data/isuca-gokuraku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/isuca-gokuraku.json"
+  },
+  {
+    "slug": "its-my-life",
+    "mal_id": 63256,
+    "anime_name": "Its My Life",
+    "anime_url": "https://hianime.ad/anime/its-my-life",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T07:33:54",
+    "file": "data/its-my-life.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/its-my-life.json"
   }
 ]
