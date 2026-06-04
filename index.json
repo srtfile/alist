@@ -9318,5 +9318,15 @@
     "captured_at": "2026-06-04T06:47:43",
     "file": "data/inspectre-mini-anime-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inspectre-mini-anime-season-2.json"
+  },
+  {
+    "slug": "inspectre-season-2",
+    "mal_id": 44204,
+    "anime_name": "Inspectre Season 2",
+    "anime_url": "https://hianime.ad/anime/inspectre-season-2",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:48:10",
+    "file": "data/inspectre-season-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inspectre-season-2.json"
   }
 ]
