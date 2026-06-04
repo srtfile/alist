@@ -8388,5 +8388,15 @@
     "captured_at": "2026-06-04T06:15:10",
     "file": "data/is-pure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-pure.json"
+  },
+  {
+    "slug": "is-pure-bonus",
+    "mal_id": 10397,
+    "anime_name": "Is Pure Bonus",
+    "anime_url": "https://hianime.ad/anime/is-pure-bonus",
+    "total_episodes": 5,
+    "captured_at": "2026-06-04T06:15:27",
+    "file": "data/is-pure-bonus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-pure-bonus.json"
   }
 ]
