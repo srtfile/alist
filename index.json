@@ -9478,5 +9478,15 @@
     "captured_at": "2026-06-04T06:58:43",
     "file": "data/infini-t-force.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infini-t-force.json"
+  },
+  {
+    "slug": "infinite-ryvius",
+    "mal_id": 593,
+    "anime_name": "Infinite Ryvius",
+    "anime_url": "https://hianime.ad/anime/infinite-ryvius",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T06:59:06",
+    "file": "data/infinite-ryvius.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infinite-ryvius.json"
   }
 ]
