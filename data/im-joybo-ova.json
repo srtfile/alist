@@ -1,0 +1,40 @@
+{
+  "anime_name": "Im Joybo Ova",
+  "anime_url": "https://hianime.ad/anime/im-joybo-ova",
+  "slug": "im-joybo-ova",
+  "mal_id": 32542,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:18:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Class 1-2, Sakamoto-kun | Bee Quiet",
+      "episode_url": "https://hianime.ad/watch/im-joybo-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "32542-malep-1_vibeplayer_sub": "https://vibeplayer.site/7c7b062cede2b434",
+          "32542-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7c7b062cede2b434/master.m3u8"
+        },
+        "Earnvids": {
+          "32542-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n023f9ro0lys",
+          "32542-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32542-malep-1_playmogo_sub": "https://playmogo.com/e/hcr5tjvapczd",
+          "32542-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32542-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b940c0f1b29d11b2",
+          "32542-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b940c0f1b29d11b2/master.m3u8"
+        },
+        "Earnvids": {
+          "32542-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jzfpakc2y8eg",
+          "32542-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
