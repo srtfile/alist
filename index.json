@@ -11848,5 +11848,15 @@
     "captured_at": "2026-06-04T08:30:34",
     "file": "data/kagaku-ninja-tai-gatchaman-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagaku-ninja-tai-gatchaman-movie.json"
+  },
+  {
+    "slug": "kagejitsu",
+    "mal_id": 17729,
+    "anime_name": "Kagejitsu",
+    "anime_url": "https://hianime.ad/anime/kagejitsu",
+    "total_episodes": 17,
+    "captured_at": "2026-06-04T08:30:46",
+    "file": "data/kagejitsu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagejitsu.json"
   }
 ]
