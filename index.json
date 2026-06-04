@@ -13708,5 +13708,15 @@
     "captured_at": "2026-06-04T09:39:38",
     "file": "data/kimera.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kimera.json"
+  },
+  {
+    "slug": "kimetsu-academy-special-edition",
+    "mal_id": 42870,
+    "anime_name": "Kimetsu Academy Special Edition",
+    "anime_url": "https://hianime.ad/anime/kimetsu-academy-special-edition",
+    "total_episodes": 3,
+    "captured_at": "2026-06-04T09:39:50",
+    "file": "data/kimetsu-academy-special-edition.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kimetsu-academy-special-edition.json"
   }
 ]
