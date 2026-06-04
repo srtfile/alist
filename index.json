@@ -11258,5 +11258,15 @@
     "captured_at": "2026-06-04T08:11:17",
     "file": "data/journal-with-witch.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/journal-with-witch.json"
+  },
+  {
+    "slug": "journey-to-bloom",
+    "mal_id": 37254,
+    "anime_name": "Journey To Bloom",
+    "anime_url": "https://hianime.ad/anime/journey-to-bloom",
+    "total_episodes": 5,
+    "captured_at": "2026-06-04T08:11:41",
+    "file": "data/journey-to-bloom.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/journey-to-bloom.json"
   }
 ]
