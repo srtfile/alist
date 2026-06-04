@@ -7318,5 +7318,15 @@
     "captured_at": "2026-06-04T02:25:28",
     "file": "data/hotaru-kagayaku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hotaru-kagayaku.json"
+  },
+  {
+    "slug": "hotel-inhumans",
+    "mal_id": 60260,
+    "anime_name": "Hotel Inhumans",
+    "anime_url": "https://hianime.ad/anime/hotel-inhumans",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T02:25:38",
+    "file": "data/hotel-inhumans.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hotel-inhumans.json"
   }
 ]
