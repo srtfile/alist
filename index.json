@@ -12278,5 +12278,15 @@
     "captured_at": "2026-06-04T08:45:46",
     "file": "data/kakushigoto-479.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakushigoto-479.json"
+  },
+  {
+    "slug": "kakushigoto-the-movie",
+    "mal_id": 59459,
+    "anime_name": "Kakushigoto The Movie",
+    "anime_url": "https://hianime.ad/anime/kakushigoto-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:46:10",
+    "file": "data/kakushigoto-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakushigoto-the-movie.json"
   }
 ]
