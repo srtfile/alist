@@ -9808,5 +9808,15 @@
     "captured_at": "2026-06-04T07:09:51",
     "file": "data/inuki-kanako-zekkyou-collection-gakkou-ga-kowai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inuki-kanako-zekkyou-collection-gakkou-ga-kowai.json"
+  },
+  {
+    "slug": "inuyasha",
+    "mal_id": 249,
+    "anime_name": "Inuyasha",
+    "anime_url": "https://hianime.ad/anime/inuyasha",
+    "total_episodes": 167,
+    "captured_at": "2026-06-04T07:10:04",
+    "file": "data/inuyasha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inuyasha.json"
   }
 ]
