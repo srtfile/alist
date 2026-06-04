@@ -7688,5 +7688,15 @@
     "captured_at": "2026-06-04T02:38:43",
     "file": "data/humanity-has-declined-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/humanity-has-declined-specials.json"
+  },
+  {
+    "slug": "hummingbirds",
+    "mal_id": null,
+    "anime_name": "Hummingbirds",
+    "anime_url": "https://hianime.ad/anime/hummingbirds",
+    "total_episodes": 4,
+    "captured_at": "2026-06-04T02:38:55",
+    "file": "data/hummingbirds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hummingbirds.json"
   }
 ]
