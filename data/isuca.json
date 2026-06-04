@@ -1,0 +1,325 @@
+{
+  "anime_name": "Isuca",
+  "anime_url": "https://hianime.ad/anime/isuca",
+  "slug": "isuca",
+  "mal_id": 25429,
+  "total_episodes": 10,
+  "captured_at": "2026-06-04T07:33:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chance Meeting",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-1",
+      "sub": {
+        "HD-1": {
+          "25429-malep-1_vibeplayer_sub": "https://vibeplayer.site/48c7702cca10e112",
+          "25429-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48c7702cca10e112/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-1_otakuhg_sub": "https://otakuhg.site/e/n2qfd4ldvwpi",
+          "25429-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r75kxnpouncz",
+          "25429-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e5a4f7c1ffa85a1e",
+          "25429-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e5a4f7c1ffa85a1e/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rj0zqjkgeipl",
+          "25429-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n4lkle9zq9to",
+          "25429-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-1_playmogo_hsub": "https://playmogo.com/e/3zs7jrkap0ee",
+          "25429-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "True Name",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-2",
+      "sub": {
+        "HD-1": {
+          "25429-malep-2_vibeplayer_sub": "https://vibeplayer.site/4d3365ff3d4927fc",
+          "25429-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d3365ff3d4927fc/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-2_otakuvid_sub": "https://otakuvid.online/embed/uwakn5z80h0s",
+          "25429-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d1105da63639005d",
+          "25429-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d1105da63639005d/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/zxu6atvd6e3e",
+          "25429-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-2_playmogo_hsub": "https://playmogo.com/e/ogg5uh3ggb8i",
+          "25429-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Confrontation",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-3",
+      "sub": {
+        "HD-1": {
+          "25429-malep-3_vibeplayer_sub": "https://vibeplayer.site/62ee5ef14e78f33e",
+          "25429-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62ee5ef14e78f33e/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-3_otakuhg_sub": "https://otakuhg.site/e/t546ezpuvw47",
+          "25429-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-3_otakuvid_sub": "https://otakuvid.online/embed/rgrt4jtimjj5",
+          "25429-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-3_vibeplayer_hsub": "https://vibeplayer.site/81b0c4d6abc903ab",
+          "25429-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/81b0c4d6abc903ab/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-3_otakuhg_hsub": "https://otakuhg.site/e/6eof3u11hjj9",
+          "25429-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/y5lxrw085f7a",
+          "25429-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-3_playmogo_hsub": "https://playmogo.com/e/5cqj5uxg34jm",
+          "25429-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shadow Play",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-4",
+      "sub": {
+        "HD-1": {
+          "25429-malep-4_vibeplayer_sub": "https://vibeplayer.site/21b49a540bd183d0",
+          "25429-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21b49a540bd183d0/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-4_otakuvid_sub": "https://otakuvid.online/embed/4vimxvfxfylm",
+          "25429-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-4_vibeplayer_hsub": "https://vibeplayer.site/f20e44f78de8f737",
+          "25429-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f20e44f78de8f737/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/7s9aom760pur",
+          "25429-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-4_playmogo_hsub": "https://playmogo.com/e/eavrlhxl1fv2",
+          "25429-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Eye of Truth",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-5",
+      "sub": {
+        "HD-1": {
+          "25429-malep-5_vibeplayer_sub": "https://vibeplayer.site/052119f0ec5342e7",
+          "25429-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/052119f0ec5342e7/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-5_otakuvid_sub": "https://otakuvid.online/embed/2wuv08zkofqz",
+          "25429-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-5_vibeplayer_hsub": "https://vibeplayer.site/f2790aebd15ed678",
+          "25429-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2790aebd15ed678/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/1g7ucxm70xpq",
+          "25429-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-5_playmogo_hsub": "https://playmogo.com/e/imsdshmc0gub",
+          "25429-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Promise",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-6",
+      "sub": {
+        "HD-1": {
+          "25429-malep-6_vibeplayer_sub": "https://vibeplayer.site/608ba8aea89177fc",
+          "25429-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/608ba8aea89177fc/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-6_otakuvid_sub": "https://otakuvid.online/embed/z7ig3riwn120",
+          "25429-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-6_vibeplayer_hsub": "https://vibeplayer.site/a6bfff6e4c775de2",
+          "25429-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a6bfff6e4c775de2/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/ddgr3r4o866x",
+          "25429-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-6_playmogo_hsub": "https://playmogo.com/e/udn19k7mpy19",
+          "25429-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Light and Dark",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-7",
+      "sub": {
+        "HD-1": {
+          "25429-malep-7_vibeplayer_sub": "https://vibeplayer.site/da34f0d2d6e9c2be",
+          "25429-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/da34f0d2d6e9c2be/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-7_otakuvid_sub": "https://otakuvid.online/embed/2jd9h3ed88w9",
+          "25429-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-7_vibeplayer_hsub": "https://vibeplayer.site/4d818f86baa4450d",
+          "25429-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4d818f86baa4450d/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-7_otakuhg_hsub": "https://otakuhg.site/e/k8kpvv0e8y2q",
+          "25429-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/0w7fsr96pt51",
+          "25429-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-7_playmogo_hsub": "https://playmogo.com/e/x8np9tk66g8w",
+          "25429-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Trials",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-8",
+      "sub": {
+        "HD-1": {
+          "25429-malep-8_vibeplayer_sub": "https://vibeplayer.site/c3fa970cd4daa2b2",
+          "25429-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c3fa970cd4daa2b2/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-8_otakuvid_sub": "https://otakuvid.online/embed/11lwkssqcixl",
+          "25429-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-8_vibeplayer_hsub": "https://vibeplayer.site/a89a53f9e150f20c",
+          "25429-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a89a53f9e150f20c/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/p87rdaw3ydxz",
+          "25429-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-8_playmogo_hsub": "https://playmogo.com/e/zxo4t99u3mq1",
+          "25429-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Attack",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-9",
+      "sub": {
+        "HD-1": {
+          "25429-malep-9_vibeplayer_sub": "https://vibeplayer.site/8c6cf690af26e4f7",
+          "25429-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c6cf690af26e4f7/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-9_otakuvid_sub": "https://otakuvid.online/embed/adz7tsbgf2ws",
+          "25429-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-9_vibeplayer_hsub": "https://vibeplayer.site/b05daac9709a05ca",
+          "25429-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b05daac9709a05ca/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-9_otakuhg_hsub": "https://otakuhg.site/e/qkfa3aizcj2q",
+          "25429-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/3y24uzks7jjd",
+          "25429-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-9_playmogo_hsub": "https://playmogo.com/e/d6qfqkdxz2n9",
+          "25429-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Resolution",
+      "episode_url": "https://hianime.ad/watch/isuca/ep-10",
+      "sub": {
+        "HD-1": {
+          "25429-malep-10_vibeplayer_sub": "https://vibeplayer.site/71ca07436423ba4c",
+          "25429-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/71ca07436423ba4c/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-10_otakuvid_sub": "https://otakuvid.online/embed/54n2lshtoo49",
+          "25429-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-10_vibeplayer_hsub": "https://vibeplayer.site/6adf0d515ab5a818",
+          "25429-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6adf0d515ab5a818/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/le7ngvlndng7",
+          "25429-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-10_playmogo_hsub": "https://playmogo.com/e/cexq5t8z7t73",
+          "25429-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
