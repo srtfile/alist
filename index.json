@@ -8878,5 +8878,15 @@
     "captured_at": "2026-06-04T06:31:51",
     "file": "data/idolls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolls.json"
+  },
+  {
+    "slug": "idolmster-xenoglossia",
+    "mal_id": 1694,
+    "anime_name": "Idolmster Xenoglossia",
+    "anime_url": "https://hianime.ad/anime/idolmster-xenoglossia",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T06:32:11",
+    "file": "data/idolmster-xenoglossia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolmster-xenoglossia.json"
   }
 ]
