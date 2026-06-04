@@ -11648,5 +11648,15 @@
     "captured_at": "2026-06-04T08:25:22",
     "file": "data/k-on-ura-on-6614.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-on-ura-on-6614.json"
+  },
+  {
+    "slug": "k-on-keikaku",
+    "mal_id": 5680,
+    "anime_name": "K On Keikaku",
+    "anime_url": "https://hianime.ad/anime/k-on-keikaku",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:25:40",
+    "file": "data/k-on-keikaku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-on-keikaku.json"
   }
 ]
