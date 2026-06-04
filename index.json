@@ -12468,5 +12468,15 @@
     "captured_at": "2026-06-04T08:53:18",
     "file": "data/kamisama-dolls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-dolls.json"
+  },
+  {
+    "slug": "kamisama-dolls-specials",
+    "mal_id": 10372,
+    "anime_name": "Kamisama Dolls Specials",
+    "anime_url": "https://hianime.ad/anime/kamisama-dolls-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T08:53:41",
+    "file": "data/kamisama-dolls-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-dolls-specials.json"
   }
 ]
