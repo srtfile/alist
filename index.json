@@ -11908,5 +11908,15 @@
     "captured_at": "2026-06-04T08:32:37",
     "file": "data/kaginado.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaginado.json"
+  },
+  {
+    "slug": "kaginado-season-2",
+    "mal_id": 50685,
+    "anime_name": "Kaginado Season 2",
+    "anime_url": "https://hianime.ad/anime/kaginado-season-2",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:33:01",
+    "file": "data/kaginado-season-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaginado-season-2.json"
   }
 ]
