@@ -12288,5 +12288,15 @@
     "captured_at": "2026-06-04T08:46:10",
     "file": "data/kakushigoto-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakushigoto-the-movie.json"
+  },
+  {
+    "slug": "kakushite-makina-san",
+    "mal_id": 58833,
+    "anime_name": "Kakushite Makina San",
+    "anime_url": "https://hianime.ad/anime/kakushite-makina-san",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:46:22",
+    "file": "data/kakushite-makina-san.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kakushite-makina-san.json"
   }
 ]
