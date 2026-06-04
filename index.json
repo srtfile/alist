@@ -8258,5 +8258,15 @@
     "captured_at": "2026-06-04T06:08:27",
     "file": "data/i-ris-the-movie-full-energy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/i-ris-the-movie-full-energy.json"
+  },
+  {
+    "slug": "i-shall-survive-using-potions",
+    "mal_id": 54616,
+    "anime_name": "I Shall Survive Using Potions",
+    "anime_url": "https://hianime.ad/anime/i-shall-survive-using-potions",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:08:39",
+    "file": "data/i-shall-survive-using-potions.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/i-shall-survive-using-potions.json"
   }
 ]
