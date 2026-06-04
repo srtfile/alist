@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kawa No Hikari",
+  "anime_url": "https://hianime.ad/anime/kawa-no-hikari",
+  "slug": "kawa-no-hikari",
+  "mal_id": 63489,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:10:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/kawa-no-hikari/ep-1",
+      "sub": {
+        "HD-1": {
+          "63489-malep-1_vibeplayer_sub": "https://vibeplayer.site/337a7d6e0702156a",
+          "63489-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/337a7d6e0702156a/master.m3u8"
+        },
+        "Earnvids": {
+          "63489-malep-1_otakuvid_sub": "https://otakuvid.online/embed/91pjln60eish",
+          "63489-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "63489-malep-1_playmogo_sub": "https://playmogo.com/e/5pfxz9odlo9t",
+          "63489-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63489-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3b570817bf20a617",
+          "63489-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b570817bf20a617/master.m3u8"
+        },
+        "Earnvids": {
+          "63489-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/avuqrarj1tl0",
+          "63489-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63489-malep-1_playmogo_hsub": "https://playmogo.com/e/07ewwhwzoy4e",
+          "63489-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
