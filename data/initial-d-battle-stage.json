@@ -1,0 +1,44 @@
+{
+  "anime_name": "Initial D Battle Stage",
+  "anime_url": "https://hianime.ad/anime/initial-d-battle-stage",
+  "slug": "initial-d-battle-stage",
+  "mal_id": 185,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:01:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ultimate Tofu Store Drift",
+      "episode_url": "https://hianime.ad/watch/initial-d-battle-stage/ep-1",
+      "sub": {
+        "StreamHG": {
+          "185-malep-1_otakuhg_sub": "https://otakuhg.site/e/x97oj1r55eny",
+          "185-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mstdeefquo2u",
+          "185-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5a7fbe3a11d90be8",
+          "185-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5a7fbe3a11d90be8/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_hsub": "https://otakuhg.site/e/teu9gykszwbu",
+          "185-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w1d5y2ah4k36",
+          "185-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_hsub": "https://playmogo.com/e/2dznk8zfmvm2",
+          "185-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
