@@ -11628,5 +11628,15 @@
     "captured_at": "2026-06-04T08:24:58",
     "file": "data/k-on-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-on-the-movie.json"
+  },
+  {
+    "slug": "k-on-live-house",
+    "mal_id": 5680,
+    "anime_name": "K On Live House",
+    "anime_url": "https://hianime.ad/anime/k-on-live-house",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:25:10",
+    "file": "data/k-on-live-house.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-on-live-house.json"
   }
 ]
