@@ -8768,5 +8768,15 @@
     "captured_at": "2026-06-04T06:27:16",
     "file": "data/idol-incidents.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-incidents.json"
+  },
+  {
+    "slug": "idol-land-pripara",
+    "mal_id": 38006,
+    "anime_name": "Idol Land Pripara",
+    "anime_url": "https://hianime.ad/anime/idol-land-pripara",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:27:39",
+    "file": "data/idol-land-pripara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-land-pripara.json"
   }
 ]
