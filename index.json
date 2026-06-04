@@ -9498,5 +9498,15 @@
     "captured_at": "2026-06-04T06:59:42",
     "file": "data/infinite-stratos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infinite-stratos.json"
+  },
+  {
+    "slug": "infinite-stratos-2",
+    "mal_id": 18247,
+    "anime_name": "Infinite Stratos 2",
+    "anime_url": "https://hianime.ad/anime/infinite-stratos-2",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:00:04",
+    "file": "data/infinite-stratos-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infinite-stratos-2.json"
   }
 ]
