@@ -7698,5 +7698,15 @@
     "captured_at": "2026-06-04T02:38:55",
     "file": "data/hummingbirds.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hummingbirds.json"
+  },
+  {
+    "slug": "hundred",
+    "mal_id": 31338,
+    "anime_name": "Hundred",
+    "anime_url": "https://hianime.ad/anime/hundred",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T02:39:07",
+    "file": "data/hundred.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hundred.json"
   }
 ]
