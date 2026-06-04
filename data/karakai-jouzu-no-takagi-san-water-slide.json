@@ -1,0 +1,52 @@
+{
+  "anime_name": "Karakai Jouzu No Takagi San Water Slide",
+  "anime_url": "https://hianime.ad/anime/karakai-jouzu-no-takagi-san-water-slide",
+  "slug": "karakai-jouzu-no-takagi-san-water-slide",
+  "mal_id": 35860,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:03:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Eraser / Day Duty / Funny Face / One Hundred Yen",
+      "episode_url": "https://hianime.ad/watch/karakai-jouzu-no-takagi-san-water-slide/ep-1",
+      "sub": {
+        "HD-1": {
+          "35860-malep-1_vibeplayer_sub": "https://vibeplayer.site/4bb9e8a662f5a02b",
+          "35860-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4bb9e8a662f5a02b/master.m3u8"
+        },
+        "StreamHG": {
+          "35860-malep-1_otakuhg_sub": "https://otakuhg.site/e/4ytsplyf336c",
+          "35860-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35860-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g2i5da2hfox7",
+          "35860-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35860-malep-1_playmogo_sub": "https://playmogo.com/e/0fyo0mrjmw7r",
+          "35860-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35860-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5a2b753f59f4a71f",
+          "35860-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5a2b753f59f4a71f/master.m3u8"
+        },
+        "StreamHG": {
+          "35860-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9ro5fp6znx70",
+          "35860-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35860-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h58y4nweypko",
+          "35860-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35860-malep-1_playmogo_hsub": "https://playmogo.com/e/dave989qv6fx",
+          "35860-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
