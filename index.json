@@ -9488,5 +9488,15 @@
     "captured_at": "2026-06-04T06:59:06",
     "file": "data/infinite-ryvius.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infinite-ryvius.json"
+  },
+  {
+    "slug": "infinite-stratos",
+    "mal_id": 9041,
+    "anime_name": "Infinite Stratos",
+    "anime_url": "https://hianime.ad/anime/infinite-stratos",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:59:42",
+    "file": "data/infinite-stratos.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/infinite-stratos.json"
   }
 ]
