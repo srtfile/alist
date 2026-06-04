@@ -11468,5 +11468,15 @@
     "captured_at": "2026-06-04T08:19:14",
     "file": "data/junji-ito-maniac-japanese-tales-of-the-macabre.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/junji-ito-maniac-japanese-tales-of-the-macabre.json"
+  },
+  {
+    "slug": "junjo-romantica",
+    "mal_id": 3092,
+    "anime_name": "Junjo Romantica",
+    "anime_url": "https://hianime.ad/anime/junjo-romantica",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:19:36",
+    "file": "data/junjo-romantica.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/junjo-romantica.json"
   }
 ]
