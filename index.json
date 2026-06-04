@@ -9458,5 +9458,15 @@
     "captured_at": "2026-06-04T06:57:59",
     "file": "data/inferno-cop.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inferno-cop.json"
+  },
+  {
+    "slug": "inferno-cop-fact-files",
+    "mal_id": 38959,
+    "anime_name": "Inferno Cop Fact Files",
+    "anime_url": "https://hianime.ad/anime/inferno-cop-fact-files",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:58:22",
+    "file": "data/inferno-cop-fact-files.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inferno-cop-fact-files.json"
   }
 ]
