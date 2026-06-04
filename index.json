@@ -7928,5 +7928,15 @@
     "captured_at": "2026-06-04T05:55:07",
     "file": "data/hybrid-x-heart-magias-academy-ataraxia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hybrid-x-heart-magias-academy-ataraxia.json"
+  },
+  {
+    "slug": "hyouge-mono",
+    "mal_id": 9996,
+    "anime_name": "Hyouge Mono",
+    "anime_url": "https://hianime.ad/anime/hyouge-mono",
+    "total_episodes": 39,
+    "captured_at": "2026-06-04T05:55:29",
+    "file": "data/hyouge-mono.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyouge-mono.json"
   }
 ]
