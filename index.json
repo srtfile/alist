@@ -8858,5 +8858,15 @@
     "captured_at": "2026-06-04T06:31:03",
     "file": "data/idolish7-second-beat.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolish7-second-beat.json"
+  },
+  {
+    "slug": "idolish7-third-beat",
+    "mal_id": 45577,
+    "anime_name": "Idolish7 Third Beat",
+    "anime_url": "https://hianime.ad/anime/idolish7-third-beat",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:31:28",
+    "file": "data/idolish7-third-beat.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolish7-third-beat.json"
   }
 ]
