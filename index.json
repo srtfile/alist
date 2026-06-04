@@ -10738,5 +10738,15 @@
     "captured_at": "2026-06-04T07:44:28",
     "file": "data/jewel-bem-hunter-lime.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewel-bem-hunter-lime.json"
+  },
+  {
+    "slug": "jewelpet",
+    "mal_id": 6008,
+    "anime_name": "Jewelpet",
+    "anime_url": "https://hianime.ad/anime/jewelpet",
+    "total_episodes": 51,
+    "captured_at": "2026-06-04T07:44:42",
+    "file": "data/jewelpet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet.json"
   }
 ]
