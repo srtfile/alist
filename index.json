@@ -9028,5 +9028,15 @@
     "captured_at": "2026-06-04T06:37:50",
     "file": "data/ikki-tousen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikki-tousen.json"
+  },
+  {
+    "slug": "ikkitousen-dragon-destiny",
+    "mal_id": 1956,
+    "anime_name": "Ikkitousen Dragon Destiny",
+    "anime_url": "https://hianime.ad/anime/ikkitousen-dragon-destiny",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:38:13",
+    "file": "data/ikkitousen-dragon-destiny.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikkitousen-dragon-destiny.json"
   }
 ]
