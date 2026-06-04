@@ -1,0 +1,57 @@
+{
+  "anime_name": "King Of Thorn",
+  "anime_url": "https://hianime.ad/anime/king-of-thorn",
+  "slug": "king-of-thorn",
+  "mal_id": 39699,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:52:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/king-of-thorn/ep-1",
+      "sub": {
+        "HD-1": {
+          "39699-malep-1_vibeplayer_sub": "https://vibeplayer.site/8e722378a6391ffa",
+          "39699-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e722378a6391ffa/master.m3u8"
+        },
+        "Earnvids": {
+          "39699-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t07vxp6c1ng1",
+          "39699-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "39699-malep-1_playmogo_sub": "https://playmogo.com/e/dwfyedwb0z21",
+          "39699-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "39699-malep-1_vibeplayer_dub": "https://vibeplayer.site/8ea44ff0f06424a6",
+          "39699-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8ea44ff0f06424a6/master.m3u8"
+        },
+        "Earnvids": {
+          "39699-malep-1_otakuvid_dub": "https://otakuvid.online/embed/aahw5vsplhoo",
+          "39699-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "39699-malep-1_vibeplayer_hsub": "https://vibeplayer.site/11bd7aa3cad84743",
+          "39699-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11bd7aa3cad84743/master.m3u8"
+        },
+        "StreamHG": {
+          "39699-malep-1_otakuhg_hsub": "https://otakuhg.site/e/n748mbvhm2wp",
+          "39699-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "39699-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oo6qgcfqm63c",
+          "39699-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "39699-malep-1_playmogo_hsub": "https://playmogo.com/e/7390k57b7qer",
+          "39699-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
