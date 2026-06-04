@@ -10938,5 +10938,15 @@
     "captured_at": "2026-06-04T07:57:02",
     "file": "data/jiu-se-lu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jiu-se-lu.json"
+  },
+  {
+    "slug": "jk-meshi",
+    "mal_id": 31578,
+    "anime_name": "Jk Meshi",
+    "anime_url": "https://hianime.ad/anime/jk-meshi",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T07:57:14",
+    "file": "data/jk-meshi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jk-meshi.json"
   }
 ]
