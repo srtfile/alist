@@ -10848,5 +10848,15 @@
     "captured_at": "2026-06-04T07:53:18",
     "file": "data/jian-gu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jian-gu.json"
+  },
+  {
+    "slug": "jigoku-youchien",
+    "mal_id": 59342,
+    "anime_name": "Jigoku Youchien",
+    "anime_url": "https://hianime.ad/anime/jigoku-youchien",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:54:27",
+    "file": "data/jigoku-youchien.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jigoku-youchien.json"
   }
 ]
