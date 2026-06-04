@@ -13128,5 +13128,15 @@
     "captured_at": "2026-06-04T09:16:08",
     "file": "data/kekkou-kamen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kekkou-kamen.json"
+  },
+  {
+    "slug": "kemeko-deluxe",
+    "mal_id": 3464,
+    "anime_name": "Kemeko Deluxe",
+    "anime_url": "https://hianime.ad/anime/kemeko-deluxe",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T09:16:22",
+    "file": "data/kemeko-deluxe.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kemeko-deluxe.json"
   }
 ]
