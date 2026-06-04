@@ -12388,5 +12388,15 @@
     "captured_at": "2026-06-04T08:49:38",
     "file": "data/kamichama-karin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamichama-karin.json"
+  },
+  {
+    "slug": "kamichu",
+    "mal_id": 489,
+    "anime_name": "Kamichu",
+    "anime_url": "https://hianime.ad/anime/kamichu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:50:14",
+    "file": "data/kamichu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamichu.json"
   }
 ]
