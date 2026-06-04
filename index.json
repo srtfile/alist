@@ -7088,5 +7088,15 @@
     "captured_at": "2026-06-04T02:19:52",
     "file": "data/honkai-star-rail-featured-videos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/honkai-star-rail-featured-videos.json"
+  },
+  {
+    "slug": "honobono-log",
+    "mal_id": 33241,
+    "anime_name": "Honobono Log",
+    "anime_url": "https://hianime.ad/anime/honobono-log",
+    "total_episodes": 10,
+    "captured_at": "2026-06-04T02:20:02",
+    "file": "data/honobono-log.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/honobono-log.json"
   }
 ]
