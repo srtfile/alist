@@ -9518,5 +9518,15 @@
     "captured_at": "2026-06-04T07:00:27",
     "file": "data/ingoku-danchi-deviants-apartment-complex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ingoku-danchi-deviants-apartment-complex.json"
+  },
+  {
+    "slug": "ingress-the-animation",
+    "mal_id": 37438,
+    "anime_name": "Ingress The Animation",
+    "anime_url": "https://hianime.ad/anime/ingress-the-animation",
+    "total_episodes": 11,
+    "captured_at": "2026-06-04T07:00:47",
+    "file": "data/ingress-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ingress-the-animation.json"
   }
 ]
