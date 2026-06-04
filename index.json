@@ -12048,5 +12048,15 @@
     "captured_at": "2026-06-04T08:37:36",
     "file": "data/kaijin-kaihatsu-bu-no-kuroitsu-san.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaijin-kaihatsu-bu-no-kuroitsu-san.json"
+  },
+  {
+    "slug": "kaiju-girls",
+    "mal_id": 36196,
+    "anime_name": "Kaiju Girls",
+    "anime_url": "https://hianime.ad/anime/kaiju-girls",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:37:59",
+    "file": "data/kaiju-girls.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiju-girls.json"
   }
 ]
