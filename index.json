@@ -9378,5 +9378,15 @@
     "captured_at": "2026-06-04T06:52:11",
     "file": "data/inazuma-eleven-go-chrono-stone.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inazuma-eleven-go-chrono-stone.json"
+  },
+  {
+    "slug": "inazuma-eleven-go-galaxy",
+    "mal_id": 18097,
+    "anime_name": "Inazuma Eleven Go Galaxy",
+    "anime_url": "https://hianime.ad/anime/inazuma-eleven-go-galaxy",
+    "total_episodes": 43,
+    "captured_at": "2026-06-04T06:53:10",
+    "file": "data/inazuma-eleven-go-galaxy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inazuma-eleven-go-galaxy.json"
   }
 ]
