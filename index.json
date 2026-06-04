@@ -12588,5 +12588,15 @@
     "captured_at": "2026-06-04T08:56:57",
     "file": "data/kanamemo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kanamemo.json"
+  },
+  {
+    "slug": "kanamewo",
+    "mal_id": 5914,
+    "anime_name": "Kanamewo",
+    "anime_url": "https://hianime.ad/anime/kanamewo",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:57:20",
+    "file": "data/kanamewo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kanamewo.json"
   }
 ]
