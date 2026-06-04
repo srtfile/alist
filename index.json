@@ -8648,5 +8648,15 @@
     "captured_at": "2026-06-04T06:24:02",
     "file": "data/ice.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ice.json"
+  },
+  {
+    "slug": "ichiban-ushiro-no-daimaou-specials",
+    "mal_id": 7088,
+    "anime_name": "Ichiban Ushiro No Daimaou Specials",
+    "anime_url": "https://hianime.ad/anime/ichiban-ushiro-no-daimaou-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T06:24:16",
+    "file": "data/ichiban-ushiro-no-daimaou-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ichiban-ushiro-no-daimaou-specials.json"
   }
 ]
