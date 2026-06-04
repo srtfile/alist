@@ -11308,5 +11308,15 @@
     "captured_at": "2026-06-04T08:13:09",
     "file": "data/judge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judge.json"
+  },
+  {
+    "slug": "judo-boy",
+    "mal_id": 4439,
+    "anime_name": "Judo Boy",
+    "anime_url": "https://hianime.ad/anime/judo-boy",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T08:13:23",
+    "file": "data/judo-boy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judo-boy.json"
   }
 ]
