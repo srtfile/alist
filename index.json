@@ -12028,5 +12028,15 @@
     "captured_at": "2026-06-04T08:36:23",
     "file": "data/kaiji-against-all-rules.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiji-against-all-rules.json"
+  },
+  {
+    "slug": "kaiji-ultimate-survivor",
+    "mal_id": 3002,
+    "anime_name": "Kaiji Ultimate Survivor",
+    "anime_url": "https://hianime.ad/anime/kaiji-ultimate-survivor",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T08:37:00",
+    "file": "data/kaiji-ultimate-survivor.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiji-ultimate-survivor.json"
   }
 ]
