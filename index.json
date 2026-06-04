@@ -10758,5 +10758,15 @@
     "captured_at": "2026-06-04T07:45:43",
     "file": "data/jewelpet-happiness.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet-happiness.json"
+  },
+  {
+    "slug": "jewelpet-kiradeco",
+    "mal_id": 12963,
+    "anime_name": "Jewelpet Kiradeco",
+    "anime_url": "https://hianime.ad/anime/jewelpet-kiradeco",
+    "total_episodes": 52,
+    "captured_at": "2026-06-04T07:46:44",
+    "file": "data/jewelpet-kiradeco.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet-kiradeco.json"
   }
 ]
