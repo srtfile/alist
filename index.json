@@ -7978,5 +7978,15 @@
     "captured_at": "2026-06-04T05:57:36",
     "file": "data/hyper-speed-grandoll.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyper-speed-grandoll.json"
+  },
+  {
+    "slug": "hyperdimension-neptunia",
+    "mal_id": 16157,
+    "anime_name": "Hyperdimension Neptunia",
+    "anime_url": "https://hianime.ad/anime/hyperdimension-neptunia",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T05:57:49",
+    "file": "data/hyperdimension-neptunia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyperdimension-neptunia.json"
   }
 ]
