@@ -10378,5 +10378,15 @@
     "captured_at": "2026-06-04T07:31:28",
     "file": "data/ishura-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ishura-2nd-season.json"
+  },
+  {
+    "slug": "island",
+    "mal_id": 33012,
+    "anime_name": "Island",
+    "anime_url": "https://hianime.ad/anime/island",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:31:51",
+    "file": "data/island.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/island.json"
   }
 ]
