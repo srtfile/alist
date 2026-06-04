@@ -9338,5 +9338,15 @@
     "captured_at": "2026-06-04T06:48:33",
     "file": "data/inari-kon-kon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inari-kon-kon.json"
+  },
+  {
+    "slug": "inazuma-eleven",
+    "mal_id": 5231,
+    "anime_name": "Inazuma Eleven",
+    "anime_url": "https://hianime.ad/anime/inazuma-eleven",
+    "total_episodes": 125,
+    "captured_at": "2026-06-04T06:48:54",
+    "file": "data/inazuma-eleven.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inazuma-eleven.json"
   }
 ]
