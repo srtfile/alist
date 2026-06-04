@@ -13618,5 +13618,15 @@
     "captured_at": "2026-06-04T09:35:45",
     "file": "data/killed-again-mr-detective.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/killed-again-mr-detective.json"
+  },
+  {
+    "slug": "killer-seven",
+    "mal_id": 39699,
+    "anime_name": "Killer Seven",
+    "anime_url": "https://hianime.ad/anime/killer-seven",
+    "total_episodes": 4,
+    "captured_at": "2026-06-04T09:36:05",
+    "file": "data/killer-seven.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/killer-seven.json"
   }
 ]
