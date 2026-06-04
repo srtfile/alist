@@ -1,0 +1,426 @@
+{
+  "anime_name": "Kanon",
+  "anime_url": "https://hianime.ad/anime/kanon",
+  "slug": "kanon",
+  "mal_id": 144,
+  "total_episodes": 13,
+  "captured_at": "2026-06-04T09:01:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Girl of Snow",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-1",
+      "sub": {
+        "HD-1": {
+          "144-malep-1_vibeplayer_sub": "https://vibeplayer.site/4cecf281b7ce5112",
+          "144-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4cecf281b7ce5112/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-1_otakuhg_sub": "https://otakuhg.site/e/hxs6cb4dpq6w",
+          "144-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gn4ey99hsivo",
+          "144-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b383811b5d57a0dc",
+          "144-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b383811b5d57a0dc/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pc52djmfa2ep",
+          "144-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tqjg1n2t1eud",
+          "144-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-1_playmogo_hsub": "https://playmogo.com/e/mcx5819s7izi",
+          "144-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Sunny Town",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-2",
+      "sub": {
+        "HD-1": {
+          "144-malep-2_vibeplayer_sub": "https://vibeplayer.site/08b535a56387ee92",
+          "144-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/08b535a56387ee92/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-2_otakuhg_sub": "https://otakuhg.site/e/j4op86xljp62",
+          "144-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-2_otakuvid_sub": "https://otakuvid.online/embed/44pmoid7ql9z",
+          "144-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a8d8c3e38bcaad9b",
+          "144-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8d8c3e38bcaad9b/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-2_otakuhg_hsub": "https://otakuhg.site/e/51nrj343f2dy",
+          "144-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/df3ebeanv4qw",
+          "144-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-2_playmogo_hsub": "https://playmogo.com/e/dqfdtthqxw99",
+          "144-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Just This One Little Memory",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-3",
+      "sub": {
+        "HD-1": {
+          "144-malep-3_vibeplayer_sub": "https://vibeplayer.site/0a9dedb3e26c9d32",
+          "144-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a9dedb3e26c9d32/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-3_otakuhg_sub": "https://otakuhg.site/e/ncnpndm8i0kp",
+          "144-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-3_otakuvid_sub": "https://otakuvid.online/embed/qisaquzo4cu1",
+          "144-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-3_vibeplayer_hsub": "https://vibeplayer.site/85c4e5d810ba2bd3",
+          "144-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85c4e5d810ba2bd3/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-3_otakuhg_hsub": "https://otakuhg.site/e/jhqbini1d58u",
+          "144-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/ya31hinktyyb",
+          "144-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-3_playmogo_hsub": "https://playmogo.com/e/93jth89dufiv",
+          "144-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To the Night",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-4",
+      "sub": {
+        "HD-1": {
+          "144-malep-4_vibeplayer_sub": "https://vibeplayer.site/cf6804e8120ed55d",
+          "144-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf6804e8120ed55d/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-4_otakuvid_sub": "https://otakuvid.online/embed/wq173ws2ebf1",
+          "144-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-4_vibeplayer_hsub": "https://vibeplayer.site/a9ab6fae62f06019",
+          "144-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a9ab6fae62f06019/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-4_otakuhg_hsub": "https://otakuhg.site/e/2168z8j1amk7",
+          "144-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/4fiy9md3pktm",
+          "144-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-4_playmogo_hsub": "https://playmogo.com/e/pr1gtjubadvi",
+          "144-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Fox and the Grapes",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-5",
+      "sub": {
+        "HD-1": {
+          "144-malep-5_vibeplayer_sub": "https://vibeplayer.site/87ea541558d3f37b",
+          "144-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87ea541558d3f37b/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-5_otakuvid_sub": "https://otakuvid.online/embed/8vj90atjwd4j",
+          "144-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-5_vibeplayer_hsub": "https://vibeplayer.site/5044588a1d3a4389",
+          "144-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5044588a1d3a4389/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-5_otakuhg_hsub": "https://otakuhg.site/e/3hivqm3kfpc2",
+          "144-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/qhxtgnsgyzjx",
+          "144-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-5_playmogo_hsub": "https://playmogo.com/e/6gnokbf4zu1q",
+          "144-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Those Girls' Opinions",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-6",
+      "sub": {
+        "HD-1": {
+          "144-malep-6_vibeplayer_sub": "https://vibeplayer.site/11874e6f1c44d3ba",
+          "144-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11874e6f1c44d3ba/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-6_otakuvid_sub": "https://otakuvid.online/embed/2owegqbjqvk8",
+          "144-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-6_vibeplayer_hsub": "https://vibeplayer.site/76b2a993e0e832bc",
+          "144-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/76b2a993e0e832bc/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-6_otakuhg_hsub": "https://otakuhg.site/e/393jx1ihowi5",
+          "144-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/9v6dpuf1ngx0",
+          "144-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-6_playmogo_hsub": "https://playmogo.com/e/0nvheoqcdhaa",
+          "144-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ball",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-7",
+      "sub": {
+        "HD-1": {
+          "144-malep-7_vibeplayer_sub": "https://vibeplayer.site/cba0e0c2dbdbbe67",
+          "144-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cba0e0c2dbdbbe67/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-7_otakuvid_sub": "https://otakuvid.online/embed/tdc4v0239dec",
+          "144-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-7_vibeplayer_hsub": "https://vibeplayer.site/16bf719f248e799b",
+          "144-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/16bf719f248e799b/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-7_otakuhg_hsub": "https://otakuhg.site/e/0gfo9ekwf5yj",
+          "144-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/sd8fj6k62lip",
+          "144-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-7_playmogo_hsub": "https://playmogo.com/e/xeiv5fg6vxpf",
+          "144-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Girl's Prison",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-8",
+      "sub": {
+        "HD-1": {
+          "144-malep-8_vibeplayer_sub": "https://vibeplayer.site/11215e8cbc6e5f37",
+          "144-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11215e8cbc6e5f37/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-8_otakuvid_sub": "https://otakuvid.online/embed/au9z3t86q9fd",
+          "144-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-8_vibeplayer_hsub": "https://vibeplayer.site/51fc64064f8b059a",
+          "144-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/51fc64064f8b059a/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-8_otakuhg_hsub": "https://otakuhg.site/e/u4ehaszhyqcj",
+          "144-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/e7buqa3705lu",
+          "144-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-8_playmogo_hsub": "https://playmogo.com/e/sbej445u6o64",
+          "144-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beyond that Smile",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-9",
+      "sub": {
+        "HD-1": {
+          "144-malep-9_vibeplayer_sub": "https://vibeplayer.site/faa57323335fadcc",
+          "144-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/faa57323335fadcc/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-9_otakuhg_sub": "https://otakuhg.site/e/0jdqllbbs7ar",
+          "144-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-9_otakuvid_sub": "https://otakuvid.online/embed/8a00k2o4o3u0",
+          "144-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Winter Fireworks",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-10",
+      "sub": {
+        "HD-1": {
+          "144-malep-10_vibeplayer_sub": "https://vibeplayer.site/d911fcd36350067a",
+          "144-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d911fcd36350067a/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-10_otakuhg_sub": "https://otakuhg.site/e/w0v917qvqv8p",
+          "144-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-10_otakuvid_sub": "https://otakuvid.online/embed/udvsko5bwm50",
+          "144-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Promise",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-11",
+      "sub": {
+        "HD-1": {
+          "144-malep-11_vibeplayer_sub": "https://vibeplayer.site/9d2e9d057888582f",
+          "144-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d2e9d057888582f/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-11_otakuvid_sub": "https://otakuvid.online/embed/e6jy4atksqgn",
+          "144-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-11_vibeplayer_hsub": "https://vibeplayer.site/830cfe883386a8db",
+          "144-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/830cfe883386a8db/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-11_otakuhg_hsub": "https://otakuhg.site/e/v8b0s5quyvoy",
+          "144-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/qsqld7hzeg0d",
+          "144-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-11_playmogo_hsub": "https://playmogo.com/e/ay4ignlcen0u",
+          "144-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Mark of a Dream",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-12",
+      "sub": {
+        "HD-1": {
+          "144-malep-12_vibeplayer_sub": "https://vibeplayer.site/c9ddb563f946edbe",
+          "144-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9ddb563f946edbe/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-12_otakuvid_sub": "https://otakuvid.online/embed/hfr1x3oitpl1",
+          "144-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-12_vibeplayer_hsub": "https://vibeplayer.site/b9498a84f8efbc25",
+          "144-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b9498a84f8efbc25/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-12_otakuhg_hsub": "https://otakuhg.site/e/6yrikz5er93s",
+          "144-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/3i2sfgjx57s6",
+          "144-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-12_playmogo_hsub": "https://playmogo.com/e/trnlvnxnr3l9",
+          "144-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Where the Wind Leads",
+      "episode_url": "https://hianime.ad/watch/kanon/ep-13",
+      "sub": {
+        "HD-1": {
+          "144-malep-13_vibeplayer_sub": "https://vibeplayer.site/0847d664a2ee3d4b",
+          "144-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0847d664a2ee3d4b/master.m3u8"
+        },
+        "Earnvids": {
+          "144-malep-13_otakuvid_sub": "https://otakuvid.online/embed/lr4fv9xuizau",
+          "144-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "144-malep-13_vibeplayer_hsub": "https://vibeplayer.site/e5a66e58ecc82a93",
+          "144-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e5a66e58ecc82a93/master.m3u8"
+        },
+        "StreamHG": {
+          "144-malep-13_otakuhg_hsub": "https://otakuhg.site/e/htv7130wldl2",
+          "144-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "144-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/7h642rqba3r5",
+          "144-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "144-malep-13_playmogo_hsub": "https://playmogo.com/e/ahx1qjwks0bj",
+          "144-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
