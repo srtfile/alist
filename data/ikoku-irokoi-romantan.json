@@ -1,0 +1,61 @@
+{
+  "anime_name": "Ikoku Irokoi Romantan",
+  "anime_url": "https://hianime.ad/anime/ikoku-irokoi-romantan",
+  "slug": "ikoku-irokoi-romantan",
+  "mal_id": 9938,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T06:40:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Entrance",
+      "episode_url": "https://hianime.ad/watch/ikoku-irokoi-romantan/ep-1",
+      "sub": {
+        "HD-1": {
+          "9938-malep-1_vibeplayer_sub": "https://vibeplayer.site/2c50c039158960da",
+          "9938-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c50c039158960da/master.m3u8"
+        },
+        "StreamHG": {
+          "9938-malep-1_otakuhg_sub": "https://otakuhg.site/e/j9nhi18fq4ow",
+          "9938-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9938-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0ncbv3epehe9",
+          "9938-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9938-malep-1_vibeplayer_hsub": "https://vibeplayer.site/692e2dbd863bd70b",
+          "9938-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/692e2dbd863bd70b/master.m3u8"
+        },
+        "Earnvids": {
+          "9938-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gcfudup6ni8z",
+          "9938-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cheese",
+      "episode_url": "https://hianime.ad/watch/ikoku-irokoi-romantan/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "9938-malep-2_vibeplayer_raw": "https://vibeplayer.site/17e2fde7bcb1e473",
+          "9938-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/17e2fde7bcb1e473/master.m3u8"
+        },
+        "StreamHG": {
+          "9938-malep-2_otakuhg_raw": "https://otakuhg.site/e/myq1tsasgefc",
+          "9938-malep-2_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "9938-malep-2_otakuvid_raw": "https://otakuvid.online/embed/1h95bc8zcdgj",
+          "9938-malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
