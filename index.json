@@ -10178,5 +10178,15 @@
     "captured_at": "2026-06-04T07:25:20",
     "file": "data/is-this-a-zombie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-this-a-zombie.json"
+  },
+  {
+    "slug": "is-this-a-zombie-of-the-dead",
+    "mal_id": 10790,
+    "anime_name": "Is This A Zombie Of The Dead",
+    "anime_url": "https://hianime.ad/anime/is-this-a-zombie-of-the-dead",
+    "total_episodes": 10,
+    "captured_at": "2026-06-04T07:25:42",
+    "file": "data/is-this-a-zombie-of-the-dead.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-this-a-zombie-of-the-dead.json"
   }
 ]
