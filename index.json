@@ -11328,5 +11328,15 @@
     "captured_at": "2026-06-04T08:14:00",
     "file": "data/judo-story.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judo-story.json"
+  },
+  {
+    "slug": "jujutsu-kaisen-tv",
+    "mal_id": 40748,
+    "anime_name": "Jujutsu Kaisen Tv",
+    "anime_url": "https://hianime.ad/anime/jujutsu-kaisen-tv",
+    "total_episodes": 24,
+    "captured_at": "2026-06-04T08:14:12",
+    "file": "data/jujutsu-kaisen-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jujutsu-kaisen-tv.json"
   }
 ]
