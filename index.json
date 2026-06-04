@@ -12518,5 +12518,15 @@
     "captured_at": "2026-06-04T08:54:36",
     "file": "data/kamisama-kazoku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-kazoku.json"
+  },
+  {
+    "slug": "kamisama-kiss",
+    "mal_id": 14713,
+    "anime_name": "Kamisama Kiss",
+    "anime_url": "https://hianime.ad/anime/kamisama-kiss",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:55:00",
+    "file": "data/kamisama-kiss.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-kiss.json"
   }
 ]
