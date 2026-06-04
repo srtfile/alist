@@ -8638,5 +8638,15 @@
     "captured_at": "2026-06-04T06:23:51",
     "file": "data/iblard-jikan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/iblard-jikan.json"
+  },
+  {
+    "slug": "ice",
+    "mal_id": 37951,
+    "anime_name": "Ice",
+    "anime_url": "https://hianime.ad/anime/ice",
+    "total_episodes": 3,
+    "captured_at": "2026-06-04T06:24:02",
+    "file": "data/ice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ice.json"
   }
 ]
