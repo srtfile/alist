@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kanamewo",
+  "anime_url": "https://hianime.ad/anime/kanamewo",
+  "slug": "kanamewo",
+  "mal_id": 5914,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:57:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kanamewo/ep-1",
+      "sub": {
+        "HD-1": {
+          "5914-malep-1_vibeplayer_sub": "https://vibeplayer.site/8f5e5b2d698e7511",
+          "5914-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8f5e5b2d698e7511/master.m3u8"
+        },
+        "Earnvids": {
+          "5914-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wxag7gsm5a68",
+          "5914-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5914-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8ab549514df7a2f4",
+          "5914-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ab549514df7a2f4/master.m3u8"
+        },
+        "StreamHG": {
+          "5914-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xei5t2ahllj0",
+          "5914-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5914-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d3voyz3ovwk7",
+          "5914-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5914-malep-1_playmogo_hsub": "https://playmogo.com/e/8q4b6fie54iy",
+          "5914-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
