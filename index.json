@@ -8808,5 +8808,15 @@
     "captured_at": "2026-06-04T06:28:38",
     "file": "data/idol-time-pripara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-time-pripara.json"
+  },
+  {
+    "slug": "idolish7",
+    "mal_id": 33899,
+    "anime_name": "Idolish7",
+    "anime_url": "https://hianime.ad/anime/idolish7",
+    "total_episodes": 17,
+    "captured_at": "2026-06-04T06:29:37",
+    "file": "data/idolish7.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolish7.json"
   }
 ]
