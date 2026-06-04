@@ -7348,5 +7348,15 @@
     "captured_at": "2026-06-04T02:26:07",
     "file": "data/houkago-no-tinker-bell.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/houkago-no-tinker-bell.json"
+  },
+  {
+    "slug": "house-of-five-leaves",
+    "mal_id": 7588,
+    "anime_name": "House Of Five Leaves",
+    "anime_url": "https://hianime.ad/anime/house-of-five-leaves",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T02:26:17",
+    "file": "data/house-of-five-leaves.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/house-of-five-leaves.json"
   }
 ]
