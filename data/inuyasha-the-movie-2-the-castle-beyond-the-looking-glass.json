@@ -1,0 +1,65 @@
+{
+  "anime_name": "Inuyasha The Movie 2 The Castle Beyond The Looking Glass",
+  "anime_url": "https://hianime.ad/anime/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass",
+  "slug": "inuyasha-the-movie-2-the-castle-beyond-the-looking-glass",
+  "mal_id": 6811,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:12:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Naraku's Heart",
+      "episode_url": "https://hianime.ad/watch/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass/ep-1",
+      "sub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_sub": "https://vibeplayer.site/a051ff98083e3cf2",
+          "6811-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a051ff98083e3cf2/master.m3u8"
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ejcdwf3jpc04",
+          "6811-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6811-malep-1_playmogo_sub": "https://playmogo.com/e/01c4zp3ame7m",
+          "6811-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_dub": "https://vibeplayer.site/36ce5dec6d99c605",
+          "6811-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/36ce5dec6d99c605/master.m3u8"
+        },
+        "StreamHG": {
+          "6811-malep-1_otakuhg_dub": "https://otakuhg.site/e/eryahs6i1zm7",
+          "6811-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sw0y2lbhtq82",
+          "6811-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "6811-malep-1_playmogo_dub": "https://playmogo.com/e/1kipd32i9pnz",
+          "6811-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_hsub": "https://vibeplayer.site/450daed8e01af5be",
+          "6811-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/450daed8e01af5be/master.m3u8"
+        },
+        "StreamHG": {
+          "6811-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0jwd6nbkilbd",
+          "6811-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sq1zzsng9it5",
+          "6811-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6811-malep-1_playmogo_hsub": "https://playmogo.com/e/89b52zebpogl",
+          "6811-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
