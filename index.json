@@ -11558,5 +11558,15 @@
     "captured_at": "2026-06-04T08:22:00",
     "file": "data/juuou-mujin-no-fafnir.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/juuou-mujin-no-fafnir.json"
+  },
+  {
+    "slug": "juusenki-l-gaim",
+    "mal_id": 2598,
+    "anime_name": "Juusenki L Gaim",
+    "anime_url": "https://hianime.ad/anime/juusenki-l-gaim",
+    "total_episodes": 54,
+    "captured_at": "2026-06-04T08:22:24",
+    "file": "data/juusenki-l-gaim.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/juusenki-l-gaim.json"
   }
 ]
