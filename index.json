@@ -14038,5 +14038,15 @@
     "captured_at": "2026-06-04T09:54:51",
     "file": "data/kingdom-4th-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kingdom-4th-season.json"
+  },
+  {
+    "slug": "kingdom-season-5",
+    "mal_id": 53223,
+    "anime_name": "Kingdom Season 5",
+    "anime_url": "https://hianime.ad/anime/kingdom-season-5",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T09:55:28",
+    "file": "data/kingdom-season-5.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kingdom-season-5.json"
   }
 ]
