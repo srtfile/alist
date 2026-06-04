@@ -10958,5 +10958,15 @@
     "captured_at": "2026-06-04T07:57:50",
     "file": "data/jochum.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jochum.json"
+  },
+  {
+    "slug": "joe-vs-joe",
+    "mal_id": 2402,
+    "anime_name": "Joe Vs Joe",
+    "anime_url": "https://hianime.ad/anime/joe-vs-joe",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T07:58:24",
+    "file": "data/joe-vs-joe.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/joe-vs-joe.json"
   }
 ]
