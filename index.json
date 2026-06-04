@@ -8888,5 +8888,15 @@
     "captured_at": "2026-06-04T06:32:11",
     "file": "data/idolmster-xenoglossia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idolmster-xenoglossia.json"
+  },
+  {
+    "slug": "idoly-pride",
+    "mal_id": 40842,
+    "anime_name": "Idoly Pride",
+    "anime_url": "https://hianime.ad/anime/idoly-pride",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:32:47",
+    "file": "data/idoly-pride.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idoly-pride.json"
   }
 ]
