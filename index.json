@@ -9778,5 +9778,15 @@
     "captured_at": "2026-06-04T07:08:51",
     "file": "data/inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou.json"
+  },
+  {
+    "slug": "inukami",
+    "mal_id": 940,
+    "anime_name": "Inukami",
+    "anime_url": "https://hianime.ad/anime/inukami",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T07:09:03",
+    "file": "data/inukami.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/inukami.json"
   }
 ]
