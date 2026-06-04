@@ -7988,5 +7988,15 @@
     "captured_at": "2026-06-04T05:57:49",
     "file": "data/hyperdimension-neptunia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyperdimension-neptunia.json"
+  },
+  {
+    "slug": "hyperventilation",
+    "mal_id": null,
+    "anime_name": "Hyperventilation",
+    "anime_url": "https://hianime.ad/anime/hyperventilation",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T05:58:12",
+    "file": "data/hyperventilation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyperventilation.json"
   }
 ]
