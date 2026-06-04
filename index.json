@@ -9598,5 +9598,15 @@
     "captured_at": "2026-06-04T07:02:37",
     "file": "data/initial-d-first-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-first-stage.json"
+  },
+  {
+    "slug": "initial-d-fourth-stage",
+    "mal_id": 18,
+    "anime_name": "Initial D Fourth Stage",
+    "anime_url": "https://hianime.ad/anime/initial-d-fourth-stage",
+    "total_episodes": 24,
+    "captured_at": "2026-06-04T07:03:14",
+    "file": "data/initial-d-fourth-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-fourth-stage.json"
   }
 ]
