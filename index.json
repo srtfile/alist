@@ -13058,5 +13058,15 @@
     "captured_at": "2026-06-04T09:13:29",
     "file": "data/keijo-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/keijo-specials.json"
+  },
+  {
+    "slug": "keio-flying-squadron",
+    "mal_id": 32686,
+    "anime_name": "Keio Flying Squadron",
+    "anime_url": "https://hianime.ad/anime/keio-flying-squadron",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T09:13:46",
+    "file": "data/keio-flying-squadron.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/keio-flying-squadron.json"
   }
 ]
