@@ -1,0 +1,44 @@
+{
+  "anime_name": "Isekai Cheat Magician Special",
+  "anime_url": "https://hianime.ad/anime/isekai-cheat-magician-special",
+  "slug": "isekai-cheat-magician-special",
+  "mal_id": 37744,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:28:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Lost Ones from Another World",
+      "episode_url": "https://hianime.ad/watch/isekai-cheat-magician-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "37744-malep-1_vibeplayer_sub": "https://vibeplayer.site/7908482b62df4ec4",
+          "37744-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7908482b62df4ec4/master.m3u8"
+        },
+        "Earnvids": {
+          "37744-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ihvfmye8xdpp",
+          "37744-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37744-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9de6527ae106f55a",
+          "37744-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9de6527ae106f55a/master.m3u8"
+        },
+        "StreamHG": {
+          "37744-malep-1_otakuhg_hsub": "https://otakuhg.site/e/e6f4yqqai3f3",
+          "37744-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37744-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n5qe5bb73e01",
+          "37744-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37744-malep-1_playmogo_hsub": "https://playmogo.com/e/9arg63of6jgk",
+          "37744-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
