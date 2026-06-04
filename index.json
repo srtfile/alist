@@ -7968,5 +7968,15 @@
     "captured_at": "2026-06-04T05:57:01",
     "file": "data/hyper-police.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyper-police.json"
+  },
+  {
+    "slug": "hyper-speed-grandoll",
+    "mal_id": 14989,
+    "anime_name": "Hyper Speed Grandoll",
+    "anime_url": "https://hianime.ad/anime/hyper-speed-grandoll",
+    "total_episodes": 3,
+    "captured_at": "2026-06-04T05:57:36",
+    "file": "data/hyper-speed-grandoll.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyper-speed-grandoll.json"
   }
 ]
