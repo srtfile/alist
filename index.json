@@ -11768,5 +11768,15 @@
     "captured_at": "2026-06-04T08:28:24",
     "file": "data/kdrop.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kdrop.json"
+  },
+  {
+    "slug": "kabaneri-of-the-iron-fortress",
+    "mal_id": 28623,
+    "anime_name": "Kabaneri Of The Iron Fortress",
+    "anime_url": "https://hianime.ad/anime/kabaneri-of-the-iron-fortress",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:28:36",
+    "file": "data/kabaneri-of-the-iron-fortress.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kabaneri-of-the-iron-fortress.json"
   }
 ]
