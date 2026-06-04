@@ -8778,5 +8778,15 @@
     "captured_at": "2026-06-04T06:27:39",
     "file": "data/idol-land-pripara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-land-pripara.json"
+  },
+  {
+    "slug": "idol-memories",
+    "mal_id": 33572,
+    "anime_name": "Idol Memories",
+    "anime_url": "https://hianime.ad/anime/idol-memories",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T06:28:01",
+    "file": "data/idol-memories.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/idol-memories.json"
   }
 ]
