@@ -7108,5 +7108,15 @@
     "captured_at": "2026-06-04T02:20:19",
     "file": "data/honoo-no-alpenrose.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/honoo-no-alpenrose.json"
+  },
+  {
+    "slug": "honoo-no-tenkousei",
+    "mal_id": 238,
+    "anime_name": "Honoo No Tenkousei",
+    "anime_url": "https://hianime.ad/anime/honoo-no-tenkousei",
+    "total_episodes": 2,
+    "captured_at": "2026-06-04T02:20:30",
+    "file": "data/honoo-no-tenkousei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/honoo-no-tenkousei.json"
   }
 ]
