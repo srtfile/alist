@@ -11788,5 +11788,15 @@
     "captured_at": "2026-06-04T08:28:59",
     "file": "data/kabaneri-of-the-iron-fortress-the-battle-of-unato.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kabaneri-of-the-iron-fortress-the-battle-of-unato.json"
+  },
+  {
+    "slug": "kabukibu",
+    "mal_id": 33840,
+    "anime_name": "Kabukibu",
+    "anime_url": "https://hianime.ad/anime/kabukibu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:29:11",
+    "file": "data/kabukibu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kabukibu.json"
   }
 ]
