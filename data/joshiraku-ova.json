@@ -1,0 +1,44 @@
+{
+  "anime_name": "Joshiraku Ova",
+  "anime_url": "https://hianime.ad/anime/joshiraku-ova",
+  "slug": "joshiraku-ova",
+  "mal_id": 12679,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:10:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Normal Dialogue / Different Clothes / Shouting Instructions",
+      "episode_url": "https://hianime.ad/watch/joshiraku-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "12679-malep-1_vibeplayer_sub": "https://vibeplayer.site/e84a7ad08f68a4e6",
+          "12679-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e84a7ad08f68a4e6/master.m3u8"
+        },
+        "Earnvids": {
+          "12679-malep-1_otakuvid_sub": "https://otakuvid.online/embed/j9m9nb7jqp6g",
+          "12679-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "12679-malep-1_playmogo_sub": "https://playmogo.com/e/v7abof3okph1",
+          "12679-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12679-malep-1_vibeplayer_hsub": "https://vibeplayer.site/32f9dbed654621e5",
+          "12679-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32f9dbed654621e5/master.m3u8"
+        },
+        "Earnvids": {
+          "12679-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2upr2zgvyqpm",
+          "12679-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12679-malep-1_playmogo_hsub": "https://playmogo.com/e/k4a73flc7kaf",
+          "12679-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
