@@ -9628,5 +9628,15 @@
     "captured_at": "2026-06-04T07:04:00",
     "file": "data/initial-d-legend-2-racer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-legend-2-racer.json"
+  },
+  {
+    "slug": "initial-d-second-stage",
+    "mal_id": 186,
+    "anime_name": "Initial D Second Stage",
+    "anime_url": "https://hianime.ad/anime/initial-d-second-stage",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T07:04:12",
+    "file": "data/initial-d-second-stage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-second-stage.json"
   }
 ]
