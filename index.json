@@ -12068,5 +12068,15 @@
     "captured_at": "2026-06-04T08:38:21",
     "file": "data/kaiju-no-8.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiju-no-8.json"
+  },
+  {
+    "slug": "kaiju-no-8-movie",
+    "mal_id": 52588,
+    "anime_name": "Kaiju No 8 Movie",
+    "anime_url": "https://hianime.ad/anime/kaiju-no-8-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:38:44",
+    "file": "data/kaiju-no-8-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiju-no-8-movie.json"
   }
 ]
