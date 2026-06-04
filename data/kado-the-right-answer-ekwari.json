@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kado The Right Answer Ekwari",
+  "anime_url": "https://hianime.ad/anime/kado-the-right-answer-ekwari",
+  "slug": "kado-the-right-answer-ekwari",
+  "mal_id": 32032,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:30:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yaha-kui zaShunina",
+      "episode_url": "https://hianime.ad/watch/kado-the-right-answer-ekwari/ep-1",
+      "sub": {
+        "HD-1": {
+          "32032-malep-1_vibeplayer_sub": "https://vibeplayer.site/87ca6c91f29a2e7c",
+          "32032-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87ca6c91f29a2e7c/master.m3u8"
+        },
+        "Earnvids": {
+          "32032-malep-1_otakuvid_sub": "https://otakuvid.online/embed/obiu6oglpenb",
+          "32032-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32032-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5c0392443d8be464",
+          "32032-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c0392443d8be464/master.m3u8"
+        },
+        "Earnvids": {
+          "32032-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5qpnrdhr7pcv",
+          "32032-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32032-malep-1_playmogo_hsub": "https://playmogo.com/e/k5c30i1l813w",
+          "32032-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
