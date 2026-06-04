@@ -13568,5 +13568,15 @@
     "captured_at": "2026-06-04T09:34:02",
     "file": "data/kiku-chan-to-ookami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kiku-chan-to-ookami.json"
+  },
+  {
+    "slug": "kill-blue",
+    "mal_id": 62391,
+    "anime_name": "Kill Blue",
+    "anime_url": "https://hianime.ad/anime/kill-blue",
+    "total_episodes": 8,
+    "captured_at": "2026-06-04T09:34:15",
+    "file": "data/kill-blue.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kill-blue.json"
   }
 ]
