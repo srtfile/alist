@@ -1,0 +1,69 @@
+{
+  "anime_name": "Initial D Legend 2 Racer",
+  "anime_url": "https://hianime.ad/anime/initial-d-legend-2-racer",
+  "slug": "initial-d-legend-2-racer",
+  "mal_id": 185,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:04:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ultimate Tofu Store Drift",
+      "episode_url": "https://hianime.ad/watch/initial-d-legend-2-racer/ep-1",
+      "sub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_sub": "https://vibeplayer.site/d4a16f8c9e12fccb",
+          "185-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d4a16f8c9e12fccb/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_sub": "https://otakuhg.site/e/r3nwddsonkpj",
+          "185-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xuhyz1e0f5mw",
+          "185-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_sub": "https://playmogo.com/e/goxrv04w35nh",
+          "185-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_dub": "https://vibeplayer.site/73ba1bcdab66c962",
+          "185-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/73ba1bcdab66c962/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_dub": "https://otakuhg.site/e/fo3e1tvjjv5z",
+          "185-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_dub": "https://otakuvid.online/embed/40wu6gdiiui9",
+          "185-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_dub": "https://playmogo.com/e/r80hiipe1n4e",
+          "185-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fbc805fb7906539b",
+          "185-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fbc805fb7906539b/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jk9n3sj0xxle",
+          "185-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jhjfdhymppv1",
+          "185-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_hsub": "https://playmogo.com/e/1f4iujsw91q5",
+          "185-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
