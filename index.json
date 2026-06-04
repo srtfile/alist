@@ -10168,5 +10168,15 @@
     "captured_at": "2026-06-04T07:25:07",
     "file": "data/is-the-order-a-rabbit-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-the-order-a-rabbit-ova.json"
+  },
+  {
+    "slug": "is-this-a-zombie",
+    "mal_id": 8841,
+    "anime_name": "Is This A Zombie",
+    "anime_url": "https://hianime.ad/anime/is-this-a-zombie",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:25:20",
+    "file": "data/is-this-a-zombie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-this-a-zombie.json"
   }
 ]
