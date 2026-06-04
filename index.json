@@ -9948,5 +9948,15 @@
     "captured_at": "2026-06-04T07:18:10",
     "file": "data/ippon-bouchou-mantarou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ippon-bouchou-mantarou.json"
+  },
+  {
+    "slug": "ippou-nippon-mukashibanashi",
+    "mal_id": 6277,
+    "anime_name": "Ippou Nippon Mukashibanashi",
+    "anime_url": "https://hianime.ad/anime/ippou-nippon-mukashibanashi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:18:23",
+    "file": "data/ippou-nippon-mukashibanashi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ippou-nippon-mukashibanashi.json"
   }
 ]
