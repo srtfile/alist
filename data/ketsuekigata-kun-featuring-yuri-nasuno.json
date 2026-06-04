@@ -1,0 +1,36 @@
+{
+  "anime_name": "Ketsuekigata Kun Featuring Yuri Nasuno",
+  "anime_url": "https://hianime.ad/anime/ketsuekigata-kun-featuring-yuri-nasuno",
+  "slug": "ketsuekigata-kun-featuring-yuri-nasuno",
+  "mal_id": 17731,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:25:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Blood Type Love Guide",
+      "episode_url": "https://hianime.ad/watch/ketsuekigata-kun-featuring-yuri-nasuno/ep-1",
+      "sub": {
+        "HD-1": {
+          "17731-malep-1_vibeplayer_sub": "https://vibeplayer.site/7ba6f110084d543b",
+          "17731-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7ba6f110084d543b/master.m3u8"
+        },
+        "Earnvids": {
+          "17731-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jwrqajgmxtom",
+          "17731-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "17731-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e610d729e7fb3f52",
+          "17731-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e610d729e7fb3f52/master.m3u8"
+        },
+        "Earnvids": {
+          "17731-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/v02ebg27j02x",
+          "17731-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
