@@ -10678,5 +10678,15 @@
     "captured_at": "2026-06-04T07:42:19",
     "file": "data/japan-sinks-2020.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/japan-sinks-2020.json"
+  },
+  {
+    "slug": "jarinko-chie",
+    "mal_id": 3947,
+    "anime_name": "Jarinko Chie",
+    "anime_url": "https://hianime.ad/anime/jarinko-chie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T07:42:40",
+    "file": "data/jarinko-chie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jarinko-chie.json"
   }
 ]
