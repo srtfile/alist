@@ -11898,5 +11898,15 @@
     "captured_at": "2026-06-04T08:32:13",
     "file": "data/kagewani-ii.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagewani-ii.json"
+  },
+  {
+    "slug": "kaginado",
+    "mal_id": 48775,
+    "anime_name": "Kaginado",
+    "anime_url": "https://hianime.ad/anime/kaginado",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:32:37",
+    "file": "data/kaginado.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaginado.json"
   }
 ]
