@@ -6998,5 +6998,15 @@
     "captured_at": "2026-06-04T02:15:16",
     "file": "data/hokuto-no-ken-yuria-den.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hokuto-no-ken-yuria-den.json"
+  },
+  {
+    "slug": "holmes-of-kyoto",
+    "mal_id": 37458,
+    "anime_name": "Holmes Of Kyoto",
+    "anime_url": "https://hianime.ad/anime/holmes-of-kyoto",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T02:15:25",
+    "file": "data/holmes-of-kyoto.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/holmes-of-kyoto.json"
   }
 ]
