@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ive Always Liked You",
+  "anime_url": "https://hianime.ad/anime/ive-always-liked-you",
+  "slug": "ive-always-liked-you",
+  "mal_id": 38573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:21:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy Thought He Was Embarking on a Great Adventure... But, Uh, What's Going on Here?",
+      "episode_url": "https://hianime.ad/watch/ive-always-liked-you/ep-1",
+      "sub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_sub": "https://vibeplayer.site/f0199228a10e73e1",
+          "38573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0199228a10e73e1/master.m3u8"
+        },
+        "StreamHG": {
+          "38573-malep-1_otakuhg_sub": "https://otakuhg.site/e/gdjbjr2cjvgj",
+          "38573-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/igk8a38vq3jl",
+          "38573-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_sub": "https://playmogo.com/e/xc5zlsyf06af",
+          "38573-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/159c29f96cc858db",
+          "38573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/159c29f96cc858db/master.m3u8"
+        },
+        "StreamHG": {
+          "38573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jmpp0qu03wcf",
+          "38573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/luwbs3igprpe",
+          "38573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_hsub": "https://playmogo.com/e/pd20gzsvzjcc",
+          "38573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
