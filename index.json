@@ -9048,5 +9048,15 @@
     "captured_at": "2026-06-04T06:38:36",
     "file": "data/ikkitousen-dragon-destiny-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikkitousen-dragon-destiny-specials.json"
+  },
+  {
+    "slug": "ikkitousen-extravaganza-epoch",
+    "mal_id": 257,
+    "anime_name": "Ikkitousen Extravaganza Epoch",
+    "anime_url": "https://hianime.ad/anime/ikkitousen-extravaganza-epoch",
+    "total_episodes": 2,
+    "captured_at": "2026-06-04T06:38:52",
+    "file": "data/ikkitousen-extravaganza-epoch.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ikkitousen-extravaganza-epoch.json"
   }
 ]
