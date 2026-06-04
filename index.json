@@ -8358,5 +8358,15 @@
     "captured_at": "2026-06-04T06:11:48",
     "file": "data/i-tsushima-ona.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/i-tsushima-ona.json"
+  },
+  {
+    "slug": "i-cinnamoroll-animation",
+    "mal_id": 1249,
+    "anime_name": "I Cinnamoroll Animation",
+    "anime_url": "https://hianime.ad/anime/i-cinnamoroll-animation",
+    "total_episodes": 80,
+    "captured_at": "2026-06-04T06:13:29",
+    "file": "data/i-cinnamoroll-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/i-cinnamoroll-animation.json"
   }
 ]
