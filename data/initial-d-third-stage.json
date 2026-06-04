@@ -1,0 +1,65 @@
+{
+  "anime_name": "Initial D Third Stage",
+  "anime_url": "https://hianime.ad/anime/initial-d-third-stage",
+  "slug": "initial-d-third-stage",
+  "mal_id": 185,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:04:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ultimate Tofu Store Drift",
+      "episode_url": "https://hianime.ad/watch/initial-d-third-stage/ep-1",
+      "sub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_sub": "https://vibeplayer.site/07cd7b4a5c02587c",
+          "185-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/07cd7b4a5c02587c/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_sub": "https://otakuhg.site/e/uvkzoch81cm1",
+          "185-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8tefx2fi7dau",
+          "185-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_dub": "https://vibeplayer.site/a78cb8e89384dab3",
+          "185-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a78cb8e89384dab3/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_dub": "https://otakuhg.site/e/xpkdzgi6790m",
+          "185-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jfj635stae0u",
+          "185-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_dub": "https://playmogo.com/e/2ivalq05sic7",
+          "185-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_hsub": "https://vibeplayer.site/22eb27d20acde448",
+          "185-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/22eb27d20acde448/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fwj1oqm8ilny",
+          "185-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/65s6w5ly8qw3",
+          "185-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_hsub": "https://playmogo.com/e/re7yl6k09fz5",
+          "185-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
