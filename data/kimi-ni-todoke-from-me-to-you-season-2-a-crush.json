@@ -1,0 +1,53 @@
+{
+  "anime_name": "Kimi Ni Todoke From Me To You Season 2 A Crush",
+  "anime_url": "https://hianime.ad/anime/kimi-ni-todoke-from-me-to-you-season-2-a-crush",
+  "slug": "kimi-ni-todoke-from-me-to-you-season-2-a-crush",
+  "mal_id": 9656,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:40:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Valentine",
+      "episode_url": "https://hianime.ad/watch/kimi-ni-todoke-from-me-to-you-season-2-a-crush/ep-1",
+      "sub": {
+        "HD-1": {
+          "9656-malep-1_vibeplayer_sub": "https://vibeplayer.site/47992018f8a2c3f6",
+          "9656-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/47992018f8a2c3f6/master.m3u8"
+        },
+        "StreamHG": {
+          "9656-malep-1_otakuhg_sub": "https://otakuhg.site/e/p3vl3cq417ss",
+          "9656-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9656-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3xnd8ftz07i7",
+          "9656-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "9656-malep-1_vibeplayer_dub": "https://vibeplayer.site/c0c3b3ef79bade73",
+          "9656-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c0c3b3ef79bade73/master.m3u8"
+        },
+        "Earnvids": {
+          "9656-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2dea9en0b9v1",
+          "9656-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "9656-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6df505c8b1992b91",
+          "9656-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6df505c8b1992b91/master.m3u8"
+        },
+        "StreamHG": {
+          "9656-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7n8jwmglu1h8",
+          "9656-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9656-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/40i48w5hcuda",
+          "9656-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
