@@ -8478,5 +8478,15 @@
     "captured_at": "2026-06-04T06:18:31",
     "file": "data/im-joybo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/im-joybo.json"
+  },
+  {
+    "slug": "im-joybo-ova",
+    "mal_id": 32542,
+    "anime_name": "Im Joybo Ova",
+    "anime_url": "https://hianime.ad/anime/im-joybo-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T06:18:53",
+    "file": "data/im-joybo-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/im-joybo-ova.json"
   }
 ]
