@@ -10628,5 +10628,15 @@
     "captured_at": "2026-06-04T07:39:36",
     "file": "data/jade-dynasty-19153.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jade-dynasty-19153.json"
+  },
+  {
+    "slug": "jade-dynasty",
+    "mal_id": 9065,
+    "anime_name": "Jade Dynasty",
+    "anime_url": "https://hianime.ad/anime/jade-dynasty",
+    "total_episodes": 26,
+    "captured_at": "2026-06-04T07:40:12",
+    "file": "data/jade-dynasty.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jade-dynasty.json"
   }
 ]
