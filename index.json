@@ -7028,5 +7028,15 @@
     "captured_at": "2026-06-04T02:18:14",
     "file": "data/holy-knight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/holy-knight.json"
+  },
+  {
+    "slug": "honey-and-clover",
+    "mal_id": 16,
+    "anime_name": "Honey And Clover",
+    "anime_url": "https://hianime.ad/anime/honey-and-clover",
+    "total_episodes": 24,
+    "captured_at": "2026-06-04T02:18:25",
+    "file": "data/honey-and-clover.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/honey-and-clover.json"
   }
 ]
