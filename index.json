@@ -12608,5 +12608,15 @@
     "captured_at": "2026-06-04T08:57:38",
     "file": "data/kancolle-season-2-lets-meet-at-sea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kancolle-season-2-lets-meet-at-sea.json"
+  },
+  {
+    "slug": "kancolle-kantai-collection",
+    "mal_id": 21511,
+    "anime_name": "Kancolle Kantai Collection",
+    "anime_url": "https://hianime.ad/anime/kancolle-kantai-collection",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:57:56",
+    "file": "data/kancolle-kantai-collection.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kancolle-kantai-collection.json"
   }
 ]
