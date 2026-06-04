@@ -1,0 +1,52 @@
+{
+  "anime_name": "Kakkun Cafe",
+  "anime_url": "https://hianime.ad/anime/kakkun-cafe",
+  "slug": "kakkun-cafe",
+  "mal_id": 52973,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:44:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Familia",
+      "episode_url": "https://hianime.ad/watch/kakkun-cafe/ep-1",
+      "sub": {
+        "HD-1": {
+          "52973-malep-1_vibeplayer_sub": "https://vibeplayer.site/f6367decff66b422",
+          "52973-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6367decff66b422/master.m3u8"
+        },
+        "StreamHG": {
+          "52973-malep-1_otakuhg_sub": "https://otakuhg.site/e/mklwfmomt200",
+          "52973-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52973-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zqpoqh9fe5l9",
+          "52973-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "52973-malep-1_playmogo_sub": "https://playmogo.com/e/vqttn9rxxgoi",
+          "52973-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52973-malep-1_vibeplayer_hsub": "https://vibeplayer.site/754aff81b9ca0205",
+          "52973-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/754aff81b9ca0205/master.m3u8"
+        },
+        "StreamHG": {
+          "52973-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j7ygwik2ul2y",
+          "52973-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52973-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tvvhml6nyuyb",
+          "52973-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52973-malep-1_playmogo_hsub": "https://playmogo.com/e/i2s4vvyxonnk",
+          "52973-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
