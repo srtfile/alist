@@ -13048,5 +13048,15 @@
     "captured_at": "2026-06-04T09:13:07",
     "file": "data/keijo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/keijo.json"
+  },
+  {
+    "slug": "keijo-specials",
+    "mal_id": 32686,
+    "anime_name": "Keijo Specials",
+    "anime_url": "https://hianime.ad/anime/keijo-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T09:13:29",
+    "file": "data/keijo-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/keijo-specials.json"
   }
 ]
