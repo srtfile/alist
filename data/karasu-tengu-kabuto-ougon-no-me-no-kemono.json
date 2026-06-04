@@ -1,0 +1,40 @@
+{
+  "anime_name": "Karasu Tengu Kabuto Ougon No Me No Kemono",
+  "anime_url": "https://hianime.ad/anime/karasu-tengu-kabuto-ougon-no-me-no-kemono",
+  "slug": "karasu-tengu-kabuto-ougon-no-me-no-kemono",
+  "mal_id": 2243,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:04:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/karasu-tengu-kabuto-ougon-no-me-no-kemono/ep-1",
+      "sub": {
+        "HD-1": {
+          "2243-malep-1_vibeplayer_sub": "https://vibeplayer.site/0063a2cbcba0ba84",
+          "2243-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0063a2cbcba0ba84/master.m3u8"
+        },
+        "Earnvids": {
+          "2243-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qrwia71a40i6",
+          "2243-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2243-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ac8390915c36e70b",
+          "2243-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ac8390915c36e70b/master.m3u8"
+        },
+        "Earnvids": {
+          "2243-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x3dy87b0t1k0",
+          "2243-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2243-malep-1_playmogo_hsub": "https://playmogo.com/e/vi0d80h5g88q",
+          "2243-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
