@@ -8628,5 +8628,15 @@
     "captured_at": "2026-06-04T06:23:29",
     "file": "data/ichu-etoile-stage.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ichu-etoile-stage.json"
+  },
+  {
+    "slug": "iblard-jikan",
+    "mal_id": 55774,
+    "anime_name": "Iblard Jikan",
+    "anime_url": "https://hianime.ad/anime/iblard-jikan",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T06:23:51",
+    "file": "data/iblard-jikan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/iblard-jikan.json"
   }
 ]
