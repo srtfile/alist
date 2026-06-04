@@ -13988,5 +13988,15 @@
     "captured_at": "2026-06-04T09:52:15",
     "file": "data/king-of-thorn.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/king-of-thorn.json"
+  },
+  {
+    "slug": "kings-game",
+    "mal_id": 36027,
+    "anime_name": "Kings Game",
+    "anime_url": "https://hianime.ad/anime/kings-game",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T09:52:27",
+    "file": "data/kings-game.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kings-game.json"
   }
 ]
