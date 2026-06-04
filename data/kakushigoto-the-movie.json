@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kakushigoto The Movie",
+  "anime_url": "https://hianime.ad/anime/kakushigoto-the-movie",
+  "slug": "kakushigoto-the-movie",
+  "mal_id": 59459,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:46:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Colleague Arrives and Acts Unreasonably",
+      "episode_url": "https://hianime.ad/watch/kakushigoto-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "59459-malep-1_vibeplayer_sub": "https://vibeplayer.site/603da01636913fb0",
+          "59459-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/603da01636913fb0/master.m3u8"
+        },
+        "Earnvids": {
+          "59459-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ky8767fut6mj",
+          "59459-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59459-malep-1_vibeplayer_hsub": "https://vibeplayer.site/052a9deb3f0141cc",
+          "59459-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/052a9deb3f0141cc/master.m3u8"
+        },
+        "StreamHG": {
+          "59459-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ek3atiss7jzj",
+          "59459-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59459-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u3lr2zi1wvtv",
+          "59459-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59459-malep-1_playmogo_hsub": "https://playmogo.com/e/t84m29vq508d",
+          "59459-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
