@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kaleido Star Legend Of Phoenix The Layla Hamilton Story",
+  "anime_url": "https://hianime.ad/anime/kaleido-star-legend-of-phoenix-the-layla-hamilton-story",
+  "slug": "kaleido-star-legend-of-phoenix-the-layla-hamilton-story",
+  "mal_id": 427,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:48:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Amazing Stage Debut!",
+      "episode_url": "https://hianime.ad/watch/kaleido-star-legend-of-phoenix-the-layla-hamilton-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "427-malep-1_vibeplayer_sub": "https://vibeplayer.site/a3e38a1642d6adb3",
+          "427-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3e38a1642d6adb3/master.m3u8"
+        },
+        "Earnvids": {
+          "427-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0apz207qqi52",
+          "427-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "427-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e1b4871bec2986af",
+          "427-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1b4871bec2986af/master.m3u8"
+        },
+        "Earnvids": {
+          "427-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lm7up3r0hwo2",
+          "427-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "427-malep-1_playmogo_hsub": "https://playmogo.com/e/e4lm5gji9xg5",
+          "427-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
