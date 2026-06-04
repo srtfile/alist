@@ -1,0 +1,57 @@
+{
+  "anime_name": "Inuyasha The Movie 3 Swords Of An Honorable Ruler",
+  "anime_url": "https://hianime.ad/anime/inuyasha-the-movie-3-swords-of-an-honorable-ruler",
+  "slug": "inuyasha-the-movie-3-swords-of-an-honorable-ruler",
+  "mal_id": 6811,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:13:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Naraku's Heart",
+      "episode_url": "https://hianime.ad/watch/inuyasha-the-movie-3-swords-of-an-honorable-ruler/ep-1",
+      "sub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_sub": "https://vibeplayer.site/eb75e170f7e469a9",
+          "6811-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eb75e170f7e469a9/master.m3u8"
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4avx1mklwo8z",
+          "6811-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_dub": "https://vibeplayer.site/ab0f11512e0c81b0",
+          "6811-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ab0f11512e0c81b0/master.m3u8"
+        },
+        "StreamHG": {
+          "6811-malep-1_otakuhg_dub": "https://otakuhg.site/e/2bjdeiaju5ky",
+          "6811-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1dk74felgls6",
+          "6811-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6811-malep-1_vibeplayer_hsub": "https://vibeplayer.site/be7f118b93c94adf",
+          "6811-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be7f118b93c94adf/master.m3u8"
+        },
+        "StreamHG": {
+          "6811-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lmy6pdnv5qts",
+          "6811-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6811-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/snaihiih63ge",
+          "6811-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6811-malep-1_playmogo_hsub": "https://playmogo.com/e/1mjc8ltyjy9r",
+          "6811-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
