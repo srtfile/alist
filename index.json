@@ -12738,5 +12738,15 @@
     "captured_at": "2026-06-04T09:01:27",
     "file": "data/kanokon-the-girl-who-cried-fox.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kanokon-the-girl-who-cried-fox.json"
+  },
+  {
+    "slug": "kanon",
+    "mal_id": 144,
+    "anime_name": "Kanon",
+    "anime_url": "https://hianime.ad/anime/kanon",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T09:01:50",
+    "file": "data/kanon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kanon.json"
   }
 ]
