@@ -13208,5 +13208,15 @@
     "captured_at": "2026-06-04T09:18:52",
     "file": "data/kenda-master-ken-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kenda-master-ken-tv.json"
+  },
+  {
+    "slug": "kengan-ashura",
+    "mal_id": 54449,
+    "anime_name": "Kengan Ashura",
+    "anime_url": "https://hianime.ad/anime/kengan-ashura",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T09:19:13",
+    "file": "data/kengan-ashura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kengan-ashura.json"
   }
 ]
