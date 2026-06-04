@@ -13198,5 +13198,15 @@
     "captured_at": "2026-06-04T09:18:29",
     "file": "data/kemurikusa-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kemurikusa-tv.json"
+  },
+  {
+    "slug": "kenda-master-ken-tv",
+    "mal_id": 51636,
+    "anime_name": "Kenda Master Ken Tv",
+    "anime_url": "https://hianime.ad/anime/kenda-master-ken-tv",
+    "total_episodes": 10,
+    "captured_at": "2026-06-04T09:18:52",
+    "file": "data/kenda-master-ken-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kenda-master-ken-tv.json"
   }
 ]
