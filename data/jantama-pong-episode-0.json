@@ -1,0 +1,44 @@
+{
+  "anime_name": "Jantama Pong Episode 0",
+  "anime_url": "https://hianime.ad/anime/jantama-pong-episode-0",
+  "slug": "jantama-pong-episode-0",
+  "mal_id": 50789,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:41:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Untitled",
+      "episode_url": "https://hianime.ad/watch/jantama-pong-episode-0/ep-1",
+      "sub": {
+        "HD-1": {
+          "50789-malep-1_vibeplayer_sub": "https://vibeplayer.site/831d763d5c68b804",
+          "50789-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/831d763d5c68b804/master.m3u8"
+        },
+        "Earnvids": {
+          "50789-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qzgdbazj9y2c",
+          "50789-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50789-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dc4fe51da0afb9ce",
+          "50789-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc4fe51da0afb9ce/master.m3u8"
+        },
+        "StreamHG": {
+          "50789-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xv2xiy60ndqy",
+          "50789-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50789-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7sc9xe5kwc3a",
+          "50789-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50789-malep-1_playmogo_hsub": "https://playmogo.com/e/9hx4slop6fx4",
+          "50789-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
