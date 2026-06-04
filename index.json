@@ -13648,5 +13648,15 @@
     "captured_at": "2026-06-04T09:36:43",
     "file": "data/kimagure-orange-road-tv-pilot.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kimagure-orange-road-tv-pilot.json"
+  },
+  {
+    "slug": "kimagure-orangeroad",
+    "mal_id": 1087,
+    "anime_name": "Kimagure Orangeroad",
+    "anime_url": "https://hianime.ad/anime/kimagure-orangeroad",
+    "total_episodes": 48,
+    "captured_at": "2026-06-04T09:36:55",
+    "file": "data/kimagure-orangeroad.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kimagure-orangeroad.json"
   }
 ]
