@@ -1,0 +1,48 @@
+{
+  "anime_name": "I Dont Like You At All Big Brother Special",
+  "anime_url": "https://hianime.ad/anime/i-dont-like-you-at-all-big-brother-special",
+  "slug": "i-dont-like-you-at-all-big-brother-special",
+  "mal_id": 9587,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:03:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wicked Usual Day of a Brother and Sister",
+      "episode_url": "https://hianime.ad/watch/i-dont-like-you-at-all-big-brother-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "9587-malep-1_vibeplayer_sub": "https://vibeplayer.site/60a6bef40e842ae3",
+          "9587-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/60a6bef40e842ae3/master.m3u8"
+        },
+        "StreamHG": {
+          "9587-malep-1_otakuhg_sub": "https://otakuhg.site/e/geaxbgexkcwc",
+          "9587-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9587-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n32syfz21896",
+          "9587-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9587-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1d9641d536887db7",
+          "9587-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1d9641d536887db7/master.m3u8"
+        },
+        "StreamHG": {
+          "9587-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3oyti1fs7qx4",
+          "9587-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9587-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cghwjy9p0yh9",
+          "9587-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9587-malep-1_playmogo_hsub": "https://playmogo.com/e/fwzohkwko0yh",
+          "9587-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
