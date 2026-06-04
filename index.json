@@ -10788,5 +10788,15 @@
     "captured_at": "2026-06-04T07:48:33",
     "file": "data/jewelpet-movie-sweets-dance-princess.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet-movie-sweets-dance-princess.json"
+  },
+  {
+    "slug": "jewelpet-sunshine",
+    "mal_id": 10359,
+    "anime_name": "Jewelpet Sunshine",
+    "anime_url": "https://hianime.ad/anime/jewelpet-sunshine",
+    "total_episodes": 52,
+    "captured_at": "2026-06-04T07:48:45",
+    "file": "data/jewelpet-sunshine.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jewelpet-sunshine.json"
   }
 ]
