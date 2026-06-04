@@ -8728,5 +8728,15 @@
     "captured_at": "2026-06-04T06:25:59",
     "file": "data/id-0.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/id-0.json"
+  },
+  {
+    "slug": "id-invaded",
+    "mal_id": 40046,
+    "anime_name": "Id Invaded",
+    "anime_url": "https://hianime.ad/anime/id-invaded",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T06:26:21",
+    "file": "data/id-invaded.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/id-invaded.json"
   }
 ]
