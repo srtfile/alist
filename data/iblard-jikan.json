@@ -1,0 +1,40 @@
+{
+  "anime_name": "Iblard Jikan",
+  "anime_url": "https://hianime.ad/anime/iblard-jikan",
+  "slug": "iblard-jikan",
+  "mal_id": 55774,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:23:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Princess and Her Torture Time",
+      "episode_url": "https://hianime.ad/watch/iblard-jikan/ep-1",
+      "sub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_sub": "https://vibeplayer.site/4340921d1619da3a",
+          "55774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4340921d1619da3a/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c3uhbydm2c4m",
+          "55774-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8b3fa9a9ee6313f0",
+          "55774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b3fa9a9ee6313f0/master.m3u8"
+        },
+        "StreamHG": {
+          "55774-malep-1_otakuhg_hsub": "https://otakuhg.site/e/k0lridfl3cli",
+          "55774-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sjgs4m29s2q3",
+          "55774-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
