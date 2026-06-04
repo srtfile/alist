@@ -11178,5 +11178,15 @@
     "captured_at": "2026-06-04T08:08:32",
     "file": "data/joran-the-princess-of-snow-and-blood.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/joran-the-princess-of-snow-and-blood.json"
+  },
+  {
+    "slug": "jormungand",
+    "mal_id": 12413,
+    "anime_name": "Jormungand",
+    "anime_url": "https://hianime.ad/anime/jormungand",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T08:08:55",
+    "file": "data/jormungand.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/jormungand.json"
   }
 ]
