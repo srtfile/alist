@@ -11988,5 +11988,15 @@
     "captured_at": "2026-06-04T08:35:13",
     "file": "data/kaiba.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaiba.json"
+  },
+  {
+    "slug": "kaibutsu-oujo-ova",
+    "mal_id": 2130,
+    "anime_name": "Kaibutsu Oujo Ova",
+    "anime_url": "https://hianime.ad/anime/kaibutsu-oujo-ova",
+    "total_episodes": 3,
+    "captured_at": "2026-06-04T08:35:37",
+    "file": "data/kaibutsu-oujo-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kaibutsu-oujo-ova.json"
   }
 ]
