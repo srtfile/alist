@@ -11298,5 +11298,15 @@
     "captured_at": "2026-06-04T08:12:46",
     "file": "data/juden-chan-recharged.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/juden-chan-recharged.json"
+  },
+  {
+    "slug": "judge",
+    "mal_id": 23201,
+    "anime_name": "Judge",
+    "anime_url": "https://hianime.ad/anime/judge",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T08:13:09",
+    "file": "data/judge.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/judge.json"
   }
 ]
