@@ -11888,5 +11888,15 @@
     "captured_at": "2026-06-04T08:31:49",
     "file": "data/kagewani.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagewani.json"
+  },
+  {
+    "slug": "kagewani-ii",
+    "mal_id": 32682,
+    "anime_name": "Kagewani Ii",
+    "anime_url": "https://hianime.ad/anime/kagewani-ii",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:32:13",
+    "file": "data/kagewani-ii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagewani-ii.json"
   }
 ]
