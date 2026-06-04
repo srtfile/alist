@@ -11668,5 +11668,15 @@
     "captured_at": "2026-06-04T08:25:52",
     "file": "data/k-on-ura-on.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-on-ura-on.json"
+  },
+  {
+    "slug": "k-project",
+    "mal_id": 14467,
+    "anime_name": "K Project",
+    "anime_url": "https://hianime.ad/anime/k-project",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:26:12",
+    "file": "data/k-project.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/k-project.json"
   }
 ]
