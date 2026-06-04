@@ -9958,5 +9958,15 @@
     "captured_at": "2026-06-04T07:18:23",
     "file": "data/ippou-nippon-mukashibanashi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ippou-nippon-mukashibanashi.json"
+  },
+  {
+    "slug": "iria-zeiram-the-animation",
+    "mal_id": 3297,
+    "anime_name": "Iria Zeiram The Animation",
+    "anime_url": "https://hianime.ad/anime/iria-zeiram-the-animation",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T07:18:45",
+    "file": "data/iria-zeiram-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/iria-zeiram-the-animation.json"
   }
 ]
