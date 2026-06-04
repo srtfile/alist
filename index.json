@@ -10358,5 +10358,15 @@
     "captured_at": "2026-06-04T07:30:52",
     "file": "data/ishii-hisaichi-no-nanda-kanda-gekijou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ishii-hisaichi-no-nanda-kanda-gekijou.json"
+  },
+  {
+    "slug": "ishura",
+    "mal_id": 54449,
+    "anime_name": "Ishura",
+    "anime_url": "https://hianime.ad/anime/ishura",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T07:31:05",
+    "file": "data/ishura.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ishura.json"
   }
 ]
