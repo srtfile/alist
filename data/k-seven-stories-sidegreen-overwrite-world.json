@@ -1,0 +1,32 @@
+{
+  "anime_name": "K Seven Stories Sidegreen Overwrite World",
+  "anime_url": "https://hianime.ad/anime/k-seven-stories-sidegreen-overwrite-world",
+  "slug": "k-seven-stories-sidegreen-overwrite-world",
+  "mal_id": 14467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:28:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Knight",
+      "episode_url": "https://hianime.ad/watch/k-seven-stories-sidegreen-overwrite-world/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "14467-malep-1_vibeplayer_raw": "https://vibeplayer.site/d6ce9e4a602f6564",
+          "14467-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/d6ce9e4a602f6564/master.m3u8"
+        },
+        "StreamHG": {
+          "14467-malep-1_otakuhg_raw": "https://otakuhg.site/e/fo0bexx19me1",
+          "14467-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "14467-malep-1_otakuvid_raw": "https://otakuvid.online/embed/w1pv39l97wfy",
+          "14467-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
