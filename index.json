@@ -7938,5 +7938,15 @@
     "captured_at": "2026-06-04T05:55:29",
     "file": "data/hyouge-mono.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyouge-mono.json"
+  },
+  {
+    "slug": "hyouka",
+    "mal_id": 12189,
+    "anime_name": "Hyouka",
+    "anime_url": "https://hianime.ad/anime/hyouka",
+    "total_episodes": 22,
+    "captured_at": "2026-06-04T05:56:18",
+    "file": "data/hyouka.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hyouka.json"
   }
 ]
