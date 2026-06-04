@@ -9618,5 +9618,15 @@
     "captured_at": "2026-06-04T07:03:48",
     "file": "data/initial-d-legend-1-awakening.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-legend-1-awakening.json"
+  },
+  {
+    "slug": "initial-d-legend-2-racer",
+    "mal_id": 185,
+    "anime_name": "Initial D Legend 2 Racer",
+    "anime_url": "https://hianime.ad/anime/initial-d-legend-2-racer",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T07:04:00",
+    "file": "data/initial-d-legend-2-racer.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/initial-d-legend-2-racer.json"
   }
 ]
