@@ -13148,5 +13148,15 @@
     "captured_at": "2026-06-04T09:16:45",
     "file": "data/kemono-friends.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kemono-friends.json"
+  },
+  {
+    "slug": "kemono-friends-2",
+    "mal_id": 35313,
+    "anime_name": "Kemono Friends 2",
+    "anime_url": "https://hianime.ad/anime/kemono-friends-2",
+    "total_episodes": 12,
+    "captured_at": "2026-06-04T09:17:08",
+    "file": "data/kemono-friends-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kemono-friends-2.json"
   }
 ]
