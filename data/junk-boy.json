@@ -1,0 +1,44 @@
+{
+  "anime_name": "Junk Boy",
+  "anime_url": "https://hianime.ad/anime/junk-boy",
+  "slug": "junk-boy",
+  "mal_id": 12897,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:20:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/junk-boy/ep-1",
+      "sub": {
+        "HD-1": {
+          "12897-malep-1_vibeplayer_sub": "https://vibeplayer.site/ede9c2624ee9498e",
+          "12897-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ede9c2624ee9498e/master.m3u8"
+        },
+        "Earnvids": {
+          "12897-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p6jndbnzhb4k",
+          "12897-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12897-malep-1_vibeplayer_hsub": "https://vibeplayer.site/edd6655c71e5f9a3",
+          "12897-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/edd6655c71e5f9a3/master.m3u8"
+        },
+        "StreamHG": {
+          "12897-malep-1_otakuhg_hsub": "https://otakuhg.site/e/46zzrvnewax0",
+          "12897-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12897-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kwst4fo43j4c",
+          "12897-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12897-malep-1_playmogo_hsub": "https://playmogo.com/e/7qmi9ry8r8tf",
+          "12897-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
