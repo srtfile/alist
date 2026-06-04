@@ -7288,5 +7288,15 @@
     "captured_at": "2026-06-04T02:25:00",
     "file": "data/hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi.json"
+  },
+  {
+    "slug": "hoshizora-kiseki",
+    "mal_id": 10079,
+    "anime_name": "Hoshizora Kiseki",
+    "anime_url": "https://hianime.ad/anime/hoshizora-kiseki",
+    "total_episodes": 1,
+    "captured_at": "2026-06-04T02:25:09",
+    "file": "data/hoshizora-kiseki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/hoshizora-kiseki.json"
   }
 ]
