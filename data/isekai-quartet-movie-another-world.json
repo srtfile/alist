@@ -1,0 +1,48 @@
+{
+  "anime_name": "Isekai Quartet Movie Another World",
+  "anime_url": "https://hianime.ad/anime/isekai-quartet-movie-another-world",
+  "slug": "isekai-quartet-movie-another-world",
+  "mal_id": 38472,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:30:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Come Together! Quartet",
+      "episode_url": "https://hianime.ad/watch/isekai-quartet-movie-another-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "38472-malep-1_vibeplayer_sub": "https://vibeplayer.site/f23593fea762f829",
+          "38472-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f23593fea762f829/master.m3u8"
+        },
+        "Earnvids": {
+          "38472-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wmgheddoj8ri",
+          "38472-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38472-malep-1_playmogo_sub": "https://playmogo.com/e/9wnvk495lsz0",
+          "38472-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38472-malep-1_vibeplayer_hsub": "https://vibeplayer.site/be779b8909b218a2",
+          "38472-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be779b8909b218a2/master.m3u8"
+        },
+        "StreamHG": {
+          "38472-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oimh2gjqxw8g",
+          "38472-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38472-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aejjq1m8bdzq",
+          "38472-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38472-malep-1_playmogo_hsub": "https://playmogo.com/e/06dcf8m21ax3",
+          "38472-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
