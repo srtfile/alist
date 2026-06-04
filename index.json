@@ -12508,5 +12508,15 @@
     "captured_at": "2026-06-04T08:54:24",
     "file": "data/kamisama-hajimemashita-kamisama-shiawase-ni-naru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-hajimemashita-kamisama-shiawase-ni-naru.json"
+  },
+  {
+    "slug": "kamisama-kazoku",
+    "mal_id": 990,
+    "anime_name": "Kamisama Kazoku",
+    "anime_url": "https://hianime.ad/anime/kamisama-kazoku",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:54:36",
+    "file": "data/kamisama-kazoku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-kazoku.json"
   }
 ]
