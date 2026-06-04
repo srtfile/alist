@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kiniro Mosaic Thank You",
+  "anime_url": "https://hianime.ad/anime/kiniro-mosaic-thank-you",
+  "slug": "kiniro-mosaic-thank-you",
+  "mal_id": 16732,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:57:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "...in Wonderland",
+      "episode_url": "https://hianime.ad/watch/kiniro-mosaic-thank-you/ep-1",
+      "sub": {
+        "HD-1": {
+          "16732-malep-1_vibeplayer_sub": "https://vibeplayer.site/d0303c999ae5a7c3",
+          "16732-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0303c999ae5a7c3/master.m3u8"
+        },
+        "Earnvids": {
+          "16732-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0rsza07qc6jw",
+          "16732-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "16732-malep-1_vibeplayer_hsub": "https://vibeplayer.site/014f7e2035f56723",
+          "16732-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/014f7e2035f56723/master.m3u8"
+        },
+        "StreamHG": {
+          "16732-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j8xlifjhq8ai",
+          "16732-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16732-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gyhpgu19loo3",
+          "16732-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16732-malep-1_playmogo_hsub": "https://playmogo.com/e/0s45sbo7600j",
+          "16732-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
