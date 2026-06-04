@@ -8378,5 +8378,15 @@
     "captured_at": "2026-06-04T06:14:57",
     "file": "data/is.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is.json"
+  },
+  {
+    "slug": "is-pure",
+    "mal_id": 10397,
+    "anime_name": "Is Pure",
+    "anime_url": "https://hianime.ad/anime/is-pure",
+    "total_episodes": 6,
+    "captured_at": "2026-06-04T06:15:10",
+    "file": "data/is-pure.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/is-pure.json"
   }
 ]
