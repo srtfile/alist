@@ -11878,5 +11878,15 @@
     "captured_at": "2026-06-04T08:31:37",
     "file": "data/kagerou-daze-in-a-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagerou-daze-in-a-days.json"
+  },
+  {
+    "slug": "kagewani",
+    "mal_id": 30524,
+    "anime_name": "Kagewani",
+    "anime_url": "https://hianime.ad/anime/kagewani",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:31:49",
+    "file": "data/kagewani.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kagewani.json"
   }
 ]
