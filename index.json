@@ -12458,5 +12458,15 @@
     "captured_at": "2026-06-04T08:52:24",
     "file": "data/kamikaze-kaitou-jeanne.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamikaze-kaitou-jeanne.json"
+  },
+  {
+    "slug": "kamisama-dolls",
+    "mal_id": 10372,
+    "anime_name": "Kamisama Dolls",
+    "anime_url": "https://hianime.ad/anime/kamisama-dolls",
+    "total_episodes": 13,
+    "captured_at": "2026-06-04T08:53:18",
+    "file": "data/kamisama-dolls.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kamisama-dolls.json"
   }
 ]
