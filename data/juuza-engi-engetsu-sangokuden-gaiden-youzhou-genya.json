@@ -1,0 +1,40 @@
+{
+  "anime_name": "Juuza Engi Engetsu Sangokuden Gaiden Youzhou Genya",
+  "anime_url": "https://hianime.ad/anime/juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya",
+  "slug": "juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya",
+  "mal_id": 1705,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:23:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya/ep-1",
+      "sub": {
+        "HD-1": {
+          "1705-malep-1_vibeplayer_sub": "https://vibeplayer.site/5172fd1584db4cb0",
+          "1705-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5172fd1584db4cb0/master.m3u8"
+        },
+        "Earnvids": {
+          "1705-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c5556ds7as9s",
+          "1705-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1705-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a27bbae2e973b155",
+          "1705-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a27bbae2e973b155/master.m3u8"
+        },
+        "Earnvids": {
+          "1705-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yjtbq5n7b7f0",
+          "1705-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1705-malep-1_playmogo_hsub": "https://playmogo.com/e/py3x64cwd6bh",
+          "1705-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
