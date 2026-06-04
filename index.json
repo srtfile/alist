@@ -10418,5 +10418,15 @@
     "captured_at": "2026-06-04T07:32:39",
     "file": "data/isshuukan-friends-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/isshuukan-friends-specials.json"
+  },
+  {
+    "slug": "isuca",
+    "mal_id": 25429,
+    "anime_name": "Isuca",
+    "anime_url": "https://hianime.ad/anime/isuca",
+    "total_episodes": 10,
+    "captured_at": "2026-06-04T07:33:01",
+    "file": "data/isuca.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/isuca.json"
   }
 ]
