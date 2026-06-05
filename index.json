@@ -18328,5 +18328,15 @@
     "captured_at": "2026-06-05T04:31:59",
     "file": "data/lovedol-lovely-idol.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lovedol-lovely-idol.json"
+  },
+  {
+    "slug": "loveless",
+    "mal_id": 149,
+    "anime_name": "Loveless",
+    "anime_url": "https://hianime.ad/anime/loveless",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:32:09",
+    "file": "data/loveless.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/loveless.json"
   }
 ]
