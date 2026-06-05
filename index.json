@@ -19088,5 +19088,15 @@
     "captured_at": "2026-06-05T04:50:55",
     "file": "data/lychee-light-club.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lychee-light-club.json"
+  },
+  {
+    "slug": "lycoris-recoil",
+    "mal_id": 50709,
+    "anime_name": "Lycoris Recoil",
+    "anime_url": "https://hianime.ad/anime/lycoris-recoil",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T04:51:10",
+    "file": "data/lycoris-recoil.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lycoris-recoil.json"
   }
 ]
