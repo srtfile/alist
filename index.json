@@ -19068,5 +19068,15 @@
     "captured_at": "2026-06-05T04:50:21",
     "file": "data/lupin-the-third-the-woman-called-fujiko-mine.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-the-third-the-woman-called-fujiko-mine.json"
+  },
+  {
+    "slug": "lupin-zero",
+    "mal_id": 13203,
+    "anime_name": "Lupin Zero",
+    "anime_url": "https://hianime.ad/anime/lupin-zero",
+    "total_episodes": 6,
+    "captured_at": "2026-06-05T04:50:41",
+    "file": "data/lupin-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-zero.json"
   }
 ]
