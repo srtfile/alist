@@ -20318,5 +20318,15 @@
     "captured_at": "2026-06-05T05:32:16",
     "file": "data/maiden-rose.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maiden-rose.json"
+  },
+  {
+    "slug": "maiden-rose-specials",
+    "mal_id": 65,
+    "anime_name": "Maiden Rose Specials",
+    "anime_url": "https://hianime.ad/anime/maiden-rose-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T05:32:27",
+    "file": "data/maiden-rose-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maiden-rose-specials.json"
   }
 ]
