@@ -17588,5 +17588,15 @@
     "captured_at": "2026-06-05T04:07:36",
     "file": "data/looking-up-at-the-half-moon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/looking-up-at-the-half-moon.json"
+  },
+  {
+    "slug": "lookism",
+    "mal_id": 38851,
+    "anime_name": "Lookism",
+    "anime_url": "https://hianime.ad/anime/lookism",
+    "total_episodes": 8,
+    "captured_at": "2026-06-05T04:07:49",
+    "file": "data/lookism.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lookism.json"
   }
 ]
