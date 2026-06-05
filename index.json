@@ -21938,5 +21938,15 @@
     "captured_at": "2026-06-05T06:31:10",
     "file": "data/medaka-kuroiwa-is-impervious-to-my-charms.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/medaka-kuroiwa-is-impervious-to-my-charms.json"
+  },
+  {
+    "slug": "medalist",
+    "mal_id": 55318,
+    "anime_name": "Medalist",
+    "anime_url": "https://hianime.ad/anime/medalist",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T06:31:30",
+    "file": "data/medalist.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/medalist.json"
   }
 ]
