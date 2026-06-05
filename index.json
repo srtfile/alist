@@ -14668,5 +14668,15 @@
     "captured_at": "2026-06-05T02:15:49",
     "file": "data/koalas-diary.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koalas-diary.json"
+  },
+  {
+    "slug": "kobato",
+    "mal_id": 5678,
+    "anime_name": "Kobato",
+    "anime_url": "https://hianime.ad/anime/kobato",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T02:16:27",
+    "file": "data/kobato.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kobato.json"
   }
 ]
