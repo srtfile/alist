@@ -18208,5 +18208,15 @@
     "captured_at": "2026-06-05T04:28:38",
     "file": "data/love-to-lie-angle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-to-lie-angle.json"
+  },
+  {
+    "slug": "love-tyrant",
+    "mal_id": 32262,
+    "anime_name": "Love Tyrant",
+    "anime_url": "https://hianime.ad/anime/love-tyrant",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:28:57",
+    "file": "data/love-tyrant.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-tyrant.json"
   }
 ]
