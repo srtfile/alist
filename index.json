@@ -17768,5 +17768,15 @@
     "captured_at": "2026-06-05T04:15:58",
     "file": "data/loupsgarous.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/loupsgarous.json"
+  },
+  {
+    "slug": "loupsgarous-overture",
+    "mal_id": 54301,
+    "anime_name": "Loupsgarous Overture",
+    "anime_url": "https://hianime.ad/anime/loupsgarous-overture",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T04:16:08",
+    "file": "data/loupsgarous-overture.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/loupsgarous-overture.json"
   }
 ]
