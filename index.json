@@ -19608,5 +19608,15 @@
     "captured_at": "2026-06-05T05:06:57",
     "file": "data/magia-record-puella-magi-madoka-magica-side-story-final-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magia-record-puella-magi-madoka-magica-side-story-final-season.json"
+  },
+  {
+    "slug": "magic-kaito",
+    "mal_id": 25517,
+    "anime_name": "Magic Kaito",
+    "anime_url": "https://hianime.ad/anime/magic-kaito",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T05:07:10",
+    "file": "data/magic-kaito.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magic-kaito.json"
   }
 ]
