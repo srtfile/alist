@@ -20048,5 +20048,15 @@
     "captured_at": "2026-06-05T05:24:31",
     "file": "data/magicalshopping-arcade-abenobashi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magicalshopping-arcade-abenobashi.json"
+  },
+  {
+    "slug": "magikano",
+    "mal_id": 576,
+    "anime_name": "Magikano",
+    "anime_url": "https://hianime.ad/anime/magikano",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T05:24:50",
+    "file": "data/magikano.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magikano.json"
   }
 ]
