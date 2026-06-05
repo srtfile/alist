@@ -16688,5 +16688,15 @@
     "captured_at": "2026-06-05T03:25:31",
     "file": "data/lets-play.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lets-play.json"
+  },
+  {
+    "slug": "lets-roll-cinnamoroll",
+    "mal_id": 61773,
+    "anime_name": "Lets Roll Cinnamoroll",
+    "anime_url": "https://hianime.ad/anime/lets-roll-cinnamoroll",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T03:25:49",
+    "file": "data/lets-roll-cinnamoroll.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lets-roll-cinnamoroll.json"
   }
 ]
