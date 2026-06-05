@@ -21138,5 +21138,15 @@
     "captured_at": "2026-06-05T06:02:10",
     "file": "data/maris-the-chojo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maris-the-chojo.json"
+  },
+  {
+    "slug": "marmalade-boy",
+    "mal_id": 334,
+    "anime_name": "Marmalade Boy",
+    "anime_url": "https://hianime.ad/anime/marmalade-boy",
+    "total_episodes": 76,
+    "captured_at": "2026-06-05T06:02:21",
+    "file": "data/marmalade-boy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marmalade-boy.json"
   }
 ]
