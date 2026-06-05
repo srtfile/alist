@@ -18358,5 +18358,15 @@
     "captured_at": "2026-06-05T04:32:42",
     "file": "data/lovely-complex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lovely-complex.json"
+  },
+  {
+    "slug": "lovely-idol",
+    "mal_id": 1561,
+    "anime_name": "Lovely Idol",
+    "anime_url": "https://hianime.ad/anime/lovely-idol",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:33:10",
+    "file": "data/lovely-idol.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lovely-idol.json"
   }
 ]
