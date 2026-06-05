@@ -24108,5 +24108,15 @@
     "captured_at": "2026-06-05T07:43:21",
     "file": "data/mokei-senshi-gunpla-builders-beginning-g.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mokei-senshi-gunpla-builders-beginning-g.json"
+  },
+  {
+    "slug": "mokke",
+    "mal_id": 2931,
+    "anime_name": "Mokke",
+    "anime_url": "https://hianime.ad/anime/mokke",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T07:43:32",
+    "file": "data/mokke.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mokke.json"
   }
 ]
