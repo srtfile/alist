@@ -21078,5 +21078,15 @@
     "captured_at": "2026-06-05T06:00:12",
     "file": "data/marie-gali.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marie-gali.json"
+  },
+  {
+    "slug": "marie-gali-episode-zero",
+    "mal_id": 6130,
+    "anime_name": "Marie Gali Episode Zero",
+    "anime_url": "https://hianime.ad/anime/marie-gali-episode-zero",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T06:00:55",
+    "file": "data/marie-gali-episode-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marie-gali-episode-zero.json"
   }
 ]
