@@ -16218,5 +16218,15 @@
     "captured_at": "2026-06-05T03:05:22",
     "file": "data/le-cirque-de-karakuri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/le-cirque-de-karakuri.json"
+  },
+  {
+    "slug": "le-portrait-de-petit-cossette",
+    "mal_id": 1013,
+    "anime_name": "Le Portrait De Petit Cossette",
+    "anime_url": "https://hianime.ad/anime/le-portrait-de-petit-cossette",
+    "total_episodes": 3,
+    "captured_at": "2026-06-05T03:06:01",
+    "file": "data/le-portrait-de-petit-cossette.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/le-portrait-de-petit-cossette.json"
   }
 ]
