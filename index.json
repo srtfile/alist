@@ -17798,5 +17798,15 @@
     "captured_at": "2026-06-05T04:16:39",
     "file": "data/love-all-play.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-all-play.json"
+  },
+  {
+    "slug": "love-and-lies",
+    "mal_id": 34934,
+    "anime_name": "Love And Lies",
+    "anime_url": "https://hianime.ad/anime/love-and-lies",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:17:08",
+    "file": "data/love-and-lies.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-and-lies.json"
   }
 ]
