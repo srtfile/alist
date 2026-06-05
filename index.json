@@ -22998,5 +22998,15 @@
     "captured_at": "2026-06-05T07:06:46",
     "file": "data/mirai-nikki-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mirai-nikki-ova.json"
+  },
+  {
+    "slug": "miru-tights",
+    "mal_id": 55727,
+    "anime_name": "Miru Tights",
+    "anime_url": "https://hianime.ad/anime/miru-tights",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T07:06:56",
+    "file": "data/miru-tights.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/miru-tights.json"
   }
 ]
