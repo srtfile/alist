@@ -19128,5 +19128,15 @@
     "captured_at": "2026-06-05T04:52:14",
     "file": "data/maboroshi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maboroshi.json"
+  },
+  {
+    "slug": "maburaho",
+    "mal_id": 193,
+    "anime_name": "Maburaho",
+    "anime_url": "https://hianime.ad/anime/maburaho",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T04:52:23",
+    "file": "data/maburaho.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maburaho.json"
   }
 ]
