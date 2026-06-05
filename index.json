@@ -14698,5 +14698,15 @@
     "captured_at": "2026-06-05T02:17:13",
     "file": "data/kochikame-tokyo-beat-cops.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kochikame-tokyo-beat-cops.json"
+  },
+  {
+    "slug": "kochoki",
+    "mal_id": 38920,
+    "anime_name": "Kochoki",
+    "anime_url": "https://hianime.ad/anime/kochoki",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T02:17:55",
+    "file": "data/kochoki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kochoki.json"
   }
 ]
