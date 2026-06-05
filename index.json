@@ -15388,5 +15388,15 @@
     "captured_at": "2026-06-05T02:38:31",
     "file": "data/kuro-ga-ita-natsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kuro-ga-ita-natsu.json"
+  },
+  {
+    "slug": "kurogane-communication",
+    "mal_id": 1660,
+    "anime_name": "Kurogane Communication",
+    "anime_url": "https://hianime.ad/anime/kurogane-communication",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T02:38:40",
+    "file": "data/kurogane-communication.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kurogane-communication.json"
   }
 ]
