@@ -24198,5 +24198,15 @@
     "captured_at": "2026-06-05T07:46:06",
     "file": "data/momokuri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momokuri.json"
+  },
+  {
+    "slug": "momokyun-sword",
+    "mal_id": 22225,
+    "anime_name": "Momokyun Sword",
+    "anime_url": "https://hianime.ad/anime/momokyun-sword",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T07:46:26",
+    "file": "data/momokyun-sword.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momokyun-sword.json"
   }
 ]
