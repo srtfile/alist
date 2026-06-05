@@ -16208,5 +16208,15 @@
     "captured_at": "2026-06-05T03:04:53",
     "file": "data/le-chevalier-deon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/le-chevalier-deon.json"
+  },
+  {
+    "slug": "le-cirque-de-karakuri",
+    "mal_id": 1013,
+    "anime_name": "Le Cirque De Karakuri",
+    "anime_url": "https://hianime.ad/anime/le-cirque-de-karakuri",
+    "total_episodes": 36,
+    "captured_at": "2026-06-05T03:05:22",
+    "file": "data/le-cirque-de-karakuri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/le-cirque-de-karakuri.json"
   }
 ]
