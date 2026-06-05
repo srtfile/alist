@@ -22048,5 +22048,15 @@
     "captured_at": "2026-06-05T06:36:22",
     "file": "data/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.json"
+  },
+  {
+    "slug": "megami-kouhosei",
+    "mal_id": 888,
+    "anime_name": "Megami Kouhosei",
+    "anime_url": "https://hianime.ad/anime/megami-kouhosei",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:36:39",
+    "file": "data/megami-kouhosei.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megami-kouhosei.json"
   }
 ]
