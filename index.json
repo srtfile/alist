@@ -15658,5 +15658,15 @@
     "captured_at": "2026-06-05T02:46:34",
     "file": "data/kyou-kara-maou-3rd-series.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyou-kara-maou-3rd-series.json"
+  },
+  {
+    "slug": "kyou-kara-maou-r",
+    "mal_id": 251,
+    "anime_name": "Kyou Kara Maou R",
+    "anime_url": "https://hianime.ad/anime/kyou-kara-maou-r",
+    "total_episodes": 5,
+    "captured_at": "2026-06-05T02:47:16",
+    "file": "data/kyou-kara-maou-r.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyou-kara-maou-r.json"
   }
 ]
