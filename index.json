@@ -24068,5 +24068,15 @@
     "captured_at": "2026-06-05T07:42:09",
     "file": "data/moekan-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/moekan-the-animation.json"
+  },
+  {
+    "slug": "moeyo-ken",
+    "mal_id": 511,
+    "anime_name": "Moeyo Ken",
+    "anime_url": "https://hianime.ad/anime/moeyo-ken",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T07:42:21",
+    "file": "data/moeyo-ken.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/moeyo-ken.json"
   }
 ]
