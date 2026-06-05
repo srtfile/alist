@@ -20768,5 +20768,15 @@
     "captured_at": "2026-06-05T05:49:44",
     "file": "data/manga-nihon-keizai-nyuumon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/manga-nihon-keizai-nyuumon.json"
+  },
+  {
+    "slug": "mangirl",
+    "mal_id": 14045,
+    "anime_name": "Mangirl",
+    "anime_url": "https://hianime.ad/anime/mangirl",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T05:49:54",
+    "file": "data/mangirl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mangirl.json"
   }
 ]
