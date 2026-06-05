@@ -21908,5 +21908,15 @@
     "captured_at": "2026-06-05T06:29:35",
     "file": "data/medabots.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/medabots.json"
+  },
+  {
+    "slug": "medaka-box",
+    "mal_id": 11761,
+    "anime_name": "Medaka Box",
+    "anime_url": "https://hianime.ad/anime/medaka-box",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:30:29",
+    "file": "data/medaka-box.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/medaka-box.json"
   }
 ]
