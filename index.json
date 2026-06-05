@@ -14788,5 +14788,15 @@
     "captured_at": "2026-06-05T02:21:32",
     "file": "data/koitabi-true-tours-nanto.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koitabi-true-tours-nanto.json"
+  },
+  {
+    "slug": "kokkoku",
+    "mal_id": 36548,
+    "anime_name": "Kokkoku",
+    "anime_url": "https://hianime.ad/anime/kokkoku",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T02:21:46",
+    "file": "data/kokkoku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kokkoku.json"
   }
 ]
