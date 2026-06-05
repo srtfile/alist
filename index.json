@@ -17528,5 +17528,15 @@
     "captured_at": "2026-06-05T04:06:02",
     "file": "data/loner-life-in-another-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/loner-life-in-another-world.json"
+  },
+  {
+    "slug": "long-riders",
+    "mal_id": 30652,
+    "anime_name": "Long Riders",
+    "anime_url": "https://hianime.ad/anime/long-riders",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:06:21",
+    "file": "data/long-riders.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/long-riders.json"
   }
 ]
