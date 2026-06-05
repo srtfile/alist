@@ -20498,5 +20498,15 @@
     "captured_at": "2026-06-05T05:40:55",
     "file": "data/major-movie-yuujou-no-winning-shot.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/major-movie-yuujou-no-winning-shot.json"
+  },
+  {
+    "slug": "major-s1",
+    "mal_id": 627,
+    "anime_name": "Major S1",
+    "anime_url": "https://hianime.ad/anime/major-s1",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T05:41:05",
+    "file": "data/major-s1.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/major-s1.json"
   }
 ]
