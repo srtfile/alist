@@ -14628,5 +14628,15 @@
     "captured_at": "2026-06-05T02:14:43",
     "file": "data/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary.json"
+  },
+  {
+    "slug": "knights-on-debris",
+    "mal_id": 13029,
+    "anime_name": "Knights On Debris",
+    "anime_url": "https://hianime.ad/anime/knights-on-debris",
+    "total_episodes": 14,
+    "captured_at": "2026-06-05T02:15:02",
+    "file": "data/knights-on-debris.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knights-on-debris.json"
   }
 ]
