@@ -21888,5 +21888,15 @@
     "captured_at": "2026-06-05T06:29:04",
     "file": "data/mechanical-arms-3676.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mechanical-arms-3676.json"
+  },
+  {
+    "slug": "mechanical-marie",
+    "mal_id": 59484,
+    "anime_name": "Mechanical Marie",
+    "anime_url": "https://hianime.ad/anime/mechanical-marie",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:29:14",
+    "file": "data/mechanical-marie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mechanical-marie.json"
   }
 ]
