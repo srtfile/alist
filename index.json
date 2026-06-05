@@ -18158,5 +18158,15 @@
     "captured_at": "2026-06-05T04:27:07",
     "file": "data/love-position-halley-densetsu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-position-halley-densetsu.json"
+  },
+  {
+    "slug": "love-rice",
+    "mal_id": 34402,
+    "anime_name": "Love Rice",
+    "anime_url": "https://hianime.ad/anime/love-rice",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T04:27:16",
+    "file": "data/love-rice.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-rice.json"
   }
 ]
