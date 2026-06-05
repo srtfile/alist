@@ -17218,5 +17218,15 @@
     "captured_at": "2026-06-05T03:55:12",
     "file": "data/listen-to-me-girls-i-am-your-father.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/listen-to-me-girls-i-am-your-father.json"
+  },
+  {
+    "slug": "listeners",
+    "mal_id": 40165,
+    "anime_name": "Listeners",
+    "anime_url": "https://hianime.ad/anime/listeners",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T03:55:31",
+    "file": "data/listeners.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/listeners.json"
   }
 ]
