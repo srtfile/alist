@@ -19298,5 +19298,15 @@
     "captured_at": "2026-06-05T04:58:20",
     "file": "data/macross-ii-lovers-again.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-ii-lovers-again.json"
+  },
+  {
+    "slug": "macross-plus",
+    "mal_id": 1088,
+    "anime_name": "Macross Plus",
+    "anime_url": "https://hianime.ad/anime/macross-plus",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T04:58:34",
+    "file": "data/macross-plus.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-plus.json"
   }
 ]
