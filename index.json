@@ -19218,5 +19218,15 @@
     "captured_at": "2026-06-05T04:56:20",
     "file": "data/macross-7-the-movie-the-galaxy-is-calling-me.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-7-the-movie-the-galaxy-is-calling-me.json"
+  },
+  {
+    "slug": "macross-delta",
+    "mal_id": 28013,
+    "anime_name": "Macross Delta",
+    "anime_url": "https://hianime.ad/anime/macross-delta",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T04:56:29",
+    "file": "data/macross-delta.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-delta.json"
   }
 ]
