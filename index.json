@@ -22128,5 +22128,15 @@
     "captured_at": "2026-06-05T06:38:35",
     "file": "data/meiji-gekken-1874.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/meiji-gekken-1874.json"
+  },
+  {
+    "slug": "meiji-tokyo-renka",
+    "mal_id": 34209,
+    "anime_name": "Meiji Tokyo Renka",
+    "anime_url": "https://hianime.ad/anime/meiji-tokyo-renka",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:38:53",
+    "file": "data/meiji-tokyo-renka.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/meiji-tokyo-renka.json"
   }
 ]
