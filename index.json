@@ -18518,5 +18518,15 @@
     "captured_at": "2026-06-05T04:38:07",
     "file": "data/luoyang.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/luoyang.json"
+  },
+  {
+    "slug": "luoyang-movie",
+    "mal_id": 23901,
+    "anime_name": "Luoyang Movie",
+    "anime_url": "https://hianime.ad/anime/luoyang-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T04:38:30",
+    "file": "data/luoyang-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/luoyang-movie.json"
   }
 ]
