@@ -20728,5 +20728,15 @@
     "captured_at": "2026-06-05T05:48:06",
     "file": "data/malevolent-spirits-mononogatari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/malevolent-spirits-mononogatari.json"
+  },
+  {
+    "slug": "malicedoll",
+    "mal_id": null,
+    "anime_name": "Malicedoll",
+    "anime_url": "https://hianime.ad/anime/malicedoll",
+    "total_episodes": 3,
+    "captured_at": "2026-06-05T05:48:24",
+    "file": "data/malicedoll.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/malicedoll.json"
   }
 ]
