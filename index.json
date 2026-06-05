@@ -21068,5 +21068,15 @@
     "captured_at": "2026-06-05T05:59:53",
     "file": "data/mariaholic-alive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mariaholic-alive.json"
+  },
+  {
+    "slug": "marie-gali",
+    "mal_id": 6130,
+    "anime_name": "Marie Gali",
+    "anime_url": "https://hianime.ad/anime/marie-gali",
+    "total_episodes": 40,
+    "captured_at": "2026-06-05T06:00:12",
+    "file": "data/marie-gali.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marie-gali.json"
   }
 ]
