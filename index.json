@@ -24348,5 +24348,15 @@
     "captured_at": "2026-06-05T07:52:13",
     "file": "data/monster-eater.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-eater.json"
+  },
+  {
+    "slug": "monster-girl-doctor",
+    "mal_id": 40708,
+    "anime_name": "Monster Girl Doctor",
+    "anime_url": "https://hianime.ad/anime/monster-girl-doctor",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T07:52:31",
+    "file": "data/monster-girl-doctor.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-girl-doctor.json"
   }
 ]
