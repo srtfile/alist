@@ -15128,5 +15128,15 @@
     "captured_at": "2026-06-05T02:31:00",
     "file": "data/koutetsu-jeeg.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koutetsu-jeeg.json"
+  },
+  {
+    "slug": "koutetsu-sangokushi",
+    "mal_id": 2162,
+    "anime_name": "Koutetsu Sangokushi",
+    "anime_url": "https://hianime.ad/anime/koutetsu-sangokushi",
+    "total_episodes": 25,
+    "captured_at": "2026-06-05T02:31:48",
+    "file": "data/koutetsu-sangokushi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koutetsu-sangokushi.json"
   }
 ]
