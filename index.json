@@ -22488,5 +22488,15 @@
     "captured_at": "2026-06-05T06:52:07",
     "file": "data/michel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/michel.json"
+  },
+  {
+    "slug": "michiko-hatchin",
+    "mal_id": 4087,
+    "anime_name": "Michiko Hatchin",
+    "anime_url": "https://hianime.ad/anime/michiko-hatchin",
+    "total_episodes": 22,
+    "captured_at": "2026-06-05T06:52:38",
+    "file": "data/michiko-hatchin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/michiko-hatchin.json"
   }
 ]
