@@ -19328,5 +19328,15 @@
     "captured_at": "2026-06-05T04:58:56",
     "file": "data/macross-zero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-zero.json"
+  },
+  {
+    "slug": "macross-movie-2-zettai-live",
+    "mal_id": 1088,
+    "anime_name": "Macross Movie 2 Zettai Live",
+    "anime_url": "https://hianime.ad/anime/macross-movie-2-zettai-live",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T04:59:09",
+    "file": "data/macross-movie-2-zettai-live.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-movie-2-zettai-live.json"
   }
 ]
