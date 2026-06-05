@@ -18508,5 +18508,15 @@
     "captured_at": "2026-06-05T04:37:48",
     "file": "data/lunar-legend-tsukihime.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lunar-legend-tsukihime.json"
+  },
+  {
+    "slug": "luoyang",
+    "mal_id": 46359,
+    "anime_name": "Luoyang",
+    "anime_url": "https://hianime.ad/anime/luoyang",
+    "total_episodes": 16,
+    "captured_at": "2026-06-05T04:38:07",
+    "file": "data/luoyang.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/luoyang.json"
   }
 ]
