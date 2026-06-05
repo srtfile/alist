@@ -19688,5 +19688,15 @@
     "captured_at": "2026-06-05T05:09:47",
     "file": "data/magic-users-club.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magic-users-club.json"
+  },
+  {
+    "slug": "magic-users-club-ova",
+    "mal_id": 630,
+    "anime_name": "Magic Users Club Ova",
+    "anime_url": "https://hianime.ad/anime/magic-users-club-ova",
+    "total_episodes": 6,
+    "captured_at": "2026-06-05T05:10:07",
+    "file": "data/magic-users-club-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magic-users-club-ova.json"
   }
 ]
