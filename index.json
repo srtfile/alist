@@ -22358,5 +22358,15 @@
     "captured_at": "2026-06-05T06:46:58",
     "file": "data/metallic-rouge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/metallic-rouge.json"
+  },
+  {
+    "slug": "metaman",
+    "mal_id": 1710,
+    "anime_name": "Metaman",
+    "anime_url": "https://hianime.ad/anime/metaman",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:47:18",
+    "file": "data/metaman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/metaman.json"
   }
 ]
