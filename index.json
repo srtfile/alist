@@ -23498,5 +23498,15 @@
     "captured_at": "2026-06-05T07:23:52",
     "file": "data/mobile-police-patlabor-the-new-files.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mobile-police-patlabor-the-new-files.json"
+  },
+  {
+    "slug": "mobile-suit-gundam",
+    "mal_id": 80,
+    "anime_name": "Mobile Suit Gundam",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam",
+    "total_episodes": 43,
+    "captured_at": "2026-06-05T07:24:14",
+    "file": "data/mobile-suit-gundam.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mobile-suit-gundam.json"
   }
 ]
