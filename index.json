@@ -21998,5 +21998,15 @@
     "captured_at": "2026-06-05T06:33:16",
     "file": "data/megaman-nt-warrior.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megaman-nt-warrior.json"
+  },
+  {
+    "slug": "megaman-star-force",
+    "mal_id": 1835,
+    "anime_name": "Megaman Star Force",
+    "anime_url": "https://hianime.ad/anime/megaman-star-force",
+    "total_episodes": 55,
+    "captured_at": "2026-06-05T06:34:12",
+    "file": "data/megaman-star-force.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megaman-star-force.json"
   }
 ]
