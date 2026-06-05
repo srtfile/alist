@@ -22578,5 +22578,15 @@
     "captured_at": "2026-06-05T06:54:55",
     "file": "data/migi-dali.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/migi-dali.json"
+  },
+  {
+    "slug": "mignon",
+    "mal_id": 283,
+    "anime_name": "Mignon",
+    "anime_url": "https://hianime.ad/anime/mignon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:55:15",
+    "file": "data/mignon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mignon.json"
   }
 ]
