@@ -21058,5 +21058,15 @@
     "captured_at": "2026-06-05T05:59:34",
     "file": "data/mariaholic.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mariaholic.json"
+  },
+  {
+    "slug": "mariaholic-alive",
+    "mal_id": 9712,
+    "anime_name": "Mariaholic Alive",
+    "anime_url": "https://hianime.ad/anime/mariaholic-alive",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T05:59:53",
+    "file": "data/mariaholic-alive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mariaholic-alive.json"
   }
 ]
