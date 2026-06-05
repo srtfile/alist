@@ -15718,5 +15718,15 @@
     "captured_at": "2026-06-05T02:48:41",
     "file": "data/kyoukai-no-kanata-mini-gekijou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyoukai-no-kanata-mini-gekijou.json"
+  },
+  {
+    "slug": "kyoukai-senki",
+    "mal_id": 48466,
+    "anime_name": "Kyoukai Senki",
+    "anime_url": "https://hianime.ad/anime/kyoukai-senki",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T02:48:55",
+    "file": "data/kyoukai-senki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyoukai-senki.json"
   }
 ]
