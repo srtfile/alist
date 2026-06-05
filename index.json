@@ -19718,5 +19718,15 @@
     "captured_at": "2026-06-05T05:10:42",
     "file": "data/magical-angel-creamy-mami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-angel-creamy-mami.json"
+  },
+  {
+    "slug": "magical-circle",
+    "mal_id": 34745,
+    "anime_name": "Magical Circle",
+    "anime_url": "https://hianime.ad/anime/magical-circle",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T05:11:35",
+    "file": "data/magical-circle.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-circle.json"
   }
 ]
