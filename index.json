@@ -22158,5 +22158,15 @@
     "captured_at": "2026-06-05T06:39:21",
     "file": "data/mekakucity-actors.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mekakucity-actors.json"
+  },
+  {
+    "slug": "mellow",
+    "mal_id": 38959,
+    "anime_name": "Mellow",
+    "anime_url": "https://hianime.ad/anime/mellow",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T06:39:40",
+    "file": "data/mellow.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mellow.json"
   }
 ]
