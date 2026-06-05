@@ -22478,5 +22478,15 @@
     "captured_at": "2026-06-05T06:51:48",
     "file": "data/miami-guns.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/miami-guns.json"
+  },
+  {
+    "slug": "michel",
+    "mal_id": 4801,
+    "anime_name": "Michel",
+    "anime_url": "https://hianime.ad/anime/michel",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T06:52:07",
+    "file": "data/michel.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/michel.json"
   }
 ]
