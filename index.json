@@ -17368,5 +17368,15 @@
     "captured_at": "2026-06-05T04:01:03",
     "file": "data/little-wansa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/little-wansa.json"
+  },
+  {
+    "slug": "little-witch-academia",
+    "mal_id": 33489,
+    "anime_name": "Little Witch Academia",
+    "anime_url": "https://hianime.ad/anime/little-witch-academia",
+    "total_episodes": 25,
+    "captured_at": "2026-06-05T04:01:22",
+    "file": "data/little-witch-academia.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/little-witch-academia.json"
   }
 ]
