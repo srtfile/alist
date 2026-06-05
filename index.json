@@ -22058,5 +22058,15 @@
     "captured_at": "2026-06-05T06:36:39",
     "file": "data/megami-kouhosei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megami-kouhosei.json"
+  },
+  {
+    "slug": "megami-paradise",
+    "mal_id": 52973,
+    "anime_name": "Megami Paradise",
+    "anime_url": "https://hianime.ad/anime/megami-paradise",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T06:36:59",
+    "file": "data/megami-paradise.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megami-paradise.json"
   }
 ]
