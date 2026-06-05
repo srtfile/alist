@@ -16458,5 +16458,15 @@
     "captured_at": "2026-06-05T03:13:10",
     "file": "data/legend-of-the-crystals-final-fantasy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-the-crystals-final-fantasy.json"
+  },
+  {
+    "slug": "legend-of-the-forest",
+    "mal_id": 48441,
+    "anime_name": "Legend Of The Forest",
+    "anime_url": "https://hianime.ad/anime/legend-of-the-forest",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T03:13:23",
+    "file": "data/legend-of-the-forest.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-the-forest.json"
   }
 ]
