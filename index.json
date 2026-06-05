@@ -16958,5 +16958,15 @@
     "captured_at": "2026-06-05T03:33:29",
     "file": "data/line-offline-salaryman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/line-offline-salaryman.json"
+  },
+  {
+    "slug": "line-town",
+    "mal_id": 18155,
+    "anime_name": "Line Town",
+    "anime_url": "https://hianime.ad/anime/line-town",
+    "total_episodes": 32,
+    "captured_at": "2026-06-05T03:35:13",
+    "file": "data/line-town.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/line-town.json"
   }
 ]
