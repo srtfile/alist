@@ -14568,5 +14568,15 @@
     "captured_at": "2026-06-05T02:13:02",
     "file": "data/knight-hunters-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knight-hunters-ova.json"
+  },
+  {
+    "slug": "knights-magic",
+    "mal_id": 34104,
+    "anime_name": "Knights Magic",
+    "anime_url": "https://hianime.ad/anime/knights-magic",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T02:13:13",
+    "file": "data/knights-magic.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knights-magic.json"
   }
 ]
