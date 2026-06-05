@@ -22118,5 +22118,15 @@
     "captured_at": "2026-06-05T06:38:22",
     "file": "data/megazone-23.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megazone-23.json"
+  },
+  {
+    "slug": "meiji-gekken-1874",
+    "mal_id": 57502,
+    "anime_name": "Meiji Gekken 1874",
+    "anime_url": "https://hianime.ad/anime/meiji-gekken-1874",
+    "total_episodes": 10,
+    "captured_at": "2026-06-05T06:38:35",
+    "file": "data/meiji-gekken-1874.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/meiji-gekken-1874.json"
   }
 ]
