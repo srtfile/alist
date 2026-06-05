@@ -22818,5 +22818,15 @@
     "captured_at": "2026-06-05T07:01:19",
     "file": "data/minami-ke-tadaima.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/minami-ke-tadaima.json"
+  },
+  {
+    "slug": "mind-game",
+    "mal_id": 60710,
+    "anime_name": "Mind Game",
+    "anime_url": "https://hianime.ad/anime/mind-game",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T07:01:39",
+    "file": "data/mind-game.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mind-game.json"
   }
 ]
