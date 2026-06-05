@@ -17238,5 +17238,15 @@
     "captured_at": "2026-06-05T03:55:49",
     "file": "data/little-astro-boy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/little-astro-boy.json"
+  },
+  {
+    "slug": "little-bean",
+    "mal_id": 52471,
+    "anime_name": "Little Bean",
+    "anime_url": "https://hianime.ad/anime/little-bean",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T03:56:05",
+    "file": "data/little-bean.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/little-bean.json"
   }
 ]
