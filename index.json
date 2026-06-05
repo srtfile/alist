@@ -14288,5 +14288,15 @@
     "captured_at": "2026-06-05T02:05:21",
     "file": "data/kirby-right-back-at-ya.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kirby-right-back-at-ya.json"
+  },
+  {
+    "slug": "kirepapa",
+    "mal_id": null,
+    "anime_name": "Kirepapa",
+    "anime_url": "https://hianime.ad/anime/kirepapa",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T02:06:28",
+    "file": "data/kirepapa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kirepapa.json"
   }
 ]
