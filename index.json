@@ -21828,5 +21828,15 @@
     "captured_at": "2026-06-05T06:27:25",
     "file": "data/mazinger-z-vs-devilman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinger-z-vs-devilman.json"
+  },
+  {
+    "slug": "mazinkaiser",
+    "mal_id": null,
+    "anime_name": "Mazinkaiser",
+    "anime_url": "https://hianime.ad/anime/mazinkaiser",
+    "total_episodes": 7,
+    "captured_at": "2026-06-05T06:27:35",
+    "file": "data/mazinkaiser.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinkaiser.json"
   }
 ]
