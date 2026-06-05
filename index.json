@@ -20818,5 +20818,15 @@
     "captured_at": "2026-06-05T05:50:58",
     "file": "data/mao.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mao.json"
+  },
+  {
+    "slug": "maoyu-archenemy-hero",
+    "mal_id": 14833,
+    "anime_name": "Maoyu Archenemy Hero",
+    "anime_url": "https://hianime.ad/anime/maoyu-archenemy-hero",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T05:51:15",
+    "file": "data/maoyu-archenemy-hero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maoyu-archenemy-hero.json"
   }
 ]
