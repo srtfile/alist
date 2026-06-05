@@ -16828,5 +16828,15 @@
     "captured_at": "2026-06-05T03:30:10",
     "file": "data/libra-of-nil-admirari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/libra-of-nil-admirari.json"
+  },
+  {
+    "slug": "library-wars",
+    "mal_id": 3613,
+    "anime_name": "Library Wars",
+    "anime_url": "https://hianime.ad/anime/library-wars",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T03:30:30",
+    "file": "data/library-wars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/library-wars.json"
   }
 ]
