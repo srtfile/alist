@@ -22178,5 +22178,15 @@
     "captured_at": "2026-06-05T06:39:50",
     "file": "data/memories.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/memories.json"
+  },
+  {
+    "slug": "memories-off",
+    "mal_id": 2924,
+    "anime_name": "Memories Off",
+    "anime_url": "https://hianime.ad/anime/memories-off",
+    "total_episodes": 3,
+    "captured_at": "2026-06-05T06:40:02",
+    "file": "data/memories-off.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/memories-off.json"
   }
 ]
