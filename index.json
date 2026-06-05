@@ -14738,5 +14738,15 @@
     "captured_at": "2026-06-05T02:20:08",
     "file": "data/kodomo-no-omocha.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kodomo-no-omocha.json"
+  },
+  {
+    "slug": "koi-kaze",
+    "mal_id": 634,
+    "anime_name": "Koi Kaze",
+    "anime_url": "https://hianime.ad/anime/koi-kaze",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T02:20:18",
+    "file": "data/koi-kaze.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koi-kaze.json"
   }
 ]
