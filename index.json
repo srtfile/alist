@@ -18528,5 +18528,15 @@
     "captured_at": "2026-06-05T04:38:30",
     "file": "data/luoyang-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/luoyang-movie.json"
+  },
+  {
+    "slug": "lupin-iii",
+    "mal_id": 1412,
+    "anime_name": "Lupin Iii",
+    "anime_url": "https://hianime.ad/anime/lupin-iii",
+    "total_episodes": 23,
+    "captured_at": "2026-06-05T04:38:40",
+    "file": "data/lupin-iii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-iii.json"
   }
 ]
