@@ -19108,5 +19108,15 @@
     "captured_at": "2026-06-05T04:51:31",
     "file": "data/lycoris-recoil-short-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lycoris-recoil-short-movie.json"
+  },
+  {
+    "slug": "m3-sono-kuroki-hagane",
+    "mal_id": 23133,
+    "anime_name": "M3 Sono Kuroki Hagane",
+    "anime_url": "https://hianime.ad/anime/m3-sono-kuroki-hagane",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T04:51:45",
+    "file": "data/m3-sono-kuroki-hagane.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/m3-sono-kuroki-hagane.json"
   }
 ]
