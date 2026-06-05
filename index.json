@@ -20828,5 +20828,15 @@
     "captured_at": "2026-06-05T05:51:15",
     "file": "data/maoyu-archenemy-hero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maoyu-archenemy-hero.json"
+  },
+  {
+    "slug": "maps",
+    "mal_id": 41265,
+    "anime_name": "Maps",
+    "anime_url": "https://hianime.ad/anime/maps",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T05:51:34",
+    "file": "data/maps.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maps.json"
   }
 ]
