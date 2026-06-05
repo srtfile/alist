@@ -21158,5 +21158,15 @@
     "captured_at": "2026-06-05T06:03:34",
     "file": "data/maroko.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maroko.json"
+  },
+  {
+    "slug": "marriage",
+    "mal_id": 51552,
+    "anime_name": "Marriage",
+    "anime_url": "https://hianime.ad/anime/marriage",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T06:03:44",
+    "file": "data/marriage.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marriage.json"
   }
 ]
