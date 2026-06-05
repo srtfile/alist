@@ -14808,5 +14808,15 @@
     "captured_at": "2026-06-05T02:22:06",
     "file": "data/kokoro-connect.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kokoro-connect.json"
+  },
+  {
+    "slug": "kokoro-connect-ova",
+    "mal_id": 11887,
+    "anime_name": "Kokoro Connect Ova",
+    "anime_url": "https://hianime.ad/anime/kokoro-connect-ova",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T02:22:25",
+    "file": "data/kokoro-connect-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kokoro-connect-ova.json"
   }
 ]
