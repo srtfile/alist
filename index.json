@@ -23718,5 +23718,15 @@
     "captured_at": "2026-06-05T07:30:56",
     "file": "data/mobile-suit-gundam-seed-c-e-73-stargazer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mobile-suit-gundam-seed-c-e-73-stargazer.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-seed-destiny",
+    "mal_id": 94,
+    "anime_name": "Mobile Suit Gundam Seed Destiny",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-seed-destiny",
+    "total_episodes": 50,
+    "captured_at": "2026-06-05T07:31:06",
+    "file": "data/mobile-suit-gundam-seed-destiny.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mobile-suit-gundam-seed-destiny.json"
   }
 ]
