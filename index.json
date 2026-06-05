@@ -23248,5 +23248,15 @@
     "captured_at": "2026-06-05T07:15:22",
     "file": "data/mitsuboshi-colors.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mitsuboshi-colors.json"
+  },
+  {
+    "slug": "mitsudomoe",
+    "mal_id": 7627,
+    "anime_name": "Mitsudomoe",
+    "anime_url": "https://hianime.ad/anime/mitsudomoe",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T07:15:42",
+    "file": "data/mitsudomoe.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mitsudomoe.json"
   }
 ]
