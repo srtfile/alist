@@ -22838,5 +22838,15 @@
     "captured_at": "2026-06-05T07:01:50",
     "file": "data/mini-link-click.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mini-link-click.json"
+  },
+  {
+    "slug": "mini-toji",
+    "mal_id": 38673,
+    "anime_name": "Mini Toji",
+    "anime_url": "https://hianime.ad/anime/mini-toji",
+    "total_episodes": 10,
+    "captured_at": "2026-06-05T07:02:06",
+    "file": "data/mini-toji.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mini-toji.json"
   }
 ]
