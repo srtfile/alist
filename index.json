@@ -16048,5 +16048,15 @@
     "captured_at": "2026-06-05T02:57:43",
     "file": "data/lance-n-masques.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lance-n-masques.json"
+  },
+  {
+    "slug": "land-of-the-lustrous",
+    "mal_id": 35557,
+    "anime_name": "Land Of The Lustrous",
+    "anime_url": "https://hianime.ad/anime/land-of-the-lustrous",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T02:58:02",
+    "file": "data/land-of-the-lustrous.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/land-of-the-lustrous.json"
   }
 ]
