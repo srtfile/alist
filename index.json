@@ -19168,5 +19168,15 @@
     "captured_at": "2026-06-05T04:53:51",
     "file": "data/macron-1.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macron-1.json"
+  },
+  {
+    "slug": "macross",
+    "mal_id": 1088,
+    "anime_name": "Macross",
+    "anime_url": "https://hianime.ad/anime/macross",
+    "total_episodes": 36,
+    "captured_at": "2026-06-05T04:54:21",
+    "file": "data/macross.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross.json"
   }
 ]
