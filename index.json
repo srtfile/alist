@@ -23468,5 +23468,15 @@
     "captured_at": "2026-06-05T07:22:36",
     "file": "data/mob-psycho-mini.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mob-psycho-mini.json"
+  },
+  {
+    "slug": "mobile-fighter-g-gundam",
+    "mal_id": 96,
+    "anime_name": "Mobile Fighter G Gundam",
+    "anime_url": "https://hianime.ad/anime/mobile-fighter-g-gundam",
+    "total_episodes": 49,
+    "captured_at": "2026-06-05T07:22:51",
+    "file": "data/mobile-fighter-g-gundam.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mobile-fighter-g-gundam.json"
   }
 ]
