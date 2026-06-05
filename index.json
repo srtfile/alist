@@ -19178,5 +19178,15 @@
     "captured_at": "2026-06-05T04:54:21",
     "file": "data/macross.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross.json"
+  },
+  {
+    "slug": "macross-7",
+    "mal_id": 1397,
+    "anime_name": "Macross 7",
+    "anime_url": "https://hianime.ad/anime/macross-7",
+    "total_episodes": 49,
+    "captured_at": "2026-06-05T04:55:00",
+    "file": "data/macross-7.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-7.json"
   }
 ]
