@@ -19038,5 +19038,15 @@
     "captured_at": "2026-06-05T04:49:11",
     "file": "data/lupin-the-iiird-zenigata-to-futari-no-lupin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-the-iiird-zenigata-to-futari-no-lupin.json"
+  },
+  {
+    "slug": "lupin-the-third",
+    "mal_id": 1412,
+    "anime_name": "Lupin The Third",
+    "anime_url": "https://hianime.ad/anime/lupin-the-third",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T04:49:20",
+    "file": "data/lupin-the-third.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-the-third.json"
   }
 ]
