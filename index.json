@@ -20628,5 +20628,15 @@
     "captured_at": "2026-06-05T05:45:23",
     "file": "data/maken-liner-0011-henshin-seyo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maken-liner-0011-henshin-seyo.json"
+  },
+  {
+    "slug": "maken-ki",
+    "mal_id": 9936,
+    "anime_name": "Maken Ki",
+    "anime_url": "https://hianime.ad/anime/maken-ki",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T05:45:33",
+    "file": "data/maken-ki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maken-ki.json"
   }
 ]
