@@ -21788,5 +21788,15 @@
     "captured_at": "2026-06-05T06:25:04",
     "file": "data/mazinger-edition-z-the-impact.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinger-edition-z-the-impact.json"
+  },
+  {
+    "slug": "mazinger-z",
+    "mal_id": 2253,
+    "anime_name": "Mazinger Z",
+    "anime_url": "https://hianime.ad/anime/mazinger-z",
+    "total_episodes": 92,
+    "captured_at": "2026-06-05T06:25:36",
+    "file": "data/mazinger-z.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinger-z.json"
   }
 ]
