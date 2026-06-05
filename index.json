@@ -21798,5 +21798,15 @@
     "captured_at": "2026-06-05T06:25:36",
     "file": "data/mazinger-z.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinger-z.json"
+  },
+  {
+    "slug": "mazinger-z-movie-infinity",
+    "mal_id": 2253,
+    "anime_name": "Mazinger Z Movie Infinity",
+    "anime_url": "https://hianime.ad/anime/mazinger-z-movie-infinity",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T06:27:03",
+    "file": "data/mazinger-z-movie-infinity.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mazinger-z-movie-infinity.json"
   }
 ]
