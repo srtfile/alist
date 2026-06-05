@@ -22068,5 +22068,15 @@
     "captured_at": "2026-06-05T06:36:59",
     "file": "data/megami-paradise.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megami-paradise.json"
+  },
+  {
+    "slug": "megane-na-kanojo",
+    "mal_id": 13759,
+    "anime_name": "Megane Na Kanojo",
+    "anime_url": "https://hianime.ad/anime/megane-na-kanojo",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T06:37:10",
+    "file": "data/megane-na-kanojo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/megane-na-kanojo.json"
   }
 ]
