@@ -15218,5 +15218,15 @@
     "captured_at": "2026-06-05T02:33:56",
     "file": "data/kowloon-generic-romance.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kowloon-generic-romance.json"
+  },
+  {
+    "slug": "koyomimonogatari",
+    "mal_id": null,
+    "anime_name": "Koyomimonogatari",
+    "anime_url": "https://hianime.ad/anime/koyomimonogatari",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T02:34:15",
+    "file": "data/koyomimonogatari.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koyomimonogatari.json"
   }
 ]
