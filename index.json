@@ -16138,5 +16138,15 @@
     "captured_at": "2026-06-05T03:00:48",
     "file": "data/laughing-salesman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/laughing-salesman.json"
+  },
+  {
+    "slug": "laughing-target",
+    "mal_id": 21743,
+    "anime_name": "Laughing Target",
+    "anime_url": "https://hianime.ad/anime/laughing-target",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T03:02:24",
+    "file": "data/laughing-target.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/laughing-target.json"
   }
 ]
