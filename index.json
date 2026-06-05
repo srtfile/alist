@@ -14708,5 +14708,15 @@
     "captured_at": "2026-06-05T02:17:55",
     "file": "data/kochoki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kochoki.json"
+  },
+  {
+    "slug": "kodocha",
+    "mal_id": 1486,
+    "anime_name": "Kodocha",
+    "anime_url": "https://hianime.ad/anime/kodocha",
+    "total_episodes": 102,
+    "captured_at": "2026-06-05T02:18:14",
+    "file": "data/kodocha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kodocha.json"
   }
 ]
