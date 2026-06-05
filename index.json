@@ -24188,5 +24188,15 @@
     "captured_at": "2026-06-05T07:45:37",
     "file": "data/momoiro-sisters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momoiro-sisters.json"
+  },
+  {
+    "slug": "momokuri",
+    "mal_id": 53035,
+    "anime_name": "Momokuri",
+    "anime_url": "https://hianime.ad/anime/momokuri",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T07:46:06",
+    "file": "data/momokuri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momokuri.json"
   }
 ]
