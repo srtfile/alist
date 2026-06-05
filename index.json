@@ -15538,5 +15538,15 @@
     "captured_at": "2026-06-05T02:42:42",
     "file": "data/kurokos-basketball-movie-4-last-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kurokos-basketball-movie-4-last-game.json"
+  },
+  {
+    "slug": "kurokos-basketball-ova",
+    "mal_id": 11771,
+    "anime_name": "Kurokos Basketball Ova",
+    "anime_url": "https://hianime.ad/anime/kurokos-basketball-ova",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T02:42:51",
+    "file": "data/kurokos-basketball-ova.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kurokos-basketball-ova.json"
   }
 ]
