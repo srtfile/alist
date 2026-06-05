@@ -14548,5 +14548,15 @@
     "captured_at": "2026-06-05T02:12:22",
     "file": "data/kizuna-much-ado-about-nothing.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kizuna-much-ado-about-nothing.json"
+  },
+  {
+    "slug": "knight-hunters",
+    "mal_id": 447,
+    "anime_name": "Knight Hunters",
+    "anime_url": "https://hianime.ad/anime/knight-hunters",
+    "total_episodes": 25,
+    "captured_at": "2026-06-05T02:12:32",
+    "file": "data/knight-hunters.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knight-hunters.json"
   }
 ]
