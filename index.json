@@ -19558,5 +19558,15 @@
     "captured_at": "2026-06-05T05:05:08",
     "file": "data/magi-sinbad-no-bouken.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magi-sinbad-no-bouken.json"
+  },
+  {
+    "slug": "magi-the-kingdom-of-magic",
+    "mal_id": 18115,
+    "anime_name": "Magi The Kingdom Of Magic",
+    "anime_url": "https://hianime.ad/anime/magi-the-kingdom-of-magic",
+    "total_episodes": 25,
+    "captured_at": "2026-06-05T05:05:21",
+    "file": "data/magi-the-kingdom-of-magic.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magi-the-kingdom-of-magic.json"
   }
 ]
