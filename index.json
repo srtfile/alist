@@ -21478,5 +21478,15 @@
     "captured_at": "2026-06-05T06:15:28",
     "file": "data/mashin-eiyuuden-wataru-shichikon-no-ryuujinmaru.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mashin-eiyuuden-wataru-shichikon-no-ryuujinmaru.json"
+  },
+  {
+    "slug": "mashin-souzouden-wataru",
+    "mal_id": 57827,
+    "anime_name": "Mashin Souzouden Wataru",
+    "anime_url": "https://hianime.ad/anime/mashin-souzouden-wataru",
+    "total_episodes": 24,
+    "captured_at": "2026-06-05T06:15:45",
+    "file": "data/mashin-souzouden-wataru.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mashin-souzouden-wataru.json"
   }
 ]
