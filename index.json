@@ -20018,5 +20018,15 @@
     "captured_at": "2026-06-05T05:23:49",
     "file": "data/magical-star-kanon-100.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-star-kanon-100.json"
+  },
+  {
+    "slug": "magical-warfare",
+    "mal_id": 19769,
+    "anime_name": "Magical Warfare",
+    "anime_url": "https://hianime.ad/anime/magical-warfare",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T05:23:59",
+    "file": "data/magical-warfare.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-warfare.json"
   }
 ]
