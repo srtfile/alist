@@ -23188,5 +23188,15 @@
     "captured_at": "2026-06-05T07:13:06",
     "file": "data/mission-e.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mission-e.json"
+  },
+  {
+    "slug": "mission-yozakura-family",
+    "mal_id": 53865,
+    "anime_name": "Mission Yozakura Family",
+    "anime_url": "https://hianime.ad/anime/mission-yozakura-family",
+    "total_episodes": 27,
+    "captured_at": "2026-06-05T07:13:25",
+    "file": "data/mission-yozakura-family.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mission-yozakura-family.json"
   }
 ]
