@@ -15758,5 +15758,15 @@
     "captured_at": "2026-06-05T02:49:59",
     "file": "data/kyoushirou-to-towa-no-sora-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyoushirou-to-towa-no-sora-specials.json"
+  },
+  {
+    "slug": "kyousou-giga",
+    "mal_id": 19703,
+    "anime_name": "Kyousou Giga",
+    "anime_url": "https://hianime.ad/anime/kyousou-giga",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T02:50:13",
+    "file": "data/kyousou-giga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyousou-giga.json"
   }
 ]
