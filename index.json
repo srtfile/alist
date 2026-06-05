@@ -16018,5 +16018,15 @@
     "captured_at": "2026-06-05T02:56:59",
     "file": "data/laidbackers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/laidbackers.json"
+  },
+  {
+    "slug": "lamune",
+    "mal_id": 670,
+    "anime_name": "Lamune",
+    "anime_url": "https://hianime.ad/anime/lamune",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T02:57:08",
+    "file": "data/lamune.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lamune.json"
   }
 ]
