@@ -22668,5 +22668,15 @@
     "captured_at": "2026-06-05T06:57:40",
     "file": "data/mikosuri-han-gekijou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mikosuri-han-gekijou.json"
+  },
+  {
+    "slug": "military",
+    "mal_id": 26085,
+    "anime_name": "Military",
+    "anime_url": "https://hianime.ad/anime/military",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:57:50",
+    "file": "data/military.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/military.json"
   }
 ]
