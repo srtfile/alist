@@ -19228,5 +19228,15 @@
     "captured_at": "2026-06-05T04:56:29",
     "file": "data/macross-delta.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-delta.json"
+  },
+  {
+    "slug": "macross-dynamite-7",
+    "mal_id": 1088,
+    "anime_name": "Macross Dynamite 7",
+    "anime_url": "https://hianime.ad/anime/macross-dynamite-7",
+    "total_episodes": 4,
+    "captured_at": "2026-06-05T04:57:00",
+    "file": "data/macross-dynamite-7.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-dynamite-7.json"
   }
 ]
