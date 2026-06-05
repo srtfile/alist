@@ -22538,5 +22538,15 @@
     "captured_at": "2026-06-05T06:53:55",
     "file": "data/midori.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/midori.json"
+  },
+  {
+    "slug": "midori-days",
+    "mal_id": 330,
+    "anime_name": "Midori Days",
+    "anime_url": "https://hianime.ad/anime/midori-days",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T06:54:05",
+    "file": "data/midori-days.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/midori-days.json"
   }
 ]
