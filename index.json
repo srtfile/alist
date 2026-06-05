@@ -16428,5 +16428,15 @@
     "captured_at": "2026-06-05T03:11:52",
     "file": "data/legend-of-sho-2nd-seeason.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-sho-2nd-seeason.json"
+  },
+  {
+    "slug": "legend-of-soldier",
+    "mal_id": 988,
+    "anime_name": "Legend Of Soldier",
+    "anime_url": "https://hianime.ad/anime/legend-of-soldier",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T03:12:08",
+    "file": "data/legend-of-soldier.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-soldier.json"
   }
 ]
