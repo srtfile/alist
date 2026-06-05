@@ -19318,5 +19318,15 @@
     "captured_at": "2026-06-05T04:58:46",
     "file": "data/macross-plus-movie-edition.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-plus-movie-edition.json"
+  },
+  {
+    "slug": "macross-zero",
+    "mal_id": 1088,
+    "anime_name": "Macross Zero",
+    "anime_url": "https://hianime.ad/anime/macross-zero",
+    "total_episodes": 5,
+    "captured_at": "2026-06-05T04:58:56",
+    "file": "data/macross-zero.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-zero.json"
   }
 ]
