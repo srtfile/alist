@@ -23338,5 +23338,15 @@
     "captured_at": "2026-06-05T07:18:30",
     "file": "data/mizu-no-kotoba.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mizu-no-kotoba.json"
+  },
+  {
+    "slug": "mizuiro-2003",
+    "mal_id": 1040,
+    "anime_name": "Mizuiro 2003",
+    "anime_url": "https://hianime.ad/anime/mizuiro-2003",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T07:18:40",
+    "file": "data/mizuiro-2003.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mizuiro-2003.json"
   }
 ]
