@@ -22328,5 +22328,15 @@
     "captured_at": "2026-06-05T06:45:39",
     "file": "data/metal-armor-dragonar.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/metal-armor-dragonar.json"
+  },
+  {
+    "slug": "metal-fighter-miku",
+    "mal_id": 1175,
+    "anime_name": "Metal Fighter Miku",
+    "anime_url": "https://hianime.ad/anime/metal-fighter-miku",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T06:46:28",
+    "file": "data/metal-fighter-miku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/metal-fighter-miku.json"
   }
 ]
