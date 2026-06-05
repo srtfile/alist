@@ -17538,5 +17538,15 @@
     "captured_at": "2026-06-05T04:06:21",
     "file": "data/long-riders.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/long-riders.json"
+  },
+  {
+    "slug": "long-sword",
+    "mal_id": 30652,
+    "anime_name": "Long Sword",
+    "anime_url": "https://hianime.ad/anime/long-sword",
+    "total_episodes": 10,
+    "captured_at": "2026-06-05T04:06:40",
+    "file": "data/long-sword.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/long-sword.json"
   }
 ]
