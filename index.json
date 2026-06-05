@@ -20328,5 +20328,15 @@
     "captured_at": "2026-06-05T05:32:27",
     "file": "data/maiden-rose-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maiden-rose-specials.json"
+  },
+  {
+    "slug": "maison-ikkoku",
+    "mal_id": 1453,
+    "anime_name": "Maison Ikkoku",
+    "anime_url": "https://hianime.ad/anime/maison-ikkoku",
+    "total_episodes": 96,
+    "captured_at": "2026-06-05T05:32:38",
+    "file": "data/maison-ikkoku.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maison-ikkoku.json"
   }
 ]
