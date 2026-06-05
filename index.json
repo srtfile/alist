@@ -20418,5 +20418,15 @@
     "captured_at": "2026-06-05T05:35:49",
     "file": "data/majime-ni-fumajime-kaiketsu-zorori.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/majime-ni-fumajime-kaiketsu-zorori.json"
+  },
+  {
+    "slug": "majin-bone",
+    "mal_id": 21835,
+    "anime_name": "Majin Bone",
+    "anime_url": "https://hianime.ad/anime/majin-bone",
+    "total_episodes": 52,
+    "captured_at": "2026-06-05T05:37:19",
+    "file": "data/majin-bone.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/majin-bone.json"
   }
 ]
