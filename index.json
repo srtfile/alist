@@ -16548,5 +16548,15 @@
     "captured_at": "2026-06-05T03:19:29",
     "file": "data/legendary-idol-eriko.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legendary-idol-eriko.json"
+  },
+  {
+    "slug": "legendary-twins",
+    "mal_id": 2938,
+    "anime_name": "Legendary Twins",
+    "anime_url": "https://hianime.ad/anime/legendary-twins",
+    "total_episodes": 18,
+    "captured_at": "2026-06-05T03:20:20",
+    "file": "data/legendary-twins.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legendary-twins.json"
   }
 ]
