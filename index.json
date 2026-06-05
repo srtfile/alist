@@ -22418,5 +22418,15 @@
     "captured_at": "2026-06-05T06:50:09",
     "file": "data/mezzo-dsa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mezzo-dsa.json"
+  },
+  {
+    "slug": "mezzo-forte",
+    "mal_id": 222,
+    "anime_name": "Mezzo Forte",
+    "anime_url": "https://hianime.ad/anime/mezzo-forte",
+    "total_episodes": 2,
+    "captured_at": "2026-06-05T06:50:29",
+    "file": "data/mezzo-forte.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mezzo-forte.json"
   }
 ]
