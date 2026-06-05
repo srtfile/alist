@@ -24368,5 +24368,15 @@
     "captured_at": "2026-06-05T07:52:50",
     "file": "data/monster-hunter-stories-ride-on.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-hunter-stories-ride-on.json"
+  },
+  {
+    "slug": "monster-list",
+    "mal_id": 3129,
+    "anime_name": "Monster List",
+    "anime_url": "https://hianime.ad/anime/monster-list",
+    "total_episodes": 18,
+    "captured_at": "2026-06-05T07:54:02",
+    "file": "data/monster-list.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-list.json"
   }
 ]
