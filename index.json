@@ -20528,5 +20528,15 @@
     "captured_at": "2026-06-05T05:42:06",
     "file": "data/major-s3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/major-s3.json"
+  },
+  {
+    "slug": "major-s4",
+    "mal_id": 3226,
+    "anime_name": "Major S4",
+    "anime_url": "https://hianime.ad/anime/major-s4",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T05:42:37",
+    "file": "data/major-s4.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/major-s4.json"
   }
 ]
