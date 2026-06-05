@@ -17188,5 +17188,15 @@
     "captured_at": "2026-06-05T03:54:29",
     "file": "data/link-click-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/link-click-season-2.json"
+  },
+  {
+    "slug": "link-click-bridon-arc",
+    "mal_id": 854,
+    "anime_name": "Link Click Bridon Arc",
+    "anime_url": "https://hianime.ad/anime/link-click-bridon-arc",
+    "total_episodes": 6,
+    "captured_at": "2026-06-05T03:54:48",
+    "file": "data/link-click-bridon-arc.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/link-click-bridon-arc.json"
   }
 ]
