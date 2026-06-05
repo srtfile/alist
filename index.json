@@ -14338,5 +14338,15 @@
     "captured_at": "2026-06-05T02:07:15",
     "file": "data/kishin-houkou-demonbane-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kishin-houkou-demonbane-tv.json"
+  },
+  {
+    "slug": "kishin-taisen-gigantic-formula",
+    "mal_id": 2215,
+    "anime_name": "Kishin Taisen Gigantic Formula",
+    "anime_url": "https://hianime.ad/anime/kishin-taisen-gigantic-formula",
+    "total_episodes": 26,
+    "captured_at": "2026-06-05T02:07:35",
+    "file": "data/kishin-taisen-gigantic-formula.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kishin-taisen-gigantic-formula.json"
   }
 ]
