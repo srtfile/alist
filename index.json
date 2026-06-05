@@ -21438,5 +21438,15 @@
     "captured_at": "2026-06-05T06:14:23",
     "file": "data/masamune-datenicle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/masamune-datenicle.json"
+  },
+  {
+    "slug": "masamune-kuns-revenge",
+    "mal_id": 33487,
+    "anime_name": "Masamune Kuns Revenge",
+    "anime_url": "https://hianime.ad/anime/masamune-kuns-revenge",
+    "total_episodes": 12,
+    "captured_at": "2026-06-05T06:14:37",
+    "file": "data/masamune-kuns-revenge.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/masamune-kuns-revenge.json"
   }
 ]
