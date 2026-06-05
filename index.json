@@ -21268,5 +21268,15 @@
     "captured_at": "2026-06-05T06:07:28",
     "file": "data/martial-god-stream.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/martial-god-stream.json"
+  },
+  {
+    "slug": "martial-inverse",
+    "mal_id": 38119,
+    "anime_name": "Martial Inverse",
+    "anime_url": "https://hianime.ad/anime/martial-inverse",
+    "total_episodes": 30,
+    "captured_at": "2026-06-05T06:08:17",
+    "file": "data/martial-inverse.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/martial-inverse.json"
   }
 ]
