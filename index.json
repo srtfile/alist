@@ -24158,5 +24158,15 @@
     "captured_at": "2026-06-05T07:44:51",
     "file": "data/momentary-lily.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momentary-lily.json"
+  },
+  {
+    "slug": "momentary-lily-special",
+    "mal_id": 58739,
+    "anime_name": "Momentary Lily Special",
+    "anime_url": "https://hianime.ad/anime/momentary-lily-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-05T07:45:11",
+    "file": "data/momentary-lily-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/momentary-lily-special.json"
   }
 ]
