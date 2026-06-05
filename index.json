@@ -22808,5 +22808,15 @@
     "captured_at": "2026-06-05T07:01:09",
     "file": "data/minami-ke-omatase.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/minami-ke-omatase.json"
+  },
+  {
+    "slug": "minami-ke-tadaima",
+    "mal_id": 14511,
+    "anime_name": "Minami Ke Tadaima",
+    "anime_url": "https://hianime.ad/anime/minami-ke-tadaima",
+    "total_episodes": 13,
+    "captured_at": "2026-06-05T07:01:19",
+    "file": "data/minami-ke-tadaima.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/minami-ke-tadaima.json"
   }
 ]
