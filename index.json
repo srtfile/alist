@@ -14268,5 +14268,15 @@
     "captured_at": "2026-06-05T02:04:20",
     "file": "data/kirara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kirara.json"
+  },
+  {
+    "slug": "kiratto-prichan",
+    "mal_id": 37178,
+    "anime_name": "Kiratto Prichan",
+    "anime_url": "https://hianime.ad/anime/kiratto-prichan",
+    "total_episodes": 51,
+    "captured_at": "2026-06-05T02:04:30",
+    "file": "data/kiratto-prichan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kiratto-prichan.json"
   }
 ]
