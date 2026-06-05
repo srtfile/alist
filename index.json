@@ -20898,5 +20898,15 @@
     "captured_at": "2026-06-05T05:55:08",
     "file": "data/marches-comes-in-like-a-lion-special-omnibus-episode.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marches-comes-in-like-a-lion-special-omnibus-episode.json"
+  },
+  {
+    "slug": "marco-polos-adventures",
+    "mal_id": 5935,
+    "anime_name": "Marco Polos Adventures",
+    "anime_url": "https://hianime.ad/anime/marco-polos-adventures",
+    "total_episodes": 43,
+    "captured_at": "2026-06-05T05:55:18",
+    "file": "data/marco-polos-adventures.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/marco-polos-adventures.json"
   }
 ]
