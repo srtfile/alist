@@ -24408,5 +24408,15 @@
     "captured_at": "2026-06-05T07:55:36",
     "file": "data/monster-rancher-2nd-season-2000.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-rancher-2nd-season-2000.json"
+  },
+  {
+    "slug": "monster-strike",
+    "mal_id": 62066,
+    "anime_name": "Monster Strike",
+    "anime_url": "https://hianime.ad/anime/monster-strike",
+    "total_episodes": 51,
+    "captured_at": "2026-06-05T07:56:06",
+    "file": "data/monster-strike.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/monster-strike.json"
   }
 ]
