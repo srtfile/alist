@@ -18521,11 +18521,11 @@
   },
   {
     "slug": "luoyang-movie",
-    "mal_id": 23901,
+    "mal_id": null,
     "anime_name": "Luoyang Movie",
     "anime_url": "https://hianime.ad/anime/luoyang-movie",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T04:38:30",
+    "captured_at": "2026-06-06T04:37:17",
     "file": "data/luoyang-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/luoyang-movie.json"
   },
