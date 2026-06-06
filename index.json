@@ -16411,11 +16411,11 @@
   },
   {
     "slug": "legend-of-sho",
-    "mal_id": 38127,
+    "mal_id": null,
     "anime_name": "Legend Of Sho",
     "anime_url": "https://hianime.ad/anime/legend-of-sho",
     "total_episodes": 10,
-    "captured_at": "2026-06-05T03:11:29",
+    "captured_at": "2026-06-06T03:05:37",
     "file": "data/legend-of-sho.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-sho.json"
   },
