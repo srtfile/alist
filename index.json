@@ -19301,11 +19301,11 @@
   },
   {
     "slug": "macross-plus",
-    "mal_id": 1088,
+    "mal_id": null,
     "anime_name": "Macross Plus",
     "anime_url": "https://hianime.ad/anime/macross-plus",
     "total_episodes": 4,
-    "captured_at": "2026-06-05T04:58:34",
+    "captured_at": "2026-06-06T04:57:56",
     "file": "data/macross-plus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-plus.json"
   },
