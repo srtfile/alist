@@ -2,45 +2,45 @@
   "anime_name": "Ling Long Incarnation Special",
   "anime_url": "https://hianime.ad/anime/ling-long-incarnation-special",
   "slug": "ling-long-incarnation-special",
-  "mal_id": 36666,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T03:49:31",
+  "captured_at": "2026-06-06T03:45:51",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Hello - Goodbye",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/ling-long-incarnation-special/ep-1",
       "sub": {
         "HD-1": {
-          "36666-malep-1_vibeplayer_sub": "https://vibeplayer.site/6b9230e8f64ab0b9",
-          "36666-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b9230e8f64ab0b9/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6b9230e8f64ab0b9",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b9230e8f64ab0b9/master.m3u8"
         },
         "StreamHG": {
-          "36666-malep-1_otakuhg_sub": "https://otakuhg.site/e/y580qgkdh8dx",
-          "36666-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/y580qgkdh8dx",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "36666-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9hxo93fuyrkk",
-          "36666-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/9hxo93fuyrkk",
+          "malep-1_otakuvid_sub_m3u8": null
         },
         "Doodstream": {
-          "36666-malep-1_playmogo_sub": "https://playmogo.com/e/fj3tl7xj7o5q",
-          "36666-malep-1_playmogo_sub_m3u8": null
+          "malep-1_playmogo_sub": "https://playmogo.com/e/fj3tl7xj7o5q",
+          "malep-1_playmogo_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "36666-malep-1_vibeplayer_hsub": "https://vibeplayer.site/742abb99d87ac567",
-          "36666-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/742abb99d87ac567/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/742abb99d87ac567",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/742abb99d87ac567/master.m3u8"
         },
         "Earnvids": {
-          "36666-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0nvnptwxynh2",
-          "36666-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0nvnptwxynh2",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "36666-malep-1_playmogo_hsub": "https://playmogo.com/e/r99agh4xspg3",
-          "36666-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/r99agh4xspg3",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
