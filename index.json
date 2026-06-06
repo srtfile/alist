@@ -15491,11 +15491,11 @@
   },
   {
     "slug": "kurokos-basketball-3",
-    "mal_id": 24415,
+    "mal_id": null,
     "anime_name": "Kurokos Basketball 3",
     "anime_url": "https://hianime.ad/anime/kurokos-basketball-3",
     "total_episodes": 25,
-    "captured_at": "2026-06-05T02:41:43",
+    "captured_at": "2026-06-06T02:34:51",
     "file": "data/kurokos-basketball-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kurokos-basketball-3.json"
   },
