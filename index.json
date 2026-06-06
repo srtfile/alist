@@ -19141,11 +19141,11 @@
   },
   {
     "slug": "machikado-no-mrchen",
-    "mal_id": 42745,
+    "mal_id": null,
     "anime_name": "Machikado No Mrchen",
     "anime_url": "https://hianime.ad/anime/machikado-no-mrchen",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T04:52:52",
+    "captured_at": "2026-06-06T04:52:00",
     "file": "data/machikado-no-mrchen.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/machikado-no-mrchen.json"
   },
