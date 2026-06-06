@@ -18101,11 +18101,11 @@
   },
   {
     "slug": "love-live-the-school-idol-movie",
-    "mal_id": 3835,
+    "mal_id": null,
     "anime_name": "Love Live The School Idol Movie",
     "anime_url": "https://hianime.ad/anime/love-live-the-school-idol-movie",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T04:25:53",
+    "captured_at": "2026-06-06T04:24:09",
     "file": "data/love-live-the-school-idol-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/love-live-the-school-idol-movie.json"
   },
