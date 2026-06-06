@@ -2,50 +2,50 @@
   "anime_name": "Lupin Iii Hemingway Paper No Nazo",
   "anime_url": "https://hianime.ad/anime/lupin-iii-hemingway-paper-no-nazo",
   "slug": "lupin-iii-hemingway-paper-no-nazo",
-  "mal_id": 1412,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:41:55",
+  "captured_at": "2026-06-06T04:40:42",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Is Lupin Burning...?!",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/lupin-iii-hemingway-paper-no-nazo/ep-1",
       "sub": {
         "HD-1": {
-          "1412-malep-1_vibeplayer_sub": "https://vibeplayer.site/cf7c3bc2339410c2",
-          "1412-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf7c3bc2339410c2/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/cf7c3bc2339410c2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf7c3bc2339410c2/master.m3u8"
         },
         "Earnvids": {
-          "1412-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f68olymhndjz",
-          "1412-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/f68olymhndjz",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "1412-malep-1_vibeplayer_dub": "https://vibeplayer.site/5d08c58ddf8e3fa1",
-          "1412-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5d08c58ddf8e3fa1/master.m3u8"
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/5d08c58ddf8e3fa1",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5d08c58ddf8e3fa1/master.m3u8"
         },
         "Earnvids": {
-          "1412-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5lvs3szjffkx",
-          "1412-malep-1_otakuvid_dub_m3u8": null
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/5lvs3szjffkx",
+          "malep-1_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {
         "HD-1": {
-          "1412-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe5325209f027705",
-          "1412-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe5325209f027705/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe5325209f027705",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe5325209f027705/master.m3u8"
         },
         "StreamHG": {
-          "1412-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qhao3le6mxnq",
-          "1412-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/qhao3le6mxnq",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "1412-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f88r771yq314",
-          "1412-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f88r771yq314",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "1412-malep-1_playmogo_hsub": "https://playmogo.com/e/tn0jgynhhokx",
-          "1412-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/tn0jgynhhokx",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
