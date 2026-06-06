@@ -2,26 +2,26 @@
   "anime_name": "Macross Fb7 Ore No Uta Wo Kike",
   "anime_url": "https://hianime.ad/anime/macross-fb7-ore-no-uta-wo-kike",
   "slug": "macross-fb7-ore-no-uta-wo-kike",
-  "mal_id": 1088,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:57:22",
+  "captured_at": "2026-06-06T04:56:42",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Booby Trap",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/macross-fb7-ore-no-uta-wo-kike/ep-1",
       "sub": {
         "HD-1": {
-          "1088-malep-1_vibeplayer_sub": "https://vibeplayer.site/b24c7d6ad192a503",
-          "1088-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b24c7d6ad192a503/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b24c7d6ad192a503",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b24c7d6ad192a503/master.m3u8"
         },
         "StreamHG": {
-          "1088-malep-1_otakuhg_sub": "https://otakuhg.site/e/hjkvkp9928ke",
-          "1088-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/hjkvkp9928ke",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "1088-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h6ch82ko0h1x",
-          "1088-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/h6ch82ko0h1x",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
