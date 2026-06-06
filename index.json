@@ -20771,11 +20771,11 @@
   },
   {
     "slug": "mangirl",
-    "mal_id": 14045,
+    "mal_id": null,
     "anime_name": "Mangirl",
     "anime_url": "https://hianime.ad/anime/mangirl",
     "total_episodes": 13,
-    "captured_at": "2026-06-05T05:49:54",
+    "captured_at": "2026-06-06T05:50:20",
     "file": "data/mangirl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mangirl.json"
   },
