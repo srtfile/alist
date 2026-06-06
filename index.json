@@ -14261,11 +14261,11 @@
   },
   {
     "slug": "kirara",
-    "mal_id": 5938,
+    "mal_id": null,
     "anime_name": "Kirara",
     "anime_url": "https://hianime.ad/anime/kirara",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T02:04:20",
+    "captured_at": "2026-06-06T01:55:55",
     "file": "data/kirara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kirara.json"
   },
