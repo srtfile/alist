@@ -16951,11 +16951,11 @@
   },
   {
     "slug": "line-offline-salaryman",
-    "mal_id": 16906,
+    "mal_id": null,
     "anime_name": "Line Offline Salaryman",
     "anime_url": "https://hianime.ad/anime/line-offline-salaryman",
     "total_episodes": 114,
-    "captured_at": "2026-06-05T03:33:29",
+    "captured_at": "2026-06-06T03:29:00",
     "file": "data/line-offline-salaryman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/line-offline-salaryman.json"
   },
