@@ -21131,11 +21131,11 @@
   },
   {
     "slug": "maris-the-chojo",
-    "mal_id": 1086,
+    "mal_id": null,
     "anime_name": "Maris The Chojo",
     "anime_url": "https://hianime.ad/anime/maris-the-chojo",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T06:02:10",
+    "captured_at": "2026-06-06T06:02:13",
     "file": "data/maris-the-chojo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maris-the-chojo.json"
   },
