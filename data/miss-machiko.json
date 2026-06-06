@@ -4,7 +4,7 @@
   "slug": "miss-machiko",
   "mal_id": 3391,
   "total_episodes": 95,
-  "captured_at": "2026-06-05T07:10:25",
+  "captured_at": "2026-06-06T07:14:24",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1842,9 +1842,27 @@
     {
       "episode_title": "The Friendly Needlework Class",
       "episode_url": "https://hianime.ad/watch/miss-machiko/ep-73",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "3391-malep-73_vibeplayer_sub": "https://vibeplayer.site/e24c52e399301b3f",
+          "3391-malep-73_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e24c52e399301b3f/master.m3u8"
+        },
+        "Earnvids": {
+          "3391-malep-73_otakuvid_sub": "https://otakuvid.online/embed/paifl9cy8mq1",
+          "3391-malep-73_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "3391-malep-73_vibeplayer_hsub": "https://vibeplayer.site/95e027f36ad8666c",
+          "3391-malep-73_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95e027f36ad8666c/master.m3u8"
+        },
+        "Earnvids": {
+          "3391-malep-73_otakuvid_hsub": "https://otakuvid.online/embed/zgj293guf9z5",
+          "3391-malep-73_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Travels of Jirocho",
