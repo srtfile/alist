@@ -17291,11 +17291,11 @@
   },
   {
     "slug": "little-lord-fauntleroy",
-    "mal_id": 2555,
+    "mal_id": null,
     "anime_name": "Little Lord Fauntleroy",
     "anime_url": "https://hianime.ad/anime/little-lord-fauntleroy",
     "total_episodes": 43,
-    "captured_at": "2026-06-05T03:58:16",
+    "captured_at": "2026-06-06T03:55:08",
     "file": "data/little-lord-fauntleroy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/little-lord-fauntleroy.json"
   },
