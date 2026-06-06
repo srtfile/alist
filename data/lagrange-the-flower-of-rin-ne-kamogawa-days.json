@@ -2,37 +2,37 @@
   "anime_name": "Lagrange The Flower Of Rin Ne Kamogawa Days",
   "anime_url": "https://hianime.ad/anime/lagrange-the-flower-of-rin-ne-kamogawa-days",
   "slug": "lagrange-the-flower-of-rin-ne-kamogawa-days",
-  "mal_id": 11227,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T02:54:45",
+  "captured_at": "2026-06-06T02:48:19",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Welcome to Kamogawa!",
+      "episode_title": "OVA: Kamogawa Days",
       "episode_url": "https://hianime.ad/watch/lagrange-the-flower-of-rin-ne-kamogawa-days/ep-1",
       "sub": {
         "HD-1": {
-          "11227-malep-1_vibeplayer_sub": "https://vibeplayer.site/f6f95b4e1682f74b",
-          "11227-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6f95b4e1682f74b/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f6f95b4e1682f74b",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6f95b4e1682f74b/master.m3u8"
         },
         "Earnvids": {
-          "11227-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fqzyvljrqr9n",
-          "11227-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/fqzyvljrqr9n",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "11227-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb3fc6e4c317324d",
-          "11227-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb3fc6e4c317324d/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb3fc6e4c317324d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb3fc6e4c317324d/master.m3u8"
         },
         "Earnvids": {
-          "11227-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7tor98nh7e0f",
-          "11227-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7tor98nh7e0f",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "11227-malep-1_playmogo_hsub": "https://playmogo.com/e/i8v5huhg6ywr",
-          "11227-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/i8v5huhg6ywr",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
