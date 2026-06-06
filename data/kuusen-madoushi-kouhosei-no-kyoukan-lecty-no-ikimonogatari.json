@@ -2,41 +2,41 @@
   "anime_name": "Kuusen Madoushi Kouhosei No Kyoukan Lecty No Ikimonogatari",
   "anime_url": "https://hianime.ad/anime/kuusen-madoushi-kouhosei-no-kyoukan-lecty-no-ikimonogatari",
   "slug": "kuusen-madoushi-kouhosei-no-kyoukan-lecty-no-ikimonogatari",
-  "mal_id": 25283,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T02:46:10",
+  "captured_at": "2026-06-06T02:39:28",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Fireteam E601",
+      "episode_title": "OVA",
       "episode_url": "https://hianime.ad/watch/kuusen-madoushi-kouhosei-no-kyoukan-lecty-no-ikimonogatari/ep-1",
       "sub": {
         "HD-1": {
-          "25283-malep-1_vibeplayer_sub": "https://vibeplayer.site/85fc691f33946bce",
-          "25283-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/85fc691f33946bce/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/85fc691f33946bce",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/85fc691f33946bce/master.m3u8"
         },
         "Earnvids": {
-          "25283-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yrxod0ic3mqc",
-          "25283-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/yrxod0ic3mqc",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "25283-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5212d774b9af1af3",
-          "25283-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5212d774b9af1af3/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/5212d774b9af1af3",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5212d774b9af1af3/master.m3u8"
         },
         "StreamHG": {
-          "25283-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a0s02r1mu4n9",
-          "25283-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/a0s02r1mu4n9",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "25283-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/diu78n4iqzfq",
-          "25283-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/diu78n4iqzfq",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "25283-malep-1_playmogo_hsub": "https://playmogo.com/e/6iks4xbckka4",
-          "25283-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/6iks4xbckka4",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
