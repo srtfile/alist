@@ -19401,11 +19401,11 @@
   },
   {
     "slug": "made-in-abyss",
-    "mal_id": 34599,
+    "mal_id": null,
     "anime_name": "Made In Abyss",
     "anime_url": "https://hianime.ad/anime/made-in-abyss",
     "total_episodes": 13,
-    "captured_at": "2026-06-05T05:00:39",
+    "captured_at": "2026-06-06T05:00:00",
     "file": "data/made-in-abyss.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/made-in-abyss.json"
   },
