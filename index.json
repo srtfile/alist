@@ -18631,11 +18631,11 @@
   },
   {
     "slug": "lupin-iii-dead-or-alive",
-    "mal_id": 1412,
+    "mal_id": null,
     "anime_name": "Lupin Iii Dead Or Alive",
     "anime_url": "https://hianime.ad/anime/lupin-iii-dead-or-alive",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T04:40:36",
+    "captured_at": "2026-06-06T04:39:24",
     "file": "data/lupin-iii-dead-or-alive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lupin-iii-dead-or-alive.json"
   },
