@@ -17091,11 +17091,11 @@
   },
   {
     "slug": "ling-yu",
-    "mal_id": 36666,
+    "mal_id": null,
     "anime_name": "Ling Yu",
     "anime_url": "https://hianime.ad/anime/ling-yu",
     "total_episodes": 10,
-    "captured_at": "2026-06-05T03:49:41",
+    "captured_at": "2026-06-06T03:46:01",
     "file": "data/ling-yu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ling-yu.json"
   },
