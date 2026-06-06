@@ -2,45 +2,45 @@
   "anime_name": "Lord El Melloi Ii Sei No Jikenbo Rail Zeppelin Grace Note Hakamori To Neko To Majutsushi",
   "anime_url": "https://hianime.ad/anime/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-hakamori-to-neko-to-majutsushi",
   "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-hakamori-to-neko-to-majutsushi",
-  "mal_id": 38959,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:08:25",
+  "captured_at": "2026-06-06T04:05:53",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Babylon, The Condemned, and the Memories of the King",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-hakamori-to-neko-to-majutsushi/ep-1",
       "sub": {
         "HD-1": {
-          "38959-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4b728bd6329df31",
-          "38959-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4b728bd6329df31/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c4b728bd6329df31",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4b728bd6329df31/master.m3u8"
         },
         "StreamHG": {
-          "38959-malep-1_otakuhg_sub": "https://otakuhg.site/e/py6sf4ccci1o",
-          "38959-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/py6sf4ccci1o",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "38959-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ad5y4s67kjni",
-          "38959-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ad5y4s67kjni",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "38959-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c2653207dcded9b2",
-          "38959-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c2653207dcded9b2/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c2653207dcded9b2",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c2653207dcded9b2/master.m3u8"
         },
         "StreamHG": {
-          "38959-malep-1_otakuhg_hsub": "https://otakuhg.site/e/v8edq4m27a6d",
-          "38959-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/v8edq4m27a6d",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "38959-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gtma4pfsp1xv",
-          "38959-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gtma4pfsp1xv",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "38959-malep-1_playmogo_hsub": "https://playmogo.com/e/598ri5d33mx3",
-          "38959-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/598ri5d33mx3",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
