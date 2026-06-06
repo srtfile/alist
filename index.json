@@ -15781,11 +15781,11 @@
   },
   {
     "slug": "kyousou-giga-tv-recaps",
-    "mal_id": 19703,
+    "mal_id": null,
     "anime_name": "Kyousou Giga Tv Recaps",
     "anime_url": "https://hianime.ad/anime/kyousou-giga-tv-recaps",
     "total_episodes": 3,
-    "captured_at": "2026-06-05T02:50:35",
+    "captured_at": "2026-06-06T02:44:02",
     "file": "data/kyousou-giga-tv-recaps.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kyousou-giga-tv-recaps.json"
   },
