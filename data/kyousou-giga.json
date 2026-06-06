@@ -2,25 +2,25 @@
   "anime_name": "Kyousou Giga",
   "anime_url": "https://hianime.ad/anime/kyousou-giga",
   "slug": "kyousou-giga",
-  "mal_id": 19703,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T02:50:13",
+  "captured_at": "2026-06-06T02:43:40",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "A Family's Circumstances and Its Background",
+      "episode_title": "ONA",
       "episode_url": "https://hianime.ad/watch/kyousou-giga/ep-1",
       "sub": {},
       "dub": {},
       "hsub": {},
       "raw": {
         "HD-1": {
-          "19703-malep-1_vibeplayer_raw": "https://vibeplayer.site/ae23734e0ccac420",
-          "19703-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ae23734e0ccac420/master.m3u8"
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/ae23734e0ccac420",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ae23734e0ccac420/master.m3u8"
         },
         "Earnvids": {
-          "19703-malep-1_otakuvid_raw": "https://otakuvid.online/embed/9ktli6ovzizd",
-          "19703-malep-1_otakuvid_raw_m3u8": null
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/9ktli6ovzizd",
+          "malep-1_otakuvid_raw_m3u8": null
         }
       }
     }
