@@ -14671,11 +14671,11 @@
   },
   {
     "slug": "kobato",
-    "mal_id": 5678,
+    "mal_id": null,
     "anime_name": "Kobato",
     "anime_url": "https://hianime.ad/anime/kobato",
     "total_episodes": 24,
-    "captured_at": "2026-06-05T02:16:27",
+    "captured_at": "2026-06-06T02:08:19",
     "file": "data/kobato.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kobato.json"
   },
