@@ -18351,11 +18351,11 @@
   },
   {
     "slug": "lovely-complex",
-    "mal_id": 2034,
+    "mal_id": null,
     "anime_name": "Lovely Complex",
     "anime_url": "https://hianime.ad/anime/lovely-complex",
     "total_episodes": 24,
-    "captured_at": "2026-06-05T04:32:42",
+    "captured_at": "2026-06-06T04:31:13",
     "file": "data/lovely-complex.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lovely-complex.json"
   },
