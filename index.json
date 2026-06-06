@@ -20721,11 +20721,11 @@
   },
   {
     "slug": "malevolent-spirits-mononogatari",
-    "mal_id": 50384,
+    "mal_id": null,
     "anime_name": "Malevolent Spirits Mononogatari",
     "anime_url": "https://hianime.ad/anime/malevolent-spirits-mononogatari",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T05:48:06",
+    "captured_at": "2026-06-06T05:48:29",
     "file": "data/malevolent-spirits-mononogatari.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/malevolent-spirits-mononogatari.json"
   },
