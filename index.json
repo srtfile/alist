@@ -14581,11 +14581,11 @@
   },
   {
     "slug": "knights-of-sidonia-1001",
-    "mal_id": 19775,
+    "mal_id": null,
     "anime_name": "Knights Of Sidonia 1001",
     "anime_url": "https://hianime.ad/anime/knights-of-sidonia-1001",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T02:13:33",
+    "captured_at": "2026-06-06T02:05:18",
     "file": "data/knights-of-sidonia-1001.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/knights-of-sidonia-1001.json"
   },
