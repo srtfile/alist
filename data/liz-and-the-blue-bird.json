@@ -2,9 +2,9 @@
   "anime_name": "Liz And The Blue Bird",
   "anime_url": "https://hianime.ad/anime/liz-and-the-blue-bird",
   "slug": "liz-and-the-blue-bird",
-  "mal_id": 3876,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:03:14",
+  "captured_at": "2026-06-06T04:00:35",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -12,48 +12,48 @@
       "episode_url": "https://hianime.ad/watch/liz-and-the-blue-bird/ep-1",
       "sub": {
         "HD-1": {
-          "3876-malep-1_vibeplayer_sub": "https://vibeplayer.site/b62e1db564b49208",
-          "3876-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b62e1db564b49208/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b62e1db564b49208",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b62e1db564b49208/master.m3u8"
         },
         "Earnvids": {
-          "3876-malep-1_otakuvid_sub": "https://otakuvid.online/embed/iyedbnnonrbq",
-          "3876-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/iyedbnnonrbq",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "3876-malep-1_vibeplayer_dub": "https://vibeplayer.site/578ff33423d5160a",
-          "3876-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/578ff33423d5160a/master.m3u8"
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/578ff33423d5160a",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/578ff33423d5160a/master.m3u8"
         },
         "StreamHG": {
-          "3876-malep-1_otakuhg_dub": "https://otakuhg.site/e/5i0ujm5qps8y",
-          "3876-malep-1_otakuhg_dub_m3u8": null
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/5i0ujm5qps8y",
+          "malep-1_otakuhg_dub_m3u8": null
         },
         "Earnvids": {
-          "3876-malep-1_otakuvid_dub": "https://otakuvid.online/embed/p9pxbd3mhmpy",
-          "3876-malep-1_otakuvid_dub_m3u8": null
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/p9pxbd3mhmpy",
+          "malep-1_otakuvid_dub_m3u8": null
         },
         "Doodstream": {
-          "3876-malep-1_playmogo_dub": "https://playmogo.com/e/h4ekm3mhsr6u",
-          "3876-malep-1_playmogo_dub_m3u8": null
+          "malep-1_playmogo_dub": "https://playmogo.com/e/h4ekm3mhsr6u",
+          "malep-1_playmogo_dub_m3u8": null
         }
       },
       "hsub": {
         "HD-1": {
-          "3876-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cc80e8cb04252edf",
-          "3876-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc80e8cb04252edf/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/cc80e8cb04252edf",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc80e8cb04252edf/master.m3u8"
         },
         "StreamHG": {
-          "3876-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lelo3q65rwne",
-          "3876-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/lelo3q65rwne",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "3876-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hqqm15a4w7fs",
-          "3876-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hqqm15a4w7fs",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "3876-malep-1_playmogo_hsub": "https://playmogo.com/e/6vlehg2honap",
-          "3876-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/6vlehg2honap",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
