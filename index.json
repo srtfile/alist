@@ -16131,11 +16131,11 @@
   },
   {
     "slug": "laughing-salesman",
-    "mal_id": 3077,
+    "mal_id": null,
     "anime_name": "Laughing Salesman",
     "anime_url": "https://hianime.ad/anime/laughing-salesman",
     "total_episodes": 103,
-    "captured_at": "2026-06-05T03:00:48",
+    "captured_at": "2026-06-06T02:54:32",
     "file": "data/laughing-salesman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/laughing-salesman.json"
   },
