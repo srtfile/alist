@@ -14681,11 +14681,11 @@
   },
   {
     "slug": "kobato-hajimete-no-kobato",
-    "mal_id": 3810,
+    "mal_id": null,
     "anime_name": "Kobato Hajimete No Kobato",
     "anime_url": "https://hianime.ad/anime/kobato-hajimete-no-kobato",
     "total_episodes": 8,
-    "captured_at": "2026-06-05T02:16:56",
+    "captured_at": "2026-06-06T02:08:50",
     "file": "data/kobato-hajimete-no-kobato.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kobato-hajimete-no-kobato.json"
   },
