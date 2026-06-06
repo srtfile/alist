@@ -2,45 +2,45 @@
   "anime_name": "Lupin Iii Vs Detective Conan The Movie",
   "anime_url": "https://hianime.ad/anime/lupin-iii-vs-detective-conan-the-movie",
   "slug": "lupin-iii-vs-detective-conan-the-movie",
-  "mal_id": 1412,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:39:37",
+  "captured_at": "2026-06-06T04:38:26",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Is Lupin Burning...?!",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/lupin-iii-vs-detective-conan-the-movie/ep-1",
       "sub": {
         "HD-1": {
-          "1412-malep-1_vibeplayer_sub": "https://vibeplayer.site/f57e0f1d85d726fa",
-          "1412-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f57e0f1d85d726fa/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f57e0f1d85d726fa",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f57e0f1d85d726fa/master.m3u8"
         },
         "StreamHG": {
-          "1412-malep-1_otakuhg_sub": "https://otakuhg.site/e/f71uzw5mkwq6",
-          "1412-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/f71uzw5mkwq6",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "1412-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1w7qzo459py8",
-          "1412-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1w7qzo459py8",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "1412-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f0a356a93a28bcf1",
-          "1412-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f0a356a93a28bcf1/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f0a356a93a28bcf1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f0a356a93a28bcf1/master.m3u8"
         },
         "StreamHG": {
-          "1412-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ale5vf278tov",
-          "1412-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/ale5vf278tov",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "1412-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b05b70fr59jg",
-          "1412-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b05b70fr59jg",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "1412-malep-1_playmogo_hsub": "https://playmogo.com/e/n4xp8b5kjaih",
-          "1412-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/n4xp8b5kjaih",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
