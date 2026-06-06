@@ -16191,11 +16191,11 @@
   },
   {
     "slug": "lbx-girls",
-    "mal_id": 36458,
+    "mal_id": null,
     "anime_name": "Lbx Girls",
     "anime_url": "https://hianime.ad/anime/lbx-girls",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T03:04:33",
+    "captured_at": "2026-06-06T02:58:24",
     "file": "data/lbx-girls.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lbx-girls.json"
   },
