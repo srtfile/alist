@@ -17041,11 +17041,11 @@
   },
   {
     "slug": "ling-long-incarnation",
-    "mal_id": 36666,
+    "mal_id": null,
     "anime_name": "Ling Long Incarnation",
     "anime_url": "https://hianime.ad/anime/ling-long-incarnation",
     "total_episodes": 6,
-    "captured_at": "2026-06-05T03:48:44",
+    "captured_at": "2026-06-06T03:45:02",
     "file": "data/ling-long-incarnation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/ling-long-incarnation.json"
   },
