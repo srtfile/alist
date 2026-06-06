@@ -16371,11 +16371,11 @@
   },
   {
     "slug": "legend-of-lemnear",
-    "mal_id": 48441,
+    "mal_id": null,
     "anime_name": "Legend Of Lemnear",
     "anime_url": "https://hianime.ad/anime/legend-of-lemnear",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T03:09:52",
+    "captured_at": "2026-06-06T03:03:56",
     "file": "data/legend-of-lemnear.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-lemnear.json"
   },
