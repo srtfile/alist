@@ -19121,11 +19121,11 @@
   },
   {
     "slug": "maboroshi",
-    "mal_id": 27965,
+    "mal_id": null,
     "anime_name": "Maboroshi",
     "anime_url": "https://hianime.ad/anime/maboroshi",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T04:52:14",
+    "captured_at": "2026-06-06T04:51:20",
     "file": "data/maboroshi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/maboroshi.json"
   },
