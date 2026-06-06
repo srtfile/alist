@@ -19891,11 +19891,11 @@
   },
   {
     "slug": "magical-hat",
-    "mal_id": 15915,
+    "mal_id": null,
     "anime_name": "Magical Hat",
     "anime_url": "https://hianime.ad/anime/magical-hat",
     "total_episodes": 33,
-    "captured_at": "2026-06-05T05:18:13",
+    "captured_at": "2026-06-06T05:17:50",
     "file": "data/magical-hat.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magical-hat.json"
   },
