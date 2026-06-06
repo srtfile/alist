@@ -14371,11 +14371,11 @@
   },
   {
     "slug": "kiss-x-sis",
-    "mal_id": 7593,
+    "mal_id": null,
     "anime_name": "Kiss X Sis",
     "anime_url": "https://hianime.ad/anime/kiss-x-sis",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T02:08:35",
+    "captured_at": "2026-06-06T02:00:18",
     "file": "data/kiss-x-sis.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kiss-x-sis.json"
   },
