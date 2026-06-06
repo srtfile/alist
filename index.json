@@ -14421,11 +14421,11 @@
   },
   {
     "slug": "kitty-cat-fantasia",
-    "mal_id": 23915,
+    "mal_id": null,
     "anime_name": "Kitty Cat Fantasia",
     "anime_url": "https://hianime.ad/anime/kitty-cat-fantasia",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T02:09:45",
+    "captured_at": "2026-06-06T02:01:30",
     "file": "data/kitty-cat-fantasia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kitty-cat-fantasia.json"
   },
