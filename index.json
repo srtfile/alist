@@ -20911,11 +20911,11 @@
   },
   {
     "slug": "mardock-scramble-the-first-compression",
-    "mal_id": 1000,
+    "mal_id": null,
     "anime_name": "Mardock Scramble The First Compression",
     "anime_url": "https://hianime.ad/anime/mardock-scramble-the-first-compression",
     "total_episodes": 1,
-    "captured_at": "2026-06-05T05:56:03",
+    "captured_at": "2026-06-06T05:56:03",
     "file": "data/mardock-scramble-the-first-compression.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mardock-scramble-the-first-compression.json"
   },
