@@ -14701,11 +14701,11 @@
   },
   {
     "slug": "kochoki",
-    "mal_id": 38920,
+    "mal_id": null,
     "anime_name": "Kochoki",
     "anime_url": "https://hianime.ad/anime/kochoki",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T02:17:55",
+    "captured_at": "2026-06-06T02:09:50",
     "file": "data/kochoki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kochoki.json"
   },
