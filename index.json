@@ -19681,11 +19681,11 @@
   },
   {
     "slug": "magic-users-club",
-    "mal_id": 630,
+    "mal_id": null,
     "anime_name": "Magic Users Club",
     "anime_url": "https://hianime.ad/anime/magic-users-club",
     "total_episodes": 13,
-    "captured_at": "2026-06-05T05:09:47",
+    "captured_at": "2026-06-06T05:09:19",
     "file": "data/magic-users-club.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/magic-users-club.json"
   },
