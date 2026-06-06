@@ -2,41 +2,41 @@
   "anime_name": "Kud Wafter",
   "anime_url": "https://hianime.ad/anime/kud-wafter",
   "slug": "kud-wafter",
-  "mal_id": 60732,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T02:34:53",
+  "captured_at": "2026-06-06T02:27:44",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "The Slow, But Dangerous, Life",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/kud-wafter/ep-1",
       "sub": {
         "HD-1": {
-          "60732-malep-1_vibeplayer_sub": "https://vibeplayer.site/0bfb9332df1c84da",
-          "60732-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0bfb9332df1c84da/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/0bfb9332df1c84da",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0bfb9332df1c84da/master.m3u8"
         },
         "Earnvids": {
-          "60732-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yzjhvuk37636",
-          "60732-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/yzjhvuk37636",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "60732-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d63b0cd990a58c06",
-          "60732-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d63b0cd990a58c06/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/d63b0cd990a58c06",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d63b0cd990a58c06/master.m3u8"
         },
         "StreamHG": {
-          "60732-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gxozmncx9luj",
-          "60732-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/gxozmncx9luj",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "60732-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5ki9ko00xsqr",
-          "60732-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5ki9ko00xsqr",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "60732-malep-1_playmogo_hsub": "https://playmogo.com/e/9qknn9z4x3gu",
-          "60732-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9qknn9z4x3gu",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
