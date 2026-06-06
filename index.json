@@ -16801,11 +16801,11 @@
   },
   {
     "slug": "liar-game",
-    "mal_id": 62331,
+    "mal_id": null,
     "anime_name": "Liar Game",
     "anime_url": "https://hianime.ad/anime/liar-game",
     "total_episodes": 9,
-    "captured_at": "2026-06-05T03:29:35",
+    "captured_at": "2026-06-06T03:24:55",
     "file": "data/liar-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/liar-game.json"
   },
