@@ -2,45 +2,45 @@
   "anime_name": "Koukaku Kidoutai Arise Another Mission",
   "anime_url": "https://hianime.ad/anime/koukaku-kidoutai-arise-another-mission",
   "slug": "koukaku-kidoutai-arise-another-mission",
-  "mal_id": 29325,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T02:29:05",
+  "captured_at": "2026-06-06T02:21:41",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Ghost Stands Alone, Part 1",
+      "episode_title": "Another Mission",
       "episode_url": "https://hianime.ad/watch/koukaku-kidoutai-arise-another-mission/ep-1",
       "sub": {
         "HD-1": {
-          "29325-malep-1_vibeplayer_sub": "https://vibeplayer.site/2ae6340bf63f7f5b",
-          "29325-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ae6340bf63f7f5b/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2ae6340bf63f7f5b",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ae6340bf63f7f5b/master.m3u8"
         },
         "StreamHG": {
-          "29325-malep-1_otakuhg_sub": "https://otakuhg.site/e/n2q9c77xl6c3",
-          "29325-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/n2q9c77xl6c3",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "29325-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2dh3tpd9lqag",
-          "29325-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/2dh3tpd9lqag",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "29325-malep-1_vibeplayer_hsub": "https://vibeplayer.site/61f32b23aeb2412d",
-          "29325-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/61f32b23aeb2412d/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/61f32b23aeb2412d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/61f32b23aeb2412d/master.m3u8"
         },
         "StreamHG": {
-          "29325-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w75knebgni7k",
-          "29325-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/w75knebgni7k",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "29325-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3ztoaw4tae7z",
-          "29325-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3ztoaw4tae7z",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "29325-malep-1_playmogo_hsub": "https://playmogo.com/e/q8x2ocu1wgx4",
-          "29325-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/q8x2ocu1wgx4",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
