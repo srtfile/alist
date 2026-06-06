@@ -16041,11 +16041,11 @@
   },
   {
     "slug": "lance-n-masques",
-    "mal_id": 24011,
+    "mal_id": null,
     "anime_name": "Lance N Masques",
     "anime_url": "https://hianime.ad/anime/lance-n-masques",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T02:57:43",
+    "captured_at": "2026-06-06T02:51:23",
     "file": "data/lance-n-masques.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lance-n-masques.json"
   },
