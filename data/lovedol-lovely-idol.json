@@ -2,41 +2,41 @@
   "anime_name": "Lovedol Lovely Idol",
   "anime_url": "https://hianime.ad/anime/lovedol-lovely-idol",
   "slug": "lovedol-lovely-idol",
-  "mal_id": 1561,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:31:59",
+  "captured_at": "2026-06-06T04:30:29",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Are You a Lovedol?",
+      "episode_title": "OVA",
       "episode_url": "https://hianime.ad/watch/lovedol-lovely-idol/ep-1",
       "sub": {
         "HD-1": {
-          "1561-malep-1_vibeplayer_sub": "https://vibeplayer.site/62acc946149ca530",
-          "1561-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62acc946149ca530/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/62acc946149ca530",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62acc946149ca530/master.m3u8"
         },
         "Earnvids": {
-          "1561-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pi2vcb905jsl",
-          "1561-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/pi2vcb905jsl",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "1561-malep-1_vibeplayer_hsub": "https://vibeplayer.site/476c54afdd37debe",
-          "1561-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/476c54afdd37debe/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/476c54afdd37debe",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/476c54afdd37debe/master.m3u8"
         },
         "StreamHG": {
-          "1561-malep-1_otakuhg_hsub": "https://otakuhg.site/e/u3sdghvt35i4",
-          "1561-malep-1_otakuhg_hsub_m3u8": null
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/u3sdghvt35i4",
+          "malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "1561-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/smys10wsp84d",
-          "1561-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/smys10wsp84d",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "1561-malep-1_playmogo_hsub": "https://playmogo.com/e/10jv4v6895j5",
-          "1561-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/10jv4v6895j5",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
