@@ -2,41 +2,41 @@
   "anime_name": "Lostorage Conflated Wixoss Missing Link",
   "anime_url": "https://hianime.ad/anime/lostorage-conflated-wixoss-missing-link",
   "slug": "lostorage-conflated-wixoss-missing-link",
-  "mal_id": 34607,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:15:31",
+  "captured_at": "2026-06-06T04:13:11",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Omen / Daybreak and Dawn",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/lostorage-conflated-wixoss-missing-link/ep-1",
       "sub": {
         "HD-1": {
-          "34607-malep-1_vibeplayer_sub": "https://vibeplayer.site/bd598db80a808fce",
-          "34607-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd598db80a808fce/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bd598db80a808fce",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd598db80a808fce/master.m3u8"
         },
         "Earnvids": {
-          "34607-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dddeyharwr8d",
-          "34607-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dddeyharwr8d",
+          "malep-1_otakuvid_sub_m3u8": null
         },
         "Doodstream": {
-          "34607-malep-1_playmogo_sub": "https://playmogo.com/e/5l2gij4h27q2",
-          "34607-malep-1_playmogo_sub_m3u8": null
+          "malep-1_playmogo_sub": "https://playmogo.com/e/5l2gij4h27q2",
+          "malep-1_playmogo_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "34607-malep-1_vibeplayer_hsub": "https://vibeplayer.site/76df3d16ee4af1ad",
-          "34607-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/76df3d16ee4af1ad/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/76df3d16ee4af1ad",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/76df3d16ee4af1ad/master.m3u8"
         },
         "Earnvids": {
-          "34607-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x57zuey2bple",
-          "34607-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x57zuey2bple",
+          "malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "34607-malep-1_playmogo_hsub": "https://playmogo.com/e/rf6tf5az7rqv",
-          "34607-malep-1_playmogo_hsub_m3u8": null
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/rf6tf5az7rqv",
+          "malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
