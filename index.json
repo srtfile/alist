@@ -15261,11 +15261,11 @@
   },
   {
     "slug": "kujibikiunbalance",
-    "mal_id": 1591,
+    "mal_id": null,
     "anime_name": "Kujibikiunbalance",
     "anime_url": "https://hianime.ad/anime/kujibikiunbalance",
     "total_episodes": 12,
-    "captured_at": "2026-06-05T02:35:15",
+    "captured_at": "2026-06-06T02:28:06",
     "file": "data/kujibikiunbalance.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kujibikiunbalance.json"
   },
