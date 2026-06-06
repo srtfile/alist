@@ -2,33 +2,33 @@
   "anime_name": "Little Sharks Outings",
   "anime_url": "https://hianime.ad/anime/little-sharks-outings",
   "slug": "little-sharks-outings",
-  "mal_id": 33489,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-05T04:00:44",
+  "captured_at": "2026-06-06T03:58:03",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "A New Beginning",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/little-sharks-outings/ep-1",
       "sub": {},
       "dub": {},
       "hsub": {},
       "raw": {
         "HD-1": {
-          "33489-malep-1_vibeplayer_raw": "https://vibeplayer.site/2bbbc62a89bd765b",
-          "33489-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2bbbc62a89bd765b/master.m3u8"
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/2bbbc62a89bd765b",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2bbbc62a89bd765b/master.m3u8"
         },
         "StreamHG": {
-          "33489-malep-1_otakuhg_raw": "https://otakuhg.site/e/hwvkibk8n9kv",
-          "33489-malep-1_otakuhg_raw_m3u8": null
+          "malep-1_otakuhg_raw": "https://otakuhg.site/e/hwvkibk8n9kv",
+          "malep-1_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
-          "33489-malep-1_otakuvid_raw": "https://otakuvid.online/embed/hzr86lhn20md",
-          "33489-malep-1_otakuvid_raw_m3u8": null
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/hzr86lhn20md",
+          "malep-1_otakuvid_raw_m3u8": null
         },
         "Doodstream": {
-          "33489-malep-1_playmogo_raw": "https://playmogo.com/e/fn5zaefvqy32",
-          "33489-malep-1_playmogo_raw_m3u8": null
+          "malep-1_playmogo_raw": "https://playmogo.com/e/fn5zaefvqy32",
+          "malep-1_playmogo_raw_m3u8": null
         }
       }
     }
