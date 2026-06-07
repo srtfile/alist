@@ -4,7 +4,7 @@
   "slug": "levius",
   "mal_id": null,
   "total_episodes": 12,
-  "captured_at": "2026-06-06T03:24:04",
+  "captured_at": "2026-06-07T03:44:42",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -87,6 +87,10 @@
         "Earnvids": {
           "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/jhatsim6phra",
           "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/5es686l65prz",
+          "malep-3_playmogo_hsub_m3u8": null
         }
       }
     },
@@ -141,6 +145,10 @@
         "Earnvids": {
           "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/flo6q2fopqnr",
           "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/ettyoaq7qote",
+          "malep-5_playmogo_hsub_m3u8": null
         }
       }
     },
