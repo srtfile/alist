@@ -20811,11 +20811,11 @@
   },
   {
     "slug": "mao",
-    "mal_id": null,
+    "mal_id": 62048,
     "anime_name": "Mao",
     "anime_url": "https://hianime.ad/anime/mao",
-    "total_episodes": 9,
-    "captured_at": "2026-06-06T05:51:25",
+    "total_episodes": 10,
+    "captured_at": "2026-06-07T06:22:05",
     "file": "data/mao.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mao.json"
   },
