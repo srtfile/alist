@@ -19321,11 +19321,11 @@
   },
   {
     "slug": "macross-zero",
-    "mal_id": null,
+    "mal_id": 1088,
     "anime_name": "Macross Zero",
     "anime_url": "https://hianime.ad/anime/macross-zero",
     "total_episodes": 5,
-    "captured_at": "2026-06-06T04:58:18",
+    "captured_at": "2026-06-07T05:24:45",
     "file": "data/macross-zero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-zero.json"
   },
