@@ -16291,11 +16291,11 @@
   },
   {
     "slug": "legend-of-black-heaven",
-    "mal_id": null,
+    "mal_id": 1025,
     "anime_name": "Legend Of Black Heaven",
     "anime_url": "https://hianime.ad/anime/legend-of-black-heaven",
     "total_episodes": 13,
-    "captured_at": "2026-06-06T03:01:23",
+    "captured_at": "2026-06-07T03:21:03",
     "file": "data/legend-of-black-heaven.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-black-heaven.json"
   },
