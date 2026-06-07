@@ -18361,11 +18361,11 @@
   },
   {
     "slug": "lovely-idol",
-    "mal_id": null,
+    "mal_id": 1561,
     "anime_name": "Lovely Idol",
     "anime_url": "https://hianime.ad/anime/lovely-idol",
     "total_episodes": 12,
-    "captured_at": "2026-06-06T04:31:43",
+    "captured_at": "2026-06-07T04:55:44",
     "file": "data/lovely-idol.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/lovely-idol.json"
   },
