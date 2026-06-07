@@ -19161,11 +19161,11 @@
   },
   {
     "slug": "macron-1",
-    "mal_id": null,
+    "mal_id": 2510,
     "anime_name": "Macron 1",
     "anime_url": "https://hianime.ad/anime/macron-1",
     "total_episodes": 26,
-    "captured_at": "2026-06-06T04:53:04",
+    "captured_at": "2026-06-07T05:18:59",
     "file": "data/macron-1.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macron-1.json"
   },
