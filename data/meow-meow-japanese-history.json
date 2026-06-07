@@ -4,7 +4,7 @@
   "slug": "meow-meow-japanese-history",
   "mal_id": 32572,
   "total_episodes": 32,
-  "captured_at": "2026-06-06T06:45:06",
+  "captured_at": "2026-06-07T07:18:17",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -629,9 +629,35 @@
     {
       "episode_title": "The Puppy Dog Shogun Tokugawa Tsunayoshi!",
       "episode_url": "https://hianime.ad/watch/meow-meow-japanese-history/ep-20",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "32572-malep-20_vibeplayer_sub": "https://vibeplayer.site/011d574c214ececa",
+          "32572-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/011d574c214ececa/master.m3u8"
+        },
+        "Earnvids": {
+          "32572-malep-20_otakuvid_sub": "https://otakuvid.online/embed/uj7nrybyo77v",
+          "32572-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "32572-malep-20_vibeplayer_hsub": "https://vibeplayer.site/757edc54c026c65a",
+          "32572-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/757edc54c026c65a/master.m3u8"
+        },
+        "StreamHG": {
+          "32572-malep-20_otakuhg_hsub": "https://otakuhg.site/e/9sor6whw98o7",
+          "32572-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32572-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/4uopmvqw8pu0",
+          "32572-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32572-malep-20_playmogo_hsub": "https://playmogo.com/e/7r6h8stihk1u",
+          "32572-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Shinsengumi: The Early Days!",
