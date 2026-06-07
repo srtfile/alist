@@ -2,9 +2,9 @@
   "anime_name": "Luger Code 1951",
   "anime_url": "https://hianime.ad/anime/luger-code-1951",
   "slug": "luger-code-1951",
-  "mal_id": null,
+  "mal_id": 4119,
   "total_episodes": 1,
-  "captured_at": "2026-06-06T04:35:53",
+  "captured_at": "2026-06-07T05:00:09",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -12,27 +12,27 @@
       "episode_url": "https://hianime.ad/watch/luger-code-1951/ep-1",
       "sub": {
         "HD-1": {
-          "malep-1_vibeplayer_sub": "https://vibeplayer.site/d070d3c96c07bbfd",
-          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d070d3c96c07bbfd/master.m3u8"
+          "4119-malep-1_vibeplayer_sub": "https://vibeplayer.site/d070d3c96c07bbfd",
+          "4119-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d070d3c96c07bbfd/master.m3u8"
         },
         "Earnvids": {
-          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/sy2i54t5g4vz",
-          "malep-1_otakuvid_sub_m3u8": null
+          "4119-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sy2i54t5g4vz",
+          "4119-malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/984c0975808a4a7e",
-          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/984c0975808a4a7e/master.m3u8"
+          "4119-malep-1_vibeplayer_hsub": "https://vibeplayer.site/984c0975808a4a7e",
+          "4119-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/984c0975808a4a7e/master.m3u8"
         },
         "Earnvids": {
-          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ndvvlbpendw",
-          "malep-1_otakuvid_hsub_m3u8": null
+          "4119-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ndvvlbpendw",
+          "4119-malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_hsub": "https://playmogo.com/e/467yyqaku0ne",
-          "malep-1_playmogo_hsub_m3u8": null
+          "4119-malep-1_playmogo_hsub": "https://playmogo.com/e/467yyqaku0ne",
+          "4119-malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
