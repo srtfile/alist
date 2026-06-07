@@ -2,45 +2,45 @@
   "anime_name": "Kizumonogatari Koyomi Vamp",
   "anime_url": "https://hianime.ad/anime/kizumonogatari-koyomi-vamp",
   "slug": "kizumonogatari-koyomi-vamp",
-  "mal_id": null,
+  "mal_id": 28929,
   "total_episodes": 1,
-  "captured_at": "2026-06-06T02:02:59",
+  "captured_at": "2026-06-07T02:18:09",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "Full",
+      "episode_title": "Great Detective!? His Name is…",
       "episode_url": "https://hianime.ad/watch/kizumonogatari-koyomi-vamp/ep-1",
       "sub": {
         "HD-1": {
-          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6c729c98308f0a94",
-          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c729c98308f0a94/master.m3u8"
+          "28929-malep-1_vibeplayer_sub": "https://vibeplayer.site/6c729c98308f0a94",
+          "28929-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c729c98308f0a94/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_sub": "https://otakuhg.site/e/h0mbgizlxnm3",
-          "malep-1_otakuhg_sub_m3u8": null
+          "28929-malep-1_otakuhg_sub": "https://otakuhg.site/e/h0mbgizlxnm3",
+          "28929-malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ga11cv5cd82q",
-          "malep-1_otakuvid_sub_m3u8": null
+          "28929-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ga11cv5cd82q",
+          "28929-malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/8e4d267c3c896fce",
-          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e4d267c3c896fce/master.m3u8"
+          "28929-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8e4d267c3c896fce",
+          "28929-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e4d267c3c896fce/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/t8wp54xym7d0",
-          "malep-1_otakuhg_hsub_m3u8": null
+          "28929-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t8wp54xym7d0",
+          "28929-malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x5luw567nt4x",
-          "malep-1_otakuvid_hsub_m3u8": null
+          "28929-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x5luw567nt4x",
+          "28929-malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_hsub": "https://playmogo.com/e/nz8fngnj2jrw",
-          "malep-1_playmogo_hsub_m3u8": null
+          "28929-malep-1_playmogo_hsub": "https://playmogo.com/e/nz8fngnj2jrw",
+          "28929-malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
