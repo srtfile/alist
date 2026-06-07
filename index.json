@@ -19391,11 +19391,11 @@
   },
   {
     "slug": "madara",
-    "mal_id": null,
+    "mal_id": 38778,
     "anime_name": "Madara",
     "anime_url": "https://hianime.ad/anime/madara",
     "total_episodes": 2,
-    "captured_at": "2026-06-06T04:59:50",
+    "captured_at": "2026-06-07T05:26:27",
     "file": "data/madara.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/madara.json"
   },
