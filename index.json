@@ -16111,11 +16111,11 @@
   },
   {
     "slug": "last-hope",
-    "mal_id": null,
+    "mal_id": 33531,
     "anime_name": "Last Hope",
     "anime_url": "https://hianime.ad/anime/last-hope",
     "total_episodes": 26,
-    "captured_at": "2026-06-06T02:53:41",
+    "captured_at": "2026-06-07T03:12:47",
     "file": "data/last-hope.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/last-hope.json"
   },
