@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/mission-yozakura-family-season-2",
   "slug": "mission-yozakura-family-season-2",
   "mal_id": 60055,
-  "total_episodes": 8,
-  "captured_at": "2026-06-06T07:18:09",
+  "total_episodes": 9,
+  "captured_at": "2026-06-07T07:52:46",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -332,6 +332,31 @@
         "Doodstream": {
           "60055-malep-8_playmogo_hsub": "https://playmogo.com/e/1wv8k06l4y8d",
           "60055-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/mission-yozakura-family-season-2/ep-9",
+      "sub": {
+        "HD-1": {
+          "60055-malep-9_vibeplayer_sub": "https://vibeplayer.site/76944414388a3487",
+          "60055-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76944414388a3487/master.m3u8"
+        },
+        "Earnvids": {
+          "60055-malep-9_otakuvid_sub": "https://otakuvid.online/embed/jsarhzgvivsj",
+          "60055-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60055-malep-9_vibeplayer_hsub": "https://vibeplayer.site/507df4c333804cc5",
+          "60055-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/507df4c333804cc5/master.m3u8"
+        },
+        "Earnvids": {
+          "60055-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/30hfhegsyuxb",
+          "60055-malep-9_otakuvid_hsub_m3u8": null
         }
       }
     }
