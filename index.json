@@ -20601,11 +20601,11 @@
   },
   {
     "slug": "make-my-day",
-    "mal_id": null,
+    "mal_id": 61126,
     "anime_name": "Make My Day",
     "anime_url": "https://hianime.ad/anime/make-my-day",
     "total_episodes": 8,
-    "captured_at": "2026-06-06T05:45:12",
+    "captured_at": "2026-06-07T06:15:13",
     "file": "data/make-my-day.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/make-my-day.json"
   },
