@@ -16471,11 +16471,11 @@
   },
   {
     "slug": "legend-of-the-galactic-heroes",
-    "mal_id": null,
+    "mal_id": 31433,
     "anime_name": "Legend Of The Galactic Heroes",
     "anime_url": "https://hianime.ad/anime/legend-of-the-galactic-heroes",
     "total_episodes": 110,
-    "captured_at": "2026-06-06T03:07:38",
+    "captured_at": "2026-06-07T03:27:34",
     "file": "data/legend-of-the-galactic-heroes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/legend-of-the-galactic-heroes.json"
   },
