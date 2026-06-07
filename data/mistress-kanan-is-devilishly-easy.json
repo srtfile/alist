@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/mistress-kanan-is-devilishly-easy",
   "slug": "mistress-kanan-is-devilishly-easy",
   "mal_id": 61501,
-  "total_episodes": 9,
-  "captured_at": "2026-06-06T07:18:58",
+  "total_episodes": 10,
+  "captured_at": "2026-06-07T07:53:37",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -434,7 +434,24 @@
           "61501-malep-8_playmogo_sub_m3u8": null
         }
       },
-      "dub": {},
+      "dub": {
+        "HD-1": {
+          "61501-malep-8_vibeplayer_dub": "https://vibeplayer.site/9fc8c91720abe6a5",
+          "61501-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9fc8c91720abe6a5/master.m3u8"
+        },
+        "StreamHG": {
+          "61501-malep-8_otakuhg_dub": "https://otakuhg.site/e/3p24v9dx18k9",
+          "61501-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "61501-malep-8_otakuvid_dub": "https://otakuvid.online/embed/yoesqco8j4u1",
+          "61501-malep-8_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "61501-malep-8_playmogo_dub": "https://playmogo.com/e/0oao9brik5jt",
+          "61501-malep-8_playmogo_dub_m3u8": null
+        }
+      },
       "hsub": {
         "HD-1": {
           "61501-malep-8_vibeplayer_hsub": "https://vibeplayer.site/cb0c35ad280557a4",
@@ -455,7 +472,7 @@
       }
     },
     {
-      "episode_title": "Episode 9",
+      "episode_title": "Lilim's Test of Defeat",
       "episode_url": "https://hianime.ad/watch/mistress-kanan-is-devilishly-easy/ep-9",
       "sub": {
         "HD-1": {
@@ -492,6 +509,39 @@
         "Doodstream": {
           "61501-malep-9_playmogo_hsub": "https://playmogo.com/e/3jbaqs367vfd",
           "61501-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/mistress-kanan-is-devilishly-easy/ep-10",
+      "sub": {
+        "StreamHG": {
+          "61501-malep-10_otakuhg_sub": "https://otakuhg.site/e/qvxjtiesob54",
+          "61501-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61501-malep-10_otakuvid_sub": "https://otakuvid.online/embed/9tubfl6xp70j",
+          "61501-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "61501-malep-10_playmogo_sub": "https://playmogo.com/e/ee8qix9m0x20",
+          "61501-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "StreamHG": {
+          "61501-malep-10_otakuhg_hsub": "https://otakuhg.site/e/1imi9uf4jss0",
+          "61501-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61501-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/jr2hwaxne159",
+          "61501-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61501-malep-10_playmogo_hsub": "https://playmogo.com/e/fhyl3odxzs3o",
+          "61501-malep-10_playmogo_hsub_m3u8": null
         }
       }
     }
