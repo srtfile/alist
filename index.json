@@ -14401,11 +14401,11 @@
   },
   {
     "slug": "kite",
-    "mal_id": null,
+    "mal_id": 6509,
     "anime_name": "Kite",
     "anime_url": "https://hianime.ad/anime/kite",
     "total_episodes": 1,
-    "captured_at": "2026-06-06T02:01:07",
+    "captured_at": "2026-06-07T02:16:08",
     "file": "data/kite.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/kite.json"
   },
