@@ -2,9 +2,9 @@
   "anime_name": "Manual Of Ninja Martial Arts",
   "anime_url": "https://hianime.ad/anime/manual-of-ninja-martial-arts",
   "slug": "manual-of-ninja-martial-arts",
-  "mal_id": null,
+  "mal_id": 38119,
   "total_episodes": 1,
-  "captured_at": "2026-06-06T05:50:41",
+  "captured_at": "2026-06-07T06:21:15",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -12,35 +12,35 @@
       "episode_url": "https://hianime.ad/watch/manual-of-ninja-martial-arts/ep-1",
       "sub": {
         "HD-1": {
-          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b1648c297fe57084",
-          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1648c297fe57084/master.m3u8"
+          "38119-malep-1_vibeplayer_sub": "https://vibeplayer.site/b1648c297fe57084",
+          "38119-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1648c297fe57084/master.m3u8"
         },
         "Earnvids": {
-          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/xo6gvhuulhgu",
-          "malep-1_otakuvid_sub_m3u8": null
+          "38119-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xo6gvhuulhgu",
+          "38119-malep-1_otakuvid_sub_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_sub": "https://playmogo.com/e/30icxr9nkne9",
-          "malep-1_playmogo_sub_m3u8": null
+          "38119-malep-1_playmogo_sub": "https://playmogo.com/e/30icxr9nkne9",
+          "38119-malep-1_playmogo_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e34e8bd49a584b4c",
-          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e34e8bd49a584b4c/master.m3u8"
+          "38119-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e34e8bd49a584b4c",
+          "38119-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e34e8bd49a584b4c/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/wl8y19qdh4dq",
-          "malep-1_otakuhg_hsub_m3u8": null
+          "38119-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wl8y19qdh4dq",
+          "38119-malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hg9k5lnwq7z5",
-          "malep-1_otakuvid_hsub_m3u8": null
+          "38119-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hg9k5lnwq7z5",
+          "38119-malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_hsub": "https://playmogo.com/e/75sl5xnskdkf",
-          "malep-1_playmogo_hsub_m3u8": null
+          "38119-malep-1_playmogo_hsub": "https://playmogo.com/e/75sl5xnskdkf",
+          "38119-malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
