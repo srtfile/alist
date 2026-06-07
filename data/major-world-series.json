@@ -2,9 +2,9 @@
   "anime_name": "Major World Series",
   "anime_url": "https://hianime.ad/anime/major-world-series",
   "slug": "major-world-series",
-  "mal_id": null,
+  "mal_id": 44162,
   "total_episodes": 2,
-  "captured_at": "2026-06-06T05:44:42",
+  "captured_at": "2026-06-07T06:14:38",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -15,20 +15,20 @@
       "hsub": {},
       "raw": {
         "HD-1": {
-          "malep-1_vibeplayer_raw": "https://vibeplayer.site/e00f9e65e7cbbc7a",
-          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e00f9e65e7cbbc7a/master.m3u8"
+          "44162-malep-1_vibeplayer_raw": "https://vibeplayer.site/e00f9e65e7cbbc7a",
+          "44162-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e00f9e65e7cbbc7a/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_raw": "https://otakuhg.site/e/5uqv2xtytsbd",
-          "malep-1_otakuhg_raw_m3u8": null
+          "44162-malep-1_otakuhg_raw": "https://otakuhg.site/e/5uqv2xtytsbd",
+          "44162-malep-1_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/egm2wu9ixfev",
-          "malep-1_otakuvid_raw_m3u8": null
+          "44162-malep-1_otakuvid_raw": "https://otakuvid.online/embed/egm2wu9ixfev",
+          "44162-malep-1_otakuvid_raw_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_raw": "https://playmogo.com/e/ew2o8ja4r7iu",
-          "malep-1_playmogo_raw_m3u8": null
+          "44162-malep-1_playmogo_raw": "https://playmogo.com/e/ew2o8ja4r7iu",
+          "44162-malep-1_playmogo_raw_m3u8": null
         }
       }
     },
@@ -40,20 +40,20 @@
       "hsub": {},
       "raw": {
         "HD-1": {
-          "malep-2_vibeplayer_raw": "https://vibeplayer.site/e32134c167296cc5",
-          "malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e32134c167296cc5/master.m3u8"
+          "44162-malep-2_vibeplayer_raw": "https://vibeplayer.site/e32134c167296cc5",
+          "44162-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e32134c167296cc5/master.m3u8"
         },
         "StreamHG": {
-          "malep-2_otakuhg_raw": "https://otakuhg.site/e/btcutp2m3hny",
-          "malep-2_otakuhg_raw_m3u8": null
+          "44162-malep-2_otakuhg_raw": "https://otakuhg.site/e/btcutp2m3hny",
+          "44162-malep-2_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
-          "malep-2_otakuvid_raw": "https://otakuvid.online/embed/g0dmyyw6c1w6",
-          "malep-2_otakuvid_raw_m3u8": null
+          "44162-malep-2_otakuvid_raw": "https://otakuvid.online/embed/g0dmyyw6c1w6",
+          "44162-malep-2_otakuvid_raw_m3u8": null
         },
         "Doodstream": {
-          "malep-2_playmogo_raw": "https://playmogo.com/e/w5rxscjhpx7d",
-          "malep-2_playmogo_raw_m3u8": null
+          "44162-malep-2_playmogo_raw": "https://playmogo.com/e/w5rxscjhpx7d",
+          "44162-malep-2_playmogo_raw_m3u8": null
         }
       }
     }
