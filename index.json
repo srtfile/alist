@@ -15121,11 +15121,11 @@
   },
   {
     "slug": "koutetsu-jeeg",
-    "mal_id": null,
+    "mal_id": 4198,
     "anime_name": "Koutetsu Jeeg",
     "anime_url": "https://hianime.ad/anime/koutetsu-jeeg",
     "total_episodes": 46,
-    "captured_at": "2026-06-06T02:23:40",
+    "captured_at": "2026-06-07T02:40:11",
     "file": "data/koutetsu-jeeg.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/koutetsu-jeeg.json"
   },
