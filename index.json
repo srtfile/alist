@@ -19311,11 +19311,11 @@
   },
   {
     "slug": "macross-plus-movie-edition",
-    "mal_id": null,
+    "mal_id": 1088,
     "anime_name": "Macross Plus Movie Edition",
     "anime_url": "https://hianime.ad/anime/macross-plus-movie-edition",
     "total_episodes": 1,
-    "captured_at": "2026-06-06T04:58:08",
+    "captured_at": "2026-06-07T05:24:33",
     "file": "data/macross-plus-movie-edition.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/macross-plus-movie-edition.json"
   },
