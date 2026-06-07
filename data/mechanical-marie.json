@@ -4,7 +4,7 @@
   "slug": "mechanical-marie",
   "mal_id": 59484,
   "total_episodes": 12,
-  "captured_at": "2026-06-06T06:31:05",
+  "captured_at": "2026-06-07T07:03:39",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -207,6 +207,10 @@
         "Earnvids": {
           "59484-malep-6_otakuvid_sub": "https://otakuvid.online/embed/belgxdw2b76c",
           "59484-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59484-malep-6_playmogo_sub": "https://playmogo.com/e/61zsj96ovh4c",
+          "59484-malep-6_playmogo_sub_m3u8": null
         }
       },
       "dub": {},
@@ -222,6 +226,10 @@
         "Earnvids": {
           "59484-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/jpls3qlveaeo",
           "59484-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59484-malep-6_playmogo_hsub": "https://playmogo.com/e/ljm4fedcbrfn",
+          "59484-malep-6_playmogo_hsub_m3u8": null
         }
       }
     },
