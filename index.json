@@ -20931,11 +20931,11 @@
   },
   {
     "slug": "mardock-scramble-the-third-exhaust",
-    "mal_id": null,
+    "mal_id": 1000,
     "anime_name": "Mardock Scramble The Third Exhaust",
     "anime_url": "https://hianime.ad/anime/mardock-scramble-the-third-exhaust",
     "total_episodes": 1,
-    "captured_at": "2026-06-06T05:56:22",
+    "captured_at": "2026-06-07T06:27:28",
     "file": "data/mardock-scramble-the-third-exhaust.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data/mardock-scramble-the-third-exhaust.json"
   },
