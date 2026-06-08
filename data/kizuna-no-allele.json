@@ -4,7 +4,7 @@
   "slug": "kizuna-no-allele",
   "mal_id": 51139,
   "total_episodes": 12,
-  "captured_at": "2026-06-07T02:18:43",
+  "captured_at": "2026-06-08T02:24:11",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -292,6 +292,10 @@
       "episode_title": "True Color",
       "episode_url": "https://hianime.ad/watch/kizuna-no-allele/ep-11",
       "sub": {
+        "HD-1": {
+          "51139-malep-11_vibeplayer_sub": "https://vibeplayer.site/8483637dbc9b5d5d",
+          "51139-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8483637dbc9b5d5d/master.m3u8"
+        },
         "Earnvids": {
           "51139-malep-11_otakuvid_sub": "https://otakuvid.online/embed/x236qvz3m8q7",
           "51139-malep-11_otakuvid_sub_m3u8": null
