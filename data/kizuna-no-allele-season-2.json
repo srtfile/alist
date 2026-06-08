@@ -4,7 +4,7 @@
   "slug": "kizuna-no-allele-season-2",
   "mal_id": 55775,
   "total_episodes": 12,
-  "captured_at": "2026-06-07T02:19:04",
+  "captured_at": "2026-06-08T02:24:34",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -300,6 +300,10 @@
       "episode_title": "～We, the Unknown～",
       "episode_url": "https://hianime.ad/watch/kizuna-no-allele-season-2/ep-10",
       "sub": {
+        "HD-1": {
+          "55775-malep-10_vibeplayer_sub": "https://vibeplayer.site/7233804035162ec3",
+          "55775-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7233804035162ec3/master.m3u8"
+        },
         "Earnvids": {
           "55775-malep-10_otakuvid_sub": "https://otakuvid.online/embed/el9ftfhlskxp",
           "55775-malep-10_otakuvid_sub_m3u8": null
