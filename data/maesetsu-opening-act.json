@@ -4,7 +4,7 @@
   "slug": "maesetsu-opening-act",
   "mal_id": 40085,
   "total_episodes": 12,
-  "captured_at": "2026-06-07T05:30:19",
+  "captured_at": "2026-06-08T05:49:39",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -34,6 +34,10 @@
         "HD-1": {
           "40085-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0127cb25691053ba",
           "40085-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0127cb25691053ba/master.m3u8"
+        },
+        "StreamHG": {
+          "40085-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hsmbnkcmlxd3",
+          "40085-malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "40085-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fcsomzc2vxmy",
