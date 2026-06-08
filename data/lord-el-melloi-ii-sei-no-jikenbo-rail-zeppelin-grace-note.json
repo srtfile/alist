@@ -4,7 +4,7 @@
   "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
   "mal_id": 38959,
   "total_episodes": 13,
-  "captured_at": "2026-06-07T04:27:56",
+  "captured_at": "2026-06-08T04:42:14",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -552,48 +552,9 @@
     {
       "episode_title": "The Clock Tower, Usual Days, and the First Step Forward to the Future",
       "episode_url": "https://hianime.ad/watch/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/ep-13",
-      "sub": {
-        "HD-1": {
-          "38959-malep-13_vibeplayer_sub": "https://vibeplayer.site/0252aced378efab5",
-          "38959-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0252aced378efab5/master.m3u8"
-        },
-        "Earnvids": {
-          "38959-malep-13_otakuvid_sub": "https://otakuvid.online/embed/c0qyt4bcl7jg",
-          "38959-malep-13_otakuvid_sub_m3u8": null
-        }
-      },
-      "dub": {
-        "HD-1": {
-          "38959-malep-13_vibeplayer_dub": "https://vibeplayer.site/4517a97811303cd0",
-          "38959-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4517a97811303cd0/master.m3u8"
-        },
-        "StreamHG": {
-          "38959-malep-13_otakuhg_dub": "https://otakuhg.site/e/3b9kbemvqlq5",
-          "38959-malep-13_otakuhg_dub_m3u8": null
-        },
-        "Earnvids": {
-          "38959-malep-13_otakuvid_dub": "https://otakuvid.online/embed/o78nnnco2dgg",
-          "38959-malep-13_otakuvid_dub_m3u8": null
-        }
-      },
-      "hsub": {
-        "HD-1": {
-          "38959-malep-13_vibeplayer_hsub": "https://vibeplayer.site/b114145eb502ea98",
-          "38959-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b114145eb502ea98/master.m3u8"
-        },
-        "StreamHG": {
-          "38959-malep-13_otakuhg_hsub": "https://otakuhg.site/e/sur1wg0c0t24",
-          "38959-malep-13_otakuhg_hsub_m3u8": null
-        },
-        "Earnvids": {
-          "38959-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/fa0qjb2ify5w",
-          "38959-malep-13_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "38959-malep-13_playmogo_hsub": "https://playmogo.com/e/co39wsp9fo83",
-          "38959-malep-13_playmogo_hsub_m3u8": null
-        }
-      }
+      "sub": {},
+      "dub": {},
+      "hsub": {}
     }
   ]
 }
