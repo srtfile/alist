@@ -4,7 +4,7 @@
   "slug": "letter-bee-academy",
   "mal_id": 6444,
   "total_episodes": 25,
-  "captured_at": "2026-06-07T03:41:45",
+  "captured_at": "2026-06-08T03:52:12",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -397,9 +397,27 @@
     {
       "episode_title": "Fan Letter to the Musician",
       "episode_url": "https://hianime.ad/watch/letter-bee-academy/ep-16",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "6444-malep-16_vibeplayer_sub": "https://vibeplayer.site/6f682135aa862ca6",
+          "6444-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f682135aa862ca6/master.m3u8"
+        },
+        "Earnvids": {
+          "6444-malep-16_otakuvid_sub": "https://otakuvid.online/embed/f4d010g69mgq",
+          "6444-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "6444-malep-16_vibeplayer_hsub": "https://vibeplayer.site/fa205073f4c5de42",
+          "6444-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa205073f4c5de42/master.m3u8"
+        },
+        "Earnvids": {
+          "6444-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/2w5fzumw6wlo",
+          "6444-malep-16_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Letter Bee and Dingo",
