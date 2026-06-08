@@ -4,7 +4,7 @@
   "slug": "mao",
   "mal_id": 62048,
   "total_episodes": 10,
-  "captured_at": "2026-06-07T06:22:05",
+  "captured_at": "2026-06-08T06:44:53",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -395,6 +395,10 @@
       },
       "dub": {},
       "hsub": {
+        "StreamHG": {
+          "62048-malep-10_otakuhg_hsub": "https://otakuhg.site/e/tadlant85iak",
+          "62048-malep-10_otakuhg_hsub_m3u8": null
+        },
         "Earnvids": {
           "62048-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/31cv5md3qlkz",
           "62048-malep-10_otakuvid_hsub_m3u8": null
