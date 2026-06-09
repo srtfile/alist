@@ -4,7 +4,7 @@
   "slug": "kizuna-no-allele-season-2",
   "mal_id": 55775,
   "total_episodes": 12,
-  "captured_at": "2026-06-08T02:24:34",
+  "captured_at": "2026-06-09T02:03:59",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -48,6 +48,10 @@
       "episode_title": "～Departure of Resolution～",
       "episode_url": "https://hianime.ad/watch/kizuna-no-allele-season-2/ep-2",
       "sub": {
+        "HD-1": {
+          "55775-malep-2_vibeplayer_sub": "https://vibeplayer.site/3b80c8df28ec049b",
+          "55775-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3b80c8df28ec049b/master.m3u8"
+        },
         "Earnvids": {
           "55775-malep-2_otakuvid_sub": "https://otakuvid.online/embed/mtq01nmogvkt",
           "55775-malep-2_otakuvid_sub_m3u8": null
