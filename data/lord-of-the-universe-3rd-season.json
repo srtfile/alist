@@ -4,7 +4,7 @@
   "slug": "lord-of-the-universe-3rd-season",
   "mal_id": 54853,
   "total_episodes": 207,
-  "captured_at": "2026-06-08T04:44:57",
+  "captured_at": "2026-06-09T04:37:44",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1331,27 +1331,9 @@
     {
       "episode_title": "Episode 50",
       "episode_url": "https://hianime.ad/watch/lord-of-the-universe-3rd-season/ep-50",
-      "sub": {
-        "HD-1": {
-          "54853-malep-50_vibeplayer_sub": "https://vibeplayer.site/2a3facd277c1431f",
-          "54853-malep-50_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a3facd277c1431f/master.m3u8"
-        },
-        "Earnvids": {
-          "54853-malep-50_otakuvid_sub": "https://otakuvid.online/embed/7zpjl1hyaz4s",
-          "54853-malep-50_otakuvid_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "54853-malep-50_vibeplayer_hsub": "https://vibeplayer.site/a4cf7c24fc763a5d",
-          "54853-malep-50_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a4cf7c24fc763a5d/master.m3u8"
-        },
-        "Earnvids": {
-          "54853-malep-50_otakuvid_hsub": "https://otakuvid.online/embed/9s8umb7z962l",
-          "54853-malep-50_otakuvid_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "Episode 51",
@@ -2499,31 +2481,9 @@
     {
       "episode_title": "Episode 94",
       "episode_url": "https://hianime.ad/watch/lord-of-the-universe-3rd-season/ep-94",
-      "sub": {
-        "HD-1": {
-          "54853-malep-94_vibeplayer_sub": "https://vibeplayer.site/6993b5487ca30a7e",
-          "54853-malep-94_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6993b5487ca30a7e/master.m3u8"
-        },
-        "Earnvids": {
-          "54853-malep-94_otakuvid_sub": "https://otakuvid.online/embed/lhhsh3vwamp8",
-          "54853-malep-94_otakuvid_sub_m3u8": null
-        },
-        "Doodstream": {
-          "54853-malep-94_playmogo_sub": "https://playmogo.com/e/mhewo6yfz0nu",
-          "54853-malep-94_playmogo_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "54853-malep-94_vibeplayer_hsub": "https://vibeplayer.site/bb9025fcb69e6cab",
-          "54853-malep-94_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb9025fcb69e6cab/master.m3u8"
-        },
-        "Earnvids": {
-          "54853-malep-94_otakuvid_hsub": "https://otakuvid.online/embed/ejz9lcwhzhpk",
-          "54853-malep-94_otakuvid_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "Episode 95",
