@@ -4,7 +4,7 @@
   "slug": "kirakira-happyhirake-cocotama",
   "mal_id": 37968,
   "total_episodes": 55,
-  "captured_at": "2026-06-09T01:51:22",
+  "captured_at": "2026-06-10T02:02:34",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1260,9 +1260,31 @@
     {
       "episode_title": "Episode 43",
       "episode_url": "https://hianime.ad/watch/kirakira-happyhirake-cocotama/ep-43",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "37968-malep-43_vibeplayer_sub": "https://vibeplayer.site/58828ebbab31d656",
+          "37968-malep-43_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58828ebbab31d656/master.m3u8"
+        },
+        "Earnvids": {
+          "37968-malep-43_otakuvid_sub": "https://otakuvid.online/embed/vpbc5zm6ap9g",
+          "37968-malep-43_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "37968-malep-43_vibeplayer_hsub": "https://vibeplayer.site/6273800b82bcf2b6",
+          "37968-malep-43_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6273800b82bcf2b6/master.m3u8"
+        },
+        "Earnvids": {
+          "37968-malep-43_otakuvid_hsub": "https://otakuvid.online/embed/hp56opi6rbbb",
+          "37968-malep-43_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37968-malep-43_playmogo_hsub": "https://playmogo.com/e/6g14lown5yw8",
+          "37968-malep-43_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 44",
