@@ -4,7 +4,7 @@
   "slug": "major-s4",
   "mal_id": 3226,
   "total_episodes": 26,
-  "captured_at": "2026-06-08T06:34:59",
+  "captured_at": "2026-06-11T06:03:25",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -85,6 +85,10 @@
       "episode_title": "I'll Do It",
       "episode_url": "https://hianime.ad/watch/major-s4/ep-3",
       "sub": {
+        "HD-1": {
+          "3226-malep-3_vibeplayer_sub": "https://vibeplayer.site/df41a17a28084cda",
+          "3226-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df41a17a28084cda/master.m3u8"
+        },
         "StreamHG": {
           "3226-malep-3_otakuhg_sub": "https://otakuhg.site/e/9fucyh5138pe",
           "3226-malep-3_otakuhg_sub_m3u8": null
@@ -275,6 +279,10 @@
       "episode_title": "Try and aim for it",
       "episode_url": "https://hianime.ad/watch/major-s4/ep-11",
       "sub": {
+        "HD-1": {
+          "3226-malep-11_vibeplayer_sub": "https://vibeplayer.site/c22711a57866414a",
+          "3226-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c22711a57866414a/master.m3u8"
+        },
         "StreamHG": {
           "3226-malep-11_otakuhg_sub": "https://otakuhg.site/e/j55diufdonsm",
           "3226-malep-11_otakuhg_sub_m3u8": null
@@ -425,6 +433,10 @@
       "episode_title": "Where to Aim",
       "episode_url": "https://hianime.ad/watch/major-s4/ep-17",
       "sub": {
+        "HD-1": {
+          "3226-malep-17_vibeplayer_sub": "https://vibeplayer.site/19a329dc862a9602",
+          "3226-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/19a329dc862a9602/master.m3u8"
+        },
         "StreamHG": {
           "3226-malep-17_otakuhg_sub": "https://otakuhg.site/e/7ynief8jcf2n",
           "3226-malep-17_otakuhg_sub_m3u8": null
