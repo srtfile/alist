@@ -4,14 +4,40 @@
   "slug": "lovely-complex",
   "mal_id": 2034,
   "total_episodes": 24,
-  "captured_at": "2026-06-09T05:07:11",
+  "captured_at": "2026-06-11T04:50:40",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "Freshman Year Summer! I'll Definitely Find a Boyfriend!",
       "episode_url": "https://hianime.ad/watch/lovely-complex/ep-1",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "2034-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f9d1f21da4bcdcb",
+          "2034-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f9d1f21da4bcdcb/master.m3u8"
+        },
+        "StreamHG": {
+          "2034-malep-1_otakuhg_sub": "https://otakuhg.site/e/p6xis4pbnmoa",
+          "2034-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2034-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b3sadjan5t5r",
+          "2034-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2034-malep-1_vibeplayer_dub": "https://vibeplayer.site/8596fe202d9531ec",
+          "2034-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8596fe202d9531ec/master.m3u8"
+        },
+        "StreamHG": {
+          "2034-malep-1_otakuhg_dub": "https://otakuhg.site/e/flc0z3sc39s8",
+          "2034-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2034-malep-1_otakuvid_dub": "https://otakuvid.online/embed/iw8pc8ayz4uf",
+          "2034-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
