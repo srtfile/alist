@@ -4,7 +4,7 @@
   "slug": "legends-of-the-dark-king-a-fist-of-the-north-star-story",
   "mal_id": 4549,
   "total_episodes": 13,
-  "captured_at": "2026-06-09T03:33:59",
+  "captured_at": "2026-06-11T03:35:31",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -474,44 +474,9 @@
     {
       "episode_title": "I Walk the Path of the Heavens!",
       "episode_url": "https://hianime.ad/watch/legends-of-the-dark-king-a-fist-of-the-north-star-story/ep-13",
-      "sub": {
-        "HD-1": {
-          "4549-malep-13_vibeplayer_sub": "https://vibeplayer.site/564b72db903f4761",
-          "4549-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/564b72db903f4761/master.m3u8"
-        },
-        "StreamHG": {
-          "4549-malep-13_otakuhg_sub": "https://otakuhg.site/e/9v6g1q7qjctq",
-          "4549-malep-13_otakuhg_sub_m3u8": null
-        },
-        "Earnvids": {
-          "4549-malep-13_otakuvid_sub": "https://otakuvid.online/embed/k21tggzut7e6",
-          "4549-malep-13_otakuvid_sub_m3u8": null
-        }
-      },
-      "dub": {
-        "HD-1": {
-          "4549-malep-13_vibeplayer_dub": "https://vibeplayer.site/0125dc704b768bb6",
-          "4549-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0125dc704b768bb6/master.m3u8"
-        },
-        "StreamHG": {
-          "4549-malep-13_otakuhg_dub": "https://otakuhg.site/e/qxjuvl6vahqk",
-          "4549-malep-13_otakuhg_dub_m3u8": null
-        },
-        "Earnvids": {
-          "4549-malep-13_otakuvid_dub": "https://otakuvid.online/embed/djq5cbg1c1wo",
-          "4549-malep-13_otakuvid_dub_m3u8": null
-        }
-      },
-      "hsub": {
-        "HD-1": {
-          "4549-malep-13_vibeplayer_hsub": "https://vibeplayer.site/3be7d0ac38b09203",
-          "4549-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3be7d0ac38b09203/master.m3u8"
-        },
-        "Earnvids": {
-          "4549-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/9812xrhvqhm7",
-          "4549-malep-13_otakuvid_hsub_m3u8": null
-        }
-      }
+      "sub": {},
+      "dub": {},
+      "hsub": {}
     }
   ]
 }
