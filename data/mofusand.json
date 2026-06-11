@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/mofusand",
   "slug": "mofusand",
   "mal_id": null,
-  "total_episodes": 21,
-  "captured_at": "2026-06-06T07:48:34",
+  "total_episodes": 22,
+  "captured_at": "2026-06-11T08:07:33",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -68,6 +68,10 @@
           "malep-3_vibeplayer_raw": "https://vibeplayer.site/abb7a49261730aec",
           "malep-3_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/abb7a49261730aec/master.m3u8"
         },
+        "StreamHG": {
+          "malep-3_otakuhg_raw": "https://otakuhg.site/e/dm1p2ii6nj01",
+          "malep-3_otakuhg_raw_m3u8": null
+        },
         "Earnvids": {
           "malep-3_otakuvid_raw": "https://otakuvid.online/embed/qf84t38eot6w",
           "malep-3_otakuvid_raw_m3u8": null
@@ -88,6 +92,10 @@
         "HD-1": {
           "malep-4_vibeplayer_raw": "https://vibeplayer.site/fd3c8898bb241906",
           "malep-4_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/fd3c8898bb241906/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_raw": "https://otakuhg.site/e/ad1wlltj14to",
+          "malep-4_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
           "malep-4_otakuvid_raw": "https://otakuvid.online/embed/73000wa4glou",
@@ -185,6 +193,10 @@
           "malep-8_vibeplayer_raw": "https://vibeplayer.site/2ec4c6d1c492248a",
           "malep-8_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2ec4c6d1c492248a/master.m3u8"
         },
+        "StreamHG": {
+          "malep-8_otakuhg_raw": "https://otakuhg.site/e/hitiyxnjar28",
+          "malep-8_otakuhg_raw_m3u8": null
+        },
         "Earnvids": {
           "malep-8_otakuvid_raw": "https://otakuvid.online/embed/sn3czzdffn0k",
           "malep-8_otakuvid_raw_m3u8": null
@@ -231,6 +243,10 @@
           "malep-10_vibeplayer_raw": "https://vibeplayer.site/1ea5203629a18cbd",
           "malep-10_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/1ea5203629a18cbd/master.m3u8"
         },
+        "StreamHG": {
+          "malep-10_otakuhg_raw": "https://otakuhg.site/e/jsq4xc53onzd",
+          "malep-10_otakuhg_raw_m3u8": null
+        },
         "Earnvids": {
           "malep-10_otakuvid_raw": "https://otakuvid.online/embed/khsmz0idto8v",
           "malep-10_otakuvid_raw_m3u8": null
@@ -251,6 +267,10 @@
         "HD-1": {
           "malep-11_vibeplayer_raw": "https://vibeplayer.site/2415f04f9bd4d7a6",
           "malep-11_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2415f04f9bd4d7a6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_raw": "https://otakuhg.site/e/shuuo98gjf2m",
+          "malep-11_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
           "malep-11_otakuvid_raw": "https://otakuvid.online/embed/6mkpjtmybbdg",
@@ -298,6 +318,10 @@
           "malep-13_vibeplayer_raw": "https://vibeplayer.site/6724b1775180e558",
           "malep-13_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/6724b1775180e558/master.m3u8"
         },
+        "StreamHG": {
+          "malep-13_otakuhg_raw": "https://otakuhg.site/e/il9t27wmfsph",
+          "malep-13_otakuhg_raw_m3u8": null
+        },
         "Earnvids": {
           "malep-13_otakuvid_raw": "https://otakuvid.online/embed/6ipph75eghse",
           "malep-13_otakuvid_raw_m3u8": null
@@ -318,6 +342,10 @@
         "HD-1": {
           "malep-14_vibeplayer_raw": "https://vibeplayer.site/45d0bfe6e35a1a5a",
           "malep-14_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/45d0bfe6e35a1a5a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_raw": "https://otakuhg.site/e/gm19sims6xbq",
+          "malep-14_otakuhg_raw_m3u8": null
         },
         "Earnvids": {
           "malep-14_otakuvid_raw": "https://otakuvid.online/embed/fsq8328n4kl4",
@@ -440,6 +468,10 @@
           "malep-19_vibeplayer_raw": "https://vibeplayer.site/3c1283243b9c4325",
           "malep-19_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/3c1283243b9c4325/master.m3u8"
         },
+        "StreamHG": {
+          "malep-19_otakuhg_raw": "https://otakuhg.site/e/lh71pss2rx8q",
+          "malep-19_otakuhg_raw_m3u8": null
+        },
         "Earnvids": {
           "malep-19_otakuvid_raw": "https://otakuvid.online/embed/r2npayaygaiz",
           "malep-19_otakuvid_raw_m3u8": null
@@ -497,6 +529,31 @@
         "Doodstream": {
           "malep-21_playmogo_raw": "https://playmogo.com/e/y8q5x7ua1euy",
           "malep-21_playmogo_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/mofusand/ep-23",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-23_vibeplayer_raw": "https://vibeplayer.site/3aa4074b65e0342a",
+          "malep-23_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/3aa4074b65e0342a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_raw": "https://otakuhg.site/e/k132ui1ts01k",
+          "malep-23_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_raw": "https://otakuvid.online/embed/ragnfk93ja4v",
+          "malep-23_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_raw": "https://playmogo.com/e/va4vvlprmrzd",
+          "malep-23_playmogo_raw_m3u8": null
         }
       }
     }
