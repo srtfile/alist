@@ -4,13 +4,17 @@
   "slug": "kurokos-basketball",
   "mal_id": 11771,
   "total_episodes": 25,
-  "captured_at": "2026-06-09T02:41:22",
+  "captured_at": "2026-06-11T02:53:38",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "I Am Kuroko",
       "episode_url": "https://hianime.ad/watch/kurokos-basketball/ep-1",
       "sub": {
+        "HD-1": {
+          "11771-malep-1_vibeplayer_sub": "https://vibeplayer.site/2e113fc0368a583c",
+          "11771-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e113fc0368a583c/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-1_otakuhg_sub": "https://otakuhg.site/e/fkoka6r5ss2n",
           "11771-malep-1_otakuhg_sub_m3u8": null
@@ -369,6 +373,10 @@
         }
       },
       "dub": {
+        "HD-1": {
+          "11771-malep-10_vibeplayer_dub": "https://vibeplayer.site/b8116837f42b1ca6",
+          "11771-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b8116837f42b1ca6/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-10_otakuhg_dub": "https://otakuhg.site/e/1sxgkz6ucgls",
           "11771-malep-10_otakuhg_dub_m3u8": null
@@ -633,6 +641,10 @@
       "episode_title": "You're All Ridiculous",
       "episode_url": "https://hianime.ad/watch/kurokos-basketball/ep-17",
       "sub": {
+        "HD-1": {
+          "11771-malep-17_vibeplayer_sub": "https://vibeplayer.site/a09297191700edd5",
+          "11771-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a09297191700edd5/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-17_otakuhg_sub": "https://otakuhg.site/e/ah2ny59suz9s",
           "11771-malep-17_otakuhg_sub_m3u8": null
@@ -712,6 +724,10 @@
       "episode_title": "On to a New Challenge",
       "episode_url": "https://hianime.ad/watch/kurokos-basketball/ep-19",
       "sub": {
+        "HD-1": {
+          "11771-malep-19_vibeplayer_sub": "https://vibeplayer.site/b73fcaa71f9a415d",
+          "11771-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b73fcaa71f9a415d/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-19_otakuhg_sub": "https://otakuhg.site/e/9oalyml1djaw",
           "11771-malep-19_otakuhg_sub_m3u8": null
@@ -791,6 +807,10 @@
       "episode_title": "Let's Get Started",
       "episode_url": "https://hianime.ad/watch/kurokos-basketball/ep-21",
       "sub": {
+        "HD-1": {
+          "11771-malep-21_vibeplayer_sub": "https://vibeplayer.site/49f4af2cd91208bf",
+          "11771-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49f4af2cd91208bf/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-21_otakuhg_sub": "https://otakuhg.site/e/svxmhsbu3ebt",
           "11771-malep-21_otakuhg_sub_m3u8": null
@@ -917,6 +937,10 @@
         }
       },
       "dub": {
+        "HD-1": {
+          "11771-malep-24_vibeplayer_dub": "https://vibeplayer.site/27ae3966fda1ef68",
+          "11771-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/27ae3966fda1ef68/master.m3u8"
+        },
         "StreamHG": {
           "11771-malep-24_otakuhg_dub": "https://otakuhg.site/e/6hlcvxztxa62",
           "11771-malep-24_otakuhg_dub_m3u8": null
