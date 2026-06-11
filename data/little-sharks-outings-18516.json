@@ -4,7 +4,7 @@
   "slug": "little-sharks-outings-18516",
   "mal_id": 33489,
   "total_episodes": 67,
-  "captured_at": "2026-06-09T04:23:29",
+  "captured_at": "2026-06-11T04:16:01",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -568,9 +568,31 @@
     {
       "episode_title": "Cavendish",
       "episode_url": "https://hianime.ad/watch/little-sharks-outings-18516/ep-19",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "33489-malep-19_vibeplayer_sub": "https://vibeplayer.site/7800366efc5390d2",
+          "33489-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7800366efc5390d2/master.m3u8"
+        },
+        "Earnvids": {
+          "33489-malep-19_otakuvid_sub": "https://otakuvid.online/embed/6adrk5dz33wu",
+          "33489-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "33489-malep-19_vibeplayer_hsub": "https://vibeplayer.site/d90ba98c09620a12",
+          "33489-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d90ba98c09620a12/master.m3u8"
+        },
+        "Earnvids": {
+          "33489-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/0oym64e2yz81",
+          "33489-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33489-malep-19_playmogo_hsub": "https://playmogo.com/e/jn2t4d444s0w",
+          "33489-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Sense and Sensibility",
