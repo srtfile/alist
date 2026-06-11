@@ -4,7 +4,7 @@
   "slug": "konosuba-gods-blessing-on-this-wonderful-world-3",
   "mal_id": 49458,
   "total_episodes": 11,
-  "captured_at": "2026-06-09T02:24:19",
+  "captured_at": "2026-06-11T02:40:23",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -64,7 +64,20 @@
     {
       "episode_title": "A Smile for This Dour Girl!",
       "episode_url": "https://hianime.ad/watch/konosuba-gods-blessing-on-this-wonderful-world-3/ep-2",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "49458-malep-2_vibeplayer_sub": "https://vibeplayer.site/cf9b8176aa2b5701",
+          "49458-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf9b8176aa2b5701/master.m3u8"
+        },
+        "Earnvids": {
+          "49458-malep-2_otakuvid_sub": "https://otakuvid.online/embed/z779mhryw3av",
+          "49458-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49458-malep-2_playmogo_sub": "https://playmogo.com/e/wdtdgc0bun4b",
+          "49458-malep-2_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {
         "HD-1": {
           "49458-malep-2_vibeplayer_dub": "https://vibeplayer.site/7d227945ba8b1800",
