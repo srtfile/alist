@@ -4,7 +4,7 @@
   "slug": "mobile-suit-gundam-iron-blooded-orphans-2nd-season",
   "mal_id": 33051,
   "total_episodes": 25,
-  "captured_at": "2026-06-06T07:42:59",
+  "captured_at": "2026-06-11T08:02:13",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -225,6 +225,10 @@
         }
       },
       "dub": {
+        "HD-1": {
+          "33051-malep-6_vibeplayer_dub": "https://vibeplayer.site/91c4a4e4cef32c49",
+          "33051-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/91c4a4e4cef32c49/master.m3u8"
+        },
         "StreamHG": {
           "33051-malep-6_otakuhg_dub": "https://otakuhg.site/e/irq8hil58wv7",
           "33051-malep-6_otakuhg_dub_m3u8": null
@@ -490,6 +494,10 @@
       "episode_title": "Hunter of Angels",
       "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-iron-blooded-orphans-2nd-season/ep-13",
       "sub": {
+        "HD-1": {
+          "33051-malep-13_vibeplayer_sub": "https://vibeplayer.site/a1fdb424a37232e4",
+          "33051-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a1fdb424a37232e4/master.m3u8"
+        },
         "StreamHG": {
           "33051-malep-13_otakuhg_sub": "https://otakuhg.site/e/ior5vy53k8bv",
           "33051-malep-13_otakuhg_sub_m3u8": null
@@ -674,6 +682,10 @@
         }
       },
       "dub": {
+        "HD-1": {
+          "33051-malep-18_vibeplayer_dub": "https://vibeplayer.site/a867dc88356eb33a",
+          "33051-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a867dc88356eb33a/master.m3u8"
+        },
         "StreamHG": {
           "33051-malep-18_otakuhg_dub": "https://otakuhg.site/e/r8z5jcxqfvaw",
           "33051-malep-18_otakuhg_dub_m3u8": null
@@ -916,6 +928,10 @@
         }
       },
       "dub": {
+        "HD-1": {
+          "33051-malep-24_vibeplayer_dub": "https://vibeplayer.site/16e0303bf78b0b98",
+          "33051-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/16e0303bf78b0b98/master.m3u8"
+        },
         "StreamHG": {
           "33051-malep-24_otakuhg_dub": "https://otakuhg.site/e/pgkzjtryjrck",
           "33051-malep-24_otakuhg_dub_m3u8": null
