@@ -4,7 +4,7 @@
   "slug": "maria-watches-over-us-season-4",
   "mal_id": 3750,
   "total_episodes": 13,
-  "captured_at": "2026-06-08T06:53:20",
+  "captured_at": "2026-06-11T06:19:58",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -115,6 +115,10 @@
       "episode_title": "The Red Rose's Sigh",
       "episode_url": "https://hianime.ad/watch/maria-watches-over-us-season-4/ep-5",
       "sub": {
+        "HD-1": {
+          "3750-malep-5_vibeplayer_sub": "https://vibeplayer.site/f30b83be4c2cef4a",
+          "3750-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f30b83be4c2cef4a/master.m3u8"
+        },
         "Earnvids": {
           "3750-malep-5_otakuvid_sub": "https://otakuvid.online/embed/k41uml60sh36",
           "3750-malep-5_otakuvid_sub_m3u8": null
