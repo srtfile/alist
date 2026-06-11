@@ -4,7 +4,7 @@
   "slug": "mars-red",
   "mal_id": 41265,
   "total_episodes": 13,
-  "captured_at": "2026-06-08T07:01:27",
+  "captured_at": "2026-06-11T06:27:03",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -358,6 +358,10 @@
         "HD-1": {
           "41265-malep-9_vibeplayer_hsub": "https://vibeplayer.site/e6125d1e02b78f5f",
           "41265-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6125d1e02b78f5f/master.m3u8"
+        },
+        "StreamHG": {
+          "41265-malep-9_otakuhg_hsub": "https://otakuhg.site/e/41j181sohwcx",
+          "41265-malep-9_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "41265-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/vjvg2mre0tfo",
