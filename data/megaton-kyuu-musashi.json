@@ -4,7 +4,7 @@
   "slug": "megaton-kyuu-musashi",
   "mal_id": 33737,
   "total_episodes": 13,
-  "captured_at": "2026-06-08T07:39:03",
+  "captured_at": "2026-06-11T06:59:42",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -110,6 +110,10 @@
       "episode_title": "Cat Tactics",
       "episode_url": "https://hianime.ad/watch/megaton-kyuu-musashi/ep-4",
       "sub": {
+        "HD-1": {
+          "33737-malep-4_vibeplayer_sub": "https://vibeplayer.site/e2212b52ecfe2f64",
+          "33737-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2212b52ecfe2f64/master.m3u8"
+        },
         "Earnvids": {
           "33737-malep-4_otakuvid_sub": "https://otakuvid.online/embed/11p62413hy00",
           "33737-malep-4_otakuvid_sub_m3u8": null
