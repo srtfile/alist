@@ -4,7 +4,7 @@
   "slug": "loving-yamada-at-lv999",
   "mal_id": 53126,
   "total_episodes": 13,
-  "captured_at": "2026-06-09T05:09:20",
+  "captured_at": "2026-06-11T04:52:15",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -626,9 +626,52 @@
     {
       "episode_title": "In the Morning When I Wake Up",
       "episode_url": "https://hianime.ad/watch/loving-yamada-at-lv999/ep-13",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "53126-malep-13_vibeplayer_sub": "https://vibeplayer.site/83ad31b700ad1720",
+          "53126-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/83ad31b700ad1720/master.m3u8"
+        },
+        "StreamHG": {
+          "53126-malep-13_otakuhg_sub": "https://otakuhg.site/e/ebnhpqc4nlft",
+          "53126-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53126-malep-13_otakuvid_sub": "https://otakuvid.online/embed/sksqt7b80sjt",
+          "53126-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53126-malep-13_vibeplayer_dub": "https://vibeplayer.site/bff8e92df69f9b78",
+          "53126-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bff8e92df69f9b78/master.m3u8"
+        },
+        "StreamHG": {
+          "53126-malep-13_otakuhg_dub": "https://otakuhg.site/e/1212l1mn915o",
+          "53126-malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53126-malep-13_otakuvid_dub": "https://otakuvid.online/embed/joj5i93fyh47",
+          "53126-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53126-malep-13_vibeplayer_hsub": "https://vibeplayer.site/9caad3485120856d",
+          "53126-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9caad3485120856d/master.m3u8"
+        },
+        "StreamHG": {
+          "53126-malep-13_otakuhg_hsub": "https://otakuhg.site/e/cjoajee13tkz",
+          "53126-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53126-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/m8u6fqsxhn2r",
+          "53126-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53126-malep-13_playmogo_hsub": "https://playmogo.com/e/eqhcylsk91vm",
+          "53126-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
     }
   ]
 }
