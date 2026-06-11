@@ -4,7 +4,7 @@
   "slug": "legendary-brave-swordsman-yaiba",
   "mal_id": 2335,
   "total_episodes": 52,
-  "captured_at": "2026-06-09T03:30:30",
+  "captured_at": "2026-06-11T03:33:03",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -72,9 +72,31 @@
     {
       "episode_title": "Sword Of Raijin / Sword Of Fuujin",
       "episode_url": "https://hianime.ad/watch/legendary-brave-swordsman-yaiba/ep-3",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "2335-malep-3_vibeplayer_sub": "https://vibeplayer.site/86cca0869ddf22af",
+          "2335-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/86cca0869ddf22af/master.m3u8"
+        },
+        "Earnvids": {
+          "2335-malep-3_otakuvid_sub": "https://otakuvid.online/embed/ra895kyc6o33",
+          "2335-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "2335-malep-3_vibeplayer_hsub": "https://vibeplayer.site/b830eb9433b3b357",
+          "2335-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b830eb9433b3b357/master.m3u8"
+        },
+        "StreamHG": {
+          "2335-malep-3_otakuhg_hsub": "https://otakuhg.site/e/6av79kw2xbh2",
+          "2335-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2335-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/obpswqc9d70o",
+          "2335-malep-3_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Eight Demons: Frog Man's Assault",
