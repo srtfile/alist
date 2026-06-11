@@ -4,7 +4,7 @@
   "slug": "koupen-chan",
   "mal_id": 60534,
   "total_episodes": 54,
-  "captured_at": "2026-06-09T02:26:49",
+  "captured_at": "2026-06-11T02:42:29",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1206,9 +1206,43 @@
     {
       "episode_title": "Episode 37",
       "episode_url": "https://hianime.ad/watch/koupen-chan/ep-37",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "60534-malep-37_vibeplayer_sub": "https://vibeplayer.site/9be31d9cfc31acd8",
+          "60534-malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9be31d9cfc31acd8/master.m3u8"
+        },
+        "StreamHG": {
+          "60534-malep-37_otakuhg_sub": "https://otakuhg.site/e/vdeyaqb24av0",
+          "60534-malep-37_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60534-malep-37_otakuvid_sub": "https://otakuvid.online/embed/jnb4wgdwshfa",
+          "60534-malep-37_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60534-malep-37_playmogo_sub": "https://playmogo.com/e/6agflawfmip4",
+          "60534-malep-37_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "60534-malep-37_vibeplayer_hsub": "https://vibeplayer.site/f845634406cf1da2",
+          "60534-malep-37_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f845634406cf1da2/master.m3u8"
+        },
+        "StreamHG": {
+          "60534-malep-37_otakuhg_hsub": "https://otakuhg.site/e/0hxjvpcgwo8b",
+          "60534-malep-37_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60534-malep-37_otakuvid_hsub": "https://otakuvid.online/embed/h377n0dy6xjt",
+          "60534-malep-37_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60534-malep-37_playmogo_hsub": "https://playmogo.com/e/wj8dzsaif47f",
+          "60534-malep-37_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 38",
