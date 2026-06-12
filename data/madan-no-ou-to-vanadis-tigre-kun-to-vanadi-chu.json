@@ -4,7 +4,7 @@
   "slug": "madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu",
   "mal_id": 24455,
   "total_episodes": 13,
-  "captured_at": "2026-06-11T05:19:09",
+  "captured_at": "2026-06-12T06:23:41",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -101,31 +101,9 @@
     {
       "episode_title": "Snow Princess of the Frozen Ripple",
       "episode_url": "https://hianime.ad/watch/madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu/ep-4",
-      "sub": {
-        "HD-1": {
-          "24455-malep-4_vibeplayer_sub": "https://vibeplayer.site/f989dff59c6c8ee3",
-          "24455-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f989dff59c6c8ee3/master.m3u8"
-        },
-        "Earnvids": {
-          "24455-malep-4_otakuvid_sub": "https://otakuvid.online/embed/zbtqgnum7t2e",
-          "24455-malep-4_otakuvid_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "24455-malep-4_vibeplayer_hsub": "https://vibeplayer.site/e654d5e27dbade55",
-          "24455-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e654d5e27dbade55/master.m3u8"
-        },
-        "Earnvids": {
-          "24455-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/62b1tvn8mtiu",
-          "24455-malep-4_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "24455-malep-4_playmogo_hsub": "https://playmogo.com/e/do7863977rkf",
-          "24455-malep-4_playmogo_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "The Storming of the Tatra Mountains",
