@@ -4,7 +4,7 @@
   "slug": "legend-of-supreme-soldier",
   "mal_id": 48441,
   "total_episodes": 26,
-  "captured_at": "2026-06-11T03:26:53",
+  "captured_at": "2026-06-12T03:50:25",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -176,9 +176,27 @@
     {
       "episode_title": "The Truth Coated in Lead",
       "episode_url": "https://hianime.ad/watch/legend-of-supreme-soldier/ep-7",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "48441-malep-7_vibeplayer_sub": "https://vibeplayer.site/215953c7162589eb",
+          "48441-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/215953c7162589eb/master.m3u8"
+        },
+        "Earnvids": {
+          "48441-malep-7_otakuvid_sub": "https://otakuvid.online/embed/o5awm09u9j7o",
+          "48441-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "48441-malep-7_vibeplayer_hsub": "https://vibeplayer.site/3df33802444d72fa",
+          "48441-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3df33802444d72fa/master.m3u8"
+        },
+        "Earnvids": {
+          "48441-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/nwhkodvq7tbt",
+          "48441-malep-7_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Pale White Castle at a Crossroads",
