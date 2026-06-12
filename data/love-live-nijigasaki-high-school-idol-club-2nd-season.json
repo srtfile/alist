@@ -4,7 +4,7 @@
   "slug": "love-live-nijigasaki-high-school-idol-club-2nd-season",
   "mal_id": 48916,
   "total_episodes": 13,
-  "captured_at": "2026-06-11T04:39:49",
+  "captured_at": "2026-06-12T05:30:06",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -34,6 +34,10 @@
         "HD-1": {
           "48916-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f03c8f745c292335",
           "48916-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f03c8f745c292335/master.m3u8"
+        },
+        "StreamHG": {
+          "48916-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1oonov5nf3hf",
+          "48916-malep-1_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "48916-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gn9ym3qg9jjy",
