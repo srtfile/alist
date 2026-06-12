@@ -4,7 +4,7 @@
   "slug": "major-s1",
   "mal_id": 627,
   "total_episodes": 26,
-  "captured_at": "2026-06-11T06:01:50",
+  "captured_at": "2026-06-12T07:21:08",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -626,9 +626,31 @@
     {
       "episode_title": "Chase It! Ovecome It!",
       "episode_url": "https://hianime.ad/watch/major-s1/ep-24",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "627-malep-24_vibeplayer_sub": "https://vibeplayer.site/945eb4bbae9de52c",
+          "627-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/945eb4bbae9de52c/master.m3u8"
+        },
+        "StreamHG": {
+          "627-malep-24_otakuhg_sub": "https://otakuhg.site/e/ok7c1um6mt98",
+          "627-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "627-malep-24_otakuvid_sub": "https://otakuvid.online/embed/p9ml6rg3m6wl",
+          "627-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "627-malep-24_vibeplayer_hsub": "https://vibeplayer.site/e627f330ea2a1604",
+          "627-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e627f330ea2a1604/master.m3u8"
+        },
+        "Earnvids": {
+          "627-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/ju4ujr7dmvcq",
+          "627-malep-24_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Everyone Together",
