@@ -4,7 +4,7 @@
   "slug": "kirakira-happyhirake-cocotama",
   "mal_id": 37968,
   "total_episodes": 55,
-  "captured_at": "2026-06-11T02:12:52",
+  "captured_at": "2026-06-12T02:09:32",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -966,9 +966,31 @@
     {
       "episode_title": "Episode 33",
       "episode_url": "https://hianime.ad/watch/kirakira-happyhirake-cocotama/ep-33",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "37968-malep-33_vibeplayer_sub": "https://vibeplayer.site/1d1cdd9999d4be7e",
+          "37968-malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1d1cdd9999d4be7e/master.m3u8"
+        },
+        "Earnvids": {
+          "37968-malep-33_otakuvid_sub": "https://otakuvid.online/embed/l6ujc9z5cpa9",
+          "37968-malep-33_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "37968-malep-33_vibeplayer_hsub": "https://vibeplayer.site/55ec4fe071da963b",
+          "37968-malep-33_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55ec4fe071da963b/master.m3u8"
+        },
+        "Earnvids": {
+          "37968-malep-33_otakuvid_hsub": "https://otakuvid.online/embed/thpeag77ifsz",
+          "37968-malep-33_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37968-malep-33_playmogo_hsub": "https://playmogo.com/e/nue70lua00r7",
+          "37968-malep-33_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 34",
