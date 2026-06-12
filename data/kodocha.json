@@ -4,7 +4,7 @@
   "slug": "kodocha",
   "mal_id": 1486,
   "total_episodes": 102,
-  "captured_at": "2026-06-11T02:30:24",
+  "captured_at": "2026-06-12T02:30:52",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1334,44 +1334,9 @@
     {
       "episode_title": "Karate and Trumpet Compete for a Kiss",
       "episode_url": "https://hianime.ad/watch/kodocha/ep-37",
-      "sub": {
-        "HD-1": {
-          "1486-malep-37_vibeplayer_sub": "https://vibeplayer.site/ff2b7b52194675ab",
-          "1486-malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff2b7b52194675ab/master.m3u8"
-        },
-        "Earnvids": {
-          "1486-malep-37_otakuvid_sub": "https://otakuvid.online/embed/dz3e3h9nfyvu",
-          "1486-malep-37_otakuvid_sub_m3u8": null
-        }
-      },
-      "dub": {
-        "HD-1": {
-          "1486-malep-37_vibeplayer_dub": "https://vibeplayer.site/ddbc1a75f135ab76",
-          "1486-malep-37_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ddbc1a75f135ab76/master.m3u8"
-        },
-        "Earnvids": {
-          "1486-malep-37_otakuvid_dub": "https://otakuvid.online/embed/2kv0vggi3jsr",
-          "1486-malep-37_otakuvid_dub_m3u8": null
-        }
-      },
-      "hsub": {
-        "HD-1": {
-          "1486-malep-37_vibeplayer_hsub": "https://vibeplayer.site/9b7a1401f7c483e3",
-          "1486-malep-37_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b7a1401f7c483e3/master.m3u8"
-        },
-        "StreamHG": {
-          "1486-malep-37_otakuhg_hsub": "https://otakuhg.site/e/e1xfe1ff32wd",
-          "1486-malep-37_otakuhg_hsub_m3u8": null
-        },
-        "Earnvids": {
-          "1486-malep-37_otakuvid_hsub": "https://otakuvid.online/embed/6u1zy74hrb64",
-          "1486-malep-37_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "1486-malep-37_playmogo_hsub": "https://playmogo.com/e/a1j69z5uvwhk",
-          "1486-malep-37_playmogo_hsub_m3u8": null
-        }
-      }
+      "sub": {},
+      "dub": {},
+      "hsub": {}
     },
     {
       "episode_title": "The Special Christmas Kiss",
@@ -2491,31 +2456,9 @@
     {
       "episode_title": "Mother's gleeful practical joke",
       "episode_url": "https://hianime.ad/watch/kodocha/ep-74",
-      "sub": {
-        "HD-1": {
-          "1486-malep-74_vibeplayer_sub": "https://vibeplayer.site/d3c68a7489639715",
-          "1486-malep-74_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3c68a7489639715/master.m3u8"
-        },
-        "Earnvids": {
-          "1486-malep-74_otakuvid_sub": "https://otakuvid.online/embed/oa0gh1dh6mc8",
-          "1486-malep-74_otakuvid_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "1486-malep-74_vibeplayer_hsub": "https://vibeplayer.site/71510f00e130c6ac",
-          "1486-malep-74_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71510f00e130c6ac/master.m3u8"
-        },
-        "Earnvids": {
-          "1486-malep-74_otakuvid_hsub": "https://otakuvid.online/embed/ao4ccza2z5s6",
-          "1486-malep-74_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "1486-malep-74_playmogo_hsub": "https://playmogo.com/e/52xhguvs2fjf",
-          "1486-malep-74_playmogo_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "Where in Manhattan is my daughter?",
