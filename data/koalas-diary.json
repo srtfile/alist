@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/koalas-diary",
   "slug": "koalas-diary",
   "mal_id": 52964,
-  "total_episodes": 35,
-  "captured_at": "2026-06-11T02:27:28",
+  "total_episodes": 36,
+  "captured_at": "2026-06-12T02:27:42",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1331,6 +1331,39 @@
         "Doodstream": {
           "52964-malep-35_playmogo_hsub": "https://playmogo.com/e/oxcoawr3s63l",
           "52964-malep-35_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 36",
+      "episode_url": "https://hianime.ad/watch/koalas-diary/ep-36",
+      "sub": {
+        "StreamHG": {
+          "52964-malep-36_otakuhg_sub": "https://otakuhg.site/e/44l1vf9mlsqi",
+          "52964-malep-36_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52964-malep-36_otakuvid_sub": "https://otakuvid.online/embed/dy8fngr2ngcj",
+          "52964-malep-36_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "52964-malep-36_playmogo_sub": "https://playmogo.com/e/iqxdmvz1velm",
+          "52964-malep-36_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "StreamHG": {
+          "52964-malep-36_otakuhg_hsub": "https://otakuhg.site/e/u70k4wvcpt7l",
+          "52964-malep-36_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52964-malep-36_otakuvid_hsub": "https://otakuvid.online/embed/whdiqwv7r2ps",
+          "52964-malep-36_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52964-malep-36_playmogo_hsub": "https://playmogo.com/e/bi1125tojl0j",
+          "52964-malep-36_playmogo_hsub_m3u8": null
         }
       }
     }
