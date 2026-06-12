@@ -4,7 +4,7 @@
   "slug": "magia-record-puella-magi-madoka-magica-side-story",
   "mal_id": 38256,
   "total_episodes": 13,
-  "captured_at": "2026-06-11T05:25:56",
+  "captured_at": "2026-06-12T06:32:58",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -465,48 +465,9 @@
     {
       "episode_title": "Memory Museum at 3:00 PM",
       "episode_url": "https://hianime.ad/watch/magia-record-puella-magi-madoka-magica-side-story/ep-11",
-      "sub": {
-        "HD-1": {
-          "38256-malep-11_vibeplayer_sub": "https://vibeplayer.site/793f623f276da720",
-          "38256-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/793f623f276da720/master.m3u8"
-        },
-        "Earnvids": {
-          "38256-malep-11_otakuvid_sub": "https://otakuvid.online/embed/oh6wg2z3pn0m",
-          "38256-malep-11_otakuvid_sub_m3u8": null
-        }
-      },
-      "dub": {
-        "HD-1": {
-          "38256-malep-11_vibeplayer_dub": "https://vibeplayer.site/51496c338bce70d8",
-          "38256-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/51496c338bce70d8/master.m3u8"
-        },
-        "StreamHG": {
-          "38256-malep-11_otakuhg_dub": "https://otakuhg.site/e/h958wqldvnxt",
-          "38256-malep-11_otakuhg_dub_m3u8": null
-        },
-        "Earnvids": {
-          "38256-malep-11_otakuvid_dub": "https://otakuvid.online/embed/m7is3353y0so",
-          "38256-malep-11_otakuvid_dub_m3u8": null
-        }
-      },
-      "hsub": {
-        "HD-1": {
-          "38256-malep-11_vibeplayer_hsub": "https://vibeplayer.site/92a924d4d9885cd2",
-          "38256-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/92a924d4d9885cd2/master.m3u8"
-        },
-        "StreamHG": {
-          "38256-malep-11_otakuhg_hsub": "https://otakuhg.site/e/g0v85j15jxdb",
-          "38256-malep-11_otakuhg_hsub_m3u8": null
-        },
-        "Earnvids": {
-          "38256-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/yxor1ajga7u2",
-          "38256-malep-11_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "38256-malep-11_playmogo_hsub": "https://playmogo.com/e/nb6i7wi75cdk",
-          "38256-malep-11_playmogo_hsub_m3u8": null
-        }
-      }
+      "sub": {},
+      "dub": {},
+      "hsub": {}
     },
     {
       "episode_title": "Why Is This So Unbearable?",
