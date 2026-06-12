@@ -4,7 +4,7 @@
   "slug": "little-sharks-day-out-season-2",
   "mal_id": 33489,
   "total_episodes": 9,
-  "captured_at": "2026-06-11T04:15:44",
+  "captured_at": "2026-06-12T04:58:08",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -55,6 +55,10 @@
         "HD-1": {
           "33489-malep-2_vibeplayer_sub": "https://vibeplayer.site/ca29a3684f63e276",
           "33489-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca29a3684f63e276/master.m3u8"
+        },
+        "StreamHG": {
+          "33489-malep-2_otakuhg_sub": "https://otakuhg.site/e/692l1zrszb2r",
+          "33489-malep-2_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
           "33489-malep-2_otakuvid_sub": "https://otakuvid.online/embed/8cv3v4tgviuc",
@@ -216,6 +220,10 @@
           "33489-malep-6_vibeplayer_sub": "https://vibeplayer.site/b8746b70c2206181",
           "33489-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8746b70c2206181/master.m3u8"
         },
+        "StreamHG": {
+          "33489-malep-6_otakuhg_sub": "https://otakuhg.site/e/8umnu0z3c57x",
+          "33489-malep-6_otakuhg_sub_m3u8": null
+        },
         "Earnvids": {
           "33489-malep-6_otakuvid_sub": "https://otakuvid.online/embed/qry6az0lgsp4",
           "33489-malep-6_otakuvid_sub_m3u8": null
@@ -230,6 +238,10 @@
         "HD-1": {
           "33489-malep-6_vibeplayer_hsub": "https://vibeplayer.site/d9dad42b61eea1a5",
           "33489-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d9dad42b61eea1a5/master.m3u8"
+        },
+        "StreamHG": {
+          "33489-malep-6_otakuhg_hsub": "https://otakuhg.site/e/jeqeozuipg1i",
+          "33489-malep-6_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "33489-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/10vva3wbkwys",
