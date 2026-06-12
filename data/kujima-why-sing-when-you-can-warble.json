@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/kujima-why-sing-when-you-can-warble",
   "slug": "kujima-why-sing-when-you-can-warble",
   "mal_id": 58832,
-  "total_episodes": 9,
-  "captured_at": "2026-06-11T02:48:19",
+  "total_episodes": 10,
+  "captured_at": "2026-06-12T02:57:36",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -373,6 +373,35 @@
         "Doodstream": {
           "58832-malep-9_playmogo_hsub": "https://playmogo.com/e/wh4yoxko1pxk",
           "58832-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/kujima-why-sing-when-you-can-warble/ep-10",
+      "sub": {
+        "Earnvids": {
+          "58832-malep-10_otakuvid_sub": "https://otakuvid.online/embed/ad5l66k98bpq",
+          "58832-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58832-malep-10_playmogo_sub": "https://playmogo.com/e/ljkwfq1aty53",
+          "58832-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "StreamHG": {
+          "58832-malep-10_otakuhg_hsub": "https://otakuhg.site/e/z01jqeca0jbh",
+          "58832-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58832-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/5c0nyeb0ccym",
+          "58832-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58832-malep-10_playmogo_hsub": "https://playmogo.com/e/2ivb7683su1z",
+          "58832-malep-10_playmogo_hsub_m3u8": null
         }
       }
     }
