@@ -4,7 +4,7 @@
   "slug": "magical-princess-minky-momo-hold-on-to-your-dreams",
   "mal_id": 5953,
   "total_episodes": 62,
-  "captured_at": "2026-06-11T05:40:52",
+  "captured_at": "2026-06-12T06:52:56",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1341,9 +1341,31 @@
     {
       "episode_title": "Young Witch: Star Wars!?",
       "episode_url": "https://hianime.ad/watch/magical-princess-minky-momo-hold-on-to-your-dreams/ep-49",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "5953-malep-49_vibeplayer_sub": "https://vibeplayer.site/d0eedcd7bd7aa681",
+          "5953-malep-49_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0eedcd7bd7aa681/master.m3u8"
+        },
+        "Earnvids": {
+          "5953-malep-49_otakuvid_sub": "https://otakuvid.online/embed/7uzdsogukhle",
+          "5953-malep-49_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "5953-malep-49_vibeplayer_hsub": "https://vibeplayer.site/826c945e60bef89f",
+          "5953-malep-49_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/826c945e60bef89f/master.m3u8"
+        },
+        "Earnvids": {
+          "5953-malep-49_otakuvid_hsub": "https://otakuvid.online/embed/pnchwknoqr53",
+          "5953-malep-49_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5953-malep-49_playmogo_hsub": "https://playmogo.com/e/vhz53uovr83g",
+          "5953-malep-49_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Happiness: Heave-Ho!",
