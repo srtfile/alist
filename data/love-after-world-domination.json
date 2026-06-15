@@ -4,7 +4,7 @@
   "slug": "love-after-world-domination",
   "mal_id": 48643,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T05:21:12",
+  "captured_at": "2026-06-15T04:46:13",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -403,9 +403,48 @@
     {
       "episode_title": "Atop the Kokutei Moon",
       "episode_url": "https://hianime.ad/watch/love-after-world-domination/ep-10",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "48643-malep-10_vibeplayer_sub": "https://vibeplayer.site/cbcf0999bce1247b",
+          "48643-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cbcf0999bce1247b/master.m3u8"
+        },
+        "Earnvids": {
+          "48643-malep-10_otakuvid_sub": "https://otakuvid.online/embed/wkf30fudp66v",
+          "48643-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48643-malep-10_vibeplayer_dub": "https://vibeplayer.site/72dee4128552e313",
+          "48643-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/72dee4128552e313/master.m3u8"
+        },
+        "StreamHG": {
+          "48643-malep-10_otakuhg_dub": "https://otakuhg.site/e/fylz8xqxec2d",
+          "48643-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48643-malep-10_otakuvid_dub": "https://otakuvid.online/embed/gjb54ovnh1bn",
+          "48643-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48643-malep-10_vibeplayer_hsub": "https://vibeplayer.site/d4b2ddc9fbc433f7",
+          "48643-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d4b2ddc9fbc433f7/master.m3u8"
+        },
+        "StreamHG": {
+          "48643-malep-10_otakuhg_hsub": "https://otakuhg.site/e/2ci11kvhguu5",
+          "48643-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48643-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/o61j3iwdq7eu",
+          "48643-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48643-malep-10_playmogo_hsub": "https://playmogo.com/e/qzhmfwynykrg",
+          "48643-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "What's the Point of Getting Closer?",
