@@ -4,7 +4,7 @@
   "slug": "knights-of-sidonia-battle-for-planet-nine",
   "mal_id": 24893,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T02:25:08",
+  "captured_at": "2026-06-15T02:28:54",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -273,8 +273,34 @@
     {
       "episode_title": "Rumbling",
       "episode_url": "https://hianime.ad/watch/knights-of-sidonia-battle-for-planet-nine/ep-7",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "24893-malep-7_vibeplayer_sub": "https://vibeplayer.site/006ece819988a6ac",
+          "24893-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/006ece819988a6ac/master.m3u8"
+        },
+        "StreamHG": {
+          "24893-malep-7_otakuhg_sub": "https://otakuhg.site/e/ecqduve9c64d",
+          "24893-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "24893-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ig4kybtx6vyc",
+          "24893-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "24893-malep-7_vibeplayer_dub": "https://vibeplayer.site/07a38678669db374",
+          "24893-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07a38678669db374/master.m3u8"
+        },
+        "StreamHG": {
+          "24893-malep-7_otakuhg_dub": "https://otakuhg.site/e/676e5p0t8qa0",
+          "24893-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "24893-malep-7_otakuvid_dub": "https://otakuvid.online/embed/esbc2qenj2xi",
+          "24893-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
