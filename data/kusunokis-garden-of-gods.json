@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/kusunokis-garden-of-gods",
   "slug": "kusunokis-garden-of-gods",
   "mal_id": 62050,
-  "total_episodes": 10,
-  "captured_at": "2026-06-12T03:11:30",
+  "total_episodes": 11,
+  "captured_at": "2026-06-15T03:04:50",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -414,6 +414,47 @@
         "Doodstream": {
           "62050-malep-10_playmogo_hsub": "https://playmogo.com/e/or9qjqx0jrrt",
           "62050-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/kusunokis-garden-of-gods/ep-11",
+      "sub": {
+        "HD-1": {
+          "62050-malep-11_vibeplayer_sub": "https://vibeplayer.site/152743ec9ab655e0",
+          "62050-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/152743ec9ab655e0/master.m3u8"
+        },
+        "StreamHG": {
+          "62050-malep-11_otakuhg_sub": "https://otakuhg.site/e/dw22azmw8yrn",
+          "62050-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "62050-malep-11_otakuvid_sub": "https://otakuvid.online/embed/wxotwy61umsg",
+          "62050-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "62050-malep-11_playmogo_sub": "https://playmogo.com/e/9ooztuc1mgw4",
+          "62050-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62050-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ae6678faa7e0da4b",
+          "62050-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae6678faa7e0da4b/master.m3u8"
+        },
+        "StreamHG": {
+          "62050-malep-11_otakuhg_hsub": "https://otakuhg.site/e/vok2vsjg49eb",
+          "62050-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "62050-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/yrdbfnyy97c5",
+          "62050-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62050-malep-11_playmogo_hsub": "https://playmogo.com/e/u24jdp502uys",
+          "62050-malep-11_playmogo_hsub_m3u8": null
         }
       }
     }
