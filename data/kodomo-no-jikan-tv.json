@@ -4,7 +4,7 @@
   "slug": "kodomo-no-jikan-tv",
   "mal_id": 2403,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T02:33:22",
+  "captured_at": "2026-06-15T02:35:20",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -47,9 +47,35 @@
     {
       "episode_title": "A Smiling Reward",
       "episode_url": "https://hianime.ad/watch/kodomo-no-jikan-tv/ep-2",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "2403-malep-2_vibeplayer_sub": "https://vibeplayer.site/36a00e3d4374e4fd",
+          "2403-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36a00e3d4374e4fd/master.m3u8"
+        },
+        "Earnvids": {
+          "2403-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vp7b2lf6apzq",
+          "2403-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "2403-malep-2_vibeplayer_hsub": "https://vibeplayer.site/bd5434f17a383360",
+          "2403-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd5434f17a383360/master.m3u8"
+        },
+        "StreamHG": {
+          "2403-malep-2_otakuhg_hsub": "https://otakuhg.site/e/ue28q7s83tdu",
+          "2403-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2403-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ntoh6e00n1w1",
+          "2403-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2403-malep-2_playmogo_hsub": "https://playmogo.com/e/kx9ige20x5ey",
+          "2403-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Rapid Upbringing",
