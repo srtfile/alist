@@ -4,7 +4,7 @@
   "slug": "kyoushirou-to-towa-no-sora-specials",
   "mal_id": 1810,
   "total_episodes": 6,
-  "captured_at": "2026-06-12T03:17:15",
+  "captured_at": "2026-06-15T03:09:44",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -76,9 +76,31 @@
     {
       "episode_title": "The Dancing Spiral",
       "episode_url": "https://hianime.ad/watch/kyoushirou-to-towa-no-sora-specials/ep-3",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "1810-malep-3_vibeplayer_sub": "https://vibeplayer.site/33f0174414b533c2",
+          "1810-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33f0174414b533c2/master.m3u8"
+        },
+        "Earnvids": {
+          "1810-malep-3_otakuvid_sub": "https://otakuvid.online/embed/av37z3a1q25c",
+          "1810-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "1810-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ffb885e96b34eb03",
+          "1810-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ffb885e96b34eb03/master.m3u8"
+        },
+        "Earnvids": {
+          "1810-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/7w0p818ec6if",
+          "1810-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1810-malep-3_playmogo_hsub": "https://playmogo.com/e/dw57whssdh6b",
+          "1810-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Fireflies of Love",
