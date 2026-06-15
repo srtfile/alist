@@ -4,7 +4,7 @@
   "slug": "lord-of-mysteries",
   "mal_id": 37601,
   "total_episodes": 13,
-  "captured_at": "2026-06-12T05:12:37",
+  "captured_at": "2026-06-15T04:38:49",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -698,6 +698,10 @@
         "Earnvids": {
           "37601-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/4d86gr326vhz",
           "37601-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37601-malep-13_playmogo_hsub": "https://playmogo.com/e/wl6qh0di5f9t",
+          "37601-malep-13_playmogo_hsub_m3u8": null
         }
       }
     }
