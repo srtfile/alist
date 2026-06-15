@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/magical-sisters-lulutto-lilly",
   "slug": "magical-sisters-lulutto-lilly",
   "mal_id": 59176,
-  "total_episodes": 7,
-  "captured_at": "2026-06-12T06:55:36",
+  "total_episodes": 8,
+  "captured_at": "2026-06-15T06:01:22",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -74,10 +74,6 @@
         "HD-1": {
           "59176-malep-2_vibeplayer_hsub": "https://vibeplayer.site/2c724ca15db9bfde",
           "59176-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c724ca15db9bfde/master.m3u8"
-        },
-        "StreamHG": {
-          "59176-malep-2_otakuhg_hsub": "https://otakuhg.site/e/9xsigmta4d5x",
-          "59176-malep-2_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "59176-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/kd4a8icyiyni",
@@ -291,6 +287,43 @@
         "Doodstream": {
           "59176-malep-9_playmogo_hsub": "https://playmogo.com/e/4jtjf2y2891p",
           "59176-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/magical-sisters-lulutto-lilly/ep-10",
+      "sub": {
+        "StreamHG": {
+          "59176-malep-10_otakuhg_sub": "https://otakuhg.site/e/z6xofvvir46l",
+          "59176-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59176-malep-10_otakuvid_sub": "https://otakuvid.online/embed/86cut8neb6pj",
+          "59176-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59176-malep-10_playmogo_sub": "https://playmogo.com/e/4pv11g46eqkk",
+          "59176-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59176-malep-10_vibeplayer_hsub": "https://vibeplayer.site/3f048da12342c19d",
+          "59176-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f048da12342c19d/master.m3u8"
+        },
+        "StreamHG": {
+          "59176-malep-10_otakuhg_hsub": "https://otakuhg.site/e/2ct5iteteth9",
+          "59176-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59176-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/nw42yrr2q0gb",
+          "59176-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59176-malep-10_playmogo_hsub": "https://playmogo.com/e/glhc1p2bhluf",
+          "59176-malep-10_playmogo_hsub_m3u8": null
         }
       }
     }
