@@ -4,7 +4,7 @@
   "slug": "little-women-ii-jos-boys",
   "mal_id": 2558,
   "total_episodes": 40,
-  "captured_at": "2026-06-12T05:02:27",
+  "captured_at": "2026-06-15T04:30:32",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -888,9 +888,31 @@
     {
       "episode_title": "Best way to use five dollars",
       "episode_url": "https://hianime.ad/watch/little-women-ii-jos-boys/ep-31",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "2558-malep-31_vibeplayer_sub": "https://vibeplayer.site/cbda78a07716a541",
+          "2558-malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cbda78a07716a541/master.m3u8"
+        },
+        "Earnvids": {
+          "2558-malep-31_otakuvid_sub": "https://otakuvid.online/embed/moc2aq7o3j7e",
+          "2558-malep-31_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "2558-malep-31_vibeplayer_hsub": "https://vibeplayer.site/a26324a84bcefed3",
+          "2558-malep-31_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a26324a84bcefed3/master.m3u8"
+        },
+        "Earnvids": {
+          "2558-malep-31_otakuvid_hsub": "https://otakuvid.online/embed/xb41qqhyvmf9",
+          "2558-malep-31_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2558-malep-31_playmogo_hsub": "https://playmogo.com/e/wicua0psj7n7",
+          "2558-malep-31_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "I want to be a doctor!",
