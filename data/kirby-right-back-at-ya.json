@@ -4,7 +4,7 @@
   "slug": "kirby-right-back-at-ya",
   "mal_id": 2390,
   "total_episodes": 70,
-  "captured_at": "2026-06-12T02:13:12",
+  "captured_at": "2026-06-15T02:19:10",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -417,9 +417,31 @@
     {
       "episode_title": "A Fish Called Kine",
       "episode_url": "https://hianime.ad/watch/kirby-right-back-at-ya/ep-16",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "2390-malep-16_vibeplayer_sub": "https://vibeplayer.site/d34ef5bd09dbba7d",
+          "2390-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d34ef5bd09dbba7d/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-16_otakuvid_sub": "https://otakuvid.online/embed/abgo880dojd2",
+          "2390-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "2390-malep-16_vibeplayer_hsub": "https://vibeplayer.site/ee9353dcb5d42971",
+          "2390-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee9353dcb5d42971/master.m3u8"
+        },
+        "StreamHG": {
+          "2390-malep-16_otakuhg_hsub": "https://otakuhg.site/e/f12cncf6wtm3",
+          "2390-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2390-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/9sja89nmhnm4",
+          "2390-malep-16_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Thing About the Ring",
