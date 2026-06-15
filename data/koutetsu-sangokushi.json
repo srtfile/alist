@@ -4,7 +4,7 @@
   "slug": "koutetsu-sangokushi",
   "mal_id": 2162,
   "total_episodes": 25,
-  "captured_at": "2026-06-12T02:52:11",
+  "captured_at": "2026-06-15T02:48:57",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -189,9 +189,27 @@
     {
       "episode_title": "Koumei Shoukatsuryou Inspires Sonken of Go with His Idea",
       "episode_url": "https://hianime.ad/watch/koutetsu-sangokushi/ep-8",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "2162-malep-8_vibeplayer_sub": "https://vibeplayer.site/ee683ce6f90bcd9e",
+          "2162-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee683ce6f90bcd9e/master.m3u8"
+        },
+        "Earnvids": {
+          "2162-malep-8_otakuvid_sub": "https://otakuvid.online/embed/81nbt1933qz6",
+          "2162-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "2162-malep-8_vibeplayer_hsub": "https://vibeplayer.site/29a7034adbe49530",
+          "2162-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29a7034adbe49530/master.m3u8"
+        },
+        "Earnvids": {
+          "2162-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/aflorbde3d5d",
+          "2162-malep-8_otakuvid_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Young Warriors Assemble at Koutou's Hills and Rivers for Training",
