@@ -2,37 +2,37 @@
   "anime_name": "Kurokos Basketball Movie 3 Winter Cup Highlights Crossing The Door",
   "anime_url": "https://hianime.ad/anime/kurokos-basketball-movie-3-winter-cup-highlights-crossing-the-door",
   "slug": "kurokos-basketball-movie-3-winter-cup-highlights-crossing-the-door",
-  "mal_id": 11771,
+  "mal_id": null,
   "total_episodes": 1,
-  "captured_at": "2026-06-12T03:07:13",
+  "captured_at": "2026-06-15T03:01:10",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "I Am Kuroko",
+      "episode_title": "Full",
       "episode_url": "https://hianime.ad/watch/kurokos-basketball-movie-3-winter-cup-highlights-crossing-the-door/ep-1",
       "sub": {
         "HD-1": {
-          "11771-malep-1_vibeplayer_sub": "https://vibeplayer.site/8fdd5f6207d6d69d",
-          "11771-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fdd5f6207d6d69d/master.m3u8"
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/8fdd5f6207d6d69d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fdd5f6207d6d69d/master.m3u8"
         },
         "StreamHG": {
-          "11771-malep-1_otakuhg_sub": "https://otakuhg.site/e/37ffzbl2cv74",
-          "11771-malep-1_otakuhg_sub_m3u8": null
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/37ffzbl2cv74",
+          "malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "11771-malep-1_otakuvid_sub": "https://otakuvid.online/embed/40au45rpr3nr",
-          "11771-malep-1_otakuvid_sub_m3u8": null
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/40au45rpr3nr",
+          "malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "11771-malep-1_vibeplayer_hsub": "https://vibeplayer.site/062695ed7a00c9cc",
-          "11771-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/062695ed7a00c9cc/master.m3u8"
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/062695ed7a00c9cc",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/062695ed7a00c9cc/master.m3u8"
         },
         "Earnvids": {
-          "11771-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5zphk6ixthld",
-          "11771-malep-1_otakuvid_hsub_m3u8": null
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5zphk6ixthld",
+          "malep-1_otakuvid_hsub_m3u8": null
         }
       }
     }
