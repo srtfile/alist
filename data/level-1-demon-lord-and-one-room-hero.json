@@ -4,7 +4,7 @@
   "slug": "level-1-demon-lord-and-one-room-hero",
   "mal_id": 51458,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T04:10:04",
+  "captured_at": "2026-06-15T03:51:06",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -60,9 +60,48 @@
     {
       "episode_title": "Beware the Glasses Girl",
       "episode_url": "https://hianime.ad/watch/level-1-demon-lord-and-one-room-hero/ep-2",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "51458-malep-2_vibeplayer_sub": "https://vibeplayer.site/2757e56ecc07fef4",
+          "51458-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2757e56ecc07fef4/master.m3u8"
+        },
+        "Earnvids": {
+          "51458-malep-2_otakuvid_sub": "https://otakuvid.online/embed/kjfxympxi4ls",
+          "51458-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51458-malep-2_vibeplayer_dub": "https://vibeplayer.site/e36a97ab54018373",
+          "51458-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e36a97ab54018373/master.m3u8"
+        },
+        "StreamHG": {
+          "51458-malep-2_otakuhg_dub": "https://otakuhg.site/e/y6tu7aw4fug4",
+          "51458-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "51458-malep-2_otakuvid_dub": "https://otakuvid.online/embed/vai0osxw6qqf",
+          "51458-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51458-malep-2_vibeplayer_hsub": "https://vibeplayer.site/2af2eb2df3a55b06",
+          "51458-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2af2eb2df3a55b06/master.m3u8"
+        },
+        "StreamHG": {
+          "51458-malep-2_otakuhg_hsub": "https://otakuhg.site/e/z3wbe3f3xe2w",
+          "51458-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51458-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/zywyx0npvme3",
+          "51458-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51458-malep-2_playmogo_hsub": "https://playmogo.com/e/tj6tf2sgvfra",
+          "51458-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Fred the Cleric",
