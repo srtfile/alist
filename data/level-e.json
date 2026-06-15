@@ -4,7 +4,7 @@
   "slug": "level-e",
   "mal_id": 9834,
   "total_episodes": 13,
-  "captured_at": "2026-06-12T04:10:49",
+  "captured_at": "2026-06-15T03:51:28",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -271,8 +271,30 @@
     {
       "episode_title": "Boy Meets Girl",
       "episode_url": "https://hianime.ad/watch/level-e/ep-10",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "9834-malep-10_vibeplayer_sub": "https://vibeplayer.site/1af8f1f04d2b0c74",
+          "9834-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1af8f1f04d2b0c74/master.m3u8"
+        },
+        "StreamHG": {
+          "9834-malep-10_otakuhg_sub": "https://otakuhg.site/e/fpjsc2xgzlt3",
+          "9834-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9834-malep-10_otakuvid_sub": "https://otakuvid.online/embed/g01w4y1tha0x",
+          "9834-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "9834-malep-10_vibeplayer_dub": "https://vibeplayer.site/3f9f60c409db776a",
+          "9834-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f9f60c409db776a/master.m3u8"
+        },
+        "Earnvids": {
+          "9834-malep-10_otakuvid_dub": "https://otakuvid.online/embed/1khr4l317duq",
+          "9834-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
