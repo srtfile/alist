@@ -4,15 +4,41 @@
   "slug": "left-hand-layup",
   "mal_id": 59730,
   "total_episodes": 7,
-  "captured_at": "2026-06-12T03:42:11",
+  "captured_at": "2026-06-15T03:28:52",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "Clover Is Born",
       "episode_url": "https://hianime.ad/watch/left-hand-layup/ep-1",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "59730-malep-1_vibeplayer_sub": "https://vibeplayer.site/1768e6ac7f5d6a73",
+          "59730-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1768e6ac7f5d6a73/master.m3u8"
+        },
+        "Earnvids": {
+          "59730-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t8hgsjgyjfnc",
+          "59730-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "59730-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3b985fcd22920a58",
+          "59730-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b985fcd22920a58/master.m3u8"
+        },
+        "StreamHG": {
+          "59730-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5hmf5ctejvi6",
+          "59730-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59730-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cfe3gsmnbl4u",
+          "59730-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59730-malep-1_playmogo_hsub": "https://playmogo.com/e/vlmioui5xu3b",
+          "59730-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Forest Where a Magic Beast Dwells",
