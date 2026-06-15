@@ -4,7 +4,7 @@
   "slug": "lemon-angel",
   "mal_id": 3205,
   "total_episodes": 37,
-  "captured_at": "2026-06-12T04:02:27",
+  "captured_at": "2026-06-15T03:44:58",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -171,9 +171,39 @@
     {
       "episode_title": "Goodbye City Angel",
       "episode_url": "https://hianime.ad/watch/lemon-angel/ep-6",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "3205-malep-6_vibeplayer_sub": "https://vibeplayer.site/39fd8f5aba12fe22",
+          "3205-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/39fd8f5aba12fe22/master.m3u8"
+        },
+        "StreamHG": {
+          "3205-malep-6_otakuhg_sub": "https://otakuhg.site/e/zqivx117xzab",
+          "3205-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3205-malep-6_otakuvid_sub": "https://otakuvid.online/embed/jviytewyvbd0",
+          "3205-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "3205-malep-6_vibeplayer_hsub": "https://vibeplayer.site/883b90a48f36ffb2",
+          "3205-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/883b90a48f36ffb2/master.m3u8"
+        },
+        "StreamHG": {
+          "3205-malep-6_otakuhg_hsub": "https://otakuhg.site/e/x8ic1on7cyie",
+          "3205-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3205-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/52xx5kqwb6hv",
+          "3205-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3205-malep-6_playmogo_hsub": "https://playmogo.com/e/b8pydfomp86c",
+          "3205-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Legend of the Red Light",
