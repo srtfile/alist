@@ -4,15 +4,41 @@
   "slug": "komada-a-whisky-family",
   "mal_id": 59027,
   "total_episodes": 1,
-  "captured_at": "2026-06-12T02:38:18",
+  "captured_at": "2026-06-15T02:38:54",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "Berlint Panic / The Informant and Nightfall",
       "episode_url": "https://hianime.ad/watch/komada-a-whisky-family/ep-1",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "59027-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f3675ce8bcdf487",
+          "59027-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f3675ce8bcdf487/master.m3u8"
+        },
+        "Earnvids": {
+          "59027-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zm1823s8lnng",
+          "59027-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "59027-malep-1_vibeplayer_hsub": "https://vibeplayer.site/55f0c51c7b908434",
+          "59027-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55f0c51c7b908434/master.m3u8"
+        },
+        "StreamHG": {
+          "59027-malep-1_otakuhg_hsub": "https://otakuhg.site/e/eylc6ry2dgdv",
+          "59027-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59027-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jiy1r5zdx06b",
+          "59027-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59027-malep-1_playmogo_hsub": "https://playmogo.com/e/qjnhtwdtw59x",
+          "59027-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
     }
   ]
 }
