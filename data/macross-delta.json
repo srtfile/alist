@@ -4,13 +4,26 @@
   "slug": "macross-delta",
   "mal_id": 28013,
   "total_episodes": 26,
-  "captured_at": "2026-06-12T06:19:05",
+  "captured_at": "2026-06-15T05:31:41",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "Prologue on the Battlefield",
       "episode_url": "https://hianime.ad/watch/macross-delta/ep-1",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "28013-malep-1_vibeplayer_sub": "https://vibeplayer.site/f047a9242a4ccc23",
+          "28013-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f047a9242a4ccc23/master.m3u8"
+        },
+        "StreamHG": {
+          "28013-malep-1_otakuhg_sub": "https://otakuhg.site/e/wj14b5nyttq8",
+          "28013-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28013-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mir06x4lf6xk",
+          "28013-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
       "hsub": {}
     },
