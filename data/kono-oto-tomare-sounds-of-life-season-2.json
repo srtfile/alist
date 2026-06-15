@@ -4,7 +4,7 @@
   "slug": "kono-oto-tomare-sounds-of-life-season-2",
   "mal_id": 38889,
   "total_episodes": 13,
-  "captured_at": "2026-06-12T02:43:02",
+  "captured_at": "2026-06-15T02:41:57",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -76,8 +76,30 @@
     {
       "episode_title": "Their Time",
       "episode_url": "https://hianime.ad/watch/kono-oto-tomare-sounds-of-life-season-2/ep-3",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "StreamHG": {
+          "38889-malep-3_otakuhg_sub": "https://otakuhg.site/e/yvy7xi5opptv",
+          "38889-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38889-malep-3_otakuvid_sub": "https://otakuvid.online/embed/tryqpv9k5js3",
+          "38889-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38889-malep-3_vibeplayer_dub": "https://vibeplayer.site/0fcf341083fb9b2f",
+          "38889-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0fcf341083fb9b2f/master.m3u8"
+        },
+        "StreamHG": {
+          "38889-malep-3_otakuhg_dub": "https://otakuhg.site/e/zw1o4cwrmfkp",
+          "38889-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "38889-malep-3_otakuvid_dub": "https://otakuvid.online/embed/20awv7k7t96y",
+          "38889-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
