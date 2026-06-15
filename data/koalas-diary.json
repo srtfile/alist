@@ -4,7 +4,7 @@
   "slug": "koalas-diary",
   "mal_id": 52964,
   "total_episodes": 36,
-  "captured_at": "2026-06-12T02:27:42",
+  "captured_at": "2026-06-15T02:30:51",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -603,10 +603,6 @@
           "52964-malep-17_vibeplayer_sub": "https://vibeplayer.site/758401dde07fac82",
           "52964-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/758401dde07fac82/master.m3u8"
         },
-        "StreamHG": {
-          "52964-malep-17_otakuhg_sub": "https://otakuhg.site/e/8227jm7cwkv5",
-          "52964-malep-17_otakuhg_sub_m3u8": null
-        },
         "Earnvids": {
           "52964-malep-17_otakuvid_sub": "https://otakuvid.online/embed/3ihfxv7o2878",
           "52964-malep-17_otakuvid_sub_m3u8": null
@@ -643,10 +639,6 @@
         "HD-1": {
           "52964-malep-18_vibeplayer_sub": "https://vibeplayer.site/ee3c19fb1c9d17b5",
           "52964-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee3c19fb1c9d17b5/master.m3u8"
-        },
-        "StreamHG": {
-          "52964-malep-18_otakuhg_sub": "https://otakuhg.site/e/m9g5ydp63dje",
-          "52964-malep-18_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
           "52964-malep-18_otakuvid_sub": "https://otakuvid.online/embed/yzbi54ikh6ry",
@@ -1096,10 +1088,6 @@
           "52964-malep-30_vibeplayer_sub": "https://vibeplayer.site/33473747bc1d41c0",
           "52964-malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33473747bc1d41c0/master.m3u8"
         },
-        "StreamHG": {
-          "52964-malep-30_otakuhg_sub": "https://otakuhg.site/e/7qxbbvuqdbly",
-          "52964-malep-30_otakuhg_sub_m3u8": null
-        },
         "Earnvids": {
           "52964-malep-30_otakuvid_sub": "https://otakuvid.online/embed/l2vuk4ltvuet",
           "52964-malep-30_otakuvid_sub_m3u8": null
@@ -1114,10 +1102,6 @@
         "HD-1": {
           "52964-malep-30_vibeplayer_hsub": "https://vibeplayer.site/89cc094adbeccadb",
           "52964-malep-30_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/89cc094adbeccadb/master.m3u8"
-        },
-        "StreamHG": {
-          "52964-malep-30_otakuhg_hsub": "https://otakuhg.site/e/xsv9p7e8bu2p",
-          "52964-malep-30_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "52964-malep-30_otakuvid_hsub": "https://otakuvid.online/embed/vhhb0labjz1u",
@@ -1338,6 +1322,10 @@
       "episode_title": "Episode 36",
       "episode_url": "https://hianime.ad/watch/koalas-diary/ep-36",
       "sub": {
+        "HD-1": {
+          "52964-malep-36_vibeplayer_sub": "https://vibeplayer.site/2b3f9df76d715002",
+          "52964-malep-36_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2b3f9df76d715002/master.m3u8"
+        },
         "StreamHG": {
           "52964-malep-36_otakuhg_sub": "https://otakuhg.site/e/44l1vf9mlsqi",
           "52964-malep-36_otakuhg_sub_m3u8": null
@@ -1353,6 +1341,10 @@
       },
       "dub": {},
       "hsub": {
+        "HD-1": {
+          "52964-malep-36_vibeplayer_hsub": "https://vibeplayer.site/73e594183341fd97",
+          "52964-malep-36_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/73e594183341fd97/master.m3u8"
+        },
         "StreamHG": {
           "52964-malep-36_otakuhg_hsub": "https://otakuhg.site/e/u70k4wvcpt7l",
           "52964-malep-36_otakuhg_hsub_m3u8": null
