@@ -4,7 +4,7 @@
   "slug": "kizuna-no-allele-season-2",
   "mal_id": 55775,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T02:22:33",
+  "captured_at": "2026-06-15T02:26:41",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -81,6 +81,10 @@
       "episode_title": "~A Seil Just For Me~",
       "episode_url": "https://hianime.ad/watch/kizuna-no-allele-season-2/ep-3",
       "sub": {
+        "HD-1": {
+          "55775-malep-3_vibeplayer_sub": "https://vibeplayer.site/54e4bacdf0e8f8c9",
+          "55775-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/54e4bacdf0e8f8c9/master.m3u8"
+        },
         "Earnvids": {
           "55775-malep-3_otakuvid_sub": "https://otakuvid.online/embed/e8t7dv31cp4m",
           "55775-malep-3_otakuvid_sub_m3u8": null
@@ -337,6 +341,10 @@
       "episode_title": "～Time Limit of Despair～",
       "episode_url": "https://hianime.ad/watch/kizuna-no-allele-season-2/ep-11",
       "sub": {
+        "HD-1": {
+          "55775-malep-11_vibeplayer_sub": "https://vibeplayer.site/1a7725ab3f82ef4c",
+          "55775-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a7725ab3f82ef4c/master.m3u8"
+        },
         "Earnvids": {
           "55775-malep-11_otakuvid_sub": "https://otakuvid.online/embed/wpxj7rxir15a",
           "55775-malep-11_otakuvid_sub_m3u8": null
