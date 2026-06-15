@@ -4,7 +4,7 @@
   "slug": "legend-of-xianwu",
   "mal_id": 48441,
   "total_episodes": 26,
-  "captured_at": "2026-06-12T03:55:21",
+  "captured_at": "2026-06-15T03:39:27",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -663,9 +663,31 @@
     {
       "episode_title": "Episode 22",
       "episode_url": "https://hianime.ad/watch/legend-of-xianwu/ep-22",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "48441-malep-22_vibeplayer_sub": "https://vibeplayer.site/d9d387414e626642",
+          "48441-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9d387414e626642/master.m3u8"
+        },
+        "Earnvids": {
+          "48441-malep-22_otakuvid_sub": "https://otakuvid.online/embed/p4ice5meir7e",
+          "48441-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "48441-malep-22_vibeplayer_hsub": "https://vibeplayer.site/0a32020e01e778f7",
+          "48441-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0a32020e01e778f7/master.m3u8"
+        },
+        "Earnvids": {
+          "48441-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/ias1qnoahb74",
+          "48441-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48441-malep-22_playmogo_hsub": "https://playmogo.com/e/wxjruv5wfrp3",
+          "48441-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 23",
