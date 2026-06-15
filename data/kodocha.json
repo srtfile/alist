@@ -4,7 +4,7 @@
   "slug": "kodocha",
   "mal_id": 1486,
   "total_episodes": 102,
-  "captured_at": "2026-06-12T02:30:52",
+  "captured_at": "2026-06-15T02:33:35",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1049,10 +1049,6 @@
           "1486-malep-28_vibeplayer_hsub": "https://vibeplayer.site/1717efccd8b88252",
           "1486-malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1717efccd8b88252/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-28_otakuhg_hsub": "https://otakuhg.site/e/eto5uwhihrfy",
-          "1486-malep-28_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-28_otakuvid_hsub": "https://otakuvid.online/embed/nr2a6sffpbxd",
           "1486-malep-28_otakuvid_hsub_m3u8": null
@@ -1250,10 +1246,6 @@
           "1486-malep-34_vibeplayer_hsub": "https://vibeplayer.site/f5e5c79d3068116e",
           "1486-malep-34_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f5e5c79d3068116e/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-34_otakuhg_hsub": "https://otakuhg.site/e/7xhzmf5g2mbm",
-          "1486-malep-34_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-34_otakuvid_hsub": "https://otakuvid.online/embed/9e6d43rv0kfg",
           "1486-malep-34_otakuvid_hsub_m3u8": null
@@ -1334,9 +1326,44 @@
     {
       "episode_title": "Karate and Trumpet Compete for a Kiss",
       "episode_url": "https://hianime.ad/watch/kodocha/ep-37",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "1486-malep-37_vibeplayer_sub": "https://vibeplayer.site/ff2b7b52194675ab",
+          "1486-malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff2b7b52194675ab/master.m3u8"
+        },
+        "Earnvids": {
+          "1486-malep-37_otakuvid_sub": "https://otakuvid.online/embed/dz3e3h9nfyvu",
+          "1486-malep-37_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1486-malep-37_vibeplayer_dub": "https://vibeplayer.site/ddbc1a75f135ab76",
+          "1486-malep-37_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ddbc1a75f135ab76/master.m3u8"
+        },
+        "Earnvids": {
+          "1486-malep-37_otakuvid_dub": "https://otakuvid.online/embed/2kv0vggi3jsr",
+          "1486-malep-37_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1486-malep-37_vibeplayer_hsub": "https://vibeplayer.site/9b7a1401f7c483e3",
+          "1486-malep-37_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b7a1401f7c483e3/master.m3u8"
+        },
+        "StreamHG": {
+          "1486-malep-37_otakuhg_hsub": "https://otakuhg.site/e/e1xfe1ff32wd",
+          "1486-malep-37_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1486-malep-37_otakuvid_hsub": "https://otakuvid.online/embed/6u1zy74hrb64",
+          "1486-malep-37_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1486-malep-37_playmogo_hsub": "https://playmogo.com/e/a1j69z5uvwhk",
+          "1486-malep-37_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "The Special Christmas Kiss",
@@ -1366,16 +1393,12 @@
           "1486-malep-38_vibeplayer_hsub": "https://vibeplayer.site/f436ed3e28bfa526",
           "1486-malep-38_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f436ed3e28bfa526/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-38_otakuhg_hsub": "https://otakuhg.site/e/ccvrc67lg8vn",
-          "1486-malep-38_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-38_otakuvid_hsub": "https://otakuvid.online/embed/0vm67sfv45si",
           "1486-malep-38_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "1486-malep-38_playmogo_hsub": "https://playmogo.com/e/wjl7th0d1gdd",
+          "1486-malep-38_playmogo_hsub": "https://playmogo.com/e/oaq4vm9k5brn",
           "1486-malep-38_playmogo_hsub_m3u8": null
         }
       }
@@ -1596,10 +1619,6 @@
         "HD-1": {
           "1486-malep-44_vibeplayer_hsub": "https://vibeplayer.site/75fbf363915a42aa",
           "1486-malep-44_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/75fbf363915a42aa/master.m3u8"
-        },
-        "StreamHG": {
-          "1486-malep-44_otakuhg_hsub": "https://otakuhg.site/e/7ti032xkcmzk",
-          "1486-malep-44_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "1486-malep-44_otakuvid_hsub": "https://otakuvid.online/embed/k5hyxtm9p7v9",
@@ -1947,10 +1966,6 @@
           "1486-malep-55_vibeplayer_hsub": "https://vibeplayer.site/0fad31c0cdc5d2e3",
           "1486-malep-55_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0fad31c0cdc5d2e3/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-55_otakuhg_hsub": "https://otakuhg.site/e/vwpmvmsc8kvm",
-          "1486-malep-55_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-55_otakuvid_hsub": "https://otakuvid.online/embed/o5jazhjxcy5w",
           "1486-malep-55_otakuvid_hsub_m3u8": null
@@ -2242,10 +2257,6 @@
           "1486-malep-66_vibeplayer_hsub": "https://vibeplayer.site/6495e9889ec6bb07",
           "1486-malep-66_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6495e9889ec6bb07/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-66_otakuhg_hsub": "https://otakuhg.site/e/wcd69y3sh7ht",
-          "1486-malep-66_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-66_otakuvid_hsub": "https://otakuvid.online/embed/ebpfrfaxnflo",
           "1486-malep-66_otakuvid_hsub_m3u8": null
@@ -2456,9 +2467,31 @@
     {
       "episode_title": "Mother's gleeful practical joke",
       "episode_url": "https://hianime.ad/watch/kodocha/ep-74",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "1486-malep-74_vibeplayer_sub": "https://vibeplayer.site/d3c68a7489639715",
+          "1486-malep-74_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3c68a7489639715/master.m3u8"
+        },
+        "Earnvids": {
+          "1486-malep-74_otakuvid_sub": "https://otakuvid.online/embed/oa0gh1dh6mc8",
+          "1486-malep-74_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "1486-malep-74_vibeplayer_hsub": "https://vibeplayer.site/71510f00e130c6ac",
+          "1486-malep-74_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71510f00e130c6ac/master.m3u8"
+        },
+        "Earnvids": {
+          "1486-malep-74_otakuvid_hsub": "https://otakuvid.online/embed/ao4ccza2z5s6",
+          "1486-malep-74_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1486-malep-74_playmogo_hsub": "https://playmogo.com/e/52xhguvs2fjf",
+          "1486-malep-74_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Where in Manhattan is my daughter?",
@@ -2494,10 +2527,6 @@
         "HD-1": {
           "1486-malep-76_vibeplayer_hsub": "https://vibeplayer.site/095269d577aba15f",
           "1486-malep-76_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/095269d577aba15f/master.m3u8"
-        },
-        "StreamHG": {
-          "1486-malep-76_otakuhg_hsub": "https://otakuhg.site/e/l6wm0wdxr1wh",
-          "1486-malep-76_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "1486-malep-76_otakuvid_hsub": "https://otakuvid.online/embed/zg1eg4oy1z1t",
@@ -2708,10 +2737,6 @@
           "1486-malep-84_vibeplayer_hsub": "https://vibeplayer.site/1958715dd6cb09ee",
           "1486-malep-84_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1958715dd6cb09ee/master.m3u8"
         },
-        "StreamHG": {
-          "1486-malep-84_otakuhg_hsub": "https://otakuhg.site/e/mmmjwv7chva7",
-          "1486-malep-84_otakuhg_hsub_m3u8": null
-        },
         "Earnvids": {
           "1486-malep-84_otakuvid_hsub": "https://otakuvid.online/embed/sdhr50g1gpcc",
           "1486-malep-84_otakuvid_hsub_m3u8": null
@@ -2822,10 +2847,6 @@
         "HD-1": {
           "1486-malep-88_vibeplayer_hsub": "https://vibeplayer.site/bb0ffa70a9196d8b",
           "1486-malep-88_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb0ffa70a9196d8b/master.m3u8"
-        },
-        "StreamHG": {
-          "1486-malep-88_otakuhg_hsub": "https://otakuhg.site/e/ei876283a239",
-          "1486-malep-88_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "1486-malep-88_otakuvid_hsub": "https://otakuvid.online/embed/tpltcdz40c0r",
