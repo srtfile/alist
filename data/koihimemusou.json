@@ -4,7 +4,7 @@
   "slug": "koihimemusou",
   "mal_id": 4262,
   "total_episodes": 12,
-  "captured_at": "2026-06-12T02:35:15",
+  "captured_at": "2026-06-15T02:36:44",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -257,9 +257,31 @@
     {
       "episode_title": "Sonsaku’s Life is Threatened",
       "episode_url": "https://hianime.ad/watch/koihimemusou/ep-10",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "4262-malep-10_vibeplayer_sub": "https://vibeplayer.site/fbca1dea4e609f63",
+          "4262-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fbca1dea4e609f63/master.m3u8"
+        },
+        "Earnvids": {
+          "4262-malep-10_otakuvid_sub": "https://otakuvid.online/embed/rn2sfrzvefy5",
+          "4262-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "4262-malep-10_vibeplayer_hsub": "https://vibeplayer.site/a42d4ca3bd2c0328",
+          "4262-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a42d4ca3bd2c0328/master.m3u8"
+        },
+        "Earnvids": {
+          "4262-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/6u0vzxshccnn",
+          "4262-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4262-malep-10_playmogo_hsub": "https://playmogo.com/e/yaxjum0rt85p",
+          "4262-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Kan’u Encounters Ryuubi",
