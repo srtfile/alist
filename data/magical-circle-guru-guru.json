@@ -4,7 +4,7 @@
   "slug": "magical-circle-guru-guru",
   "mal_id": 331,
   "total_episodes": 45,
-  "captured_at": "2026-06-12T06:40:45",
+  "captured_at": "2026-06-15T05:49:10",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1000,9 +1000,31 @@
     {
       "episode_title": "Episode 35",
       "episode_url": "https://hianime.ad/watch/magical-circle-guru-guru/ep-35",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "331-malep-35_vibeplayer_sub": "https://vibeplayer.site/32245ae5faf3abf3",
+          "331-malep-35_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32245ae5faf3abf3/master.m3u8"
+        },
+        "Earnvids": {
+          "331-malep-35_otakuvid_sub": "https://otakuvid.online/embed/r3i0zhe3wabk",
+          "331-malep-35_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "331-malep-35_vibeplayer_hsub": "https://vibeplayer.site/a4acf1e0fb0f8ed4",
+          "331-malep-35_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a4acf1e0fb0f8ed4/master.m3u8"
+        },
+        "Earnvids": {
+          "331-malep-35_otakuvid_hsub": "https://otakuvid.online/embed/xwtlbjueitrn",
+          "331-malep-35_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "331-malep-35_playmogo_hsub": "https://playmogo.com/e/wuo5zkzv6xjp",
+          "331-malep-35_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 36",
