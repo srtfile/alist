@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/little-sharks-day-out-season-2",
   "slug": "little-sharks-day-out-season-2",
   "mal_id": 33489,
-  "total_episodes": 9,
-  "captured_at": "2026-06-12T04:58:08",
+  "total_episodes": 10,
+  "captured_at": "2026-06-15T04:27:19",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -369,6 +369,43 @@
         "Doodstream": {
           "33489-malep-9_playmogo_hsub": "https://playmogo.com/e/ip16gaa77xd8",
           "33489-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bee Commotion",
+      "episode_url": "https://hianime.ad/watch/little-sharks-day-out-season-2/ep-10",
+      "sub": {
+        "HD-1": {
+          "33489-malep-10_vibeplayer_sub": "https://vibeplayer.site/86e1498258c6eff8",
+          "33489-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/86e1498258c6eff8/master.m3u8"
+        },
+        "StreamHG": {
+          "33489-malep-10_otakuhg_sub": "https://otakuhg.site/e/gtja4d46fm3l",
+          "33489-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33489-malep-10_otakuvid_sub": "https://otakuvid.online/embed/01o8iyp7y2h7",
+          "33489-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33489-malep-10_playmogo_sub": "https://playmogo.com/e/n4nhgtfxao9i",
+          "33489-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33489-malep-10_vibeplayer_hsub": "https://vibeplayer.site/0f58b7f08c9be209",
+          "33489-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f58b7f08c9be209/master.m3u8"
+        },
+        "Earnvids": {
+          "33489-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/7v1sajn0a3g4",
+          "33489-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33489-malep-10_playmogo_hsub": "https://playmogo.com/e/rcmrhh9pigpa",
+          "33489-malep-10_playmogo_hsub_m3u8": null
         }
       }
     }
