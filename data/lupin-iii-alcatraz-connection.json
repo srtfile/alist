@@ -4,13 +4,17 @@
   "slug": "lupin-iii-alcatraz-connection",
   "mal_id": 1412,
   "total_episodes": 1,
-  "captured_at": "2026-06-12T05:54:58",
+  "captured_at": "2026-06-15T05:12:46",
   "source": "hianime.ad",
   "episodes": [
     {
       "episode_title": "Is Lupin Burning...?!",
       "episode_url": "https://hianime.ad/watch/lupin-iii-alcatraz-connection/ep-1",
       "sub": {
+        "HD-1": {
+          "1412-malep-1_vibeplayer_sub": "https://vibeplayer.site/a90abc1f4c298414",
+          "1412-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a90abc1f4c298414/master.m3u8"
+        },
         "Earnvids": {
           "1412-malep-1_otakuvid_sub": "https://otakuvid.online/embed/skw69cdkvo0n",
           "1412-malep-1_otakuvid_sub_m3u8": null
