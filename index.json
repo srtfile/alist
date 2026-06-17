@@ -678,5 +678,15 @@
     "captured_at": "2026-06-17T21:34:05",
     "file": "data-5/mitsuwano.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mitsuwano.json"
+  },
+  {
+    "slug": "mix",
+    "mal_id": 38098,
+    "anime_name": "Mix",
+    "anime_url": "https://hianime.ad/anime/mix",
+    "total_episodes": 24,
+    "captured_at": "2026-06-17T21:34:16",
+    "file": "data-5/mix.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mix.json"
   }
 ]
