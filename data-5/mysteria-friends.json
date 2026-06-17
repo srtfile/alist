@@ -1,0 +1,409 @@
+{
+  "anime_name": "Mysteria Friends",
+  "anime_url": "https://hianime.ad/anime/mysteria-friends",
+  "slug": "mysteria-friends",
+  "mal_id": 31537,
+  "total_episodes": 10,
+  "captured_at": "2026-06-17T18:55:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Anne & Grea",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-1",
+      "sub": {
+        "HD-1": {
+          "31537-malep-1_vibeplayer_sub": "https://vibeplayer.site/86b0920a79e48c35",
+          "31537-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/86b0920a79e48c35/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-1_otakuhg_sub": "https://otakuhg.site/e/hywbw5gxf8bo",
+          "31537-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f2pogmaozw58",
+          "31537-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-1_vibeplayer_dub": "https://vibeplayer.site/86e585fb834adfcb",
+          "31537-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/86e585fb834adfcb/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vj0e5v9p9t9f",
+          "31537-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c9f828ce5cf6e860",
+          "31537-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9f828ce5cf6e860/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-1_otakuhg_hsub": "https://otakuhg.site/e/81md9a19wrre",
+          "31537-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lsc70turoq8c",
+          "31537-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-1_playmogo_hsub": "https://playmogo.com/e/k397121vryxo",
+          "31537-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Agony of Grea",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-2",
+      "sub": {
+        "HD-1": {
+          "31537-malep-2_vibeplayer_sub": "https://vibeplayer.site/11dcbe8280296755",
+          "31537-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11dcbe8280296755/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-2_otakuvid_sub": "https://otakuvid.online/embed/9ixu09ll7zlu",
+          "31537-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-2_vibeplayer_dub": "https://vibeplayer.site/b8982aa9933f107c",
+          "31537-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b8982aa9933f107c/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-2_otakuvid_dub": "https://otakuvid.online/embed/0etyw1n9ovy1",
+          "31537-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-2_vibeplayer_hsub": "https://vibeplayer.site/520733537ab44581",
+          "31537-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/520733537ab44581/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-2_otakuhg_hsub": "https://otakuhg.site/e/h86c89g2oho4",
+          "31537-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/7b649u9oiboh",
+          "31537-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-2_playmogo_hsub": "https://playmogo.com/e/fkyqsckkorgb",
+          "31537-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Princess's Holiday",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-3",
+      "sub": {
+        "HD-1": {
+          "31537-malep-3_vibeplayer_sub": "https://vibeplayer.site/1d9af99fc8141575",
+          "31537-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1d9af99fc8141575/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-3_otakuvid_sub": "https://otakuvid.online/embed/7fq4xxnwg3uq",
+          "31537-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-3_vibeplayer_dub": "https://vibeplayer.site/35cf2cf400d0f84d",
+          "31537-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/35cf2cf400d0f84d/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-3_otakuvid_dub": "https://otakuvid.online/embed/9i9bxm5wx5uf",
+          "31537-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-3_vibeplayer_hsub": "https://vibeplayer.site/25c5bf64f2b80065",
+          "31537-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/25c5bf64f2b80065/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-3_otakuhg_hsub": "https://otakuhg.site/e/czi28273wuh7",
+          "31537-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/41w34wz580sy",
+          "31537-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-3_playmogo_hsub": "https://playmogo.com/e/9xx9e0tzk49q",
+          "31537-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Test Time",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-4",
+      "sub": {
+        "HD-1": {
+          "31537-malep-4_vibeplayer_sub": "https://vibeplayer.site/4df6b90b938f569b",
+          "31537-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4df6b90b938f569b/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-4_otakuvid_sub": "https://otakuvid.online/embed/pdhrfhv7ienc",
+          "31537-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-4_vibeplayer_dub": "https://vibeplayer.site/9818d635f3b3e344",
+          "31537-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9818d635f3b3e344/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-4_otakuvid_dub": "https://otakuvid.online/embed/m1v2oxeitpoa",
+          "31537-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-4_vibeplayer_hsub": "https://vibeplayer.site/09ea98e74b44bc9c",
+          "31537-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09ea98e74b44bc9c/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-4_otakuhg_hsub": "https://otakuhg.site/e/acze1z2wmvl1",
+          "31537-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/8or4meb435pf",
+          "31537-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-4_playmogo_hsub": "https://playmogo.com/e/ta4yrls7anac",
+          "31537-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Academy Down",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-5",
+      "sub": {
+        "HD-1": {
+          "31537-malep-5_vibeplayer_sub": "https://vibeplayer.site/8d238d8fad07b68f",
+          "31537-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d238d8fad07b68f/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-5_otakuvid_sub": "https://otakuvid.online/embed/c4izmknfbqpm",
+          "31537-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-5_vibeplayer_dub": "https://vibeplayer.site/5d04d090a203c236",
+          "31537-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5d04d090a203c236/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-5_otakuvid_dub": "https://otakuvid.online/embed/cuzzj6i0c25s",
+          "31537-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ff6f53300b9d8cdf",
+          "31537-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff6f53300b9d8cdf/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-5_otakuhg_hsub": "https://otakuhg.site/e/5x0be9q8j497",
+          "31537-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/7ujml816xi5a",
+          "31537-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-5_playmogo_hsub": "https://playmogo.com/e/q74gb8todozy",
+          "31537-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Floating at Sea",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-6",
+      "sub": {
+        "HD-1": {
+          "31537-malep-6_vibeplayer_sub": "https://vibeplayer.site/ea28c2474398274b",
+          "31537-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea28c2474398274b/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-6_otakuvid_sub": "https://otakuvid.online/embed/fq0rerypei65",
+          "31537-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-6_vibeplayer_dub": "https://vibeplayer.site/d01099401f2b0f10",
+          "31537-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d01099401f2b0f10/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-6_otakuvid_dub": "https://otakuvid.online/embed/hrbwlv3c00om",
+          "31537-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-6_vibeplayer_hsub": "https://vibeplayer.site/b8b27c9c54abeed3",
+          "31537-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8b27c9c54abeed3/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-6_otakuhg_hsub": "https://otakuhg.site/e/jrx3nclmxcjy",
+          "31537-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/6a0f6qwjdmta",
+          "31537-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-6_playmogo_hsub": "https://playmogo.com/e/sc5cgstiofah",
+          "31537-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hide-and-Seek",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-7",
+      "sub": {
+        "HD-1": {
+          "31537-malep-7_vibeplayer_sub": "https://vibeplayer.site/7977ff15c385abc4",
+          "31537-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7977ff15c385abc4/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-7_otakuvid_sub": "https://otakuvid.online/embed/lzvqfg5dd0ln",
+          "31537-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-7_vibeplayer_dub": "https://vibeplayer.site/c92a7ed3aeeff16a",
+          "31537-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c92a7ed3aeeff16a/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-7_otakuvid_dub": "https://otakuvid.online/embed/uz4yeo0uepoj",
+          "31537-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-7_vibeplayer_hsub": "https://vibeplayer.site/264461984a164623",
+          "31537-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/264461984a164623/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-7_otakuhg_hsub": "https://otakuhg.site/e/5poggmtm9p6t",
+          "31537-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/jgfxn2dafg3k",
+          "31537-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-7_playmogo_hsub": "https://playmogo.com/e/j0qpbyjsjfwi",
+          "31537-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Backstage Confidential",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-8",
+      "sub": {
+        "HD-1": {
+          "31537-malep-8_vibeplayer_sub": "https://vibeplayer.site/c3c1fdc13d34fa06",
+          "31537-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c3c1fdc13d34fa06/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-8_otakuhg_sub": "https://otakuhg.site/e/3vtoricsw9y0",
+          "31537-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-8_otakuvid_sub": "https://otakuvid.online/embed/jk2rwkipzl5x",
+          "31537-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-8_vibeplayer_dub": "https://vibeplayer.site/6ebf29eb0851d3ee",
+          "31537-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6ebf29eb0851d3ee/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-8_otakuvid_dub": "https://otakuvid.online/embed/wxl9kgbppx9r",
+          "31537-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Slice of Life",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-9",
+      "sub": {
+        "HD-1": {
+          "31537-malep-9_vibeplayer_sub": "https://vibeplayer.site/bf5e5079529211cd",
+          "31537-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf5e5079529211cd/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-9_otakuhg_sub": "https://otakuhg.site/e/w1h0al22nrq0",
+          "31537-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-9_otakuvid_sub": "https://otakuvid.online/embed/jaf7ltzgf12g",
+          "31537-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-9_vibeplayer_dub": "https://vibeplayer.site/feb46fa4fa735dc0",
+          "31537-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/feb46fa4fa735dc0/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-9_otakuvid_dub": "https://otakuvid.online/embed/xd2lj65f4ck5",
+          "31537-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Pair's Promise",
+      "episode_url": "https://hianime.ad/watch/mysteria-friends/ep-10",
+      "sub": {
+        "HD-1": {
+          "31537-malep-10_vibeplayer_sub": "https://vibeplayer.site/65af5194b6d509a9",
+          "31537-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65af5194b6d509a9/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-10_otakuvid_sub": "https://otakuvid.online/embed/mqcj9p12b48u",
+          "31537-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31537-malep-10_vibeplayer_dub": "https://vibeplayer.site/cb9219d6032ba09c",
+          "31537-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cb9219d6032ba09c/master.m3u8"
+        },
+        "Earnvids": {
+          "31537-malep-10_otakuvid_dub": "https://otakuvid.online/embed/lsk10t77js2c",
+          "31537-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31537-malep-10_vibeplayer_hsub": "https://vibeplayer.site/d61f4b1aa90f3d05",
+          "31537-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d61f4b1aa90f3d05/master.m3u8"
+        },
+        "StreamHG": {
+          "31537-malep-10_otakuhg_hsub": "https://otakuhg.site/e/gtkzqkvn85ay",
+          "31537-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31537-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/lqfko0laxkb2",
+          "31537-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31537-malep-10_playmogo_hsub": "https://playmogo.com/e/34tqs7ulvglq",
+          "31537-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
