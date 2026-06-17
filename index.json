@@ -1478,5 +1478,15 @@
     "captured_at": "2026-06-17T22:46:54",
     "file": "data-5/moeyo-ken-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moeyo-ken-tv.json"
+  },
+  {
+    "slug": "mofusand",
+    "mal_id": null,
+    "anime_name": "Mofusand",
+    "anime_url": "https://hianime.ad/anime/mofusand",
+    "total_episodes": 23,
+    "captured_at": "2026-06-17T22:47:15",
+    "file": "data-5/mofusand.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mofusand.json"
   }
 ]
