@@ -698,5 +698,15 @@
     "captured_at": "2026-06-17T21:34:46",
     "file": "data-5/mix-meisei-story-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mix-meisei-story-2nd-season.json"
+  },
+  {
+    "slug": "miyoris-forest",
+    "mal_id": 23623,
+    "anime_name": "Miyoris Forest",
+    "anime_url": "https://hianime.ad/anime/miyoris-forest",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T21:35:16",
+    "file": "data-5/miyoris-forest.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/miyoris-forest.json"
   }
 ]
