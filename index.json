@@ -848,5 +848,15 @@
     "captured_at": "2026-06-17T21:40:10",
     "file": "data-5/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha.json"
+  },
+  {
+    "slug": "mob-psycho-mini",
+    "mal_id": 32182,
+    "anime_name": "Mob Psycho Mini",
+    "anime_url": "https://hianime.ad/anime/mob-psycho-mini",
+    "total_episodes": 6,
+    "captured_at": "2026-06-17T21:40:21",
+    "file": "data-5/mob-psycho-mini.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mob-psycho-mini.json"
   }
 ]
