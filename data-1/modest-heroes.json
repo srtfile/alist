@@ -1,0 +1,61 @@
+{
+  "anime_name": "Modest Heroes",
+  "anime_url": "https://hianime.ad/anime/modest-heroes",
+  "slug": "modest-heroes",
+  "mal_id": 48441,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:57:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Appears He… the Hero in Twilight",
+      "episode_url": "https://hianime.ad/watch/modest-heroes/ep-1",
+      "sub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_sub": "https://vibeplayer.site/ee2dd5944ddd440f",
+          "48441-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee2dd5944ddd440f/master.m3u8"
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_sub": "https://otakuvid.online/embed/if9mx69ocbdo",
+          "48441-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "48441-malep-1_playmogo_sub": "https://playmogo.com/e/lue17vwk3qlh",
+          "48441-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_dub": "https://vibeplayer.site/60e2ef31dd747e8f",
+          "48441-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/60e2ef31dd747e8f/master.m3u8"
+        },
+        "StreamHG": {
+          "48441-malep-1_otakuhg_dub": "https://otakuhg.site/e/p1anc9xlf761",
+          "48441-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5hamrj9904u9",
+          "48441-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_hsub": "https://vibeplayer.site/afe679c40fce6e03",
+          "48441-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/afe679c40fce6e03/master.m3u8"
+        },
+        "StreamHG": {
+          "48441-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i01ae9zf661v",
+          "48441-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/83j7cfg5x1pz",
+          "48441-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48441-malep-1_playmogo_hsub": "https://playmogo.com/e/1kvp6xz0m5bj",
+          "48441-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
