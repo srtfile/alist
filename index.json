@@ -748,5 +748,15 @@
     "captured_at": "2026-06-17T21:36:31",
     "file": "data-5/mizuiro-jidai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mizuiro-jidai.json"
+  },
+  {
+    "slug": "mm",
+    "mal_id": 8424,
+    "anime_name": "Mm",
+    "anime_url": "https://hianime.ad/anime/mm",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T21:37:19",
+    "file": "data-5/mm.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mm.json"
   }
 ]
