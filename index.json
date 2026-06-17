@@ -27278,5 +27278,15 @@
     "captured_at": "2026-06-17T19:39:48",
     "file": "data-5/nekomonogatari-black-the-monogatari-series.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nekomonogatari-black-the-monogatari-series.json"
+  },
+  {
+    "slug": "nekopara",
+    "mal_id": null,
+    "anime_name": "Nekopara",
+    "anime_url": "https://hianime.ad/anime/nekopara",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T19:40:07",
+    "file": "data-5/nekopara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nekopara.json"
   }
 ]
