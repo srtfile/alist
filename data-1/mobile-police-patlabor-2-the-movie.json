@@ -1,0 +1,52 @@
+{
+  "anime_name": "Mobile Police Patlabor 2 The Movie",
+  "anime_url": "https://hianime.ad/anime/mobile-police-patlabor-2-the-movie",
+  "slug": "mobile-police-patlabor-2-the-movie",
+  "mal_id": 324,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:27:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ingram Activated",
+      "episode_url": "https://hianime.ad/watch/mobile-police-patlabor-2-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "324-malep-1_vibeplayer_sub": "https://vibeplayer.site/ba5f6fc0d9590cdc",
+          "324-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba5f6fc0d9590cdc/master.m3u8"
+        },
+        "StreamHG": {
+          "324-malep-1_otakuhg_sub": "https://otakuhg.site/e/uz1hm5sh6fsr",
+          "324-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "324-malep-1_otakuvid_sub": "https://otakuvid.online/embed/08as9wcixsgh",
+          "324-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "324-malep-1_playmogo_sub": "https://playmogo.com/e/kyajr04umqau",
+          "324-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "324-malep-1_vibeplayer_hsub": "https://vibeplayer.site/519dc3456b4b56d2",
+          "324-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/519dc3456b4b56d2/master.m3u8"
+        },
+        "StreamHG": {
+          "324-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i1tg8zf47f4n",
+          "324-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "324-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l4cacpn3ux9w",
+          "324-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "324-malep-1_playmogo_hsub": "https://playmogo.com/e/m1v0h8xnxm5i",
+          "324-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
