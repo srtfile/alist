@@ -1,0 +1,103 @@
+{
+  "anime_name": "Night Raid 1931 Specials",
+  "anime_url": "https://hianime.ad/anime/night-raid-1931-specials",
+  "slug": "night-raid-1931-specials",
+  "mal_id": null,
+  "total_episodes": 3,
+  "captured_at": "2026-06-17T19:58:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Shipboard Shoot's Conclusion",
+      "episode_url": "https://hianime.ad/watch/night-raid-1931-specials/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/5c250ffed3d5abf3",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5c250ffed3d5abf3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/fncb021rt8gy",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Demon of the Opium Den",
+      "episode_url": "https://hianime.ad/watch/night-raid-1931-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/295295690d05358f",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/295295690d05358f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/uq3z3l34igj0",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/1b7c1cf6ce381bfc",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1b7c1cf6ce381bfc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/nnyz5t76q4te",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/0f297889f207d800",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f297889f207d800/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/nc12mtuxj3v2",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/xtgw0fsnb3j4",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Panther in the Snow",
+      "episode_url": "https://hianime.ad/watch/night-raid-1931-specials/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/9d650d8680159ec7",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d650d8680159ec7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/eu09usn5nls4",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/833fc24cf8a6c624",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/833fc24cf8a6c624/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/0col0r2sm9i5",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/dd5db462e2ed1d75",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dd5db462e2ed1d75/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/pfw3rlvzpohq",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/w65ahenl3ghd",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
