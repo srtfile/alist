@@ -1,0 +1,102 @@
+{
+  "anime_name": "Mobile Suit Gundam Ms Igloo The Hidden One Year War",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
+  "slug": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
+  "mal_id": 80,
+  "total_episodes": 3,
+  "captured_at": "2026-06-17T16:37:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gundam Rising!!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war/ep-1",
+      "sub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_sub": "https://vibeplayer.site/3659da8488245bbb",
+          "80-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3659da8488245bbb/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uhck9xku4al3",
+          "80-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4cb4108d2b88b092",
+          "80-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4cb4108d2b88b092/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gj4tzwcplcql",
+          "80-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ku0qtlbob6sg",
+          "80-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_hsub": "https://playmogo.com/e/p7dz962fh0f8",
+          "80-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Destroy Gundam!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war/ep-2",
+      "sub": {
+        "HD-1": {
+          "80-malep-2_vibeplayer_sub": "https://vibeplayer.site/70af5642c4de322c",
+          "80-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70af5642c4de322c/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vaqjews52hga",
+          "80-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "80-malep-2_vibeplayer_hsub": "https://vibeplayer.site/40b02bebab224faf",
+          "80-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/40b02bebab224faf/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/y39d13mif07s",
+          "80-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-2_playmogo_hsub": "https://playmogo.com/e/a2rj0rdokd2b",
+          "80-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Vote to Attack",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war/ep-3",
+      "sub": {
+        "HD-1": {
+          "80-malep-3_vibeplayer_sub": "https://vibeplayer.site/271837a4d68fb1fc",
+          "80-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/271837a4d68fb1fc/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-3_otakuvid_sub": "https://otakuvid.online/embed/90k454ae01tx",
+          "80-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "80-malep-3_vibeplayer_hsub": "https://vibeplayer.site/48f2326f533c235c",
+          "80-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48f2326f533c235c/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/vxiiqrsjz6zm",
+          "80-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-3_playmogo_hsub": "https://playmogo.com/e/uoc0mtjlxupq",
+          "80-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
