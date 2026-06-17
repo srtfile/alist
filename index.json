@@ -1468,5 +1468,15 @@
     "captured_at": "2026-06-17T22:46:40",
     "file": "data-5/moeyo-ken.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moeyo-ken.json"
+  },
+  {
+    "slug": "moeyo-ken-tv",
+    "mal_id": 511,
+    "anime_name": "Moeyo Ken Tv",
+    "anime_url": "https://hianime.ad/anime/moeyo-ken-tv",
+    "total_episodes": 13,
+    "captured_at": "2026-06-17T22:46:54",
+    "file": "data-5/moeyo-ken-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moeyo-ken-tv.json"
   }
 ]
