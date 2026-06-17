@@ -1,0 +1,52 @@
+{
+  "anime_name": "Morita San Wa Mukuchi 5388",
+  "anime_url": "https://hianime.ad/anime/morita-san-wa-mukuchi-5388",
+  "slug": "morita-san-wa-mukuchi-5388",
+  "mal_id": 10671,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T17:29:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Morita-san is so Quiet",
+      "episode_url": "https://hianime.ad/watch/morita-san-wa-mukuchi-5388/ep-1",
+      "sub": {
+        "HD-1": {
+          "10671-malep-1_vibeplayer_sub": "https://vibeplayer.site/263f162088404c45",
+          "10671-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/263f162088404c45/master.m3u8"
+        },
+        "StreamHG": {
+          "10671-malep-1_otakuhg_sub": "https://otakuhg.site/e/u83z3yhrzrvr",
+          "10671-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10671-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6l4j7coimxhc",
+          "10671-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10671-malep-1_playmogo_sub": "https://playmogo.com/e/hib8fopr9swi",
+          "10671-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10671-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bcb87ab1c596b403",
+          "10671-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bcb87ab1c596b403/master.m3u8"
+        },
+        "StreamHG": {
+          "10671-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5gpaaa59m5k6",
+          "10671-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10671-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bvs622wgjs41",
+          "10671-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10671-malep-1_playmogo_hsub": "https://playmogo.com/e/bac9kkyyory1",
+          "10671-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
