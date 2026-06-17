@@ -1,0 +1,61 @@
+{
+  "anime_name": "Naruto Shippuuden Movie 6 Road To Ninja",
+  "anime_url": "https://hianime.ad/anime/naruto-shippuuden-movie-6-road-to-ninja",
+  "slug": "naruto-shippuuden-movie-6-road-to-ninja",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:22:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/naruto-shippuuden-movie-6-road-to-ninja/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c32c240e8f2f4c0c",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c32c240e8f2f4c0c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/prsirz1mxkzs",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/xpusnf0yynop",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/dfbb37a57762d40a",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dfbb37a57762d40a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/1nw179dn3o6e",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/78szwalsrusm",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/4a211c68aea839ac",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a211c68aea839ac/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/y21sxqptbmsw",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/20je6nxl1sey",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/d301omjdcclf",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
