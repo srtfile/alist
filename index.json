@@ -1448,5 +1448,15 @@
     "captured_at": "2026-06-17T22:46:16",
     "file": "data-5/modest-heroes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/modest-heroes.json"
+  },
+  {
+    "slug": "moekan-the-animation",
+    "mal_id": 16592,
+    "anime_name": "Moekan The Animation",
+    "anime_url": "https://hianime.ad/anime/moekan-the-animation",
+    "total_episodes": 3,
+    "captured_at": "2026-06-17T22:46:28",
+    "file": "data-5/moekan-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moekan-the-animation.json"
   }
 ]
