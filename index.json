@@ -29068,5 +29068,15 @@
     "captured_at": "2026-06-17T21:05:26",
     "file": "data-5/obsolete.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/obsolete.json"
+  },
+  {
+    "slug": "occult-academy",
+    "mal_id": null,
+    "anime_name": "Occult Academy",
+    "anime_url": "https://hianime.ad/anime/occult-academy",
+    "total_episodes": 13,
+    "captured_at": "2026-06-17T21:05:54",
+    "file": "data-5/occult-academy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/occult-academy.json"
   }
 ]
