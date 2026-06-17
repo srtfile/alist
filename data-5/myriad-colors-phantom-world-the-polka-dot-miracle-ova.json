@@ -1,0 +1,48 @@
+{
+  "anime_name": "Myriad Colors Phantom World The Polka Dot Miracle Ova",
+  "anime_url": "https://hianime.ad/anime/myriad-colors-phantom-world-the-polka-dot-miracle-ova",
+  "slug": "myriad-colors-phantom-world-the-polka-dot-miracle-ova",
+  "mal_id": 31442,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:55:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Age of Phantoms",
+      "episode_url": "https://hianime.ad/watch/myriad-colors-phantom-world-the-polka-dot-miracle-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "31442-malep-1_vibeplayer_sub": "https://vibeplayer.site/a6f80a0a745400c2",
+          "31442-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6f80a0a745400c2/master.m3u8"
+        },
+        "StreamHG": {
+          "31442-malep-1_otakuhg_sub": "https://otakuhg.site/e/9jjx9xjjem05",
+          "31442-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31442-malep-1_otakuvid_sub": "https://otakuvid.online/embed/u1em7e6388fx",
+          "31442-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31442-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3903b75feccbc1a8",
+          "31442-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3903b75feccbc1a8/master.m3u8"
+        },
+        "StreamHG": {
+          "31442-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4f4ij6wkczo7",
+          "31442-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31442-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6l5468zp14cz",
+          "31442-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31442-malep-1_playmogo_hsub": "https://playmogo.com/e/krz6jx5j1z0i",
+          "31442-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
