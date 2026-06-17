@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ensemble Stars Road To Show",
+  "anime_url": "https://hianime.ad/anime/ensemble-stars-road-to-show",
+  "slug": "ensemble-stars-road-to-show",
+  "mal_id": 32212,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:31:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "New Wind",
+      "episode_url": "https://hianime.ad/watch/ensemble-stars-road-to-show/ep-1",
+      "sub": {
+        "HD-1": {
+          "32212-malep-1_vibeplayer_sub": "https://vibeplayer.site/3e15fb2b8fd43fb4",
+          "32212-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3e15fb2b8fd43fb4/master.m3u8"
+        },
+        "HD-2": {
+          "32212-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag545f6dd27e63c69a1f8a9370e4224ba54h",
+          "32212-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32212-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4d0ve9xsy2n9",
+          "32212-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32212-malep-1_playmogo_sub": "https://playmogo.com/e/7ysx1eucpmbk",
+          "32212-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32212-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bd88226ad362e856",
+          "32212-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd88226ad362e856/master.m3u8"
+        },
+        "HD-2": {
+          "32212-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agff4e7673cf698dfa498e509f59ac77c64h",
+          "32212-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32212-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bk40o1jwiwcv",
+          "32212-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32212-malep-1_playmogo_hsub": "https://playmogo.com/e/gt81m3p95qjp",
+          "32212-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

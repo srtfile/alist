@@ -1,0 +1,69 @@
+{
+  "anime_name": "Clannad Another World Tomoyo Chapter",
+  "anime_url": "https://hianime.ad/anime/clannad-another-world-tomoyo-chapter",
+  "slug": "clannad-another-world-tomoyo-chapter",
+  "mal_id": 2167,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:05:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "On The Hillside Path Where The Cherry Blossoms Flutter",
+      "episode_url": "https://hianime.ad/watch/clannad-another-world-tomoyo-chapter/ep-1",
+      "sub": {
+        "HD-1": {
+          "2167-malep-1_vibeplayer_sub": "https://vibeplayer.site/55d0107ab62aa4ad",
+          "2167-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55d0107ab62aa4ad/master.m3u8"
+        },
+        "HD-2": {
+          "2167-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag410be0596fa432f0a36d38eb93f89ecd4h",
+          "2167-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2167-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ptav366x06ng",
+          "2167-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2167-malep-1_vibeplayer_dub": "https://vibeplayer.site/61b80d8ce00781fa",
+          "2167-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/61b80d8ce00781fa/master.m3u8"
+        },
+        "HD-2": {
+          "2167-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag46da1e118332f4a9f757af5b7a6900864h",
+          "2167-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "2167-malep-1_otakuhg_dub": "https://otakuhg.site/e/y28nm110assd",
+          "2167-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2167-malep-1_otakuvid_dub": "https://otakuvid.online/embed/fkpqhpwwfldc",
+          "2167-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2167-malep-1_vibeplayer_hsub": "https://vibeplayer.site/182e44d41009d5f5",
+          "2167-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/182e44d41009d5f5/master.m3u8"
+        },
+        "HD-2": {
+          "2167-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga1a714fa6b321cfe7be3fe27e268e3434h",
+          "2167-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2167-malep-1_otakuhg_hsub": "https://otakuhg.site/e/91y99kuqrokg",
+          "2167-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2167-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gm0mkr9u98js",
+          "2167-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2167-malep-1_playmogo_hsub": "https://playmogo.com/e/9ilmz3p4k3n4",
+          "2167-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

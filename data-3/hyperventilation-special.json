@@ -1,0 +1,48 @@
+{
+  "anime_name": "Hyperventilation Special",
+  "anime_url": "https://hianime.ad/anime/hyperventilation-special",
+  "slug": "hyperventilation-special",
+  "mal_id": 2011,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T05:58:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Don't Tear Up the Tickets!",
+      "episode_url": "https://hianime.ad/watch/hyperventilation-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "2011-malep-1_vibeplayer_sub": "https://vibeplayer.site/14a16c623872949a",
+          "2011-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/14a16c623872949a/master.m3u8"
+        },
+        "StreamHG": {
+          "2011-malep-1_otakuhg_sub": "https://otakuhg.site/e/cdx89b5ybjbb",
+          "2011-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2011-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nkbr58i2go8f",
+          "2011-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2011-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b2a898ba1a15e94e",
+          "2011-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b2a898ba1a15e94e/master.m3u8"
+        },
+        "StreamHG": {
+          "2011-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ezwbb94bs1hw",
+          "2011-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2011-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eziaqic3a3t6",
+          "2011-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2011-malep-1_playmogo_hsub": "https://playmogo.com/e/0v5case3419v",
+          "2011-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

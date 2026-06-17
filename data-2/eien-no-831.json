@@ -1,0 +1,69 @@
+{
+  "anime_name": "Eien No 831",
+  "anime_url": "https://hianime.ad/anime/eien-no-831",
+  "slug": "eien-no-831",
+  "mal_id": 2717,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:15:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A New Departure",
+      "episode_url": "https://hianime.ad/watch/eien-no-831/ep-1",
+      "sub": {
+        "HD-1": {
+          "2717-malep-1_vibeplayer_sub": "https://vibeplayer.site/59394978672e45d8",
+          "2717-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/59394978672e45d8/master.m3u8"
+        },
+        "HD-2": {
+          "2717-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2412313d098112b7ae65866b12355ec54h",
+          "2717-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2717-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p77niyo5tizs",
+          "2717-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2717-malep-1_vibeplayer_dub": "https://vibeplayer.site/11f9fd980f243377",
+          "2717-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/11f9fd980f243377/master.m3u8"
+        },
+        "HD-2": {
+          "2717-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga6c087073a2f6f2ff18353a3df73f2cf4h",
+          "2717-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "2717-malep-1_otakuhg_dub": "https://otakuhg.site/e/0pvl0w7jg0sp",
+          "2717-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2717-malep-1_otakuvid_dub": "https://otakuvid.online/embed/x2w61cmhuqf4",
+          "2717-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2717-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4c25def8aadada47",
+          "2717-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4c25def8aadada47/master.m3u8"
+        },
+        "HD-2": {
+          "2717-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agad5ce879bbc9fc441ceb97521edc13464h",
+          "2717-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2717-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q3iltqcgjgup",
+          "2717-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2717-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/av1bmh9olvlc",
+          "2717-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2717-malep-1_playmogo_hsub": "https://playmogo.com/e/tce8fujuieya",
+          "2717-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "anime_name": "Legend Of Lemnear",
+  "anime_url": "https://hianime.ad/anime/legend-of-lemnear",
+  "slug": "legend-of-lemnear",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:30:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/legend-of-lemnear/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c5dfb547b64a1e55",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c5dfb547b64a1e55/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/zn1d90yv51k4",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/e53a9b38c3e77a76",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e53a9b38c3e77a76/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/epknttojcpzs",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c1796fed0c15f5c4",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c1796fed0c15f5c4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/8o5h2x52rp2t",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cp9fsn97lozb",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ymdipjg8fryw",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

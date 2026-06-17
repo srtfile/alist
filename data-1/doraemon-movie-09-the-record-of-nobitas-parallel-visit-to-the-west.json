@@ -1,0 +1,52 @@
+{
+  "anime_name": "Doraemon Movie 09 The Record Of Nobitas Parallel Visit To The West",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-09-the-record-of-nobitas-parallel-visit-to-the-west",
+  "slug": "doraemon-movie-09-the-record-of-nobitas-parallel-visit-to-the-west",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:03:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-09-the-record-of-nobitas-parallel-visit-to-the-west/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/adf0ef90e88851f8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/adf0ef90e88851f8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8437ea08720e5ea391c15faa3c57e6f74h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/17tae8uk4tu0",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/q8n55rmuhcvf",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/62f73e477f70c37b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/62f73e477f70c37b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag71f75c603389a3904d9cee9b6cd4a7574h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/l5l7qbm4xehv",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nm3g99u6yc6i",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

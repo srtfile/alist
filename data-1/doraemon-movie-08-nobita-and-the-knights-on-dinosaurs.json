@@ -1,0 +1,52 @@
+{
+  "anime_name": "Doraemon Movie 08 Nobita And The Knights On Dinosaurs",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-08-nobita-and-the-knights-on-dinosaurs",
+  "slug": "doraemon-movie-08-nobita-and-the-knights-on-dinosaurs",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:03:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-08-nobita-and-the-knights-on-dinosaurs/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5bc7084754ff822a",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5bc7084754ff822a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/aga5288d313cd932e465572b611f1e15154h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/f0jnk0xcwedc",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/7wam3zp168f5",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/xrbcjepof5t9",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/814779bca30e1547",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/814779bca30e1547/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6e8df292eae8ee3c79e2a7da5343e6374h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a086gbzj1g54",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

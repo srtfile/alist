@@ -1,0 +1,73 @@
+{
+  "anime_name": "Final Fantasy Vii Advent Children Complete",
+  "anime_url": "https://hianime.ad/anime/final-fantasy-vii-advent-children-complete",
+  "slug": "final-fantasy-vii-advent-children-complete",
+  "mal_id": 1157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:22:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wonderland: Journey into the Darkness",
+      "episode_url": "https://hianime.ad/watch/final-fantasy-vii-advent-children-complete/ep-1",
+      "sub": {
+        "HD-1": {
+          "1157-malep-1_vibeplayer_sub": "https://vibeplayer.site/9fc6cc0e9796ada5",
+          "1157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9fc6cc0e9796ada5/master.m3u8"
+        },
+        "HD-2": {
+          "1157-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag930113927710e2d3a85963acc56d130e4h",
+          "1157-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1157-malep-1_otakuhg_sub": "https://otakuhg.site/e/ks0duqitxkqk",
+          "1157-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dcyw7h7qoj92",
+          "1157-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1157-malep-1_vibeplayer_dub": "https://vibeplayer.site/b9f2b39bc3ade43a",
+          "1157-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b9f2b39bc3ade43a/master.m3u8"
+        },
+        "HD-2": {
+          "1157-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag81f23ae581d38a93adbd651263a676e54h",
+          "1157-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1157-malep-1_otakuhg_dub": "https://otakuhg.site/e/cf6v572st035",
+          "1157-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1157-malep-1_otakuvid_dub": "https://otakuvid.online/embed/w6gcp94mhow7",
+          "1157-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/14e4e7b3e5bd9547",
+          "1157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/14e4e7b3e5bd9547/master.m3u8"
+        },
+        "HD-2": {
+          "1157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age30f3c033c650f180fc52254281dcbf54h",
+          "1157-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8186d76i562u",
+          "1157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tintl32deye0",
+          "1157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1157-malep-1_playmogo_hsub": "https://playmogo.com/e/gzfozpp1l1ql",
+          "1157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

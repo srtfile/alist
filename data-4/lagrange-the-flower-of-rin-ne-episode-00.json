@@ -1,0 +1,40 @@
+{
+  "anime_name": "Lagrange The Flower Of Rin Ne Episode 00",
+  "anime_url": "https://hianime.ad/anime/lagrange-the-flower-of-rin-ne-episode-00",
+  "slug": "lagrange-the-flower-of-rin-ne-episode-00",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:16:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/lagrange-the-flower-of-rin-ne-episode-00/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/26d54b9bf5204ca6",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26d54b9bf5204ca6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/7qub3c46nui2",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/52d7a7f71015ddf1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/52d7a7f71015ddf1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/28txxd8pio0p",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/dp2bo4lsnxwi",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

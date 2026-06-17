@@ -1,0 +1,101 @@
+{
+  "anime_name": "Aki Sora Yume No Naka",
+  "anime_url": "https://hianime.ad/anime/aki-sora-yume-no-naka",
+  "slug": "aki-sora-yume-no-naka",
+  "mal_id": 25159,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T19:51:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Change (Alpha Episode)",
+      "episode_url": "https://hianime.ad/watch/aki-sora-yume-no-naka/ep-1",
+      "sub": {
+        "HD-1": {
+          "25159-malep-1_vibeplayer_sub": "https://vibeplayer.site/0e8d8e4adfdb3b4c",
+          "25159-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e8d8e4adfdb3b4c/master.m3u8"
+        },
+        "HD-2": {
+          "25159-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8d4527be4c166f25956477bd7ed36d6b4h",
+          "25159-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "25159-malep-1_otakuhg_sub": "https://otakuhg.site/e/uznjawneguem",
+          "25159-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25159-malep-1_otakuvid_sub": "https://otakuvid.online/embed/22x8babxz401",
+          "25159-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25159-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c8c5cb2780b0dd5f",
+          "25159-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8c5cb2780b0dd5f/master.m3u8"
+        },
+        "HD-2": {
+          "25159-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8abd84d98c90d5946ea93af6e8144d9c4h",
+          "25159-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "25159-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4a9d3clum4m9",
+          "25159-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25159-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i8f26k3aw994",
+          "25159-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25159-malep-1_playmogo_hsub": "https://playmogo.com/e/5dbnkj1qaanq",
+          "25159-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Misconception",
+      "episode_url": "https://hianime.ad/watch/aki-sora-yume-no-naka/ep-2",
+      "sub": {
+        "HD-1": {
+          "25159-malep-2_vibeplayer_sub": "https://vibeplayer.site/474fc1cfc85c06c2",
+          "25159-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/474fc1cfc85c06c2/master.m3u8"
+        },
+        "HD-2": {
+          "25159-malep-2_vibeplayer_sub": "https://vibeplayer.site/agff933a09a7e2b388846158a21f4cb1d94h",
+          "25159-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "25159-malep-2_otakuhg_sub": "https://otakuhg.site/e/aascuveu06tm",
+          "25159-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25159-malep-2_otakuvid_sub": "https://otakuvid.online/embed/01re07p7qz69",
+          "25159-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25159-malep-2_vibeplayer_hsub": "https://vibeplayer.site/db4b59c6109c1bb7",
+          "25159-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/db4b59c6109c1bb7/master.m3u8"
+        },
+        "HD-2": {
+          "25159-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag557b75395499cace099d9470edaeefb44h",
+          "25159-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "25159-malep-2_otakuhg_hsub": "https://otakuhg.site/e/fd0zqnu17pqv",
+          "25159-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25159-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/kqm7lrx8vn3v",
+          "25159-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25159-malep-2_playmogo_hsub": "https://playmogo.com/e/xgbxpc5pnj8w",
+          "25159-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

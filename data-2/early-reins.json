@@ -1,0 +1,65 @@
+{
+  "anime_name": "Early Reins",
+  "anime_url": "https://hianime.ad/anime/early-reins",
+  "slug": "early-reins",
+  "mal_id": 45911,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:09:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/early-reins/ep-1",
+      "sub": {
+        "HD-1": {
+          "45911-malep-1_vibeplayer_sub": "https://vibeplayer.site/4eaedb0ea76c70ac",
+          "45911-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4eaedb0ea76c70ac/master.m3u8"
+        },
+        "HD-2": {
+          "45911-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag221813fb68e728a6d7171d28849076cf4h",
+          "45911-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "45911-malep-1_otakuvid_sub": "https://otakuvid.online/embed/oz1vjt6ehp15",
+          "45911-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "45911-malep-1_playmogo_sub": "https://playmogo.com/e/jm2b6yxu5b20",
+          "45911-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45911-malep-1_vibeplayer_dub": "https://vibeplayer.site/979b387dcf2eca06",
+          "45911-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/979b387dcf2eca06/master.m3u8"
+        },
+        "HD-2": {
+          "45911-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag46b8c1dbc741b2ead98f60aaa41217c04h",
+          "45911-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45911-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kjdxeheq9qnm",
+          "45911-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45911-malep-1_vibeplayer_hsub": "https://vibeplayer.site/feb2519dd19a511c",
+          "45911-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/feb2519dd19a511c/master.m3u8"
+        },
+        "HD-2": {
+          "45911-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf820ed4a80e347e627c7e74fd79233254h",
+          "45911-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45911-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rqmcg54vqd1a",
+          "45911-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45911-malep-1_playmogo_hsub": "https://playmogo.com/e/51msp2039ryf",
+          "45911-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

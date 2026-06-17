@@ -1,0 +1,31 @@
+{
+  "anime_name": "Ghost In The Shell Stand Alone Complex 2Nd Gig Individual Eleven",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven",
+  "slug": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven",
+  "mal_id": 801,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:33:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reembody",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "801-malep-1_vibeplayer_dub": "https://vibeplayer.site/aadd6ae2b8a7e4e7",
+          "801-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aadd6ae2b8a7e4e7/master.m3u8"
+        },
+        "StreamHG": {
+          "801-malep-1_otakuhg_dub": "https://otakuhg.site/e/2gab5hn5wm8m",
+          "801-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "801-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lut44kno4bzz",
+          "801-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "anime_name": "Gekiganger 3",
+  "anime_url": "https://hianime.ad/anime/gekiganger-3",
+  "slug": "gekiganger-3",
+  "mal_id": 52807,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:15:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Strategy Meeting",
+      "episode_url": "https://hianime.ad/watch/gekiganger-3/ep-1",
+      "sub": {
+        "HD-1": {
+          "52807-malep-1_vibeplayer_sub": "https://vibeplayer.site/d9438742e1165fa5",
+          "52807-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9438742e1165fa5/master.m3u8"
+        },
+        "Earnvids": {
+          "52807-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zh1b11amjtaj",
+          "52807-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52807-malep-1_vibeplayer_hsub": "https://vibeplayer.site/598372530a504a97",
+          "52807-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/598372530a504a97/master.m3u8"
+        },
+        "Earnvids": {
+          "52807-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/21o01iyh1ioz",
+          "52807-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

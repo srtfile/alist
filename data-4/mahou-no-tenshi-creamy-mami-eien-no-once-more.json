@@ -1,0 +1,40 @@
+{
+  "anime_name": "Mahou No Tenshi Creamy Mami Eien No Once More",
+  "anime_url": "https://hianime.ad/anime/mahou-no-tenshi-creamy-mami-eien-no-once-more",
+  "slug": "mahou-no-tenshi-creamy-mami-eien-no-once-more",
+  "mal_id": 2044,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:49:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ship of Feather Star",
+      "episode_url": "https://hianime.ad/watch/mahou-no-tenshi-creamy-mami-eien-no-once-more/ep-1",
+      "sub": {
+        "HD-1": {
+          "2044-malep-1_vibeplayer_sub": "https://vibeplayer.site/0601585b6699a9e8",
+          "2044-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0601585b6699a9e8/master.m3u8"
+        },
+        "Earnvids": {
+          "2044-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mi0l8op0b6wu",
+          "2044-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2044-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2f42cdeb38b715b4",
+          "2044-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f42cdeb38b715b4/master.m3u8"
+        },
+        "StreamHG": {
+          "2044-malep-1_otakuhg_hsub": "https://otakuhg.site/e/actf9k9repmo",
+          "2044-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2044-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vcbjabozhtzb",
+          "2044-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

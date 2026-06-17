@@ -1,0 +1,2975 @@
+{
+  "anime_name": "Digimon Digital Monsters",
+  "anime_url": "https://hianime.ad/anime/digimon-digital-monsters",
+  "slug": "digimon-digital-monsters",
+  "mal_id": 552,
+  "total_episodes": 54,
+  "captured_at": "2026-06-03T08:36:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And So it Begins...",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-1",
+      "sub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_sub": "https://vibeplayer.site/316f4a4f2447bb93",
+          "552-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/316f4a4f2447bb93/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag57c3c0e0126aba9997c836c619023ec44h",
+          "552-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_sub": "https://otakuhg.site/e/ggmz2auxng3m",
+          "552-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gkcoljdve8eh",
+          "552-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/0bcaa5af7abc0ffb",
+          "552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0bcaa5af7abc0ffb/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/agea1eb1cf04b510549cc8d50d68cb77f14h",
+          "552-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_dub": "https://otakuhg.site/e/9hgr1s3mz5pz",
+          "552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/576h83nxwzht",
+          "552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_hsub": "https://vibeplayer.site/76e8d3eb21d0a96d",
+          "552-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/76e8d3eb21d0a96d/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag63a89391cac523c41143d3ba695cd2624h",
+          "552-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_hsub": "https://otakuhg.site/e/obsqvmpumcp9",
+          "552-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5b6q0t3d0cxk",
+          "552-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-1_playmogo_hsub": "https://playmogo.com/e/81ynb644bva7",
+          "552-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Birth of Greymon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-2",
+      "sub": {
+        "HD-1": {
+          "552-malep-2_vibeplayer_sub": "https://vibeplayer.site/1d212eecd08b034c",
+          "552-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1d212eecd08b034c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag0317406f4821477da5380171220a143f4h",
+          "552-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-2_otakuvid_sub": "https://otakuvid.online/embed/28uaripbwunu",
+          "552-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-2_vibeplayer_dub": "https://vibeplayer.site/9baf9c89c21ecc3b",
+          "552-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9baf9c89c21ecc3b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag1fa024f3d3892d43111c71843048e5b54h",
+          "552-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-2_otakuhg_dub": "https://otakuhg.site/e/ww4g2g9hm7k5",
+          "552-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-2_otakuvid_dub": "https://otakuvid.online/embed/531dohqmwnvu",
+          "552-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8042164a8c79ad23",
+          "552-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8042164a8c79ad23/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag17f9c475e5bc4ad9a1ce609277f02c024h",
+          "552-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-2_otakuhg_hsub": "https://otakuhg.site/e/5ty1w4bssl71",
+          "552-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/9bpj0700khqk",
+          "552-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-2_playmogo_hsub": "https://playmogo.com/e/ausp2bzf7d8y",
+          "552-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Garurumon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-3",
+      "sub": {
+        "HD-1": {
+          "552-malep-3_vibeplayer_sub": "https://vibeplayer.site/cc4e312dd4a018a9",
+          "552-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cc4e312dd4a018a9/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag06c349b19141ed4f3da3d692ced4fa1a4h",
+          "552-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-3_otakuhg_sub": "https://otakuhg.site/e/w33tqtiunw5x",
+          "552-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-3_otakuvid_sub": "https://otakuvid.online/embed/brmm34eqxj89",
+          "552-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-3_vibeplayer_dub": "https://vibeplayer.site/57c296d1fcfae37a",
+          "552-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/57c296d1fcfae37a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag53bfb13d12e127ee0128e66cef4b37ad4h",
+          "552-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-3_otakuvid_dub": "https://otakuvid.online/embed/do9ie3neu6sh",
+          "552-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-3_vibeplayer_hsub": "https://vibeplayer.site/c87ae4bab33ecdc4",
+          "552-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c87ae4bab33ecdc4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-3_vibeplayer_hsub": "https://vibeplayer.site/agb25a9488614d8cd5e242e8671179e8da4h",
+          "552-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-3_otakuhg_hsub": "https://otakuhg.site/e/qduefw55l8cv",
+          "552-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/418j5iiyktf7",
+          "552-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-3_playmogo_hsub": "https://playmogo.com/e/urm94m4v4f18",
+          "552-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Biyomon Gets Firepower",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-4",
+      "sub": {
+        "HD-1": {
+          "552-malep-4_vibeplayer_sub": "https://vibeplayer.site/8e1f484f7e3cb5f2",
+          "552-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e1f484f7e3cb5f2/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag4174057f41641eb978e6eb849608510e4h",
+          "552-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-4_otakuhg_sub": "https://otakuhg.site/e/gxs07gdpmkso",
+          "552-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-4_otakuvid_sub": "https://otakuvid.online/embed/28agxi1sr2or",
+          "552-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-4_vibeplayer_dub": "https://vibeplayer.site/654ea4b2a791be62",
+          "552-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/654ea4b2a791be62/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-4_vibeplayer_dub": "https://vibeplayer.site/agd01442e3b4cfa7f89f8b588f8e73d1e24h",
+          "552-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-4_otakuhg_dub": "https://otakuhg.site/e/c2g6xhg0xs88",
+          "552-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-4_otakuvid_dub": "https://otakuvid.online/embed/05opbu0bydj7",
+          "552-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-4_vibeplayer_hsub": "https://vibeplayer.site/0e6f04620357cdcd",
+          "552-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e6f04620357cdcd/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag2369964e2a4fde9c5e46b3be815c86384h",
+          "552-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-4_otakuhg_hsub": "https://otakuhg.site/e/ei89m5be7bh9",
+          "552-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/tznpjjkddsey",
+          "552-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-4_playmogo_hsub": "https://playmogo.com/e/itkvzvf6bf9d",
+          "552-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kabuterimon`s Electro Shocker",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-5",
+      "sub": {
+        "HD-1": {
+          "552-malep-5_vibeplayer_sub": "https://vibeplayer.site/4c6f10b842d01c3e",
+          "552-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c6f10b842d01c3e/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag5b7d80b586fb2042b8a498c604a7e5784h",
+          "552-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-5_otakuvid_sub": "https://otakuvid.online/embed/ir0a51hd2c2o",
+          "552-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-5_vibeplayer_dub": "https://vibeplayer.site/1e860c8d8aba5451",
+          "552-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1e860c8d8aba5451/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-5_vibeplayer_dub": "https://vibeplayer.site/agf813d9baffa7576ceeacc21956b9d30c4h",
+          "552-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-5_otakuvid_dub": "https://otakuvid.online/embed/h0o9ygfmsc48",
+          "552-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-5_vibeplayer_hsub": "https://vibeplayer.site/8c85f5c7bc5a8148",
+          "552-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c85f5c7bc5a8148/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag670fc797deeae93a74a1bd5f76310c934h",
+          "552-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-5_otakuhg_hsub": "https://otakuhg.site/e/moiw3l5l7w98",
+          "552-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/m3u01c8wbipb",
+          "552-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-5_playmogo_hsub": "https://playmogo.com/e/c26wocb8ojtf",
+          "552-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Togemon in Toy Town",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-6",
+      "sub": {
+        "HD-1": {
+          "552-malep-6_vibeplayer_sub": "https://vibeplayer.site/21c967e629d73a6f",
+          "552-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21c967e629d73a6f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-6_vibeplayer_sub": "https://vibeplayer.site/agfcbb6a8b8d0b7371bb87613e7b64ecff4h",
+          "552-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-6_otakuvid_sub": "https://otakuvid.online/embed/2glf965k5zfi",
+          "552-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-6_vibeplayer_dub": "https://vibeplayer.site/07c5215ed1cd507b",
+          "552-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07c5215ed1cd507b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag26014637cb4f92dca92b2cd5de46126f4h",
+          "552-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-6_otakuvid_dub": "https://otakuvid.online/embed/phuux4ju429l",
+          "552-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-6_vibeplayer_hsub": "https://vibeplayer.site/6ded7befe811097d",
+          "552-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6ded7befe811097d/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-6_vibeplayer_hsub": "https://vibeplayer.site/agc43e8d1c20ca0c009b99a5bb0a4af2c44h",
+          "552-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-6_otakuhg_hsub": "https://otakuhg.site/e/9ogdpcmm8ew7",
+          "552-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/dcfjkao932jy",
+          "552-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-6_playmogo_hsub": "https://playmogo.com/e/v64h5wtp8jlr",
+          "552-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ikkakumon`s Harpoon Torpedo",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-7",
+      "sub": {
+        "HD-1": {
+          "552-malep-7_vibeplayer_sub": "https://vibeplayer.site/c63dd4fa9aa5bd78",
+          "552-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c63dd4fa9aa5bd78/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-7_vibeplayer_sub": "https://vibeplayer.site/agb6d018fc9185c163e9a5b166b66bf64c4h",
+          "552-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-7_otakuvid_sub": "https://otakuvid.online/embed/6r2cup7vw1q1",
+          "552-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-7_vibeplayer_dub": "https://vibeplayer.site/4f07e219e134416c",
+          "552-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4f07e219e134416c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-7_vibeplayer_dub": "https://vibeplayer.site/agd2acad34465cdedc19173e48e72c9eb34h",
+          "552-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-7_otakuvid_dub": "https://otakuvid.online/embed/06ufj1xu2oi7",
+          "552-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-7_vibeplayer_hsub": "https://vibeplayer.site/3e68a726a9f619a4",
+          "552-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3e68a726a9f619a4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-7_vibeplayer_hsub": "https://vibeplayer.site/agec393f768ca1ce2ca1e879ec70c418be4h",
+          "552-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-7_otakuhg_hsub": "https://otakuhg.site/e/zw8n6vkxr2pr",
+          "552-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ga4kfnx9c19a",
+          "552-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-7_playmogo_hsub": "https://playmogo.com/e/x65iw8sy265s",
+          "552-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Evil Shows His Face",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-8",
+      "sub": {
+        "HD-1": {
+          "552-malep-8_vibeplayer_sub": "https://vibeplayer.site/8b41a0947202dcee",
+          "552-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b41a0947202dcee/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag24221b84052f197e2c7f993021c1bea84h",
+          "552-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-8_otakuvid_sub": "https://otakuvid.online/embed/1xxxs4oxcmur",
+          "552-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-8_vibeplayer_dub": "https://vibeplayer.site/cadf5fd08eddd273",
+          "552-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cadf5fd08eddd273/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-8_vibeplayer_dub": "https://vibeplayer.site/agc3e628dafc84e1a45c3a7eed028d57854h",
+          "552-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-8_otakuhg_dub": "https://otakuhg.site/e/ixdm1opg8le1",
+          "552-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-8_otakuvid_dub": "https://otakuvid.online/embed/iek559rdshbe",
+          "552-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-8_vibeplayer_hsub": "https://vibeplayer.site/4a0894ea260fb48c",
+          "552-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a0894ea260fb48c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-8_vibeplayer_hsub": "https://vibeplayer.site/age817c0834d4b16ff25398f71b34b2c0c4h",
+          "552-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-8_otakuhg_hsub": "https://otakuhg.site/e/2qwpzp8sxzau",
+          "552-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/mffy9qt7w9go",
+          "552-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-8_playmogo_hsub": "https://playmogo.com/e/oq54llva1rwh",
+          "552-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Subzero Ice Punch!",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-9",
+      "sub": {
+        "HD-1": {
+          "552-malep-9_vibeplayer_sub": "https://vibeplayer.site/6d07506267b761c2",
+          "552-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d07506267b761c2/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag0a56d92cd54f0e3797ac7347543d34534h",
+          "552-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-9_otakuvid_sub": "https://otakuvid.online/embed/1c7jyfmf392p",
+          "552-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-9_vibeplayer_dub": "https://vibeplayer.site/aeef2d6d30828c1e",
+          "552-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aeef2d6d30828c1e/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-9_vibeplayer_dub": "https://vibeplayer.site/agd66d1ed361f4808a81073d38dce0b9b44h",
+          "552-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-9_otakuvid_dub": "https://otakuvid.online/embed/mdnl9wdn6b9c",
+          "552-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-9_vibeplayer_hsub": "https://vibeplayer.site/8e1b8387f8feb2c3",
+          "552-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e1b8387f8feb2c3/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-9_vibeplayer_hsub": "https://vibeplayer.site/agd3e5fc244e8c983987aa8e3d0b4c0a784h",
+          "552-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-9_otakuhg_hsub": "https://otakuhg.site/e/zsqwl96eopav",
+          "552-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/3slo8sc6k1zc",
+          "552-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-9_playmogo_hsub": "https://playmogo.com/e/vg3r2322wip5",
+          "552-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Clue From the Digi-Past",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-10",
+      "sub": {
+        "HD-1": {
+          "552-malep-10_vibeplayer_sub": "https://vibeplayer.site/133841804cc0dfb4",
+          "552-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/133841804cc0dfb4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-10_vibeplayer_sub": "https://vibeplayer.site/agbce2b9b1f98d0a6dd0c4313173c454e14h",
+          "552-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-10_otakuvid_sub": "https://otakuvid.online/embed/w1r6vuvodndt",
+          "552-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-10_vibeplayer_dub": "https://vibeplayer.site/268c3a4cebc18c74",
+          "552-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/268c3a4cebc18c74/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-10_vibeplayer_dub": "https://vibeplayer.site/agca5ad32e4605b1568c0d29997b10ed694h",
+          "552-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-10_otakuvid_dub": "https://otakuvid.online/embed/kzn3shrhkbaz",
+          "552-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-10_vibeplayer_hsub": "https://vibeplayer.site/1a277cfd33023151",
+          "552-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a277cfd33023151/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag835c020e3948a453678ffbdbeab67dd84h",
+          "552-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-10_otakuhg_hsub": "https://otakuhg.site/e/nsv5krckq5zv",
+          "552-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/t162k4zzpmgn",
+          "552-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-10_playmogo_hsub": "https://playmogo.com/e/pa2ajxo9il2g",
+          "552-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Dancing Digimon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-11",
+      "sub": {
+        "HD-1": {
+          "552-malep-11_vibeplayer_sub": "https://vibeplayer.site/e5fc7283aaf3f4ee",
+          "552-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5fc7283aaf3f4ee/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag19df80a8586411ff9de753449bebd5e64h",
+          "552-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-11_otakuvid_sub": "https://otakuvid.online/embed/69zy1torx9sq",
+          "552-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-11_vibeplayer_dub": "https://vibeplayer.site/c5f0548b6c253227",
+          "552-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c5f0548b6c253227/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag9ab41b5b062cdcbd1b77c1a0cb1dd9da4h",
+          "552-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-11_otakuvid_dub": "https://otakuvid.online/embed/ju6iqxswa9nm",
+          "552-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-11_vibeplayer_hsub": "https://vibeplayer.site/8e1f551e5a60fca9",
+          "552-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e1f551e5a60fca9/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-11_vibeplayer_hsub": "https://vibeplayer.site/agbf9a05bd21b01c59c299eccc1ffd177b4h",
+          "552-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-11_otakuhg_hsub": "https://otakuhg.site/e/ihk5a9l5ix67",
+          "552-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/675w7a0oo9uc",
+          "552-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-11_playmogo_hsub": "https://playmogo.com/e/6ffftp1owcjy",
+          "552-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "DigiBaby Boom",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-12",
+      "sub": {
+        "HD-1": {
+          "552-malep-12_vibeplayer_sub": "https://vibeplayer.site/8fd8be8ac96eb1d7",
+          "552-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fd8be8ac96eb1d7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-12_vibeplayer_sub": "https://vibeplayer.site/agb613e9a1f69ea68f481d791383852f424h",
+          "552-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-12_otakuvid_sub": "https://otakuvid.online/embed/emyptj42iaio",
+          "552-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-12_vibeplayer_dub": "https://vibeplayer.site/009072b27beefb32",
+          "552-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/009072b27beefb32/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag595694fd47d18ac5b6110f7c9a5256aa4h",
+          "552-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-12_otakuvid_dub": "https://otakuvid.online/embed/elc0n9ggo1tl",
+          "552-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-12_vibeplayer_hsub": "https://vibeplayer.site/bd107291bb197921",
+          "552-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd107291bb197921/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ag3773f4d5d0522e6e8f7307a58cf3a9fd4h",
+          "552-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-12_otakuhg_hsub": "https://otakuhg.site/e/equs88ubktss",
+          "552-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/66pkycr06duo",
+          "552-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-12_playmogo_hsub": "https://playmogo.com/e/fky9ve3x9xf6",
+          "552-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Legend of the Digidestined",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-13",
+      "sub": {
+        "HD-1": {
+          "552-malep-13_vibeplayer_sub": "https://vibeplayer.site/c89109ea75da4bc6",
+          "552-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c89109ea75da4bc6/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-13_vibeplayer_sub": "https://vibeplayer.site/ag5f5f3564f911983d03abee1d24870ba84h",
+          "552-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-13_otakuvid_sub": "https://otakuvid.online/embed/o6ak64dw8opv",
+          "552-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-13_vibeplayer_dub": "https://vibeplayer.site/4712695cd3d436dc",
+          "552-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4712695cd3d436dc/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-13_vibeplayer_dub": "https://vibeplayer.site/ag0899deec9a4978554da8e161e17ffc604h",
+          "552-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-13_otakuvid_dub": "https://otakuvid.online/embed/z7rb21m9jqu0",
+          "552-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-13_vibeplayer_hsub": "https://vibeplayer.site/277395ad2cf2efa6",
+          "552-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/277395ad2cf2efa6/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-13_vibeplayer_hsub": "https://vibeplayer.site/ag92f5bc5fbb47ad1435ee3759bb5ae6d84h",
+          "552-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-13_otakuhg_hsub": "https://otakuhg.site/e/w7qnrjs9fbxh",
+          "552-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/3sm8gpa4nqub",
+          "552-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-13_playmogo_hsub": "https://playmogo.com/e/q8v7j9k0kn7i",
+          "552-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Departure For a New Continent",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-14",
+      "sub": {
+        "HD-1": {
+          "552-malep-14_vibeplayer_sub": "https://vibeplayer.site/95350fc39d8b73cf",
+          "552-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/95350fc39d8b73cf/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-14_vibeplayer_sub": "https://vibeplayer.site/ag013811db647f27d99a45026ef226b7b54h",
+          "552-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-14_otakuvid_sub": "https://otakuvid.online/embed/1fpp3dijn8fj",
+          "552-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-14_vibeplayer_dub": "https://vibeplayer.site/4755370abccb5b44",
+          "552-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4755370abccb5b44/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-14_vibeplayer_dub": "https://vibeplayer.site/agf51a4cbedb0f2d260ab53b5403c004034h",
+          "552-malep-14_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-14_otakuvid_dub": "https://otakuvid.online/embed/1ygnyc6vp9vo",
+          "552-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-14_vibeplayer_hsub": "https://vibeplayer.site/64e3f829e5c13ff6",
+          "552-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64e3f829e5c13ff6/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ag62abe708d92a101f7168bd2cd33260114h",
+          "552-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-14_otakuhg_hsub": "https://otakuhg.site/e/fic2fgxyfpho",
+          "552-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/dcd2u2zwa7nb",
+          "552-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-14_playmogo_hsub": "https://playmogo.com/e/2ngsad6cny01",
+          "552-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Dark Network of Etemon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-15",
+      "sub": {
+        "HD-1": {
+          "552-malep-15_vibeplayer_sub": "https://vibeplayer.site/630d8faade029957",
+          "552-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/630d8faade029957/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-15_vibeplayer_sub": "https://vibeplayer.site/ag75e6da4745785691a3563031c832ddbf4h",
+          "552-malep-15_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-15_otakuvid_sub": "https://otakuvid.online/embed/fj7zhah3ob7t",
+          "552-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-15_vibeplayer_dub": "https://vibeplayer.site/99859fa83890c7f7",
+          "552-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99859fa83890c7f7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-15_vibeplayer_dub": "https://vibeplayer.site/ag420a6f5c16790d834ac0232cb7b377754h",
+          "552-malep-15_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-15_otakuvid_dub": "https://otakuvid.online/embed/ccdgx9c68zku",
+          "552-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-15_vibeplayer_hsub": "https://vibeplayer.site/58871f74dd9480df",
+          "552-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/58871f74dd9480df/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-15_vibeplayer_hsub": "https://vibeplayer.site/ag177c34a6f9ea0e4940c6b9b73786841d4h",
+          "552-malep-15_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-15_otakuhg_hsub": "https://otakuhg.site/e/aiv1znrad6hp",
+          "552-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/vjgdjn1ey9b5",
+          "552-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-15_playmogo_hsub": "https://playmogo.com/e/j9y9inmf3jnd",
+          "552-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Arrival of Skullgreymon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-16",
+      "sub": {
+        "HD-1": {
+          "552-malep-16_vibeplayer_sub": "https://vibeplayer.site/840cdefddb86ef1f",
+          "552-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/840cdefddb86ef1f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag343f997c877c90c599bc9f337d77f9f54h",
+          "552-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-16_otakuvid_sub": "https://otakuvid.online/embed/ckfeb7hr4r51",
+          "552-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-16_vibeplayer_dub": "https://vibeplayer.site/65c0ca35b357c38d",
+          "552-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/65c0ca35b357c38d/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-16_vibeplayer_dub": "https://vibeplayer.site/agabff6872a1912f37bfa27af4621864e04h",
+          "552-malep-16_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-16_otakuvid_dub": "https://otakuvid.online/embed/6xlrfc33pxdv",
+          "552-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-16_vibeplayer_hsub": "https://vibeplayer.site/e06c138ce12b3511",
+          "552-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e06c138ce12b3511/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-16_vibeplayer_hsub": "https://vibeplayer.site/ag3c860298d0111996fccf59bb8ec2dd224h",
+          "552-malep-16_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-16_otakuhg_hsub": "https://otakuhg.site/e/7uufx2wcsr87",
+          "552-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/s5l5jsv5jp0c",
+          "552-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-16_playmogo_hsub": "https://playmogo.com/e/h8s2wynxuhg3",
+          "552-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Crest of Sincerity",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-17",
+      "sub": {
+        "HD-1": {
+          "552-malep-17_vibeplayer_sub": "https://vibeplayer.site/26b018d2f5db5635",
+          "552-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26b018d2f5db5635/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-17_vibeplayer_sub": "https://vibeplayer.site/agf18c655843e2aa1f3a8ccdad4ed9a1f14h",
+          "552-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-17_otakuvid_sub": "https://otakuvid.online/embed/enu5wbjycnyy",
+          "552-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-17_vibeplayer_dub": "https://vibeplayer.site/29eeeb04e4309e9c",
+          "552-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/29eeeb04e4309e9c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-17_vibeplayer_dub": "https://vibeplayer.site/ag82569e81b8fc23577c1a2449fd150c944h",
+          "552-malep-17_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-17_otakuvid_dub": "https://otakuvid.online/embed/fa74vx2ll02d",
+          "552-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-17_vibeplayer_hsub": "https://vibeplayer.site/7e35239e4b975de4",
+          "552-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e35239e4b975de4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-17_vibeplayer_hsub": "https://vibeplayer.site/ag001126b8e3ff00eeaed6d632e15ab9644h",
+          "552-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-17_otakuhg_hsub": "https://otakuhg.site/e/qcbifkp0cz44",
+          "552-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/11zvza2ip7lj",
+          "552-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-17_playmogo_hsub": "https://playmogo.com/e/kswhfbuels3u",
+          "552-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Piximon Cometh",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-18",
+      "sub": {
+        "HD-1": {
+          "552-malep-18_vibeplayer_sub": "https://vibeplayer.site/88ffa7b9d5f11c8e",
+          "552-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88ffa7b9d5f11c8e/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-18_vibeplayer_sub": "https://vibeplayer.site/ag2434c33a4683b9ebdf48cd4b3661b1314h",
+          "552-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-18_otakuvid_sub": "https://otakuvid.online/embed/qyx8k8nrcfdo",
+          "552-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-18_vibeplayer_dub": "https://vibeplayer.site/d644c86a570e86ae",
+          "552-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d644c86a570e86ae/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-18_vibeplayer_dub": "https://vibeplayer.site/ag26ddd96a33ba9d000d75b455361749fd4h",
+          "552-malep-18_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-18_otakuvid_dub": "https://otakuvid.online/embed/z0225d9qspmk",
+          "552-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-18_vibeplayer_hsub": "https://vibeplayer.site/ab5b0e835b740a90",
+          "552-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab5b0e835b740a90/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-18_vibeplayer_hsub": "https://vibeplayer.site/agafd5e232ae4e5ff082510d25f07d1be44h",
+          "552-malep-18_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-18_otakuhg_hsub": "https://otakuhg.site/e/xgzw5v99tc5e",
+          "552-malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/x8fmuqn6x692",
+          "552-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-18_playmogo_hsub": "https://playmogo.com/e/1d7j9hg1c59x",
+          "552-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Prisoner of the Pyramid",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-19",
+      "sub": {
+        "HD-1": {
+          "552-malep-19_vibeplayer_sub": "https://vibeplayer.site/6d9f58fde89351cf",
+          "552-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d9f58fde89351cf/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-19_vibeplayer_sub": "https://vibeplayer.site/ag86a80a0961359184dc38fa9e0b30fcda4h",
+          "552-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-19_otakuvid_sub": "https://otakuvid.online/embed/sp4ejmexjk2r",
+          "552-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-19_vibeplayer_dub": "https://vibeplayer.site/c4cd3d0803db3f5f",
+          "552-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c4cd3d0803db3f5f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-19_vibeplayer_dub": "https://vibeplayer.site/agf98c0802483d9c381778eb87a7eacdca4h",
+          "552-malep-19_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-19_otakuvid_dub": "https://otakuvid.online/embed/autyzuu505o7",
+          "552-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-19_vibeplayer_hsub": "https://vibeplayer.site/248ef71e3c8b2148",
+          "552-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/248ef71e3c8b2148/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-19_vibeplayer_hsub": "https://vibeplayer.site/ag2e7cf9a5c773d3a9cded98d5b457e2654h",
+          "552-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-19_otakuhg_hsub": "https://otakuhg.site/e/yy325hwqw5oy",
+          "552-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/ijslbargav49",
+          "552-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-19_playmogo_hsub": "https://playmogo.com/e/bzk0yf6pioqf",
+          "552-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Earthquake of Metalgreymon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-20",
+      "sub": {
+        "HD-1": {
+          "552-malep-20_vibeplayer_sub": "https://vibeplayer.site/1c20533bbaf96cae",
+          "552-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1c20533bbaf96cae/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-20_vibeplayer_sub": "https://vibeplayer.site/ag076eb3f80565d6daa3e339137364f2804h",
+          "552-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-20_otakuvid_sub": "https://otakuvid.online/embed/y2mcfci70uil",
+          "552-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-20_vibeplayer_dub": "https://vibeplayer.site/1ca0fea79703edf7",
+          "552-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1ca0fea79703edf7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-20_vibeplayer_dub": "https://vibeplayer.site/agba803dc1dbe7da77f0c38e74b8d136124h",
+          "552-malep-20_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-20_otakuvid_dub": "https://otakuvid.online/embed/pl9uce2nkrui",
+          "552-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-20_vibeplayer_hsub": "https://vibeplayer.site/5844aee5c7fa9e14",
+          "552-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5844aee5c7fa9e14/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-20_vibeplayer_hsub": "https://vibeplayer.site/ag36ce8cb49828a955f6a21a3ce87c37614h",
+          "552-malep-20_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-20_otakuhg_hsub": "https://otakuhg.site/e/sfq4adwqln41",
+          "552-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/82zf3ndvom4i",
+          "552-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-20_playmogo_hsub": "https://playmogo.com/e/p21o62qeyr63",
+          "552-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Home Away From Home",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-21",
+      "sub": {
+        "HD-1": {
+          "552-malep-21_vibeplayer_sub": "https://vibeplayer.site/4226acea3b933970",
+          "552-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4226acea3b933970/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag909983cd9fff80fba2b9a8423deb692d4h",
+          "552-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-21_otakuvid_sub": "https://otakuvid.online/embed/g3cg0nyynbm3",
+          "552-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-21_vibeplayer_dub": "https://vibeplayer.site/0a017ea2c012f239",
+          "552-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0a017ea2c012f239/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-21_vibeplayer_dub": "https://vibeplayer.site/ag64ae1d062828343097f4000e9088657f4h",
+          "552-malep-21_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-21_otakuvid_dub": "https://otakuvid.online/embed/fgo32pscosat",
+          "552-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-21_vibeplayer_hsub": "https://vibeplayer.site/01a40b4a9ec7a521",
+          "552-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/01a40b4a9ec7a521/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-21_vibeplayer_hsub": "https://vibeplayer.site/ag0a40cf033d0434eed07963bd24bd76cb4h",
+          "552-malep-21_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-21_otakuhg_hsub": "https://otakuhg.site/e/pg470sly2rni",
+          "552-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/08o4ajo2rf7b",
+          "552-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-21_playmogo_hsub": "https://playmogo.com/e/inhgxpnqwpof",
+          "552-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Forget About It!",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-22",
+      "sub": {
+        "HD-1": {
+          "552-malep-22_vibeplayer_sub": "https://vibeplayer.site/6872fc6d1298fbda",
+          "552-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6872fc6d1298fbda/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-22_vibeplayer_sub": "https://vibeplayer.site/ag0af2d169d21ae0b283b91faee93f0efc4h",
+          "552-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-22_otakuvid_sub": "https://otakuvid.online/embed/twq6y72li7x8",
+          "552-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-22_vibeplayer_dub": "https://vibeplayer.site/f0b6f2a83ddf0cde",
+          "552-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f0b6f2a83ddf0cde/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-22_vibeplayer_dub": "https://vibeplayer.site/ag79e0cb3a07a1d8bdfce4194b32dcec634h",
+          "552-malep-22_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-22_otakuvid_dub": "https://otakuvid.online/embed/ffch5ht7zymp",
+          "552-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-22_vibeplayer_hsub": "https://vibeplayer.site/30fb454eb7ffbb04",
+          "552-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30fb454eb7ffbb04/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-22_vibeplayer_hsub": "https://vibeplayer.site/age0630b365408c0841abfefff445cf3d94h",
+          "552-malep-22_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-22_otakuhg_hsub": "https://otakuhg.site/e/vetnmzfmzzaz",
+          "552-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/i0g3v9c2spjj",
+          "552-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-22_playmogo_hsub": "https://playmogo.com/e/zmmfqf40o2wp",
+          "552-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Weregarurumon's Diner",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-23",
+      "sub": {
+        "HD-1": {
+          "552-malep-23_vibeplayer_sub": "https://vibeplayer.site/911587b2aec751e2",
+          "552-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/911587b2aec751e2/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-23_vibeplayer_sub": "https://vibeplayer.site/agfd51ba8241865a6ad9aaa2361d1a19ca4h",
+          "552-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-23_otakuvid_sub": "https://otakuvid.online/embed/50561p6w2l4n",
+          "552-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-23_vibeplayer_dub": "https://vibeplayer.site/9461cea7df878c22",
+          "552-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9461cea7df878c22/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-23_vibeplayer_dub": "https://vibeplayer.site/ag0d66c98ff40ce2c51f18a7e9dbfe06284h",
+          "552-malep-23_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-23_otakuhg_dub": "https://otakuhg.site/e/2wyefqdf3kv4",
+          "552-malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-23_otakuvid_dub": "https://otakuvid.online/embed/r8cwv66ba2qc",
+          "552-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-23_vibeplayer_hsub": "https://vibeplayer.site/a7d26655a9433019",
+          "552-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7d26655a9433019/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-23_vibeplayer_hsub": "https://vibeplayer.site/agd075b609247503b906814594d98b22d74h",
+          "552-malep-23_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-23_otakuhg_hsub": "https://otakuhg.site/e/1u0ollbc8sdw",
+          "552-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/bl9dd2rxezry",
+          "552-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-23_playmogo_hsub": "https://playmogo.com/e/68ogj1f22ni2",
+          "552-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "No Questions, Please",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-24",
+      "sub": {
+        "HD-1": {
+          "552-malep-24_vibeplayer_sub": "https://vibeplayer.site/99dfe7befd8246e0",
+          "552-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/99dfe7befd8246e0/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-24_vibeplayer_sub": "https://vibeplayer.site/agd505dd97c6e9a288bb012ca55ee1f8d24h",
+          "552-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-24_otakuhg_sub": "https://otakuhg.site/e/cq6ie5rajb0m",
+          "552-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-24_otakuvid_sub": "https://otakuvid.online/embed/xjzokktkdz2l",
+          "552-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-24_vibeplayer_dub": "https://vibeplayer.site/033fc72e8e222443",
+          "552-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/033fc72e8e222443/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-24_vibeplayer_dub": "https://vibeplayer.site/agdc91fd6820f94d435e291dd2dfc051df4h",
+          "552-malep-24_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-24_otakuhg_dub": "https://otakuhg.site/e/c09vpkwq0nmu",
+          "552-malep-24_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-24_otakuvid_dub": "https://otakuvid.online/embed/rhymo51xwqlu",
+          "552-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-24_vibeplayer_hsub": "https://vibeplayer.site/757808693bba7e45",
+          "552-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/757808693bba7e45/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-24_vibeplayer_hsub": "https://vibeplayer.site/ag9cef4f5d13236e01e647d4b62d08c2ed4h",
+          "552-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-24_otakuhg_hsub": "https://otakuhg.site/e/hwnoefhg2zx0",
+          "552-malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/bpgpdqj345pe",
+          "552-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-24_playmogo_hsub": "https://playmogo.com/e/xohiqnt4wmmm",
+          "552-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Princess Karaoke",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-25",
+      "sub": {
+        "HD-1": {
+          "552-malep-25_vibeplayer_sub": "https://vibeplayer.site/5f3af81fdf7b695b",
+          "552-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f3af81fdf7b695b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-25_vibeplayer_sub": "https://vibeplayer.site/ag0cde875b3372d63aefcab9e1db4cbac44h",
+          "552-malep-25_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-25_otakuvid_sub": "https://otakuvid.online/embed/2pgrfdkeef3f",
+          "552-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-25_vibeplayer_dub": "https://vibeplayer.site/a4b537bda61ad7f1",
+          "552-malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a4b537bda61ad7f1/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-25_vibeplayer_dub": "https://vibeplayer.site/ag11b816b25f46b9594a06f3c9b4a175824h",
+          "552-malep-25_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-25_otakuhg_dub": "https://otakuhg.site/e/c6o9cwl511pc",
+          "552-malep-25_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-25_otakuvid_dub": "https://otakuvid.online/embed/6u3zg2scfjr5",
+          "552-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-25_vibeplayer_hsub": "https://vibeplayer.site/f67a6e0e80dfcfcb",
+          "552-malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f67a6e0e80dfcfcb/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-25_vibeplayer_hsub": "https://vibeplayer.site/agd50365fb5280bf19eab79917123ef7074h",
+          "552-malep-25_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-25_otakuhg_hsub": "https://otakuhg.site/e/c1jc3gz04wt4",
+          "552-malep-25_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-25_otakuvid_hsub": "https://otakuvid.online/embed/mtck41t5q98i",
+          "552-malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-25_playmogo_hsub": "https://playmogo.com/e/tepayy8ifs2b",
+          "552-malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sora`s Crest of Love",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-26",
+      "sub": {
+        "HD-1": {
+          "552-malep-26_vibeplayer_sub": "https://vibeplayer.site/55431b4c07027098",
+          "552-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55431b4c07027098/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-26_vibeplayer_sub": "https://vibeplayer.site/agc7f67c64a6044a283684bb367ce5966f4h",
+          "552-malep-26_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-26_otakuvid_sub": "https://otakuvid.online/embed/8jl0vpn0hhym",
+          "552-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-26_vibeplayer_dub": "https://vibeplayer.site/5323b93537357c83",
+          "552-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5323b93537357c83/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-26_vibeplayer_dub": "https://vibeplayer.site/ageebdfd365571193c701561b5272a538e4h",
+          "552-malep-26_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-26_otakuvid_dub": "https://otakuvid.online/embed/q0tklcd34xit",
+          "552-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-26_vibeplayer_hsub": "https://vibeplayer.site/88c0f5ef4c63bb73",
+          "552-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/88c0f5ef4c63bb73/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-26_vibeplayer_hsub": "https://vibeplayer.site/ag2e0202a2bd34489372ddd992d51d67a64h",
+          "552-malep-26_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-26_otakuhg_hsub": "https://otakuhg.site/e/30nxic3jm8wu",
+          "552-malep-26_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/yd4s1jw9358k",
+          "552-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-26_playmogo_hsub": "https://playmogo.com/e/f7zn0js90smg",
+          "552-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Gateway to Home",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-27",
+      "sub": {
+        "HD-1": {
+          "552-malep-27_vibeplayer_sub": "https://vibeplayer.site/9ab360d082497e9a",
+          "552-malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ab360d082497e9a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-27_vibeplayer_sub": "https://vibeplayer.site/ag1aecdad971c72ea8aeb001585643bfec4h",
+          "552-malep-27_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-27_otakuvid_sub": "https://otakuvid.online/embed/5blnntoyaz3m",
+          "552-malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-27_vibeplayer_dub": "https://vibeplayer.site/2416d1ce0f41fbb1",
+          "552-malep-27_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2416d1ce0f41fbb1/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-27_vibeplayer_dub": "https://vibeplayer.site/agc9ad9881c34dd492fe7bd5e6cf9528824h",
+          "552-malep-27_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-27_otakuvid_dub": "https://otakuvid.online/embed/3plkh0nr9bmu",
+          "552-malep-27_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-27_vibeplayer_hsub": "https://vibeplayer.site/81bfb0c70aa04d92",
+          "552-malep-27_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/81bfb0c70aa04d92/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-27_vibeplayer_hsub": "https://vibeplayer.site/ag201681f3cc48b7b080261c035dac08a04h",
+          "552-malep-27_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-27_otakuhg_hsub": "https://otakuhg.site/e/7waijkps6ll1",
+          "552-malep-27_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-27_otakuvid_hsub": "https://otakuvid.online/embed/5dqs0tmhxfjj",
+          "552-malep-27_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-27_playmogo_hsub": "https://playmogo.com/e/djmy1gbdv5k0",
+          "552-malep-27_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It`s All in the Cards",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-28",
+      "sub": {
+        "HD-1": {
+          "552-malep-28_vibeplayer_sub": "https://vibeplayer.site/87874e5513c55069",
+          "552-malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87874e5513c55069/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-28_vibeplayer_sub": "https://vibeplayer.site/agfb0c287c99a60b90e5081c1dfd54ce614h",
+          "552-malep-28_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-28_otakuvid_sub": "https://otakuvid.online/embed/ck03naj9u5we",
+          "552-malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-28_vibeplayer_dub": "https://vibeplayer.site/bb0e85c014fea07f",
+          "552-malep-28_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb0e85c014fea07f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-28_vibeplayer_dub": "https://vibeplayer.site/ag07745c4952c909f258c10065fbcee7d24h",
+          "552-malep-28_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-28_otakuvid_dub": "https://otakuvid.online/embed/50qudp61uogf",
+          "552-malep-28_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-28_vibeplayer_hsub": "https://vibeplayer.site/5ffb495ae677bb6c",
+          "552-malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5ffb495ae677bb6c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-28_vibeplayer_hsub": "https://vibeplayer.site/ag409d2230ff56acaa041f076fa4fa73844h",
+          "552-malep-28_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-28_otakuhg_hsub": "https://otakuhg.site/e/ky6880yu2v8h",
+          "552-malep-28_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-28_otakuvid_hsub": "https://otakuvid.online/embed/gmbgcqo8icjh",
+          "552-malep-28_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-28_playmogo_hsub": "https://playmogo.com/e/cql0iq8nx0qa",
+          "552-malep-28_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Return to Highton View Terrace",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-29",
+      "sub": {
+        "HD-1": {
+          "552-malep-29_vibeplayer_sub": "https://vibeplayer.site/c6ac94a07936cc39",
+          "552-malep-29_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c6ac94a07936cc39/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-29_vibeplayer_sub": "https://vibeplayer.site/agb8bdfaa4b0be59f8a739883d14c45bf04h",
+          "552-malep-29_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-29_otakuvid_sub": "https://otakuvid.online/embed/a0ouic2pu9oo",
+          "552-malep-29_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-29_vibeplayer_dub": "https://vibeplayer.site/6671b64cc8096df6",
+          "552-malep-29_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6671b64cc8096df6/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-29_vibeplayer_dub": "https://vibeplayer.site/ag35960e66e5403171bda41cf8a2334c384h",
+          "552-malep-29_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-29_otakuvid_dub": "https://otakuvid.online/embed/cl8k4zz1hswm",
+          "552-malep-29_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-29_vibeplayer_hsub": "https://vibeplayer.site/cfdaa02127686ed9",
+          "552-malep-29_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cfdaa02127686ed9/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-29_vibeplayer_hsub": "https://vibeplayer.site/ag03b9f70e1aa4e24bd16f4d04fdcfd0e64h",
+          "552-malep-29_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-29_otakuhg_hsub": "https://otakuhg.site/e/vy48zy71o8j8",
+          "552-malep-29_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-29_otakuvid_hsub": "https://otakuvid.online/embed/b08l5gbetbxw",
+          "552-malep-29_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-29_playmogo_hsub": "https://playmogo.com/e/i31h9fik104o",
+          "552-malep-29_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Almost Home Free",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-30",
+      "sub": {
+        "HD-1": {
+          "552-malep-30_vibeplayer_sub": "https://vibeplayer.site/f2247a0d71369324",
+          "552-malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f2247a0d71369324/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-30_vibeplayer_sub": "https://vibeplayer.site/agcb83ae96bb6ab1986cf6cc0581d55bd54h",
+          "552-malep-30_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-30_otakuvid_sub": "https://otakuvid.online/embed/iz6j02pkk5x3",
+          "552-malep-30_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-30_vibeplayer_dub": "https://vibeplayer.site/a08e036012e0a48b",
+          "552-malep-30_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a08e036012e0a48b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-30_vibeplayer_dub": "https://vibeplayer.site/age9a12e43b70204c59361535f0916a68e4h",
+          "552-malep-30_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-30_otakuvid_dub": "https://otakuvid.online/embed/vfvog7b4ygog",
+          "552-malep-30_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-30_vibeplayer_hsub": "https://vibeplayer.site/d5a46c010ae006e8",
+          "552-malep-30_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5a46c010ae006e8/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-30_vibeplayer_hsub": "https://vibeplayer.site/ag959165258812a1035f7f74d5f23c1d844h",
+          "552-malep-30_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-30_otakuhg_hsub": "https://otakuhg.site/e/mdsnqv1j4jjc",
+          "552-malep-30_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-30_otakuvid_hsub": "https://otakuvid.online/embed/wtp22orkeysv",
+          "552-malep-30_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-30_playmogo_hsub": "https://playmogo.com/e/4aqf9sihfje5",
+          "552-malep-30_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eighth Digivice",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-31",
+      "sub": {
+        "HD-1": {
+          "552-malep-31_vibeplayer_sub": "https://vibeplayer.site/33b4cdb0bbf37024",
+          "552-malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33b4cdb0bbf37024/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-31_vibeplayer_sub": "https://vibeplayer.site/ag4c7a5f9af2996eeab69a8712e56667064h",
+          "552-malep-31_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-31_otakuvid_sub": "https://otakuvid.online/embed/3pz1e6tcf9ji",
+          "552-malep-31_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-31_vibeplayer_dub": "https://vibeplayer.site/692328170dd8076f",
+          "552-malep-31_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/692328170dd8076f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-31_vibeplayer_dub": "https://vibeplayer.site/ag592748b9ed92f084dfcfe29fbd9398f24h",
+          "552-malep-31_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-31_otakuvid_dub": "https://otakuvid.online/embed/hartgiit8po3",
+          "552-malep-31_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-31_vibeplayer_hsub": "https://vibeplayer.site/ddb8f1494befc538",
+          "552-malep-31_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ddb8f1494befc538/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-31_vibeplayer_hsub": "https://vibeplayer.site/aga0346b955a6bc4262ec013a276dd46974h",
+          "552-malep-31_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-31_otakuhg_hsub": "https://otakuhg.site/e/ik1z2ii7gskn",
+          "552-malep-31_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-31_otakuvid_hsub": "https://otakuvid.online/embed/dlvbs4zuzrg0",
+          "552-malep-31_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-31_playmogo_hsub": "https://playmogo.com/e/niyzh6xcvigs",
+          "552-malep-31_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gatomon Comes Calling",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-32",
+      "sub": {
+        "HD-1": {
+          "552-malep-32_vibeplayer_sub": "https://vibeplayer.site/da7b327e90ebafe0",
+          "552-malep-32_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/da7b327e90ebafe0/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-32_vibeplayer_sub": "https://vibeplayer.site/ag9033daf260cc213b02761816c4ea9cac4h",
+          "552-malep-32_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-32_otakuvid_sub": "https://otakuvid.online/embed/e6a7ce8i7kd4",
+          "552-malep-32_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-32_vibeplayer_dub": "https://vibeplayer.site/a04849f1733e77f8",
+          "552-malep-32_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a04849f1733e77f8/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-32_vibeplayer_dub": "https://vibeplayer.site/ag82d94d8e98d75b788166daa9f8eb6ecb4h",
+          "552-malep-32_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-32_otakuvid_dub": "https://otakuvid.online/embed/og887lboimyk",
+          "552-malep-32_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-32_vibeplayer_hsub": "https://vibeplayer.site/09833e2e7fdbb141",
+          "552-malep-32_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09833e2e7fdbb141/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-32_vibeplayer_hsub": "https://vibeplayer.site/aga9acb02a2d9c6c83937787bedac8f0924h",
+          "552-malep-32_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-32_otakuhg_hsub": "https://otakuhg.site/e/34hota844je3",
+          "552-malep-32_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-32_otakuvid_hsub": "https://otakuvid.online/embed/b2kuqr9p7tle",
+          "552-malep-32_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-32_playmogo_hsub": "https://playmogo.com/e/1fh11knbp6w9",
+          "552-malep-32_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Out on the Town",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-33",
+      "sub": {
+        "HD-1": {
+          "552-malep-33_vibeplayer_sub": "https://vibeplayer.site/256a5f7d4f882b2a",
+          "552-malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/256a5f7d4f882b2a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-33_vibeplayer_sub": "https://vibeplayer.site/agb1998239c2e4be3824392c16ac1d151f4h",
+          "552-malep-33_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-33_otakuvid_sub": "https://otakuvid.online/embed/73bocys5pr3o",
+          "552-malep-33_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-33_vibeplayer_dub": "https://vibeplayer.site/e1923c0d1a0918eb",
+          "552-malep-33_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e1923c0d1a0918eb/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-33_vibeplayer_dub": "https://vibeplayer.site/ag3ee1d77ea1d6c9607c146fa7d35998ec4h",
+          "552-malep-33_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-33_otakuvid_dub": "https://otakuvid.online/embed/wsve3az2pp0k",
+          "552-malep-33_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-33_vibeplayer_hsub": "https://vibeplayer.site/7560cc7eeecd5190",
+          "552-malep-33_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7560cc7eeecd5190/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-33_vibeplayer_hsub": "https://vibeplayer.site/ag48a59d245a6128b5fb5ceea8a6fe66024h",
+          "552-malep-33_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-33_otakuhg_hsub": "https://otakuhg.site/e/m169ewtokete",
+          "552-malep-33_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-33_otakuvid_hsub": "https://otakuvid.online/embed/b90ci7j3324y",
+          "552-malep-33_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-33_playmogo_hsub": "https://playmogo.com/e/7jq4tdmfjyeo",
+          "552-malep-33_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eighth Child Revealed",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-34",
+      "sub": {
+        "HD-1": {
+          "552-malep-34_vibeplayer_sub": "https://vibeplayer.site/75cc1bce073e9ae8",
+          "552-malep-34_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/75cc1bce073e9ae8/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-34_vibeplayer_sub": "https://vibeplayer.site/ag5068aa9ffb5db3dde380d8b5ad3768684h",
+          "552-malep-34_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-34_otakuvid_sub": "https://otakuvid.online/embed/0uad0qxn77kt",
+          "552-malep-34_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-34_vibeplayer_dub": "https://vibeplayer.site/77d5f7ab7bd76902",
+          "552-malep-34_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/77d5f7ab7bd76902/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-34_vibeplayer_dub": "https://vibeplayer.site/ag95f8b875e4e6fd47b09e4f0764f090974h",
+          "552-malep-34_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-34_otakuvid_dub": "https://otakuvid.online/embed/xds1bs91pn1c",
+          "552-malep-34_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-34_vibeplayer_hsub": "https://vibeplayer.site/98c20e186a6d484c",
+          "552-malep-34_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/98c20e186a6d484c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-34_vibeplayer_hsub": "https://vibeplayer.site/ag573b1794b479793f5ad580293ae72de44h",
+          "552-malep-34_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-34_otakuhg_hsub": "https://otakuhg.site/e/54oq4hya6il8",
+          "552-malep-34_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-34_otakuvid_hsub": "https://otakuvid.online/embed/oq10vx5zasjf",
+          "552-malep-34_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-34_playmogo_hsub": "https://playmogo.com/e/5x4e4rhaqtkz",
+          "552-malep-34_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Flower Power",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-35",
+      "sub": {
+        "HD-1": {
+          "552-malep-35_vibeplayer_sub": "https://vibeplayer.site/b2b99bc39068e22a",
+          "552-malep-35_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2b99bc39068e22a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-35_vibeplayer_sub": "https://vibeplayer.site/ag13b10f912965dde983d863bf8458240e4h",
+          "552-malep-35_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-35_otakuvid_sub": "https://otakuvid.online/embed/gq92jp44gra4",
+          "552-malep-35_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-35_vibeplayer_dub": "https://vibeplayer.site/f8a0b97ee7ffb9cb",
+          "552-malep-35_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f8a0b97ee7ffb9cb/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-35_vibeplayer_dub": "https://vibeplayer.site/ag2159187a70d367b1366f8353b475bb124h",
+          "552-malep-35_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-35_otakuvid_dub": "https://otakuvid.online/embed/bknelrr1ggd3",
+          "552-malep-35_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-35_vibeplayer_hsub": "https://vibeplayer.site/2db75591ac8d6e14",
+          "552-malep-35_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2db75591ac8d6e14/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-35_vibeplayer_hsub": "https://vibeplayer.site/agc488ce731ee495dd3c4e626484acc1b04h",
+          "552-malep-35_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-35_otakuhg_hsub": "https://otakuhg.site/e/ucvabt991rnk",
+          "552-malep-35_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-35_otakuvid_hsub": "https://otakuvid.online/embed/tfhb6194yovt",
+          "552-malep-35_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-35_playmogo_hsub": "https://playmogo.com/e/d0sty9a13l9k",
+          "552-malep-35_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "City Under Siege",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-36",
+      "sub": {
+        "HD-1": {
+          "552-malep-36_vibeplayer_sub": "https://vibeplayer.site/5af95446ac2d8df7",
+          "552-malep-36_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5af95446ac2d8df7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-36_vibeplayer_sub": "https://vibeplayer.site/agc8a6438b257b523fc564c8c4db8b7ad74h",
+          "552-malep-36_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-36_otakuvid_sub": "https://otakuvid.online/embed/polhre52br6f",
+          "552-malep-36_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-36_vibeplayer_dub": "https://vibeplayer.site/27340beeff362368",
+          "552-malep-36_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/27340beeff362368/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-36_vibeplayer_dub": "https://vibeplayer.site/ag3566f7902c5ae5e0edfb0742fdd4e5524h",
+          "552-malep-36_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-36_otakuvid_dub": "https://otakuvid.online/embed/a1ey0uj0gspb",
+          "552-malep-36_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-36_vibeplayer_hsub": "https://vibeplayer.site/fe969faa98607629",
+          "552-malep-36_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe969faa98607629/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-36_vibeplayer_hsub": "https://vibeplayer.site/ag0b722877c716d2a81964d92b42c97f584h",
+          "552-malep-36_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-36_otakuhg_hsub": "https://otakuhg.site/e/mujqkpcirzjv",
+          "552-malep-36_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-36_otakuvid_hsub": "https://otakuvid.online/embed/t4sbksjhcp8k",
+          "552-malep-36_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-36_playmogo_hsub": "https://playmogo.com/e/8uyvgs2308yi",
+          "552-malep-36_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wizardmon`s Gift",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-37",
+      "sub": {
+        "HD-1": {
+          "552-malep-37_vibeplayer_sub": "https://vibeplayer.site/68f6a0b3e8907bfc",
+          "552-malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/68f6a0b3e8907bfc/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-37_vibeplayer_sub": "https://vibeplayer.site/ag48cf74ffe54b74c35f7002190f736d484h",
+          "552-malep-37_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-37_otakuvid_sub": "https://otakuvid.online/embed/zgflljhtsg6w",
+          "552-malep-37_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-37_vibeplayer_dub": "https://vibeplayer.site/6c2f7e7c16b449ff",
+          "552-malep-37_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6c2f7e7c16b449ff/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-37_vibeplayer_dub": "https://vibeplayer.site/ag4f284ded668d1fd66e8f97120bdd928c4h",
+          "552-malep-37_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-37_otakuvid_dub": "https://otakuvid.online/embed/gdvckt0zjkve",
+          "552-malep-37_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-37_vibeplayer_hsub": "https://vibeplayer.site/442cdaa403020097",
+          "552-malep-37_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/442cdaa403020097/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-37_vibeplayer_hsub": "https://vibeplayer.site/aga8cf21ad503e03ed861b6e22f6b185184h",
+          "552-malep-37_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-37_otakuhg_hsub": "https://otakuhg.site/e/pihls80zxvvt",
+          "552-malep-37_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-37_otakuvid_hsub": "https://otakuvid.online/embed/d06jl4lswyuq",
+          "552-malep-37_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-37_playmogo_hsub": "https://playmogo.com/e/6k5pzupr4t6h",
+          "552-malep-37_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Prophecy",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-38",
+      "sub": {
+        "HD-1": {
+          "552-malep-38_vibeplayer_sub": "https://vibeplayer.site/88a2e148153a030a",
+          "552-malep-38_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88a2e148153a030a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-38_vibeplayer_sub": "https://vibeplayer.site/age83dcfc50659b77a0928b31a108a11994h",
+          "552-malep-38_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-38_otakuvid_sub": "https://otakuvid.online/embed/163crs0s86zo",
+          "552-malep-38_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-38_vibeplayer_dub": "https://vibeplayer.site/eaa1e8de4f4ecb53",
+          "552-malep-38_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eaa1e8de4f4ecb53/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-38_vibeplayer_dub": "https://vibeplayer.site/ag68684f28a0f89d1c075a7f5ee15dd8494h",
+          "552-malep-38_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-38_otakuvid_dub": "https://otakuvid.online/embed/ccjs7vlwmaia",
+          "552-malep-38_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-38_vibeplayer_hsub": "https://vibeplayer.site/c4ca26f908c292f4",
+          "552-malep-38_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c4ca26f908c292f4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-38_vibeplayer_hsub": "https://vibeplayer.site/ag38e36cfcf4c2e6e3d6f6c5ed5f5235504h",
+          "552-malep-38_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-38_otakuhg_hsub": "https://otakuhg.site/e/u4y94t2qgirg",
+          "552-malep-38_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-38_otakuvid_hsub": "https://otakuvid.online/embed/yfaeb7e9k6e6",
+          "552-malep-38_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-38_playmogo_hsub": "https://playmogo.com/e/wx8lq95y7kx5",
+          "552-malep-38_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Battle for Earth",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-39",
+      "sub": {
+        "HD-1": {
+          "552-malep-39_vibeplayer_sub": "https://vibeplayer.site/0a634aacdf58210d",
+          "552-malep-39_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a634aacdf58210d/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-39_vibeplayer_sub": "https://vibeplayer.site/agef97ff3bb1ea2d92ae401def3266a6b94h",
+          "552-malep-39_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-39_otakuvid_sub": "https://otakuvid.online/embed/fb27f0aa9ab8",
+          "552-malep-39_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-39_vibeplayer_dub": "https://vibeplayer.site/09d20fc81e8372c2",
+          "552-malep-39_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/09d20fc81e8372c2/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-39_vibeplayer_dub": "https://vibeplayer.site/aged28c52acaac427768ec1c46fd7a99fb4h",
+          "552-malep-39_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-39_otakuvid_dub": "https://otakuvid.online/embed/woc74n0grqt0",
+          "552-malep-39_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-39_vibeplayer_hsub": "https://vibeplayer.site/aa1c6672ba8e9837",
+          "552-malep-39_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aa1c6672ba8e9837/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-39_vibeplayer_hsub": "https://vibeplayer.site/agd5a8072ea15f49a87af8bb856207e8fd4h",
+          "552-malep-39_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-39_otakuhg_hsub": "https://otakuhg.site/e/v43mwjrekgap",
+          "552-malep-39_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-39_otakuvid_hsub": "https://otakuvid.online/embed/18b6drgu2p8f",
+          "552-malep-39_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-39_playmogo_hsub": "https://playmogo.com/e/76vqeknqcugq",
+          "552-malep-39_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Enter the Dark Masters",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-40",
+      "sub": {
+        "HD-1": {
+          "552-malep-40_vibeplayer_sub": "https://vibeplayer.site/64e359abbbb9050e",
+          "552-malep-40_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/64e359abbbb9050e/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-40_vibeplayer_sub": "https://vibeplayer.site/agd9238f26a4af983f2cc57df5688b73504h",
+          "552-malep-40_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-40_otakuvid_sub": "https://otakuvid.online/embed/zvno2kw9c19b",
+          "552-malep-40_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-40_vibeplayer_dub": "https://vibeplayer.site/a9f5f4e3cb5c1b78",
+          "552-malep-40_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a9f5f4e3cb5c1b78/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-40_vibeplayer_dub": "https://vibeplayer.site/ag834c0e56e8a43868910c743f3fee6d2f4h",
+          "552-malep-40_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-40_otakuvid_dub": "https://otakuvid.online/embed/yuc5zr06xfdn",
+          "552-malep-40_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-40_vibeplayer_hsub": "https://vibeplayer.site/1e7254fd9d316966",
+          "552-malep-40_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e7254fd9d316966/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-40_vibeplayer_hsub": "https://vibeplayer.site/ag3cda53000feda1f5f464443387cb206b4h",
+          "552-malep-40_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-40_otakuhg_hsub": "https://otakuhg.site/e/ajnzr2kxhyjo",
+          "552-malep-40_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-40_otakuvid_hsub": "https://otakuvid.online/embed/fbrjz8vl10kn",
+          "552-malep-40_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-40_playmogo_hsub": "https://playmogo.com/e/gjybjb90dz9o",
+          "552-malep-40_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sea-Sick and Tired",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-41",
+      "sub": {
+        "HD-1": {
+          "552-malep-41_vibeplayer_sub": "https://vibeplayer.site/8ce3c3fec4092181",
+          "552-malep-41_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8ce3c3fec4092181/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-41_vibeplayer_sub": "https://vibeplayer.site/aga57d40da4e879b2b0d99469aeb40177a4h",
+          "552-malep-41_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-41_otakuvid_sub": "https://otakuvid.online/embed/63fxoea39c7n",
+          "552-malep-41_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-41_vibeplayer_dub": "https://vibeplayer.site/45030b13ddd828a1",
+          "552-malep-41_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/45030b13ddd828a1/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-41_vibeplayer_dub": "https://vibeplayer.site/agffa5f1af08e90b01d361d32030dbd4714h",
+          "552-malep-41_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-41_otakuvid_dub": "https://otakuvid.online/embed/ruvnprglpiyt",
+          "552-malep-41_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-41_vibeplayer_hsub": "https://vibeplayer.site/5cd5fe6c74e97e5b",
+          "552-malep-41_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5cd5fe6c74e97e5b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-41_vibeplayer_hsub": "https://vibeplayer.site/agac7ebd5d42c9fffe0663fd2dd842f9a24h",
+          "552-malep-41_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-41_otakuhg_hsub": "https://otakuhg.site/e/6a5isu1z48qg",
+          "552-malep-41_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-41_otakuvid_hsub": "https://otakuvid.online/embed/0gmleqi0egpu",
+          "552-malep-41_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-41_playmogo_hsub": "https://playmogo.com/e/cvdlw9k0pn9u",
+          "552-malep-41_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Under Pressure",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-42",
+      "sub": {
+        "HD-1": {
+          "552-malep-42_vibeplayer_sub": "https://vibeplayer.site/2f0ce901e1024b91",
+          "552-malep-42_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2f0ce901e1024b91/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-42_vibeplayer_sub": "https://vibeplayer.site/agca48aa8fd1575f56a272fe70248991b94h",
+          "552-malep-42_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-42_otakuvid_sub": "https://otakuvid.online/embed/mi7bcrx9u9m2",
+          "552-malep-42_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-42_vibeplayer_dub": "https://vibeplayer.site/1f6c87f45dbcf0f7",
+          "552-malep-42_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f6c87f45dbcf0f7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-42_vibeplayer_dub": "https://vibeplayer.site/agd11c8fd2e2df25cc6b066165e8c432dc4h",
+          "552-malep-42_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-42_otakuvid_dub": "https://otakuvid.online/embed/kz61z4wnvnbs",
+          "552-malep-42_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-42_vibeplayer_hsub": "https://vibeplayer.site/772dc0b2571eb162",
+          "552-malep-42_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/772dc0b2571eb162/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-42_vibeplayer_hsub": "https://vibeplayer.site/ag68b93ff3bd91a8798338deff1e946d764h",
+          "552-malep-42_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-42_otakuhg_hsub": "https://otakuhg.site/e/kznkl6ww77hz",
+          "552-malep-42_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-42_otakuvid_hsub": "https://otakuvid.online/embed/5gy7ghsey1ht",
+          "552-malep-42_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-42_playmogo_hsub": "https://playmogo.com/e/x3qiuqsmyx06",
+          "552-malep-42_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Playing Games",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-43",
+      "sub": {
+        "HD-1": {
+          "552-malep-43_vibeplayer_sub": "https://vibeplayer.site/32d26d33a95af6dc",
+          "552-malep-43_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32d26d33a95af6dc/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-43_vibeplayer_sub": "https://vibeplayer.site/ag7d409d99eb81eb8d2ff0e109c49f53ea4h",
+          "552-malep-43_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-43_otakuvid_sub": "https://otakuvid.online/embed/iqvbyeafqac8",
+          "552-malep-43_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-43_vibeplayer_dub": "https://vibeplayer.site/0f48cf0b6c1a23f7",
+          "552-malep-43_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0f48cf0b6c1a23f7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-43_vibeplayer_dub": "https://vibeplayer.site/aga32b915d1c4dd65a89c84d4eb0532a154h",
+          "552-malep-43_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-43_otakuvid_dub": "https://otakuvid.online/embed/6wzwfoitvk4t",
+          "552-malep-43_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-43_vibeplayer_hsub": "https://vibeplayer.site/a44eb86ba622450f",
+          "552-malep-43_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a44eb86ba622450f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-43_vibeplayer_hsub": "https://vibeplayer.site/agb65d5636b46ca7d5fbbac7eab11733244h",
+          "552-malep-43_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-43_otakuhg_hsub": "https://otakuhg.site/e/qcqrffykv386",
+          "552-malep-43_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-43_otakuvid_hsub": "https://otakuvid.online/embed/gmftnf5bt6b1",
+          "552-malep-43_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-43_playmogo_hsub": "https://playmogo.com/e/7uk8yvgcyn56",
+          "552-malep-43_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Trash Day",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-44",
+      "sub": {
+        "HD-1": {
+          "552-malep-44_vibeplayer_sub": "https://vibeplayer.site/566d5fc22d66dd07",
+          "552-malep-44_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/566d5fc22d66dd07/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-44_vibeplayer_sub": "https://vibeplayer.site/ag4fa42d2bbd09806ec658ce232f15409b4h",
+          "552-malep-44_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-44_otakuvid_sub": "https://otakuvid.online/embed/5gxsd9g6ber2",
+          "552-malep-44_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-44_vibeplayer_dub": "https://vibeplayer.site/4fd9d9bf386b0c5a",
+          "552-malep-44_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4fd9d9bf386b0c5a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-44_vibeplayer_dub": "https://vibeplayer.site/ag725890f1bedb114c07de86b1f9a614734h",
+          "552-malep-44_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-44_otakuvid_dub": "https://otakuvid.online/embed/r202t2d2mem4",
+          "552-malep-44_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-44_vibeplayer_hsub": "https://vibeplayer.site/0e221f9a13d0b73a",
+          "552-malep-44_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e221f9a13d0b73a/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-44_vibeplayer_hsub": "https://vibeplayer.site/age48c7fde43d6d555807be984c0ea225e4h",
+          "552-malep-44_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-44_otakuhg_hsub": "https://otakuhg.site/e/rse2hollipku",
+          "552-malep-44_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-44_otakuvid_hsub": "https://otakuvid.online/embed/uhww1he1dff1",
+          "552-malep-44_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-44_playmogo_hsub": "https://playmogo.com/e/1n2r6on9iy1a",
+          "552-malep-44_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ultimate Clash",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-45",
+      "sub": {
+        "HD-1": {
+          "552-malep-45_vibeplayer_sub": "https://vibeplayer.site/fa7e1bbe8d67f99b",
+          "552-malep-45_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa7e1bbe8d67f99b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-45_vibeplayer_sub": "https://vibeplayer.site/ag257b2be31138c9966282637b8955378f4h",
+          "552-malep-45_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-45_otakuhg_sub": "https://otakuhg.site/e/43kp392zqzog",
+          "552-malep-45_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-45_otakuvid_sub": "https://otakuvid.online/embed/jv12ispso96j",
+          "552-malep-45_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-45_vibeplayer_dub": "https://vibeplayer.site/1f1ddd2d93df91f1",
+          "552-malep-45_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f1ddd2d93df91f1/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-45_vibeplayer_dub": "https://vibeplayer.site/ag09deb916ecd067cc8c1db99b59edfa5e4h",
+          "552-malep-45_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-45_otakuvid_dub": "https://otakuvid.online/embed/qw5yjektv69j",
+          "552-malep-45_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-45_vibeplayer_hsub": "https://vibeplayer.site/c9c68737b154e6dd",
+          "552-malep-45_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9c68737b154e6dd/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-45_vibeplayer_hsub": "https://vibeplayer.site/ag14a72e8de4486cd24ce0abb7e41e78974h",
+          "552-malep-45_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-45_otakuhg_hsub": "https://otakuhg.site/e/97ert6i5c1en",
+          "552-malep-45_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-45_otakuvid_hsub": "https://otakuvid.online/embed/x51vzw3f80nt",
+          "552-malep-45_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-45_playmogo_hsub": "https://playmogo.com/e/evt7n4px8ap6",
+          "552-malep-45_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Etemon`s Comeback Tour",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-46",
+      "sub": {
+        "HD-1": {
+          "552-malep-46_vibeplayer_sub": "https://vibeplayer.site/d816a2c31a0c0859",
+          "552-malep-46_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d816a2c31a0c0859/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-46_vibeplayer_sub": "https://vibeplayer.site/ag5f641fad9c2592255a346ad75c7463d34h",
+          "552-malep-46_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-46_otakuvid_sub": "https://otakuvid.online/embed/jgjbpiyknpt8",
+          "552-malep-46_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-46_vibeplayer_dub": "https://vibeplayer.site/806141c2b5f9c728",
+          "552-malep-46_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/806141c2b5f9c728/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-46_vibeplayer_dub": "https://vibeplayer.site/ag8cd980b5c28470d1b8ecb16353f438174h",
+          "552-malep-46_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-46_otakuvid_dub": "https://otakuvid.online/embed/fej9bcts2b97",
+          "552-malep-46_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-46_vibeplayer_hsub": "https://vibeplayer.site/e954eb08aa3f97d6",
+          "552-malep-46_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e954eb08aa3f97d6/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-46_vibeplayer_hsub": "https://vibeplayer.site/aga5fa2419895382a5aa1dff45824086914h",
+          "552-malep-46_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-46_otakuhg_hsub": "https://otakuhg.site/e/tpm3y8824q5p",
+          "552-malep-46_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-46_otakuvid_hsub": "https://otakuvid.online/embed/uh9sp8n25ai9",
+          "552-malep-46_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-46_playmogo_hsub": "https://playmogo.com/e/km5bkxec0lwz",
+          "552-malep-46_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ogremon`s Honor",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-47",
+      "sub": {
+        "HD-1": {
+          "552-malep-47_vibeplayer_sub": "https://vibeplayer.site/44295b5d8d23dfe4",
+          "552-malep-47_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/44295b5d8d23dfe4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-47_vibeplayer_sub": "https://vibeplayer.site/ag87edbfa6db416aeeb92195badd9599e74h",
+          "552-malep-47_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-47_otakuvid_sub": "https://otakuvid.online/embed/24of1vun3jjj",
+          "552-malep-47_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-47_vibeplayer_dub": "https://vibeplayer.site/87b5447d50b7280b",
+          "552-malep-47_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/87b5447d50b7280b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-47_vibeplayer_dub": "https://vibeplayer.site/agf634b5b354ec72c03ad0285c6aa4f8fa4h",
+          "552-malep-47_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-47_otakuvid_dub": "https://otakuvid.online/embed/br0zzf0hbrm3",
+          "552-malep-47_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-47_vibeplayer_hsub": "https://vibeplayer.site/d150fd4a22f1bebf",
+          "552-malep-47_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d150fd4a22f1bebf/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-47_vibeplayer_hsub": "https://vibeplayer.site/ageb0915329ace5c61349346eea8fedb174h",
+          "552-malep-47_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-47_otakuhg_hsub": "https://otakuhg.site/e/yn8vc0b635a9",
+          "552-malep-47_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-47_otakuvid_hsub": "https://otakuvid.online/embed/zcbxdv117w6n",
+          "552-malep-47_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-47_playmogo_hsub": "https://playmogo.com/e/2lz22rygtvq4",
+          "552-malep-47_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "My Sister`s Keeper",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-48",
+      "sub": {
+        "HD-1": {
+          "552-malep-48_vibeplayer_sub": "https://vibeplayer.site/cd010b29a7b4a7c0",
+          "552-malep-48_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cd010b29a7b4a7c0/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-48_vibeplayer_sub": "https://vibeplayer.site/agaac03aa560527c2d9abbe632cd340c1e4h",
+          "552-malep-48_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-48_otakuvid_sub": "https://otakuvid.online/embed/ztw7qprw32b2",
+          "552-malep-48_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-48_vibeplayer_dub": "https://vibeplayer.site/3b2427d9ab6a50f9",
+          "552-malep-48_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b2427d9ab6a50f9/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-48_vibeplayer_dub": "https://vibeplayer.site/agae1ec9f27d8ceac7eec1da6333b842724h",
+          "552-malep-48_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-48_otakuvid_dub": "https://otakuvid.online/embed/dngoecbw7nva",
+          "552-malep-48_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-48_vibeplayer_hsub": "https://vibeplayer.site/7fcff5a1d83d93e4",
+          "552-malep-48_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7fcff5a1d83d93e4/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-48_vibeplayer_hsub": "https://vibeplayer.site/ag9d7dbf8c712a8d9c0fbf60f5a7ec562c4h",
+          "552-malep-48_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-48_otakuhg_hsub": "https://otakuhg.site/e/r4ozpbqx3y6t",
+          "552-malep-48_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-48_otakuvid_hsub": "https://otakuvid.online/embed/k3fvr0w6yzwb",
+          "552-malep-48_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-48_playmogo_hsub": "https://playmogo.com/e/o3uhas2g1jln",
+          "552-malep-48_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Crest of Light",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-49",
+      "sub": {
+        "HD-1": {
+          "552-malep-49_vibeplayer_sub": "https://vibeplayer.site/87bb52efeeadfcd3",
+          "552-malep-49_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87bb52efeeadfcd3/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-49_vibeplayer_sub": "https://vibeplayer.site/ag3ddf3b826bc37f557680734af7bc6a5a4h",
+          "552-malep-49_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-49_otakuvid_sub": "https://otakuvid.online/embed/s0x43df3d2at",
+          "552-malep-49_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-49_vibeplayer_dub": "https://vibeplayer.site/5c2a3feaa5a769e9",
+          "552-malep-49_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5c2a3feaa5a769e9/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-49_vibeplayer_dub": "https://vibeplayer.site/agf082d216c8c3d28e193183f58902833b4h",
+          "552-malep-49_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-49_otakuvid_dub": "https://otakuvid.online/embed/pt37twchs1kq",
+          "552-malep-49_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-49_vibeplayer_hsub": "https://vibeplayer.site/fc109425f2f18d97",
+          "552-malep-49_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc109425f2f18d97/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-49_vibeplayer_hsub": "https://vibeplayer.site/agf65205326de0ab77041702c2a03b3b464h",
+          "552-malep-49_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-49_otakuhg_hsub": "https://otakuhg.site/e/7vbjod61iori",
+          "552-malep-49_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-49_otakuvid_hsub": "https://otakuvid.online/embed/4poynoeulj9u",
+          "552-malep-49_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-49_playmogo_hsub": "https://playmogo.com/e/7zxpdymr4ojc",
+          "552-malep-49_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Joe's Battle",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-50",
+      "sub": {
+        "HD-1": {
+          "552-malep-50_vibeplayer_sub": "https://vibeplayer.site/179e533892b068b0",
+          "552-malep-50_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/179e533892b068b0/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-50_vibeplayer_sub": "https://vibeplayer.site/agdb434ffd8c2060f030fd95d65036251a4h",
+          "552-malep-50_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-50_otakuvid_sub": "https://otakuvid.online/embed/h5t07ab9hvh0",
+          "552-malep-50_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-50_vibeplayer_dub": "https://vibeplayer.site/0efd43d31267eb43",
+          "552-malep-50_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0efd43d31267eb43/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-50_vibeplayer_dub": "https://vibeplayer.site/agedde113499ec6cc17330af873067e8374h",
+          "552-malep-50_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-50_otakuvid_dub": "https://otakuvid.online/embed/60su788ztfkb",
+          "552-malep-50_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-50_vibeplayer_hsub": "https://vibeplayer.site/d33c06fd7e1d9b94",
+          "552-malep-50_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d33c06fd7e1d9b94/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-50_vibeplayer_hsub": "https://vibeplayer.site/ag0c1bd53cf077d737f845e5f2f923cbfd4h",
+          "552-malep-50_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-50_otakuhg_hsub": "https://otakuhg.site/e/x8hp7aialdvk",
+          "552-malep-50_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-50_otakuvid_hsub": "https://otakuvid.online/embed/f0v7flvvt3mb",
+          "552-malep-50_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-50_playmogo_hsub": "https://playmogo.com/e/wx9z0aimsjf0",
+          "552-malep-50_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Crest of Friendship",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-51",
+      "sub": {
+        "HD-1": {
+          "552-malep-51_vibeplayer_sub": "https://vibeplayer.site/e8b18bee141d3a49",
+          "552-malep-51_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8b18bee141d3a49/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-51_vibeplayer_sub": "https://vibeplayer.site/ag4c2a166774c16ed824fe36afb3eefdf94h",
+          "552-malep-51_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-51_otakuvid_sub": "https://otakuvid.online/embed/jlw7zrpzhl96",
+          "552-malep-51_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-51_vibeplayer_dub": "https://vibeplayer.site/e32cb507dc7da787",
+          "552-malep-51_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e32cb507dc7da787/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-51_vibeplayer_dub": "https://vibeplayer.site/agaf92cc5b05eaefc3713b0b51e8720bb34h",
+          "552-malep-51_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-51_otakuvid_dub": "https://otakuvid.online/embed/vtpx4xudfh1v",
+          "552-malep-51_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-51_vibeplayer_hsub": "https://vibeplayer.site/09202dd7454148e2",
+          "552-malep-51_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09202dd7454148e2/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-51_vibeplayer_hsub": "https://vibeplayer.site/ag4436e2f4a692a427bbef0b56ca8c3fc14h",
+          "552-malep-51_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-51_otakuhg_hsub": "https://otakuhg.site/e/8bo57hhzo5ep",
+          "552-malep-51_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-51_otakuvid_hsub": "https://otakuvid.online/embed/4qzhto3elq9e",
+          "552-malep-51_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-51_playmogo_hsub": "https://playmogo.com/e/hdgdeo7bx2ue",
+          "552-malep-51_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Piedmon`s Last Jest",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-52",
+      "sub": {
+        "HD-1": {
+          "552-malep-52_vibeplayer_sub": "https://vibeplayer.site/39539aee9158acee",
+          "552-malep-52_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/39539aee9158acee/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-52_vibeplayer_sub": "https://vibeplayer.site/ag3656da254dcba34598c766d70405b36c4h",
+          "552-malep-52_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-52_otakuvid_sub": "https://otakuvid.online/embed/ec5h01kn255r",
+          "552-malep-52_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-52_vibeplayer_dub": "https://vibeplayer.site/d14916e6336e1dd5",
+          "552-malep-52_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d14916e6336e1dd5/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-52_vibeplayer_dub": "https://vibeplayer.site/agb720b85834b91f4024ad5ec6a6034e584h",
+          "552-malep-52_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-52_otakuvid_dub": "https://otakuvid.online/embed/9u18q93iln3v",
+          "552-malep-52_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-52_vibeplayer_hsub": "https://vibeplayer.site/40905539db8f92fd",
+          "552-malep-52_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/40905539db8f92fd/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-52_vibeplayer_hsub": "https://vibeplayer.site/agf3fc531d191623350fdae4af952a49034h",
+          "552-malep-52_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-52_otakuhg_hsub": "https://otakuhg.site/e/rpj34wlg8ud2",
+          "552-malep-52_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-52_otakuvid_hsub": "https://otakuvid.online/embed/u7e8m7opot74",
+          "552-malep-52_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-52_playmogo_hsub": "https://playmogo.com/e/hjjvtvj39bx8",
+          "552-malep-52_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Now Apocalymon",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-53",
+      "sub": {
+        "HD-1": {
+          "552-malep-53_vibeplayer_sub": "https://vibeplayer.site/ddcdd6b134a15f2b",
+          "552-malep-53_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ddcdd6b134a15f2b/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-53_vibeplayer_sub": "https://vibeplayer.site/agbf15995c2beece203083648a19c0d1a54h",
+          "552-malep-53_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-53_otakuvid_sub": "https://otakuvid.online/embed/qhaj6tnabq8j",
+          "552-malep-53_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-53_vibeplayer_dub": "https://vibeplayer.site/e8de0c8310b0a396",
+          "552-malep-53_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e8de0c8310b0a396/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-53_vibeplayer_dub": "https://vibeplayer.site/agb5aab9b14ac2ab3be31ceb85ede98c7b4h",
+          "552-malep-53_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-53_otakuvid_dub": "https://otakuvid.online/embed/uwnt0ziuz69m",
+          "552-malep-53_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-53_vibeplayer_hsub": "https://vibeplayer.site/94b305ecdae05d9f",
+          "552-malep-53_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94b305ecdae05d9f/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-53_vibeplayer_hsub": "https://vibeplayer.site/ag10ad38ee09210f057fd8117b681f11134h",
+          "552-malep-53_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-53_otakuhg_hsub": "https://otakuhg.site/e/zxt8cvwkosuk",
+          "552-malep-53_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-53_otakuvid_hsub": "https://otakuvid.online/embed/ftalip9kcycc",
+          "552-malep-53_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-53_playmogo_hsub": "https://playmogo.com/e/mj3wqb5zh7pd",
+          "552-malep-53_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Fate of Two Worlds",
+      "episode_url": "https://hianime.ad/watch/digimon-digital-monsters/ep-54",
+      "sub": {
+        "HD-1": {
+          "552-malep-54_vibeplayer_sub": "https://vibeplayer.site/09e27db817a598ac",
+          "552-malep-54_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/09e27db817a598ac/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-54_vibeplayer_sub": "https://vibeplayer.site/ag4202d441e024dbe8e7ca2eea040deb434h",
+          "552-malep-54_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-54_otakuvid_sub": "https://otakuvid.online/embed/9gbokofi0x1y",
+          "552-malep-54_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "552-malep-54_vibeplayer_dub": "https://vibeplayer.site/03ee60397d9a1a79",
+          "552-malep-54_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/03ee60397d9a1a79/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-54_vibeplayer_dub": "https://vibeplayer.site/agf076fdb48ef8cd81e11af224a36d4e4c4h",
+          "552-malep-54_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-54_otakuvid_dub": "https://otakuvid.online/embed/vt3p49hvvclk",
+          "552-malep-54_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "552-malep-54_vibeplayer_hsub": "https://vibeplayer.site/a37c95b22867bc24",
+          "552-malep-54_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a37c95b22867bc24/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-54_vibeplayer_hsub": "https://vibeplayer.site/ag65688f702f3b11a148b603a5a3fe80674h",
+          "552-malep-54_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-54_otakuhg_hsub": "https://otakuhg.site/e/z1uqvmexrtwh",
+          "552-malep-54_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-54_otakuvid_hsub": "https://otakuvid.online/embed/9nyhhr4t3l4y",
+          "552-malep-54_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "552-malep-54_playmogo_hsub": "https://playmogo.com/e/dq37nzw3jk30",
+          "552-malep-54_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

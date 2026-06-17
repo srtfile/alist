@@ -1,0 +1,44 @@
+{
+  "anime_name": "Minami Ke Natsuyasumi",
+  "anime_url": "https://hianime.ad/anime/minami-ke-natsuyasumi",
+  "slug": "minami-ke-natsuyasumi",
+  "mal_id": 2963,
+  "total_episodes": 1,
+  "captured_at": "2026-06-15T07:50:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Three Minami Sisters",
+      "episode_url": "https://hianime.ad/watch/minami-ke-natsuyasumi/ep-1",
+      "sub": {
+        "HD-1": {
+          "2963-malep-1_vibeplayer_sub": "https://vibeplayer.site/0ccbf9c4a2437501",
+          "2963-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ccbf9c4a2437501/master.m3u8"
+        },
+        "Earnvids": {
+          "2963-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lj2ovjitkdya",
+          "2963-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2963-malep-1_playmogo_sub": "https://playmogo.com/e/bupioysotbo1",
+          "2963-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2963-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e1ce5dac39fdeca9",
+          "2963-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1ce5dac39fdeca9/master.m3u8"
+        },
+        "Earnvids": {
+          "2963-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ewuq5vra1ts",
+          "2963-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2963-malep-1_playmogo_hsub": "https://playmogo.com/e/ns7k3vmfh2ut",
+          "2963-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

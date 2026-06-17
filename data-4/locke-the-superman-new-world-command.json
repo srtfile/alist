@@ -1,0 +1,73 @@
+{
+  "anime_name": "Locke The Superman New World Command",
+  "anime_url": "https://hianime.ad/anime/locke-the-superman-new-world-command",
+  "slug": "locke-the-superman-new-world-command",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T05:23:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/locke-the-superman-new-world-command/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5f1a075592928127",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f1a075592928127/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/fbe1zfrey1zu",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/612dbf033535980a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/612dbf033535980a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1ny5dhk6vjk1",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d3k970okwhkk",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/x1cfehchfcpt",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/locke-the-superman-new-world-command/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/636e1e3e7c2247ef",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/636e1e3e7c2247ef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/n74qruqox0mv",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/11b15764362afc78",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11b15764362afc78/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/uftaxoszk1fw",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/9v0upiwfax5b",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "anime_name": "Clannad After Story Another World Kyou Chapter",
+  "anime_url": "https://hianime.ad/anime/clannad-after-story-another-world-kyou-chapter",
+  "slug": "clannad-after-story-another-world-kyou-chapter",
+  "mal_id": 4181,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:05:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/clannad-after-story-another-world-kyou-chapter/ep-1",
+      "sub": {
+        "HD-1": {
+          "4181-malep-1_vibeplayer_sub": "https://vibeplayer.site/3131ba3edacc6d92",
+          "4181-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3131ba3edacc6d92/master.m3u8"
+        },
+        "HD-2": {
+          "4181-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag620333e5db875785ba3aea9d2dba5bca4h",
+          "4181-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "4181-malep-1_otakuhg_sub": "https://otakuhg.site/e/ftkztym7xhrj",
+          "4181-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4181-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c0ri65086gi3",
+          "4181-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4181-malep-1_vibeplayer_dub": "https://vibeplayer.site/61b1aac3f35ff0a9",
+          "4181-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/61b1aac3f35ff0a9/master.m3u8"
+        },
+        "HD-2": {
+          "4181-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf1cf2c0c9e3dbb0d6a5b88013cbf2dc54h",
+          "4181-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "4181-malep-1_otakuhg_dub": "https://otakuhg.site/e/264u92lczupw",
+          "4181-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4181-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cfkg2yw93fdx",
+          "4181-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4181-malep-1_vibeplayer_hsub": "https://vibeplayer.site/09355c4122b0f4e0",
+          "4181-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09355c4122b0f4e0/master.m3u8"
+        },
+        "HD-2": {
+          "4181-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agda273d4c7af27ebb04e3e40ac04f9f124h",
+          "4181-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4181-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kqbub23hqe4c",
+          "4181-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4181-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/35qzcnsdmrdn",
+          "4181-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4181-malep-1_playmogo_hsub": "https://playmogo.com/e/p8il00nwe7xa",
+          "4181-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

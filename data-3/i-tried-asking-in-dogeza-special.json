@@ -1,0 +1,44 @@
+{
+  "anime_name": "I Tried Asking In Dogeza Special",
+  "anime_url": "https://hianime.ad/anime/i-tried-asking-in-dogeza-special",
+  "slug": "i-tried-asking-in-dogeza-special",
+  "mal_id": 42571,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T06:09:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Now Groveling",
+      "episode_url": "https://hianime.ad/watch/i-tried-asking-in-dogeza-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "42571-malep-1_vibeplayer_sub": "https://vibeplayer.site/840aa28cd95404fa",
+          "42571-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/840aa28cd95404fa/master.m3u8"
+        },
+        "StreamHG": {
+          "42571-malep-1_otakuhg_sub": "https://otakuhg.site/e/epoecbntbd1k",
+          "42571-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42571-malep-1_otakuvid_sub": "https://otakuvid.online/embed/od2rz8p37pk0",
+          "42571-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42571-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f44a9d5321de220f",
+          "42571-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f44a9d5321de220f/master.m3u8"
+        },
+        "StreamHG": {
+          "42571-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tmiiipj59khq",
+          "42571-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42571-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6zdsihazo6dj",
+          "42571-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

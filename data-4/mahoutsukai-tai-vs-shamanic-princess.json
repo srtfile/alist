@@ -1,0 +1,44 @@
+{
+  "anime_name": "Mahoutsukai Tai Vs Shamanic Princess",
+  "anime_url": "https://hianime.ad/anime/mahoutsukai-tai-vs-shamanic-princess",
+  "slug": "mahoutsukai-tai-vs-shamanic-princess",
+  "mal_id": 630,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:51:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sae, the Magic Club, and the Cherry Blossom Tree",
+      "episode_url": "https://hianime.ad/watch/mahoutsukai-tai-vs-shamanic-princess/ep-1",
+      "sub": {
+        "HD-1": {
+          "630-malep-1_vibeplayer_sub": "https://vibeplayer.site/f8e5fc8129ab4b55",
+          "630-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f8e5fc8129ab4b55/master.m3u8"
+        },
+        "Earnvids": {
+          "630-malep-1_otakuvid_sub": "https://otakuvid.online/embed/67b0q6bvgg3t",
+          "630-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "630-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c3fea9e4e45ed7bd",
+          "630-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3fea9e4e45ed7bd/master.m3u8"
+        },
+        "StreamHG": {
+          "630-malep-1_otakuhg_hsub": "https://otakuhg.site/e/n5i9c6ujnzvj",
+          "630-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "630-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0l2fr7nt1fon",
+          "630-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "630-malep-1_playmogo_hsub": "https://playmogo.com/e/44ac0g4bi8fd",
+          "630-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

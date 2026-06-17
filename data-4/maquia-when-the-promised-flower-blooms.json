@@ -1,0 +1,53 @@
+{
+  "anime_name": "Maquia When The Promised Flower Blooms",
+  "anime_url": "https://hianime.ad/anime/maquia-when-the-promised-flower-blooms",
+  "slug": "maquia-when-the-promised-flower-blooms",
+  "mal_id": 59845,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:11:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Rintaro and Kaoruko",
+      "episode_url": "https://hianime.ad/watch/maquia-when-the-promised-flower-blooms/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "59845-malep-1_vibeplayer_dub": "https://vibeplayer.site/99efc40133029769",
+          "59845-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99efc40133029769/master.m3u8"
+        },
+        "StreamHG": {
+          "59845-malep-1_otakuhg_dub": "https://otakuhg.site/e/jvgxvqulg7sm",
+          "59845-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "59845-malep-1_otakuvid_dub": "https://otakuvid.online/embed/mwqb2n07xt04",
+          "59845-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59845-malep-1_playmogo_dub": "https://playmogo.com/e/b1uqtaoj6brg",
+          "59845-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "59845-malep-1_vibeplayer_raw": "https://vibeplayer.site/0182798f01b4645e",
+          "59845-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/0182798f01b4645e/master.m3u8"
+        },
+        "StreamHG": {
+          "59845-malep-1_otakuhg_raw": "https://otakuhg.site/e/99chd4l0nrsm",
+          "59845-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "59845-malep-1_otakuvid_raw": "https://otakuvid.online/embed/niclfxs86wu5",
+          "59845-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "59845-malep-1_playmogo_raw": "https://playmogo.com/e/yjkr77oex0qz",
+          "59845-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

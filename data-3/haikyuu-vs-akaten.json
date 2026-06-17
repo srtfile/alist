@@ -1,0 +1,52 @@
+{
+  "anime_name": "Haikyuu Vs Akaten",
+  "anime_url": "https://hianime.ad/anime/haikyuu-vs-akaten",
+  "slug": "haikyuu-vs-akaten",
+  "mal_id": 32935,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:36:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Greetings",
+      "episode_url": "https://hianime.ad/watch/haikyuu-vs-akaten/ep-1",
+      "sub": {
+        "HD-1": {
+          "32935-malep-1_vibeplayer_sub": "https://vibeplayer.site/81d78b619b051ff7",
+          "32935-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/81d78b619b051ff7/master.m3u8"
+        },
+        "StreamHG": {
+          "32935-malep-1_otakuhg_sub": "https://otakuhg.site/e/c5qfihevjalo",
+          "32935-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32935-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kkat8mth4jpk",
+          "32935-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32935-malep-1_playmogo_sub": "https://playmogo.com/e/4xximz4abmqg",
+          "32935-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32935-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f83d7e3abf9e4a72",
+          "32935-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f83d7e3abf9e4a72/master.m3u8"
+        },
+        "StreamHG": {
+          "32935-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hovrq8jwjggs",
+          "32935-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32935-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8qntamk8hril",
+          "32935-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32935-malep-1_playmogo_hsub": "https://playmogo.com/e/q3sdahifoo96",
+          "32935-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

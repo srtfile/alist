@@ -1,0 +1,583 @@
+{
+  "anime_name": "Hundred",
+  "anime_url": "https://hianime.ad/anime/hundred",
+  "slug": "hundred",
+  "mal_id": 31338,
+  "total_episodes": 12,
+  "captured_at": "2026-06-04T05:45:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Little Garden",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-1",
+      "sub": {
+        "HD-1": {
+          "31338-malep-1_vibeplayer_sub": "https://vibeplayer.site/b3347df99044d3aa",
+          "31338-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3347df99044d3aa/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-1_otakuhg_sub": "https://otakuhg.site/e/rx0h91cmyb4e",
+          "31338-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qbtxtr6oan3w",
+          "31338-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-1_vibeplayer_dub": "https://vibeplayer.site/f31210f4db5251f5",
+          "31338-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f31210f4db5251f5/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-1_otakuhg_dub": "https://otakuhg.site/e/ksd695ua3y4c",
+          "31338-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0mwp24td50ao",
+          "31338-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2294bf75f8aa7974",
+          "31338-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2294bf75f8aa7974/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-1_otakuhg_hsub": "https://otakuhg.site/e/c2a059m276gd",
+          "31338-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iku06jn8j1jr",
+          "31338-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-1_playmogo_hsub": "https://playmogo.com/e/k8uhn0cmqnhq",
+          "31338-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Invincible Queen",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-2",
+      "sub": {
+        "HD-1": {
+          "31338-malep-2_vibeplayer_sub": "https://vibeplayer.site/2e1613bdfbdbb503",
+          "31338-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e1613bdfbdbb503/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-2_otakuhg_sub": "https://otakuhg.site/e/6joaoy59ikg5",
+          "31338-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-2_otakuvid_sub": "https://otakuvid.online/embed/5qhp86lrz848",
+          "31338-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-2_vibeplayer_dub": "https://vibeplayer.site/49f84e1aa1759a79",
+          "31338-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/49f84e1aa1759a79/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-2_otakuhg_dub": "https://otakuhg.site/e/5akqjqh6rycm",
+          "31338-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-2_otakuvid_dub": "https://otakuvid.online/embed/171dbew32xx1",
+          "31338-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a63d1dd4f3af9bb7",
+          "31338-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a63d1dd4f3af9bb7/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-2_otakuhg_hsub": "https://otakuhg.site/e/4dnl7yn7k4kr",
+          "31338-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/zhbzlodjcxnx",
+          "31338-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-2_playmogo_hsub": "https://playmogo.com/e/j5dy67fdvdda",
+          "31338-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Variant Awakening",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-3",
+      "sub": {
+        "HD-1": {
+          "31338-malep-3_vibeplayer_sub": "https://vibeplayer.site/e51ff7e06f77075d",
+          "31338-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e51ff7e06f77075d/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-3_otakuhg_sub": "https://otakuhg.site/e/f4b4zdiotbty",
+          "31338-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-3_otakuvid_sub": "https://otakuvid.online/embed/wz754q54acw3",
+          "31338-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-3_vibeplayer_dub": "https://vibeplayer.site/60ed62b670fc15c3",
+          "31338-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/60ed62b670fc15c3/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-3_otakuhg_dub": "https://otakuhg.site/e/8ps1xf7b82jz",
+          "31338-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-3_otakuvid_dub": "https://otakuvid.online/embed/cnduf5rrgasr",
+          "31338-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-3_vibeplayer_hsub": "https://vibeplayer.site/09903541841faffd",
+          "31338-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09903541841faffd/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-3_otakuhg_hsub": "https://otakuhg.site/e/fd0rwztvg9ul",
+          "31338-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/wnn37rlsvv6z",
+          "31338-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-3_playmogo_hsub": "https://playmogo.com/e/4u6v0igqmrf1",
+          "31338-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bodyguard",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-4",
+      "sub": {
+        "HD-1": {
+          "31338-malep-4_vibeplayer_sub": "https://vibeplayer.site/0e2a7ea76296ccbe",
+          "31338-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e2a7ea76296ccbe/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-4_otakuhg_sub": "https://otakuhg.site/e/owrp1hh17tmp",
+          "31338-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-4_otakuvid_sub": "https://otakuvid.online/embed/hy2r10u6lsai",
+          "31338-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-4_vibeplayer_dub": "https://vibeplayer.site/390a548e68a6c422",
+          "31338-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/390a548e68a6c422/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-4_otakuhg_dub": "https://otakuhg.site/e/qfqn2t2g60ou",
+          "31338-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-4_otakuvid_dub": "https://otakuvid.online/embed/4ntqqpncp2xh",
+          "31338-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-4_vibeplayer_hsub": "https://vibeplayer.site/bdd67bcbfd8114ba",
+          "31338-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bdd67bcbfd8114ba/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-4_otakuhg_hsub": "https://otakuhg.site/e/sevy4t87pykf",
+          "31338-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/29v7grltv9je",
+          "31338-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-4_playmogo_hsub": "https://playmogo.com/e/fpz4rlhasxrd",
+          "31338-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Imitation Girl",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-5",
+      "sub": {
+        "HD-1": {
+          "31338-malep-5_vibeplayer_sub": "https://vibeplayer.site/50805e3f29ce8332",
+          "31338-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50805e3f29ce8332/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-5_otakuhg_sub": "https://otakuhg.site/e/c3kx9zzdpaxb",
+          "31338-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-5_otakuvid_sub": "https://otakuvid.online/embed/vsog504cpa4o",
+          "31338-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-5_vibeplayer_dub": "https://vibeplayer.site/1331664581b4d4a9",
+          "31338-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1331664581b4d4a9/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-5_otakuhg_dub": "https://otakuhg.site/e/5k0byjq8tql1",
+          "31338-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-5_otakuvid_dub": "https://otakuvid.online/embed/tbly4f21v14j",
+          "31338-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-5_vibeplayer_hsub": "https://vibeplayer.site/926821ee4c7f3298",
+          "31338-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/926821ee4c7f3298/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-5_otakuhg_hsub": "https://otakuhg.site/e/pohnpmncsxn3",
+          "31338-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/8tb069n9upg0",
+          "31338-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-5_playmogo_hsub": "https://playmogo.com/e/fw4awxigyctd",
+          "31338-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Diva's Love Song",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-6",
+      "sub": {
+        "HD-1": {
+          "31338-malep-6_vibeplayer_sub": "https://vibeplayer.site/ff2c953a55c4e997",
+          "31338-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff2c953a55c4e997/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-6_otakuvid_sub": "https://otakuvid.online/embed/0bkvz0bx75by",
+          "31338-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-6_vibeplayer_dub": "https://vibeplayer.site/e72c465fe34ffc89",
+          "31338-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e72c465fe34ffc89/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-6_otakuhg_dub": "https://otakuhg.site/e/jps9h7j3myma",
+          "31338-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-6_otakuvid_dub": "https://otakuvid.online/embed/hwqlexbg22zm",
+          "31338-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-6_vibeplayer_hsub": "https://vibeplayer.site/b17caac0eab48ed0",
+          "31338-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b17caac0eab48ed0/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-6_otakuhg_hsub": "https://otakuhg.site/e/2obzeq4vx3i8",
+          "31338-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/1npf9untac5j",
+          "31338-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-6_playmogo_hsub": "https://playmogo.com/e/l11xgytt6vdf",
+          "31338-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Captured Sleeping Beauty",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-7",
+      "sub": {
+        "HD-1": {
+          "31338-malep-7_vibeplayer_sub": "https://vibeplayer.site/fe35215fb0637b8f",
+          "31338-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fe35215fb0637b8f/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-7_otakuvid_sub": "https://otakuvid.online/embed/podlmficf6pk",
+          "31338-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-7_vibeplayer_dub": "https://vibeplayer.site/819b11c7fc7145f8",
+          "31338-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/819b11c7fc7145f8/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-7_otakuhg_dub": "https://otakuhg.site/e/9u41xubv6rdc",
+          "31338-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-7_otakuvid_dub": "https://otakuvid.online/embed/az5lpkl3dnl3",
+          "31338-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-7_vibeplayer_hsub": "https://vibeplayer.site/850460c37237c4c5",
+          "31338-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/850460c37237c4c5/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-7_otakuhg_hsub": "https://otakuhg.site/e/vvjd80tsug5o",
+          "31338-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/eb5xn1j6b69n",
+          "31338-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-7_playmogo_hsub": "https://playmogo.com/e/nn2jd4x81l9i",
+          "31338-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Night at the Lake",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-8",
+      "sub": {
+        "HD-1": {
+          "31338-malep-8_vibeplayer_sub": "https://vibeplayer.site/cd0986c47b402e21",
+          "31338-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cd0986c47b402e21/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-8_otakuvid_sub": "https://otakuvid.online/embed/rowq2gnah696",
+          "31338-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-8_vibeplayer_dub": "https://vibeplayer.site/6bb3f06e42d7f9bb",
+          "31338-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6bb3f06e42d7f9bb/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-8_otakuhg_dub": "https://otakuhg.site/e/m3emvvbvtp7n",
+          "31338-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-8_otakuvid_dub": "https://otakuvid.online/embed/tpiffjiqjsig",
+          "31338-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-8_vibeplayer_hsub": "https://vibeplayer.site/85d99bd3276aa5be",
+          "31338-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85d99bd3276aa5be/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-8_otakuhg_hsub": "https://otakuhg.site/e/unlwikkjayqh",
+          "31338-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/kpl3uv5j7rlh",
+          "31338-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-8_playmogo_hsub": "https://playmogo.com/e/j9g9xgn72juy",
+          "31338-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dragon Type",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-9",
+      "sub": {
+        "HD-1": {
+          "31338-malep-9_vibeplayer_sub": "https://vibeplayer.site/765dd6975a9e04bf",
+          "31338-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/765dd6975a9e04bf/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-9_otakuvid_sub": "https://otakuvid.online/embed/3cblo1zggmxx",
+          "31338-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-9_vibeplayer_dub": "https://vibeplayer.site/0775653a5690252c",
+          "31338-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0775653a5690252c/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-9_otakuhg_dub": "https://otakuhg.site/e/n7gms1vk883j",
+          "31338-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-9_otakuvid_dub": "https://otakuvid.online/embed/48zqkn4dk6nn",
+          "31338-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-9_vibeplayer_hsub": "https://vibeplayer.site/56ec1233e6f2ab29",
+          "31338-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/56ec1233e6f2ab29/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-9_otakuhg_hsub": "https://otakuhg.site/e/s3xsoy1zhzlp",
+          "31338-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/xy748lw1c63e",
+          "31338-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-9_playmogo_hsub": "https://playmogo.com/e/zfe14m82v2w3",
+          "31338-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "School Festa",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-10",
+      "sub": {
+        "HD-1": {
+          "31338-malep-10_vibeplayer_sub": "https://vibeplayer.site/4f1e9589b0a01645",
+          "31338-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f1e9589b0a01645/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-10_otakuvid_sub": "https://otakuvid.online/embed/osafhjohok4f",
+          "31338-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-10_vibeplayer_dub": "https://vibeplayer.site/8f6c16ffa8d78a8f",
+          "31338-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f6c16ffa8d78a8f/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-10_otakuhg_dub": "https://otakuhg.site/e/9txei7zij9y9",
+          "31338-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-10_otakuvid_dub": "https://otakuvid.online/embed/jlkajk2k4mm5",
+          "31338-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-10_vibeplayer_hsub": "https://vibeplayer.site/66c9e57dc6414b3d",
+          "31338-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66c9e57dc6414b3d/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-10_otakuhg_hsub": "https://otakuhg.site/e/rftp3w3nmgzj",
+          "31338-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/acv8ucics8u3",
+          "31338-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-10_playmogo_hsub": "https://playmogo.com/e/veg4ht3xxist",
+          "31338-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Garden's Crisis",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-11",
+      "sub": {
+        "HD-1": {
+          "31338-malep-11_vibeplayer_sub": "https://vibeplayer.site/146774e60659f19b",
+          "31338-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/146774e60659f19b/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-11_otakuvid_sub": "https://otakuvid.online/embed/mym5883701yc",
+          "31338-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-11_vibeplayer_dub": "https://vibeplayer.site/7554e14792ccaa5a",
+          "31338-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7554e14792ccaa5a/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-11_otakuhg_dub": "https://otakuhg.site/e/wzw2h0n842m8",
+          "31338-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-11_otakuvid_dub": "https://otakuvid.online/embed/8lt5x07lnm8e",
+          "31338-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-11_vibeplayer_hsub": "https://vibeplayer.site/46adda9fc8428f16",
+          "31338-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46adda9fc8428f16/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-11_otakuhg_hsub": "https://otakuhg.site/e/wpal9z6ukmdd",
+          "31338-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/whqcew57g63x",
+          "31338-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-11_playmogo_hsub": "https://playmogo.com/e/k61w6jmjcf28",
+          "31338-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Friends",
+      "episode_url": "https://hianime.ad/watch/hundred/ep-12",
+      "sub": {
+        "HD-1": {
+          "31338-malep-12_vibeplayer_sub": "https://vibeplayer.site/51e60b83295ec0a7",
+          "31338-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/51e60b83295ec0a7/master.m3u8"
+        },
+        "Earnvids": {
+          "31338-malep-12_otakuvid_sub": "https://otakuvid.online/embed/6n34n4cwnjzx",
+          "31338-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31338-malep-12_vibeplayer_dub": "https://vibeplayer.site/103c1c47b01a8e2e",
+          "31338-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/103c1c47b01a8e2e/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-12_otakuhg_dub": "https://otakuhg.site/e/s8l4g4b1dxbl",
+          "31338-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-12_otakuvid_dub": "https://otakuvid.online/embed/xzmqur3v3phw",
+          "31338-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31338-malep-12_vibeplayer_hsub": "https://vibeplayer.site/8cfdc2253df03571",
+          "31338-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8cfdc2253df03571/master.m3u8"
+        },
+        "StreamHG": {
+          "31338-malep-12_otakuhg_hsub": "https://otakuhg.site/e/q1if62dsaxxu",
+          "31338-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31338-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/72mszbzzes3o",
+          "31338-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31338-malep-12_playmogo_hsub": "https://playmogo.com/e/e7m6nzphl425",
+          "31338-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fatekaleid Liner Prisma Illya Prismaphantasm",
+  "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prisma-illya-prismaphantasm",
+  "slug": "fatekaleid-liner-prisma-illya-prismaphantasm",
+  "mal_id": 14829,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:16:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth! A Magical Girl!",
+      "episode_url": "https://hianime.ad/watch/fatekaleid-liner-prisma-illya-prismaphantasm/ep-1",
+      "sub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/600f898349c4e4d5",
+          "14829-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/600f898349c4e4d5/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdec42a282d320ce4a0f17db2c98761024h",
+          "14829-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_sub": "https://otakuvid.online/embed/djo4uczycowb",
+          "14829-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/55fff4efe78412e4",
+          "14829-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55fff4efe78412e4/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc8a0cbab240e050da8f9e14ee0fdd43f4h",
+          "14829-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "14829-malep-1_otakuhg_hsub": "https://otakuhg.site/e/eiie8xc19fxz",
+          "14829-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/57rpfzfk65kn",
+          "14829-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14829-malep-1_playmogo_hsub": "https://playmogo.com/e/k54lyjjqfn2j",
+          "14829-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

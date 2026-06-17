@@ -1,0 +1,102 @@
+{
+  "anime_name": "Magic Knight Rayearth Ova",
+  "anime_url": "https://hianime.ad/anime/magic-knight-rayearth-ova",
+  "slug": "magic-knight-rayearth-ova",
+  "mal_id": 435,
+  "total_episodes": 3,
+  "captured_at": "2026-06-17T06:27:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Birth of the Legendary Magic Knights!",
+      "episode_url": "https://hianime.ad/watch/magic-knight-rayearth-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "435-malep-1_vibeplayer_sub": "https://vibeplayer.site/9a0cd251157a39bb",
+          "435-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9a0cd251157a39bb/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t4oierh62apx",
+          "435-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "435-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d34bdc6bfb270b45",
+          "435-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d34bdc6bfb270b45/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1abs3cspcnzy",
+          "435-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "435-malep-1_playmogo_hsub": "https://playmogo.com/e/kmrsll0r436u",
+          "435-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Presea, The Master Smith In The Forest Of Silence",
+      "episode_url": "https://hianime.ad/watch/magic-knight-rayearth-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "435-malep-2_vibeplayer_sub": "https://vibeplayer.site/0a43e36d9bf4e7b4",
+          "435-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a43e36d9bf4e7b4/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-2_otakuvid_sub": "https://otakuvid.online/embed/3g3ekwocc9op",
+          "435-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "435-malep-2_playmogo_sub": "https://playmogo.com/e/985z49y6sbvv",
+          "435-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "435-malep-2_vibeplayer_hsub": "https://vibeplayer.site/cfdfe6dfd045abec",
+          "435-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cfdfe6dfd045abec/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/2izs2yqnul1t",
+          "435-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "435-malep-2_playmogo_hsub": "https://playmogo.com/e/y826f6rap7ek",
+          "435-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ferio, the Handsome, Mysterious Swordsman",
+      "episode_url": "https://hianime.ad/watch/magic-knight-rayearth-ova/ep-3",
+      "sub": {
+        "HD-1": {
+          "435-malep-3_vibeplayer_sub": "https://vibeplayer.site/6d6746f5a2028c02",
+          "435-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d6746f5a2028c02/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-3_otakuvid_sub": "https://otakuvid.online/embed/i28qnwkf8k0t",
+          "435-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "435-malep-3_vibeplayer_hsub": "https://vibeplayer.site/fdea9d4e6ca2d775",
+          "435-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fdea9d4e6ca2d775/master.m3u8"
+        },
+        "Earnvids": {
+          "435-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/a8zoyt7a9f3d",
+          "435-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "435-malep-3_playmogo_hsub": "https://playmogo.com/e/83u00t34u9a2",
+          "435-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

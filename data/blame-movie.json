@@ -1,0 +1,65 @@
+{
+  "anime_name": "Blame Movie",
+  "anime_url": "https://hianime.ad/anime/blame-movie",
+  "slug": "blame-movie",
+  "mal_id": 22297,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:41:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Winter Day, Fateful Night",
+      "episode_url": "https://hianime.ad/watch/blame-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_sub": "https://vibeplayer.site/e250b10a4d6ebcc5",
+          "22297-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e250b10a4d6ebcc5/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2023a630451a19686683533fb182a0084h",
+          "22297-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1bkc9dz8u0n6",
+          "22297-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_dub": "https://vibeplayer.site/7ec0e7685a00d7f1",
+          "22297-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ec0e7685a00d7f1/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga6279944117e50d2af2f01ecb2372a684h",
+          "22297-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "22297-malep-1_otakuhg_dub": "https://otakuhg.site/e/cwi8k8nbb9yu",
+          "22297-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_dub": "https://otakuvid.online/embed/23xc9pumfe8t",
+          "22297-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e176130ea7fe24f",
+          "22297-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e176130ea7fe24f/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9448cd00a0d5311637cfa4583533df814h",
+          "22297-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22297-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1hioqctvbghk",
+          "22297-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ydhjv9nfr6vu",
+          "22297-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

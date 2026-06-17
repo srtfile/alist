@@ -1,0 +1,65 @@
+{
+  "anime_name": "Code Geass Akito The Exiled The Brightness Falls",
+  "anime_url": "https://hianime.ad/anime/code-geass-akito-the-exiled-the-brightness-falls",
+  "slug": "code-geass-akito-the-exiled-the-brightness-falls",
+  "mal_id": 1575,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:14:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day a New Demon was Born",
+      "episode_url": "https://hianime.ad/watch/code-geass-akito-the-exiled-the-brightness-falls/ep-1",
+      "sub": {
+        "HD-1": {
+          "1575-malep-1_vibeplayer_sub": "https://vibeplayer.site/6aade3d1149e3823",
+          "1575-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6aade3d1149e3823/master.m3u8"
+        },
+        "HD-2": {
+          "1575-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag25d8de5cfa1abfe50cbd694781d6fc304h",
+          "1575-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1575-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9sg6ae2n3iuv",
+          "1575-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1575-malep-1_vibeplayer_dub": "https://vibeplayer.site/a8a8f7e4a894c35b",
+          "1575-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a8a8f7e4a894c35b/master.m3u8"
+        },
+        "HD-2": {
+          "1575-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag598ac38c7ad8355b21834326ec2abee04h",
+          "1575-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1575-malep-1_otakuvid_dub": "https://otakuvid.online/embed/y8ay4odkf6pi",
+          "1575-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d1d2e74100a26d3b",
+          "1575-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d1d2e74100a26d3b/master.m3u8"
+        },
+        "HD-2": {
+          "1575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf3d23d4aeb3dea7cedb046627ce10aea4h",
+          "1575-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1575-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r20sp1zzceea",
+          "1575-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1575-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/idfgngj8on07",
+          "1575-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1575-malep-1_playmogo_hsub": "https://playmogo.com/e/en0mdy69m920",
+          "1575-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

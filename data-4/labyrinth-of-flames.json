@@ -1,0 +1,99 @@
+{
+  "anime_name": "Labyrinth Of Flames",
+  "anime_url": "https://hianime.ad/anime/labyrinth-of-flames",
+  "slug": "labyrinth-of-flames",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T04:13:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/labyrinth-of-flames/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6b12c60f73b44572",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b12c60f73b44572/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/6cvw4wfykz31",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/fb338d190e3d51aa",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fb338d190e3d51aa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/9s8ueg7e83wh",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c784ffef7383f51e",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c784ffef7383f51e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/q79jhsncwy0e",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0169ykpjtxfi",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/fmwka6bi095h",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/labyrinth-of-flames/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/26fb041ccb663381",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26fb041ccb663381/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/obd6kg0emydu",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/3824cfe9975efc75",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3824cfe9975efc75/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/qm2jz48w1oae",
+          "malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_dub": "https://playmogo.com/e/nq8v8d1tgj2d",
+          "malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/8abea31d4d62bf24",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8abea31d4d62bf24/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/9kdv4c5r39xy",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/tav8yaeozgj0",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/q1gz89viqb02",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

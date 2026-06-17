@@ -1,0 +1,623 @@
+{
+  "anime_name": "Gakuen Alice",
+  "anime_url": "https://hianime.ad/anime/gakuen-alice",
+  "slug": "gakuen-alice",
+  "mal_id": 74,
+  "total_episodes": 26,
+  "captured_at": "2026-06-03T13:35:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Our School Will Be Gone!",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-1",
+      "sub": {
+        "HD-1": {
+          "74-malep-1_vibeplayer_sub": "https://vibeplayer.site/ad7a958c8f3d1687",
+          "74-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad7a958c8f3d1687/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc9d9ed75035e744caf36a0b9ca123daf4h",
+          "74-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-1_otakuhg_sub": "https://otakuhg.site/e/v2d5hkjjxsvd",
+          "74-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0scer97si1tk",
+          "74-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Welcome to Alice Academy",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-2",
+      "sub": {
+        "HD-1": {
+          "74-malep-2_vibeplayer_sub": "https://vibeplayer.site/8dd1d007e5cc4907",
+          "74-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8dd1d007e5cc4907/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag16d31b19b9445f0310bd4e77536caffb4h",
+          "74-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-2_otakuhg_sub": "https://otakuhg.site/e/w35qvh2t7kfc",
+          "74-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-2_otakuvid_sub": "https://otakuvid.online/embed/cbfxox8fl4he",
+          "74-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "No Alice is Going to Defeat Me",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-3",
+      "sub": {
+        "HD-1": {
+          "74-malep-3_vibeplayer_sub": "https://vibeplayer.site/97ac2cf825190769",
+          "74-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/97ac2cf825190769/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag3dd25b788b12def10d35cffbe1c58bdc4h",
+          "74-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-3_otakuhg_sub": "https://otakuhg.site/e/ym28qzbq1eef",
+          "74-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-3_otakuvid_sub": "https://otakuvid.online/embed/tmvlnnski4ma",
+          "74-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "This is My Alice",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-4",
+      "sub": {
+        "HD-1": {
+          "74-malep-4_vibeplayer_sub": "https://vibeplayer.site/8243b2808153d232",
+          "74-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8243b2808153d232/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-4_vibeplayer_sub": "https://vibeplayer.site/aga59a8febdbc6fe29b11030b7450f6ff14h",
+          "74-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-4_otakuhg_sub": "https://otakuhg.site/e/lpifh0sf6qv4",
+          "74-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-4_otakuvid_sub": "https://otakuvid.online/embed/b5yps0q2cnpn",
+          "74-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Star Ranking System Sure Can Be Severe",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-5",
+      "sub": {
+        "HD-1": {
+          "74-malep-5_vibeplayer_sub": "https://vibeplayer.site/25c6a4cf08cfdcbd",
+          "74-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25c6a4cf08cfdcbd/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-5_vibeplayer_sub": "https://vibeplayer.site/agdbd8cc1aa153794c7e59bf8a265f268a4h",
+          "74-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-5_otakuhg_sub": "https://otakuhg.site/e/02nqte2esqrn",
+          "74-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-5_otakuvid_sub": "https://otakuvid.online/embed/osnwslqxdmxn",
+          "74-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "I'm a Good-For-Nothing Type?",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-6",
+      "sub": {
+        "HD-1": {
+          "74-malep-6_vibeplayer_sub": "https://vibeplayer.site/697e4902a073fcdf",
+          "74-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/697e4902a073fcdf/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-6_vibeplayer_sub": "https://vibeplayer.site/agfce0b95b62de0188c8a1955bdd51a1174h",
+          "74-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-6_otakuhg_sub": "https://otakuhg.site/e/x5blef5koxtl",
+          "74-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-6_otakuvid_sub": "https://otakuvid.online/embed/iptbkwg444h8",
+          "74-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Not Gonna Lose - Alice Dodgeball",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-7",
+      "sub": {
+        "HD-1": {
+          "74-malep-7_vibeplayer_sub": "https://vibeplayer.site/8c25c6b3016e876b",
+          "74-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c25c6b3016e876b/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag5ac2389ca3a1429ca302f96d8415b30a4h",
+          "74-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-7_otakuhg_sub": "https://otakuhg.site/e/n6ikq59e50z7",
+          "74-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-7_otakuvid_sub": "https://otakuvid.online/embed/tcmjz8wvhup1",
+          "74-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Want to See Grandpa",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-8",
+      "sub": {
+        "HD-1": {
+          "74-malep-8_vibeplayer_sub": "https://vibeplayer.site/c9b70527cf51d968",
+          "74-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9b70527cf51d968/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag02bce679d63739eb572d528f0dc49d984h",
+          "74-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-8_otakuhg_sub": "https://otakuhg.site/e/dnmrncygzo4y",
+          "74-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-8_otakuvid_sub": "https://otakuvid.online/embed/eud09rpg51ft",
+          "74-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "My Dear Master Hotaru",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-9",
+      "sub": {
+        "HD-1": {
+          "74-malep-9_vibeplayer_sub": "https://vibeplayer.site/e4a642c5f5a24690",
+          "74-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e4a642c5f5a24690/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag0751c96c1dc0f8c52c9639233e0e58344h",
+          "74-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-9_otakuhg_sub": "https://otakuhg.site/e/ihf7l0246upb",
+          "74-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-9_otakuvid_sub": "https://otakuvid.online/embed/tveyo84w74j5",
+          "74-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "So Exciting - Central Town",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-10",
+      "sub": {
+        "HD-1": {
+          "74-malep-10_vibeplayer_sub": "https://vibeplayer.site/97258e08c3d20538",
+          "74-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/97258e08c3d20538/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag2f3ab3875231e2c41c75e2f1fb2f7bad4h",
+          "74-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-10_otakuhg_sub": "https://otakuhg.site/e/mm9uip7da2a8",
+          "74-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-10_otakuvid_sub": "https://otakuvid.online/embed/icn12q16haob",
+          "74-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Alice Training Currently In Session",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-11",
+      "sub": {
+        "HD-1": {
+          "74-malep-11_vibeplayer_sub": "https://vibeplayer.site/1ce2cfdad92de2d2",
+          "74-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ce2cfdad92de2d2/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-11_vibeplayer_sub": "https://vibeplayer.site/age8e41c8e8098c4b03a39193bf4f5d2cb4h",
+          "74-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-11_otakuhg_sub": "https://otakuhg.site/e/mj3bxm178t49",
+          "74-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-11_otakuvid_sub": "https://otakuvid.online/embed/25il5scr3c3e",
+          "74-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The School Festival Is Coming",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-12",
+      "sub": {
+        "HD-1": {
+          "74-malep-12_vibeplayer_sub": "https://vibeplayer.site/b4a93d6904b1d76b",
+          "74-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4a93d6904b1d76b/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-12_vibeplayer_sub": "https://vibeplayer.site/agdfb4b09c43501c0229b4b4b3424654e34h",
+          "74-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-12_otakuhg_sub": "https://otakuhg.site/e/n0ecguyqzk2o",
+          "74-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-12_otakuvid_sub": "https://otakuvid.online/embed/rx85n0o7etii",
+          "74-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Chase the Top Star",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-13",
+      "sub": {
+        "HD-1": {
+          "74-malep-13_vibeplayer_sub": "https://vibeplayer.site/61b2db79940ec46c",
+          "74-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61b2db79940ec46c/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-13_vibeplayer_sub": "https://vibeplayer.site/ag80a93ebfc2bef71c946f9ed7731daca04h",
+          "74-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-13_otakuhg_sub": "https://otakuhg.site/e/c6x4blf9ujvd",
+          "74-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-13_otakuvid_sub": "https://otakuvid.online/embed/smd434weg74u",
+          "74-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Get Natsume Back",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-14",
+      "sub": {
+        "HD-1": {
+          "74-malep-14_vibeplayer_sub": "https://vibeplayer.site/f719a3443f69abec",
+          "74-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f719a3443f69abec/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-14_vibeplayer_sub": "https://vibeplayer.site/agf0ca1aef6a52c8282a4dce3d8765e5064h",
+          "74-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-14_otakuhg_sub": "https://otakuhg.site/e/xw7zsijc0um8",
+          "74-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-14_otakuvid_sub": "https://otakuvid.online/embed/wheb21febj27",
+          "74-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Let's Go Back to the Academy",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-15",
+      "sub": {
+        "StreamHG": {
+          "74-malep-15_otakuhg_sub": "https://otakuhg.site/e/r82pisb6mja8",
+          "74-malep-15_otakuhg_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Maze Match - The Magic Lamp",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-16",
+      "sub": {
+        "HD-1": {
+          "74-malep-16_vibeplayer_sub": "https://vibeplayer.site/f29ddccaaf3a06d6",
+          "74-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f29ddccaaf3a06d6/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag9ae97329a5fd906f934b69dfc3ccfec24h",
+          "74-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-16_otakuhg_sub": "https://otakuhg.site/e/ms4f9qc1vq64",
+          "74-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-16_otakuvid_sub": "https://otakuvid.online/embed/hvlyqjy961og",
+          "74-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Hotaru's Secret",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-17",
+      "sub": {
+        "HD-1": {
+          "74-malep-17_vibeplayer_sub": "https://vibeplayer.site/185eecd0a521304e",
+          "74-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/185eecd0a521304e/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-17_vibeplayer_sub": "https://vibeplayer.site/ag486fede6c0305a0ffe361114c19597434h",
+          "74-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-17_otakuhg_sub": "https://otakuhg.site/e/t9venwlxydaj",
+          "74-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-17_otakuvid_sub": "https://otakuvid.online/embed/zovsb4ing3vk",
+          "74-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Alone In the Dark Together",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-18",
+      "sub": {
+        "HD-1": {
+          "74-malep-18_vibeplayer_sub": "https://vibeplayer.site/51a3042c1905bddb",
+          "74-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/51a3042c1905bddb/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-18_vibeplayer_sub": "https://vibeplayer.site/ag1f5dc39a6d6c7a8ebc3af456713667814h",
+          "74-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-18_otakuhg_sub": "https://otakuhg.site/e/skulx23zfjva",
+          "74-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-18_otakuvid_sub": "https://otakuvid.online/embed/rit0f8pcgr7w",
+          "74-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Raise the Curtain - Snow White in the Sleeping Forest",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-19",
+      "sub": {
+        "HD-1": {
+          "74-malep-19_vibeplayer_sub": "https://vibeplayer.site/934e11f1e9209da5",
+          "74-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/934e11f1e9209da5/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-19_vibeplayer_sub": "https://vibeplayer.site/agad5f858bcb43676073982f4b144fba134h",
+          "74-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-19_otakuhg_sub": "https://otakuhg.site/e/3vgk18qais96",
+          "74-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-19_otakuvid_sub": "https://otakuvid.online/embed/ddpl6g80r0l9",
+          "74-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Last Dance With Whom?",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-20",
+      "sub": {
+        "HD-1": {
+          "74-malep-20_vibeplayer_sub": "https://vibeplayer.site/09d719869609dab5",
+          "74-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/09d719869609dab5/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-20_vibeplayer_sub": "https://vibeplayer.site/ag105b74ba646e7136827558fdfb4e63b34h",
+          "74-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-20_otakuhg_sub": "https://otakuhg.site/e/egrhc9srrgxl",
+          "74-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-20_otakuvid_sub": "https://otakuvid.online/embed/fk6t2vkhr8dl",
+          "74-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Strive For the Honor Student Award",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-21",
+      "sub": {
+        "HD-1": {
+          "74-malep-21_vibeplayer_sub": "https://vibeplayer.site/16fc761d555d916b",
+          "74-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/16fc761d555d916b/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag8c3eb2a2348c678f44c905df370b4d3b4h",
+          "74-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-21_otakuhg_sub": "https://otakuhg.site/e/s1u1a6kpwjiv",
+          "74-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-21_otakuvid_sub": "https://otakuvid.online/embed/ngkgsd847mez",
+          "74-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Bear and the Prince",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-22",
+      "sub": {
+        "HD-1": {
+          "74-malep-22_vibeplayer_sub": "https://vibeplayer.site/7bd9a352b41c67bd",
+          "74-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7bd9a352b41c67bd/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-22_vibeplayer_sub": "https://vibeplayer.site/ag397f845f8d4c98a5235d4934e4d824c24h",
+          "74-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-22_otakuhg_sub": "https://otakuhg.site/e/2mren4fau1zo",
+          "74-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-22_otakuvid_sub": "https://otakuvid.online/embed/lrmfe2e5652c",
+          "74-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Circus Has Arrived",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-23",
+      "sub": {
+        "HD-1": {
+          "74-malep-23_vibeplayer_sub": "https://vibeplayer.site/868ee1aae69c0c9b",
+          "74-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/868ee1aae69c0c9b/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-23_vibeplayer_sub": "https://vibeplayer.site/agb31093314c4aa8b648ce5457738f6dc44h",
+          "74-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-23_otakuhg_sub": "https://otakuhg.site/e/9yx1wklzgw0r",
+          "74-malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-23_otakuvid_sub": "https://otakuvid.online/embed/zngx0l9pefvm",
+          "74-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Mr. Narumi's a Liar",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-24",
+      "sub": {
+        "HD-1": {
+          "74-malep-24_vibeplayer_sub": "https://vibeplayer.site/63d3fafccad329d3",
+          "74-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/63d3fafccad329d3/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-24_vibeplayer_sub": "https://vibeplayer.site/agfffd00cf6160abbe779867303d5b289e4h",
+          "74-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-24_otakuhg_sub": "https://otakuhg.site/e/wuoyo5q0c6qc",
+          "74-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-24_otakuvid_sub": "https://otakuvid.online/embed/ajqown23d4re",
+          "74-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Take Back the Academy",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-25",
+      "sub": {
+        "HD-1": {
+          "74-malep-25_vibeplayer_sub": "https://vibeplayer.site/dd88b0597742f2f0",
+          "74-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd88b0597742f2f0/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-25_vibeplayer_sub": "https://vibeplayer.site/age441d1b6b80465a3a9c15ff0e21800894h",
+          "74-malep-25_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-25_otakuhg_sub": "https://otakuhg.site/e/205dods4x1dm",
+          "74-malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-25_otakuvid_sub": "https://otakuvid.online/embed/4st9nntivusp",
+          "74-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Friendship Is Endless",
+      "episode_url": "https://hianime.ad/watch/gakuen-alice/ep-26",
+      "sub": {
+        "HD-1": {
+          "74-malep-26_vibeplayer_sub": "https://vibeplayer.site/9d8ecc0aa5663b9a",
+          "74-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d8ecc0aa5663b9a/master.m3u8"
+        },
+        "HD-2": {
+          "74-malep-26_vibeplayer_sub": "https://vibeplayer.site/agd78ccb9c0d9001d6c115c1359af8c66c4h",
+          "74-malep-26_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "74-malep-26_otakuhg_sub": "https://otakuhg.site/e/9z71zwo441xw",
+          "74-malep-26_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "74-malep-26_otakuvid_sub": "https://otakuvid.online/embed/c2a8t8n0xfpa",
+          "74-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}

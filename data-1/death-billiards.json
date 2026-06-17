@@ -1,0 +1,56 @@
+{
+  "anime_name": "Death Billiards",
+  "anime_url": "https://hianime.ad/anime/death-billiards",
+  "slug": "death-billiards",
+  "mal_id": 34497,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:52:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Catastrophe That Started with a Death March",
+      "episode_url": "https://hianime.ad/watch/death-billiards/ep-1",
+      "sub": {
+        "HD-1": {
+          "34497-malep-1_vibeplayer_sub": "https://vibeplayer.site/e30c5133dbc91333",
+          "34497-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e30c5133dbc91333/master.m3u8"
+        },
+        "HD-2": {
+          "34497-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5953032770de836c8ab072ec0894947b4h",
+          "34497-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34497-malep-1_otakuhg_sub": "https://otakuhg.site/e/g2i9ea9z3b2x",
+          "34497-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34497-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zbvt9fznqvhp",
+          "34497-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34497-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5d5f6e6ccf3d87ff",
+          "34497-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5d5f6e6ccf3d87ff/master.m3u8"
+        },
+        "HD-2": {
+          "34497-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4ef7a46e1fbc12d7d5f051c8d82752a64h",
+          "34497-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34497-malep-1_otakuhg_hsub": "https://otakuhg.site/e/iegp066qn8q8",
+          "34497-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34497-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qywu3ynofjs3",
+          "34497-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34497-malep-1_playmogo_hsub": "https://playmogo.com/e/d1kag473zkx6",
+          "34497-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

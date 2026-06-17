@@ -1,0 +1,60 @@
+{
+  "anime_name": "Fuuto Pi The Portrait Of Kamen Rider Skull",
+  "anime_url": "https://hianime.ad/anime/fuuto-pi-the-portrait-of-kamen-rider-skull",
+  "slug": "fuuto-pi-the-portrait-of-kamen-rider-skull",
+  "mal_id": 48649,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:29:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Beware of t / The Man Who Loved a Witch",
+      "episode_url": "https://hianime.ad/watch/fuuto-pi-the-portrait-of-kamen-rider-skull/ep-1",
+      "sub": {
+        "HD-1": {
+          "48649-malep-1_vibeplayer_sub": "https://vibeplayer.site/dc26328e8ba69820",
+          "48649-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc26328e8ba69820/master.m3u8"
+        },
+        "HD-2": {
+          "48649-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb4806d6a9b9ca19ffa285d702b3a465f4h",
+          "48649-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "48649-malep-1_otakuhg_sub": "https://otakuhg.site/e/ugevsyb2jkqb",
+          "48649-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48649-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z4pgrb4kfg1w",
+          "48649-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "48649-malep-1_playmogo_sub": "https://playmogo.com/e/uthkg5til6lp",
+          "48649-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48649-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8ba5fa6318a51440",
+          "48649-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ba5fa6318a51440/master.m3u8"
+        },
+        "HD-2": {
+          "48649-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd2286f894bab5238e58d0d77aeb8614f4h",
+          "48649-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "48649-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i31aypnnnz4u",
+          "48649-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48649-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kyzmdsxdndrc",
+          "48649-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48649-malep-1_playmogo_hsub": "https://playmogo.com/e/7dnuqwibd81u",
+          "48649-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

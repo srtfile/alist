@@ -1,0 +1,65 @@
+{
+  "anime_name": "Grave Of The Fireflies",
+  "anime_url": "https://hianime.ad/anime/grave-of-the-fireflies",
+  "slug": "grave-of-the-fireflies",
+  "mal_id": 28497,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:53:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Strongest Man In The World",
+      "episode_url": "https://hianime.ad/watch/grave-of-the-fireflies/ep-1",
+      "sub": {
+        "HD-1": {
+          "28497-malep-1_vibeplayer_sub": "https://vibeplayer.site/3c9ea7d48f3caf42",
+          "28497-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c9ea7d48f3caf42/master.m3u8"
+        },
+        "StreamHG": {
+          "28497-malep-1_otakuhg_sub": "https://otakuhg.site/e/gsofwcykgf3a",
+          "28497-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28497-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9ksx3p8ebb47",
+          "28497-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "28497-malep-1_playmogo_sub": "https://playmogo.com/e/5q4gkd8p4j17",
+          "28497-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "28497-malep-1_vibeplayer_dub": "https://vibeplayer.site/49d5e52e59facc45",
+          "28497-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/49d5e52e59facc45/master.m3u8"
+        },
+        "StreamHG": {
+          "28497-malep-1_otakuhg_dub": "https://otakuhg.site/e/2xid6fl17ypx",
+          "28497-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "28497-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dq3q1f6iwai7",
+          "28497-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "28497-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8a7c396820a7ab91",
+          "28497-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a7c396820a7ab91/master.m3u8"
+        },
+        "StreamHG": {
+          "28497-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sdmbz3juzwi5",
+          "28497-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28497-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u7pb69x64kbq",
+          "28497-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28497-malep-1_playmogo_hsub": "https://playmogo.com/e/88dqre6aearo",
+          "28497-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

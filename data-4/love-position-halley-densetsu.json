@@ -1,0 +1,44 @@
+{
+  "anime_name": "Love Position Halley Densetsu",
+  "anime_url": "https://hianime.ad/anime/love-position-halley-densetsu",
+  "slug": "love-position-halley-densetsu",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:45:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/love-position-halley-densetsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/9ea19aad1a5ea8c5",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ea19aad1a5ea8c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/gxi3omrockgj",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c8dd419c65e30c69",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8dd419c65e30c69/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/vo6npktwmc8d",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4tddojbmnnkm",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/8duq913de9dx",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

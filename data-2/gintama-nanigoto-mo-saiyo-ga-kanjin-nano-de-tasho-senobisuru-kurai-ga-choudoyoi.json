@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gintama Nanigoto Mo Saiyo Ga Kanjin Nano De Tasho Senobisuru Kurai Ga Choudoyoi",
+  "anime_url": "https://hianime.ad/anime/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi",
+  "slug": "gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:57:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/fd8521ab68cb78f4",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd8521ab68cb78f4/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/2jd8g7c6rc93",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bhzsifv3jlqk",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dfefcced7ddbd79b",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dfefcced7ddbd79b/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vs2lc70nvq93",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u9h4zhspd9wn",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/j0zgbvqngdy2",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "D4Dj Double Mix",
+  "anime_url": "https://hianime.ad/anime/d4dj-double-mix",
+  "slug": "d4dj-double-mix",
+  "mal_id": 38098,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:28:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Meisei's Ace",
+      "episode_url": "https://hianime.ad/watch/d4dj-double-mix/ep-1",
+      "sub": {
+        "HD-1": {
+          "38098-malep-1_vibeplayer_sub": "https://vibeplayer.site/0644179a97163f39",
+          "38098-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0644179a97163f39/master.m3u8"
+        },
+        "HD-2": {
+          "38098-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag91a47c1482f81f037d1a26c7d84d809a4h",
+          "38098-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38098-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ti8sqm4x8gn8",
+          "38098-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38098-malep-1_vibeplayer_hsub": "https://vibeplayer.site/98ce0b8d6d49131d",
+          "38098-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/98ce0b8d6d49131d/master.m3u8"
+        },
+        "HD-2": {
+          "38098-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag46110066e40801ea0f087569c6a349fd4h",
+          "38098-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38098-malep-1_otakuhg_hsub": "https://otakuhg.site/e/irifdwuf5ris",
+          "38098-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38098-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2566bcwasxch",
+          "38098-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38098-malep-1_playmogo_hsub": "https://playmogo.com/e/akz65gttvvf7",
+          "38098-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

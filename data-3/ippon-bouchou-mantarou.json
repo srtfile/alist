@@ -1,0 +1,77 @@
+{
+  "anime_name": "Ippon Bouchou Mantarou",
+  "anime_url": "https://hianime.ad/anime/ippon-bouchou-mantarou",
+  "slug": "ippon-bouchou-mantarou",
+  "mal_id": 49376,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T07:18:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ippon!",
+      "episode_url": "https://hianime.ad/watch/ippon-bouchou-mantarou/ep-1",
+      "sub": {
+        "HD-1": {
+          "49376-malep-1_vibeplayer_sub": "https://vibeplayer.site/5fb122a699c5564b",
+          "49376-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fb122a699c5564b/master.m3u8"
+        },
+        "Earnvids": {
+          "49376-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i0y8d43jwi47",
+          "49376-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49376-malep-1_vibeplayer_hsub": "https://vibeplayer.site/98da8b4dd876cd33",
+          "49376-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/98da8b4dd876cd33/master.m3u8"
+        },
+        "StreamHG": {
+          "49376-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r0wt62bp0a9t",
+          "49376-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49376-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/00nbqdgpoq8k",
+          "49376-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49376-malep-1_playmogo_hsub": "https://playmogo.com/e/xkl1ia6pk16f",
+          "49376-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Formed! Revived! Restarted!",
+      "episode_url": "https://hianime.ad/watch/ippon-bouchou-mantarou/ep-2",
+      "sub": {
+        "HD-1": {
+          "49376-malep-2_vibeplayer_sub": "https://vibeplayer.site/c2cc58a0f040ef88",
+          "49376-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2cc58a0f040ef88/master.m3u8"
+        },
+        "Earnvids": {
+          "49376-malep-2_otakuvid_sub": "https://otakuvid.online/embed/pt46ovct28ca",
+          "49376-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49376-malep-2_vibeplayer_hsub": "https://vibeplayer.site/26082bda5370aba2",
+          "49376-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/26082bda5370aba2/master.m3u8"
+        },
+        "StreamHG": {
+          "49376-malep-2_otakuhg_hsub": "https://otakuhg.site/e/jnanccc71fbl",
+          "49376-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49376-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/mesh7vfgf6uu",
+          "49376-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49376-malep-2_playmogo_hsub": "https://playmogo.com/e/9fqwl9fqd96s",
+          "49376-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "anime_name": "Galaxy Apartment Cosmo Hills",
+  "anime_url": "https://hianime.ad/anime/galaxy-apartment-cosmo-hills",
+  "slug": "galaxy-apartment-cosmo-hills",
+  "mal_id": 653,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:42:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/galaxy-apartment-cosmo-hills/ep-1",
+      "sub": {
+        "HD-1": {
+          "653-malep-1_vibeplayer_sub": "https://vibeplayer.site/456fae12f57b2a2a",
+          "653-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/456fae12f57b2a2a/master.m3u8"
+        },
+        "HD-2": {
+          "653-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag10e93d5e71765e225e43f5e0e7572e974h",
+          "653-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "653-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b0bajnhn7fgt",
+          "653-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/358c0a6fe46a598c",
+          "653-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/358c0a6fe46a598c/master.m3u8"
+        },
+        "HD-2": {
+          "653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag06b7c4b1befc75233abba04807b7d14d4h",
+          "653-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "653-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p2dr4lb1wsui",
+          "653-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "653-malep-1_playmogo_hsub": "https://playmogo.com/e/bzfeg4wtzw3e",
+          "653-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anime_name": "Makoto Chan",
+  "anime_url": "https://hianime.ad/anime/makoto-chan",
+  "slug": "makoto-chan",
+  "mal_id": 966,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:06:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Running an Errand / Mom's Mornings are Busy / Drawing",
+      "episode_url": "https://hianime.ad/watch/makoto-chan/ep-1",
+      "sub": {
+        "HD-1": {
+          "966-malep-1_vibeplayer_sub": "https://vibeplayer.site/9971dae62a57393f",
+          "966-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9971dae62a57393f/master.m3u8"
+        },
+        "Earnvids": {
+          "966-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hrh8xmz4lwei",
+          "966-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "966-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cc6faf49c77d5a0d",
+          "966-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc6faf49c77d5a0d/master.m3u8"
+        },
+        "StreamHG": {
+          "966-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ivma1oh89lb2",
+          "966-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "966-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q4xy8frastzq",
+          "966-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "966-malep-1_playmogo_hsub": "https://playmogo.com/e/x2kf0ujldpbd",
+          "966-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "anime_name": "Digimon The Movie 1371",
+  "anime_url": "https://hianime.ad/anime/digimon-the-movie-1371",
+  "slug": "digimon-the-movie-1371",
+  "mal_id": 10444,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:37:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To a New World! The Fire Fury General's Dragon Land",
+      "episode_url": "https://hianime.ad/watch/digimon-the-movie-1371/ep-1",
+      "sub": {
+        "HD-1": {
+          "10444-malep-1_vibeplayer_sub": "https://vibeplayer.site/8b8b41395c93affd",
+          "10444-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b8b41395c93affd/master.m3u8"
+        },
+        "HD-2": {
+          "10444-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcc0abcee63fd5c0e55b41abcfb879f694h",
+          "10444-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10444-malep-1_otakuvid_sub": "https://otakuvid.online/embed/feowm3fwylyj",
+          "10444-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "10444-malep-1_vibeplayer_dub": "https://vibeplayer.site/fd4588d3050761a0",
+          "10444-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fd4588d3050761a0/master.m3u8"
+        },
+        "HD-2": {
+          "10444-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag324d022c746c8d2908064056f028fb5f4h",
+          "10444-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "10444-malep-1_otakuhg_dub": "https://otakuhg.site/e/hm932gb9cjqv",
+          "10444-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "10444-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bq7fi7t465yh",
+          "10444-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "10444-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b4a55c74adcc3dd3",
+          "10444-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b4a55c74adcc3dd3/master.m3u8"
+        },
+        "HD-2": {
+          "10444-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9b2713f89c0e6858ff139fc9158464ab4h",
+          "10444-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "10444-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ynkse9nxpvab",
+          "10444-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10444-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xl6pdxw6lky4",
+          "10444-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10444-malep-1_playmogo_hsub": "https://playmogo.com/e/0ttwwgmzjhkn",
+          "10444-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

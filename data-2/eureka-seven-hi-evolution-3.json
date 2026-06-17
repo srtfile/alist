@@ -1,0 +1,65 @@
+{
+  "anime_name": "Eureka Seven Hi Evolution 3",
+  "anime_url": "https://hianime.ad/anime/eureka-seven-hi-evolution-3",
+  "slug": "eureka-seven-hi-evolution-3",
+  "mal_id": 237,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:40:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Blue Monday",
+      "episode_url": "https://hianime.ad/watch/eureka-seven-hi-evolution-3/ep-1",
+      "sub": {
+        "HD-1": {
+          "237-malep-1_vibeplayer_sub": "https://vibeplayer.site/71667c930a092a26",
+          "237-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/71667c930a092a26/master.m3u8"
+        },
+        "HD-2": {
+          "237-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag72977868aea99535938d1f200a8b9cfc4h",
+          "237-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "237-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4xhyrzkrh37b",
+          "237-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "237-malep-1_vibeplayer_dub": "https://vibeplayer.site/ffe9f8871a5be401",
+          "237-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ffe9f8871a5be401/master.m3u8"
+        },
+        "HD-2": {
+          "237-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag69c59d32b15c2cbdd685da7c290aa3064h",
+          "237-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "237-malep-1_otakuvid_dub": "https://otakuvid.online/embed/o82c53dr4qia",
+          "237-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "237-malep-1_vibeplayer_hsub": "https://vibeplayer.site/67415bd7b26419b5",
+          "237-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/67415bd7b26419b5/master.m3u8"
+        },
+        "HD-2": {
+          "237-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfd55bd86ef61f85465a1559b2674fccd4h",
+          "237-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "237-malep-1_otakuhg_hsub": "https://otakuhg.site/e/svpxg18ku2k6",
+          "237-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "237-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yl9n0ujw4iw8",
+          "237-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "237-malep-1_playmogo_hsub": "https://playmogo.com/e/ryizsww40grn",
+          "237-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "anime_name": "Kizuna",
+  "anime_url": "https://hianime.ad/anime/kizuna",
+  "slug": "kizuna",
+  "mal_id": 55775,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T03:34:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kizuna/ep-1",
+      "sub": {
+        "HD-1": {
+          "55775-malep-1_vibeplayer_sub": "https://vibeplayer.site/fefb0f31c0872146",
+          "55775-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fefb0f31c0872146/master.m3u8"
+        },
+        "Earnvids": {
+          "55775-malep-1_otakuvid_sub": "https://otakuvid.online/embed/l1moawtekf64",
+          "55775-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55775-malep-1_vibeplayer_dub": "https://vibeplayer.site/64461285b377e11a",
+          "55775-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/64461285b377e11a/master.m3u8"
+        },
+        "Earnvids": {
+          "55775-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ka9gpqm19w42",
+          "55775-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55775-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6247cbb8578798d1",
+          "55775-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6247cbb8578798d1/master.m3u8"
+        },
+        "StreamHG": {
+          "55775-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yiu4zz4oveqw",
+          "55775-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55775-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2e8q28i9akkh",
+          "55775-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kizuna/ep-2",
+      "sub": {
+        "HD-1": {
+          "55775-malep-2_vibeplayer_sub": "https://vibeplayer.site/99c536f4fe82ae3d",
+          "55775-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/99c536f4fe82ae3d/master.m3u8"
+        },
+        "Earnvids": {
+          "55775-malep-2_otakuvid_sub": "https://otakuvid.online/embed/rcaba9fu1trr",
+          "55775-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55775-malep-2_vibeplayer_dub": "https://vibeplayer.site/5c6fa774fecc2548",
+          "55775-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5c6fa774fecc2548/master.m3u8"
+        },
+        "Earnvids": {
+          "55775-malep-2_otakuvid_dub": "https://otakuvid.online/embed/6sffxf0inci5",
+          "55775-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55775-malep-2_vibeplayer_hsub": "https://vibeplayer.site/2b10e5dd7183dc90",
+          "55775-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2b10e5dd7183dc90/master.m3u8"
+        },
+        "StreamHG": {
+          "55775-malep-2_otakuhg_hsub": "https://otakuhg.site/e/9irbz1n5xn6w",
+          "55775-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55775-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/o9x9yo4d70i2",
+          "55775-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fatekaleid Liner Prismaillya Movie",
+  "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prismaillya-movie",
+  "slug": "fatekaleid-liner-prismaillya-movie",
+  "mal_id": 14829,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:18:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth! A Magical Girl!",
+      "episode_url": "https://hianime.ad/watch/fatekaleid-liner-prismaillya-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/1e656114d6e52a1f",
+          "14829-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e656114d6e52a1f/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc4a905787d579b0cd2896ce6bdb9bbd14h",
+          "14829-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_sub": "https://otakuvid.online/embed/w8bva77hv4sc",
+          "14829-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14829-malep-1_playmogo_sub": "https://playmogo.com/e/l89aawnj0h02",
+          "14829-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f86cb32402024ec2",
+          "14829-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f86cb32402024ec2/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag39c1b94e92d8b7fac6f0dd9ddba1125b4h",
+          "14829-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/it6r88lyyuxe",
+          "14829-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14829-malep-1_playmogo_hsub": "https://playmogo.com/e/jp192tlabn8i",
+          "14829-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

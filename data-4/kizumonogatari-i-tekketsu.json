@@ -1,0 +1,52 @@
+{
+  "anime_name": "Kizumonogatari I Tekketsu",
+  "anime_url": "https://hianime.ad/anime/kizumonogatari-i-tekketsu",
+  "slug": "kizumonogatari-i-tekketsu",
+  "mal_id": 31251,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:33:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Iron and Blood",
+      "episode_url": "https://hianime.ad/watch/kizumonogatari-i-tekketsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "31251-malep-1_vibeplayer_sub": "https://vibeplayer.site/714166c011a8d471",
+          "31251-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/714166c011a8d471/master.m3u8"
+        },
+        "StreamHG": {
+          "31251-malep-1_otakuhg_sub": "https://otakuhg.site/e/7r66sv93ws9q",
+          "31251-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31251-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hr9el3nejl25",
+          "31251-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31251-malep-1_playmogo_sub": "https://playmogo.com/e/coeugoc86wgl",
+          "31251-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31251-malep-1_vibeplayer_hsub": "https://vibeplayer.site/830f0345762a960e",
+          "31251-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/830f0345762a960e/master.m3u8"
+        },
+        "StreamHG": {
+          "31251-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mmg5nvgcf6tk",
+          "31251-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31251-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oav53xnn7kdb",
+          "31251-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31251-malep-1_playmogo_hsub": "https://playmogo.com/e/7nsqfi7vhv5g",
+          "31251-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

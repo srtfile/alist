@@ -1,0 +1,44 @@
+{
+  "anime_name": "Maken Liner 0011 Henshin Seyo",
+  "anime_url": "https://hianime.ad/anime/maken-liner-0011-henshin-seyo",
+  "slug": "maken-liner-0011-henshin-seyo",
+  "mal_id": 50582,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:05:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ceremony",
+      "episode_url": "https://hianime.ad/watch/maken-liner-0011-henshin-seyo/ep-1",
+      "sub": {
+        "HD-1": {
+          "50582-malep-1_vibeplayer_sub": "https://vibeplayer.site/2c10cd2341ec2edf",
+          "50582-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c10cd2341ec2edf/master.m3u8"
+        },
+        "Earnvids": {
+          "50582-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5zutmlfvh4ga",
+          "50582-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "50582-malep-1_playmogo_sub": "https://playmogo.com/e/9sv034y47h0w",
+          "50582-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50582-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fc8120829abfe38d",
+          "50582-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc8120829abfe38d/master.m3u8"
+        },
+        "Earnvids": {
+          "50582-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k7eog3xaanku",
+          "50582-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50582-malep-1_playmogo_hsub": "https://playmogo.com/e/yp3vkkokzt3n",
+          "50582-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "anime_name": "Macross",
+  "anime_url": "https://hianime.ad/anime/macross",
+  "slug": "macross",
+  "mal_id": null,
+  "total_episodes": 36,
+  "captured_at": "2026-06-17T06:12:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Booby Trap",
+      "episode_url": "https://hianime.ad/watch/macross/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5b5a86c2d6494638",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b5a86c2d6494638/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/jtzogv034qon",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/4uja0gstech8",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/c98ac7f625325bd2",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c98ac7f625325bd2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/63dpeoz9lmn5",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/janppoehbnc1",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Countdown",
+      "episode_url": "https://hianime.ad/watch/macross/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/fd7fd9f1f2d8975a",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd7fd9f1f2d8975a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/7v94ulz0xtql",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/acsb6f2krkw8",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/95a1e3b9773fa48f",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/95a1e3b9773fa48f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/8odbyozn4oh6",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/80noz16hczec",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Space Fold",
+      "episode_url": "https://hianime.ad/watch/macross/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/ed5dc62caf13ee34",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed5dc62caf13ee34/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/uvyvfom21jc3",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/rbuarihffntb",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/8f22cbe5dd8bfd87",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f22cbe5dd8bfd87/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/jwn009halaoj",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/v9pvhvfxz4mt",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/5afae8eb7caa5897",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5afae8eb7caa5897/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/0pl595cyp6c2",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/ad9gsw1brnns",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/qp6euwj80tv8",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lynn Minmay",
+      "episode_url": "https://hianime.ad/watch/macross/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/76027a1561094233",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76027a1561094233/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/02embfx5czzf",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/6bdxh90ugp95",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/bf2eafaa9b24ccbd",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf2eafaa9b24ccbd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/m9wy40r3qb7i",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/663f4c34149799f8",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/663f4c34149799f8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/2dpru2dbms5x",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/u7na1fnc4kzl",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/w39ghqmfh1b5",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Transformation",
+      "episode_url": "https://hianime.ad/watch/macross/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/c15201c558aa35ac",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c15201c558aa35ac/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/feushkndiasd",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/35e2e1ca80441cdb",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/35e2e1ca80441cdb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/q50krqsdpj2r",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/wh53xxotghw5",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/39764e1062ac32dd",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39764e1062ac32dd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/ryuwzflr8r0w",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/5u76kh4um13m",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/mb00kdjhi6ok",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Daedalus Attack",
+      "episode_url": "https://hianime.ad/watch/macross/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/2d1a5441a29bd401",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2d1a5441a29bd401/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/xpbi599kze01",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/e6dcd98d53af5b02",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e6dcd98d53af5b02/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/sebzjb564z3b",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/b627a5303a58ef63",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b627a5303a58ef63/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/waabme6ziqvr",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/w0dxs58rdsn8",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/0cogbu4fawyw",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bye-Bye Mars",
+      "episode_url": "https://hianime.ad/watch/macross/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/57741d8496746ab0",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57741d8496746ab0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/slg8hcg0l59q",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/b148915602fb7ffb",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b148915602fb7ffb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/sjonqw0u8x5d",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Longest Birthday",
+      "episode_url": "https://hianime.ad/watch/macross/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/0a12cade2b549c83",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a12cade2b549c83/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/0fz9q6b1k8nd",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/b352df36533ab9e8",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b352df36533ab9e8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/upz6lb26hoez",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Miss Macross",
+      "episode_url": "https://hianime.ad/watch/macross/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/953ffe9595ec34d1",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/953ffe9595ec34d1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/f8ustu0b13hg",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/34c9ef08e714f4fd",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/34c9ef08e714f4fd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/bwpqncewzkqg",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/665ce6e6fadefe91",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/665ce6e6fadefe91/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/o5bbcw7tkv12",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/frw424y1t277",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/gddp1icq2k2u",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Blind Game",
+      "episode_url": "https://hianime.ad/watch/macross/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/abdd42531c222a1e",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/abdd42531c222a1e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/5j8jkk5poig2",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/4e536635031b85f4",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4e536635031b85f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/7683iqv7xmej",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/1947c4ed4e7a83c8",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1947c4ed4e7a83c8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/ez4ydogtu4t1",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/cs8aeh5t5fac",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/9jy2hy8wvzd9",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "First Contact",
+      "episode_url": "https://hianime.ad/watch/macross/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/61083c1f68c70384",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61083c1f68c70384/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/grakjl6w0v1f",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/48d74dc9507833a3",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48d74dc9507833a3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/1vrkae58nwd1",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/a0b822cf4b98297b",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0b822cf4b98297b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/llhr2938ads9",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/p3plyx562vu9",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Big Escape",
+      "episode_url": "https://hianime.ad/watch/macross/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/8eb6e10feee09d2b",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8eb6e10feee09d2b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/yvp6zu84vwfr",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/44b5fc3271d24b80",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44b5fc3271d24b80/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/y4npznao6bxr",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Blue Wind",
+      "episode_url": "https://hianime.ad/watch/macross/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/0f506cf76bdf5058",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f506cf76bdf5058/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/vkrvai8jgbs2",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/9c82d034bd94336e",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9c82d034bd94336e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/ld9gfe6i0nwt",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/4bb456223e9dd95c",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4bb456223e9dd95c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/2cyvnnntnupk",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/ylp70hfmljka",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/1kfi78psdsg9",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Global Report",
+      "episode_url": "https://hianime.ad/watch/macross/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/de034114d48c3376",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de034114d48c3376/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/oevxk451bnlb",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/fa8bf9209b43bdf7",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fa8bf9209b43bdf7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/6vjayv9c4uk8",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Chinatown",
+      "episode_url": "https://hianime.ad/watch/macross/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/9685ad54eca6aff2",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9685ad54eca6aff2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/y7n170526dsq",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/7625f4ac1c307564",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7625f4ac1c307564/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/0nsozyale59g",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Kung Fu Dandy",
+      "episode_url": "https://hianime.ad/watch/macross/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/bfacfb18fadf4376",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bfacfb18fadf4376/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/fyljnjiuelwk",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/055ffd2c00d4d8d2",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/055ffd2c00d4d8d2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/6ec1yzjkfbl4",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/cf4933ca2de07e86",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf4933ca2de07e86/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_hsub": "https://otakuhg.site/e/wltf1vym5q2j",
+          "malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/e3jq8asbfs79",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/wmm8djxd2zqq",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Phantasm",
+      "episode_url": "https://hianime.ad/watch/macross/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/428381f95749075f",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/428381f95749075f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/uvcspc3lz7ki",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/fe2c120684d73c2b",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe2c120684d73c2b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/7decqc75addx",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Pineapple Salad",
+      "episode_url": "https://hianime.ad/watch/macross/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/acf00aacbd3e9a46",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/acf00aacbd3e9a46/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/mmmt9hzqgcc4",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/b584c16b66d0d91f",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b584c16b66d0d91f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/x0fzau861c8j",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/d73e1fb04bb52a4b",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d73e1fb04bb52a4b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_hsub": "https://otakuhg.site/e/oth0mpam4u7i",
+          "malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/szxteqrs2xj2",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/x1eywsb0tuuj",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Burst Point",
+      "episode_url": "https://hianime.ad/watch/macross/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/b52cca0935644961",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b52cca0935644961/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/0d9rjul6z7wo",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/cf83168a7b5b5d0c",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cf83168a7b5b5d0c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/4d7ecorwf92d",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Paradise Lost",
+      "episode_url": "https://hianime.ad/watch/macross/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/4ddbc90a2fd98cce",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ddbc90a2fd98cce/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/luak6q34nijm",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/31863fd970c14758",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/31863fd970c14758/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/09yvod3xggmb",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-20_vibeplayer_hsub": "https://vibeplayer.site/fc87fd40684bb07b",
+          "malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc87fd40684bb07b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_hsub": "https://otakuhg.site/e/cx0r2tvl4gd0",
+          "malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_hsub": "https://otakuvid.online/embed/wypb1cy6yr0c",
+          "malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-20_playmogo_hsub": "https://playmogo.com/e/r6rtss1h8pz2",
+          "malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Micro Cosmos",
+      "episode_url": "https://hianime.ad/watch/macross/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/7b2d73cad5dc0778",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7b2d73cad5dc0778/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/zfc2p6a7lq0d",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/087d832a6fa56d51",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/087d832a6fa56d51/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/mcdv9a8r37ag",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/5e94e7ab3955f466",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5e94e7ab3955f466/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_hsub": "https://otakuhg.site/e/fi49lntqfz1k",
+          "malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/84qqod4bcc1q",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/gwboinixkert",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Love Concert",
+      "episode_url": "https://hianime.ad/watch/macross/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/2e0aabdca70be4de",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e0aabdca70be4de/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/7du2ixpbai8i",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/3687c3b558d44dc2",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3687c3b558d44dc2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/v4d2zi63nh0k",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/64f829b09f93bebc",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64f829b09f93bebc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_hsub": "https://otakuhg.site/e/40yh08q6cx49",
+          "malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/fzftrowo571j",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/f2k7qpnpyu06",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Drop Out",
+      "episode_url": "https://hianime.ad/watch/macross/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/7ad222357a6651c5",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7ad222357a6651c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/xqhosx2uiv0k",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/978bd49f01e2d471",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/978bd49f01e2d471/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/ibiltqtt9lm9",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/e9a6cecc744b0189",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e9a6cecc744b0189/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/dpn91tp3mcwe",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/ieyotusv6csp",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Good-Bye Girl",
+      "episode_url": "https://hianime.ad/watch/macross/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/0d24f6d9f2c76513",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d24f6d9f2c76513/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/71jcub03bxmo",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/18b97cafd20a9ef0",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/18b97cafd20a9ef0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/yaob1b2umt0r",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-24_vibeplayer_hsub": "https://vibeplayer.site/48c02ba12dcbeb17",
+          "malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48c02ba12dcbeb17/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_hsub": "https://otakuhg.site/e/nyidfwxeraq4",
+          "malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_hsub": "https://otakuvid.online/embed/q8z7i6irxnoy",
+          "malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-24_playmogo_hsub": "https://playmogo.com/e/2rhmgl8x9p7k",
+          "malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Virgin Road",
+      "episode_url": "https://hianime.ad/watch/macross/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/429a20bd39b37dec",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/429a20bd39b37dec/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/ih78k7eow3xx",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/2a9f12863825fbc8",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2a9f12863825fbc8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/pm3x880tswdu",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Messenger",
+      "episode_url": "https://hianime.ad/watch/macross/ep-26",
+      "sub": {
+        "HD-1": {
+          "malep-26_vibeplayer_sub": "https://vibeplayer.site/e229e66689679d93",
+          "malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e229e66689679d93/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_sub": "https://otakuvid.online/embed/w9q2jorl4p30",
+          "malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-26_vibeplayer_dub": "https://vibeplayer.site/c54dc7625e25f7d4",
+          "malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c54dc7625e25f7d4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_dub": "https://otakuvid.online/embed/uctmxfhlxpuu",
+          "malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Love Flows By",
+      "episode_url": "https://hianime.ad/watch/macross/ep-27",
+      "sub": {
+        "HD-1": {
+          "malep-27_vibeplayer_sub": "https://vibeplayer.site/66b6518c28796d73",
+          "malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/66b6518c28796d73/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_sub": "https://otakuvid.online/embed/n60d9g6ic09o",
+          "malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-27_vibeplayer_dub": "https://vibeplayer.site/03cb1a985539b4dd",
+          "malep-27_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/03cb1a985539b4dd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_dub": "https://otakuvid.online/embed/o73ioaq89350",
+          "malep-27_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-27_vibeplayer_hsub": "https://vibeplayer.site/a7b1d061b51171f5",
+          "malep-27_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7b1d061b51171f5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-27_otakuhg_hsub": "https://otakuhg.site/e/s88a8lviqa98",
+          "malep-27_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_hsub": "https://otakuvid.online/embed/hbspe1ieu9tq",
+          "malep-27_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-27_playmogo_hsub": "https://playmogo.com/e/sn62hamldjnt",
+          "malep-27_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "My Album",
+      "episode_url": "https://hianime.ad/watch/macross/ep-28",
+      "sub": {
+        "HD-1": {
+          "malep-28_vibeplayer_sub": "https://vibeplayer.site/045c9fc617a11abb",
+          "malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/045c9fc617a11abb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_sub": "https://otakuvid.online/embed/jze8yt6mhngt",
+          "malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-28_vibeplayer_dub": "https://vibeplayer.site/091bd4370334138c",
+          "malep-28_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/091bd4370334138c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_dub": "https://otakuvid.online/embed/wizma1qglclk",
+          "malep-28_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-28_vibeplayer_hsub": "https://vibeplayer.site/951467dddf1ba4ad",
+          "malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/951467dddf1ba4ad/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-28_otakuhg_hsub": "https://otakuhg.site/e/1814crx9pazj",
+          "malep-28_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_hsub": "https://otakuvid.online/embed/b70bbiqxflak",
+          "malep-28_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-28_playmogo_hsub": "https://playmogo.com/e/xd84ihaxkr8f",
+          "malep-28_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lonely Song",
+      "episode_url": "https://hianime.ad/watch/macross/ep-29",
+      "sub": {
+        "HD-1": {
+          "malep-29_vibeplayer_sub": "https://vibeplayer.site/3ee6bc6199b05f36",
+          "malep-29_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ee6bc6199b05f36/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-29_otakuvid_sub": "https://otakuvid.online/embed/6eqduh1yx9lm",
+          "malep-29_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-29_vibeplayer_dub": "https://vibeplayer.site/66f2573db3a3cf6e",
+          "malep-29_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/66f2573db3a3cf6e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-29_otakuvid_dub": "https://otakuvid.online/embed/kjaspmhs2oxd",
+          "malep-29_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-29_vibeplayer_hsub": "https://vibeplayer.site/d896cc9af48a39bd",
+          "malep-29_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d896cc9af48a39bd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-29_otakuhg_hsub": "https://otakuhg.site/e/x5fdgtr2u8t1",
+          "malep-29_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-29_otakuvid_hsub": "https://otakuvid.online/embed/y0knwros8kap",
+          "malep-29_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-29_playmogo_hsub": "https://playmogo.com/e/bmag1h4xh6ho",
+          "malep-29_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Viva Maria",
+      "episode_url": "https://hianime.ad/watch/macross/ep-30",
+      "sub": {
+        "HD-1": {
+          "malep-30_vibeplayer_sub": "https://vibeplayer.site/82f42456cfd46d16",
+          "malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/82f42456cfd46d16/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-30_otakuvid_sub": "https://otakuvid.online/embed/dduen2zkypee",
+          "malep-30_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-30_vibeplayer_dub": "https://vibeplayer.site/576276b952813f95",
+          "malep-30_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/576276b952813f95/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-30_otakuvid_dub": "https://otakuvid.online/embed/u0tbp1t1x6ov",
+          "malep-30_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-30_vibeplayer_hsub": "https://vibeplayer.site/1aa25ac72630afac",
+          "malep-30_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1aa25ac72630afac/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-30_otakuhg_hsub": "https://otakuhg.site/e/erhr8an0pghv",
+          "malep-30_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-30_otakuvid_hsub": "https://otakuvid.online/embed/3n66bnaxi8pp",
+          "malep-30_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-30_playmogo_hsub": "https://playmogo.com/e/3365z9q4huzt",
+          "malep-30_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Satan's Dolls",
+      "episode_url": "https://hianime.ad/watch/macross/ep-31",
+      "sub": {
+        "HD-1": {
+          "malep-31_vibeplayer_sub": "https://vibeplayer.site/1a72de1411c51edb",
+          "malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a72de1411c51edb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-31_otakuvid_sub": "https://otakuvid.online/embed/ar4t93or7blv",
+          "malep-31_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-31_vibeplayer_dub": "https://vibeplayer.site/d8491a67aa0d05a6",
+          "malep-31_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d8491a67aa0d05a6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-31_otakuvid_dub": "https://otakuvid.online/embed/zef234qua5u4",
+          "malep-31_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-31_vibeplayer_hsub": "https://vibeplayer.site/d7302d31f21c05a9",
+          "malep-31_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d7302d31f21c05a9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-31_otakuhg_hsub": "https://otakuhg.site/e/mv6sy3fbhe85",
+          "malep-31_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-31_otakuvid_hsub": "https://otakuvid.online/embed/tgpw1mptxxk2",
+          "malep-31_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-31_playmogo_hsub": "https://playmogo.com/e/gmb3d8b53us6",
+          "malep-31_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Broken Heart",
+      "episode_url": "https://hianime.ad/watch/macross/ep-32",
+      "sub": {
+        "HD-1": {
+          "malep-32_vibeplayer_sub": "https://vibeplayer.site/0b1e121f103f74c5",
+          "malep-32_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b1e121f103f74c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_sub": "https://otakuvid.online/embed/6ehtlcacifu6",
+          "malep-32_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-32_vibeplayer_dub": "https://vibeplayer.site/d3a2aa48550547b2",
+          "malep-32_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d3a2aa48550547b2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_dub": "https://otakuvid.online/embed/i7l2rojrpyfu",
+          "malep-32_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-32_vibeplayer_hsub": "https://vibeplayer.site/31539610e18dc2aa",
+          "malep-32_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31539610e18dc2aa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_hsub": "https://otakuvid.online/embed/dd856ye95e3e",
+          "malep-32_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-32_playmogo_hsub": "https://playmogo.com/e/0zv5a935s6w3",
+          "malep-32_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Rainy Night",
+      "episode_url": "https://hianime.ad/watch/macross/ep-33",
+      "sub": {
+        "HD-1": {
+          "malep-33_vibeplayer_sub": "https://vibeplayer.site/01c0a171cfc02ef4",
+          "malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01c0a171cfc02ef4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-33_otakuvid_sub": "https://otakuvid.online/embed/dphw8j6fzhvh",
+          "malep-33_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-33_vibeplayer_dub": "https://vibeplayer.site/842351ffa53d7119",
+          "malep-33_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/842351ffa53d7119/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-33_otakuvid_dub": "https://otakuvid.online/embed/unwj991h09k2",
+          "malep-33_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Private Time",
+      "episode_url": "https://hianime.ad/watch/macross/ep-34",
+      "sub": {
+        "HD-1": {
+          "malep-34_vibeplayer_sub": "https://vibeplayer.site/c05ce59862a98cb7",
+          "malep-34_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c05ce59862a98cb7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_sub": "https://otakuvid.online/embed/z4wv1dqkmy7u",
+          "malep-34_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-34_vibeplayer_dub": "https://vibeplayer.site/fdd909c18e626277",
+          "malep-34_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fdd909c18e626277/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_dub": "https://otakuvid.online/embed/r8e2g0yly2gy",
+          "malep-34_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-34_vibeplayer_hsub": "https://vibeplayer.site/e117c1e643ffe1e7",
+          "malep-34_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e117c1e643ffe1e7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-34_otakuhg_hsub": "https://otakuhg.site/e/259koq8qyoa6",
+          "malep-34_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_hsub": "https://otakuvid.online/embed/6zfu8hmzolwi",
+          "malep-34_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-34_playmogo_hsub": "https://playmogo.com/e/xv3m7q21ryot",
+          "malep-34_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Romanesque",
+      "episode_url": "https://hianime.ad/watch/macross/ep-35",
+      "sub": {
+        "HD-1": {
+          "malep-35_vibeplayer_sub": "https://vibeplayer.site/b63ba419d3c0df1b",
+          "malep-35_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b63ba419d3c0df1b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_sub": "https://otakuvid.online/embed/g5g655sf4lr9",
+          "malep-35_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-35_vibeplayer_dub": "https://vibeplayer.site/51a5a06f192a113e",
+          "malep-35_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/51a5a06f192a113e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_dub": "https://otakuvid.online/embed/dl6xk6eoxxzp",
+          "malep-35_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-35_vibeplayer_hsub": "https://vibeplayer.site/9318c0e3e4125306",
+          "malep-35_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9318c0e3e4125306/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-35_otakuhg_hsub": "https://otakuhg.site/e/fx23109rinpg",
+          "malep-35_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_hsub": "https://otakuvid.online/embed/noccvplat27a",
+          "malep-35_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-35_playmogo_hsub": "https://playmogo.com/e/0axe4l4gesdz",
+          "malep-35_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gentle Farewell",
+      "episode_url": "https://hianime.ad/watch/macross/ep-36",
+      "sub": {
+        "HD-1": {
+          "malep-36_vibeplayer_sub": "https://vibeplayer.site/b6c8fccdfcd3f99d",
+          "malep-36_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b6c8fccdfcd3f99d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-36_otakuvid_sub": "https://otakuvid.online/embed/f7i5rskqisdq",
+          "malep-36_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-36_vibeplayer_dub": "https://vibeplayer.site/86d72ef182ca3fb9",
+          "malep-36_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/86d72ef182ca3fb9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-36_otakuvid_dub": "https://otakuvid.online/embed/jgkftud1fcqo",
+          "malep-36_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-36_vibeplayer_hsub": "https://vibeplayer.site/bd8fd3ae6fdbeedf",
+          "malep-36_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd8fd3ae6fdbeedf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-36_otakuvid_hsub": "https://otakuvid.online/embed/trj8b1f6x1jh",
+          "malep-36_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-36_playmogo_hsub": "https://playmogo.com/e/5h2tukobcbvq",
+          "malep-36_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

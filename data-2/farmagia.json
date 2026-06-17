@@ -1,0 +1,559 @@
+{
+  "anime_name": "Farmagia",
+  "anime_url": "https://hianime.ad/anime/farmagia",
+  "slug": "farmagia",
+  "mal_id": 59113,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T11:09:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Seeds of War",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-1",
+      "sub": {
+        "HD-1": {
+          "59113-malep-1_vibeplayer_sub": "https://vibeplayer.site/bf261ed211c5da6c",
+          "59113-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf261ed211c5da6c/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag721b532f373129445bdc8bc52dd5953e4h",
+          "59113-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-1_otakuhg_sub": "https://otakuhg.site/e/b83cay8vu1g6",
+          "59113-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ec6af4fefolx",
+          "59113-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-1_playmogo_sub": "https://playmogo.com/e/nbcfdbyizu44",
+          "59113-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bbae8ae54c6fe782",
+          "59113-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bbae8ae54c6fe782/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag24355486fafca93b52e486a9774ca9ea4h",
+          "59113-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r6oxr4bmlrzo",
+          "59113-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mslsai197r6q",
+          "59113-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-1_playmogo_hsub": "https://playmogo.com/e/vbif02uubwfb",
+          "59113-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Avrion in Revolt",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-2",
+      "sub": {
+        "HD-1": {
+          "59113-malep-2_vibeplayer_sub": "https://vibeplayer.site/f57feb191cf2b45d",
+          "59113-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f57feb191cf2b45d/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag380fcbac04946cf03f449e35a62d97cb4h",
+          "59113-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-2_otakuhg_sub": "https://otakuhg.site/e/310x2rcnnnri",
+          "59113-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-2_otakuvid_sub": "https://otakuvid.online/embed/zehgtmirxh7t",
+          "59113-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-2_playmogo_sub": "https://playmogo.com/e/735qha24liue",
+          "59113-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-2_vibeplayer_hsub": "https://vibeplayer.site/5b29011d06db2f81",
+          "59113-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b29011d06db2f81/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag7c9a08ad5936350592f1057a791044c74h",
+          "59113-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-2_otakuhg_hsub": "https://otakuhg.site/e/ecvyhv1qag2i",
+          "59113-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/5puadw8gaug2",
+          "59113-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-2_playmogo_hsub": "https://playmogo.com/e/05gms1e7zdrq",
+          "59113-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reunion in Enemy Territory",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-3",
+      "sub": {
+        "HD-1": {
+          "59113-malep-3_vibeplayer_sub": "https://vibeplayer.site/66686c81b18eb8f4",
+          "59113-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/66686c81b18eb8f4/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag9189be3da77c7faedb2bb79cb98ec0064h",
+          "59113-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-3_otakuhg_sub": "https://otakuhg.site/e/ztcmfq4bg09i",
+          "59113-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-3_otakuvid_sub": "https://otakuvid.online/embed/jgwfkzuw0upl",
+          "59113-malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-3_playmogo_sub": "https://playmogo.com/e/oq7aqh7e9eis",
+          "59113-malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-3_vibeplayer_hsub": "https://vibeplayer.site/f8ef22622ebab809",
+          "59113-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8ef22622ebab809/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag95bc9f998fde7626c41e435df3f906354h",
+          "59113-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-3_otakuhg_hsub": "https://otakuhg.site/e/1mvu2g12jrke",
+          "59113-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/0pr7wsqtbq72",
+          "59113-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-3_playmogo_hsub": "https://playmogo.com/e/tfhv59gmtccj",
+          "59113-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ties That Bind",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-4",
+      "sub": {
+        "HD-1": {
+          "59113-malep-4_vibeplayer_sub": "https://vibeplayer.site/f5dde9b87d976c7c",
+          "59113-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f5dde9b87d976c7c/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag75b0a9e5ace20707c5fd005872b2a3d14h",
+          "59113-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-4_otakuhg_sub": "https://otakuhg.site/e/kburlv97mjel",
+          "59113-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-4_otakuvid_sub": "https://otakuvid.online/embed/vptt0df591wl",
+          "59113-malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-4_playmogo_sub": "https://playmogo.com/e/lojb7x3m7tjh",
+          "59113-malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-4_vibeplayer_hsub": "https://vibeplayer.site/3b9a8c80eddb2ae4",
+          "59113-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b9a8c80eddb2ae4/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-4_vibeplayer_hsub": "https://vibeplayer.site/agc86616955753a50b5e2d0a29969b5eba4h",
+          "59113-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-4_otakuhg_hsub": "https://otakuhg.site/e/00u0u38jo71c",
+          "59113-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/z9xfiz076k1f",
+          "59113-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-4_playmogo_hsub": "https://playmogo.com/e/ruykfmck2wpl",
+          "59113-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To the City of Muscle",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-5",
+      "sub": {
+        "HD-1": {
+          "59113-malep-5_vibeplayer_sub": "https://vibeplayer.site/bd174b21e7aa268b",
+          "59113-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd174b21e7aa268b/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-5_vibeplayer_sub": "https://vibeplayer.site/agaaa0322d1d27457f5fc95001776ba0c14h",
+          "59113-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-5_otakuhg_sub": "https://otakuhg.site/e/nhd766c92po9",
+          "59113-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-5_otakuvid_sub": "https://otakuvid.online/embed/moddisslbx4w",
+          "59113-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-5_playmogo_sub": "https://playmogo.com/e/4jwo9mpai3lh",
+          "59113-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-5_vibeplayer_hsub": "https://vibeplayer.site/c5239f8d34df1a9f",
+          "59113-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5239f8d34df1a9f/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-5_vibeplayer_hsub": "https://vibeplayer.site/agc3116ce8a140c255f358304d19a753804h",
+          "59113-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-5_otakuhg_hsub": "https://otakuhg.site/e/tb3ljqdjtir0",
+          "59113-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/47nwudxydprk",
+          "59113-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-5_playmogo_hsub": "https://playmogo.com/e/e8fgncdt5785",
+          "59113-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Over My Dead Body",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-6",
+      "sub": {
+        "HD-1": {
+          "59113-malep-6_vibeplayer_sub": "https://vibeplayer.site/835767eac5014510",
+          "59113-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/835767eac5014510/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-6_vibeplayer_sub": "https://vibeplayer.site/agc3c5987a7dbe0d9f8148b816a0f047484h",
+          "59113-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-6_otakuhg_sub": "https://otakuhg.site/e/qculdnwtccbm",
+          "59113-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-6_otakuvid_sub": "https://otakuvid.online/embed/vrfoxjk12bfq",
+          "59113-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-6_playmogo_sub": "https://playmogo.com/e/xni2ig9syyd9",
+          "59113-malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-6_vibeplayer_hsub": "https://vibeplayer.site/e6a9b24749b736ef",
+          "59113-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6a9b24749b736ef/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-6_vibeplayer_hsub": "https://vibeplayer.site/aga8ba7b37eef89a6da4f37d76209c5e674h",
+          "59113-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-6_otakuhg_hsub": "https://otakuhg.site/e/229vcl1kx1qw",
+          "59113-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/93wq9qjgdw88",
+          "59113-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-6_playmogo_hsub": "https://playmogo.com/e/e5nz019beb0y",
+          "59113-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Price of Truth",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-7",
+      "sub": {
+        "HD-1": {
+          "59113-malep-7_vibeplayer_sub": "https://vibeplayer.site/aa6064fc38b87a4b",
+          "59113-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa6064fc38b87a4b/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag713c81b4e08b3649469afc5b11aa66014h",
+          "59113-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-7_otakuhg_sub": "https://otakuhg.site/e/o0all9fbmw50",
+          "59113-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-7_otakuvid_sub": "https://otakuvid.online/embed/xvdzse4owtzv",
+          "59113-malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-7_playmogo_sub": "https://playmogo.com/e/o4l52bs5cbr5",
+          "59113-malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-7_vibeplayer_hsub": "https://vibeplayer.site/fb064a0071e0083c",
+          "59113-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb064a0071e0083c/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-7_vibeplayer_hsub": "https://vibeplayer.site/agd6b1b9d66dcafd391fa8828ab41ed4584h",
+          "59113-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/jtpnrk691n4k",
+          "59113-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-7_playmogo_hsub": "https://playmogo.com/e/jntkep9k73zk",
+          "59113-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Chosen One",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-8",
+      "sub": {
+        "HD-1": {
+          "59113-malep-8_vibeplayer_sub": "https://vibeplayer.site/da26358b3ddffe76",
+          "59113-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/da26358b3ddffe76/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag1d50e074a7eefe40a7fee77d5d0e75d44h",
+          "59113-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-8_otakuhg_sub": "https://otakuhg.site/e/ltb2btcwmw8h",
+          "59113-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-8_otakuvid_sub": "https://otakuvid.online/embed/cu53ndk4xvoc",
+          "59113-malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-8_playmogo_sub": "https://playmogo.com/e/anhjejrlkp24",
+          "59113-malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-8_vibeplayer_hsub": "https://vibeplayer.site/49fa8fcf028990af",
+          "59113-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/49fa8fcf028990af/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag9066c62571d00ec28d9fb9e9d12d08924h",
+          "59113-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/1d5stk4r20sg",
+          "59113-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-8_playmogo_hsub": "https://playmogo.com/e/o24a8dnja5qg",
+          "59113-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Three Angels",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-9",
+      "sub": {
+        "HD-1": {
+          "59113-malep-9_vibeplayer_sub": "https://vibeplayer.site/5e41156f864aee8b",
+          "59113-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5e41156f864aee8b/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag3bd6f86e95e1d9949d95a4cf1e3dacfd4h",
+          "59113-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-9_otakuvid_sub": "https://otakuvid.online/embed/2lb0mectc0m0",
+          "59113-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-9_playmogo_sub": "https://playmogo.com/e/03hcvusl8yg6",
+          "59113-malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-9_vibeplayer_hsub": "https://vibeplayer.site/55c3f92b489730b2",
+          "59113-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55c3f92b489730b2/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-9_vibeplayer_hsub": "https://vibeplayer.site/agb83342897430e576349f8bed8ccea30e4h",
+          "59113-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/nxoi8du46nk6",
+          "59113-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-9_playmogo_hsub": "https://playmogo.com/e/6ic1auyllkjq",
+          "59113-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Through the Darkness",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-10",
+      "sub": {
+        "HD-1": {
+          "59113-malep-10_vibeplayer_sub": "https://vibeplayer.site/fdd5c152f8291696",
+          "59113-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fdd5c152f8291696/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-10_vibeplayer_sub": "https://vibeplayer.site/agaa0709b3a929bf622108f80cb17eca124h",
+          "59113-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-10_otakuvid_sub": "https://otakuvid.online/embed/jkkjwsfxp741",
+          "59113-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-10_playmogo_sub": "https://playmogo.com/e/2ww6oibbtov9",
+          "59113-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-10_vibeplayer_hsub": "https://vibeplayer.site/4742e670ace71a99",
+          "59113-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4742e670ace71a99/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag556f83a9f8cd6a7baa7a48ecda8365694h",
+          "59113-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/oi8vnghdnodq",
+          "59113-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-10_playmogo_hsub": "https://playmogo.com/e/amibb08hkhjg",
+          "59113-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Brother's Path",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-11",
+      "sub": {
+        "HD-1": {
+          "59113-malep-11_vibeplayer_sub": "https://vibeplayer.site/250633edaf0ca3ea",
+          "59113-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/250633edaf0ca3ea/master.m3u8"
+        },
+        "Earnvids": {
+          "59113-malep-11_otakuvid_sub": "https://otakuvid.online/embed/gpg0v6yctq5r",
+          "59113-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-11_playmogo_sub": "https://playmogo.com/e/71eyhoz0q4fw",
+          "59113-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-11_vibeplayer_hsub": "https://vibeplayer.site/d0ecff55cfa0d0f1",
+          "59113-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d0ecff55cfa0d0f1/master.m3u8"
+        },
+        "StreamHG": {
+          "59113-malep-11_otakuhg_hsub": "https://otakuhg.site/e/83pwzz91h25v",
+          "59113-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/iienh0158gxs",
+          "59113-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-11_playmogo_hsub": "https://playmogo.com/e/5x11vtixok59",
+          "59113-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Dragons of Centvelt",
+      "episode_url": "https://hianime.ad/watch/farmagia/ep-12",
+      "sub": {
+        "HD-1": {
+          "59113-malep-12_vibeplayer_sub": "https://vibeplayer.site/1f165c8fbcdd39e3",
+          "59113-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f165c8fbcdd39e3/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-12_vibeplayer_sub": "https://vibeplayer.site/agb2e727b5c070a702d117bbea8c7c3f664h",
+          "59113-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-12_otakuvid_sub": "https://otakuvid.online/embed/xpexymusx1bm",
+          "59113-malep-12_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-12_playmogo_sub": "https://playmogo.com/e/iqdcce843rm0",
+          "59113-malep-12_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59113-malep-12_vibeplayer_hsub": "https://vibeplayer.site/0884ee385704cc2f",
+          "59113-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0884ee385704cc2f/master.m3u8"
+        },
+        "HD-2": {
+          "59113-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agfb83450f29bc504b3d998ca302efda9a4h",
+          "59113-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "59113-malep-12_otakuhg_hsub": "https://otakuhg.site/e/x5jd6nbebph2",
+          "59113-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59113-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/pdojs12knvxv",
+          "59113-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59113-malep-12_playmogo_hsub": "https://playmogo.com/e/lu0ac59fshsh",
+          "59113-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

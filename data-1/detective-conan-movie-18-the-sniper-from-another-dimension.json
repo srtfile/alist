@@ -1,0 +1,48 @@
+{
+  "anime_name": "Detective Conan Movie 18 The Sniper From Another Dimension",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-18-the-sniper-from-another-dimension",
+  "slug": "detective-conan-movie-18-the-sniper-from-another-dimension",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:10:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-18-the-sniper-from-another-dimension/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b960ea39e844c4b0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b960ea39e844c4b0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9cc80549b701ab0f8315f1d603dabbcb4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/8ms9usrlea3q",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/6209d50c3e34e873",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6209d50c3e34e873/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb5192761b6cdf8109da7d350bca8f3204h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/burmzfbml08x",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zo0u7b9j1k27",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

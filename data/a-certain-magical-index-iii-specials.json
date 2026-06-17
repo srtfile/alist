@@ -1,0 +1,85 @@
+{
+  "anime_name": "A Certain Magical Index Iii Specials",
+  "anime_url": "https://hianime.ad/anime/a-certain-magical-index-iii-specials",
+  "slug": "a-certain-magical-index-iii-specials",
+  "mal_id": 36432,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T17:22:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Unrest",
+      "episode_url": "https://hianime.ad/watch/a-certain-magical-index-iii-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "36432-malep-1_vibeplayer_sub": "https://vibeplayer.site/d0326a18222b44b6",
+          "36432-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0326a18222b44b6/master.m3u8"
+        },
+        "HD-2": {
+          "36432-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3af160a7b1a1e2b88b446a46c41f0af84h",
+          "36432-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36432-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8lpi9g7rnt0h",
+          "36432-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36432-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cc902c670c42d241",
+          "36432-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc902c670c42d241/master.m3u8"
+        },
+        "HD-2": {
+          "36432-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agabf9420a5e8d0ba87d8169e253070a344h",
+          "36432-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36432-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7dh444e5984j",
+          "36432-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36432-malep-1_playmogo_hsub": "https://playmogo.com/e/iw24szqrdkgr",
+          "36432-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Right Seat of God",
+      "episode_url": "https://hianime.ad/watch/a-certain-magical-index-iii-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "36432-malep-2_vibeplayer_sub": "https://vibeplayer.site/b4e077cb2745b8d5",
+          "36432-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4e077cb2745b8d5/master.m3u8"
+        },
+        "HD-2": {
+          "36432-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag88ae0b9332481128f0d754ba55448b8e4h",
+          "36432-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36432-malep-2_otakuvid_sub": "https://otakuvid.online/embed/dyfpd9j3xaca",
+          "36432-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36432-malep-2_vibeplayer_hsub": "https://vibeplayer.site/993965a458dd0ec4",
+          "36432-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/993965a458dd0ec4/master.m3u8"
+        },
+        "HD-2": {
+          "36432-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag83172bf8aa09392e3eba29c9475bcb594h",
+          "36432-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36432-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/qd4qb9autoxo",
+          "36432-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36432-malep-2_playmogo_hsub": "https://playmogo.com/e/kpgw0f2gtpua",
+          "36432-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

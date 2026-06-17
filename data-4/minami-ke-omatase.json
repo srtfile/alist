@@ -1,0 +1,40 @@
+{
+  "anime_name": "Minami Ke Omatase",
+  "anime_url": "https://hianime.ad/anime/minami-ke-omatase",
+  "slug": "minami-ke-omatase",
+  "mal_id": 2963,
+  "total_episodes": 1,
+  "captured_at": "2026-06-15T07:51:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Three Minami Sisters",
+      "episode_url": "https://hianime.ad/watch/minami-ke-omatase/ep-1",
+      "sub": {
+        "HD-1": {
+          "2963-malep-1_vibeplayer_sub": "https://vibeplayer.site/f637a01149146896",
+          "2963-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f637a01149146896/master.m3u8"
+        },
+        "Earnvids": {
+          "2963-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cyhy5gdoliab",
+          "2963-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2963-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b893be097f6385e2",
+          "2963-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b893be097f6385e2/master.m3u8"
+        },
+        "Earnvids": {
+          "2963-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/twp0lynnbqpz",
+          "2963-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2963-malep-1_playmogo_hsub": "https://playmogo.com/e/76dwl1le4vx0",
+          "2963-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

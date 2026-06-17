@@ -1,0 +1,48 @@
+{
+  "anime_name": "Detective Conan Movie 08 Time Travel Of The Silver Sky",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-08-time-travel-of-the-silver-sky",
+  "slug": "detective-conan-movie-08-time-travel-of-the-silver-sky",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:08:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-08-time-travel-of-the-silver-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/193e2e3038e63f82",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/193e2e3038e63f82/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5b8db348842f8c36b07f0b83d6344ba04h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/35mh8298sx7f",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ed8a6865abe050fe",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ed8a6865abe050fe/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdb9c1dce1983ee30e234bbfaac9f207c4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vc1j5or56xw5",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/a3jlhgv3cnzw",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

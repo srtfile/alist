@@ -1,0 +1,69 @@
+{
+  "anime_name": "Fullmetal Alchemist The Movie Conqueror Of Shamballa",
+  "anime_url": "https://hianime.ad/anime/fullmetal-alchemist-the-movie-conqueror-of-shamballa",
+  "slug": "fullmetal-alchemist-the-movie-conqueror-of-shamballa",
+  "mal_id": 121,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:16:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To Challenge the Sun",
+      "episode_url": "https://hianime.ad/watch/fullmetal-alchemist-the-movie-conqueror-of-shamballa/ep-1",
+      "sub": {
+        "HD-1": {
+          "121-malep-1_vibeplayer_sub": "https://vibeplayer.site/aa3d0f1843e93403",
+          "121-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa3d0f1843e93403/master.m3u8"
+        },
+        "HD-2": {
+          "121-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag40dc47f7cb1a77a8091e959032fe195f4h",
+          "121-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "121-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kjoev6wztbsx",
+          "121-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "121-malep-1_vibeplayer_dub": "https://vibeplayer.site/bff88c7654cf879c",
+          "121-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bff88c7654cf879c/master.m3u8"
+        },
+        "HD-2": {
+          "121-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag41ecb55deca198ebf0212809db2861284h",
+          "121-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "121-malep-1_otakuhg_dub": "https://otakuhg.site/e/jt908hle9odz",
+          "121-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "121-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cyxz38n3i5l5",
+          "121-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "121-malep-1_vibeplayer_hsub": "https://vibeplayer.site/be9024034ecc1825",
+          "121-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be9024034ecc1825/master.m3u8"
+        },
+        "HD-2": {
+          "121-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1b355cca79cda673a256d171f62e34d94h",
+          "121-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "121-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8mqbno21ni11",
+          "121-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "121-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/idlcul02cnud",
+          "121-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "121-malep-1_playmogo_hsub": "https://playmogo.com/e/8zd826g3w3lg",
+          "121-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

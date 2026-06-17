@@ -1,0 +1,52 @@
+{
+  "anime_name": "Lupin The Iiird Zenigata And The Two Lupins",
+  "anime_url": "https://hianime.ad/anime/lupin-the-iiird-zenigata-and-the-two-lupins",
+  "slug": "lupin-the-iiird-zenigata-and-the-two-lupins",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:06:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ONA",
+      "episode_url": "https://hianime.ad/watch/lupin-the-iiird-zenigata-and-the-two-lupins/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e0c5aa691895f293",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0c5aa691895f293/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/fvj8skyowl4q",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/n7razu15bvij",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/4baaq40hobg0",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/d3b63d9317feda3e",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3b63d9317feda3e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/zgb00dz7wxmx",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w91lse1693l2",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/bvbtmf0w8wp9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

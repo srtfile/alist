@@ -1,0 +1,44 @@
+{
+  "anime_name": "Gintama Dai Hanseikai",
+  "anime_url": "https://hianime.ad/anime/gintama-dai-hanseikai",
+  "slug": "gintama-dai-hanseikai",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:56:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-dai-hanseikai/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/2a53a6d7b831717c",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a53a6d7b831717c/master.m3u8"
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8wxlutoawnip",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f99236d5ba80cd3d",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f99236d5ba80cd3d/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9v3zvllajhd5",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g7ykxk6z3p8n",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/qji0n3ocf7hp",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

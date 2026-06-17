@@ -1,0 +1,48 @@
+{
+  "anime_name": "Ashiaraiyashiki No Juunin Tachi",
+  "anime_url": "https://hianime.ad/anime/ashiaraiyashiki-no-juunin-tachi",
+  "slug": "ashiaraiyashiki-no-juunin-tachi",
+  "mal_id": 1912,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:29:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Water Powered Escuela",
+      "episode_url": "https://hianime.ad/watch/ashiaraiyashiki-no-juunin-tachi/ep-1",
+      "sub": {
+        "HD-1": {
+          "1912-malep-1_vibeplayer_sub": "https://vibeplayer.site/c656ea3f351867e1",
+          "1912-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c656ea3f351867e1/master.m3u8"
+        },
+        "HD-2": {
+          "1912-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf10edf0b3d9c4341a4973f7b7ffd37f54h",
+          "1912-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1912-malep-1_otakuhg_sub": "https://otakuhg.site/e/kaf8e7nicbj3",
+          "1912-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1912-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xn9sjrnbndl7",
+          "1912-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1912-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f91505dcde03abdc",
+          "1912-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f91505dcde03abdc/master.m3u8"
+        },
+        "HD-2": {
+          "1912-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga348c9958abc7618cb216268e67dc7114h",
+          "1912-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1912-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y5drzixi5cjs",
+          "1912-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

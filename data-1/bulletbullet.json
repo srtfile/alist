@@ -1,0 +1,691 @@
+{
+  "anime_name": "Bulletbullet",
+  "anime_url": "https://hianime.ad/anime/bulletbullet",
+  "slug": "bulletbullet",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T03:46:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2256e3aaadb3d8b0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2256e3aaadb3d8b0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0b5873ed518b13dd36844e66505e88a74h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/8tx4os45dc0i",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/o5wubypt3xko",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/5dd3ac5773f6435f",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5dd3ac5773f6435f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/agd91bd5768b469b1bf3116094a08a304d4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/0kmt0ru69rsm",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/ag8tejoxxd3q",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/iages7h51mrl",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/993a74f0249429d5",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/993a74f0249429d5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9782b37eb443b7bfc6d4304b2e1435b24h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/7tpxdr77oppu",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/crapu4jh4ol6",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/chenbkbqcd9y",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/f8e8cd2d3d5aaa15",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f8e8cd2d3d5aaa15/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/ag044200b5229b24e86685f830fb78b1f34h",
+          "malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/ed9thmqfhhff",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/6745076fff6bc4c8",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6745076fff6bc4c8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/agfa97f6d5418c7446c8e349f08ec624394h",
+          "malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/wlrgofzy48bn",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/f0d026ffc3675d08",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f0d026ffc3675d08/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag0bb6ef0956bb60f975f51b4a638e0bc14h",
+          "malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/c1d7vnykeo7e",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/npv8oq8tcyys",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/058c12b5f34ff040",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/058c12b5f34ff040/master.m3u8"
+        },
+        "HD-2": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/ag3c97dac985341c8aed77fcf128b446ef4h",
+          "malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/w8dm2qveewst",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/99193b58d4b673d7",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99193b58d4b673d7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/ag599771c067ffe5288b737b631cc8667f4h",
+          "malep-3_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/ofeghfmg2tcq",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/epfk6aqdeyga",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/750f72027b7b175d",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/750f72027b7b175d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/agef7771c8b4e641d2561db67ffabc44504h",
+          "malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/ez01hxnmu2b5",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/r5iddor9lyoy",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/63d6a008b4646edf",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/63d6a008b4646edf/master.m3u8"
+        },
+        "HD-2": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/ag22ac882ea6e006be0aa6e5a2c31bcf5d4h",
+          "malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/umapdgjfwbz9",
+          "malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_sub": "https://playmogo.com/e/fnkglht4sfj8",
+          "malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/4cb476e3b83443e8",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4cb476e3b83443e8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/agbcbe604493a654a5c039634e340fa6274h",
+          "malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/k9vqctmx9t7k",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/7c0c99f923c7f613",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7c0c99f923c7f613/master.m3u8"
+        },
+        "HD-2": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag1c02d659d5795e688038b5d4474355b94h",
+          "malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/l9ywlbwo0eci",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/4obad5cjq5d1",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/4138397cccabe01a",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4138397cccabe01a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/agfbc7530601ee1e47086629429d3b281e4h",
+          "malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/mnu0iwxltmy3",
+          "malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_sub": "https://playmogo.com/e/4vw5ihhdxs91",
+          "malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/e9e998f493ebfb27",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e9e998f493ebfb27/master.m3u8"
+        },
+        "HD-2": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/age0623c30f63ed84f316d7120579ab53b4h",
+          "malep-5_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/wfphpywq7nxe",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/8vhbd6xhos6o",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/8304dc5de7d82de5",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8304dc5de7d82de5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/agf6104969a008ab6ed614c846d0b8d2024h",
+          "malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/af7d8vmcg8wx",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/zvai0l5csqve",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/dg0jmwfkj56i",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/f66559d861525088",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f66559d861525088/master.m3u8"
+        },
+        "HD-2": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/agadc120106ba01a02e661cd37ce62ef8a4h",
+          "malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/wg1aal71lr63",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/437d1323816315df",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/437d1323816315df/master.m3u8"
+        },
+        "HD-2": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/ag7c90dc41f8016f5130387802b739744d4h",
+          "malep-6_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/g4of46y51jlu",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/fl2xa13stnvn",
+          "malep-6_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_dub": "https://playmogo.com/e/dx4t958s12gy",
+          "malep-6_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/27b4e7ae30968e1c",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/27b4e7ae30968e1c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag2a344e3d95cade52b5842847ba06340a4h",
+          "malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/qabw30po52kz",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/e7pqzkayjiwz",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/8dea27a07e1f89fa",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8dea27a07e1f89fa/master.m3u8"
+        },
+        "HD-2": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/agdcc306d4ddf75b8817fe2474f01233f14h",
+          "malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/bxdus2epjiyd",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/1dcad3af15074363",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1dcad3af15074363/master.m3u8"
+        },
+        "HD-2": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/agcc35ce238e253230e72b6e9050c7f9c44h",
+          "malep-7_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/yozdxokka5y7",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/x01a3vd28kme",
+          "malep-7_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_dub": "https://playmogo.com/e/sm6m0k5wbp7l",
+          "malep-7_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/238dfe8022564907",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/238dfe8022564907/master.m3u8"
+        },
+        "HD-2": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag309adbe8d22b524e91560e7f2c819e5f4h",
+          "malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ad9mcy4yhvjw",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/rqa9rs42oy6z",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/4d1281330cf40a8f",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d1281330cf40a8f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/aga9a617260ab57335371d00fbf051e9204h",
+          "malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/ow08zdbmjmk6",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/af7e7359fefeb768",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/af7e7359fefeb768/master.m3u8"
+        },
+        "HD-2": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/ag16b39abe7a3746fe0f102c1db22fdb8b4h",
+          "malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/m2uvppedmiyz",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/73533c8defd2e9ad",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/73533c8defd2e9ad/master.m3u8"
+        },
+        "HD-2": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/agbcbe4647a86e6306d70525ba762cdaf84h",
+          "malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/heqxscc94c69",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/nxjl6kn9iuju",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/18d49005754fc4d9",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/18d49005754fc4d9/master.m3u8"
+        },
+        "HD-2": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/ag3b9572e564be779544603c263736b6c54h",
+          "malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/dipfh9awr69h",
+          "malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_sub": "https://playmogo.com/e/oy50mkb201h4",
+          "malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/2cbaebaa3d1ac4d9",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2cbaebaa3d1ac4d9/master.m3u8"
+        },
+        "HD-2": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/ag1d31f01def4463698905a39aa722db434h",
+          "malep-9_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/153in92jrsru",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/omg8pp9ohdqy",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/3cda2631fca20b6d",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3cda2631fca20b6d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag7b7379c3610de6daf27a3594cfeac4804h",
+          "malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/9jlbuf9xxt1m",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/7kuvdfkiamc6",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/cf2d21d865fccb0c",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf2d21d865fccb0c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/ag25b9ac1e7cebba4a5b4eb6cfecf0de694h",
+          "malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/axjze3xg44m4",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/83e4b7b3da7742d7",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/83e4b7b3da7742d7/master.m3u8"
+        },
+        "HD-2": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/ag2d8183f245ebb14db464e243bf68a3324h",
+          "malep-10_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/uaaagxy9argk",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/33wiepcp2npl",
+          "malep-10_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_dub": "https://playmogo.com/e/5frxnr6cr42f",
+          "malep-10_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/28b5a2970ac2f804",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/28b5a2970ac2f804/master.m3u8"
+        },
+        "HD-2": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag5962d68b74588e8eaa90088ed0424ee44h",
+          "malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/0iifvz9xmdud",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/mfyolupbziv7",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/1569443c7b98a181",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1569443c7b98a181/master.m3u8"
+        },
+        "HD-2": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/ag0271d0d4c5ec47484c8266d11f9152044h",
+          "malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/xv3ao13h1dms",
+          "malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_sub": "https://playmogo.com/e/67mydtynfzvd",
+          "malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/6fd2149bff062a6c",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6fd2149bff062a6c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/ag3a7f90e70608ee5349ddfadadda7c9424h",
+          "malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/7qnami3o4wev",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/dfbb0242347200da",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dfbb0242347200da/master.m3u8"
+        },
+        "HD-2": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag101668998bcf0f4839468f994e72197d4h",
+          "malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/h3b6d8ybk4mr",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/q41x5pqubbf4",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/bulletbullet/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/8a02c01db5a8a650",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a02c01db5a8a650/master.m3u8"
+        },
+        "HD-2": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/agc614a0075fc8b1c979948df7b59c0cd24h",
+          "malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/7x9wdaji5uqp",
+          "malep-12_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_sub": "https://playmogo.com/e/55to9uhitblq",
+          "malep-12_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/d361bd41b89e1df4",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d361bd41b89e1df4/master.m3u8"
+        },
+        "HD-2": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/ag3409ec2981a2d10696082a4355b703e64h",
+          "malep-12_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/7dk2j6h7djmr",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/77kslj6gjr1s",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/b291c9e576a4480d",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b291c9e576a4480d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/agd2313309feb78d1bcedd052c0b2618504h",
+          "malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/gufo6n1owc4r",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/ff48laezi4ey",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

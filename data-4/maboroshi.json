@@ -1,0 +1,65 @@
+{
+  "anime_name": "Maboroshi",
+  "anime_url": "https://hianime.ad/anime/maboroshi",
+  "slug": "maboroshi",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:10:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/maboroshi/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/3b53471c9451f13c",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3b53471c9451f13c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/wa2da4yd9ivw",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/k77d68a6rb0l",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/817a7ef178e6d9b2",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/817a7ef178e6d9b2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/55nl6ov4lu10",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/ip9vkdpal1hy",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/hpsw92njf4id",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ff54591aa2fe9aa2",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff54591aa2fe9aa2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/mpls13bx45vo",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8nidgnz2bw78",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/iptifmu36m39",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

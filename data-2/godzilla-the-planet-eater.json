@@ -1,0 +1,61 @@
+{
+  "anime_name": "Godzilla The Planet Eater",
+  "anime_url": "https://hianime.ad/anime/godzilla-the-planet-eater",
+  "slug": "godzilla-the-planet-eater",
+  "mal_id": 59935,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:32:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Gorilla Life of a Lady and Blessings",
+      "episode_url": "https://hianime.ad/watch/godzilla-the-planet-eater/ep-1",
+      "sub": {
+        "HD-1": {
+          "59935-malep-1_vibeplayer_sub": "https://vibeplayer.site/752294ac0b423c45",
+          "59935-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/752294ac0b423c45/master.m3u8"
+        },
+        "Earnvids": {
+          "59935-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4rwwewzbv4ee",
+          "59935-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59935-malep-1_playmogo_sub": "https://playmogo.com/e/kx0bmgxcbdhw",
+          "59935-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59935-malep-1_vibeplayer_dub": "https://vibeplayer.site/06822745424848ca",
+          "59935-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/06822745424848ca/master.m3u8"
+        },
+        "Earnvids": {
+          "59935-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9i27yt2r0hz7",
+          "59935-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59935-malep-1_playmogo_dub": "https://playmogo.com/e/mt0jhyg6geky",
+          "59935-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59935-malep-1_vibeplayer_hsub": "https://vibeplayer.site/41af13e957df7ddc",
+          "59935-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41af13e957df7ddc/master.m3u8"
+        },
+        "StreamHG": {
+          "59935-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2xoc23slwsfb",
+          "59935-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59935-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s6a9cpc8whv3",
+          "59935-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59935-malep-1_playmogo_hsub": "https://playmogo.com/e/pehyjiznpcca",
+          "59935-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

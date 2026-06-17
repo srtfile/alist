@@ -1,0 +1,93 @@
+{
+  "anime_name": "A Certain Magical Index Ii Specials",
+  "anime_url": "https://hianime.ad/anime/a-certain-magical-index-ii-specials",
+  "slug": "a-certain-magical-index-ii-specials",
+  "mal_id": 8937,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T17:21:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Last Day (August 31)",
+      "episode_url": "https://hianime.ad/watch/a-certain-magical-index-ii-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "8937-malep-1_vibeplayer_sub": "https://vibeplayer.site/aed98f966d36d66d",
+          "8937-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aed98f966d36d66d/master.m3u8"
+        },
+        "HD-2": {
+          "8937-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag90b3011d88f786269cf8b209944e812a4h",
+          "8937-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8937-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9anpkxohjikc",
+          "8937-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8937-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d9a20a16d647f95d",
+          "8937-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d9a20a16d647f95d/master.m3u8"
+        },
+        "HD-2": {
+          "8937-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag91aea1e738d7eae5ed0072c9a5d98f694h",
+          "8937-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8937-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tnou0wwr7mnw",
+          "8937-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8937-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5w4depyrc3v9",
+          "8937-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8937-malep-1_playmogo_hsub": "https://playmogo.com/e/xrvxvlwlgslv",
+          "8937-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Book of Law",
+      "episode_url": "https://hianime.ad/watch/a-certain-magical-index-ii-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "8937-malep-2_vibeplayer_sub": "https://vibeplayer.site/85ff6ee9fcb8985d",
+          "8937-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/85ff6ee9fcb8985d/master.m3u8"
+        },
+        "HD-2": {
+          "8937-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag145655f0f3ffda43fba5de98d70a43c94h",
+          "8937-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8937-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vl1x92pqfrt7",
+          "8937-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8937-malep-2_vibeplayer_hsub": "https://vibeplayer.site/cfc5277976e216d1",
+          "8937-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cfc5277976e216d1/master.m3u8"
+        },
+        "HD-2": {
+          "8937-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag62858f39ff94676428396ad4195ecb7d4h",
+          "8937-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8937-malep-2_otakuhg_hsub": "https://otakuhg.site/e/ku7u7d7e5qwp",
+          "8937-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8937-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/9h8p62b7maf1",
+          "8937-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8937-malep-2_playmogo_hsub": "https://playmogo.com/e/haium3v2maqh",
+          "8937-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

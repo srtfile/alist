@@ -1,0 +1,40 @@
+{
+  "anime_name": "Monster Strike The Movie Lucifer Zetsubou No Yoake",
+  "anime_url": "https://hianime.ad/anime/monster-strike-the-movie-lucifer-zetsubou-no-yoake",
+  "slug": "monster-strike-the-movie-lucifer-zetsubou-no-yoake",
+  "mal_id": 62066,
+  "total_episodes": 1,
+  "captured_at": "2026-06-05T07:58:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/monster-strike-the-movie-lucifer-zetsubou-no-yoake/ep-1",
+      "sub": {
+        "HD-1": {
+          "62066-malep-1_vibeplayer_sub": "https://vibeplayer.site/e2708794a89bb10f",
+          "62066-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2708794a89bb10f/master.m3u8"
+        },
+        "Earnvids": {
+          "62066-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s7wud3a2078x",
+          "62066-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62066-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0f55c049842fec91",
+          "62066-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f55c049842fec91/master.m3u8"
+        },
+        "Earnvids": {
+          "62066-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s1ft0bqqa33w",
+          "62066-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62066-malep-1_playmogo_hsub": "https://playmogo.com/e/531k18n29b9b",
+          "62066-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kowarekake No Orgel",
+  "anime_url": "https://hianime.ad/anime/kowarekake-no-orgel",
+  "slug": "kowarekake-no-orgel",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:55:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kowarekake-no-orgel/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/147a7ae758a8896d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/147a7ae758a8896d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/9brcjpdtolx5",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/1067298b76f0a162",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1067298b76f0a162/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/boctzao09sme",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/1zm7mwwip894",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

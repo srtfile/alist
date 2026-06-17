@@ -1,0 +1,56 @@
+{
+  "anime_name": "Date A Live Movie Mayuri Judgment",
+  "anime_url": "https://hianime.ad/anime/date-a-live-movie-mayuri-judgment",
+  "slug": "date-a-live-movie-mayuri-judgment",
+  "mal_id": 15583,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:46:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "April 10",
+      "episode_url": "https://hianime.ad/watch/date-a-live-movie-mayuri-judgment/ep-1",
+      "sub": {
+        "HD-1": {
+          "15583-malep-1_vibeplayer_sub": "https://vibeplayer.site/30411774298d1ab4",
+          "15583-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/30411774298d1ab4/master.m3u8"
+        },
+        "HD-2": {
+          "15583-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6ffe7a855e3ac736eb0afdcd9a31f4414h",
+          "15583-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "15583-malep-1_otakuhg_sub": "https://otakuhg.site/e/xhmiwgnze3p6",
+          "15583-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15583-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ngmwzu4kz5f5",
+          "15583-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b572bbd828d6f4fe",
+          "15583-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b572bbd828d6f4fe/master.m3u8"
+        },
+        "HD-2": {
+          "15583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdf57fd52debb0c5c11d0131e1a4540914h",
+          "15583-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "15583-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rc7uipnpmizs",
+          "15583-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15583-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lgbqd74m027s",
+          "15583-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15583-malep-1_playmogo_hsub": "https://playmogo.com/e/9lb9gdmm6mod",
+          "15583-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "anime_name": "Ascendance Of A Bookworm Side Story",
+  "anime_url": "https://hianime.ad/anime/ascendance-of-a-bookworm-side-story",
+  "slug": "ascendance-of-a-bookworm-side-story",
+  "mal_id": 39468,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:28:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A World Without Books",
+      "episode_url": "https://hianime.ad/watch/ascendance-of-a-bookworm-side-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "39468-malep-1_vibeplayer_sub": "https://vibeplayer.site/1dde6193fa8515b9",
+          "39468-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1dde6193fa8515b9/master.m3u8"
+        },
+        "HD-2": {
+          "39468-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag14dc180723d65d1431ff90f9016ed6154h",
+          "39468-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "39468-malep-1_otakuvid_sub": "https://otakuvid.online/embed/aq3vvp4i76qu",
+          "39468-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "39468-malep-1_vibeplayer_dub": "https://vibeplayer.site/20ed05ad818b210f",
+          "39468-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/20ed05ad818b210f/master.m3u8"
+        },
+        "HD-2": {
+          "39468-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag4e00fe2da78554da327a9b2b35276d024h",
+          "39468-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "39468-malep-1_otakuvid_dub": "https://otakuvid.online/embed/8juhpfm5glmg",
+          "39468-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "39468-malep-1_playmogo_dub": "https://playmogo.com/e/tib0111voqbb",
+          "39468-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "39468-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f6d9e4786c810f93",
+          "39468-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f6d9e4786c810f93/master.m3u8"
+        },
+        "HD-2": {
+          "39468-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag888116645e3636b680ef225095c335584h",
+          "39468-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "39468-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2eoyktx1as5t",
+          "39468-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "39468-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tzmosa11w8xo",
+          "39468-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "39468-malep-1_playmogo_hsub": "https://playmogo.com/e/bduzhcn3meii",
+          "39468-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

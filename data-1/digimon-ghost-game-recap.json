@@ -1,0 +1,52 @@
+{
+  "anime_name": "Digimon Ghost Game Recap",
+  "anime_url": "https://hianime.ad/anime/digimon-ghost-game-recap",
+  "slug": "digimon-ghost-game-recap",
+  "mal_id": 49515,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:33:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Sewn-Lip Man",
+      "episode_url": "https://hianime.ad/watch/digimon-ghost-game-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "49515-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f207b9211dc9169",
+          "49515-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f207b9211dc9169/master.m3u8"
+        },
+        "HD-2": {
+          "49515-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag012c5949a99679eda3c1856b5990f8184h",
+          "49515-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49515-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qk16lcmytsz1",
+          "49515-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49515-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2103faf8bdfd1439",
+          "49515-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2103faf8bdfd1439/master.m3u8"
+        },
+        "HD-2": {
+          "49515-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc8d09ff7e9a2b0692dbf4f9890896e4b4h",
+          "49515-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49515-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9q3rwzzjyq67",
+          "49515-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49515-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9u4tmisz3rxr",
+          "49515-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49515-malep-1_playmogo_hsub": "https://playmogo.com/e/eh9lw53h4d28",
+          "49515-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

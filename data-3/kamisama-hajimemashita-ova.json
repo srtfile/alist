@@ -1,0 +1,52 @@
+{
+  "anime_name": "Kamisama Hajimemashita Ova",
+  "anime_url": "https://hianime.ad/anime/kamisama-hajimemashita-ova",
+  "slug": "kamisama-hajimemashita-ova",
+  "mal_id": 25681,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:53:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I've Started the 'Being a God' Thing Again",
+      "episode_url": "https://hianime.ad/watch/kamisama-hajimemashita-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "25681-malep-1_vibeplayer_sub": "https://vibeplayer.site/d95c58094a7626ac",
+          "25681-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d95c58094a7626ac/master.m3u8"
+        },
+        "StreamHG": {
+          "25681-malep-1_otakuhg_sub": "https://otakuhg.site/e/avdc92c4to42",
+          "25681-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25681-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2uwy3807row1",
+          "25681-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "25681-malep-1_playmogo_sub": "https://playmogo.com/e/xzetg8p1u9n3",
+          "25681-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25681-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee922bc013c42550",
+          "25681-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee922bc013c42550/master.m3u8"
+        },
+        "StreamHG": {
+          "25681-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mzi1jnbhu950",
+          "25681-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25681-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6aysli5y8ush",
+          "25681-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25681-malep-1_playmogo_hsub": "https://playmogo.com/e/gditjvqtkjy7",
+          "25681-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

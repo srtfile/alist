@@ -1,0 +1,27 @@
+{
+  "anime_name": "Jack And The Beanstalk",
+  "anime_url": "https://hianime.ad/anime/jack-and-the-beanstalk",
+  "slug": "jack-and-the-beanstalk",
+  "mal_id": 56230,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:38:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Grandpa and Grandma and the Sports Festival",
+      "episode_url": "https://hianime.ad/watch/jack-and-the-beanstalk/ep-1",
+      "sub": {
+        "HD-1": {
+          "56230-malep-1_vibeplayer_sub": "https://vibeplayer.site/a933fffb053753c9",
+          "56230-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a933fffb053753c9/master.m3u8"
+        },
+        "Earnvids": {
+          "56230-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dpis88kaar2l",
+          "56230-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "anime_name": "Ghost In The Shell 2 0",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-2-0",
+  "slug": "ghost-in-the-shell-2-0",
+  "mal_id": 58929,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:30:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-2-0/ep-1",
+      "sub": {
+        "HD-1": {
+          "58929-malep-1_vibeplayer_sub": "https://vibeplayer.site/f22036bf6945b9bb",
+          "58929-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f22036bf6945b9bb/master.m3u8"
+        },
+        "StreamHG": {
+          "58929-malep-1_otakuhg_sub": "https://otakuhg.site/e/hvzkzrh5b4v4",
+          "58929-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58929-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6izbrup9xaz1",
+          "58929-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "58929-malep-1_vibeplayer_dub": "https://vibeplayer.site/85eed0e133821a90",
+          "58929-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/85eed0e133821a90/master.m3u8"
+        },
+        "Earnvids": {
+          "58929-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ets0a049bd82",
+          "58929-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "58929-malep-1_playmogo_dub": "https://playmogo.com/e/fitv2iut3336",
+          "58929-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "58929-malep-1_vibeplayer_hsub": "https://vibeplayer.site/66cab9225d189b62",
+          "58929-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66cab9225d189b62/master.m3u8"
+        },
+        "StreamHG": {
+          "58929-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ybkavme3yz8c",
+          "58929-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58929-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f8i1apvgsb5z",
+          "58929-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58929-malep-1_playmogo_hsub": "https://playmogo.com/e/yxxcid7voixu",
+          "58929-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

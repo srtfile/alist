@@ -1,0 +1,49 @@
+{
+  "anime_name": "Lupin Iii The Last Job",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-the-last-job",
+  "slug": "lupin-iii-the-last-job",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:04:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-the-last-job/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/008e7952ffe3f0b9",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/008e7952ffe3f0b9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/6bgrtpftzot9",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ad9106ca3829a9be",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ad9106ca3829a9be/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/1ctych9pftfb",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/191053f503baaaba",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/191053f503baaaba/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4ghf7phra42l",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qq4818psdbhb",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

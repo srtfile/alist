@@ -1,0 +1,48 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 28 Crash Rakuga Kingdom And Almost Four Heroes",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes",
+  "slug": "crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:43:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/becbbf53d84c89f0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/becbbf53d84c89f0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag96ed5b859d9b606b31278c77fd7714d94h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/zfg0kq7ndu1w",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f66db62e8c0ed37c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f66db62e8c0ed37c/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf3b1989baa85f19e281e53a6776efada4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8c826l2gznwe",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/y4k54dh9uyfl",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

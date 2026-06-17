@@ -1,0 +1,56 @@
+{
+  "anime_name": "Fatestrange Fake Whispers Of Dawn",
+  "anime_url": "https://hianime.ad/anime/fatestrange-fake-whispers-of-dawn",
+  "slug": "fatestrange-fake-whispers-of-dawn",
+  "mal_id": 55830,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:00:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Heroic Spirit Incident",
+      "episode_url": "https://hianime.ad/watch/fatestrange-fake-whispers-of-dawn/ep-1",
+      "sub": {
+        "HD-1": {
+          "55830-malep-1_vibeplayer_sub": "https://vibeplayer.site/3ffbfa3161dc9465",
+          "55830-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ffbfa3161dc9465/master.m3u8"
+        },
+        "HD-2": {
+          "55830-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag61ef5bdcf652f40f327222b89387e4ee4h",
+          "55830-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "55830-malep-1_otakuhg_sub": "https://otakuhg.site/e/5c59ktg7rj9t",
+          "55830-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55830-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v5plh41afztp",
+          "55830-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55830-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d9191a9adb67c589",
+          "55830-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d9191a9adb67c589/master.m3u8"
+        },
+        "HD-2": {
+          "55830-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4cde71d5f19eef3e647d4621f15ddae34h",
+          "55830-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55830-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3qoajewu0vwt",
+          "55830-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55830-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2m4kl75ar2ae",
+          "55830-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55830-malep-1_playmogo_hsub": "https://playmogo.com/e/a2k0kglj0kag",
+          "55830-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

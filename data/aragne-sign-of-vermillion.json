@@ -1,0 +1,56 @@
+{
+  "anime_name": "Aragne Sign Of Vermillion",
+  "anime_url": "https://hianime.ad/anime/aragne-sign-of-vermillion",
+  "slug": "aragne-sign-of-vermillion",
+  "mal_id": 37601,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:01:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Our Lives are the Debt We Pay Our Enemies",
+      "episode_url": "https://hianime.ad/watch/aragne-sign-of-vermillion/ep-1",
+      "sub": {
+        "HD-1": {
+          "37601-malep-1_vibeplayer_sub": "https://vibeplayer.site/44ba78c48440f6fc",
+          "37601-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/44ba78c48440f6fc/master.m3u8"
+        },
+        "HD-2": {
+          "37601-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd44bda9e7437214952526d9fa856cfda4h",
+          "37601-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37601-malep-1_otakuhg_sub": "https://otakuhg.site/e/73rp3c5m2xl6",
+          "37601-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37601-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k7ag1utycgv7",
+          "37601-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37601-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d2379a0aa6b48474",
+          "37601-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2379a0aa6b48474/master.m3u8"
+        },
+        "HD-2": {
+          "37601-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9db3a46650c52da83075537ffd4cef2e4h",
+          "37601-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37601-malep-1_otakuhg_hsub": "https://otakuhg.site/e/17mi230mzdpa",
+          "37601-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37601-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mhdqbe2wzm8u",
+          "37601-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37601-malep-1_playmogo_hsub": "https://playmogo.com/e/3445jsg501t1",
+          "37601-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Dropkick On My Devil End Of Century Edition",
+  "anime_url": "https://hianime.ad/anime/dropkick-on-my-devil-end-of-century-edition",
+  "slug": "dropkick-on-my-devil-end-of-century-edition",
+  "mal_id": 36906,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:01:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/dropkick-on-my-devil-end-of-century-edition/ep-1",
+      "sub": {
+        "HD-1": {
+          "36906-malep-1_vibeplayer_sub": "https://vibeplayer.site/4a52178afcaa0ecf",
+          "36906-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a52178afcaa0ecf/master.m3u8"
+        },
+        "HD-2": {
+          "36906-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag162d3c8f9954108783743b063c8fa9ff4h",
+          "36906-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36906-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x723jjw2r74i",
+          "36906-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36906-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a07907ac9a9cfc70",
+          "36906-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a07907ac9a9cfc70/master.m3u8"
+        },
+        "HD-2": {
+          "36906-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7baf9f80cda9b15d9ab74bf55b8d1e994h",
+          "36906-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "36906-malep-1_otakuhg_hsub": "https://otakuhg.site/e/nqr0i0blva5w",
+          "36906-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36906-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p1gt0wefnr8k",
+          "36906-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36906-malep-1_playmogo_hsub": "https://playmogo.com/e/292ns7v7x8o6",
+          "36906-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

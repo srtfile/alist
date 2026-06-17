@@ -1,0 +1,52 @@
+{
+  "anime_name": "Franz Kafkas A Country Doctor",
+  "anime_url": "https://hianime.ad/anime/franz-kafkas-a-country-doctor",
+  "slug": "franz-kafkas-a-country-doctor",
+  "mal_id": 4554,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:57:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/franz-kafkas-a-country-doctor/ep-1",
+      "sub": {
+        "HD-1": {
+          "4554-malep-1_vibeplayer_sub": "https://vibeplayer.site/f69026804e93cd5e",
+          "4554-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f69026804e93cd5e/master.m3u8"
+        },
+        "HD-2": {
+          "4554-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0a6ad7cd2ffdc26dbd65a89bdc79d5d44h",
+          "4554-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4554-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jw350dg0wlhr",
+          "4554-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "4554-malep-1_playmogo_sub": "https://playmogo.com/e/col7wor4fsym",
+          "4554-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4554-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ef29dada2c4c5f85",
+          "4554-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ef29dada2c4c5f85/master.m3u8"
+        },
+        "HD-2": {
+          "4554-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag25f3e28731d9aa0067940513cdaa205c4h",
+          "4554-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4554-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k478d5ebfsx1",
+          "4554-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4554-malep-1_playmogo_hsub": "https://playmogo.com/e/nil72j9igl2m",
+          "4554-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

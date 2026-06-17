@@ -1,0 +1,114 @@
+{
+  "anime_name": "Mazinkaiser Skl",
+  "anime_url": "https://hianime.ad/anime/mazinkaiser-skl",
+  "slug": "mazinkaiser-skl",
+  "mal_id": null,
+  "total_episodes": 3,
+  "captured_at": "2026-06-17T08:04:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mazinkaiser SKL",
+      "episode_url": "https://hianime.ad/watch/mazinkaiser-skl/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/59bd37eebbfa8cf6",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/59bd37eebbfa8cf6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/51ilu8w5xib8",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/kjuszoswge36",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/32d5c1681a3bd1bb",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32d5c1681a3bd1bb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/29z6md5r2d7h",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dnwv1wt0588c",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/hj7lddjsjjeb",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/mazinkaiser-skl/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/50d8395c2d55e62c",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50d8395c2d55e62c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/0yboynievyyq",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/al7sugih7ikp",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/64a332017fc60e4f",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64a332017fc60e4f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/oc9le5qejz46",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/pg3i5xg4tpto",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/mazinkaiser-skl/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/1f43a8705bba59e9",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f43a8705bba59e9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/s3q7eom3pzhe",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/knxx8o3navfy",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/996405d6a6c30362",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/996405d6a6c30362/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/9h5f9ye6hn0p",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/mni54vca354b",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

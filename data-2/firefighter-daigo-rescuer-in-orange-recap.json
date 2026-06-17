@@ -1,0 +1,76 @@
+{
+  "anime_name": "Firefighter Daigo Rescuer In Orange Recap",
+  "anime_url": "https://hianime.ad/anime/firefighter-daigo-rescuer-in-orange-recap",
+  "slug": "firefighter-daigo-rescuer-in-orange-recap",
+  "mal_id": 53848,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T12:30:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Destined Three",
+      "episode_url": "https://hianime.ad/watch/firefighter-daigo-rescuer-in-orange-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "53848-malep-1_vibeplayer_sub": "https://vibeplayer.site/25130853d8ac50cd",
+          "53848-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25130853d8ac50cd/master.m3u8"
+        },
+        "HD-2": {
+          "53848-malep-1_vibeplayer_sub": "https://vibeplayer.site/agec11c5f4de65f26f148c0f09af8235764h",
+          "53848-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "53848-malep-1_otakuhg_sub": "https://otakuhg.site/e/581yl7307idv",
+          "53848-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53848-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tig63ulli8fi",
+          "53848-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53848-malep-1_vibeplayer_hsub": "https://vibeplayer.site/329cd366f4f7b50e",
+          "53848-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/329cd366f4f7b50e/master.m3u8"
+        },
+        "HD-2": {
+          "53848-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6002b8967408a837b69c7406ba4d40a94h",
+          "53848-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53848-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q9tet6vcs5wa",
+          "53848-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53848-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e4popusdnuj6",
+          "53848-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53848-malep-1_playmogo_hsub": "https://playmogo.com/e/k7se22htahjg",
+          "53848-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Firefighter",
+      "episode_url": "https://hianime.ad/watch/firefighter-daigo-rescuer-in-orange-recap/ep-2",
+      "sub": {
+        "HD-1": {
+          "53848-malep-2_vibeplayer_sub": "https://vibeplayer.site/59e9d3c8c30c83fc",
+          "53848-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/59e9d3c8c30c83fc/master.m3u8"
+        },
+        "HD-2": {
+          "53848-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag7158c7a1e53aa645499be3dd11db6c4b4h",
+          "53848-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53848-malep-2_otakuvid_sub": "https://otakuvid.online/embed/yl1wjubrioha",
+          "53848-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}

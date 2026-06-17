@@ -1,0 +1,52 @@
+{
+  "anime_name": "Big Windup 2 Special",
+  "anime_url": "https://hianime.ad/anime/big-windup-2-special",
+  "slug": "big-windup-2-special",
+  "mal_id": 7720,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:21:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "What’s Next?",
+      "episode_url": "https://hianime.ad/watch/big-windup-2-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "7720-malep-1_vibeplayer_sub": "https://vibeplayer.site/711219e744f9b092",
+          "7720-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/711219e744f9b092/master.m3u8"
+        },
+        "HD-2": {
+          "7720-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga93958d493610cbd2d67978a8b78d3674h",
+          "7720-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "7720-malep-1_otakuvid_sub": "https://otakuvid.online/embed/oprmc55fc6gk",
+          "7720-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7720-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e80160f6e60016dd",
+          "7720-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e80160f6e60016dd/master.m3u8"
+        },
+        "HD-2": {
+          "7720-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag45cfc93dbb47626293d9f1f7add6df9b4h",
+          "7720-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "7720-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b11ui0s9fd44",
+          "7720-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7720-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ohz1yffx3zwh",
+          "7720-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7720-malep-1_playmogo_hsub": "https://playmogo.com/e/0y1bipqsipht",
+          "7720-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

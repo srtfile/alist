@@ -1,0 +1,56 @@
+{
+  "anime_name": "Amagami Ss Little Sister",
+  "anime_url": "https://hianime.ad/anime/amagami-ss-little-sister",
+  "slug": "amagami-ss-little-sister",
+  "mal_id": 8676,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:10:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Longing",
+      "episode_url": "https://hianime.ad/watch/amagami-ss-little-sister/ep-1",
+      "sub": {
+        "HD-1": {
+          "8676-malep-1_vibeplayer_sub": "https://vibeplayer.site/8998a8c963b9ce66",
+          "8676-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8998a8c963b9ce66/master.m3u8"
+        },
+        "HD-2": {
+          "8676-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8314336b1576cd70b5c3acaa2a9fba254h",
+          "8676-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8676-malep-1_otakuhg_sub": "https://otakuhg.site/e/jwcuca0n2hlc",
+          "8676-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8676-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6flj534i18s4",
+          "8676-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8676-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4f50183c6e3923ae",
+          "8676-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4f50183c6e3923ae/master.m3u8"
+        },
+        "HD-2": {
+          "8676-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc55d420da53af37910e75cea064e23164h",
+          "8676-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8676-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6xzls4j81fol",
+          "8676-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8676-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/33b5fimf3u38",
+          "8676-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8676-malep-1_playmogo_hsub": "https://playmogo.com/e/bol40hc0dtob",
+          "8676-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

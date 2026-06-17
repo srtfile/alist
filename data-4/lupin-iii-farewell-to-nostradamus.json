@@ -1,0 +1,57 @@
+{
+  "anime_name": "Lupin Iii Farewell To Nostradamus",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-farewell-to-nostradamus",
+  "slug": "lupin-iii-farewell-to-nostradamus",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:59:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-farewell-to-nostradamus/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b627adaaf888f157",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b627adaaf888f157/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/qvrmnmnm0c21",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/el5ftkaqml2y",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/d7c41871172eedfe",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d7c41871172eedfe/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/bf1xlgwd7yhn",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/2a7fb7ef8ace8784",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a7fb7ef8ace8784/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/l8j1jcik6yrr",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ur95b3bgxl0d",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/vtgjnvryl59b",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

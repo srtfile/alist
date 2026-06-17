@@ -1,0 +1,61 @@
+{
+  "anime_name": "Dimension W Do Robots Dream Of Bathhouses",
+  "anime_url": "https://hianime.ad/anime/dimension-w-do-robots-dream-of-bathhouses",
+  "slug": "dimension-w-do-robots-dream-of-bathhouses",
+  "mal_id": 31163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:38:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Collector",
+      "episode_url": "https://hianime.ad/watch/dimension-w-do-robots-dream-of-bathhouses/ep-1",
+      "sub": {
+        "HD-1": {
+          "31163-malep-1_vibeplayer_sub": "https://vibeplayer.site/b24a94a2a8e8d0b8",
+          "31163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b24a94a2a8e8d0b8/master.m3u8"
+        },
+        "HD-2": {
+          "31163-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0e010960db04ea735bfec03f5182a34f4h",
+          "31163-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jadsl724o30p",
+          "31163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31163-malep-1_vibeplayer_dub": "https://vibeplayer.site/55e6b2f6cbf9652b",
+          "31163-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/55e6b2f6cbf9652b/master.m3u8"
+        },
+        "HD-2": {
+          "31163-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag7284107d3e9137499cc648f341a7e69c4h",
+          "31163-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31163-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4hjeaum4m9ec",
+          "31163-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e6198da3a26c190e",
+          "31163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6198da3a26c190e/master.m3u8"
+        },
+        "HD-2": {
+          "31163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7b579716798ceda901bf0903bd3188ab4h",
+          "31163-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iyr18x2284wg",
+          "31163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31163-malep-1_playmogo_hsub": "https://playmogo.com/e/t0nsjz7lqpxn",
+          "31163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

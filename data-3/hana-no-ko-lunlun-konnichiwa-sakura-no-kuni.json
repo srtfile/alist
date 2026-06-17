@@ -1,0 +1,44 @@
+{
+  "anime_name": "Hana No Ko Lunlun Konnichiwa Sakura No Kuni",
+  "anime_url": "https://hianime.ad/anime/hana-no-ko-lunlun-konnichiwa-sakura-no-kuni",
+  "slug": "hana-no-ko-lunlun-konnichiwa-sakura-no-kuni",
+  "mal_id": 2230,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:47:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Mysterious Visitor",
+      "episode_url": "https://hianime.ad/watch/hana-no-ko-lunlun-konnichiwa-sakura-no-kuni/ep-1",
+      "sub": {
+        "HD-1": {
+          "2230-malep-1_vibeplayer_sub": "https://vibeplayer.site/914370726700823f",
+          "2230-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/914370726700823f/master.m3u8"
+        },
+        "Earnvids": {
+          "2230-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kvz83ejqckp8",
+          "2230-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2230-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6ff9089c93c49c04",
+          "2230-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6ff9089c93c49c04/master.m3u8"
+        },
+        "StreamHG": {
+          "2230-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6sagkmi4puyu",
+          "2230-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2230-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t8z8ny4hfege",
+          "2230-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2230-malep-1_playmogo_hsub": "https://playmogo.com/e/fw36dyptbu00",
+          "2230-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

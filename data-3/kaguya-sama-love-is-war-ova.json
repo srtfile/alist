@@ -1,0 +1,48 @@
+{
+  "anime_name": "Kaguya Sama Love Is War Ova",
+  "anime_url": "https://hianime.ad/anime/kaguya-sama-love-is-war-ova",
+  "slug": "kaguya-sama-love-is-war-ova",
+  "mal_id": 37999,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:34:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Will Make You Invite Me to a Movie / Kaguya Wants to Be Stopped / Kaguya Wants It",
+      "episode_url": "https://hianime.ad/watch/kaguya-sama-love-is-war-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "37999-malep-1_vibeplayer_sub": "https://vibeplayer.site/2ce26cb9265eb03a",
+          "37999-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ce26cb9265eb03a/master.m3u8"
+        },
+        "StreamHG": {
+          "37999-malep-1_otakuhg_sub": "https://otakuhg.site/e/wegur73ldvn6",
+          "37999-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37999-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g1gvxqj30jj7",
+          "37999-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37999-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ce9449fcbfe299bb",
+          "37999-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce9449fcbfe299bb/master.m3u8"
+        },
+        "StreamHG": {
+          "37999-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yfmkgh2tds00",
+          "37999-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37999-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tvft925vlort",
+          "37999-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37999-malep-1_playmogo_hsub": "https://playmogo.com/e/oo656hgmkkhd",
+          "37999-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

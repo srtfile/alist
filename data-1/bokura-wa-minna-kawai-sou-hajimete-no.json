@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bokura Wa Minna Kawai Sou Hajimete No",
+  "anime_url": "https://hianime.ad/anime/bokura-wa-minna-kawai-sou-hajimete-no",
+  "slug": "bokura-wa-minna-kawai-sou-hajimete-no",
+  "mal_id": 21405,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:15:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Just Imagine",
+      "episode_url": "https://hianime.ad/watch/bokura-wa-minna-kawai-sou-hajimete-no/ep-1",
+      "sub": {
+        "HD-1": {
+          "21405-malep-1_vibeplayer_sub": "https://vibeplayer.site/bdcf07948a4304ad",
+          "21405-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bdcf07948a4304ad/master.m3u8"
+        },
+        "HD-2": {
+          "21405-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag40e3dd736298b9337cb932271e9e5e874h",
+          "21405-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21405-malep-1_otakuvid_sub": "https://otakuvid.online/embed/go7czu08s0gw",
+          "21405-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21405-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0ff2ea73081428e9",
+          "21405-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0ff2ea73081428e9/master.m3u8"
+        },
+        "HD-2": {
+          "21405-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8378953a49070bd71c84e7da7dda94224h",
+          "21405-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "21405-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9whob3i8aue6",
+          "21405-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21405-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hohu6zu3a2dg",
+          "21405-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21405-malep-1_playmogo_hsub": "https://playmogo.com/e/tsaaubbow63k",
+          "21405-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

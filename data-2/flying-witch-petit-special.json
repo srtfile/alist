@@ -1,0 +1,52 @@
+{
+  "anime_name": "Flying Witch Petit Special",
+  "anime_url": "https://hianime.ad/anime/flying-witch-petit-special",
+  "slug": "flying-witch-petit-special",
+  "mal_id": 31376,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:44:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's Been Six Years",
+      "episode_url": "https://hianime.ad/watch/flying-witch-petit-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "31376-malep-1_vibeplayer_sub": "https://vibeplayer.site/6cd2dc09d3f30ebc",
+          "31376-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6cd2dc09d3f30ebc/master.m3u8"
+        },
+        "HD-2": {
+          "31376-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga8ea77f34ec3cf06ec009003307380454h",
+          "31376-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31376-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yutnhsxdndvv",
+          "31376-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31376-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d73f7872742e5fc2",
+          "31376-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d73f7872742e5fc2/master.m3u8"
+        },
+        "HD-2": {
+          "31376-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1bd7bef2b7a53934e195384e0c8e87e14h",
+          "31376-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31376-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gvrnsojzwapd",
+          "31376-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31376-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p0dsrh92h3dm",
+          "31376-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31376-malep-1_playmogo_hsub": "https://playmogo.com/e/1izsym45vvii",
+          "31376-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

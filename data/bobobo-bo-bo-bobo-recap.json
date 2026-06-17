@@ -1,0 +1,32 @@
+{
+  "anime_name": "Bobobo Bo Bo Bobo Recap",
+  "anime_url": "https://hianime.ad/anime/bobobo-bo-bo-bobo-recap",
+  "slug": "bobobo-bo-bo-bobo-recap",
+  "mal_id": 1050,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:10:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Bo-nafide Soulful Bo-tector of Hair",
+      "episode_url": "https://hianime.ad/watch/bobobo-bo-bo-bobo-recap/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "1050-malep-1_vibeplayer_raw": "https://vibeplayer.site/474d1bf19c88d635",
+          "1050-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/474d1bf19c88d635/master.m3u8"
+        },
+        "HD-2": {
+          "1050-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag68481cc5ed0546e01ad80304bca90ac64h",
+          "1050-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "Earnvids": {
+          "1050-malep-1_otakuvid_raw": "https://otakuvid.online/embed/8wtvpbg9q5vr",
+          "1050-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

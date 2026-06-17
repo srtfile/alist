@@ -1,0 +1,27 @@
+{
+  "anime_name": "Harbor Tale A Red Brick",
+  "anime_url": "https://hianime.ad/anime/harbor-tale-a-red-brick",
+  "slug": "harbor-tale-a-red-brick",
+  "mal_id": 38122,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:03:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/harbor-tale-a-red-brick/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "38122-malep-1_vibeplayer_dub": "https://vibeplayer.site/a4c874929c4c952c",
+          "38122-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a4c874929c4c952c/master.m3u8"
+        },
+        "Earnvids": {
+          "38122-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jaum5kepikvv",
+          "38122-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

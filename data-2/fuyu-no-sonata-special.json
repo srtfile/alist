@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fuyu No Sonata Special",
+  "anime_url": "https://hianime.ad/anime/fuyu-no-sonata-special",
+  "slug": "fuyu-no-sonata-special",
+  "mal_id": 4189,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:30:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Black and White Photo",
+      "episode_url": "https://hianime.ad/watch/fuyu-no-sonata-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "4189-malep-1_vibeplayer_sub": "https://vibeplayer.site/8f3106761a304783",
+          "4189-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8f3106761a304783/master.m3u8"
+        },
+        "HD-2": {
+          "4189-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc332ea6a4f3542d838c683ba3ce633714h",
+          "4189-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4189-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9j8aaoyre5mz",
+          "4189-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4189-malep-1_vibeplayer_hsub": "https://vibeplayer.site/07a684bde71f0c17",
+          "4189-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07a684bde71f0c17/master.m3u8"
+        },
+        "HD-2": {
+          "4189-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agee069b39f69a79772cee9e65b0d177e54h",
+          "4189-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4189-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u613ho9gagfv",
+          "4189-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4189-malep-1_playmogo_hsub": "https://playmogo.com/e/l3zenjxziz8w",
+          "4189-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

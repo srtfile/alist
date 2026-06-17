@@ -1,0 +1,39 @@
+{
+  "anime_name": "Afro Samurai Resurrection",
+  "anime_url": "https://hianime.ad/anime/afro-samurai-resurrection",
+  "slug": "afro-samurai-resurrection",
+  "mal_id": 1292,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:03:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Revenge",
+      "episode_url": "https://hianime.ad/watch/afro-samurai-resurrection/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1292-malep-1_vibeplayer_dub": "https://vibeplayer.site/7825c48fccc18cc8",
+          "1292-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7825c48fccc18cc8/master.m3u8"
+        },
+        "HD-2": {
+          "1292-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag8b608fb24645cf2a491e6890f37140ca4h",
+          "1292-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1292-malep-1_otakuhg_dub": "https://otakuhg.site/e/wlpoer7hukck",
+          "1292-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1292-malep-1_otakuvid_dub": "https://otakuvid.online/embed/q12scuook525",
+          "1292-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1292-malep-1_playmogo_dub": "https://playmogo.com/e/3d2avpqtq5dz",
+          "1292-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

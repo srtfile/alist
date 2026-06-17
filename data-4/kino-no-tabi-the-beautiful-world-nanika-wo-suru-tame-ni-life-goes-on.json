@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kino No Tabi The Beautiful World Nanika Wo Suru Tame Ni Life Goes On",
+  "anime_url": "https://hianime.ad/anime/kino-no-tabi-the-beautiful-world-nanika-wo-suru-tame-ni-life-goes-on",
+  "slug": "kino-no-tabi-the-beautiful-world-nanika-wo-suru-tame-ni-life-goes-on",
+  "mal_id": 486,
+  "total_episodes": 1,
+  "captured_at": "2026-06-16T23:04:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Land of Visible Pain",
+      "episode_url": "https://hianime.ad/watch/kino-no-tabi-the-beautiful-world-nanika-wo-suru-tame-ni-life-goes-on/ep-1",
+      "sub": {
+        "HD-1": {
+          "486-malep-1_vibeplayer_sub": "https://vibeplayer.site/d599077b1bc217c6",
+          "486-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d599077b1bc217c6/master.m3u8"
+        },
+        "Earnvids": {
+          "486-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hf3vgj5c9wv0",
+          "486-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "486-malep-1_playmogo_sub": "https://playmogo.com/e/bnrd02nszmrq",
+          "486-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "486-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8788eefd76462858",
+          "486-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8788eefd76462858/master.m3u8"
+        },
+        "Earnvids": {
+          "486-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3xk7yqe6tttm",
+          "486-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "486-malep-1_playmogo_hsub": "https://playmogo.com/e/8dlcvp21x8y6",
+          "486-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kinnikuman Perfect Origin Arc Episode 0",
+  "anime_url": "https://hianime.ad/anime/kinnikuman-perfect-origin-arc-episode-0",
+  "slug": "kinnikuman-perfect-origin-arc-episode-0",
+  "mal_id": 54730,
+  "total_episodes": 1,
+  "captured_at": "2026-06-16T23:04:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Dawn of a New History!!",
+      "episode_url": "https://hianime.ad/watch/kinnikuman-perfect-origin-arc-episode-0/ep-1",
+      "sub": {
+        "HD-1": {
+          "54730-malep-1_vibeplayer_sub": "https://vibeplayer.site/6f7a8fd28adfb748",
+          "54730-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f7a8fd28adfb748/master.m3u8"
+        },
+        "Earnvids": {
+          "54730-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4uqk0c6cjmkw",
+          "54730-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "54730-malep-1_vibeplayer_hsub": "https://vibeplayer.site/65869d30735b17bb",
+          "54730-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/65869d30735b17bb/master.m3u8"
+        },
+        "Earnvids": {
+          "54730-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pwfum653u496",
+          "54730-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54730-malep-1_playmogo_hsub": "https://playmogo.com/e/a3ej7f2n8exo",
+          "54730-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "anime_name": "Kite",
+  "anime_url": "https://hianime.ad/anime/kite",
+  "slug": "kite",
+  "mal_id": 6509,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:32:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Searching for buried treasures! / My Own Invention that got Big Treasure!",
+      "episode_url": "https://hianime.ad/watch/kite/ep-1",
+      "sub": {
+        "HD-1": {
+          "6509-malep-1_vibeplayer_sub": "https://vibeplayer.site/e8d5ed866e53993f",
+          "6509-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8d5ed866e53993f/master.m3u8"
+        },
+        "StreamHG": {
+          "6509-malep-1_otakuhg_sub": "https://otakuhg.site/e/4wli6n09n19w",
+          "6509-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6509-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fy4ytva8f816",
+          "6509-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6509-malep-1_vibeplayer_dub": "https://vibeplayer.site/828790d81ff554e9",
+          "6509-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/828790d81ff554e9/master.m3u8"
+        },
+        "StreamHG": {
+          "6509-malep-1_otakuhg_dub": "https://otakuhg.site/e/4q9phdxvxish",
+          "6509-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6509-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nycdqescg7hg",
+          "6509-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6509-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dc0e63b069977646",
+          "6509-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc0e63b069977646/master.m3u8"
+        },
+        "StreamHG": {
+          "6509-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ae6eludrvls1",
+          "6509-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6509-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bc8s870qb9w8",
+          "6509-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6509-malep-1_playmogo_hsub": "https://playmogo.com/e/zolrtoehk3s9",
+          "6509-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

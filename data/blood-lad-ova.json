@@ -1,0 +1,61 @@
+{
+  "anime_name": "Blood Lad Ova",
+  "anime_url": "https://hianime.ad/anime/blood-lad-ova",
+  "slug": "blood-lad-ova",
+  "mal_id": 11633,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:47:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "She's a Skeleton Now",
+      "episode_url": "https://hianime.ad/watch/blood-lad-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "11633-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4bd7f16f47d6d41",
+          "11633-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4bd7f16f47d6d41/master.m3u8"
+        },
+        "HD-2": {
+          "11633-malep-1_vibeplayer_sub": "https://vibeplayer.site/agca43372772dabe6188c4393439cfecd24h",
+          "11633-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "11633-malep-1_otakuvid_sub": "https://otakuvid.online/embed/byiq516wvomp",
+          "11633-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "11633-malep-1_vibeplayer_dub": "https://vibeplayer.site/1d9d02d1c0677eb8",
+          "11633-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1d9d02d1c0677eb8/master.m3u8"
+        },
+        "HD-2": {
+          "11633-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag1bd4d83a098dfd61333693f9ee407a6d4h",
+          "11633-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "11633-malep-1_otakuvid_dub": "https://otakuvid.online/embed/a6cowj3dnnhf",
+          "11633-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "11633-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3ad27de8fcffb76e",
+          "11633-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ad27de8fcffb76e/master.m3u8"
+        },
+        "HD-2": {
+          "11633-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag60f8812022e3b66d6193e8e543ec5e374h",
+          "11633-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11633-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j1ze41r0jtpb",
+          "11633-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11633-malep-1_playmogo_hsub": "https://playmogo.com/e/5xhq00ri43f9",
+          "11633-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

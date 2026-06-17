@@ -1,0 +1,48 @@
+{
+  "anime_name": "Its My Life",
+  "anime_url": "https://hianime.ad/anime/its-my-life",
+  "slug": "its-my-life",
+  "mal_id": 63256,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:33:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/its-my-life/ep-1",
+      "sub": {
+        "HD-1": {
+          "63256-malep-1_vibeplayer_sub": "https://vibeplayer.site/28fcbd4c5968262c",
+          "63256-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/28fcbd4c5968262c/master.m3u8"
+        },
+        "Earnvids": {
+          "63256-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s2vhjftwghb5",
+          "63256-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "63256-malep-1_playmogo_sub": "https://playmogo.com/e/6oejeq7hmgzp",
+          "63256-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63256-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ec031eebaa0c28f3",
+          "63256-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec031eebaa0c28f3/master.m3u8"
+        },
+        "StreamHG": {
+          "63256-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z4zwvrnhcdsd",
+          "63256-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63256-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lut0uyg7xwl4",
+          "63256-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63256-malep-1_playmogo_hsub": "https://playmogo.com/e/mv1xkgv4zwo0",
+          "63256-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

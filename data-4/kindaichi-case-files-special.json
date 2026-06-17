@@ -1,0 +1,61 @@
+{
+  "anime_name": "Kindaichi Case Files Special",
+  "anime_url": "https://hianime.ad/anime/kindaichi-case-files-special",
+  "slug": "kindaichi-case-files-special",
+  "mal_id": 2076,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T09:43:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seven Mysteries of Fudo High Murder Case File 1",
+      "episode_url": "https://hianime.ad/watch/kindaichi-case-files-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "2076-malep-1_vibeplayer_sub": "https://vibeplayer.site/996444d698b0a470",
+          "2076-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/996444d698b0a470/master.m3u8"
+        },
+        "Earnvids": {
+          "2076-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ecc8lyemc1sr",
+          "2076-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2076-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ff3081a924b67fff",
+          "2076-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff3081a924b67fff/master.m3u8"
+        },
+        "Earnvids": {
+          "2076-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3wi3dju65eor",
+          "2076-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Seven Mysteries of Fudo High Murder Case File 2",
+      "episode_url": "https://hianime.ad/watch/kindaichi-case-files-special/ep-2",
+      "sub": {
+        "HD-1": {
+          "2076-malep-2_vibeplayer_sub": "https://vibeplayer.site/50d8b19834e84a06",
+          "2076-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50d8b19834e84a06/master.m3u8"
+        },
+        "Earnvids": {
+          "2076-malep-2_otakuvid_sub": "https://otakuvid.online/embed/7iomvj1o472y",
+          "2076-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2076-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d2110e73e111cb0d",
+          "2076-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2110e73e111cb0d/master.m3u8"
+        },
+        "Earnvids": {
+          "2076-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/pddujqfhttnm",
+          "2076-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

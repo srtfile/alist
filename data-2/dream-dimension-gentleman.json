@@ -1,0 +1,48 @@
+{
+  "anime_name": "Dream Dimension Gentleman",
+  "anime_url": "https://hianime.ad/anime/dream-dimension-gentleman",
+  "slug": "dream-dimension-gentleman",
+  "mal_id": 37869,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:57:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Happy Party!",
+      "episode_url": "https://hianime.ad/watch/dream-dimension-gentleman/ep-1",
+      "sub": {
+        "HD-1": {
+          "37869-malep-1_vibeplayer_sub": "https://vibeplayer.site/552ad7aef75b1561",
+          "37869-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/552ad7aef75b1561/master.m3u8"
+        },
+        "HD-2": {
+          "37869-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1f8d272c2cdf7689d5bf0d1b9192d4174h",
+          "37869-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37869-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g76jm80cw2h5",
+          "37869-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37869-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb93d0e070280a7f",
+          "37869-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb93d0e070280a7f/master.m3u8"
+        },
+        "HD-2": {
+          "37869-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag651fd73a4571f1f6d3e3d85b830a04bf4h",
+          "37869-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37869-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9aujn1wgv1j5",
+          "37869-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37869-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ki4w9bdzd3yn",
+          "37869-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

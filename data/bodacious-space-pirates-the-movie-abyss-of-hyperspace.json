@@ -1,0 +1,69 @@
+{
+  "anime_name": "Bodacious Space Pirates The Movie Abyss Of Hyperspace",
+  "anime_url": "https://hianime.ad/anime/bodacious-space-pirates-the-movie-abyss-of-hyperspace",
+  "slug": "bodacious-space-pirates-the-movie-abyss-of-hyperspace",
+  "mal_id": 8917,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:11:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pirates, Coming Through",
+      "episode_url": "https://hianime.ad/watch/bodacious-space-pirates-the-movie-abyss-of-hyperspace/ep-1",
+      "sub": {
+        "HD-1": {
+          "8917-malep-1_vibeplayer_sub": "https://vibeplayer.site/b3ba281206b12d8e",
+          "8917-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3ba281206b12d8e/master.m3u8"
+        },
+        "HD-2": {
+          "8917-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag19cbbe471eac82631831c56c1a07ba1b4h",
+          "8917-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8917-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uyeiyeinrcrk",
+          "8917-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8917-malep-1_vibeplayer_dub": "https://vibeplayer.site/45250a0b758dbaee",
+          "8917-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/45250a0b758dbaee/master.m3u8"
+        },
+        "HD-2": {
+          "8917-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag86edea9afbd6cfc6a57335556eeb92a64h",
+          "8917-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8917-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xuot992iaxdm",
+          "8917-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "8917-malep-1_playmogo_dub": "https://playmogo.com/e/7h9eqkunjtlr",
+          "8917-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8917-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8c419d06ac979d97",
+          "8917-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c419d06ac979d97/master.m3u8"
+        },
+        "HD-2": {
+          "8917-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag27d8a6db9da64a6de2361dfd59eeb3444h",
+          "8917-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8917-malep-1_otakuhg_hsub": "https://otakuhg.site/e/olxr4jzh6wgn",
+          "8917-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8917-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ptpjtqx0ylxu",
+          "8917-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8917-malep-1_playmogo_hsub": "https://playmogo.com/e/2egw677qm46x",
+          "8917-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

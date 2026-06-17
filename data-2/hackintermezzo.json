@@ -1,0 +1,69 @@
+{
+  "anime_name": "Hackintermezzo",
+  "anime_url": "https://hianime.ad/anime/hackintermezzo",
+  "slug": "hackintermezzo",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T15:18:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/hackintermezzo/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/48e1233f205678c0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48e1233f205678c0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agbe1f895f538ffbc17539ab21cc4e1e724h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/t3hmwnwft5gl",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/psa7s9e9lco7",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/2fb00ebf890e3901",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2fb00ebf890e3901/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ageeffe912cd68c4cb5be753467cb1c82b4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/71aufj1awi5o",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/45ca6d7eb20ad145",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/45ca6d7eb20ad145/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbe2d225798f7c70d0dd7cd2a21bafaf04h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/kpva60pr9dd6",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jqt20gldkfg9",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/oaon2ckxf21l",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

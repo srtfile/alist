@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bari Bari Densetsu 1987",
+  "anime_url": "https://hianime.ad/anime/bari-bari-densetsu-1987",
+  "slug": "bari-bari-densetsu-1987",
+  "mal_id": 13333,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:38:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Running and Inviting",
+      "episode_url": "https://hianime.ad/watch/bari-bari-densetsu-1987/ep-1",
+      "sub": {
+        "HD-1": {
+          "13333-malep-1_vibeplayer_sub": "https://vibeplayer.site/d34068677b0b9b92",
+          "13333-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d34068677b0b9b92/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5f753cbb3a94879822fc21de4c152d334h",
+          "13333-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2c3jsuwy9ys3",
+          "13333-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "13333-malep-1_playmogo_sub": "https://playmogo.com/e/uqr4d71apya6",
+          "13333-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f55f24df4b96956c",
+          "13333-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f55f24df4b96956c/master.m3u8"
+        },
+        "HD-2": {
+          "13333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb8549bc2512e25348ca083ae26d6e2c94h",
+          "13333-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "13333-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pe113z3g6ol8",
+          "13333-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13333-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qfka4r7vcexi",
+          "13333-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13333-malep-1_playmogo_hsub": "https://playmogo.com/e/087fx5urycbo",
+          "13333-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

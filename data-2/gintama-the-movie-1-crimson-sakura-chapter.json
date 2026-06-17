@@ -1,0 +1,65 @@
+{
+  "anime_name": "Gintama The Movie 1 Crimson Sakura Chapter",
+  "anime_url": "https://hianime.ad/anime/gintama-the-movie-1-crimson-sakura-chapter",
+  "slug": "gintama-the-movie-1-crimson-sakura-chapter",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:57:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-the-movie-1-crimson-sakura-chapter/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/14114823060d06ea",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/14114823060d06ea/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/s9podn3l61y5",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jfb6dt731f0u",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_sub": "https://playmogo.com/e/13fqyptgx4oz",
+          "9969-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_dub": "https://vibeplayer.site/fdb8b14f0d41b524",
+          "9969-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fdb8b14f0d41b524/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_dub": "https://otakuhg.site/e/6m59704jerd5",
+          "9969-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lzjrj1pi6c2d",
+          "9969-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e20ef5ce89042d71",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e20ef5ce89042d71/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lowzoy1w6wla",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/b9ofdcelctev",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/04mvnytd47ak",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

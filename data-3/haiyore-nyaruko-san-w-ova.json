@@ -1,0 +1,40 @@
+{
+  "anime_name": "Haiyore Nyaruko San W Ova",
+  "anime_url": "https://hianime.ad/anime/haiyore-nyaruko-san-w-ova",
+  "slug": "haiyore-nyaruko-san-w-ova",
+  "mal_id": 15699,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:37:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Attack on Evil Deity",
+      "episode_url": "https://hianime.ad/watch/haiyore-nyaruko-san-w-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "15699-malep-1_vibeplayer_sub": "https://vibeplayer.site/a23f7b254725f5fd",
+          "15699-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a23f7b254725f5fd/master.m3u8"
+        },
+        "Earnvids": {
+          "15699-malep-1_otakuvid_sub": "https://otakuvid.online/embed/olujy5i2xxo5",
+          "15699-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15699-malep-1_vibeplayer_hsub": "https://vibeplayer.site/35902e5a66122b83",
+          "15699-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/35902e5a66122b83/master.m3u8"
+        },
+        "StreamHG": {
+          "15699-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0c2sjj8ynhhh",
+          "15699-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15699-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h43wl9a72qmo",
+          "15699-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

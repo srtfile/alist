@@ -1,0 +1,35 @@
+{
+  "anime_name": "Cells At Work",
+  "anime_url": "https://hianime.ad/anime/cells-at-work",
+  "slug": "cells-at-work",
+  "mal_id": 37141,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:09:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pneumococcus",
+      "episode_url": "https://hianime.ad/watch/cells-at-work/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "37141-malep-1_vibeplayer_dub": "https://vibeplayer.site/e14537ad023ca851",
+          "37141-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e14537ad023ca851/master.m3u8"
+        },
+        "HD-2": {
+          "37141-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag99101a24d34343e7d75386b1c6da5de64h",
+          "37141-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "37141-malep-1_otakuhg_dub": "https://otakuhg.site/e/14fi9bhrsvta",
+          "37141-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37141-malep-1_otakuvid_dub": "https://otakuvid.online/embed/k7z8yjo5a750",
+          "37141-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

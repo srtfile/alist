@@ -1,0 +1,1327 @@
+{
+  "anime_name": "Arc The Lad",
+  "anime_url": "https://hianime.ad/anime/arc-the-lad",
+  "slug": "arc-the-lad",
+  "mal_id": 55,
+  "total_episodes": 26,
+  "captured_at": "2026-06-02T21:04:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy with Flame",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-1",
+      "sub": {
+        "HD-1": {
+          "55-malep-1_vibeplayer_sub": "https://vibeplayer.site/4cbb94728bf24168",
+          "55-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4cbb94728bf24168/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1b630d559fd32f7856d87a53b984746e4h",
+          "55-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9lk9vm07v767",
+          "55-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-1_vibeplayer_dub": "https://vibeplayer.site/823c6a1e5e581b03",
+          "55-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/823c6a1e5e581b03/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd55eaf0a76c9f9565b4ab7fc5fc662d24h",
+          "55-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wle0ytxt0ih5",
+          "55-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8eed27f706c2145a",
+          "55-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8eed27f706c2145a/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc008fac0d4f1bba2f240d8051233f2e44h",
+          "55-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ttpr9lilvwhm",
+          "55-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vokzfkqyy0dh",
+          "55-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-1_playmogo_hsub": "https://playmogo.com/e/gk9xu0ogyuuz",
+          "55-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beginning of the Destiny",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-2",
+      "sub": {
+        "HD-1": {
+          "55-malep-2_vibeplayer_sub": "https://vibeplayer.site/2c2e36b1636fd914",
+          "55-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c2e36b1636fd914/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-2_vibeplayer_sub": "https://vibeplayer.site/agd1513543fe30239237d2bc78c9f7673c4h",
+          "55-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-2_otakuvid_sub": "https://otakuvid.online/embed/4ivhyp1ib1em",
+          "55-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-2_vibeplayer_dub": "https://vibeplayer.site/19ed8150a17c6b88",
+          "55-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19ed8150a17c6b88/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-2_vibeplayer_dub": "https://vibeplayer.site/agbf1aac8a197c55fbda8d81f04c03416a4h",
+          "55-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-2_otakuvid_dub": "https://otakuvid.online/embed/5vnfjnwi8dei",
+          "55-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-2_vibeplayer_hsub": "https://vibeplayer.site/0e543b004dba3168",
+          "55-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e543b004dba3168/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agfabf8f2c615a85555e5a7d94e205dcb34h",
+          "55-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55-malep-2_otakuhg_hsub": "https://otakuhg.site/e/2cl57w1tablf",
+          "55-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/9nai8vk3zsag",
+          "55-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-2_playmogo_hsub": "https://playmogo.com/e/on615ikm0jha",
+          "55-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Feeling in the Rain",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-3",
+      "sub": {
+        "HD-1": {
+          "55-malep-3_vibeplayer_sub": "https://vibeplayer.site/fc0ecdd3adcf8768",
+          "55-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fc0ecdd3adcf8768/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-3_vibeplayer_sub": "https://vibeplayer.site/agc3c0fc2aa0e302d16e889e4df3da86ad4h",
+          "55-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-3_otakuvid_sub": "https://otakuvid.online/embed/k0afbt84p35j",
+          "55-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-3_vibeplayer_dub": "https://vibeplayer.site/b1f97a5d2d6ae2cb",
+          "55-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b1f97a5d2d6ae2cb/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag5e2958df9365b0b73b20044c0fe32ed74h",
+          "55-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-3_otakuvid_dub": "https://otakuvid.online/embed/gb10m29pys37",
+          "55-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-3_vibeplayer_hsub": "https://vibeplayer.site/e4477cffb0f147c7",
+          "55-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4477cffb0f147c7/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag12a8813504f5a50d00908d4c11dd4e454h",
+          "55-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/tdyt185cve81",
+          "55-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-3_playmogo_hsub": "https://playmogo.com/e/qupou8v2m4kd",
+          "55-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pale Goddess",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-4",
+      "sub": {
+        "HD-1": {
+          "55-malep-4_vibeplayer_sub": "https://vibeplayer.site/c5b400abfe40f3d6",
+          "55-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c5b400abfe40f3d6/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag767ff92cc1ca286a42b5e16533e774dd4h",
+          "55-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-4_otakuvid_sub": "https://otakuvid.online/embed/siyq9wlbhm14",
+          "55-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-4_vibeplayer_dub": "https://vibeplayer.site/56a049f09b5a6fae",
+          "55-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/56a049f09b5a6fae/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag98c8398b02568062fb8240c45a5c64084h",
+          "55-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-4_otakuvid_dub": "https://otakuvid.online/embed/prezh8ms6d64",
+          "55-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-4_vibeplayer_hsub": "https://vibeplayer.site/f2f95e85389b12ad",
+          "55-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2f95e85389b12ad/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag488226fb3ddee75315ce0a7b402f227c4h",
+          "55-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/7snwlrtzuopc",
+          "55-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-4_playmogo_hsub": "https://playmogo.com/e/b9ge7v9ygdpj",
+          "55-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Criminals",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-5",
+      "sub": {
+        "HD-1": {
+          "55-malep-5_vibeplayer_sub": "https://vibeplayer.site/1a1d02c9fb417e96",
+          "55-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a1d02c9fb417e96/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag48defacef97e042ea0b8f256f8bb9fd04h",
+          "55-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-5_otakuvid_sub": "https://otakuvid.online/embed/35n9ykw8vbz0",
+          "55-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-5_vibeplayer_dub": "https://vibeplayer.site/0cfaf7a89a6d22de",
+          "55-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0cfaf7a89a6d22de/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-5_vibeplayer_dub": "https://vibeplayer.site/age8188c3e38094f620fc3d2d2c2e8bc584h",
+          "55-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-5_otakuvid_dub": "https://otakuvid.online/embed/mcmdl196ngl3",
+          "55-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-5_vibeplayer_hsub": "https://vibeplayer.site/a0ccc35abfe4fba5",
+          "55-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0ccc35abfe4fba5/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag1b051eb05aa4d95272475475294d9c584h",
+          "55-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ey4jof11apz3",
+          "55-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-5_playmogo_hsub": "https://playmogo.com/e/d0yq986haksh",
+          "55-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beyond the Sound of Waves",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-6",
+      "sub": {
+        "HD-1": {
+          "55-malep-6_vibeplayer_sub": "https://vibeplayer.site/38600a6922a80357",
+          "55-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/38600a6922a80357/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag474eff2fea637e4da674e42168d5593d4h",
+          "55-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-6_otakuvid_sub": "https://otakuvid.online/embed/7n37zvi44i14",
+          "55-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-6_vibeplayer_dub": "https://vibeplayer.site/da6d6e1e17595167",
+          "55-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/da6d6e1e17595167/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag704daaa2ed72460d44e3e1edb056a9e44h",
+          "55-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-6_otakuvid_dub": "https://otakuvid.online/embed/8cpvqkf0xygp",
+          "55-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-6_vibeplayer_hsub": "https://vibeplayer.site/8846e0f60053bd5b",
+          "55-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8846e0f60053bd5b/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-6_vibeplayer_hsub": "https://vibeplayer.site/agb058e80ed2d5d143deac295ab6443ae44h",
+          "55-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/nxle0gy2ccyh",
+          "55-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-6_playmogo_hsub": "https://playmogo.com/e/yyy1bqdqzol8",
+          "55-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ancient Guardian",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-7",
+      "sub": {
+        "HD-1": {
+          "55-malep-7_vibeplayer_sub": "https://vibeplayer.site/c20296ab4117bbde",
+          "55-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c20296ab4117bbde/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag7944eeebb5c815f863f5ee6ff77dbb4e4h",
+          "55-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-7_otakuvid_sub": "https://otakuvid.online/embed/lrblbms9tmss",
+          "55-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-7_vibeplayer_dub": "https://vibeplayer.site/c351126f68df1226",
+          "55-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c351126f68df1226/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag16a6c12aea8b7d3425818e35ee32b5264h",
+          "55-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-7_otakuvid_dub": "https://otakuvid.online/embed/wb7oe8z8cjfd",
+          "55-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-7_vibeplayer_hsub": "https://vibeplayer.site/5c7f43c7a23b9226",
+          "55-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c7f43c7a23b9226/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag264b9d6962bc68434d149dba49f51bb74h",
+          "55-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/26kfsnb0iyo8",
+          "55-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-7_playmogo_hsub": "https://playmogo.com/e/2f0j38pch970",
+          "55-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Runaway",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-8",
+      "sub": {
+        "HD-1": {
+          "55-malep-8_vibeplayer_sub": "https://vibeplayer.site/e89cc275e2fa2e47",
+          "55-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e89cc275e2fa2e47/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag216a8b66d04d7e120c543595051f6fe54h",
+          "55-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-8_otakuvid_sub": "https://otakuvid.online/embed/7iruy0lhd543",
+          "55-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-8_vibeplayer_dub": "https://vibeplayer.site/b59065e76dab3a63",
+          "55-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b59065e76dab3a63/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag22ae87a4ac625afac4a7bb310109d9844h",
+          "55-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-8_otakuvid_dub": "https://otakuvid.online/embed/0balf6kgdiqh",
+          "55-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-8_vibeplayer_hsub": "https://vibeplayer.site/fcf3f0d9260a21a3",
+          "55-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fcf3f0d9260a21a3/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag948425be5d7390b5a7eff024999767c54h",
+          "55-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55-malep-8_otakuhg_hsub": "https://otakuhg.site/e/tr9ay70z7314",
+          "55-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/6bcwhuf8lfrc",
+          "55-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-8_playmogo_hsub": "https://playmogo.com/e/ujgc3dd1i00b",
+          "55-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Friend Who was Left Behind",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-9",
+      "sub": {
+        "HD-1": {
+          "55-malep-9_vibeplayer_sub": "https://vibeplayer.site/6abf90d9d088cf25",
+          "55-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6abf90d9d088cf25/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag5749fdb71375fe3613b9fa107a17e6764h",
+          "55-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-9_otakuvid_sub": "https://otakuvid.online/embed/9cyn5f4ogztc",
+          "55-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-9_vibeplayer_dub": "https://vibeplayer.site/7e869604df5e88fe",
+          "55-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e869604df5e88fe/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag739f2efd9f95153728a6c032a48d53284h",
+          "55-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-9_otakuvid_dub": "https://otakuvid.online/embed/3h4hb9rhxryz",
+          "55-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-9_vibeplayer_hsub": "https://vibeplayer.site/1405fcfad4086e87",
+          "55-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1405fcfad4086e87/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag0d517abab1522ea3efc6bbd2133aaffd4h",
+          "55-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/wcuyaxuwtqfx",
+          "55-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-9_playmogo_hsub": "https://playmogo.com/e/atio95j6n5wf",
+          "55-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Crusade with No Name",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-10",
+      "sub": {
+        "HD-1": {
+          "55-malep-10_vibeplayer_sub": "https://vibeplayer.site/1564cac6e17cb939",
+          "55-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1564cac6e17cb939/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-10_vibeplayer_sub": "https://vibeplayer.site/agec1a0e35523c7b4997d6ef4186b743ac4h",
+          "55-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-10_otakuvid_sub": "https://otakuvid.online/embed/5nvkfnusry8d",
+          "55-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-10_vibeplayer_dub": "https://vibeplayer.site/eccf17acd662f63a",
+          "55-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eccf17acd662f63a/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag4c5d0f9c7bde14e2d77aaf132843e6994h",
+          "55-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-10_otakuvid_dub": "https://otakuvid.online/embed/gxl4ag3ys0yh",
+          "55-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-10_vibeplayer_hsub": "https://vibeplayer.site/b6d41563e8e4d420",
+          "55-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b6d41563e8e4d420/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-10_vibeplayer_hsub": "https://vibeplayer.site/aga6c78db695d92dcba430eeaf02cc1e9a4h",
+          "55-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/mu6cfrspsh64",
+          "55-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-10_playmogo_hsub": "https://playmogo.com/e/a9h3ph4m36l9",
+          "55-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lonely Brave Man",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-11",
+      "sub": {
+        "HD-1": {
+          "55-malep-11_vibeplayer_sub": "https://vibeplayer.site/d7d066ba774ca9a6",
+          "55-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7d066ba774ca9a6/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-11_vibeplayer_sub": "https://vibeplayer.site/agf5ebac56bdf93cbeac83e0ec36c000114h",
+          "55-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-11_otakuvid_sub": "https://otakuvid.online/embed/sbtm8ibqd6ky",
+          "55-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-11_vibeplayer_dub": "https://vibeplayer.site/f8baccbbb607b64a",
+          "55-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f8baccbbb607b64a/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag36ab81007bf53f25434d095947529e2d4h",
+          "55-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-11_otakuvid_dub": "https://otakuvid.online/embed/kxyz91e6sfkv",
+          "55-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-11_vibeplayer_hsub": "https://vibeplayer.site/4be39d5726676f06",
+          "55-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4be39d5726676f06/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-11_vibeplayer_hsub": "https://vibeplayer.site/agf12e9ef4b530cec574c97698b9b513ea4h",
+          "55-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/s6a2i3cse0l0",
+          "55-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-11_playmogo_hsub": "https://playmogo.com/e/5jj9da8d6r79",
+          "55-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "White House",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-12",
+      "sub": {
+        "HD-1": {
+          "55-malep-12_vibeplayer_sub": "https://vibeplayer.site/e0f8ff4efb7de001",
+          "55-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0f8ff4efb7de001/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-12_vibeplayer_sub": "https://vibeplayer.site/agc316ad3d6fb9f0b1968ce978850eabd74h",
+          "55-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-12_otakuvid_sub": "https://otakuvid.online/embed/kgwe5w0nv2j9",
+          "55-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-12_vibeplayer_dub": "https://vibeplayer.site/d32ebd057a9d23e8",
+          "55-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d32ebd057a9d23e8/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag4e4287043b6a7967512c6ec8c241b23c4h",
+          "55-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-12_otakuvid_dub": "https://otakuvid.online/embed/3hfndrckkej6",
+          "55-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-12_vibeplayer_hsub": "https://vibeplayer.site/0189ddd4e389f108",
+          "55-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0189ddd4e389f108/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agecadac899a3cd531adb394add5a3f4bf4h",
+          "55-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/2yz90y9csi0m",
+          "55-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-12_playmogo_hsub": "https://playmogo.com/e/svlrywj4wbno",
+          "55-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Smiling Holy Mother",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-13",
+      "sub": {
+        "HD-1": {
+          "55-malep-13_vibeplayer_sub": "https://vibeplayer.site/1000d6b655b36b0e",
+          "55-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1000d6b655b36b0e/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-13_vibeplayer_sub": "https://vibeplayer.site/ag9ae1beb77d258852eebabb03d43278644h",
+          "55-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-13_otakuvid_sub": "https://otakuvid.online/embed/x74o9t2b0gwn",
+          "55-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-13_vibeplayer_dub": "https://vibeplayer.site/cc5e7b4ec62c4b04",
+          "55-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cc5e7b4ec62c4b04/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-13_vibeplayer_dub": "https://vibeplayer.site/ag94a10f07b2866e8ad3f7564292e2a60a4h",
+          "55-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-13_otakuvid_dub": "https://otakuvid.online/embed/n7z93cm5y2tz",
+          "55-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-13_vibeplayer_hsub": "https://vibeplayer.site/779b0e917ab011dd",
+          "55-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/779b0e917ab011dd/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-13_vibeplayer_hsub": "https://vibeplayer.site/agae965cf01fbe0435e8a5b099a23ec53b4h",
+          "55-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/4bfwfi117976",
+          "55-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-13_playmogo_hsub": "https://playmogo.com/e/0x66q4gide8h",
+          "55-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shrine Maiden of the Spirit",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-14",
+      "sub": {
+        "HD-1": {
+          "55-malep-14_vibeplayer_sub": "https://vibeplayer.site/5d321aafda6c8a24",
+          "55-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5d321aafda6c8a24/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-14_vibeplayer_sub": "https://vibeplayer.site/ag870c272093187bead33ea3d7edb68a674h",
+          "55-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-14_otakuvid_sub": "https://otakuvid.online/embed/wytrfams3ib5",
+          "55-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-14_vibeplayer_dub": "https://vibeplayer.site/1fce13c818c0c572",
+          "55-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1fce13c818c0c572/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-14_vibeplayer_dub": "https://vibeplayer.site/ag735573e00bbf41c7fe35e4572d9de2e44h",
+          "55-malep-14_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-14_otakuvid_dub": "https://otakuvid.online/embed/jl21l9ysdj26",
+          "55-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-14_vibeplayer_hsub": "https://vibeplayer.site/cf1abf0f1cc16f48",
+          "55-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf1abf0f1cc16f48/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ag8f6f097c2ab71adbf6c652fe4f1e8f064h",
+          "55-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/l94o9outn0c3",
+          "55-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-14_playmogo_hsub": "https://playmogo.com/e/fi1irc2rual0",
+          "55-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Blaze has Stood",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-15",
+      "sub": {
+        "HD-1": {
+          "55-malep-15_vibeplayer_sub": "https://vibeplayer.site/782687935427593e",
+          "55-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/782687935427593e/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-15_vibeplayer_sub": "https://vibeplayer.site/agd1837d6a224d9bf59848a23a303293714h",
+          "55-malep-15_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-15_otakuvid_sub": "https://otakuvid.online/embed/r18166govtkl",
+          "55-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-15_vibeplayer_dub": "https://vibeplayer.site/6950be5484990d4e",
+          "55-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6950be5484990d4e/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-15_vibeplayer_dub": "https://vibeplayer.site/ag3ac182d9ba186ba1aa9042c7a377f1f64h",
+          "55-malep-15_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-15_otakuvid_dub": "https://otakuvid.online/embed/ejnui9uubhfh",
+          "55-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-15_vibeplayer_hsub": "https://vibeplayer.site/f648099c0b77d7cf",
+          "55-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f648099c0b77d7cf/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-15_vibeplayer_hsub": "https://vibeplayer.site/aga03f052a4f1c81fff1e3122c42aff6c94h",
+          "55-malep-15_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/ew0rvgq1rfwz",
+          "55-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-15_playmogo_hsub": "https://playmogo.com/e/y4rswx9yn4xl",
+          "55-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reconquer",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-16",
+      "sub": {
+        "HD-1": {
+          "55-malep-16_vibeplayer_sub": "https://vibeplayer.site/13ea27b25537c696",
+          "55-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13ea27b25537c696/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag83ebce4362ef0344ca1cc66f12f510514h",
+          "55-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-16_otakuvid_sub": "https://otakuvid.online/embed/g6s2439ykkr6",
+          "55-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-16_vibeplayer_dub": "https://vibeplayer.site/a3ea1c1035564ce5",
+          "55-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a3ea1c1035564ce5/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-16_vibeplayer_dub": "https://vibeplayer.site/ag9c505d29bf41941b80ff1d8f1b1b37f44h",
+          "55-malep-16_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-16_otakuvid_dub": "https://otakuvid.online/embed/u5qs5673pqjq",
+          "55-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-16_vibeplayer_hsub": "https://vibeplayer.site/07fdf9da4c67617b",
+          "55-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07fdf9da4c67617b/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-16_vibeplayer_hsub": "https://vibeplayer.site/ageec2e1f718940f7884b5a117db4c29a34h",
+          "55-malep-16_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/g15i3v6kqceu",
+          "55-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-16_playmogo_hsub": "https://playmogo.com/e/8x9s67mtf21s",
+          "55-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Scarlet Castle",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-17",
+      "sub": {
+        "HD-1": {
+          "55-malep-17_vibeplayer_sub": "https://vibeplayer.site/0d8b9e47d06c51e6",
+          "55-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d8b9e47d06c51e6/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-17_vibeplayer_sub": "https://vibeplayer.site/agec122abedaa96255a05adc765872709c4h",
+          "55-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-17_otakuvid_sub": "https://otakuvid.online/embed/3x930j0311v7",
+          "55-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-17_vibeplayer_dub": "https://vibeplayer.site/47edd4968ba8ce0e",
+          "55-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/47edd4968ba8ce0e/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-17_vibeplayer_dub": "https://vibeplayer.site/agce3784da23dea2a592b71997f11747b54h",
+          "55-malep-17_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-17_otakuvid_dub": "https://otakuvid.online/embed/g1zg4lyml1bp",
+          "55-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-17_vibeplayer_hsub": "https://vibeplayer.site/46a45a2abc291388",
+          "55-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46a45a2abc291388/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-17_vibeplayer_hsub": "https://vibeplayer.site/agae26b2159df7bf755fdba6a9911affa14h",
+          "55-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/kd86jic0zq04",
+          "55-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-17_playmogo_hsub": "https://playmogo.com/e/y6l645tfdeky",
+          "55-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chimera Tower",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-18",
+      "sub": {
+        "HD-1": {
+          "55-malep-18_vibeplayer_sub": "https://vibeplayer.site/d96ee7c61211bd55",
+          "55-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d96ee7c61211bd55/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-18_vibeplayer_sub": "https://vibeplayer.site/agde621c9b6475e7fb092057990daf03244h",
+          "55-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-18_otakuvid_sub": "https://otakuvid.online/embed/oewodej1s1w6",
+          "55-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-18_vibeplayer_dub": "https://vibeplayer.site/7e5b795308cb95b3",
+          "55-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e5b795308cb95b3/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-18_vibeplayer_dub": "https://vibeplayer.site/agaa4f6075cca470f4e23261d4851b649c4h",
+          "55-malep-18_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-18_otakuvid_dub": "https://otakuvid.online/embed/v8ykrdhq2ule",
+          "55-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-18_vibeplayer_hsub": "https://vibeplayer.site/4ff54a0f37c901d4",
+          "55-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ff54a0f37c901d4/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-18_vibeplayer_hsub": "https://vibeplayer.site/ag6ea8a8dc96234332550e633d581cdbcf4h",
+          "55-malep-18_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/os1jilf4dxh2",
+          "55-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-18_playmogo_hsub": "https://playmogo.com/e/7u15qvol8uwz",
+          "55-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Confrontation of Two Great Men",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-19",
+      "sub": {
+        "HD-1": {
+          "55-malep-19_vibeplayer_sub": "https://vibeplayer.site/404c1712bfccd098",
+          "55-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/404c1712bfccd098/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-19_vibeplayer_sub": "https://vibeplayer.site/agd3a755afe8cc8da636a99db4fe15cf754h",
+          "55-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-19_otakuvid_sub": "https://otakuvid.online/embed/0ata605xrh2r",
+          "55-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-19_vibeplayer_dub": "https://vibeplayer.site/1a852e8051a8d229",
+          "55-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1a852e8051a8d229/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-19_vibeplayer_dub": "https://vibeplayer.site/ag9aaa1a0de62dbea5af40a2dd3a5076374h",
+          "55-malep-19_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-19_otakuvid_dub": "https://otakuvid.online/embed/10mnnebjnvx8",
+          "55-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-19_vibeplayer_hsub": "https://vibeplayer.site/cbf22bd625a5d603",
+          "55-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cbf22bd625a5d603/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-19_vibeplayer_hsub": "https://vibeplayer.site/agb1f4505d59eb9771d57a6f6af1e72f034h",
+          "55-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55-malep-19_otakuhg_hsub": "https://otakuhg.site/e/xluh3nc242cn",
+          "55-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/1oqeq0fxhumo",
+          "55-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-19_playmogo_hsub": "https://playmogo.com/e/1y06xty2uy3l",
+          "55-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Meet Again",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-20",
+      "sub": {
+        "HD-1": {
+          "55-malep-20_vibeplayer_sub": "https://vibeplayer.site/5daddcd3011099b0",
+          "55-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5daddcd3011099b0/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-20_vibeplayer_sub": "https://vibeplayer.site/aga7d047cca954c5127ea3a540fd4c33a84h",
+          "55-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-20_otakuvid_sub": "https://otakuvid.online/embed/qdrv0blixuk1",
+          "55-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-20_vibeplayer_dub": "https://vibeplayer.site/7676cae16faeb592",
+          "55-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7676cae16faeb592/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-20_vibeplayer_dub": "https://vibeplayer.site/aga3a89d281afe9306636a91c5dd45406a4h",
+          "55-malep-20_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-20_otakuvid_dub": "https://otakuvid.online/embed/qoloe0wg87tl",
+          "55-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-20_vibeplayer_hsub": "https://vibeplayer.site/d4c8005329c238f0",
+          "55-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d4c8005329c238f0/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-20_vibeplayer_hsub": "https://vibeplayer.site/ag05ce25c63b8f7ad9e8ba47f34802d1754h",
+          "55-malep-20_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/ic2cgpg7q4o3",
+          "55-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-20_playmogo_hsub": "https://playmogo.com/e/qm1jw5gprbl0",
+          "55-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Place Where the Truth Is",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-21",
+      "sub": {
+        "HD-1": {
+          "55-malep-21_vibeplayer_sub": "https://vibeplayer.site/95536dc9642171bf",
+          "55-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/95536dc9642171bf/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag907db84583a45a311e217f52448b25164h",
+          "55-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-21_otakuvid_sub": "https://otakuvid.online/embed/afrvekhbta5u",
+          "55-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-21_vibeplayer_dub": "https://vibeplayer.site/16d598065f3eb956",
+          "55-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/16d598065f3eb956/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-21_vibeplayer_dub": "https://vibeplayer.site/agbb9894e7789fe8b2804e018e2c17d6414h",
+          "55-malep-21_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-21_otakuvid_dub": "https://otakuvid.online/embed/b4gsiv25x57l",
+          "55-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-21_vibeplayer_hsub": "https://vibeplayer.site/5a60e4a4ea20d607",
+          "55-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5a60e4a4ea20d607/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-21_vibeplayer_hsub": "https://vibeplayer.site/agd6f6c13b9f47ecfbbf8c365121c10dd54h",
+          "55-malep-21_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/jbtgb8tminc3",
+          "55-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-21_playmogo_hsub": "https://playmogo.com/e/1m2uz4f8axfn",
+          "55-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hiding in the Shadows",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-22",
+      "sub": {
+        "HD-1": {
+          "55-malep-22_vibeplayer_sub": "https://vibeplayer.site/275da658f25998a3",
+          "55-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/275da658f25998a3/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-22_vibeplayer_sub": "https://vibeplayer.site/ag11c9dc4d395aaa38769a5c37bb7d03fd4h",
+          "55-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-22_otakuvid_sub": "https://otakuvid.online/embed/gizxyugr4h8c",
+          "55-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-22_vibeplayer_dub": "https://vibeplayer.site/07ed73e39315a913",
+          "55-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07ed73e39315a913/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-22_vibeplayer_dub": "https://vibeplayer.site/ag1326593b4ff5d8d987679e4e1257eb2e4h",
+          "55-malep-22_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-22_otakuvid_dub": "https://otakuvid.online/embed/alh73e8x2zfz",
+          "55-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-22_vibeplayer_hsub": "https://vibeplayer.site/152728177170eef3",
+          "55-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/152728177170eef3/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-22_vibeplayer_hsub": "https://vibeplayer.site/age1829a203d39395367d824cabef413d64h",
+          "55-malep-22_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/hulj9wjpkbef",
+          "55-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-22_playmogo_hsub": "https://playmogo.com/e/31etjeu5wy7d",
+          "55-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Frozen Eyes",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-23",
+      "sub": {
+        "HD-1": {
+          "55-malep-23_vibeplayer_sub": "https://vibeplayer.site/5c550f47b34d693a",
+          "55-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5c550f47b34d693a/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-23_vibeplayer_sub": "https://vibeplayer.site/ag756587d9375b28a3193141d4113a96be4h",
+          "55-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-23_otakuvid_sub": "https://otakuvid.online/embed/w9d19qa64pgi",
+          "55-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-23_vibeplayer_dub": "https://vibeplayer.site/4c167ebc903209ee",
+          "55-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c167ebc903209ee/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-23_vibeplayer_dub": "https://vibeplayer.site/ag2aae34322ae93308529c931271264e8b4h",
+          "55-malep-23_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-23_otakuvid_dub": "https://otakuvid.online/embed/17rsr4l2ddzl",
+          "55-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-23_vibeplayer_hsub": "https://vibeplayer.site/6eff3b16a459b8e1",
+          "55-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6eff3b16a459b8e1/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-23_vibeplayer_hsub": "https://vibeplayer.site/agfa19e083ee498634c4572cfd907ce7d74h",
+          "55-malep-23_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/2wdk36nccbaz",
+          "55-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-23_playmogo_hsub": "https://playmogo.com/e/9ctouezunq7c",
+          "55-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Quickening of the Darkness",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-24",
+      "sub": {
+        "HD-1": {
+          "55-malep-24_vibeplayer_sub": "https://vibeplayer.site/e9a132817711546b",
+          "55-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e9a132817711546b/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-24_vibeplayer_sub": "https://vibeplayer.site/ag61a59386498d89e8ec5a69e347943d464h",
+          "55-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-24_otakuvid_sub": "https://otakuvid.online/embed/392w2efyr2qk",
+          "55-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-24_vibeplayer_dub": "https://vibeplayer.site/177c3ede6bbc5b5d",
+          "55-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/177c3ede6bbc5b5d/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-24_vibeplayer_dub": "https://vibeplayer.site/ag3c66249be28aaade749af60194b23d7e4h",
+          "55-malep-24_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-24_otakuvid_dub": "https://otakuvid.online/embed/q24gv5o7qab6",
+          "55-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-24_vibeplayer_hsub": "https://vibeplayer.site/7419513bfb9a5128",
+          "55-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7419513bfb9a5128/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-24_vibeplayer_hsub": "https://vibeplayer.site/ag5d3c71350a91ca6c29b3684029122bb24h",
+          "55-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/ty54cdkjfk69",
+          "55-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-24_playmogo_hsub": "https://playmogo.com/e/ksf11vso5lp5",
+          "55-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Holy Ark",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-25",
+      "sub": {
+        "HD-1": {
+          "55-malep-25_vibeplayer_sub": "https://vibeplayer.site/ca8e5c598a6de2ed",
+          "55-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca8e5c598a6de2ed/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-25_vibeplayer_sub": "https://vibeplayer.site/agebcc4d050759b1e755c10e8bef110f1b4h",
+          "55-malep-25_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-25_otakuvid_sub": "https://otakuvid.online/embed/d8hnmgoz1cxs",
+          "55-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-25_vibeplayer_dub": "https://vibeplayer.site/b70554d2b72688a4",
+          "55-malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b70554d2b72688a4/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-25_vibeplayer_dub": "https://vibeplayer.site/agadd469ea4deb82bd743fef6b163a87c34h",
+          "55-malep-25_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-25_otakuvid_dub": "https://otakuvid.online/embed/ixczckk51d4a",
+          "55-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-25_vibeplayer_hsub": "https://vibeplayer.site/5cf75d2879263103",
+          "55-malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5cf75d2879263103/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-25_vibeplayer_hsub": "https://vibeplayer.site/ag415b3d105928fa55a3b01cd435f5e52e4h",
+          "55-malep-25_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-25_otakuvid_hsub": "https://otakuvid.online/embed/0euw42axrrq4",
+          "55-malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-25_playmogo_hsub": "https://playmogo.com/e/n5tncss9j5pz",
+          "55-malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shining Boy",
+      "episode_url": "https://hianime.ad/watch/arc-the-lad/ep-26",
+      "sub": {
+        "HD-1": {
+          "55-malep-26_vibeplayer_sub": "https://vibeplayer.site/e254bbb0e804025b",
+          "55-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e254bbb0e804025b/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-26_vibeplayer_sub": "https://vibeplayer.site/ag18da9cf1c176eacc590adc0fc2e686c34h",
+          "55-malep-26_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-26_otakuvid_sub": "https://otakuvid.online/embed/3erg7g1n9g0l",
+          "55-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55-malep-26_vibeplayer_dub": "https://vibeplayer.site/d0c8ccc7934ab3b9",
+          "55-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d0c8ccc7934ab3b9/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-26_vibeplayer_dub": "https://vibeplayer.site/ag78793c401e44bf371e49ae3ecf6d94c34h",
+          "55-malep-26_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-26_otakuvid_dub": "https://otakuvid.online/embed/ush9a782anh0",
+          "55-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55-malep-26_vibeplayer_hsub": "https://vibeplayer.site/6c800f82e9193c3d",
+          "55-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6c800f82e9193c3d/master.m3u8"
+        },
+        "HD-2": {
+          "55-malep-26_vibeplayer_hsub": "https://vibeplayer.site/ag5db88c4a8e628809173d1aeb086a39464h",
+          "55-malep-26_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/l94scup8z2hf",
+          "55-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55-malep-26_playmogo_hsub": "https://playmogo.com/e/p6fevnj5eihj",
+          "55-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

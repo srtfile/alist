@@ -1,0 +1,40 @@
+{
+  "anime_name": "Keio Flying Squadron",
+  "anime_url": "https://hianime.ad/anime/keio-flying-squadron",
+  "slug": "keio-flying-squadron",
+  "mal_id": 32686,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:13:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Setouchi Keijo Training School!!!!",
+      "episode_url": "https://hianime.ad/watch/keio-flying-squadron/ep-1",
+      "sub": {
+        "HD-1": {
+          "32686-malep-1_vibeplayer_sub": "https://vibeplayer.site/e77eb0d4239446bc",
+          "32686-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e77eb0d4239446bc/master.m3u8"
+        },
+        "Earnvids": {
+          "32686-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y57wpjd2kzy3",
+          "32686-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32686-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e3acb5f74b046b82",
+          "32686-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e3acb5f74b046b82/master.m3u8"
+        },
+        "Earnvids": {
+          "32686-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/76puwxy1yr2g",
+          "32686-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32686-malep-1_playmogo_hsub": "https://playmogo.com/e/b990qc3jip3r",
+          "32686-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

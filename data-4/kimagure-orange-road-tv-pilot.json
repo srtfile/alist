@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kimagure Orange Road Tv Pilot",
+  "anime_url": "https://hianime.ad/anime/kimagure-orange-road-tv-pilot",
+  "slug": "kimagure-orange-road-tv-pilot",
+  "mal_id": 1087,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:36:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Transfer Student! ‘Tis Embarassing to Say, But I’ll Fall in Love For the First Time",
+      "episode_url": "https://hianime.ad/watch/kimagure-orange-road-tv-pilot/ep-1",
+      "sub": {
+        "HD-1": {
+          "1087-malep-1_vibeplayer_sub": "https://vibeplayer.site/bd60893a78b7bb1e",
+          "1087-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd60893a78b7bb1e/master.m3u8"
+        },
+        "Earnvids": {
+          "1087-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wryxwdypkxwd",
+          "1087-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1087-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0024eff708f363f",
+          "1087-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0024eff708f363f/master.m3u8"
+        },
+        "StreamHG": {
+          "1087-malep-1_otakuhg_hsub": "https://otakuhg.site/e/k9uhckm9jno4",
+          "1087-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1087-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/btxdcz2pi9wg",
+          "1087-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1087-malep-1_playmogo_hsub": "https://playmogo.com/e/ssnzisrdm60l",
+          "1087-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

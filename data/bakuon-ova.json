@@ -1,0 +1,89 @@
+{
+  "anime_name": "Bakuon Ova",
+  "anime_url": "https://hianime.ad/anime/bakuon-ova",
+  "slug": "bakuon-ova",
+  "mal_id": 30795,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T22:25:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Club Registration!!",
+      "episode_url": "https://hianime.ad/watch/bakuon-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "30795-malep-1_vibeplayer_sub": "https://vibeplayer.site/5a04c3ed3842378a",
+          "30795-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a04c3ed3842378a/master.m3u8"
+        },
+        "HD-2": {
+          "30795-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0c3c20155a44179a34f783ab863c4ef44h",
+          "30795-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "30795-malep-1_otakuhg_sub": "https://otakuhg.site/e/g9wbzs424r96",
+          "30795-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30795-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jugo2ycxmhpf",
+          "30795-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30795-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77652aaf602c7621",
+          "30795-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77652aaf602c7621/master.m3u8"
+        },
+        "HD-2": {
+          "30795-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag55fd953084ecc358d063ca1ac606ab2f4h",
+          "30795-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30795-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a5sovya0oc9h",
+          "30795-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30795-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xx6okmyujevt",
+          "30795-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "School!!",
+      "episode_url": "https://hianime.ad/watch/bakuon-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "30795-malep-2_vibeplayer_sub": "https://vibeplayer.site/fe258a3d91f84908",
+          "30795-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fe258a3d91f84908/master.m3u8"
+        },
+        "HD-2": {
+          "30795-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag832c75d9a758bb4d479ff4373732a4944h",
+          "30795-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30795-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vsp8h88935ju",
+          "30795-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30795-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8d135d15b012df0d",
+          "30795-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8d135d15b012df0d/master.m3u8"
+        },
+        "HD-2": {
+          "30795-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag3ffec463c49f69a546b5919c22d5d59e4h",
+          "30795-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30795-malep-2_otakuhg_hsub": "https://otakuhg.site/e/4m4vf71dz9zo",
+          "30795-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30795-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/9sn11vls1yap",
+          "30795-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

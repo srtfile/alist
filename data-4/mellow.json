@@ -1,0 +1,44 @@
+{
+  "anime_name": "Mellow",
+  "anime_url": "https://hianime.ad/anime/mellow",
+  "slug": "mellow",
+  "mal_id": 38959,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T10:50:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Babylon, The Condemned, and the Memories of the King",
+      "episode_url": "https://hianime.ad/watch/mellow/ep-1",
+      "sub": {
+        "HD-1": {
+          "38959-malep-1_vibeplayer_sub": "https://vibeplayer.site/79f034e2d9ca4aa0",
+          "38959-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79f034e2d9ca4aa0/master.m3u8"
+        },
+        "Earnvids": {
+          "38959-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1rii7sbpdnrr",
+          "38959-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38959-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a67059031d69fbd5",
+          "38959-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a67059031d69fbd5/master.m3u8"
+        },
+        "StreamHG": {
+          "38959-malep-1_otakuhg_hsub": "https://otakuhg.site/e/eem1n0zpcd3u",
+          "38959-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38959-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q1jzmgznnpdb",
+          "38959-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38959-malep-1_playmogo_hsub": "https://playmogo.com/e/8mim85kz7r4k",
+          "38959-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

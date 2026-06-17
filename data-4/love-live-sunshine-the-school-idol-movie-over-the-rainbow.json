@@ -1,0 +1,53 @@
+{
+  "anime_name": "Love Live Sunshine The School Idol Movie Over The Rainbow",
+  "anime_url": "https://hianime.ad/anime/love-live-sunshine-the-school-idol-movie-over-the-rainbow",
+  "slug": "love-live-sunshine-the-school-idol-movie-over-the-rainbow",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:43:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/love-live-sunshine-the-school-idol-movie-over-the-rainbow/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b968dc03e7ffe58c",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b968dc03e7ffe58c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/h607lc1mwi4h",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/qo6xgeaaix89",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/dbf0915eafb41fd7",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dbf0915eafb41fd7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/d5ezxqvzkaop",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/94d1ca6121d45379",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94d1ca6121d45379/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xnb9t4rezyst",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qo4i6loldq21",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

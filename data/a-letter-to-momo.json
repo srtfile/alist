@@ -1,0 +1,73 @@
+{
+  "anime_name": "A Letter To Momo",
+  "anime_url": "https://hianime.ad/anime/a-letter-to-momo",
+  "slug": "a-letter-to-momo",
+  "mal_id": 2924,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:32:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Eve",
+      "episode_url": "https://hianime.ad/watch/a-letter-to-momo/ep-1",
+      "sub": {
+        "HD-1": {
+          "2924-malep-1_vibeplayer_sub": "https://vibeplayer.site/19cd7fc3e23f593c",
+          "2924-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/19cd7fc3e23f593c/master.m3u8"
+        },
+        "HD-2": {
+          "2924-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1266ab4c9cfd5a80ee35704536718be34h",
+          "2924-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "2924-malep-1_otakuhg_sub": "https://otakuhg.site/e/y09jvwpcwdk5",
+          "2924-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2924-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qe24slbqhs24",
+          "2924-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2924-malep-1_vibeplayer_dub": "https://vibeplayer.site/ed90b0478cb61e4c",
+          "2924-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed90b0478cb61e4c/master.m3u8"
+        },
+        "HD-2": {
+          "2924-malep-1_vibeplayer_dub": "https://vibeplayer.site/agb81a00e1448425afd0a26c892d0fcfb84h",
+          "2924-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "2924-malep-1_otakuhg_dub": "https://otakuhg.site/e/qew3kzp33d2w",
+          "2924-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2924-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pfnt8lr9nfyr",
+          "2924-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2924-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6649518da6112822",
+          "2924-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6649518da6112822/master.m3u8"
+        },
+        "HD-2": {
+          "2924-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf88770bd0e96cc153d649c287ce6cf874h",
+          "2924-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2924-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mlevi9dd20nv",
+          "2924-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2924-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fas0kzohst8s",
+          "2924-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2924-malep-1_playmogo_hsub": "https://playmogo.com/e/9ggie0m8e1kv",
+          "2924-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

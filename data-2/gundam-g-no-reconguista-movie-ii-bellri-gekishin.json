@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gundam G No Reconguista Movie Ii Bellri Gekishin",
+  "anime_url": "https://hianime.ad/anime/gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+  "slug": "gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+  "mal_id": 23259,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:20:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Mysterious Mobile Suit",
+      "episode_url": "https://hianime.ad/watch/gundam-g-no-reconguista-movie-ii-bellri-gekishin/ep-1",
+      "sub": {
+        "HD-1": {
+          "23259-malep-1_vibeplayer_sub": "https://vibeplayer.site/e0a469c9adcdbf9f",
+          "23259-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0a469c9adcdbf9f/master.m3u8"
+        },
+        "Earnvids": {
+          "23259-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lm42b21ogt03",
+          "23259-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "23259-malep-1_playmogo_sub": "https://playmogo.com/e/rv3x12ijdl0e",
+          "23259-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23259-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ec40b2053b648484",
+          "23259-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec40b2053b648484/master.m3u8"
+        },
+        "StreamHG": {
+          "23259-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9foymkn66oe8",
+          "23259-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23259-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jh9p2kvc5ane",
+          "23259-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23259-malep-1_playmogo_hsub": "https://playmogo.com/e/o3dc4exwlbr1",
+          "23259-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

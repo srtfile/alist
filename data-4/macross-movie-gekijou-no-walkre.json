@@ -1,0 +1,52 @@
+{
+  "anime_name": "Macross Movie Gekijou No Walkre",
+  "anime_url": "https://hianime.ad/anime/macross-movie-gekijou-no-walkre",
+  "slug": "macross-movie-gekijou-no-walkre",
+  "mal_id": 1088,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:17:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/macross-movie-gekijou-no-walkre/ep-1",
+      "sub": {
+        "HD-1": {
+          "1088-malep-1_vibeplayer_sub": "https://vibeplayer.site/c8d4851735b85761",
+          "1088-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c8d4851735b85761/master.m3u8"
+        },
+        "StreamHG": {
+          "1088-malep-1_otakuhg_sub": "https://otakuhg.site/e/fc400zcmmrjn",
+          "1088-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1088-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7po2bd0h9274",
+          "1088-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1088-malep-1_playmogo_sub": "https://playmogo.com/e/xhz890icgn9a",
+          "1088-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1088-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3b3f577439846e33",
+          "1088-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b3f577439846e33/master.m3u8"
+        },
+        "StreamHG": {
+          "1088-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wswhbj83dorf",
+          "1088-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1088-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/36xqzr22ywwv",
+          "1088-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1088-malep-1_playmogo_hsub": "https://playmogo.com/e/hcedbdw6lcuq",
+          "1088-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

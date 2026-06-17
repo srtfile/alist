@@ -1,0 +1,65 @@
+{
+  "anime_name": "Devilman The Demon Bird",
+  "anime_url": "https://hianime.ad/anime/devilman-the-demon-bird",
+  "slug": "devilman-the-demon-bird",
+  "mal_id": 53434,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:19:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First Love Is Like a Nasty Disease That Everyone Catches Once",
+      "episode_url": "https://hianime.ad/watch/devilman-the-demon-bird/ep-1",
+      "sub": {
+        "HD-1": {
+          "53434-malep-1_vibeplayer_sub": "https://vibeplayer.site/36fab54b001eefcb",
+          "53434-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36fab54b001eefcb/master.m3u8"
+        },
+        "HD-2": {
+          "53434-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4c12064c7691298c93b0764c8b1439ec4h",
+          "53434-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53434-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jztjog284p1t",
+          "53434-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53434-malep-1_vibeplayer_dub": "https://vibeplayer.site/f2625f9c3641a916",
+          "53434-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f2625f9c3641a916/master.m3u8"
+        },
+        "HD-2": {
+          "53434-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag6f2ae5c409d48d10d0868eda1709621c4h",
+          "53434-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "53434-malep-1_otakuhg_dub": "https://otakuhg.site/e/d1kp15wsvt3u",
+          "53434-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53434-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ld2aqkqg0mip",
+          "53434-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53434-malep-1_vibeplayer_hsub": "https://vibeplayer.site/51bc6b529a9b2910",
+          "53434-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/51bc6b529a9b2910/master.m3u8"
+        },
+        "HD-2": {
+          "53434-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1b7a663c262b6e65f5e6deb841b7c5774h",
+          "53434-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53434-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wkhx33mvjdhu",
+          "53434-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53434-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/68oaohqij8i4",
+          "53434-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

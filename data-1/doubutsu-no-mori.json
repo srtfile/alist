@@ -1,0 +1,60 @@
+{
+  "anime_name": "Doubutsu No Mori",
+  "anime_url": "https://hianime.ad/anime/doubutsu-no-mori",
+  "slug": "doubutsu-no-mori",
+  "mal_id": 4514,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:13:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First Friend",
+      "episode_url": "https://hianime.ad/watch/doubutsu-no-mori/ep-1",
+      "sub": {
+        "HD-1": {
+          "4514-malep-1_vibeplayer_sub": "https://vibeplayer.site/f3e2b353abae944a",
+          "4514-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f3e2b353abae944a/master.m3u8"
+        },
+        "HD-2": {
+          "4514-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag59d4845cb3d27a6fe6865f7148055a4a4h",
+          "4514-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "4514-malep-1_otakuhg_sub": "https://otakuhg.site/e/852zpei8kj2y",
+          "4514-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4514-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2c63jhvbac9v",
+          "4514-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "4514-malep-1_playmogo_sub": "https://playmogo.com/e/apgtxky81xf1",
+          "4514-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4514-malep-1_vibeplayer_hsub": "https://vibeplayer.site/01bb40a32c55035f",
+          "4514-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/01bb40a32c55035f/master.m3u8"
+        },
+        "HD-2": {
+          "4514-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaa2be3d6b141eb643567b89cc05d32744h",
+          "4514-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4514-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bxtdruewe86z",
+          "4514-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4514-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5zhwsmh0jgoj",
+          "4514-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4514-malep-1_playmogo_hsub": "https://playmogo.com/e/u379huhugeaj",
+          "4514-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

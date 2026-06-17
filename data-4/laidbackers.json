@@ -1,0 +1,44 @@
+{
+  "anime_name": "Laidbackers",
+  "anime_url": "https://hianime.ad/anime/laidbackers",
+  "slug": "laidbackers",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:18:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/laidbackers/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/1f20f80f041b5088",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f20f80f041b5088/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1584su1j4wji",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/pzaghpql3q7t",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f66a9eefeba00b8d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f66a9eefeba00b8d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sm9fr8k4sdtu",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/w8glrw07ch3r",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

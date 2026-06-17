@@ -1,0 +1,57 @@
+{
+  "anime_name": "Ghost Sweeper Mikami Movie",
+  "anime_url": "https://hianime.ad/anime/ghost-sweeper-mikami-movie",
+  "slug": "ghost-sweeper-mikami-movie",
+  "mal_id": 2400,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:37:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Here Comes the Super Sexy Exorcist!",
+      "episode_url": "https://hianime.ad/watch/ghost-sweeper-mikami-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2400-malep-1_vibeplayer_sub": "https://vibeplayer.site/88697d7c2b4da9ac",
+          "2400-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88697d7c2b4da9ac/master.m3u8"
+        },
+        "Earnvids": {
+          "2400-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hq659nrgjbum",
+          "2400-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2400-malep-1_playmogo_sub": "https://playmogo.com/e/g3eo57kqmken",
+          "2400-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2400-malep-1_vibeplayer_dub": "https://vibeplayer.site/aca4f82bc594fe8a",
+          "2400-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aca4f82bc594fe8a/master.m3u8"
+        },
+        "Earnvids": {
+          "2400-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vq0qhmwl5xg6",
+          "2400-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2400-malep-1_playmogo_dub": "https://playmogo.com/e/135maikylwpz",
+          "2400-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2400-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1b2efce0b6bdecc7",
+          "2400-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1b2efce0b6bdecc7/master.m3u8"
+        },
+        "Earnvids": {
+          "2400-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qhrxrue0cyf7",
+          "2400-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2400-malep-1_playmogo_hsub": "https://playmogo.com/e/lkymyw9189gz",
+          "2400-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

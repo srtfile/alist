@@ -1,0 +1,52 @@
+{
+  "anime_name": "Garaga",
+  "anime_url": "https://hianime.ad/anime/garaga",
+  "slug": "garaga",
+  "mal_id": 973,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:53:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Like a Shooting Star",
+      "episode_url": "https://hianime.ad/watch/garaga/ep-1",
+      "sub": {
+        "HD-1": {
+          "973-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4e100d5a1b729af",
+          "973-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4e100d5a1b729af/master.m3u8"
+        },
+        "HD-2": {
+          "973-malep-1_vibeplayer_sub": "https://vibeplayer.site/ageacdef38aeff5116d537e6c99cb48d244h",
+          "973-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "973-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0p29tj5q0063",
+          "973-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "973-malep-1_playmogo_sub": "https://playmogo.com/e/rigo95ldlexy",
+          "973-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "973-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1380bbf2058dfb3c",
+          "973-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1380bbf2058dfb3c/master.m3u8"
+        },
+        "HD-2": {
+          "973-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag392998e00b7f38149980d0fd19e01d7f4h",
+          "973-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "973-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o6i30ly0pimp",
+          "973-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "973-malep-1_playmogo_hsub": "https://playmogo.com/e/ax8bd6rs4d1v",
+          "973-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

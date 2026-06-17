@@ -1,0 +1,56 @@
+{
+  "anime_name": "Amon Devilman Mokushiroku",
+  "anime_url": "https://hianime.ad/anime/amon-devilman-mokushiroku",
+  "slug": "amon-devilman-mokushiroku",
+  "mal_id": 5628,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:17:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/amon-devilman-mokushiroku/ep-1",
+      "sub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/78c044675e8811d7",
+          "5628-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/78c044675e8811d7/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7775e17103d1bf713471415b6222c8604h",
+          "5628-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tbjby3qv973p",
+          "5628-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "5628-malep-1_playmogo_sub": "https://playmogo.com/e/fxz90teu99o6",
+          "5628-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b247a09e23c86b50",
+          "5628-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b247a09e23c86b50/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag390f4cd0d7375257fc30c206c68410434h",
+          "5628-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "5628-malep-1_otakuhg_hsub": "https://otakuhg.site/e/y51rrzt47mp4",
+          "5628-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t6c5yxllttdf",
+          "5628-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5628-malep-1_playmogo_hsub": "https://playmogo.com/e/9rghjb3u6ato",
+          "5628-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

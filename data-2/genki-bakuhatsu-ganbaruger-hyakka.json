@@ -1,0 +1,44 @@
+{
+  "anime_name": "Genki Bakuhatsu Ganbaruger Hyakka",
+  "anime_url": "https://hianime.ad/anime/genki-bakuhatsu-ganbaruger-hyakka",
+  "slug": "genki-bakuhatsu-ganbaruger-hyakka",
+  "mal_id": 2916,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:19:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Robots Pending!",
+      "episode_url": "https://hianime.ad/watch/genki-bakuhatsu-ganbaruger-hyakka/ep-1",
+      "sub": {
+        "HD-1": {
+          "2916-malep-1_vibeplayer_sub": "https://vibeplayer.site/4f23b37b5e0e5a91",
+          "2916-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f23b37b5e0e5a91/master.m3u8"
+        },
+        "Earnvids": {
+          "2916-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6lo74jwtfr3i",
+          "2916-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2916-malep-1_vibeplayer_hsub": "https://vibeplayer.site/34759452ba12e754",
+          "2916-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/34759452ba12e754/master.m3u8"
+        },
+        "StreamHG": {
+          "2916-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a388aniey785",
+          "2916-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2916-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4oe4tctku8fd",
+          "2916-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2916-malep-1_playmogo_hsub": "https://playmogo.com/e/rg1zajcl3gei",
+          "2916-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

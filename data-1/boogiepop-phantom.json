@@ -1,0 +1,625 @@
+{
+  "anime_name": "Boogiepop Phantom",
+  "anime_url": "https://hianime.ad/anime/boogiepop-phantom",
+  "slug": "boogiepop-phantom",
+  "mal_id": 369,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T03:23:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Portraits from Memory",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-1",
+      "sub": {
+        "HD-1": {
+          "369-malep-1_vibeplayer_sub": "https://vibeplayer.site/a11b107ad3a3f93a",
+          "369-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a11b107ad3a3f93a/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4d0fb42af52084b0006084d9e31ca8fe4h",
+          "369-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-1_otakuhg_sub": "https://otakuhg.site/e/v31aig8x3zlu",
+          "369-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3gcczrzo5vz2",
+          "369-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-1_vibeplayer_dub": "https://vibeplayer.site/4347b70519e5a68c",
+          "369-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4347b70519e5a68c/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag7c056e1467d5b6b5000c17ae992deb844h",
+          "369-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-1_otakuhg_dub": "https://otakuhg.site/e/ypaqm0oyyg6c",
+          "369-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9jljf0w0wiws",
+          "369-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6fa289c9321841c6",
+          "369-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6fa289c9321841c6/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agef429ac30d48bc42cb7af7d1d6ef02524h",
+          "369-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q76h1fyfog7v",
+          "369-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ujfbv5nydlel",
+          "369-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-1_playmogo_hsub": "https://playmogo.com/e/vlf30wveyuxu",
+          "369-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Light in Darkness",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-2",
+      "sub": {
+        "HD-1": {
+          "369-malep-2_vibeplayer_sub": "https://vibeplayer.site/6a370787982ad4fe",
+          "369-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6a370787982ad4fe/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-2_vibeplayer_sub": "https://vibeplayer.site/agfa54602f72a4f53e8159c237afb9eeb74h",
+          "369-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-2_otakuhg_sub": "https://otakuhg.site/e/k7k7vg36luy4",
+          "369-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-2_otakuvid_sub": "https://otakuvid.online/embed/zllevu9jelwf",
+          "369-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-2_vibeplayer_dub": "https://vibeplayer.site/af89d7a7c0c8f47b",
+          "369-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/af89d7a7c0c8f47b/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag65b9f8edcfa7a7d6d13fef342ba601134h",
+          "369-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-2_otakuvid_dub": "https://otakuvid.online/embed/ywz7tf057e3t",
+          "369-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Life Can Be So Nice",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-3",
+      "sub": {
+        "HD-1": {
+          "369-malep-3_vibeplayer_sub": "https://vibeplayer.site/3dda24c172eaa5cf",
+          "369-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3dda24c172eaa5cf/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-3_vibeplayer_sub": "https://vibeplayer.site/agd2f7932698f03c0f9ed5e51ee85362d64h",
+          "369-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-3_otakuhg_sub": "https://otakuhg.site/e/rzt2q771u05x",
+          "369-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-3_otakuvid_sub": "https://otakuvid.online/embed/aps15ek7hvch",
+          "369-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-3_vibeplayer_dub": "https://vibeplayer.site/b13df30e485cb876",
+          "369-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b13df30e485cb876/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-3_vibeplayer_dub": "https://vibeplayer.site/age2ce740b95d166e8352ec30aaf7d457e4h",
+          "369-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-3_otakuvid_dub": "https://otakuvid.online/embed/l7cbrllp7nzs",
+          "369-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-3_vibeplayer_hsub": "https://vibeplayer.site/a84573798f54d51b",
+          "369-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a84573798f54d51b/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag86f45723dd516b1e85172e7a729358034h",
+          "369-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-3_otakuhg_hsub": "https://otakuhg.site/e/4ragl9lji364",
+          "369-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/phu475z44zk0",
+          "369-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-3_playmogo_hsub": "https://playmogo.com/e/mdvdi43ksr9i",
+          "369-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "My Fair Lady",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-4",
+      "sub": {
+        "HD-1": {
+          "369-malep-4_vibeplayer_sub": "https://vibeplayer.site/515f2a023c58995c",
+          "369-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/515f2a023c58995c/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag7f2823903e12093c3f0e197dee631af24h",
+          "369-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-4_otakuvid_sub": "https://otakuvid.online/embed/e7zplsu0l8gd",
+          "369-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-4_vibeplayer_dub": "https://vibeplayer.site/3e1ed325262f8261",
+          "369-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3e1ed325262f8261/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag2abafdc5c080f81a93c3945ec87ab01d4h",
+          "369-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-4_otakuvid_dub": "https://otakuvid.online/embed/brjbvb6d9dbj",
+          "369-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-4_vibeplayer_hsub": "https://vibeplayer.site/06dc6993248414ee",
+          "369-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/06dc6993248414ee/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-4_vibeplayer_hsub": "https://vibeplayer.site/agfee779b3d10961501e95bf14e0bae62d4h",
+          "369-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-4_otakuhg_hsub": "https://otakuhg.site/e/01ecypfmhn36",
+          "369-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/v6kaixlb4ots",
+          "369-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-4_playmogo_hsub": "https://playmogo.com/e/nve33hdflzde",
+          "369-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Interlude",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-5",
+      "sub": {
+        "HD-1": {
+          "369-malep-5_vibeplayer_sub": "https://vibeplayer.site/d3dcc0bbe753aff7",
+          "369-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3dcc0bbe753aff7/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-5_vibeplayer_sub": "https://vibeplayer.site/agb36efcb92ae19ea1ca74deb22901fa2e4h",
+          "369-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-5_otakuvid_sub": "https://otakuvid.online/embed/aaqcxcondy85",
+          "369-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-5_vibeplayer_dub": "https://vibeplayer.site/5332b075d05e3beb",
+          "369-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5332b075d05e3beb/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag81b0f476bb362972a98da29d3d0dcecb4h",
+          "369-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-5_otakuvid_dub": "https://otakuvid.online/embed/hzcu8r04crh1",
+          "369-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-5_vibeplayer_hsub": "https://vibeplayer.site/136f3012e8588b88",
+          "369-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/136f3012e8588b88/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-5_vibeplayer_hsub": "https://vibeplayer.site/age421c1c83a6c69a135c38f803a764b6d4h",
+          "369-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-5_otakuhg_hsub": "https://otakuhg.site/e/f6823rob7nei",
+          "369-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ox0m6kl03k6f",
+          "369-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-5_playmogo_hsub": "https://playmogo.com/e/v48npn4tjg3z",
+          "369-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mother's Day",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-6",
+      "sub": {
+        "HD-1": {
+          "369-malep-6_vibeplayer_sub": "https://vibeplayer.site/2c729ce5ed734e40",
+          "369-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c729ce5ed734e40/master.m3u8"
+        },
+        "StreamHG": {
+          "369-malep-6_otakuhg_sub": "https://otakuhg.site/e/k0uskrf20xyk",
+          "369-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-6_otakuvid_sub": "https://otakuvid.online/embed/b4wiaqhc9t81",
+          "369-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-6_vibeplayer_dub": "https://vibeplayer.site/8dffea6dd2fea734",
+          "369-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8dffea6dd2fea734/master.m3u8"
+        },
+        "Earnvids": {
+          "369-malep-6_otakuvid_dub": "https://otakuvid.online/embed/k7t16bpygyp0",
+          "369-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-6_vibeplayer_hsub": "https://vibeplayer.site/156e1b305449c174",
+          "369-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/156e1b305449c174/master.m3u8"
+        },
+        "StreamHG": {
+          "369-malep-6_otakuhg_hsub": "https://otakuhg.site/e/434xql867kop",
+          "369-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/ei6zb3mieqf3",
+          "369-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-6_playmogo_hsub": "https://playmogo.com/e/h6151xs108if",
+          "369-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Until Ure In My Arms Again",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-7",
+      "sub": {
+        "HD-1": {
+          "369-malep-7_vibeplayer_sub": "https://vibeplayer.site/125d82b03aac5c81",
+          "369-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/125d82b03aac5c81/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag70fda1d92a991ae2bcef973eb61525804h",
+          "369-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-7_otakuhg_sub": "https://otakuhg.site/e/hvggn4ael48e",
+          "369-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-7_otakuvid_sub": "https://otakuvid.online/embed/lhmmwuj8ibs8",
+          "369-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-7_vibeplayer_dub": "https://vibeplayer.site/fbd62877b6690ec9",
+          "369-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fbd62877b6690ec9/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag9ee1b00e3870c98de2aba59c5499967d4h",
+          "369-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-7_otakuvid_dub": "https://otakuvid.online/embed/daq2gf2qoknv",
+          "369-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-7_vibeplayer_hsub": "https://vibeplayer.site/65dcc938b27b36d6",
+          "369-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/65dcc938b27b36d6/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag7160ef33b5520089a72171aa0f2d1bf24h",
+          "369-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-7_otakuhg_hsub": "https://otakuhg.site/e/x7fexgb32zls",
+          "369-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/9pha1bqxlqvi",
+          "369-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-7_playmogo_hsub": "https://playmogo.com/e/lsws2d5a6bdt",
+          "369-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "She's So Unusual",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-8",
+      "sub": {
+        "HD-1": {
+          "369-malep-8_vibeplayer_sub": "https://vibeplayer.site/142e7cff10065848",
+          "369-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/142e7cff10065848/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-8_vibeplayer_sub": "https://vibeplayer.site/agc728bed38d78b5909441f7cdaacfcb294h",
+          "369-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-8_otakuvid_sub": "https://otakuvid.online/embed/0qv1a9mm64de",
+          "369-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-8_vibeplayer_dub": "https://vibeplayer.site/19fa20c78e56eb5a",
+          "369-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19fa20c78e56eb5a/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag005be01316bcb5f36dfb1423293c001a4h",
+          "369-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-8_otakuvid_dub": "https://otakuvid.online/embed/pjdmac5oyjwx",
+          "369-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-8_vibeplayer_hsub": "https://vibeplayer.site/f79e2b3cc8679df5",
+          "369-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f79e2b3cc8679df5/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-8_vibeplayer_hsub": "https://vibeplayer.site/agfb7883b5eba2495f750e788d2c72b3b24h",
+          "369-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-8_otakuhg_hsub": "https://otakuhg.site/e/p5t4grjnqpxi",
+          "369-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/0pz73m7nt1b3",
+          "369-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-8_playmogo_hsub": "https://playmogo.com/e/pfnpmbmm4a15",
+          "369-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "You'll Never Be Young Twice",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-9",
+      "sub": {
+        "HD-1": {
+          "369-malep-9_vibeplayer_sub": "https://vibeplayer.site/aeff254e16a0dc65",
+          "369-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aeff254e16a0dc65/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-9_vibeplayer_sub": "https://vibeplayer.site/ag77b02c8704df12c6033a26fd163cf4744h",
+          "369-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-9_otakuvid_sub": "https://otakuvid.online/embed/luma69tb7hcr",
+          "369-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-9_vibeplayer_dub": "https://vibeplayer.site/bd58ce75edffcace",
+          "369-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bd58ce75edffcace/master.m3u8"
+        },
+        "Earnvids": {
+          "369-malep-9_otakuvid_dub": "https://otakuvid.online/embed/bg13bqak0xtv",
+          "369-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-9_vibeplayer_hsub": "https://vibeplayer.site/9993a12d150f4d40",
+          "369-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9993a12d150f4d40/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag820ad5387b84922911c9cd5532117dc44h",
+          "369-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-9_otakuhg_hsub": "https://otakuhg.site/e/r3w8az9at05g",
+          "369-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/rv92njjv4qv1",
+          "369-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-9_playmogo_hsub": "https://playmogo.com/e/c6i6teqqqmbs",
+          "369-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Poom Poom",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-10",
+      "sub": {
+        "HD-1": {
+          "369-malep-10_vibeplayer_sub": "https://vibeplayer.site/4ea2f0f383028909",
+          "369-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ea2f0f383028909/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag0013c8f410dd48d330699795ef102b234h",
+          "369-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-10_otakuhg_sub": "https://otakuhg.site/e/pkv9gbeoqsmt",
+          "369-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-10_otakuvid_sub": "https://otakuvid.online/embed/2b9joe3zbivb",
+          "369-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-10_vibeplayer_dub": "https://vibeplayer.site/0915c885f8fa7e33",
+          "369-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0915c885f8fa7e33/master.m3u8"
+        },
+        "Earnvids": {
+          "369-malep-10_otakuvid_dub": "https://otakuvid.online/embed/v3qdzd6gbbf8",
+          "369-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Under The Gravity's Rainbow",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-11",
+      "sub": {
+        "HD-1": {
+          "369-malep-11_vibeplayer_sub": "https://vibeplayer.site/84b234b46de2841f",
+          "369-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84b234b46de2841f/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-11_vibeplayer_sub": "https://vibeplayer.site/agbb3bd56f46f241d69d5a16fe6a73cfeb4h",
+          "369-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-11_otakuvid_sub": "https://otakuvid.online/embed/mkosuco99b1n",
+          "369-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-11_vibeplayer_dub": "https://vibeplayer.site/e4e6537716c24b6e",
+          "369-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e4e6537716c24b6e/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag833299826352bf4a6163d7735b084fbf4h",
+          "369-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-11_otakuvid_dub": "https://otakuvid.online/embed/mv0gvj8axnds",
+          "369-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-11_vibeplayer_hsub": "https://vibeplayer.site/e548c9676606562c",
+          "369-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e548c9676606562c/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-11_vibeplayer_hsub": "https://vibeplayer.site/agb47c713ceec10321a0b98ab12fe80e374h",
+          "369-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-11_otakuhg_hsub": "https://otakuhg.site/e/ho8kitgdl800",
+          "369-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/d41ebuztfq84",
+          "369-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-11_playmogo_hsub": "https://playmogo.com/e/cqvk3bo4u8l3",
+          "369-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Requiem",
+      "episode_url": "https://hianime.ad/watch/boogiepop-phantom/ep-12",
+      "sub": {
+        "HD-1": {
+          "369-malep-12_vibeplayer_sub": "https://vibeplayer.site/7aa66c2502481045",
+          "369-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7aa66c2502481045/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag65368e55453f00e693970b4680df35ea4h",
+          "369-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-12_otakuvid_sub": "https://otakuvid.online/embed/pkwrtkru2s0g",
+          "369-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "369-malep-12_vibeplayer_dub": "https://vibeplayer.site/0ae943f8d4c42fef",
+          "369-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ae943f8d4c42fef/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag94dce753a543ae8ab66db23a887ceed74h",
+          "369-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-12_otakuvid_dub": "https://otakuvid.online/embed/zj4kl9ox1fic",
+          "369-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "369-malep-12_vibeplayer_hsub": "https://vibeplayer.site/6c67cece57cb9eba",
+          "369-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6c67cece57cb9eba/master.m3u8"
+        },
+        "HD-2": {
+          "369-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agc493ff0e6f9780f851ff1bec4f8358c14h",
+          "369-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "369-malep-12_otakuhg_hsub": "https://otakuhg.site/e/kbs48roz1qb3",
+          "369-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "369-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/i4sozj7iso4y",
+          "369-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "369-malep-12_playmogo_hsub": "https://playmogo.com/e/04p04iey8ica",
+          "369-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

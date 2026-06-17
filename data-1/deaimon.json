@@ -1,0 +1,425 @@
+{
+  "anime_name": "Deaimon",
+  "anime_url": "https://hianime.ad/anime/deaimon",
+  "slug": "deaimon",
+  "mal_id": 48779,
+  "total_episodes": 12,
+  "captured_at": "2026-06-03T07:51:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Nagomu and Itsuka",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-1",
+      "sub": {
+        "HD-1": {
+          "48779-malep-1_vibeplayer_sub": "https://vibeplayer.site/55cd86406f83b8a5",
+          "48779-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55cd86406f83b8a5/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4a3a065b7e077883ab9966baf5210ed74h",
+          "48779-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ctnm2yi3lysi",
+          "48779-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-1_vibeplayer_hsub": "https://vibeplayer.site/afb61fa092c703db",
+          "48779-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/afb61fa092c703db/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agee71bab5b31d330d3664b336d4cd26fe4h",
+          "48779-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "48779-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zt7jqnlo4iyn",
+          "48779-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7lv93p9xsjgp",
+          "48779-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-1_playmogo_hsub": "https://playmogo.com/e/uc11cpgh6cuy",
+          "48779-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Echoing Through the Hydrangea",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-2",
+      "sub": {
+        "HD-1": {
+          "48779-malep-2_vibeplayer_sub": "https://vibeplayer.site/24a1928a2e1c1d19",
+          "48779-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/24a1928a2e1c1d19/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag40e8b0f3455bb016f2f6388799143b1e4h",
+          "48779-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-2_otakuvid_sub": "https://otakuvid.online/embed/472qptdd136j",
+          "48779-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-2_vibeplayer_hsub": "https://vibeplayer.site/4b1601f71b11fd46",
+          "48779-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b1601f71b11fd46/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agd7cb0b2bb16e65069e75a3af300e9f7d4h",
+          "48779-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/doslsvfk72kf",
+          "48779-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-2_playmogo_hsub": "https://playmogo.com/e/7e4nl50pltwp",
+          "48779-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Summer Night's Accompaniment",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-3",
+      "sub": {
+        "HD-1": {
+          "48779-malep-3_vibeplayer_sub": "https://vibeplayer.site/9bb814bae29e84b8",
+          "48779-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9bb814bae29e84b8/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-3_vibeplayer_sub": "https://vibeplayer.site/agb375e085f4c3b962c99f874346cc960d4h",
+          "48779-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-3_otakuvid_sub": "https://otakuvid.online/embed/tno3rfr4n3qk",
+          "48779-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Blue Wind Rustling Fresh Leaves / Beating the Summer Heat",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-4",
+      "sub": {
+        "HD-1": {
+          "48779-malep-4_vibeplayer_sub": "https://vibeplayer.site/46cd0f05c1a93396",
+          "48779-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46cd0f05c1a93396/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag460a201176cbdbf0f533bc855a7602bb4h",
+          "48779-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-4_otakuvid_sub": "https://otakuvid.online/embed/0z07lsum1grn",
+          "48779-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-4_vibeplayer_hsub": "https://vibeplayer.site/39dc0eb2976c6054",
+          "48779-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39dc0eb2976c6054/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag96e12fa8f24be83fc9616308025e12344h",
+          "48779-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/nsfcbzxcwzcj",
+          "48779-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-4_playmogo_hsub": "https://playmogo.com/e/3g5yqjx2a3sc",
+          "48779-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Welcoming the Spirits",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-5",
+      "sub": {
+        "HD-1": {
+          "48779-malep-5_vibeplayer_sub": "https://vibeplayer.site/5a09b45bfe798d41",
+          "48779-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a09b45bfe798d41/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-5_vibeplayer_sub": "https://vibeplayer.site/ageadd8c41d2ceef1f13ff900d986392754h",
+          "48779-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-5_otakuvid_sub": "https://otakuvid.online/embed/wcie4vauje8t",
+          "48779-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Autumn's Potato Moon",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-6",
+      "sub": {
+        "HD-1": {
+          "48779-malep-6_vibeplayer_sub": "https://vibeplayer.site/d41345f972e126b7",
+          "48779-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d41345f972e126b7/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag633d7ca157f243018e3caac04b186c9e4h",
+          "48779-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-6_otakuvid_sub": "https://otakuvid.online/embed/2eipdegnevhd",
+          "48779-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-6_vibeplayer_hsub": "https://vibeplayer.site/fc20ee328e67eb8a",
+          "48779-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc20ee328e67eb8a/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag49999b77ef3de41452f0ff34d528c2414h",
+          "48779-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/qo9s2u1j7w95",
+          "48779-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-6_playmogo_hsub": "https://playmogo.com/e/5o84rjgdzu0x",
+          "48779-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dancing in Autumn Colors",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-7",
+      "sub": {
+        "HD-1": {
+          "48779-malep-7_vibeplayer_sub": "https://vibeplayer.site/3c72d5ffe64a9cbd",
+          "48779-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c72d5ffe64a9cbd/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag9934b63fb3530af9904b20e5725b3ea94h",
+          "48779-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-7_otakuvid_sub": "https://otakuvid.online/embed/zd50s9wnt1i9",
+          "48779-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-7_vibeplayer_hsub": "https://vibeplayer.site/0594f12261b71ca5",
+          "48779-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0594f12261b71ca5/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag551d071fc096ca906f23963dd7e328e44h",
+          "48779-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/i989wcs85fhn",
+          "48779-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-7_playmogo_hsub": "https://playmogo.com/e/90j0tb0akbwu",
+          "48779-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chestnut Retrospective",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-8",
+      "sub": {
+        "HD-1": {
+          "48779-malep-8_vibeplayer_sub": "https://vibeplayer.site/8481461f27766688",
+          "48779-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8481461f27766688/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag93c054678873d7c528d6d23423a060cd4h",
+          "48779-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-8_otakuvid_sub": "https://otakuvid.online/embed/jo7eyy2nv1b8",
+          "48779-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-8_vibeplayer_hsub": "https://vibeplayer.site/984e2159cc73e242",
+          "48779-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/984e2159cc73e242/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag82fe5fb9314757b54bef2f00787c88eb4h",
+          "48779-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/sr02ndlobo0o",
+          "48779-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-8_playmogo_hsub": "https://playmogo.com/e/vuqhuw5w4zae",
+          "48779-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Long-Awaited Warmth of Spring",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-9",
+      "sub": {
+        "HD-1": {
+          "48779-malep-9_vibeplayer_sub": "https://vibeplayer.site/7db5cf050b799c2e",
+          "48779-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7db5cf050b799c2e/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-9_vibeplayer_sub": "https://vibeplayer.site/agfba6a51624d3148c838075722148724c4h",
+          "48779-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-9_otakuvid_sub": "https://otakuvid.online/embed/l76vsmpp0ach",
+          "48779-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-9_vibeplayer_hsub": "https://vibeplayer.site/c14047f8dfe4d747",
+          "48779-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c14047f8dfe4d747/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag5b7fd268efa5b39dc11da6ac00e74ee14h",
+          "48779-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/ewdx00ozvvwx",
+          "48779-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-9_playmogo_hsub": "https://playmogo.com/e/mbh0cn2s5d6h",
+          "48779-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reminiscing About Waiting for Spring",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-10",
+      "sub": {
+        "HD-1": {
+          "48779-malep-10_vibeplayer_sub": "https://vibeplayer.site/0e5f4ba7118a62c1",
+          "48779-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e5f4ba7118a62c1/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag6553070bdd4f6a2b91b4fee29e11ce4c4h",
+          "48779-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-10_otakuvid_sub": "https://otakuvid.online/embed/j1en7h0k6ch8",
+          "48779-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ddf4eb654b65048b",
+          "48779-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ddf4eb654b65048b/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag39f8d406a5920699af89d40bc3620ec54h",
+          "48779-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/dmervu9z8dix",
+          "48779-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-10_playmogo_hsub": "https://playmogo.com/e/v8e146n3t20x",
+          "48779-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Is It Good",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-11",
+      "sub": {
+        "HD-1": {
+          "48779-malep-11_vibeplayer_sub": "https://vibeplayer.site/f6d33097cee118cc",
+          "48779-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6d33097cee118cc/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag172102b985aa867f74a484a15252b81b4h",
+          "48779-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-11_otakuvid_sub": "https://otakuvid.online/embed/vd01kiv5a28j",
+          "48779-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-11_vibeplayer_hsub": "https://vibeplayer.site/c5f9424a3c45ea7e",
+          "48779-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5f9424a3c45ea7e/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag0979563c1128f50f759e08a4ab9f98214h",
+          "48779-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/kc4i58imxn5f",
+          "48779-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-11_playmogo_hsub": "https://playmogo.com/e/6hcqfm84mr4w",
+          "48779-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Red Sea Bream for a Spring Dawn",
+      "episode_url": "https://hianime.ad/watch/deaimon/ep-12",
+      "sub": {
+        "HD-1": {
+          "48779-malep-12_vibeplayer_sub": "https://vibeplayer.site/3ac66c312a4cfdc5",
+          "48779-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ac66c312a4cfdc5/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag0dd12084dac1c2ec1e4683513c88b9064h",
+          "48779-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-12_otakuvid_sub": "https://otakuvid.online/embed/0lbwrc1euaoi",
+          "48779-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "48779-malep-12_vibeplayer_hsub": "https://vibeplayer.site/0cf7e4cc32c2b357",
+          "48779-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0cf7e4cc32c2b357/master.m3u8"
+        },
+        "HD-2": {
+          "48779-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agca44005e772f5b78550f95348ad2aed04h",
+          "48779-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48779-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/csa57l7g2gus",
+          "48779-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48779-malep-12_playmogo_hsub": "https://playmogo.com/e/qfhzi51bkz1i",
+          "48779-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

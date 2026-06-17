@@ -1,0 +1,81 @@
+{
+  "anime_name": "Initial D Extra Stage",
+  "anime_url": "https://hianime.ad/anime/initial-d-extra-stage",
+  "slug": "initial-d-extra-stage",
+  "mal_id": 185,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T07:01:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ultimate Tofu Store Drift",
+      "episode_url": "https://hianime.ad/watch/initial-d-extra-stage/ep-1",
+      "sub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_sub": "https://vibeplayer.site/31ea0e19269127a7",
+          "185-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/31ea0e19269127a7/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_sub": "https://otakuhg.site/e/xiajlx0i4z08",
+          "185-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a655s23ww04c",
+          "185-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "185-malep-1_playmogo_sub": "https://playmogo.com/e/bj1haxlqj6si",
+          "185-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "185-malep-1_vibeplayer_dub": "https://vibeplayer.site/7b6a0c9cfcf72c65",
+          "185-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7b6a0c9cfcf72c65/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-1_otakuhg_dub": "https://otakuhg.site/e/tetscofxvttm",
+          "185-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ntjxgjp5eh0k",
+          "185-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Revenge! The Rumbling Turbo",
+      "episode_url": "https://hianime.ad/watch/initial-d-extra-stage/ep-2",
+      "sub": {
+        "HD-1": {
+          "185-malep-2_vibeplayer_sub": "https://vibeplayer.site/c1ed0174f7ced884",
+          "185-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1ed0174f7ced884/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-2_otakuhg_sub": "https://otakuhg.site/e/82xxg55c00y8",
+          "185-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-2_otakuvid_sub": "https://otakuvid.online/embed/1h4087rrgrz8",
+          "185-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "185-malep-2_vibeplayer_dub": "https://vibeplayer.site/c96b703a0626c1da",
+          "185-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c96b703a0626c1da/master.m3u8"
+        },
+        "StreamHG": {
+          "185-malep-2_otakuhg_dub": "https://otakuhg.site/e/2q1xbavxdt3l",
+          "185-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "185-malep-2_otakuvid_dub": "https://otakuvid.online/embed/i01u4rl48nr3",
+          "185-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

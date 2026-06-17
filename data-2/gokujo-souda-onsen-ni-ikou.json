@@ -1,0 +1,44 @@
+{
+  "anime_name": "Gokujo Souda Onsen Ni Ikou",
+  "anime_url": "https://hianime.ad/anime/gokujo-souda-onsen-ni-ikou",
+  "slug": "gokujo-souda-onsen-ni-ikou",
+  "mal_id": 3182,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:34:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Goodbye, Hanako-chan",
+      "episode_url": "https://hianime.ad/watch/gokujo-souda-onsen-ni-ikou/ep-1",
+      "sub": {
+        "HD-1": {
+          "3182-malep-1_vibeplayer_sub": "https://vibeplayer.site/f2f37f30800fbe6a",
+          "3182-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f2f37f30800fbe6a/master.m3u8"
+        },
+        "Earnvids": {
+          "3182-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hdklrovtqp9q",
+          "3182-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3182-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe4baebcb344ced4",
+          "3182-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe4baebcb344ced4/master.m3u8"
+        },
+        "StreamHG": {
+          "3182-malep-1_otakuhg_hsub": "https://otakuhg.site/e/459in5fglm8w",
+          "3182-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3182-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8yww9cnujr4i",
+          "3182-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3182-malep-1_playmogo_hsub": "https://playmogo.com/e/39vctqai1nvk",
+          "3182-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

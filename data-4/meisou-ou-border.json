@@ -1,0 +1,40 @@
+{
+  "anime_name": "Meisou Ou Border",
+  "anime_url": "https://hianime.ad/anime/meisou-ou-border",
+  "slug": "meisou-ou-border",
+  "mal_id": 60765,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T08:16:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/meisou-ou-border/ep-1",
+      "sub": {
+        "HD-1": {
+          "60765-malep-1_vibeplayer_sub": "https://vibeplayer.site/4a632a173cd2707c",
+          "60765-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a632a173cd2707c/master.m3u8"
+        },
+        "Earnvids": {
+          "60765-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3d53a0wugt4p",
+          "60765-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60765-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a1c5b4799c45ef27",
+          "60765-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a1c5b4799c45ef27/master.m3u8"
+        },
+        "Earnvids": {
+          "60765-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/868l4r63mtnp",
+          "60765-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60765-malep-1_playmogo_hsub": "https://playmogo.com/e/028etreg4jg1",
+          "60765-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

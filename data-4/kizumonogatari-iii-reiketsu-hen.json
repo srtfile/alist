@@ -1,0 +1,48 @@
+{
+  "anime_name": "Kizumonogatari Iii Reiketsu Hen",
+  "anime_url": "https://hianime.ad/anime/kizumonogatari-iii-reiketsu-hen",
+  "slug": "kizumonogatari-iii-reiketsu-hen",
+  "mal_id": 51569,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:34:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kizumonogatari-iii-reiketsu-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "51569-malep-1_vibeplayer_sub": "https://vibeplayer.site/7169cc3caa691844",
+          "51569-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7169cc3caa691844/master.m3u8"
+        },
+        "StreamHG": {
+          "51569-malep-1_otakuhg_sub": "https://otakuhg.site/e/zkm4xg83e7qy",
+          "51569-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "51569-malep-1_otakuvid_sub": "https://otakuvid.online/embed/za722p984uzs",
+          "51569-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51569-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9053fdbd30a72d0c",
+          "51569-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9053fdbd30a72d0c/master.m3u8"
+        },
+        "StreamHG": {
+          "51569-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fjv4amqx2wz6",
+          "51569-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51569-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lm65w5qaalfq",
+          "51569-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51569-malep-1_playmogo_hsub": "https://playmogo.com/e/4f3qgrihuzfa",
+          "51569-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

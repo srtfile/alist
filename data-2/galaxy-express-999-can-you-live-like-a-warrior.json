@@ -1,0 +1,52 @@
+{
+  "anime_name": "Galaxy Express 999 Can You Live Like A Warrior",
+  "anime_url": "https://hianime.ad/anime/galaxy-express-999-can-you-live-like-a-warrior",
+  "slug": "galaxy-express-999-can-you-live-like-a-warrior",
+  "mal_id": 1491,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:44:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure Ballad",
+      "episode_url": "https://hianime.ad/watch/galaxy-express-999-can-you-live-like-a-warrior/ep-1",
+      "sub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/936872198964e9ae",
+          "1491-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/936872198964e9ae/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb58fede2fcbd2515a22bba3cc5be48f84h",
+          "1491-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v3zzfi3yjmyr",
+          "1491-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f2da3c836546ed32",
+          "1491-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2da3c836546ed32/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd5c57ff5b098e90111e1db5816fc3ec74h",
+          "1491-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1491-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6ecy8pabse0b",
+          "1491-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lb13q66q0rlq",
+          "1491-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1491-malep-1_playmogo_hsub": "https://playmogo.com/e/egmjhwzmkg5z",
+          "1491-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

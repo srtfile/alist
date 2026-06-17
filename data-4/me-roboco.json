@@ -1,0 +1,807 @@
+{
+  "anime_name": "Me Roboco",
+  "anime_url": "https://hianime.ad/anime/me-roboco",
+  "slug": "me-roboco",
+  "mal_id": 51940,
+  "total_episodes": 28,
+  "captured_at": "2026-06-17T08:04:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Bondo & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-1",
+      "sub": {
+        "HD-1": {
+          "51940-malep-1_vibeplayer_sub": "https://vibeplayer.site/d548676b6763d87a",
+          "51940-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d548676b6763d87a/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wi7z5ecksbwl",
+          "51940-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c5ec30bc7fe24eb0",
+          "51940-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5ec30bc7fe24eb0/master.m3u8"
+        },
+        "StreamHG": {
+          "51940-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mj95emsw0hw0",
+          "51940-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51940-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cpq2bjwgqyky",
+          "51940-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-1_playmogo_hsub": "https://playmogo.com/e/ja4pslpa3x1g",
+          "51940-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Meico & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-2",
+      "sub": {
+        "HD-1": {
+          "51940-malep-2_vibeplayer_sub": "https://vibeplayer.site/af8555189f3bf443",
+          "51940-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af8555189f3bf443/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-2_otakuvid_sub": "https://otakuvid.online/embed/sqp4igrrmj2t",
+          "51940-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-2_vibeplayer_hsub": "https://vibeplayer.site/1ae230c1055602ec",
+          "51940-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1ae230c1055602ec/master.m3u8"
+        },
+        "StreamHG": {
+          "51940-malep-2_otakuhg_hsub": "https://otakuhg.site/e/749w8yhdzlvp",
+          "51940-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51940-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/tr9jenkjajfe",
+          "51940-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-2_playmogo_hsub": "https://playmogo.com/e/jr159e6ivq14",
+          "51940-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Her & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-3",
+      "sub": {
+        "HD-1": {
+          "51940-malep-3_vibeplayer_sub": "https://vibeplayer.site/c9dad8c723579214",
+          "51940-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9dad8c723579214/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-3_otakuvid_sub": "https://otakuvid.online/embed/vrmj6bp16281",
+          "51940-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-3_vibeplayer_hsub": "https://vibeplayer.site/4880206cfb7a7a2d",
+          "51940-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4880206cfb7a7a2d/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/mrosgphu0ntw",
+          "51940-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-3_playmogo_hsub": "https://playmogo.com/e/aspqmnuck981",
+          "51940-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Mountains & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-4",
+      "sub": {
+        "HD-1": {
+          "51940-malep-4_vibeplayer_sub": "https://vibeplayer.site/ec074c717132b60c",
+          "51940-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ec074c717132b60c/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-4_otakuvid_sub": "https://otakuvid.online/embed/byjcm5xi1hbq",
+          "51940-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-4_vibeplayer_hsub": "https://vibeplayer.site/019cb441a50f1f43",
+          "51940-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/019cb441a50f1f43/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/0ddtc4obi73g",
+          "51940-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-4_playmogo_hsub": "https://playmogo.com/e/suwm1bq8mipe",
+          "51940-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Roboco? & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-5",
+      "sub": {
+        "HD-1": {
+          "51940-malep-5_vibeplayer_sub": "https://vibeplayer.site/c9c9c3bd23eba0cf",
+          "51940-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9c9c3bd23eba0cf/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-5_otakuvid_sub": "https://otakuvid.online/embed/ypc1bgii2s20",
+          "51940-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-5_playmogo_sub": "https://playmogo.com/e/5d6wq5sdcgrc",
+          "51940-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-5_vibeplayer_hsub": "https://vibeplayer.site/3df6b495d0ece67a",
+          "51940-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3df6b495d0ece67a/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/lls3dsbvmy6c",
+          "51940-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-5_playmogo_hsub": "https://playmogo.com/e/fndruzba7ww3",
+          "51940-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Nyonta &—",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-6",
+      "sub": {
+        "HD-1": {
+          "51940-malep-6_vibeplayer_sub": "https://vibeplayer.site/2640b8baa4f73248",
+          "51940-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2640b8baa4f73248/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-6_otakuvid_sub": "https://otakuvid.online/embed/w27jipc10rzk",
+          "51940-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-6_vibeplayer_hsub": "https://vibeplayer.site/6bb8393ae13ac32f",
+          "51940-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6bb8393ae13ac32f/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/z8yr3ymg0mth",
+          "51940-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-6_playmogo_hsub": "https://playmogo.com/e/n35oifvekh9d",
+          "51940-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Past & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-7",
+      "sub": {
+        "HD-1": {
+          "51940-malep-7_vibeplayer_sub": "https://vibeplayer.site/f35390dd1c6ff9d5",
+          "51940-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f35390dd1c6ff9d5/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-7_otakuvid_sub": "https://otakuvid.online/embed/izbbtusuwyh9",
+          "51940-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-7_vibeplayer_hsub": "https://vibeplayer.site/190c0037a2384826",
+          "51940-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/190c0037a2384826/master.m3u8"
+        },
+        "StreamHG": {
+          "51940-malep-7_otakuhg_hsub": "https://otakuhg.site/e/7xgxipo4ees6",
+          "51940-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51940-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/p4l81527emys",
+          "51940-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-7_playmogo_hsub": "https://playmogo.com/e/omj4vo1taffr",
+          "51940-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Gorilla and Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-8",
+      "sub": {
+        "HD-1": {
+          "51940-malep-8_vibeplayer_sub": "https://vibeplayer.site/94fabaa11b45cf92",
+          "51940-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/94fabaa11b45cf92/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-8_otakuvid_sub": "https://otakuvid.online/embed/o6ze3d4lmii9",
+          "51940-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-8_vibeplayer_hsub": "https://vibeplayer.site/86481ed705e9b785",
+          "51940-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/86481ed705e9b785/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/wj6s7k0fqv9k",
+          "51940-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-8_playmogo_hsub": "https://playmogo.com/e/ksbiz6ojfdxw",
+          "51940-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Secrets & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-9",
+      "sub": {
+        "HD-1": {
+          "51940-malep-9_vibeplayer_sub": "https://vibeplayer.site/63be478fd3f5c3d3",
+          "51940-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/63be478fd3f5c3d3/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-9_otakuvid_sub": "https://otakuvid.online/embed/xfvatzedgwqc",
+          "51940-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ba9e0577a0a1d385",
+          "51940-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ba9e0577a0a1d385/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/vcu1cq0o6wug",
+          "51940-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-9_playmogo_hsub": "https://playmogo.com/e/af000ezac5hl",
+          "51940-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Twitter & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-10",
+      "sub": {
+        "HD-1": {
+          "51940-malep-10_vibeplayer_sub": "https://vibeplayer.site/16f1d75d7c703f63",
+          "51940-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/16f1d75d7c703f63/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-10_otakuvid_sub": "https://otakuvid.online/embed/e84esckkk1mt",
+          "51940-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Snow & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-11",
+      "sub": {
+        "HD-1": {
+          "51940-malep-11_vibeplayer_sub": "https://vibeplayer.site/32f63a24461722d9",
+          "51940-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32f63a24461722d9/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-11_otakuvid_sub": "https://otakuvid.online/embed/jdip5044uum6",
+          "51940-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-11_vibeplayer_hsub": "https://vibeplayer.site/f760774553a96d3b",
+          "51940-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f760774553a96d3b/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/3fdkoxtepuvd",
+          "51940-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-11_playmogo_hsub": "https://playmogo.com/e/u35wezkxnz77",
+          "51940-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Big Eaters & Bondo",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-12",
+      "sub": {
+        "HD-1": {
+          "51940-malep-12_vibeplayer_sub": "https://vibeplayer.site/b47bd3c87cc7862c",
+          "51940-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b47bd3c87cc7862c/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-12_otakuvid_sub": "https://otakuvid.online/embed/ugq9av4ws0wc",
+          "51940-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-12_vibeplayer_hsub": "https://vibeplayer.site/70a5ac51619cbf60",
+          "51940-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70a5ac51619cbf60/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/rpoamrxzn4sh",
+          "51940-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-12_playmogo_hsub": "https://playmogo.com/e/vbh1u0lkpg7i",
+          "51940-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mom & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-13",
+      "sub": {
+        "HD-1": {
+          "51940-malep-13_vibeplayer_sub": "https://vibeplayer.site/aa0477180b5e7ef4",
+          "51940-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa0477180b5e7ef4/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-13_otakuvid_sub": "https://otakuvid.online/embed/u1tao9gvjhjl",
+          "51940-malep-13_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-13_playmogo_sub": "https://playmogo.com/e/dmuflhtke5cz",
+          "51940-malep-13_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-13_vibeplayer_hsub": "https://vibeplayer.site/78ab0fc69faa809c",
+          "51940-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78ab0fc69faa809c/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/hw94r3bb8cjp",
+          "51940-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-13_playmogo_hsub": "https://playmogo.com/e/p0b0juassqo9",
+          "51940-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mods & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-14",
+      "sub": {
+        "HD-1": {
+          "51940-malep-14_vibeplayer_sub": "https://vibeplayer.site/d8623077e4372d00",
+          "51940-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8623077e4372d00/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-14_otakuvid_sub": "https://otakuvid.online/embed/039zi9g7jmyc",
+          "51940-malep-14_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-14_playmogo_sub": "https://playmogo.com/e/6y72yo5sgam0",
+          "51940-malep-14_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-14_vibeplayer_hsub": "https://vibeplayer.site/652c02ca737c2ac9",
+          "51940-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/652c02ca737c2ac9/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/7wuwpe7irb8p",
+          "51940-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-14_playmogo_hsub": "https://playmogo.com/e/8xsgiqck8bgw",
+          "51940-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Motsuo & Meico",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-15",
+      "sub": {
+        "HD-1": {
+          "51940-malep-15_vibeplayer_sub": "https://vibeplayer.site/eb88f7ac43699249",
+          "51940-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eb88f7ac43699249/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-15_otakuvid_sub": "https://otakuvid.online/embed/2ah00ac5wmeh",
+          "51940-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-15_vibeplayer_hsub": "https://vibeplayer.site/f9d775b2ce404a04",
+          "51940-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f9d775b2ce404a04/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/r7scb5kz4zt8",
+          "51940-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-15_playmogo_hsub": "https://playmogo.com/e/wzcdp8g2p79w",
+          "51940-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bondo & the Button",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-16",
+      "sub": {
+        "HD-1": {
+          "51940-malep-16_vibeplayer_sub": "https://vibeplayer.site/5c2b5077771b18d8",
+          "51940-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5c2b5077771b18d8/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-16_otakuvid_sub": "https://otakuvid.online/embed/r3snbm8w2kdr",
+          "51940-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-16_vibeplayer_hsub": "https://vibeplayer.site/e577c7c5f9793757",
+          "51940-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e577c7c5f9793757/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/10ib7d803irc",
+          "51940-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-16_playmogo_hsub": "https://playmogo.com/e/m6jsnyx60i85",
+          "51940-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Motsuo & Gorilla",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-17",
+      "sub": {
+        "HD-1": {
+          "51940-malep-17_vibeplayer_sub": "https://vibeplayer.site/897bf61392cd50af",
+          "51940-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/897bf61392cd50af/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-17_otakuvid_sub": "https://otakuvid.online/embed/7sttu15jyjy6",
+          "51940-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-17_vibeplayer_hsub": "https://vibeplayer.site/bf216a2571b10903",
+          "51940-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf216a2571b10903/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/qzkj5a7jc2o2",
+          "51940-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-17_playmogo_hsub": "https://playmogo.com/e/0ne882h2yve0",
+          "51940-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Made-Up Words & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-18",
+      "sub": {
+        "HD-1": {
+          "51940-malep-18_vibeplayer_sub": "https://vibeplayer.site/e0380eb7f21ec4a4",
+          "51940-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0380eb7f21ec4a4/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-18_otakuvid_sub": "https://otakuvid.online/embed/lwi2cvc8m92w",
+          "51940-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-18_vibeplayer_hsub": "https://vibeplayer.site/938c081c6b445015",
+          "51940-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/938c081c6b445015/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/2l4xd102sen8",
+          "51940-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-18_playmogo_hsub": "https://playmogo.com/e/ijyqdpd4qq91",
+          "51940-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ghost Stories & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-19",
+      "sub": {
+        "HD-1": {
+          "51940-malep-19_vibeplayer_sub": "https://vibeplayer.site/b111e780ff986adc",
+          "51940-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b111e780ff986adc/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-19_otakuvid_sub": "https://otakuvid.online/embed/n9coqkgm1gz7",
+          "51940-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-19_vibeplayer_hsub": "https://vibeplayer.site/df28fc29e2731e01",
+          "51940-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/df28fc29e2731e01/master.m3u8"
+        },
+        "StreamHG": {
+          "51940-malep-19_otakuhg_hsub": "https://otakuhg.site/e/a8nucfa7vyuu",
+          "51940-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51940-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/og7svk0tny3c",
+          "51940-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-19_playmogo_hsub": "https://playmogo.com/e/85052wzik1oy",
+          "51940-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Telepathy & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-20",
+      "sub": {
+        "HD-1": {
+          "51940-malep-20_vibeplayer_sub": "https://vibeplayer.site/df56763de928aa54",
+          "51940-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df56763de928aa54/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-20_otakuvid_sub": "https://otakuvid.online/embed/9rdonhirgcya",
+          "51940-malep-20_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-20_playmogo_sub": "https://playmogo.com/e/g3f9u7zts4y7",
+          "51940-malep-20_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-20_vibeplayer_hsub": "https://vibeplayer.site/e2f7bd1f3033b01f",
+          "51940-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e2f7bd1f3033b01f/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/zlsbk770apyt",
+          "51940-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-20_playmogo_hsub": "https://playmogo.com/e/g9j8qimxbuis",
+          "51940-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Love & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-21",
+      "sub": {
+        "HD-1": {
+          "51940-malep-21_vibeplayer_sub": "https://vibeplayer.site/314c98edbd50432c",
+          "51940-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/314c98edbd50432c/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-21_otakuvid_sub": "https://otakuvid.online/embed/nuf1phfa4q4x",
+          "51940-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-21_vibeplayer_hsub": "https://vibeplayer.site/4a5d01eab01edaea",
+          "51940-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a5d01eab01edaea/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/yo5ckmfg5rka",
+          "51940-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-21_playmogo_hsub": "https://playmogo.com/e/98tuqozd1jj0",
+          "51940-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pants & Bondo",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-22",
+      "sub": {
+        "HD-1": {
+          "51940-malep-22_vibeplayer_sub": "https://vibeplayer.site/9dd833d2a68a7be5",
+          "51940-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9dd833d2a68a7be5/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-22_otakuvid_sub": "https://otakuvid.online/embed/070n6iaw2vfl",
+          "51940-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-22_vibeplayer_hsub": "https://vibeplayer.site/635e2be41f9ed3c7",
+          "51940-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/635e2be41f9ed3c7/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/3ixmpa36hl3f",
+          "51940-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-22_playmogo_hsub": "https://playmogo.com/e/8tti85u0hwne",
+          "51940-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pictures & Bondo",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-23",
+      "sub": {
+        "HD-1": {
+          "51940-malep-23_vibeplayer_sub": "https://vibeplayer.site/d4d8f47aaa2a1507",
+          "51940-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d4d8f47aaa2a1507/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-23_otakuvid_sub": "https://otakuvid.online/embed/qv3cbtremdcy",
+          "51940-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-23_vibeplayer_hsub": "https://vibeplayer.site/8a6db975628240c1",
+          "51940-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a6db975628240c1/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/iggrinzscc5n",
+          "51940-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-23_playmogo_hsub": "https://playmogo.com/e/w51wnwto2f2s",
+          "51940-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Idols & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-24",
+      "sub": {
+        "HD-1": {
+          "51940-malep-24_vibeplayer_sub": "https://vibeplayer.site/d1bbf8bfcfdcdbf1",
+          "51940-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d1bbf8bfcfdcdbf1/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-24_otakuvid_sub": "https://otakuvid.online/embed/fgx4acxgqhaw",
+          "51940-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Flaming & Bondo",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-25",
+      "sub": {
+        "HD-1": {
+          "51940-malep-25_vibeplayer_sub": "https://vibeplayer.site/ad17f35a2fcf58a3",
+          "51940-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad17f35a2fcf58a3/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-25_otakuvid_sub": "https://otakuvid.online/embed/khwndpcp7xa2",
+          "51940-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Mili & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-26",
+      "sub": {
+        "HD-1": {
+          "51940-malep-26_vibeplayer_sub": "https://vibeplayer.site/30b9646f3c3a5b15",
+          "51940-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/30b9646f3c3a5b15/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-26_otakuvid_sub": "https://otakuvid.online/embed/9u7hhz1hp59r",
+          "51940-malep-26_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-26_playmogo_sub": "https://playmogo.com/e/ugbaj0gig8fb",
+          "51940-malep-26_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-26_vibeplayer_hsub": "https://vibeplayer.site/2a109e05e5aeac54",
+          "51940-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a109e05e5aeac54/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/xdseq476n3pf",
+          "51940-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-26_playmogo_hsub": "https://playmogo.com/e/wltlasplfsmr",
+          "51940-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ideals & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-27",
+      "sub": {
+        "HD-1": {
+          "51940-malep-27_vibeplayer_sub": "https://vibeplayer.site/fc23ff48aec3314b",
+          "51940-malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fc23ff48aec3314b/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-27_otakuvid_sub": "https://otakuvid.online/embed/7vs4gjwhslqg",
+          "51940-malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Knees & Roboco",
+      "episode_url": "https://hianime.ad/watch/me-roboco/ep-28",
+      "sub": {
+        "HD-1": {
+          "51940-malep-28_vibeplayer_sub": "https://vibeplayer.site/bc78d1360231bdbe",
+          "51940-malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc78d1360231bdbe/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-28_otakuvid_sub": "https://otakuvid.online/embed/kjks8xo3o8me",
+          "51940-malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51940-malep-28_vibeplayer_hsub": "https://vibeplayer.site/d368056e29af3b42",
+          "51940-malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d368056e29af3b42/master.m3u8"
+        },
+        "Earnvids": {
+          "51940-malep-28_otakuvid_hsub": "https://otakuvid.online/embed/suihdo2kvzbo",
+          "51940-malep-28_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51940-malep-28_playmogo_hsub": "https://playmogo.com/e/c7qwoh2z1jsb",
+          "51940-malep-28_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

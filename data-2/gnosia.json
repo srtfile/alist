@@ -1,0 +1,828 @@
+{
+  "anime_name": "Gnosia",
+  "anime_url": "https://hianime.ad/anime/gnosia",
+  "slug": "gnosia",
+  "mal_id": 60427,
+  "total_episodes": 21,
+  "captured_at": "2026-06-03T18:18:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Starting Point",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-1",
+      "sub": {
+        "HD-1": {
+          "60427-malep-1_vibeplayer_sub": "https://vibeplayer.site/fd2b88930ae5176e",
+          "60427-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd2b88930ae5176e/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-1_otakuhg_sub": "https://otakuhg.site/e/s9gzqv4fl0vs",
+          "60427-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lpyx0elh9qpe",
+          "60427-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-1_playmogo_sub": "https://playmogo.com/e/vo6rws64dgmm",
+          "60427-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8be10d01ae69fd58",
+          "60427-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8be10d01ae69fd58/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-1_otakuhg_hsub": "https://otakuhg.site/e/44px0mr1sliu",
+          "60427-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/swa3oxgjf4fb",
+          "60427-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-1_playmogo_hsub": "https://playmogo.com/e/ln71treuzm9j",
+          "60427-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Loops",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-2",
+      "sub": {
+        "HD-1": {
+          "60427-malep-2_vibeplayer_sub": "https://vibeplayer.site/c6453333fb884634",
+          "60427-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c6453333fb884634/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-2_otakuhg_sub": "https://otakuhg.site/e/0722zxms6ggk",
+          "60427-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-2_otakuvid_sub": "https://otakuvid.online/embed/bb23y6e7tebf",
+          "60427-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-2_vibeplayer_hsub": "https://vibeplayer.site/bfdfe9576a73321c",
+          "60427-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bfdfe9576a73321c/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-2_otakuhg_hsub": "https://otakuhg.site/e/d67rojgmx44i",
+          "60427-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/rx60dqu12pcq",
+          "60427-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-2_playmogo_hsub": "https://playmogo.com/e/bxaqfkj332i1",
+          "60427-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "New Crew Members",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-3",
+      "sub": {
+        "HD-1": {
+          "60427-malep-3_vibeplayer_sub": "https://vibeplayer.site/ddbabbcf68590936",
+          "60427-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ddbabbcf68590936/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-3_otakuhg_sub": "https://otakuhg.site/e/abboynh4rhh0",
+          "60427-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-3_otakuvid_sub": "https://otakuvid.online/embed/bephyswfi4bv",
+          "60427-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-3_vibeplayer_hsub": "https://vibeplayer.site/579c82a85d0908b4",
+          "60427-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/579c82a85d0908b4/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-3_otakuhg_hsub": "https://otakuhg.site/e/u24wc4hpb250",
+          "60427-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/pxhpv8ayu8w1",
+          "60427-malep-3_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Silver Key",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-4",
+      "sub": {
+        "HD-1": {
+          "60427-malep-4_vibeplayer_sub": "https://vibeplayer.site/0a93acc87b1fd454",
+          "60427-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a93acc87b1fd454/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-4_otakuhg_sub": "https://otakuhg.site/e/seypw3s7t6xw",
+          "60427-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-4_otakuvid_sub": "https://otakuvid.online/embed/o3m3m82ipvxl",
+          "60427-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-4_vibeplayer_hsub": "https://vibeplayer.site/8f29f5d1854be57c",
+          "60427-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f29f5d1854be57c/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-4_otakuhg_hsub": "https://otakuhg.site/e/io1hfmtmbbcv",
+          "60427-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/9nny6kcy5nyj",
+          "60427-malep-4_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wild Intuition",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-5",
+      "sub": {
+        "HD-1": {
+          "60427-malep-5_vibeplayer_sub": "https://vibeplayer.site/a71d2e661bd4f375",
+          "60427-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a71d2e661bd4f375/master.m3u8"
+        },
+        "Earnvids": {
+          "60427-malep-5_otakuvid_sub": "https://otakuvid.online/embed/tn4f0n47snbx",
+          "60427-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-5_vibeplayer_hsub": "https://vibeplayer.site/7edb4a22841d7d31",
+          "60427-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7edb4a22841d7d31/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-5_otakuhg_hsub": "https://otakuhg.site/e/47r3yb4trz01",
+          "60427-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/a2kwz9bvnfjg",
+          "60427-malep-5_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Nostalgic Flowers",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-6",
+      "sub": {
+        "HD-1": {
+          "60427-malep-6_vibeplayer_sub": "https://vibeplayer.site/42e157d772c74074",
+          "60427-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42e157d772c74074/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-6_otakuhg_sub": "https://otakuhg.site/e/2s4rqhdwfu4t",
+          "60427-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-6_otakuvid_sub": "https://otakuvid.online/embed/yn6eugizb80h",
+          "60427-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-6_playmogo_sub": "https://playmogo.com/e/1s03gcqgluh8",
+          "60427-malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-6_vibeplayer_hsub": "https://vibeplayer.site/91e5972786b731cb",
+          "60427-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91e5972786b731cb/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-6_otakuhg_hsub": "https://otakuhg.site/e/cgeae98yiqud",
+          "60427-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/u0w25kccg5pg",
+          "60427-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-6_playmogo_hsub": "https://playmogo.com/e/bwlequl47ukm",
+          "60427-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Understand?",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-7",
+      "sub": {
+        "HD-1": {
+          "60427-malep-7_vibeplayer_sub": "https://vibeplayer.site/4b5382b6b5bfb8b9",
+          "60427-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4b5382b6b5bfb8b9/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-7_otakuhg_sub": "https://otakuhg.site/e/7o21o7ujes54",
+          "60427-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-7_otakuvid_sub": "https://otakuvid.online/embed/8lhams9g9422",
+          "60427-malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-7_playmogo_sub": "https://playmogo.com/e/sy9kvh0mgr5q",
+          "60427-malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-7_vibeplayer_hsub": "https://vibeplayer.site/2bf38582c0fc2a20",
+          "60427-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2bf38582c0fc2a20/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-7_otakuhg_hsub": "https://otakuhg.site/e/2otvjtjbuabp",
+          "60427-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/jc5l4ejjezi7",
+          "60427-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-7_playmogo_hsub": "https://playmogo.com/e/q1fld0awn5uz",
+          "60427-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Guard Duty",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-8",
+      "sub": {
+        "HD-1": {
+          "60427-malep-8_vibeplayer_sub": "https://vibeplayer.site/369694e89969cdcb",
+          "60427-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/369694e89969cdcb/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-8_otakuhg_sub": "https://otakuhg.site/e/hmufwauf49v0",
+          "60427-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-8_otakuvid_sub": "https://otakuvid.online/embed/jpdx88slb5gq",
+          "60427-malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-8_playmogo_sub": "https://playmogo.com/e/eutnu93pgvn3",
+          "60427-malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-8_vibeplayer_hsub": "https://vibeplayer.site/1993ed9ed5e737bb",
+          "60427-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1993ed9ed5e737bb/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-8_otakuhg_hsub": "https://otakuhg.site/e/2jxzj2tiqf4d",
+          "60427-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/17z0cghh4gaq",
+          "60427-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-8_playmogo_hsub": "https://playmogo.com/e/egihe4lo3e35",
+          "60427-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "World of Gnosia",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-9",
+      "sub": {
+        "HD-1": {
+          "60427-malep-9_vibeplayer_sub": "https://vibeplayer.site/3166e931f3d4ce31",
+          "60427-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3166e931f3d4ce31/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-9_otakuhg_sub": "https://otakuhg.site/e/r49hkpgk2jye",
+          "60427-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-9_otakuvid_sub": "https://otakuvid.online/embed/hny0z2j758ji",
+          "60427-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-9_playmogo_sub": "https://playmogo.com/e/gilg8n0j067x",
+          "60427-malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-9_vibeplayer_hsub": "https://vibeplayer.site/800ebf1812cf7939",
+          "60427-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/800ebf1812cf7939/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-9_otakuhg_hsub": "https://otakuhg.site/e/1h6e8da19sem",
+          "60427-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/1k0l73oxxxjc",
+          "60427-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-9_playmogo_hsub": "https://playmogo.com/e/vhw33y4p2sec",
+          "60427-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Citizen Slime",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-10",
+      "sub": {
+        "HD-1": {
+          "60427-malep-10_vibeplayer_sub": "https://vibeplayer.site/0ac3a2837585bf13",
+          "60427-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ac3a2837585bf13/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-10_otakuhg_sub": "https://otakuhg.site/e/5mn0a4tvp90k",
+          "60427-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-10_otakuvid_sub": "https://otakuvid.online/embed/4ka0gauofdxf",
+          "60427-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-10_playmogo_sub": "https://playmogo.com/e/7m0ad4kjjecq",
+          "60427-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-10_vibeplayer_hsub": "https://vibeplayer.site/b818e52fe7dd6ee5",
+          "60427-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b818e52fe7dd6ee5/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-10_otakuhg_hsub": "https://otakuhg.site/e/9e0pavlm3c96",
+          "60427-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/ucaou20nddu0",
+          "60427-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-10_playmogo_hsub": "https://playmogo.com/e/3a6v3idm3fzy",
+          "60427-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "511",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-11",
+      "sub": {
+        "HD-1": {
+          "60427-malep-11_vibeplayer_sub": "https://vibeplayer.site/13b34b737032091f",
+          "60427-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13b34b737032091f/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-11_otakuhg_sub": "https://otakuhg.site/e/jtgmd0sd8l16",
+          "60427-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-11_otakuvid_sub": "https://otakuvid.online/embed/t01ukbapzbiq",
+          "60427-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-11_playmogo_sub": "https://playmogo.com/e/vjbkqkmq20mz",
+          "60427-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-11_vibeplayer_hsub": "https://vibeplayer.site/495eb66f5ac9eba4",
+          "60427-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/495eb66f5ac9eba4/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-11_otakuhg_hsub": "https://otakuhg.site/e/39ht4x403jel",
+          "60427-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/vrjm0ny9508p",
+          "60427-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-11_playmogo_hsub": "https://playmogo.com/e/8mngqumlas6s",
+          "60427-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Allacosia",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-12",
+      "sub": {
+        "HD-1": {
+          "60427-malep-12_vibeplayer_sub": "https://vibeplayer.site/7c2ac8bf6359bed8",
+          "60427-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7c2ac8bf6359bed8/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-12_otakuhg_sub": "https://otakuhg.site/e/or0tqdx7cf15",
+          "60427-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-12_otakuvid_sub": "https://otakuvid.online/embed/ymua7zfobdk8",
+          "60427-malep-12_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-12_playmogo_sub": "https://playmogo.com/e/gfmyyh632b86",
+          "60427-malep-12_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-12_vibeplayer_hsub": "https://vibeplayer.site/6b6ec8147b155ed0",
+          "60427-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6b6ec8147b155ed0/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-12_otakuhg_hsub": "https://otakuhg.site/e/rkd0moko2zhq",
+          "60427-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/ijfyy5rc89nt",
+          "60427-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-12_playmogo_hsub": "https://playmogo.com/e/b72xsikzwan9",
+          "60427-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Interlude",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-13",
+      "sub": {
+        "HD-1": {
+          "60427-malep-13_vibeplayer_sub": "https://vibeplayer.site/ca63c3ab61a5bb33",
+          "60427-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca63c3ab61a5bb33/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-13_otakuhg_sub": "https://otakuhg.site/e/i869jwiu2idf",
+          "60427-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-13_otakuvid_sub": "https://otakuvid.online/embed/v63qexecx0s3",
+          "60427-malep-13_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-13_playmogo_sub": "https://playmogo.com/e/9996i1teapap",
+          "60427-malep-13_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-13_vibeplayer_hsub": "https://vibeplayer.site/cc8f3a81d5dd82fc",
+          "60427-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc8f3a81d5dd82fc/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-13_otakuhg_hsub": "https://otakuhg.site/e/w8y6wg0wbxhc",
+          "60427-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/qo935stotzhb",
+          "60427-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-13_playmogo_hsub": "https://playmogo.com/e/5pi0zvba7msg",
+          "60427-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "15-Person Meeting",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-14",
+      "sub": {
+        "HD-1": {
+          "60427-malep-14_vibeplayer_sub": "https://vibeplayer.site/022d70be8f20c7fd",
+          "60427-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/022d70be8f20c7fd/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-14_otakuhg_sub": "https://otakuhg.site/e/bfguwooqjzv9",
+          "60427-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-14_otakuvid_sub": "https://otakuvid.online/embed/bqjrl0bq36e4",
+          "60427-malep-14_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-14_playmogo_sub": "https://playmogo.com/e/81aatv47chi7",
+          "60427-malep-14_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ee7ac9c5e59bab13",
+          "60427-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee7ac9c5e59bab13/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-14_otakuhg_hsub": "https://otakuhg.site/e/139o4d0k2365",
+          "60427-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/kd27d4lm1j1h",
+          "60427-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-14_playmogo_hsub": "https://playmogo.com/e/dea2jfs2fbhb",
+          "60427-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Final Problem",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-15",
+      "sub": {
+        "HD-1": {
+          "60427-malep-15_vibeplayer_sub": "https://vibeplayer.site/c8a7697184f92d04",
+          "60427-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c8a7697184f92d04/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-15_otakuhg_sub": "https://otakuhg.site/e/bf3t700usxdk",
+          "60427-malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-15_otakuvid_sub": "https://otakuvid.online/embed/s84y3csivdfq",
+          "60427-malep-15_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-15_playmogo_sub": "https://playmogo.com/e/0pv55dvgbqud",
+          "60427-malep-15_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-15_vibeplayer_hsub": "https://vibeplayer.site/a978315fdf4ff091",
+          "60427-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a978315fdf4ff091/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-15_otakuhg_hsub": "https://otakuhg.site/e/sex7l4ecvdb6",
+          "60427-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/2jzvh3pb3y58",
+          "60427-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-15_playmogo_hsub": "https://playmogo.com/e/u5xkhw79rytp",
+          "60427-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Truth",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-16",
+      "sub": {
+        "HD-1": {
+          "60427-malep-16_vibeplayer_sub": "https://vibeplayer.site/631786e5a88f7549",
+          "60427-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/631786e5a88f7549/master.m3u8"
+        },
+        "Earnvids": {
+          "60427-malep-16_otakuvid_sub": "https://otakuvid.online/embed/13oxzuk6sl1o",
+          "60427-malep-16_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-16_playmogo_sub": "https://playmogo.com/e/m0o223kfo0ht",
+          "60427-malep-16_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-16_vibeplayer_hsub": "https://vibeplayer.site/f351c161a0f600f7",
+          "60427-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f351c161a0f600f7/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-16_otakuhg_hsub": "https://otakuhg.site/e/sactjaof0rz5",
+          "60427-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/o88c168i3kws",
+          "60427-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-16_playmogo_hsub": "https://playmogo.com/e/nkghvc1xae41",
+          "60427-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bug",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-17",
+      "sub": {
+        "HD-1": {
+          "60427-malep-17_vibeplayer_sub": "https://vibeplayer.site/631395417721366d",
+          "60427-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/631395417721366d/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-17_otakuhg_sub": "https://otakuhg.site/e/673w826w8usm",
+          "60427-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-17_otakuvid_sub": "https://otakuvid.online/embed/fhoilf020265",
+          "60427-malep-17_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-17_playmogo_sub": "https://playmogo.com/e/ygbkrf2flrk6",
+          "60427-malep-17_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-17_vibeplayer_hsub": "https://vibeplayer.site/60c20d55d85cdfac",
+          "60427-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/60c20d55d85cdfac/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-17_otakuhg_hsub": "https://otakuhg.site/e/zqy0odzbh6w5",
+          "60427-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/xaf98wwuxc01",
+          "60427-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-17_playmogo_hsub": "https://playmogo.com/e/811je42dsgox",
+          "60427-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "World with a Future",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-18",
+      "sub": {
+        "HD-1": {
+          "60427-malep-18_vibeplayer_sub": "https://vibeplayer.site/57187f61f92b936d",
+          "60427-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57187f61f92b936d/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-18_otakuhg_sub": "https://otakuhg.site/e/opk5l0aywcca",
+          "60427-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-18_otakuvid_sub": "https://otakuvid.online/embed/lluwmv7kge6i",
+          "60427-malep-18_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-18_playmogo_sub": "https://playmogo.com/e/18p9v2tznmdq",
+          "60427-malep-18_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-18_vibeplayer_hsub": "https://vibeplayer.site/c3b316c6d0e4ee13",
+          "60427-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3b316c6d0e4ee13/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-18_otakuhg_hsub": "https://otakuhg.site/e/v2rufgag5i8g",
+          "60427-malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/uvwusiupd232",
+          "60427-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-18_playmogo_hsub": "https://playmogo.com/e/435y4glrvg0p",
+          "60427-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Epilogue",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-19",
+      "sub": {
+        "HD-1": {
+          "60427-malep-19_vibeplayer_sub": "https://vibeplayer.site/d2c5731aa89a3630",
+          "60427-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2c5731aa89a3630/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-19_otakuhg_sub": "https://otakuhg.site/e/mz4nahpqsob9",
+          "60427-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-19_otakuvid_sub": "https://otakuvid.online/embed/r6xajf0a3xxd",
+          "60427-malep-19_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-19_playmogo_sub": "https://playmogo.com/e/tns9pjbfmmou",
+          "60427-malep-19_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-19_vibeplayer_hsub": "https://vibeplayer.site/2c48ffe5418bae83",
+          "60427-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c48ffe5418bae83/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-19_otakuhg_hsub": "https://otakuhg.site/e/wb3cvoqshca0",
+          "60427-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/zdvk31918pxd",
+          "60427-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-19_playmogo_hsub": "https://playmogo.com/e/nr7k2ftnmep0",
+          "60427-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "World of Stars",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-20",
+      "sub": {
+        "HD-1": {
+          "60427-malep-20_vibeplayer_sub": "https://vibeplayer.site/bad60deedd2fd68e",
+          "60427-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bad60deedd2fd68e/master.m3u8"
+        },
+        "Earnvids": {
+          "60427-malep-20_otakuvid_sub": "https://otakuvid.online/embed/m3ogkc846hir",
+          "60427-malep-20_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-20_playmogo_sub": "https://playmogo.com/e/vnebrje8ag52",
+          "60427-malep-20_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-20_vibeplayer_hsub": "https://vibeplayer.site/95d8044fc2999485",
+          "60427-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95d8044fc2999485/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-20_otakuhg_hsub": "https://otakuhg.site/e/naubi1mvyvt9",
+          "60427-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/zgfnrfj9qbkx",
+          "60427-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-20_playmogo_hsub": "https://playmogo.com/e/6aivqp5haxw8",
+          "60427-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "End Point and Starting Point",
+      "episode_url": "https://hianime.ad/watch/gnosia/ep-21",
+      "sub": {
+        "HD-1": {
+          "60427-malep-21_vibeplayer_sub": "https://vibeplayer.site/af41b4890ac087dc",
+          "60427-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af41b4890ac087dc/master.m3u8"
+        },
+        "Earnvids": {
+          "60427-malep-21_otakuvid_sub": "https://otakuvid.online/embed/grymnx1jikcy",
+          "60427-malep-21_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-21_playmogo_sub": "https://playmogo.com/e/qsw5bswjcweo",
+          "60427-malep-21_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60427-malep-21_vibeplayer_hsub": "https://vibeplayer.site/7111ca8a8de570ed",
+          "60427-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7111ca8a8de570ed/master.m3u8"
+        },
+        "StreamHG": {
+          "60427-malep-21_otakuhg_hsub": "https://otakuhg.site/e/1rno47clm1fa",
+          "60427-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60427-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/u4fv9iumar8l",
+          "60427-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60427-malep-21_playmogo_hsub": "https://playmogo.com/e/3imyx9nip7e7",
+          "60427-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

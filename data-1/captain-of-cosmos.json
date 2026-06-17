@@ -1,0 +1,35 @@
+{
+  "anime_name": "Captain Of Cosmos",
+  "anime_url": "https://hianime.ad/anime/captain-of-cosmos",
+  "slug": "captain-of-cosmos",
+  "mal_id": 2203,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:11:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Arcadia, Blast Off!",
+      "episode_url": "https://hianime.ad/watch/captain-of-cosmos/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "2203-malep-1_vibeplayer_dub": "https://vibeplayer.site/0b5ee996975d5824",
+          "2203-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0b5ee996975d5824/master.m3u8"
+        },
+        "HD-2": {
+          "2203-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag7a144525e22e33d52552612a6ca01d0e4h",
+          "2203-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2203-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1c03cmu3agcq",
+          "2203-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2203-malep-1_playmogo_dub": "https://playmogo.com/e/evfj3l2s3et7",
+          "2203-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

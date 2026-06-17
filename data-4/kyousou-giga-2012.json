@@ -1,0 +1,104 @@
+{
+  "anime_name": "Kyousou Giga 2012",
+  "anime_url": "https://hianime.ad/anime/kyousou-giga-2012",
+  "slug": "kyousou-giga-2012",
+  "mal_id": null,
+  "total_episodes": 5,
+  "captured_at": "2026-06-17T04:11:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Koto, Our Heroine, Spake Thusly",
+      "episode_url": "https://hianime.ad/watch/kyousou-giga-2012/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/3b7781c316cf8025",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/3b7781c316cf8025/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/vp8q7hfb208v",
+          "malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shouko, the Scientist, Raves and Panics",
+      "episode_url": "https://hianime.ad/watch/kyousou-giga-2012/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-2_vibeplayer_raw": "https://vibeplayer.site/2aafa0e6c9dcdc5f",
+          "malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2aafa0e6c9dcdc5f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_raw": "https://otakuvid.online/embed/fcunv7fo4gwx",
+          "malep-2_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_raw": "https://playmogo.com/e/3m9sv9e2az08",
+          "malep-2_playmogo_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Yase's Monster News for the Looking Glass City",
+      "episode_url": "https://hianime.ad/watch/kyousou-giga-2012/ep-3",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-3_vibeplayer_raw": "https://vibeplayer.site/99d5621672805ee4",
+          "malep-3_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/99d5621672805ee4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_raw": "https://otakuvid.online/embed/qrru3werxhgs",
+          "malep-3_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Thus Spake the Monk, Myōe",
+      "episode_url": "https://hianime.ad/watch/kyousou-giga-2012/ep-4",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-4_vibeplayer_raw": "https://vibeplayer.site/2f6ba3804fdca58a",
+          "malep-4_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2f6ba3804fdca58a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_raw": "https://otakuvid.online/embed/9w4xmvd3ii8o",
+          "malep-4_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reminiscence of the Black Rabbit, Koto",
+      "episode_url": "https://hianime.ad/watch/kyousou-giga-2012/ep-5",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-5_vibeplayer_raw": "https://vibeplayer.site/fac8ecae83694f5e",
+          "malep-5_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/fac8ecae83694f5e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_raw": "https://otakuvid.online/embed/294p2t6lbvq4",
+          "malep-5_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_raw": "https://playmogo.com/e/x1jsmuyeiaah",
+          "malep-5_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

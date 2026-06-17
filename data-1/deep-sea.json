@@ -1,0 +1,57 @@
+{
+  "anime_name": "Deep Sea",
+  "anime_url": "https://hianime.ad/anime/deep-sea",
+  "slug": "deep-sea",
+  "mal_id": 45104,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:54:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/deep-sea/ep-1",
+      "sub": {
+        "HD-1": {
+          "45104-malep-1_vibeplayer_sub": "https://vibeplayer.site/f08e7cedf0793327",
+          "45104-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f08e7cedf0793327/master.m3u8"
+        },
+        "Earnvids": {
+          "45104-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i6bz38zqecqe",
+          "45104-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "45104-malep-1_playmogo_sub": "https://playmogo.com/e/vfzcm1h4xkap",
+          "45104-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45104-malep-1_vibeplayer_dub": "https://vibeplayer.site/54add2b28666c2bb",
+          "45104-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/54add2b28666c2bb/master.m3u8"
+        },
+        "Earnvids": {
+          "45104-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pvfvcc6qbwvl",
+          "45104-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/96f2816c6a54b98d",
+          "45104-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/96f2816c6a54b98d/master.m3u8"
+        },
+        "StreamHG": {
+          "45104-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qsdcy5lhew5h",
+          "45104-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45104-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c1c3n6h2pd0q",
+          "45104-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45104-malep-1_playmogo_hsub": "https://playmogo.com/e/ilewmu4zxvcp",
+          "45104-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

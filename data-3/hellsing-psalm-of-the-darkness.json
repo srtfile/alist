@@ -1,0 +1,40 @@
+{
+  "anime_name": "Hellsing Psalm Of The Darkness",
+  "anime_url": "https://hianime.ad/anime/hellsing-psalm-of-the-darkness",
+  "slug": "hellsing-psalm-of-the-darkness",
+  "mal_id": 497,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:32:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hazuki",
+      "episode_url": "https://hianime.ad/watch/hellsing-psalm-of-the-darkness/ep-1",
+      "sub": {
+        "HD-1": {
+          "497-malep-1_vibeplayer_sub": "https://vibeplayer.site/8d1c9c870e0d6a74",
+          "497-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d1c9c870e0d6a74/master.m3u8"
+        },
+        "Earnvids": {
+          "497-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cr28cn8obvr3",
+          "497-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "497-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a297fc46a89e3a8a",
+          "497-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a297fc46a89e3a8a/master.m3u8"
+        },
+        "StreamHG": {
+          "497-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tvx4keds44qx",
+          "497-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "497-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nrcexy9crcg3",
+          "497-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

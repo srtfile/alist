@@ -1,0 +1,32 @@
+{
+  "anime_name": "Digimon The Movie 3054",
+  "anime_url": "https://hianime.ad/anime/digimon-the-movie-3054",
+  "slug": "digimon-the-movie-3054",
+  "mal_id": 10444,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:37:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To a New World! The Fire Fury General's Dragon Land",
+      "episode_url": "https://hianime.ad/watch/digimon-the-movie-3054/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "10444-malep-1_vibeplayer_raw": "https://vibeplayer.site/54ce90f138d30670",
+          "10444-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/54ce90f138d30670/master.m3u8"
+        },
+        "HD-2": {
+          "10444-malep-1_vibeplayer_raw": "https://vibeplayer.site/agc5e9329ee6264cde5fa67a06ce34f31f4h",
+          "10444-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "Earnvids": {
+          "10444-malep-1_otakuvid_raw": "https://otakuvid.online/embed/gtivynbq34kh",
+          "10444-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "anime_name": "Karuizawa Syndrome",
+  "anime_url": "https://hianime.ad/anime/karuizawa-syndrome",
+  "slug": "karuizawa-syndrome",
+  "mal_id": 3151,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:06:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/karuizawa-syndrome/ep-1",
+      "sub": {
+        "HD-1": {
+          "3151-malep-1_vibeplayer_sub": "https://vibeplayer.site/9e1a7366ed6415fc",
+          "3151-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9e1a7366ed6415fc/master.m3u8"
+        },
+        "Earnvids": {
+          "3151-malep-1_otakuvid_sub": "https://otakuvid.online/embed/px3o9p5z3uh1",
+          "3151-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}

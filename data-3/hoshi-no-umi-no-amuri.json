@@ -1,0 +1,98 @@
+{
+  "anime_name": "Hoshi No Umi No Amuri",
+  "anime_url": "https://hianime.ad/anime/hoshi-no-umi-no-amuri",
+  "slug": "hoshi-no-umi-no-amuri",
+  "mal_id": 2390,
+  "total_episodes": 3,
+  "captured_at": "2026-06-04T05:28:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kirby Comes to Cappy Town",
+      "episode_url": "https://hianime.ad/watch/hoshi-no-umi-no-amuri/ep-1",
+      "sub": {
+        "HD-1": {
+          "2390-malep-1_vibeplayer_sub": "https://vibeplayer.site/c818ec56416c2ec5",
+          "2390-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c818ec56416c2ec5/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-1_otakuvid_sub": "https://otakuvid.online/embed/eq223jg568kq",
+          "2390-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2390-malep-1_vibeplayer_hsub": "https://vibeplayer.site/24b2a9bc4829e7a9",
+          "2390-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/24b2a9bc4829e7a9/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h219v8ms8hk6",
+          "2390-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2390-malep-1_playmogo_hsub": "https://playmogo.com/e/y2azsjz5j19h",
+          "2390-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Blockbuster Battle",
+      "episode_url": "https://hianime.ad/watch/hoshi-no-umi-no-amuri/ep-2",
+      "sub": {
+        "HD-1": {
+          "2390-malep-2_vibeplayer_sub": "https://vibeplayer.site/63d2fa2633b78e49",
+          "2390-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/63d2fa2633b78e49/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-2_otakuvid_sub": "https://otakuvid.online/embed/a0t52k0zs0kj",
+          "2390-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2390-malep-2_vibeplayer_hsub": "https://vibeplayer.site/66956c5f5f6048db",
+          "2390-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66956c5f5f6048db/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/kngvo9svpqvk",
+          "2390-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2390-malep-2_playmogo_hsub": "https://playmogo.com/e/lmdyipoyjzid",
+          "2390-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kirby's Duel Role",
+      "episode_url": "https://hianime.ad/watch/hoshi-no-umi-no-amuri/ep-3",
+      "sub": {
+        "HD-1": {
+          "2390-malep-3_vibeplayer_sub": "https://vibeplayer.site/f7f8e7de2dfa3533",
+          "2390-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f7f8e7de2dfa3533/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-3_otakuvid_sub": "https://otakuvid.online/embed/y5vdeh8rgqju",
+          "2390-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2390-malep-3_vibeplayer_hsub": "https://vibeplayer.site/a31196ff2946275c",
+          "2390-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a31196ff2946275c/master.m3u8"
+        },
+        "Earnvids": {
+          "2390-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/vasm0tjya3fx",
+          "2390-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2390-malep-3_playmogo_hsub": "https://playmogo.com/e/jdax1g3bmngl",
+          "2390-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

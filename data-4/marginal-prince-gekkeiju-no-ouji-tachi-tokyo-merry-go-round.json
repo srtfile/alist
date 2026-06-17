@@ -1,0 +1,32 @@
+{
+  "anime_name": "Marginal Prince Gekkeiju No Ouji Tachi Tokyo Merry Go Round",
+  "anime_url": "https://hianime.ad/anime/marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
+  "slug": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
+  "mal_id": 1912,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:16:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Water Powered Escuela",
+      "episode_url": "https://hianime.ad/watch/marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "1912-malep-1_vibeplayer_raw": "https://vibeplayer.site/308d8fb7fe293db4",
+          "1912-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/308d8fb7fe293db4/master.m3u8"
+        },
+        "StreamHG": {
+          "1912-malep-1_otakuhg_raw": "https://otakuhg.site/e/dd7ddvvwsqd6",
+          "1912-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "1912-malep-1_otakuvid_raw": "https://otakuvid.online/embed/wzcq0p757vm1",
+          "1912-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

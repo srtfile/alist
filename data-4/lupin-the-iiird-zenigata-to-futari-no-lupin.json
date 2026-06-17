@@ -1,0 +1,52 @@
+{
+  "anime_name": "Lupin The Iiird Zenigata To Futari No Lupin",
+  "anime_url": "https://hianime.ad/anime/lupin-the-iiird-zenigata-to-futari-no-lupin",
+  "slug": "lupin-the-iiird-zenigata-to-futari-no-lupin",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:07:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ONA",
+      "episode_url": "https://hianime.ad/watch/lupin-the-iiird-zenigata-to-futari-no-lupin/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b9728a199b1364c4",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9728a199b1364c4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/416jwjg0ub6j",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/kqflwm443se2",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/pdcdpwp9cqzz",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e41182fae5ef7ac1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e41182fae5ef7ac1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/cx52jr3o1mou",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5cdg91416ots",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/u3rahhdw7o36",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

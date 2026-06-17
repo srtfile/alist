@@ -1,0 +1,52 @@
+{
+  "anime_name": "Given The Movie 3 To The Sea",
+  "anime_url": "https://hianime.ad/anime/given-the-movie-3-to-the-sea",
+  "slug": "given-the-movie-3-to-the-sea",
+  "mal_id": 59144,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:09:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "\"Appraiser\" Is a Worthless Class",
+      "episode_url": "https://hianime.ad/watch/given-the-movie-3-to-the-sea/ep-1",
+      "sub": {
+        "HD-1": {
+          "59144-malep-1_vibeplayer_sub": "https://vibeplayer.site/85ce948f28ee5c03",
+          "59144-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/85ce948f28ee5c03/master.m3u8"
+        },
+        "StreamHG": {
+          "59144-malep-1_otakuhg_sub": "https://otakuhg.site/e/8t9fw5gjy0pm",
+          "59144-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59144-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8czytnkd6uw8",
+          "59144-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59144-malep-1_playmogo_sub": "https://playmogo.com/e/s0gu1qspdnns",
+          "59144-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59144-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85a92de5b0dbbffc",
+          "59144-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85a92de5b0dbbffc/master.m3u8"
+        },
+        "StreamHG": {
+          "59144-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t7askwm3xq45",
+          "59144-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59144-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ullmk3ray6od",
+          "59144-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59144-malep-1_playmogo_hsub": "https://playmogo.com/e/h3azy90cnhf3",
+          "59144-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

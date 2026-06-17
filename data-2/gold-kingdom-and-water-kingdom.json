@@ -1,0 +1,52 @@
+{
+  "anime_name": "Gold Kingdom And Water Kingdom",
+  "anime_url": "https://hianime.ad/anime/gold-kingdom-and-water-kingdom",
+  "slug": "gold-kingdom-and-water-kingdom",
+  "mal_id": 60157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:34:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Saint Who Never Smiled",
+      "episode_url": "https://hianime.ad/watch/gold-kingdom-and-water-kingdom/ep-1",
+      "sub": {
+        "HD-1": {
+          "60157-malep-1_vibeplayer_sub": "https://vibeplayer.site/8b3388880e129c4b",
+          "60157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b3388880e129c4b/master.m3u8"
+        },
+        "StreamHG": {
+          "60157-malep-1_otakuhg_sub": "https://otakuhg.site/e/zfkxjo0d80xw",
+          "60157-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7frxvor0t2d9",
+          "60157-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60157-malep-1_playmogo_sub": "https://playmogo.com/e/w15pcy36amem",
+          "60157-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f324e612fc84e0ca",
+          "60157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f324e612fc84e0ca/master.m3u8"
+        },
+        "StreamHG": {
+          "60157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fggfjxhup4nf",
+          "60157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l74ues70gatl",
+          "60157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60157-malep-1_playmogo_hsub": "https://playmogo.com/e/ffd6tmho7mti",
+          "60157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

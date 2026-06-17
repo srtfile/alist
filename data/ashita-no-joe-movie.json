@@ -1,0 +1,60 @@
+{
+  "anime_name": "Ashita No Joe Movie",
+  "anime_url": "https://hianime.ad/anime/ashita-no-joe-movie",
+  "slug": "ashita-no-joe-movie",
+  "mal_id": 2402,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:29:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Those are the Eyes of a Beast!",
+      "episode_url": "https://hianime.ad/watch/ashita-no-joe-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2402-malep-1_vibeplayer_sub": "https://vibeplayer.site/1d0b668ef50099d8",
+          "2402-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1d0b668ef50099d8/master.m3u8"
+        },
+        "HD-2": {
+          "2402-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2cf68676c30c0075713dc03034615b784h",
+          "2402-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "2402-malep-1_otakuhg_sub": "https://otakuhg.site/e/htq4a1ezx743",
+          "2402-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2402-malep-1_otakuvid_sub": "https://otakuvid.online/embed/39rdwitl60es",
+          "2402-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2402-malep-1_playmogo_sub": "https://playmogo.com/e/2mzlysy8b8ss",
+          "2402-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2402-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1ff88d16414ae531",
+          "2402-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1ff88d16414ae531/master.m3u8"
+        },
+        "HD-2": {
+          "2402-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag515f1d14f36a3969c6e87d9dd801b0534h",
+          "2402-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2402-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b2ajgsg4da0n",
+          "2402-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2402-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qm77cedp1khu",
+          "2402-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2402-malep-1_playmogo_hsub": "https://playmogo.com/e/wirstifuawig",
+          "2402-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

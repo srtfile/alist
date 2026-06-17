@@ -1,0 +1,56 @@
+{
+  "anime_name": "Andromeda Stories",
+  "anime_url": "https://hianime.ad/anime/andromeda-stories",
+  "slug": "andromeda-stories",
+  "mal_id": 31631,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:26:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Power of Bonds",
+      "episode_url": "https://hianime.ad/watch/andromeda-stories/ep-1",
+      "sub": {
+        "HD-1": {
+          "31631-malep-1_vibeplayer_sub": "https://vibeplayer.site/01fe4fca15c5914a",
+          "31631-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01fe4fca15c5914a/master.m3u8"
+        },
+        "HD-2": {
+          "31631-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3643df75868787eec4aff57cf2a89c444h",
+          "31631-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31631-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xga9g7547qqy",
+          "31631-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31631-malep-1_playmogo_sub": "https://playmogo.com/e/q2zzoosvkgz5",
+          "31631-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31631-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6582d329973f90b3",
+          "31631-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6582d329973f90b3/master.m3u8"
+        },
+        "HD-2": {
+          "31631-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag06716ed8ddb04aeec11090db1e13c4474h",
+          "31631-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31631-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3pd6hm88utz6",
+          "31631-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31631-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5jie845q80cs",
+          "31631-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31631-malep-1_playmogo_hsub": "https://playmogo.com/e/fm51lf141tbq",
+          "31631-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

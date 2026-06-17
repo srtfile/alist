@@ -1,0 +1,87 @@
+{
+  "anime_name": "Marriage",
+  "anime_url": "https://hianime.ad/anime/marriage",
+  "slug": "marriage",
+  "mal_id": 51552,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T07:23:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Meeting",
+      "episode_url": "https://hianime.ad/watch/marriage/ep-1",
+      "sub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_sub": "https://vibeplayer.site/3c07ff909164484e",
+          "51552-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c07ff909164484e/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qyq8s11kwjbo",
+          "51552-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_dub": "https://vibeplayer.site/302148cef17e998c",
+          "51552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/302148cef17e998c/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/p4hl7j0k0luv",
+          "51552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_hsub": "https://vibeplayer.site/179e4a3d11f3da93",
+          "51552-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/179e4a3d11f3da93/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oomsh8sjapy7",
+          "51552-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51552-malep-1_playmogo_hsub": "https://playmogo.com/e/544pupfv0jkk",
+          "51552-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "About My Husband-to-Be",
+      "episode_url": "https://hianime.ad/watch/marriage/ep-2",
+      "sub": {
+        "HD-1": {
+          "51552-malep-2_vibeplayer_sub": "https://vibeplayer.site/166171cb3446826c",
+          "51552-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/166171cb3446826c/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-2_otakuvid_sub": "https://otakuvid.online/embed/sfpdypa8fmzj",
+          "51552-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51552-malep-2_vibeplayer_dub": "https://vibeplayer.site/7161e0ddafe26107",
+          "51552-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7161e0ddafe26107/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-2_otakuvid_dub": "https://otakuvid.online/embed/iqhytwdklbdd",
+          "51552-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51552-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3575588f98f151f3",
+          "51552-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3575588f98f151f3/master.m3u8"
+        },
+        "Earnvids": {
+          "51552-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/1wglgffnn53m",
+          "51552-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51552-malep-2_playmogo_hsub": "https://playmogo.com/e/lokjc57lfpcg",
+          "51552-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

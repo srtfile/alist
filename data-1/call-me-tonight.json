@@ -1,0 +1,56 @@
+{
+  "anime_name": "Call Me Tonight",
+  "anime_url": "https://hianime.ad/anime/call-me-tonight",
+  "slug": "call-me-tonight",
+  "mal_id": 44081,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:58:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Big Wave",
+      "episode_url": "https://hianime.ad/watch/call-me-tonight/ep-1",
+      "sub": {
+        "HD-1": {
+          "44081-malep-1_vibeplayer_sub": "https://vibeplayer.site/c0bd037525306fed",
+          "44081-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0bd037525306fed/master.m3u8"
+        },
+        "HD-2": {
+          "44081-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4384bf6149f243bd79e2230e35c0f3954h",
+          "44081-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "44081-malep-1_otakuhg_sub": "https://otakuhg.site/e/flrnp4nouk49",
+          "44081-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44081-malep-1_otakuvid_sub": "https://otakuvid.online/embed/oq8gyop0tmmx",
+          "44081-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "44081-malep-1_vibeplayer_hsub": "https://vibeplayer.site/56377fd97754413a",
+          "44081-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/56377fd97754413a/master.m3u8"
+        },
+        "HD-2": {
+          "44081-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1522ac99ca2ca8b93e95b28e2665ef234h",
+          "44081-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "44081-malep-1_otakuhg_hsub": "https://otakuhg.site/e/30ti52twxvkh",
+          "44081-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44081-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mg0ud3v949rs",
+          "44081-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44081-malep-1_playmogo_hsub": "https://playmogo.com/e/s6t3l53ewkbh",
+          "44081-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

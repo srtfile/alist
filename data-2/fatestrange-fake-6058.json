@@ -1,0 +1,60 @@
+{
+  "anime_name": "Fatestrange Fake 6058",
+  "anime_url": "https://hianime.ad/anime/fatestrange-fake-6058",
+  "slug": "fatestrange-fake-6058",
+  "mal_id": 55830,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:00:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Heroic Spirit Incident",
+      "episode_url": "https://hianime.ad/watch/fatestrange-fake-6058/ep-1",
+      "sub": {
+        "HD-1": {
+          "55830-malep-1_vibeplayer_sub": "https://vibeplayer.site/b971c6e4175a8e18",
+          "55830-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b971c6e4175a8e18/master.m3u8"
+        },
+        "HD-2": {
+          "55830-malep-1_vibeplayer_sub": "https://vibeplayer.site/agab05d406d8dadb046591af04aacfac1e4h",
+          "55830-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "55830-malep-1_otakuhg_sub": "https://otakuhg.site/e/fa8w26070hl6",
+          "55830-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55830-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0npeu80ddp7n",
+          "55830-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "55830-malep-1_playmogo_sub": "https://playmogo.com/e/m3jds0pvq913",
+          "55830-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55830-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b32717f03e616fed",
+          "55830-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b32717f03e616fed/master.m3u8"
+        },
+        "HD-2": {
+          "55830-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf8acfcecdf07fea081b8e25ea09946514h",
+          "55830-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55830-malep-1_otakuhg_hsub": "https://otakuhg.site/e/clk6w857meqf",
+          "55830-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55830-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/m0etqlu4e46i",
+          "55830-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55830-malep-1_playmogo_hsub": "https://playmogo.com/e/5df96dneav60",
+          "55830-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

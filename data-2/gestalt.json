@@ -1,0 +1,87 @@
+{
+  "anime_name": "Gestalt",
+  "anime_url": "https://hianime.ad/anime/gestalt",
+  "slug": "gestalt",
+  "mal_id": 42321,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T17:23:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "On Your Marks!",
+      "episode_url": "https://hianime.ad/watch/gestalt/ep-1",
+      "sub": {
+        "HD-1": {
+          "42321-malep-1_vibeplayer_sub": "https://vibeplayer.site/26194e7541f7b6a7",
+          "42321-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26194e7541f7b6a7/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qrek72w82j4l",
+          "42321-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42321-malep-1_vibeplayer_dub": "https://vibeplayer.site/dab575dbeaa66115",
+          "42321-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dab575dbeaa66115/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qgv6xb047k37",
+          "42321-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42321-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9e0b28317a892175",
+          "42321-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9e0b28317a892175/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/76x5kcykh7l3",
+          "42321-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42321-malep-1_playmogo_hsub": "https://playmogo.com/e/o5pvaf157gez",
+          "42321-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dreams Begin to Run",
+      "episode_url": "https://hianime.ad/watch/gestalt/ep-2",
+      "sub": {
+        "HD-1": {
+          "42321-malep-2_vibeplayer_sub": "https://vibeplayer.site/ec2667e6459e93b4",
+          "42321-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ec2667e6459e93b4/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-2_otakuvid_sub": "https://otakuvid.online/embed/50pn6kz0d127",
+          "42321-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42321-malep-2_vibeplayer_dub": "https://vibeplayer.site/3dfc6f44b48a026d",
+          "42321-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3dfc6f44b48a026d/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-2_otakuvid_dub": "https://otakuvid.online/embed/how2gyd4f7c1",
+          "42321-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42321-malep-2_vibeplayer_hsub": "https://vibeplayer.site/c9e7ea1b5b401b98",
+          "42321-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9e7ea1b5b401b98/master.m3u8"
+        },
+        "Earnvids": {
+          "42321-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/52zmj060j419",
+          "42321-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42321-malep-2_playmogo_hsub": "https://playmogo.com/e/1v7i3txx4tnh",
+          "42321-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

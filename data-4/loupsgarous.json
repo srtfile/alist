@@ -1,0 +1,53 @@
+{
+  "anime_name": "Loupsgarous",
+  "anime_url": "https://hianime.ad/anime/loupsgarous",
+  "slug": "loupsgarous",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:35:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/loupsgarous/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ee2055e1d0c492f3",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee2055e1d0c492f3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/rqs3u681vmhs",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/916h0yizu5oc",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/b5257af260e970da",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b5257af260e970da/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/bl5fgyfq6z57",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ff057b8179e16524",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff057b8179e16524/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/23t8eyp18u55",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/zc2u0a7p3b0i",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

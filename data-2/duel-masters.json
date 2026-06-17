@@ -1,0 +1,109 @@
+{
+  "anime_name": "Duel Masters",
+  "anime_url": "https://hianime.ad/anime/duel-masters",
+  "slug": "duel-masters",
+  "mal_id": 1685,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T10:03:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "This is a duel!",
+      "episode_url": "https://hianime.ad/watch/duel-masters/ep-1",
+      "sub": {
+        "HD-1": {
+          "1685-malep-1_vibeplayer_sub": "https://vibeplayer.site/611ccf46d25e782c",
+          "1685-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/611ccf46d25e782c/master.m3u8"
+        },
+        "HD-2": {
+          "1685-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdbdfed22d462bc4be5d75a16ff20aeec4h",
+          "1685-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1685-malep-1_otakuhg_sub": "https://otakuhg.site/e/fxhr7oah6s25",
+          "1685-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1685-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8nlxmqw2y9v7",
+          "1685-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1685-malep-1_playmogo_sub": "https://playmogo.com/e/f76qgl75pkyi",
+          "1685-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1685-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f3504a6a32adb35",
+          "1685-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f3504a6a32adb35/master.m3u8"
+        },
+        "HD-2": {
+          "1685-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4913de3a3226bcc59692f7c7b721d9664h",
+          "1685-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1685-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w8vmqywcqfgu",
+          "1685-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1685-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lacg5yzej9iq",
+          "1685-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1685-malep-1_playmogo_hsub": "https://playmogo.com/e/agf7ck5ikacr",
+          "1685-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Stealthy Shadow",
+      "episode_url": "https://hianime.ad/watch/duel-masters/ep-2",
+      "sub": {
+        "HD-1": {
+          "1685-malep-2_vibeplayer_sub": "https://vibeplayer.site/709c982db660880a",
+          "1685-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/709c982db660880a/master.m3u8"
+        },
+        "HD-2": {
+          "1685-malep-2_vibeplayer_sub": "https://vibeplayer.site/agcda7a30973fe7ccd0f14e89c7fdd20844h",
+          "1685-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1685-malep-2_otakuhg_sub": "https://otakuhg.site/e/jzu5416hrlc0",
+          "1685-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1685-malep-2_otakuvid_sub": "https://otakuvid.online/embed/m1wkvma34jv8",
+          "1685-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1685-malep-2_playmogo_sub": "https://playmogo.com/e/np3wl2kgvohk",
+          "1685-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1685-malep-2_vibeplayer_hsub": "https://vibeplayer.site/c8e1eec3f6935bca",
+          "1685-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8e1eec3f6935bca/master.m3u8"
+        },
+        "HD-2": {
+          "1685-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag5c3f0bb496e8d94bfaffc4f0948323c94h",
+          "1685-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1685-malep-2_otakuhg_hsub": "https://otakuhg.site/e/8htmwkhstlyc",
+          "1685-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1685-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/34tukmfzqh8g",
+          "1685-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1685-malep-2_playmogo_hsub": "https://playmogo.com/e/k6toxtccp3e0",
+          "1685-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

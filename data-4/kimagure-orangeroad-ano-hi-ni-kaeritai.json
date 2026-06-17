@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kimagure Orangeroad Ano Hi Ni Kaeritai",
+  "anime_url": "https://hianime.ad/anime/kimagure-orangeroad-ano-hi-ni-kaeritai",
+  "slug": "kimagure-orangeroad-ano-hi-ni-kaeritai",
+  "mal_id": 57058,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:38:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Parry a Cow",
+      "episode_url": "https://hianime.ad/watch/kimagure-orangeroad-ano-hi-ni-kaeritai/ep-1",
+      "sub": {
+        "HD-1": {
+          "57058-malep-1_vibeplayer_sub": "https://vibeplayer.site/926f05b7c8e0eaaf",
+          "57058-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/926f05b7c8e0eaaf/master.m3u8"
+        },
+        "Earnvids": {
+          "57058-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3zma81av9oko",
+          "57058-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "57058-malep-1_playmogo_sub": "https://playmogo.com/e/zdvwa93l4zpm",
+          "57058-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57058-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c26ebc3e03415608",
+          "57058-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c26ebc3e03415608/master.m3u8"
+        },
+        "Earnvids": {
+          "57058-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5bz2vkbymw13",
+          "57058-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57058-malep-1_playmogo_hsub": "https://playmogo.com/e/fmypttw04d8r",
+          "57058-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

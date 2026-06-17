@@ -1,0 +1,61 @@
+{
+  "anime_name": "Animal Treasure Island",
+  "anime_url": "https://hianime.ad/anime/animal-treasure-island",
+  "slug": "animal-treasure-island",
+  "mal_id": 48332,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:34:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/animal-treasure-island/ep-1",
+      "sub": {
+        "HD-1": {
+          "48332-malep-1_vibeplayer_sub": "https://vibeplayer.site/dfd5d60057a59079",
+          "48332-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dfd5d60057a59079/master.m3u8"
+        },
+        "HD-2": {
+          "48332-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7dfdf4a577a899469784c449782797b14h",
+          "48332-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48332-malep-1_otakuvid_sub": "https://otakuvid.online/embed/we8a14d2kat6",
+          "48332-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48332-malep-1_vibeplayer_dub": "https://vibeplayer.site/12a09f6cb1eae630",
+          "48332-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/12a09f6cb1eae630/master.m3u8"
+        },
+        "HD-2": {
+          "48332-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag1b905ade0d2a16df55e6067704189aee4h",
+          "48332-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48332-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hv3ol425g2j4",
+          "48332-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48332-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8315c801b665f497",
+          "48332-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8315c801b665f497/master.m3u8"
+        },
+        "HD-2": {
+          "48332-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag092c93e316c716956d50685f2f5dccb64h",
+          "48332-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48332-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ruiirqeuij9u",
+          "48332-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48332-malep-1_playmogo_hsub": "https://playmogo.com/e/wngfv0r1tncl",
+          "48332-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

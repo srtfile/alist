@@ -1,0 +1,53 @@
+{
+  "anime_name": "Kick Heart",
+  "anime_url": "https://hianime.ad/anime/kick-heart",
+  "slug": "kick-heart",
+  "mal_id": 49221,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:29:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kick-heart/ep-1",
+      "sub": {
+        "HD-1": {
+          "49221-malep-1_vibeplayer_sub": "https://vibeplayer.site/615b6aadeee32ba7",
+          "49221-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/615b6aadeee32ba7/master.m3u8"
+        },
+        "Earnvids": {
+          "49221-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gb0xam5rxku1",
+          "49221-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49221-malep-1_vibeplayer_dub": "https://vibeplayer.site/fb11370c9acc5484",
+          "49221-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fb11370c9acc5484/master.m3u8"
+        },
+        "Earnvids": {
+          "49221-malep-1_otakuvid_dub": "https://otakuvid.online/embed/m20653a4rqn5",
+          "49221-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49221-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eee6f302100d74f6",
+          "49221-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eee6f302100d74f6/master.m3u8"
+        },
+        "StreamHG": {
+          "49221-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3spkbc8p7d33",
+          "49221-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49221-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/53dv3rppk0y9",
+          "49221-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49221-malep-1_playmogo_hsub": "https://playmogo.com/e/tmj9pm77alkt",
+          "49221-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

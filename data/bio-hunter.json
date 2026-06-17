@@ -1,0 +1,69 @@
+{
+  "anime_name": "Bio Hunter",
+  "anime_url": "https://hianime.ad/anime/bio-hunter",
+  "slug": "bio-hunter",
+  "mal_id": 11061,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:23:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure × And × Friends",
+      "episode_url": "https://hianime.ad/watch/bio-hunter/ep-1",
+      "sub": {
+        "HD-1": {
+          "11061-malep-1_vibeplayer_sub": "https://vibeplayer.site/f0d95b3d39904334",
+          "11061-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0d95b3d39904334/master.m3u8"
+        },
+        "HD-2": {
+          "11061-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag59ea361bcd6e44ce13ee9beceeb910a14h",
+          "11061-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "11061-malep-1_otakuhg_sub": "https://otakuhg.site/e/8ff7s6zsewdx",
+          "11061-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "11061-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ihaqskoufgq1",
+          "11061-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "11061-malep-1_vibeplayer_dub": "https://vibeplayer.site/3f8d674c1aed2743",
+          "11061-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f8d674c1aed2743/master.m3u8"
+        },
+        "HD-2": {
+          "11061-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag4115da7f75eb9e4cba9d73bef26400f34h",
+          "11061-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "11061-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zlevqddj83hq",
+          "11061-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "11061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0731c5a11e482dc",
+          "11061-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0731c5a11e482dc/master.m3u8"
+        },
+        "HD-2": {
+          "11061-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agaa3e9240fd9b48520686ab08c30cc1704h",
+          "11061-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "11061-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jjn278xi6ty3",
+          "11061-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11061-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vv6ee49g2y55",
+          "11061-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11061-malep-1_playmogo_hsub": "https://playmogo.com/e/nhz742y8xirq",
+          "11061-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

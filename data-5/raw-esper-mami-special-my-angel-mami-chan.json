@@ -1,0 +1,36 @@
+{
+  "anime_name": "Raw Esper Mami Special My Angel Mami Chan",
+  "anime_url": "https://hianime.ad/anime/raw-esper-mami-special-my-angel-mami-chan",
+  "slug": "raw-esper-mami-special-my-angel-mami-chan",
+  "mal_id": 14563,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T15:39:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/raw-esper-mami-special-my-angel-mami-chan/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "14563-malep-1_vibeplayer_raw": "https://vibeplayer.site/09179e3e6f6acb00",
+          "14563-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/09179e3e6f6acb00/master.m3u8"
+        },
+        "HD-2": {
+          "14563-malep-1_vibeplayer_raw": "https://vibeplayer.site/agd0e07d00c557f16fc22f23eb2780159c4h",
+          "14563-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "14563-malep-1_otakuhg_raw": "https://otakuhg.site/e/5xzhc9i13ng8",
+          "14563-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "14563-malep-1_otakuvid_raw": "https://otakuvid.online/embed/31arwmqc3ng3",
+          "14563-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

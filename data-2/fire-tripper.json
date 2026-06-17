@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fire Tripper",
+  "anime_url": "https://hianime.ad/anime/fire-tripper",
+  "slug": "fire-tripper",
+  "mal_id": 4667,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:28:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wishes For The Stars",
+      "episode_url": "https://hianime.ad/watch/fire-tripper/ep-1",
+      "sub": {
+        "HD-1": {
+          "4667-malep-1_vibeplayer_sub": "https://vibeplayer.site/6ff10801285c41c3",
+          "4667-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ff10801285c41c3/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag78fb253d5e0c33da43675013deff4c674h",
+          "4667-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ak584vmqjv9s",
+          "4667-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4667-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4e8bdb136be78802",
+          "4667-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e8bdb136be78802/master.m3u8"
+        },
+        "HD-2": {
+          "4667-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd9af8e58ac0d0a2b22fc26b2b4b6047b4h",
+          "4667-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4667-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ujob6u7up4ai",
+          "4667-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4667-malep-1_playmogo_hsub": "https://playmogo.com/e/alpk868dhki7",
+          "4667-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

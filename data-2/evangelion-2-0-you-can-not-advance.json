@@ -1,0 +1,77 @@
+{
+  "anime_name": "Evangelion 2 0 You Can Not Advance",
+  "anime_url": "https://hianime.ad/anime/evangelion-2-0-you-can-not-advance",
+  "slug": "evangelion-2-0-you-can-not-advance",
+  "mal_id": 261,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:41:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sparkly - Uniform Show",
+      "episode_url": "https://hianime.ad/watch/evangelion-2-0-you-can-not-advance/ep-1",
+      "sub": {
+        "HD-1": {
+          "261-malep-1_vibeplayer_sub": "https://vibeplayer.site/6933df6a4a6b5114",
+          "261-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6933df6a4a6b5114/master.m3u8"
+        },
+        "HD-2": {
+          "261-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbb09aab18826796943fbfa7213808bbe4h",
+          "261-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "261-malep-1_otakuhg_sub": "https://otakuhg.site/e/phvuhy8cyhy5",
+          "261-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "261-malep-1_otakuvid_sub": "https://otakuvid.online/embed/94limdmf3juy",
+          "261-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "261-malep-1_vibeplayer_dub": "https://vibeplayer.site/6addf862e655bb68",
+          "261-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6addf862e655bb68/master.m3u8"
+        },
+        "HD-2": {
+          "261-malep-1_vibeplayer_dub": "https://vibeplayer.site/agb3cbdf9792cf83353ebd302403e8c40d4h",
+          "261-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "261-malep-1_otakuhg_dub": "https://otakuhg.site/e/b2dtlzaht2tb",
+          "261-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "261-malep-1_otakuvid_dub": "https://otakuvid.online/embed/k5gjoa2kpl82",
+          "261-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "261-malep-1_playmogo_dub": "https://playmogo.com/e/ddtni131nql1",
+          "261-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "261-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d58326d0dda1af51",
+          "261-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d58326d0dda1af51/master.m3u8"
+        },
+        "HD-2": {
+          "261-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3e96df96120360f09c1f6edcc5807a7e4h",
+          "261-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "261-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x4oayskq1viy",
+          "261-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "261-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hlermz9okvfm",
+          "261-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "261-malep-1_playmogo_hsub": "https://playmogo.com/e/57ojp8k2dvzv",
+          "261-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

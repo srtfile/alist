@@ -1,0 +1,69 @@
+{
+  "anime_name": "Escaflowne A Girl In Gaea",
+  "anime_url": "https://hianime.ad/anime/escaflowne-a-girl-in-gaea",
+  "slug": "escaflowne-a-girl-in-gaea",
+  "mal_id": 50862,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:34:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "You Can't Run from Schoolwork",
+      "episode_url": "https://hianime.ad/watch/escaflowne-a-girl-in-gaea/ep-1",
+      "sub": {
+        "HD-1": {
+          "50862-malep-1_vibeplayer_sub": "https://vibeplayer.site/fd38e03099501df6",
+          "50862-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd38e03099501df6/master.m3u8"
+        },
+        "HD-2": {
+          "50862-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2dd67aa01fdf416d9fc87608e945eb234h",
+          "50862-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50862-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8z69k3cskqjf",
+          "50862-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "50862-malep-1_vibeplayer_dub": "https://vibeplayer.site/2d77701bb5332cfe",
+          "50862-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2d77701bb5332cfe/master.m3u8"
+        },
+        "HD-2": {
+          "50862-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag32a070378cbba993c30e6f6085e3d2a54h",
+          "50862-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "50862-malep-1_otakuhg_dub": "https://otakuhg.site/e/21o4y0s7btak",
+          "50862-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "50862-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2ez3ygiu8h38",
+          "50862-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "50862-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7a937bf34f673e50",
+          "50862-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a937bf34f673e50/master.m3u8"
+        },
+        "HD-2": {
+          "50862-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8f56ae9fa1deee6b6dd779474aa501f24h",
+          "50862-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "50862-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mrkzakli2dhm",
+          "50862-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50862-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4za0qw873h6b",
+          "50862-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50862-malep-1_playmogo_hsub": "https://playmogo.com/e/onnu9l2ypiv6",
+          "50862-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

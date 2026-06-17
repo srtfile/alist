@@ -1,0 +1,48 @@
+{
+  "anime_name": "Galaxy Express 999 Can You Love Like A Mother",
+  "anime_url": "https://hianime.ad/anime/galaxy-express-999-can-you-love-like-a-mother",
+  "slug": "galaxy-express-999-can-you-love-like-a-mother",
+  "mal_id": 1491,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:44:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure Ballad",
+      "episode_url": "https://hianime.ad/watch/galaxy-express-999-can-you-love-like-a-mother/ep-1",
+      "sub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/b8eac587b98beb3b",
+          "1491-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8eac587b98beb3b/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_sub": "https://vibeplayer.site/agae62d940b6e91e9c3f1d3c0c9ff0b12b4h",
+          "1491-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3ofgxn1jcryf",
+          "1491-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/55faea7d9cd7abf0",
+          "1491-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55faea7d9cd7abf0/master.m3u8"
+        },
+        "HD-2": {
+          "1491-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc6f302a10a7ffba3473902d937596a0d4h",
+          "1491-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1491-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y33dcs4yvgxc",
+          "1491-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1491-malep-1_playmogo_hsub": "https://playmogo.com/e/4vtgbdqg2hll",
+          "1491-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

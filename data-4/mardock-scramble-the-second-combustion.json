@@ -1,0 +1,53 @@
+{
+  "anime_name": "Mardock Scramble The Second Combustion",
+  "anime_url": "https://hianime.ad/anime/mardock-scramble-the-second-combustion",
+  "slug": "mardock-scramble-the-second-combustion",
+  "mal_id": 1000,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:15:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Jolly Roger That Flutters Through Space",
+      "episode_url": "https://hianime.ad/watch/mardock-scramble-the-second-combustion/ep-1",
+      "sub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_sub": "https://vibeplayer.site/cb9c136969a1412e",
+          "1000-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb9c136969a1412e/master.m3u8"
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0r3lgensghtx",
+          "1000-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_dub": "https://vibeplayer.site/e552a60db7241548",
+          "1000-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e552a60db7241548/master.m3u8"
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_dub": "https://otakuvid.online/embed/7ummnbat9pzy",
+          "1000-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1000-malep-1_playmogo_dub": "https://playmogo.com/e/kcrr9alljn21",
+          "1000-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dad66a6c5b1b2ecb",
+          "1000-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dad66a6c5b1b2ecb/master.m3u8"
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ng153z8528zp",
+          "1000-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1000-malep-1_playmogo_hsub": "https://playmogo.com/e/d9dpdej32cbf",
+          "1000-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

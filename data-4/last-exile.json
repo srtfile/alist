@@ -1,0 +1,993 @@
+{
+  "anime_name": "Last Exile",
+  "anime_url": "https://hianime.ad/anime/last-exile",
+  "slug": "last-exile",
+  "mal_id": null,
+  "total_episodes": 26,
+  "captured_at": "2026-06-17T04:19:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First move",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/4368869324bb9d50",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4368869324bb9d50/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/7tzpsxzbwz8v",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/839fa8fe06aa04ef",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/839fa8fe06aa04ef/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/tndiunlwg50k",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/xkdbqf1o1u1m",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/54974c8f5d4c7a10",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54974c8f5d4c7a10/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/lrconuxnm2s4",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1savowgafu1a",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/z1tjvn0te0sw",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Luft Vanship",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/c3f276c976cca468",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c3f276c976cca468/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/rd7x4zqljikg",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/8cpr0mjyioct",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/8432a312cd13d33c",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8432a312cd13d33c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/8kbgaf506qbz",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Transpose",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/c1940de9cb820d3e",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1940de9cb820d3e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/9pxtq3c8g3rw",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/4nn6l4c64l9q",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/2e4268ea6b274642",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2e4268ea6b274642/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/ffpd84ozuafg",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Zugzwang",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/921034feaa77ec56",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/921034feaa77ec56/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/oh9qhlzo6ode",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/691jhyjr0zzj",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/1032141686bffaa9",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1032141686bffaa9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/1pdomshs8djo",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Positional play",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/dab1192c4555cddb",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dab1192c4555cddb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/kmv2f9leuqn0",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/29lr9kmyhiux",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/14e15e1ff95968a1",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/14e15e1ff95968a1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/q0ge0xgoys91",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/b53ad9816fe3d159",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b53ad9816fe3d159/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/8e48u7jpg2mp",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/5nfa95om4vm3",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/p4ournpw4kl2",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Arbiter attack",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/ba0e9238295ca9c4",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba0e9238295ca9c4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_sub": "https://otakuhg.site/e/bk0undvjrg8j",
+          "malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/f8gf9pi80f0y",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/7578ad2ccc025954",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7578ad2ccc025954/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/f30jikynm3mi",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Interesting Claus",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/e4129e2452706289",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e4129e2452706289/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/ekyd02t83ojv",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/iivbfglzdiib",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/d9db2ebee315f479",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d9db2ebee315f479/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/d48xqw2wnzqu",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Takeback",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/3ef86c27ca9eede8",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ef86c27ca9eede8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/v35e4fi78a13",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/pko9vtd32url",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/9975d72bb2456b2f",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9975d72bb2456b2f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/uhvfe9gjcup3",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Calculate Alex",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/ad24db2213b68cdf",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad24db2213b68cdf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/rkf950ix6eof",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/2f2a3d6497ecc8ef",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f2a3d6497ecc8ef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/hukglhybyly4",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/95cd020326245a84",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95cd020326245a84/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/wn9rzamvep0q",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/nvfcxbr829dg",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/jrtohygaipj8",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Swindle",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/5eaa2710eaa67c0a",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5eaa2710eaa67c0a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/1d5m5h8pm8kj",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/160ff8fa27c5aaf8",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/160ff8fa27c5aaf8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/owc5afyqhdkn",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/edcdd2945795e6fd",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/edcdd2945795e6fd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/0aexeg47w3e3",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/1cgcuqe3gl37",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/fmrrk7t6gxej",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Develop",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/2cbfbfbe7ae28824",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2cbfbfbe7ae28824/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/gjjvipnxu3u3",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/7a212871b5a356d1",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7a212871b5a356d1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/e8lkp3p5532e",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/8tgnqaxq8yru",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/5e9b358a62eb51b9",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5e9b358a62eb51b9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/s8nvoya1ymf7",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/176kpqpbd2lu",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/a3bg7exg7bek",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Discovered attack",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/d974dd6205a501ea",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d974dd6205a501ea/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/hbfcmiw4lhdf",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/abfc644581e1def4",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/abfc644581e1def4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/7m7cr2k2f1h1",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/b8fd04021b119c92",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8fd04021b119c92/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/axbk4bgy8fa7",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/2v9e7wbw9xib",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/izl3zg1rf1nn",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Isolated pawn",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/339fcf9a4f40e302",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/339fcf9a4f40e302/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/kqyhnqlows51",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/d8dff0e634a3c57e",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d8dff0e634a3c57e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/gmjrnwzjym09",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/f21540d6255311dd",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f21540d6255311dd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/loneim2pczxf",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/2h2qmtpy7n96",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/aj9ac73ff5nn",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Étude Lavie",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/95707dfc781c9ac0",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/95707dfc781c9ac0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/336k87nv0olt",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/ed38109084adb53d",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed38109084adb53d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/51kgg85s1tlm",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-14_vibeplayer_hsub": "https://vibeplayer.site/c5fb766b43d5026f",
+          "malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5fb766b43d5026f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_hsub": "https://otakuhg.site/e/5cgoeq0cvpj7",
+          "malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_hsub": "https://otakuvid.online/embed/90uq8d210122",
+          "malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_hsub": "https://playmogo.com/e/57g0mkwkzmr3",
+          "malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fairy chess",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/4030eff1fd4e8a64",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4030eff1fd4e8a64/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/hxpep1f7sj9l",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/09a6176fddf8e55f",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/09a6176fddf8e55f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/3mdyttrfuo4f",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/1db64b1147ae587b",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1db64b1147ae587b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_hsub": "https://otakuhg.site/e/ht5ozkvy619n",
+          "malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/s4k4zk1ywyky",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/3htusqtt7gax",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Breakthrough",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/ad6874c4b8b2e016",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad6874c4b8b2e016/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_sub": "https://otakuhg.site/e/d2nnw8qvht58",
+          "malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/rjmsbi548uzf",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/529de6919ef3cd7d",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/529de6919ef3cd7d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/c17aukq7ozdc",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Making material",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/9b25ad66433654f1",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9b25ad66433654f1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_sub": "https://otakuhg.site/e/j8z8b3ol9ef2",
+          "malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/mgnnglflcpxq",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/fd1904099b1b4440",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fd1904099b1b4440/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/uqtrw9ktbn79",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Promotion Sophia",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/c33f9cf8edb8d5b7",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c33f9cf8edb8d5b7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/siz9upw9newv",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/f7b125deb255afbc",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7b125deb255afbc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/xmrbxwqryebv",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/8ef28101d081e30d",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ef28101d081e30d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_hsub": "https://otakuhg.site/e/g99nnynab841",
+          "malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/vz4xbdr3asce",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/uz53syezzlp2",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sicilian Defence",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/20d0cfb23a49a204",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20d0cfb23a49a204/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/9b88u63c61yn",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/4c93533109c7e74c",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c93533109c7e74c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/lyc5xowe9cha",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/ac13fa402aec8897",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ac13fa402aec8897/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_hsub": "https://otakuhg.site/e/zqh219gm5bcj",
+          "malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/1g8xh90lpwr6",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/ult72zdtgq9c",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Grand Stream",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/8c6593f1fef8151b",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c6593f1fef8151b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_sub": "https://otakuhg.site/e/vaj3ci3b9j2v",
+          "malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/lphxxv8oaa8y",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/d46d188ecb34a6b6",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d46d188ecb34a6b6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/yvnqj4cz9cx6",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Rook Dio",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/364b5962bb57fa9d",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/364b5962bb57fa9d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/8c9nn22r0wzj",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/3428a23a0f3f44c8",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3428a23a0f3f44c8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/rm9a8f6bdcnw",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/7e82cb7965991ba5",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e82cb7965991ba5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_hsub": "https://otakuhg.site/e/6u2p4iyfyhty",
+          "malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/c3w23xwapvzw",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/y1ri37cfvxfh",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Queen Delphine",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/f773e93c419ba782",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f773e93c419ba782/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_sub": "https://otakuhg.site/e/niz4d43h6us2",
+          "malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/lli75rtpppnh",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/7f63fcbb0d37b585",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7f63fcbb0d37b585/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/59rggqb4bt4a",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Castling Lucciola",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/6636bc1a5bd003e6",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6636bc1a5bd003e6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/y1ouyonij93u",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/b4c9905b99430351",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b4c9905b99430351/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/0mmyqrnevw24",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/656652e110d17f4d",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/656652e110d17f4d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_hsub": "https://otakuhg.site/e/k1cb1f0d0ry9",
+          "malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/jc8t91bwbkt5",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/otf53wkcjsrq",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sealed move",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/8332abe91edaf366",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8332abe91edaf366/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_sub": "https://otakuhg.site/e/it9wrck19xa7",
+          "malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/jtxixd0zjfsa",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/1489979d0b959c2e",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1489979d0b959c2e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/dmyp4j2q3zut",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-24_vibeplayer_hsub": "https://vibeplayer.site/b500f6c241714edb",
+          "malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b500f6c241714edb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_hsub": "https://otakuhg.site/e/2vz9eaj2dfiu",
+          "malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_hsub": "https://otakuvid.online/embed/lhyswhy6dzm3",
+          "malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-24_playmogo_hsub": "https://playmogo.com/e/mrat2wwv21yr",
+          "malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Quiet move",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/6e46f465b183357e",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6e46f465b183357e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_sub": "https://otakuhg.site/e/iq27yu3pbumu",
+          "malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/tv4o36dkmlo2",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/0e85f63cb99d8514",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0e85f63cb99d8514/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/ukhtpy6cxlml",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-25_vibeplayer_hsub": "https://vibeplayer.site/3a1561e0c1fd6769",
+          "malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a1561e0c1fd6769/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_hsub": "https://otakuhg.site/e/8kg6yjjzo1zv",
+          "malep-25_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_hsub": "https://otakuvid.online/embed/a4kxa8e1pf5p",
+          "malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-25_playmogo_hsub": "https://playmogo.com/e/ogg7wo2bvwz7",
+          "malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Resign",
+      "episode_url": "https://hianime.ad/watch/last-exile/ep-26",
+      "sub": {
+        "HD-1": {
+          "malep-26_vibeplayer_sub": "https://vibeplayer.site/254553f1bb00700a",
+          "malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/254553f1bb00700a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_sub": "https://otakuvid.online/embed/xz1e1cxfn8r7",
+          "malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-26_vibeplayer_dub": "https://vibeplayer.site/5929ef876c02297c",
+          "malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5929ef876c02297c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_dub": "https://otakuvid.online/embed/ulqki7rpa5af",
+          "malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-26_vibeplayer_hsub": "https://vibeplayer.site/f8ab4189587302dd",
+          "malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8ab4189587302dd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-26_otakuhg_hsub": "https://otakuhg.site/e/iemksdu5vrli",
+          "malep-26_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_hsub": "https://otakuvid.online/embed/0r5k8so8m7mu",
+          "malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-26_playmogo_hsub": "https://playmogo.com/e/xmld1gzbb7ln",
+          "malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

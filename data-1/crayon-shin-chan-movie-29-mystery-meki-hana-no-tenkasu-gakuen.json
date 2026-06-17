@@ -1,0 +1,48 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 29 Mystery Meki Hana No Tenkasu Gakuen",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen",
+  "slug": "crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:44:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/64154dbc20cd8663",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/64154dbc20cd8663/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag72c3a87f7794f9639f6c4e4e9e40e5954h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/h7h7lirsy2lu",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a39493ff17d443bf",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a39493ff17d443bf/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd412ee618cd3c2e0e0e088469fef10a84h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f1ig5qhdoxn2",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/5o5pp0t6g9z0",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

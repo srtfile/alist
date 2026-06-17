@@ -1,0 +1,44 @@
+{
+  "anime_name": "Isuca Gokuraku",
+  "anime_url": "https://hianime.ad/anime/isuca-gokuraku",
+  "slug": "isuca-gokuraku",
+  "mal_id": 25429,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:33:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chance Meeting",
+      "episode_url": "https://hianime.ad/watch/isuca-gokuraku/ep-1",
+      "sub": {
+        "HD-1": {
+          "25429-malep-1_vibeplayer_sub": "https://vibeplayer.site/61d4396710f72906",
+          "25429-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61d4396710f72906/master.m3u8"
+        },
+        "Earnvids": {
+          "25429-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xp079x1rdluc",
+          "25429-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25429-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3f06408735401bd2",
+          "25429-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f06408735401bd2/master.m3u8"
+        },
+        "StreamHG": {
+          "25429-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6vdcow8qxltk",
+          "25429-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25429-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ptwryetjq0uf",
+          "25429-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25429-malep-1_playmogo_hsub": "https://playmogo.com/e/imbz765mzbks",
+          "25429-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

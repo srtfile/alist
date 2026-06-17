@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kirakiraprecure A La Mode Movie Paritto Omoide No Mille Feuille",
+  "anime_url": "https://hianime.ad/anime/kirakiraprecure-a-la-mode-movie-paritto-omoide-no-mille-feuille",
+  "slug": "kirakiraprecure-a-la-mode-movie-paritto-omoide-no-mille-feuille",
+  "mal_id": 55689,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:25:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pop Music Debut?!",
+      "episode_url": "https://hianime.ad/watch/kirakiraprecure-a-la-mode-movie-paritto-omoide-no-mille-feuille/ep-1",
+      "sub": {
+        "HD-1": {
+          "55689-malep-1_vibeplayer_sub": "https://vibeplayer.site/50fc823a6a901541",
+          "55689-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50fc823a6a901541/master.m3u8"
+        },
+        "Earnvids": {
+          "55689-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ign8d7kgmcg5",
+          "55689-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55689-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bd763a91baead908",
+          "55689-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd763a91baead908/master.m3u8"
+        },
+        "StreamHG": {
+          "55689-malep-1_otakuhg_hsub": "https://otakuhg.site/e/22yacwxrgyjc",
+          "55689-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55689-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oupav6cps2s3",
+          "55689-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55689-malep-1_playmogo_hsub": "https://playmogo.com/e/2e5nrv93ouv4",
+          "55689-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

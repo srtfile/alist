@@ -1,0 +1,52 @@
+{
+  "anime_name": "Detective Conan Black History",
+  "anime_url": "https://hianime.ad/anime/detective-conan-black-history",
+  "slug": "detective-conan-black-history",
+  "mal_id": 235,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:12:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Roller Coaster Murder Case",
+      "episode_url": "https://hianime.ad/watch/detective-conan-black-history/ep-1",
+      "sub": {
+        "HD-1": {
+          "235-malep-1_vibeplayer_sub": "https://vibeplayer.site/ae51e2b736cfc986",
+          "235-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ae51e2b736cfc986/master.m3u8"
+        },
+        "HD-2": {
+          "235-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb821027c0eed871869aba308cc75e5774h",
+          "235-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "235-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uwvq6i8n1nji",
+          "235-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f743685f75c5bf68",
+          "235-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f743685f75c5bf68/master.m3u8"
+        },
+        "HD-2": {
+          "235-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9a0e924cd3a272dff314b7f32045848a4h",
+          "235-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "235-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2zxb7zqo7fva",
+          "235-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "235-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hswl4vfdrvtc",
+          "235-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "235-malep-1_playmogo_hsub": "https://playmogo.com/e/inqf66m7jam8",
+          "235-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

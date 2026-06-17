@@ -1,0 +1,73 @@
+{
+  "anime_name": "Date A Live Ii Kurumi Star Festival",
+  "anime_url": "https://hianime.ad/anime/date-a-live-ii-kurumi-star-festival",
+  "slug": "date-a-live-ii-kurumi-star-festival",
+  "mal_id": 19163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:45:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Daily Life",
+      "episode_url": "https://hianime.ad/watch/date-a-live-ii-kurumi-star-festival/ep-1",
+      "sub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/1764b2f09d155822",
+          "19163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1764b2f09d155822/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4f17d1a238c5c83a4faa2e62e293a8104h",
+          "19163-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lc0bpxwkh648",
+          "19163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_dub": "https://vibeplayer.site/f42b169c4936cb7e",
+          "19163-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f42b169c4936cb7e/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag724bd8354d8352cccd8bef67f64c4e5d4h",
+          "19163-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_dub": "https://otakuhg.site/e/bvqtphj5f9ko",
+          "19163-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qea5ic9berwm",
+          "19163-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "19163-malep-1_playmogo_dub": "https://playmogo.com/e/l7b3afbfgzj2",
+          "19163-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8edf671709b38e39",
+          "19163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8edf671709b38e39/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc8f3b12e0402ad707b546ebea4e616da4h",
+          "19163-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fibd2tfjpgfe",
+          "19163-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hu3t1zfd0v7k",
+          "19163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19163-malep-1_playmogo_hsub": "https://playmogo.com/e/fm25ze8zof8i",
+          "19163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

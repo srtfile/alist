@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bloody Escape Jigoku No Tousou Geki",
+  "anime_url": "https://hianime.ad/anime/bloody-escape-jigoku-no-tousou-geki",
+  "slug": "bloody-escape-jigoku-no-tousou-geki",
+  "mal_id": 24793,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:50:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/bloody-escape-jigoku-no-tousou-geki/ep-1",
+      "sub": {
+        "HD-1": {
+          "24793-malep-1_vibeplayer_sub": "https://vibeplayer.site/4147393275ff02bc",
+          "24793-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4147393275ff02bc/master.m3u8"
+        },
+        "HD-2": {
+          "24793-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4572534dd35c584fd9b35f39c56d037c4h",
+          "24793-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "24793-malep-1_otakuvid_sub": "https://otakuvid.online/embed/11q0f8zm74wc",
+          "24793-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "24793-malep-1_playmogo_sub": "https://playmogo.com/e/27fbl5lfzmnk",
+          "24793-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "24793-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7f806365da1e368e",
+          "24793-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7f806365da1e368e/master.m3u8"
+        },
+        "HD-2": {
+          "24793-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag67b720096369a3f2ce9c9cb3b5cccf794h",
+          "24793-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "24793-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r1ltwh707ff1",
+          "24793-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "24793-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kpsg9f5yh035",
+          "24793-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "24793-malep-1_playmogo_hsub": "https://playmogo.com/e/cpx2ebgqasjt",
+          "24793-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

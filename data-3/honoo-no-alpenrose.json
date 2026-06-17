@@ -1,0 +1,69 @@
+{
+  "anime_name": "Honoo No Alpenrose",
+  "anime_url": "https://hianime.ad/anime/honoo-no-alpenrose",
+  "slug": "honoo-no-alpenrose",
+  "mal_id": 3807,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T05:06:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/honoo-no-alpenrose/ep-1",
+      "sub": {
+        "HD-1": {
+          "3807-malep-1_vibeplayer_sub": "https://vibeplayer.site/eec161e9453f8bfd",
+          "3807-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eec161e9453f8bfd/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zf4v4bzi6q9t",
+          "3807-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3807-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a02075e6de3e4d87",
+          "3807-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a02075e6de3e4d87/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2vid6ifwee8h",
+          "3807-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3807-malep-1_playmogo_hsub": "https://playmogo.com/e/hfxll5cf9s51",
+          "3807-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/honoo-no-alpenrose/ep-2",
+      "sub": {
+        "HD-1": {
+          "3807-malep-2_vibeplayer_sub": "https://vibeplayer.site/df6d5597efe46a83",
+          "3807-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df6d5597efe46a83/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ja2una6z90kq",
+          "3807-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3807-malep-2_vibeplayer_hsub": "https://vibeplayer.site/e50e2259409f4fe4",
+          "3807-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e50e2259409f4fe4/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/2ottt4vvv3m9",
+          "3807-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3807-malep-2_playmogo_hsub": "https://playmogo.com/e/6b3xqeydqq19",
+          "3807-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "anime_name": "Campione",
+  "anime_url": "https://hianime.ad/anime/campione",
+  "slug": "campione",
+  "mal_id": 12293,
+  "total_episodes": 13,
+  "captured_at": "2026-06-03T04:00:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tale of the Beginning",
+      "episode_url": "https://hianime.ad/watch/campione/ep-1",
+      "sub": {
+        "HD-1": {
+          "12293-malep-1_vibeplayer_sub": "https://vibeplayer.site/0d77202cd64346af",
+          "12293-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d77202cd64346af/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5b7d736b9f02c393b6118b8cab6f34eb4h",
+          "12293-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-1_otakuhg_sub": "https://otakuhg.site/e/dqf9cinqtgjc",
+          "12293-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wz4ixgqnvtqy",
+          "12293-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-1_vibeplayer_dub": "https://vibeplayer.site/f2db8da9c4501764",
+          "12293-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f2db8da9c4501764/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd668f6c5599f26983142f7b34744e5ef4h",
+          "12293-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-1_otakuhg_dub": "https://otakuhg.site/e/kghyi519kwcn",
+          "12293-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zo7q3gu87zmg",
+          "12293-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Landscape with a King",
+      "episode_url": "https://hianime.ad/watch/campione/ep-2",
+      "sub": {
+        "HD-1": {
+          "12293-malep-2_vibeplayer_sub": "https://vibeplayer.site/320aa9ec7c43e4b0",
+          "12293-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/320aa9ec7c43e4b0/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag778c0df0431fdd1fbd2d792a483589e34h",
+          "12293-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-2_otakuvid_sub": "https://otakuvid.online/embed/eun9jubce1qj",
+          "12293-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-2_vibeplayer_dub": "https://vibeplayer.site/6b2bb77e38428132",
+          "12293-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6b2bb77e38428132/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-2_vibeplayer_dub": "https://vibeplayer.site/agb060a773e07ebc7751e66704440623f94h",
+          "12293-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-2_otakuvid_dub": "https://otakuvid.online/embed/146uyyt3qg99",
+          "12293-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-2_vibeplayer_hsub": "https://vibeplayer.site/9a3f4f79edd3b185",
+          "12293-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9a3f4f79edd3b185/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag16731995da5413bd09a6e43a00fb6b4a4h",
+          "12293-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-2_otakuhg_hsub": "https://otakuhg.site/e/gzjx30sqn5bk",
+          "12293-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/kwbvewh00o4q",
+          "12293-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-2_playmogo_hsub": "https://playmogo.com/e/ehihjvq7u7t7",
+          "12293-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "From Afar, An Enemy Comes",
+      "episode_url": "https://hianime.ad/watch/campione/ep-3",
+      "sub": {
+        "HD-1": {
+          "12293-malep-3_vibeplayer_sub": "https://vibeplayer.site/4ca8c89a20b240f2",
+          "12293-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ca8c89a20b240f2/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-3_vibeplayer_sub": "https://vibeplayer.site/agebd69a3b9e1ac6cd9a9cfdfe861575354h",
+          "12293-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-3_otakuvid_sub": "https://otakuvid.online/embed/zjo99wehu917",
+          "12293-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-3_vibeplayer_dub": "https://vibeplayer.site/cc5a2201b0a53cb0",
+          "12293-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cc5a2201b0a53cb0/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-3_vibeplayer_dub": "https://vibeplayer.site/agffb7e3af88412e16d187d3272a1042104h",
+          "12293-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-3_otakuvid_dub": "https://otakuvid.online/embed/g1203gsft9lw",
+          "12293-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-3_vibeplayer_hsub": "https://vibeplayer.site/3a9cb105d70fe043",
+          "12293-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a9cb105d70fe043/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag20358e74f75b475c47b584c7a394310e4h",
+          "12293-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-3_otakuhg_hsub": "https://otakuhg.site/e/fodx3bvqz0ox",
+          "12293-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/3k9lgni5ixmw",
+          "12293-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-3_playmogo_hsub": "https://playmogo.com/e/hom9dxgo3972",
+          "12293-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Rogue Athena",
+      "episode_url": "https://hianime.ad/watch/campione/ep-4",
+      "sub": {
+        "HD-1": {
+          "12293-malep-4_vibeplayer_sub": "https://vibeplayer.site/db5f5f6e53ddbf2f",
+          "12293-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/db5f5f6e53ddbf2f/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-4_vibeplayer_sub": "https://vibeplayer.site/ag6ffde075f791a944da9c710d7be1b9654h",
+          "12293-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-4_otakuvid_sub": "https://otakuvid.online/embed/dpw7ffd1tn1o",
+          "12293-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-4_vibeplayer_dub": "https://vibeplayer.site/5704f87ea3e80000",
+          "12293-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5704f87ea3e80000/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-4_vibeplayer_dub": "https://vibeplayer.site/agde74d69f5b891b9719639f123710d3144h",
+          "12293-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-4_otakuvid_dub": "https://otakuvid.online/embed/tw73nn4rqwmp",
+          "12293-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-4_vibeplayer_hsub": "https://vibeplayer.site/f3508ad8ad65fbdd",
+          "12293-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f3508ad8ad65fbdd/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag79c7e332241bf34fa51b525713a01f3b4h",
+          "12293-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-4_otakuhg_hsub": "https://otakuhg.site/e/vx1fupr0do76",
+          "12293-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/1d4banmb7eny",
+          "12293-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-4_playmogo_hsub": "https://playmogo.com/e/h3n34lqzsut7",
+          "12293-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Unpleasant Days",
+      "episode_url": "https://hianime.ad/watch/campione/ep-5",
+      "sub": {
+        "HD-1": {
+          "12293-malep-5_vibeplayer_sub": "https://vibeplayer.site/bcced4f5be97d811",
+          "12293-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bcced4f5be97d811/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag3c3541ad0b7f5aaeee99e4ea3cb849254h",
+          "12293-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-5_otakuvid_sub": "https://otakuvid.online/embed/x943rzxxeqj2",
+          "12293-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-5_vibeplayer_dub": "https://vibeplayer.site/eb5a90eec3b48cec",
+          "12293-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eb5a90eec3b48cec/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-5_vibeplayer_dub": "https://vibeplayer.site/agf3e05eaed8b2900a9423cc6edbb542ad4h",
+          "12293-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-5_otakuvid_dub": "https://otakuvid.online/embed/665uayebzz2b",
+          "12293-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-5_vibeplayer_hsub": "https://vibeplayer.site/9fce80f874167b9e",
+          "12293-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9fce80f874167b9e/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag3b216509d5856745feaf6ee01b589cc64h",
+          "12293-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-5_otakuhg_hsub": "https://otakuhg.site/e/12czvf1qw502",
+          "12293-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/n21zq4sjp1d4",
+          "12293-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-5_playmogo_hsub": "https://playmogo.com/e/vvtb1i8bedd7",
+          "12293-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Kings Converse",
+      "episode_url": "https://hianime.ad/watch/campione/ep-6",
+      "sub": {
+        "HD-1": {
+          "12293-malep-6_vibeplayer_sub": "https://vibeplayer.site/ba0e421ed32a38eb",
+          "12293-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba0e421ed32a38eb/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag9af9f1c01e7a04c9b3b78077f6a4fb144h",
+          "12293-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-6_otakuvid_sub": "https://otakuvid.online/embed/s4dpzc8ta8x2",
+          "12293-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-6_vibeplayer_dub": "https://vibeplayer.site/7f6a1c2a6de991d2",
+          "12293-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7f6a1c2a6de991d2/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag366d6b93bb11a4ec5a7cef138c94d6374h",
+          "12293-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-6_otakuvid_dub": "https://otakuvid.online/embed/2esno1pv5jjd",
+          "12293-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-6_vibeplayer_hsub": "https://vibeplayer.site/7709a8307f9356c1",
+          "12293-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7709a8307f9356c1/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag403fa871a98d42609149831b73c583354h",
+          "12293-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-6_otakuhg_hsub": "https://otakuhg.site/e/snf9p2ar5v99",
+          "12293-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/ytixfdovqz8m",
+          "12293-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-6_playmogo_hsub": "https://playmogo.com/e/djvh5agf8vy2",
+          "12293-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wind, Rain, Wolf",
+      "episode_url": "https://hianime.ad/watch/campione/ep-7",
+      "sub": {
+        "HD-1": {
+          "12293-malep-7_vibeplayer_sub": "https://vibeplayer.site/e2cfef2f9cdbc586",
+          "12293-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2cfef2f9cdbc586/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag7ad9cdb462cb7404f634c79b190f04ac4h",
+          "12293-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-7_otakuhg_sub": "https://otakuhg.site/e/1q33dp3fynnr",
+          "12293-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-7_otakuvid_sub": "https://otakuvid.online/embed/wtxxg8m2boas",
+          "12293-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-7_vibeplayer_dub": "https://vibeplayer.site/c35b293661909e9f",
+          "12293-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c35b293661909e9f/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag199cb3d89da78ce1ca6fdd9f3ec55d534h",
+          "12293-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-7_otakuvid_dub": "https://otakuvid.online/embed/ffuwxz6v96bs",
+          "12293-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Hero Arrives",
+      "episode_url": "https://hianime.ad/watch/campione/ep-8",
+      "sub": {
+        "HD-1": {
+          "12293-malep-8_vibeplayer_sub": "https://vibeplayer.site/ba26cd410432dffa",
+          "12293-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba26cd410432dffa/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag6d7b5a4a4eb6890c92f950650da453e34h",
+          "12293-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-8_otakuhg_sub": "https://otakuhg.site/e/mq3chf55xkj2",
+          "12293-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-8_otakuvid_sub": "https://otakuvid.online/embed/r24pxhx20br5",
+          "12293-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-8_vibeplayer_dub": "https://vibeplayer.site/f7807e29a47b8b70",
+          "12293-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7807e29a47b8b70/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-8_vibeplayer_dub": "https://vibeplayer.site/agedad2cd200205fe9fcd1fb3ec28611df4h",
+          "12293-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-8_otakuhg_dub": "https://otakuhg.site/e/2uru7bddomu5",
+          "12293-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-8_otakuvid_dub": "https://otakuvid.online/embed/gl12w54qdi8p",
+          "12293-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-8_vibeplayer_hsub": "https://vibeplayer.site/87e0ef8003abadd2",
+          "12293-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/87e0ef8003abadd2/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-8_vibeplayer_hsub": "https://vibeplayer.site/agefaeca50174dcdd7f02fe55eb5eb3d994h",
+          "12293-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-8_otakuhg_hsub": "https://otakuhg.site/e/ijt72c4qnesu",
+          "12293-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/yp3ve6ntl3oh",
+          "12293-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-8_playmogo_hsub": "https://playmogo.com/e/rqaltpx8w1rv",
+          "12293-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Missing King",
+      "episode_url": "https://hianime.ad/watch/campione/ep-9",
+      "sub": {
+        "HD-1": {
+          "12293-malep-9_vibeplayer_sub": "https://vibeplayer.site/fd7f38dd4702955f",
+          "12293-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd7f38dd4702955f/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-9_vibeplayer_sub": "https://vibeplayer.site/agcdc40bf2844a8ee47d893f3bc5164e974h",
+          "12293-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-9_otakuvid_sub": "https://otakuvid.online/embed/5cehwo5trj2q",
+          "12293-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-9_vibeplayer_dub": "https://vibeplayer.site/56a4018de06f467f",
+          "12293-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/56a4018de06f467f/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag547366db48c0674f36af9c92164cc8bc4h",
+          "12293-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-9_otakuvid_dub": "https://otakuvid.online/embed/836moi1773sz",
+          "12293-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-9_vibeplayer_hsub": "https://vibeplayer.site/4d75f926d913a532",
+          "12293-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4d75f926d913a532/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag3f3e042f39817b988edb77e059f1b6c64h",
+          "12293-malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-9_otakuhg_hsub": "https://otakuhg.site/e/sepida9sqdit",
+          "12293-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/nqfq16k5l51q",
+          "12293-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-9_playmogo_hsub": "https://playmogo.com/e/3swryof2tz3t",
+          "12293-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Turbulent Demon King, The Sun Hero",
+      "episode_url": "https://hianime.ad/watch/campione/ep-10",
+      "sub": {
+        "HD-1": {
+          "12293-malep-10_vibeplayer_sub": "https://vibeplayer.site/115e59138381b9e0",
+          "12293-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/115e59138381b9e0/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-10_vibeplayer_sub": "https://vibeplayer.site/agc083d9c97588e9ad2e482ccd32923d974h",
+          "12293-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-10_otakuvid_sub": "https://otakuvid.online/embed/v7oel4ig6b6r",
+          "12293-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-10_vibeplayer_dub": "https://vibeplayer.site/1f83ac55acb61b1f",
+          "12293-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f83ac55acb61b1f/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-10_vibeplayer_dub": "https://vibeplayer.site/ag1e691de1b840d74b50b173ca5c0996014h",
+          "12293-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-10_otakuvid_dub": "https://otakuvid.online/embed/gn6pgtzdnwwl",
+          "12293-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-10_vibeplayer_hsub": "https://vibeplayer.site/11f05d5870e1a8e2",
+          "12293-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11f05d5870e1a8e2/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag99aebfe6a80d12d5e2e63211ae3989574h",
+          "12293-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-10_otakuhg_hsub": "https://otakuhg.site/e/ynduvwsfmcn7",
+          "12293-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/2ol2fh283j93",
+          "12293-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-10_playmogo_hsub": "https://playmogo.com/e/x3spz3y0g2a2",
+          "12293-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Princess Shrine Maiden of the Long Sword",
+      "episode_url": "https://hianime.ad/watch/campione/ep-11",
+      "sub": {
+        "HD-1": {
+          "12293-malep-11_vibeplayer_sub": "https://vibeplayer.site/a3d8f4f0ae2bfbba",
+          "12293-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3d8f4f0ae2bfbba/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-11_vibeplayer_sub": "https://vibeplayer.site/aga11e2344eb89fbca60078af1d52c0e1a4h",
+          "12293-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-11_otakuvid_sub": "https://otakuvid.online/embed/fhy3aww7it0z",
+          "12293-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-11_vibeplayer_dub": "https://vibeplayer.site/615eb396888967af",
+          "12293-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/615eb396888967af/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-11_vibeplayer_dub": "https://vibeplayer.site/agdb66e99564fe5d4ff3ad4b2219334f744h",
+          "12293-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-11_otakuvid_dub": "https://otakuvid.online/embed/c5i6gie5a38i",
+          "12293-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-11_vibeplayer_hsub": "https://vibeplayer.site/6e5a420189b44448",
+          "12293-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e5a420189b44448/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag9614ca418bce3c47fd12b2a2e12c95544h",
+          "12293-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-11_otakuhg_hsub": "https://otakuhg.site/e/aqx6hu03oy44",
+          "12293-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/acbsq025t1p0",
+          "12293-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-11_playmogo_hsub": "https://playmogo.com/e/dw3qmk1ka4vo",
+          "12293-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Sword of Ama no Murakumo",
+      "episode_url": "https://hianime.ad/watch/campione/ep-12",
+      "sub": {
+        "HD-1": {
+          "12293-malep-12_vibeplayer_sub": "https://vibeplayer.site/27022b335e8c9830",
+          "12293-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/27022b335e8c9830/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag5d26e492ded5e3bc55d35c32771e0cb44h",
+          "12293-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-12_otakuhg_sub": "https://otakuhg.site/e/3xcua42bhmkr",
+          "12293-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-12_otakuvid_sub": "https://otakuvid.online/embed/qk6eo5zh7kdj",
+          "12293-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-12_vibeplayer_dub": "https://vibeplayer.site/1e76c1cb17bc6936",
+          "12293-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1e76c1cb17bc6936/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag1d9b209d5ccac613f64a58e744e16def4h",
+          "12293-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-12_otakuvid_dub": "https://otakuvid.online/embed/rt6f5bitgz9r",
+          "12293-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "12293-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ee45664a8eeb934e",
+          "12293-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee45664a8eeb934e/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agb6fa7101e1de1f8b1aa7f41fe1fdf3d84h",
+          "12293-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-12_otakuhg_hsub": "https://otakuhg.site/e/l2220pb3jnww",
+          "12293-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/p7a3a8cebr11",
+          "12293-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12293-malep-12_playmogo_hsub": "https://playmogo.com/e/wgfyufbkrhv7",
+          "12293-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tale of the God-slayer",
+      "episode_url": "https://hianime.ad/watch/campione/ep-13",
+      "sub": {
+        "HD-1": {
+          "12293-malep-13_vibeplayer_sub": "https://vibeplayer.site/2eb8d2e2dedca7b6",
+          "12293-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2eb8d2e2dedca7b6/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-13_vibeplayer_sub": "https://vibeplayer.site/ag7be27b6421f7f6db65f18beabea866294h",
+          "12293-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12293-malep-13_otakuhg_sub": "https://otakuhg.site/e/tzkoha8v0o55",
+          "12293-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-13_otakuvid_sub": "https://otakuvid.online/embed/rqnbawciyeb8",
+          "12293-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "12293-malep-13_vibeplayer_dub": "https://vibeplayer.site/a6d6277df6d7d0a2",
+          "12293-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a6d6277df6d7d0a2/master.m3u8"
+        },
+        "HD-2": {
+          "12293-malep-13_vibeplayer_dub": "https://vibeplayer.site/agd878e1c9dd81a68f96ebf036410ee6084h",
+          "12293-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "12293-malep-13_otakuvid_dub": "https://otakuvid.online/embed/3u14m9fh58yo",
+          "12293-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

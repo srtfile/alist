@@ -1,0 +1,48 @@
+{
+  "anime_name": "Campus Special Investigator Hikaruon",
+  "anime_url": "https://hianime.ad/anime/campus-special-investigator-hikaruon",
+  "slug": "campus-special-investigator-hikaruon",
+  "mal_id": 13505,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:00:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/campus-special-investigator-hikaruon/ep-1",
+      "sub": {
+        "HD-1": {
+          "13505-malep-1_vibeplayer_sub": "https://vibeplayer.site/9bfd965952fbe294",
+          "13505-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9bfd965952fbe294/master.m3u8"
+        },
+        "HD-2": {
+          "13505-malep-1_vibeplayer_sub": "https://vibeplayer.site/agedd050fe635df7b881bd7206fb0386c24h",
+          "13505-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13505-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rbkbj0m4axvv",
+          "13505-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13505-malep-1_vibeplayer_hsub": "https://vibeplayer.site/70b6c5925155ee42",
+          "13505-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70b6c5925155ee42/master.m3u8"
+        },
+        "HD-2": {
+          "13505-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9a5267c5e576266a1f37cddcbd64a7824h",
+          "13505-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13505-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7n1zg08e1ilj",
+          "13505-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13505-malep-1_playmogo_hsub": "https://playmogo.com/e/p175sn69wl0g",
+          "13505-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

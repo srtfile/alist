@@ -1,0 +1,53 @@
+{
+  "anime_name": "Granblue Fantasy The Animation Kabocha No Lantern",
+  "anime_url": "https://hianime.ad/anime/granblue-fantasy-the-animation-kabocha-no-lantern",
+  "slug": "granblue-fantasy-the-animation-kabocha-no-lantern",
+  "mal_id": 31629,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:49:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Girl in Blue",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation-kabocha-no-lantern/ep-1",
+      "sub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_sub": "https://vibeplayer.site/ac660e5203099719",
+          "31629-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac660e5203099719/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hfoac4ho60vk",
+          "31629-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_dub": "https://vibeplayer.site/bfa31e0dd1888527",
+          "31629-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bfa31e0dd1888527/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-1_otakuhg_dub": "https://otakuhg.site/e/7fno87yu8jza",
+          "31629-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2by8rzb84gyv",
+          "31629-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5da4bf17aea2ec17",
+          "31629-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5da4bf17aea2ec17/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bd9pp480qnba",
+          "31629-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-1_playmogo_hsub": "https://playmogo.com/e/v9hoycbhsgp1",
+          "31629-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

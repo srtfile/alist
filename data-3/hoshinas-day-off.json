@@ -1,0 +1,53 @@
+{
+  "anime_name": "Hoshinas Day Off",
+  "anime_url": "https://hianime.ad/anime/hoshinas-day-off",
+  "slug": "hoshinas-day-off",
+  "mal_id": 54617,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T05:28:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Need Comfort Too",
+      "episode_url": "https://hianime.ad/watch/hoshinas-day-off/ep-1",
+      "sub": {
+        "HD-1": {
+          "54617-malep-1_vibeplayer_sub": "https://vibeplayer.site/3460d4e40b049f15",
+          "54617-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3460d4e40b049f15/master.m3u8"
+        },
+        "Earnvids": {
+          "54617-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ameo3yoc2u6j",
+          "54617-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "54617-malep-1_vibeplayer_dub": "https://vibeplayer.site/39c360832763f469",
+          "54617-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/39c360832763f469/master.m3u8"
+        },
+        "Earnvids": {
+          "54617-malep-1_otakuvid_dub": "https://otakuvid.online/embed/24mliemk4m7s",
+          "54617-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "54617-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d740ee52f234bacd",
+          "54617-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d740ee52f234bacd/master.m3u8"
+        },
+        "StreamHG": {
+          "54617-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4ibm9hzjx7zi",
+          "54617-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "54617-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qtfzh3xxk5h1",
+          "54617-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54617-malep-1_playmogo_hsub": "https://playmogo.com/e/msjy1irrtpp4",
+          "54617-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "For Whom The Alchemist Exists",
+  "anime_url": "https://hianime.ad/anime/for-whom-the-alchemist-exists",
+  "slug": "for-whom-the-alchemist-exists",
+  "mal_id": 31914,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:49:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Girls Who Chase After Their Dreams",
+      "episode_url": "https://hianime.ad/watch/for-whom-the-alchemist-exists/ep-1",
+      "sub": {
+        "HD-1": {
+          "31914-malep-1_vibeplayer_sub": "https://vibeplayer.site/8ccd103b3bdfa6f0",
+          "31914-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8ccd103b3bdfa6f0/master.m3u8"
+        },
+        "HD-2": {
+          "31914-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag93fb1dfaa800ec7dcf4db9b3d304409e4h",
+          "31914-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31914-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zv1yi3ify869",
+          "31914-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31914-malep-1_playmogo_sub": "https://playmogo.com/e/tuqrq379j67a",
+          "31914-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31914-malep-1_vibeplayer_hsub": "https://vibeplayer.site/717390f4e4f6f007",
+          "31914-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/717390f4e4f6f007/master.m3u8"
+        },
+        "HD-2": {
+          "31914-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc1d87dbf1ccad68faf9c266d38a23d974h",
+          "31914-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31914-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/al8b9evrb1ge",
+          "31914-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31914-malep-1_playmogo_hsub": "https://playmogo.com/e/vo0bame4wufj",
+          "31914-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

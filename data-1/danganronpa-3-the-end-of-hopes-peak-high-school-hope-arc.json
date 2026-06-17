@@ -1,0 +1,65 @@
+{
+  "anime_name": "Danganronpa 3 The End Of Hopes Peak High School Hope Arc",
+  "anime_url": "https://hianime.ad/anime/danganronpa-3-the-end-of-hopes-peak-high-school-hope-arc",
+  "slug": "danganronpa-3-the-end-of-hopes-peak-high-school-hope-arc",
+  "mal_id": 32189,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:40:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Third time's the charm",
+      "episode_url": "https://hianime.ad/watch/danganronpa-3-the-end-of-hopes-peak-high-school-hope-arc/ep-1",
+      "sub": {
+        "HD-1": {
+          "32189-malep-1_vibeplayer_sub": "https://vibeplayer.site/54ead84ae4f9275f",
+          "32189-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/54ead84ae4f9275f/master.m3u8"
+        },
+        "HD-2": {
+          "32189-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc657c7a5b9f42fff1d74427dc0a768334h",
+          "32189-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32189-malep-1_otakuhg_sub": "https://otakuhg.site/e/7jl5xx1w5bq8",
+          "32189-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32189-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qqkzd3axzjpz",
+          "32189-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32189-malep-1_vibeplayer_dub": "https://vibeplayer.site/04ca90a8b0960cd6",
+          "32189-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/04ca90a8b0960cd6/master.m3u8"
+        },
+        "HD-2": {
+          "32189-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag790a04d9901a3a73c5dbd6e9a09144f54h",
+          "32189-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "32189-malep-1_otakuhg_dub": "https://otakuhg.site/e/0xrpvzltiy3b",
+          "32189-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32189-malep-1_otakuvid_dub": "https://otakuvid.online/embed/q1ojwtb2g6oo",
+          "32189-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32189-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ce071e3555fd4ef3",
+          "32189-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce071e3555fd4ef3/master.m3u8"
+        },
+        "HD-2": {
+          "32189-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3e0fbbc7fe15cfbc5124f660c335fc634h",
+          "32189-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32189-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rhev3wkm1ifb",
+          "32189-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

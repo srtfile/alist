@@ -1,0 +1,40 @@
+{
+  "anime_name": "Hiyokoi",
+  "anime_url": "https://hianime.ad/anime/hiyokoi",
+  "slug": "hiyokoi",
+  "mal_id": 59322,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T21:18:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Got My Memories From My Past Life Back!",
+      "episode_url": "https://hianime.ad/watch/hiyokoi/ep-1",
+      "sub": {
+        "HD-1": {
+          "59322-malep-1_vibeplayer_sub": "https://vibeplayer.site/74cf7c162e579eec",
+          "59322-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/74cf7c162e579eec/master.m3u8"
+        },
+        "Earnvids": {
+          "59322-malep-1_otakuvid_sub": "https://otakuvid.online/embed/smvduxm8fm5c",
+          "59322-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59322-malep-1_vibeplayer_hsub": "https://vibeplayer.site/666327b611f5bc6f",
+          "59322-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/666327b611f5bc6f/master.m3u8"
+        },
+        "Earnvids": {
+          "59322-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xukxr2swn2ef",
+          "59322-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59322-malep-1_playmogo_hsub": "https://playmogo.com/e/4vlb1ucbr0qd",
+          "59322-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

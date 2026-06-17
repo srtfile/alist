@@ -1,0 +1,40 @@
+{
+  "anime_name": "Gdleen",
+  "anime_url": "https://hianime.ad/anime/gdleen",
+  "slug": "gdleen",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:13:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/gdleen/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/9197375760730b5b",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9197375760730b5b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/nfk5x9uykw0o",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/daff757f1e420924",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/daff757f1e420924/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/575huerk35sf",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/k3o4zjq7epog",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

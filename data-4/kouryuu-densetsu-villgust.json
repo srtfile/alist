@@ -1,0 +1,69 @@
+{
+  "anime_name": "Kouryuu Densetsu Villgust",
+  "anime_url": "https://hianime.ad/anime/kouryuu-densetsu-villgust",
+  "slug": "kouryuu-densetsu-villgust",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T03:52:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kouryuu-densetsu-villgust/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ff8377d78d8e0238",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff8377d78d8e0238/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/sn66modfo7kn",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a5f3ce78530049ec",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a5f3ce78530049ec/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5g31fqcnh5fj",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9q2epffgc92q",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kouryuu-densetsu-villgust/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/c575b7c4566eee83",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c575b7c4566eee83/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/46oefhorohw4",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/a617d42997d9ec35",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a617d42997d9ec35/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ot9zby5ut8b1",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/432h3b18vmo3",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "anime_name": "Hanayaka Nari Waga Ichizoku Kinetograph",
+  "anime_url": "https://hianime.ad/anime/hanayaka-nari-waga-ichizoku-kinetograph",
+  "slug": "hanayaka-nari-waga-ichizoku-kinetograph",
+  "mal_id": 9811,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T19:54:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/hanayaka-nari-waga-ichizoku-kinetograph/ep-1",
+      "sub": {
+        "HD-1": {
+          "9811-malep-1_vibeplayer_sub": "https://vibeplayer.site/34351d0a96acc3a5",
+          "9811-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34351d0a96acc3a5/master.m3u8"
+        },
+        "StreamHG": {
+          "9811-malep-1_otakuhg_sub": "https://otakuhg.site/e/cbq28vb53ixm",
+          "9811-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9811-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ebkefe6dd8d1",
+          "9811-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9811-malep-1_vibeplayer_hsub": "https://vibeplayer.site/26256201c08fc1a3",
+          "9811-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/26256201c08fc1a3/master.m3u8"
+        },
+        "StreamHG": {
+          "9811-malep-1_otakuhg_hsub": "https://otakuhg.site/e/059cdmihw7qa",
+          "9811-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9811-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/la7zn78jpkil",
+          "9811-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9811-malep-1_playmogo_hsub": "https://playmogo.com/e/p4wpp97s7rtk",
+          "9811-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/hanayaka-nari-waga-ichizoku-kinetograph/ep-2",
+      "sub": {
+        "HD-1": {
+          "9811-malep-2_vibeplayer_sub": "https://vibeplayer.site/84eeac44549fd7ae",
+          "9811-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84eeac44549fd7ae/master.m3u8"
+        },
+        "Earnvids": {
+          "9811-malep-2_otakuvid_sub": "https://otakuvid.online/embed/gvdln0lp8i1l",
+          "9811-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "9811-malep-2_playmogo_sub": "https://playmogo.com/e/pb53dtibge5x",
+          "9811-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9811-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3478f1df1178cb5a",
+          "9811-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3478f1df1178cb5a/master.m3u8"
+        },
+        "StreamHG": {
+          "9811-malep-2_otakuhg_hsub": "https://otakuhg.site/e/hwy8gmj1ra5r",
+          "9811-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9811-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/p2x90frf2nfc",
+          "9811-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9811-malep-2_playmogo_hsub": "https://playmogo.com/e/18mktzy71wlx",
+          "9811-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

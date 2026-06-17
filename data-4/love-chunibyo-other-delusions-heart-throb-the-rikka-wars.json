@@ -1,0 +1,31 @@
+{
+  "anime_name": "Love Chunibyo Other Delusions Heart Throb The Rikka Wars",
+  "anime_url": "https://hianime.ad/anime/love-chunibyo-other-delusions-heart-throb-the-rikka-wars",
+  "slug": "love-chunibyo-other-delusions-heart-throb-the-rikka-wars",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:49:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/love-chunibyo-other-delusions-heart-throb-the-rikka-wars/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/706b91f03013ed6d",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/706b91f03013ed6d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/jqnlf6qk5btj",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/s6jigzjsaava",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

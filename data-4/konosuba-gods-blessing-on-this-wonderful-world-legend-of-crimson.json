@@ -1,0 +1,65 @@
+{
+  "anime_name": "Konosuba Gods Blessing On This Wonderful World Legend Of Crimson",
+  "anime_url": "https://hianime.ad/anime/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson",
+  "slug": "konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:48:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/79492f92d9d0949e",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79492f92d9d0949e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/eb8ff5g4e065",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/s77w9az5cgfz",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/2d07b6aff2d10a8b",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2d07b6aff2d10a8b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/vsphb98b4htx",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/77iwpp8w8th3",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/53337btu4q1c",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/1962ff787376f5c6",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1962ff787376f5c6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/t5m67b3kpnyp",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hk9xp56xnk2p",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qagzyo1o0fd3",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

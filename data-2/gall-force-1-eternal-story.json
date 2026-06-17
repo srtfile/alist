@@ -1,0 +1,73 @@
+{
+  "anime_name": "Gall Force 1 Eternal Story",
+  "anime_url": "https://hianime.ad/anime/gall-force-1-eternal-story",
+  "slug": "gall-force-1-eternal-story",
+  "mal_id": 1728,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:47:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World's Greatest Gal ♥ Go, Go → Ran Kotobuki",
+      "episode_url": "https://hianime.ad/watch/gall-force-1-eternal-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/a8145bf47d6c6183",
+          "1728-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a8145bf47d6c6183/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7cfa6d8cc331a95adeea17796c6ee4384h",
+          "1728-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ig27a45klx2k",
+          "1728-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-1_playmogo_sub": "https://playmogo.com/e/p7boa97ao7j1",
+          "1728-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_dub": "https://vibeplayer.site/6b9ce7361980063d",
+          "1728-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6b9ce7361980063d/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2f320f09f1cca8125ea1514d4a27098a4h",
+          "1728-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_dub": "https://otakuvid.online/embed/p23ofziqppwr",
+          "1728-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-1_playmogo_dub": "https://playmogo.com/e/y1dox2uxgraq",
+          "1728-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c542e944cc67ee43",
+          "1728-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c542e944cc67ee43/master.m3u8"
+        },
+        "HD-2": {
+          "1728-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd7563713d45e5c4b5515b2791e48559b4h",
+          "1728-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1728-malep-1_otakuhg_hsub": "https://otakuhg.site/e/u3nicxvg4zvc",
+          "1728-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1728-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u2mcb4c08joh",
+          "1728-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1728-malep-1_playmogo_hsub": "https://playmogo.com/e/vfisf3jfnmvs",
+          "1728-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

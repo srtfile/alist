@@ -1,0 +1,77 @@
+{
+  "anime_name": "Kuttsukiboshi",
+  "anime_url": "https://hianime.ad/anime/kuttsukiboshi",
+  "slug": "kuttsukiboshi",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T04:07:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kuttsukiboshi/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2c6763c6b7e20201",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c6763c6b7e20201/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qcs4v8t6p6w5",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/25266eaee279bf57",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/25266eaee279bf57/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/srr282rmr60k",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/quq6jfytf0ek",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/zwp4n5dcaogo",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kuttsukiboshi/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/ba1721764c8e35e8",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba1721764c8e35e8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/bnnznj4zpahq",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/932ad6ceb9ab81a5",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/932ad6ceb9ab81a5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/gl2t58kycx07",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/zjc9yr3ps8w3",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/e9zjl8psi1xl",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

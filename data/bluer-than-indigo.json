@@ -1,0 +1,1205 @@
+{
+  "anime_name": "Bluer Than Indigo",
+  "anime_url": "https://hianime.ad/anime/bluer-than-indigo",
+  "slug": "bluer-than-indigo",
+  "mal_id": 53,
+  "total_episodes": 24,
+  "captured_at": "2026-06-03T01:05:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fate",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-1",
+      "sub": {
+        "HD-1": {
+          "53-malep-1_vibeplayer_sub": "https://vibeplayer.site/5494373acdec51e2",
+          "53-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5494373acdec51e2/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag92b27a61ceaa02609701a25584dc95aa4h",
+          "53-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f6i6ze9himm6",
+          "53-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-1_vibeplayer_dub": "https://vibeplayer.site/3c98097c1d4dfa1d",
+          "53-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3c98097c1d4dfa1d/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag23cdf821d1be4567b91b97c5ad2417304h",
+          "53-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-1_otakuvid_dub": "https://otakuvid.online/embed/344ukwpvjesa",
+          "53-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-1_vibeplayer_hsub": "https://vibeplayer.site/78e6b050270d1a90",
+          "53-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78e6b050270d1a90/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3ae7d7703d8f5e7acaedff97ced954654h",
+          "53-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-1_otakuhg_hsub": "https://otakuhg.site/e/77wa2gpo7h0u",
+          "53-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/75qxn1pzw7k9",
+          "53-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-1_playmogo_hsub": "https://playmogo.com/e/8g6zj8p4rizc",
+          "53-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Supper",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-2",
+      "sub": {
+        "HD-1": {
+          "53-malep-2_vibeplayer_sub": "https://vibeplayer.site/8a524ed582ba9536",
+          "53-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a524ed582ba9536/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag2d18fb154097896f96c91ed7286427eb4h",
+          "53-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ey73gvmutdwk",
+          "53-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-2_vibeplayer_dub": "https://vibeplayer.site/4f57052322199e7e",
+          "53-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4f57052322199e7e/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag4a592eb42c4ac8a571d2c619908f3c004h",
+          "53-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-2_otakuvid_dub": "https://otakuvid.online/embed/7lfaoxz40nvf",
+          "53-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-2_vibeplayer_hsub": "https://vibeplayer.site/0a221917c59c2f0e",
+          "53-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0a221917c59c2f0e/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag4556745d81f0e75c74707d00d3ee1cbd4h",
+          "53-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-2_otakuhg_hsub": "https://otakuhg.site/e/57kcb6nb709x",
+          "53-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/h4fg8adv05s4",
+          "53-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-2_playmogo_hsub": "https://playmogo.com/e/185i7u148s0d",
+          "53-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Separation",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-3",
+      "sub": {
+        "HD-1": {
+          "53-malep-3_vibeplayer_sub": "https://vibeplayer.site/14827412e7eca5de",
+          "53-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/14827412e7eca5de/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-3_vibeplayer_sub": "https://vibeplayer.site/aga8da0efe8286cb90339d46eb73ec5ffb4h",
+          "53-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-3_otakuvid_sub": "https://otakuvid.online/embed/nfseeg0fbd4t",
+          "53-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-3_vibeplayer_dub": "https://vibeplayer.site/712edff7cb977c14",
+          "53-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/712edff7cb977c14/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-3_vibeplayer_dub": "https://vibeplayer.site/ag6e562899f4a2ace006c0c64f13aee0c34h",
+          "53-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-3_otakuvid_dub": "https://otakuvid.online/embed/r3ygdn9vwr7m",
+          "53-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-3_vibeplayer_hsub": "https://vibeplayer.site/3bcf66298d1de09b",
+          "53-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3bcf66298d1de09b/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag2f15f7abfe707683205ac7d2716e39544h",
+          "53-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-3_otakuhg_hsub": "https://otakuhg.site/e/ps6an8c5rxt6",
+          "53-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/2g7he87gz9pm",
+          "53-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-3_playmogo_hsub": "https://playmogo.com/e/auf5i71v64yd",
+          "53-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Living Together",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-4",
+      "sub": {
+        "HD-1": {
+          "53-malep-4_vibeplayer_sub": "https://vibeplayer.site/4a325f59b7d7c944",
+          "53-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a325f59b7d7c944/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-4_vibeplayer_sub": "https://vibeplayer.site/agaa786c65f4add0f28e66445513fb35cf4h",
+          "53-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-4_otakuvid_sub": "https://otakuvid.online/embed/o9j4mmlio21z",
+          "53-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-4_vibeplayer_dub": "https://vibeplayer.site/8f20f7edda42b28f",
+          "53-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f20f7edda42b28f/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-4_vibeplayer_dub": "https://vibeplayer.site/ag6c28dece0b85251b86ff7bbe7bf376ba4h",
+          "53-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-4_otakuvid_dub": "https://otakuvid.online/embed/bykethbepzjv",
+          "53-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-4_vibeplayer_hsub": "https://vibeplayer.site/6615dd97be79b3a4",
+          "53-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6615dd97be79b3a4/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag90f29b723fefbb1fb02c42b43f96d8e24h",
+          "53-malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-4_otakuhg_hsub": "https://otakuhg.site/e/12s7jbzjovp8",
+          "53-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/4rtav57xwwf5",
+          "53-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-4_playmogo_hsub": "https://playmogo.com/e/df67rnkq27p2",
+          "53-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Old Friend",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-5",
+      "sub": {
+        "HD-1": {
+          "53-malep-5_vibeplayer_sub": "https://vibeplayer.site/23318d01a1d29123",
+          "53-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23318d01a1d29123/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag1b9c2fe9460de73b8385e4f2f8bdc2814h",
+          "53-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-5_otakuvid_sub": "https://otakuvid.online/embed/01ica4v4ik0g",
+          "53-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-5_vibeplayer_dub": "https://vibeplayer.site/7ef109b88920fcb2",
+          "53-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ef109b88920fcb2/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag30877bbdf056adb081842d86ff0c79594h",
+          "53-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-5_otakuvid_dub": "https://otakuvid.online/embed/iiohyr333ika",
+          "53-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-5_vibeplayer_hsub": "https://vibeplayer.site/37a64d518056bc23",
+          "53-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37a64d518056bc23/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-5_vibeplayer_hsub": "https://vibeplayer.site/ag59eea74794dfb7441352e947033d3f914h",
+          "53-malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-5_otakuhg_hsub": "https://otakuhg.site/e/3etsu210m5p3",
+          "53-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/smk2mut8dneb",
+          "53-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-5_playmogo_hsub": "https://playmogo.com/e/7gbh773ry2du",
+          "53-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Family Tradition",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-6",
+      "sub": {
+        "HD-1": {
+          "53-malep-6_vibeplayer_sub": "https://vibeplayer.site/a6e06ac75578490b",
+          "53-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6e06ac75578490b/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag017646f86d7337fe9a89cca35120a38b4h",
+          "53-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-6_otakuvid_sub": "https://otakuvid.online/embed/exyrqjahdq66",
+          "53-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-6_vibeplayer_dub": "https://vibeplayer.site/e5a8db5fdd5f4664",
+          "53-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e5a8db5fdd5f4664/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-6_vibeplayer_dub": "https://vibeplayer.site/agfe12f0e92d15eab1590cb4a096c1da804h",
+          "53-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-6_otakuvid_dub": "https://otakuvid.online/embed/zeoe1zu4cfuq",
+          "53-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-6_vibeplayer_hsub": "https://vibeplayer.site/cefcbfab3efbc6a9",
+          "53-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cefcbfab3efbc6a9/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag6558d3a88fd4a704070e1cdfeb4deae24h",
+          "53-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/b9tejh6trjix",
+          "53-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-6_playmogo_hsub": "https://playmogo.com/e/o9pef00uf8mp",
+          "53-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Spiritual Illusion",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-7",
+      "sub": {
+        "HD-1": {
+          "53-malep-7_vibeplayer_sub": "https://vibeplayer.site/3204e39774deb7a6",
+          "53-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3204e39774deb7a6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-7_vibeplayer_sub": "https://vibeplayer.site/ag52697626c2be339aa30a2bbbe82864b54h",
+          "53-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ktt9qe2wmkd7",
+          "53-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-7_vibeplayer_dub": "https://vibeplayer.site/deaf589a8843e895",
+          "53-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/deaf589a8843e895/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-7_vibeplayer_dub": "https://vibeplayer.site/agfa38d48b4e986911db26f79d4b189e834h",
+          "53-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-7_otakuvid_dub": "https://otakuvid.online/embed/sgsq9308smxr",
+          "53-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-7_vibeplayer_hsub": "https://vibeplayer.site/cae943903a5ccc42",
+          "53-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cae943903a5ccc42/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag131753ad9598192bc89c5f4f62f3059a4h",
+          "53-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-7_otakuhg_hsub": "https://otakuhg.site/e/s63glrq9sxaf",
+          "53-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/z5ye8hi0lklf",
+          "53-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-7_playmogo_hsub": "https://playmogo.com/e/od6foq8uec06",
+          "53-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cherished Treasure",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-8",
+      "sub": {
+        "HD-1": {
+          "53-malep-8_vibeplayer_sub": "https://vibeplayer.site/9bbff466ed4b2726",
+          "53-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9bbff466ed4b2726/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-8_vibeplayer_sub": "https://vibeplayer.site/ag6d8d88b92838e1ab25cbce94570d10bb4h",
+          "53-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-8_otakuvid_sub": "https://otakuvid.online/embed/rfydjhwzey8w",
+          "53-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-8_vibeplayer_dub": "https://vibeplayer.site/c909c0a7463ac310",
+          "53-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c909c0a7463ac310/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-8_vibeplayer_dub": "https://vibeplayer.site/ag4fe23ecb1a78480c7c59e2e9598bff6d4h",
+          "53-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-8_otakuvid_dub": "https://otakuvid.online/embed/6tot7tqt4eyy",
+          "53-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-8_vibeplayer_hsub": "https://vibeplayer.site/35658bf4470cf0fd",
+          "53-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/35658bf4470cf0fd/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag5bccc0d8fc41c1a5c055bb71c92559c84h",
+          "53-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/fxvh3dfcffn9",
+          "53-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-8_playmogo_hsub": "https://playmogo.com/e/x4unzebmg4j9",
+          "53-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "One Night",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-9",
+      "sub": {
+        "HD-1": {
+          "53-malep-9_vibeplayer_sub": "https://vibeplayer.site/bef3249c7a71fc9f",
+          "53-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bef3249c7a71fc9f/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-9_vibeplayer_sub": "https://vibeplayer.site/agc6496642ce65a4d07186e14c579e231b4h",
+          "53-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-9_otakuhg_sub": "https://otakuhg.site/e/5bq0gbs8slzu",
+          "53-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-9_otakuvid_sub": "https://otakuvid.online/embed/vfuv3okchv0h",
+          "53-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-9_vibeplayer_dub": "https://vibeplayer.site/400b7e11565de2e5",
+          "53-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/400b7e11565de2e5/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag8f7e00af2dc9c41c1842693c90c82e904h",
+          "53-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-9_otakuhg_dub": "https://otakuhg.site/e/g315wxqiw11c",
+          "53-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-9_otakuvid_dub": "https://otakuvid.online/embed/ad1v9bvsq4fk",
+          "53-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Place of Learning",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-10",
+      "sub": {
+        "HD-1": {
+          "53-malep-10_vibeplayer_sub": "https://vibeplayer.site/411aa86bc7d35974",
+          "53-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/411aa86bc7d35974/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag5572c26b67df5d47dd9738560b8145f74h",
+          "53-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-10_otakuvid_sub": "https://otakuvid.online/embed/zyunqg1y08v6",
+          "53-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-10_vibeplayer_dub": "https://vibeplayer.site/32699c601db003f6",
+          "53-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/32699c601db003f6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-10_vibeplayer_dub": "https://vibeplayer.site/agba0c0f5a977eb7e51e00d7925db07bcc4h",
+          "53-malep-10_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-10_otakuvid_dub": "https://otakuvid.online/embed/yyvthg6lqz4x",
+          "53-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-10_vibeplayer_hsub": "https://vibeplayer.site/4856d5013297e498",
+          "53-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4856d5013297e498/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-10_vibeplayer_hsub": "https://vibeplayer.site/agbbd260dadbf20362b53dfaa354a8da704h",
+          "53-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/rppodiepxak0",
+          "53-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-10_playmogo_hsub": "https://playmogo.com/e/eqtlj49p81c7",
+          "53-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Debutante",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-11",
+      "sub": {
+        "HD-1": {
+          "53-malep-11_vibeplayer_sub": "https://vibeplayer.site/1b70bb347c66c486",
+          "53-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1b70bb347c66c486/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-11_vibeplayer_sub": "https://vibeplayer.site/ag6e28e2e448e0432254253921bc5c3eec4h",
+          "53-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-11_otakuvid_sub": "https://otakuvid.online/embed/z4gaku6qoa3l",
+          "53-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-11_vibeplayer_dub": "https://vibeplayer.site/4d04d23b27e5e616",
+          "53-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4d04d23b27e5e616/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag21b8cdb5b1a40ee2a43623b58af4afa04h",
+          "53-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-11_otakuvid_dub": "https://otakuvid.online/embed/gw0m1j6xo2lt",
+          "53-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-11_vibeplayer_hsub": "https://vibeplayer.site/0b677ce3e47a28f8",
+          "53-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0b677ce3e47a28f8/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-11_vibeplayer_hsub": "https://vibeplayer.site/agd7c70489e223e2844b348ac5c028b8af4h",
+          "53-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/de10egq8ns8j",
+          "53-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-11_playmogo_hsub": "https://playmogo.com/e/s72a8levqzb6",
+          "53-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kiss",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-12",
+      "sub": {
+        "HD-1": {
+          "53-malep-12_vibeplayer_sub": "https://vibeplayer.site/e5732973c6d692e0",
+          "53-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5732973c6d692e0/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag46ac2bd429eff60a977ab08a2e31bcd34h",
+          "53-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-12_otakuvid_sub": "https://otakuvid.online/embed/dms71fy0lt14",
+          "53-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-12_vibeplayer_dub": "https://vibeplayer.site/f7ebbcdd5b83988e",
+          "53-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7ebbcdd5b83988e/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-12_vibeplayer_dub": "https://vibeplayer.site/agaafc6fc599aa6855c8fe258ac50cb8ed4h",
+          "53-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-12_otakuvid_dub": "https://otakuvid.online/embed/ks1qsg0hp766",
+          "53-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-12_vibeplayer_hsub": "https://vibeplayer.site/9eb426e6a420318f",
+          "53-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9eb426e6a420318f/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-12_vibeplayer_hsub": "https://vibeplayer.site/aga47c07bc6471c701d9be4260f534f7d34h",
+          "53-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-12_otakuhg_hsub": "https://otakuhg.site/e/p8pdxqhgckrw",
+          "53-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/fzefdbaxmgcn",
+          "53-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-12_playmogo_hsub": "https://playmogo.com/e/4uv0glzybt4n",
+          "53-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Star Festival",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-13",
+      "sub": {
+        "HD-1": {
+          "53-malep-13_vibeplayer_sub": "https://vibeplayer.site/f78e6c768de6d2c6",
+          "53-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f78e6c768de6d2c6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-13_vibeplayer_sub": "https://vibeplayer.site/agf11ebfe27b56f740cd4660c3401b864c4h",
+          "53-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-13_otakuvid_sub": "https://otakuvid.online/embed/c5qxl5bie9ot",
+          "53-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-13_vibeplayer_dub": "https://vibeplayer.site/271cbf88bc3780cc",
+          "53-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/271cbf88bc3780cc/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-13_vibeplayer_dub": "https://vibeplayer.site/agef8d4fbcf05dd7da591123ca8717a0244h",
+          "53-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-13_otakuvid_dub": "https://otakuvid.online/embed/0u1y26lqfh0k",
+          "53-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-13_vibeplayer_hsub": "https://vibeplayer.site/0e159bf469789526",
+          "53-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0e159bf469789526/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-13_vibeplayer_hsub": "https://vibeplayer.site/ag443ac27a5d7e6fb91629e5b80ce708544h",
+          "53-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/bgioy8t65ldu",
+          "53-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-13_playmogo_hsub": "https://playmogo.com/e/75zgcxgzai5x",
+          "53-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Servant",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-14",
+      "sub": {
+        "HD-1": {
+          "53-malep-14_vibeplayer_sub": "https://vibeplayer.site/57cb1ddd3d292109",
+          "53-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57cb1ddd3d292109/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-14_vibeplayer_sub": "https://vibeplayer.site/agbe4dca94e989b29743f171130be5a08a4h",
+          "53-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-14_otakuvid_sub": "https://otakuvid.online/embed/gop9n3hetb4i",
+          "53-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-14_vibeplayer_dub": "https://vibeplayer.site/82db2991e8036a47",
+          "53-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/82db2991e8036a47/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-14_vibeplayer_dub": "https://vibeplayer.site/ag22f0f8c1dbc0a3d45b7be5a4d84e2be64h",
+          "53-malep-14_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-14_otakuvid_dub": "https://otakuvid.online/embed/wiclt2s2gq8h",
+          "53-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-14_vibeplayer_hsub": "https://vibeplayer.site/f68ce3683d089ca4",
+          "53-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f68ce3683d089ca4/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ag84f0d38c707d0e396ec7f11aa586d0354h",
+          "53-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/w9sqrhz7t0cn",
+          "53-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-14_playmogo_hsub": "https://playmogo.com/e/ivamyqh6eidx",
+          "53-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Feelings of the Heart",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-15",
+      "sub": {
+        "HD-1": {
+          "53-malep-15_vibeplayer_sub": "https://vibeplayer.site/d8e21134cbea51ff",
+          "53-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8e21134cbea51ff/master.m3u8"
+        },
+        "Earnvids": {
+          "53-malep-15_otakuvid_sub": "https://otakuvid.online/embed/gbao5zmy1m5a",
+          "53-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-15_vibeplayer_dub": "https://vibeplayer.site/fef61261a4349ed7",
+          "53-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fef61261a4349ed7/master.m3u8"
+        },
+        "Earnvids": {
+          "53-malep-15_otakuvid_dub": "https://otakuvid.online/embed/zzzpmmacngmr",
+          "53-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-15_vibeplayer_hsub": "https://vibeplayer.site/b3d122c3b1862199",
+          "53-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3d122c3b1862199/master.m3u8"
+        },
+        "Earnvids": {
+          "53-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/0altm1h6khf7",
+          "53-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-15_playmogo_hsub": "https://playmogo.com/e/5vwwov2vu2u0",
+          "53-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shores",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-16",
+      "sub": {
+        "HD-1": {
+          "53-malep-16_vibeplayer_sub": "https://vibeplayer.site/ab70db05d49abc44",
+          "53-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab70db05d49abc44/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag99050f6d53be268070097d1a5a3e40f94h",
+          "53-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "53-malep-16_otakuhg_sub": "https://otakuhg.site/e/bw5qi2yad25p",
+          "53-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-16_otakuvid_sub": "https://otakuvid.online/embed/cvsm9p0nzb5t",
+          "53-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-16_vibeplayer_dub": "https://vibeplayer.site/401f3d01147ad44c",
+          "53-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/401f3d01147ad44c/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-16_vibeplayer_dub": "https://vibeplayer.site/ag3be9bd25a4dcaebb4d8c3b58f07033494h",
+          "53-malep-16_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-16_otakuvid_dub": "https://otakuvid.online/embed/3x65lxuyqou5",
+          "53-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Waves",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-17",
+      "sub": {
+        "HD-1": {
+          "53-malep-17_vibeplayer_sub": "https://vibeplayer.site/6c35266c56c32dd6",
+          "53-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c35266c56c32dd6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-17_vibeplayer_sub": "https://vibeplayer.site/ag480e7bf900ade4a487eb04893671d01c4h",
+          "53-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-17_otakuvid_sub": "https://otakuvid.online/embed/dnyfvc2v70ys",
+          "53-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-17_vibeplayer_dub": "https://vibeplayer.site/4e98ffd37e217cc5",
+          "53-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4e98ffd37e217cc5/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-17_vibeplayer_dub": "https://vibeplayer.site/ag0ff31c1bb18f12f54c7478ca09cf937d4h",
+          "53-malep-17_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-17_otakuvid_dub": "https://otakuvid.online/embed/gmjx4y7jhvq8",
+          "53-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-17_vibeplayer_hsub": "https://vibeplayer.site/6749dab4e97b55de",
+          "53-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6749dab4e97b55de/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-17_vibeplayer_hsub": "https://vibeplayer.site/ag9eea32c5a9940fe38e1f64e31d3ffc454h",
+          "53-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/cs94y78x5t1r",
+          "53-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-17_playmogo_hsub": "https://playmogo.com/e/iglta9b8b60t",
+          "53-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bedsharing",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-18",
+      "sub": {
+        "HD-1": {
+          "53-malep-18_vibeplayer_sub": "https://vibeplayer.site/59cf0eb0b6248218",
+          "53-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/59cf0eb0b6248218/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-18_vibeplayer_sub": "https://vibeplayer.site/agdee3d8f126ba76cd32bc1aae68e6431c4h",
+          "53-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-18_otakuvid_sub": "https://otakuvid.online/embed/r09eosliaipz",
+          "53-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-18_vibeplayer_dub": "https://vibeplayer.site/ffcffb9aae5ce2c7",
+          "53-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ffcffb9aae5ce2c7/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-18_vibeplayer_dub": "https://vibeplayer.site/agbcde9b5beae294b6061c290ffd29d63b4h",
+          "53-malep-18_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-18_otakuvid_dub": "https://otakuvid.online/embed/b82536jfbczr",
+          "53-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-18_vibeplayer_hsub": "https://vibeplayer.site/ce92600e63f3e400",
+          "53-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce92600e63f3e400/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-18_vibeplayer_hsub": "https://vibeplayer.site/agfbfd4ecc15da8da3a87e2c452527238b4h",
+          "53-malep-18_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/di8lm14v5100",
+          "53-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-18_playmogo_hsub": "https://playmogo.com/e/nectbt4sz49h",
+          "53-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lap Pillow",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-19",
+      "sub": {
+        "HD-1": {
+          "53-malep-19_vibeplayer_sub": "https://vibeplayer.site/0eb3b1e97d0f5a0e",
+          "53-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0eb3b1e97d0f5a0e/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-19_vibeplayer_sub": "https://vibeplayer.site/agc76ee320ef2f8110204dbf7bb97234254h",
+          "53-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-19_otakuvid_sub": "https://otakuvid.online/embed/ra2wpiy6ooh5",
+          "53-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-19_vibeplayer_dub": "https://vibeplayer.site/8a86cb10d00b0bf0",
+          "53-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a86cb10d00b0bf0/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-19_vibeplayer_dub": "https://vibeplayer.site/ag1659d7e369d092cdc60856e7aa3694114h",
+          "53-malep-19_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-19_otakuvid_dub": "https://otakuvid.online/embed/5ybz1lfes06b",
+          "53-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-19_vibeplayer_hsub": "https://vibeplayer.site/6e39f4be4686a04e",
+          "53-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e39f4be4686a04e/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-19_vibeplayer_hsub": "https://vibeplayer.site/ag3a50c52eff3511b3816d47df3c5a82924h",
+          "53-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/kxsq6o1oefnf",
+          "53-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-19_playmogo_hsub": "https://playmogo.com/e/wbsirv89zqqm",
+          "53-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cure",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-20",
+      "sub": {
+        "HD-1": {
+          "53-malep-20_vibeplayer_sub": "https://vibeplayer.site/40cf52fceac12bde",
+          "53-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/40cf52fceac12bde/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-20_vibeplayer_sub": "https://vibeplayer.site/ag5be7736184df63062264a985fadf5eeb4h",
+          "53-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-20_otakuvid_sub": "https://otakuvid.online/embed/l8soj91icxm2",
+          "53-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-20_vibeplayer_dub": "https://vibeplayer.site/94517110d5c7042b",
+          "53-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/94517110d5c7042b/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-20_vibeplayer_dub": "https://vibeplayer.site/agfd7e75e20d7f3cb44289203bcabcac054h",
+          "53-malep-20_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-20_otakuvid_dub": "https://otakuvid.online/embed/lidgoe6savcv",
+          "53-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-20_vibeplayer_hsub": "https://vibeplayer.site/d33409add9929759",
+          "53-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d33409add9929759/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-20_vibeplayer_hsub": "https://vibeplayer.site/ag8bc698374b3de56bde81577aabb950d14h",
+          "53-malep-20_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/9e9re427aa03",
+          "53-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-20_playmogo_hsub": "https://playmogo.com/e/ky99eswur7lt",
+          "53-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Influenza",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-21",
+      "sub": {
+        "HD-1": {
+          "53-malep-21_vibeplayer_sub": "https://vibeplayer.site/c474403dd9d5f9d6",
+          "53-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c474403dd9d5f9d6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-21_vibeplayer_sub": "https://vibeplayer.site/ag27ff13e4cebaa635ac1d9f2d43e2aa124h",
+          "53-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-21_otakuvid_sub": "https://otakuvid.online/embed/z1qnnu4voj3b",
+          "53-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-21_vibeplayer_dub": "https://vibeplayer.site/d4f6ff14bd0dab10",
+          "53-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d4f6ff14bd0dab10/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-21_vibeplayer_dub": "https://vibeplayer.site/agad347538dcd8489761a7f78f459f89754h",
+          "53-malep-21_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-21_otakuvid_dub": "https://otakuvid.online/embed/r5sldkj8iuvk",
+          "53-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-21_vibeplayer_hsub": "https://vibeplayer.site/8548d3644393f633",
+          "53-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8548d3644393f633/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-21_vibeplayer_hsub": "https://vibeplayer.site/ag309bed70b871ae53f6ceef05e20c27cb4h",
+          "53-malep-21_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/p8ma55q9zdi9",
+          "53-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-21_playmogo_hsub": "https://playmogo.com/e/m6vtgiy8q53h",
+          "53-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Going Home",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-22",
+      "sub": {
+        "HD-1": {
+          "53-malep-22_vibeplayer_sub": "https://vibeplayer.site/79d81200e851bf0c",
+          "53-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79d81200e851bf0c/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-22_vibeplayer_sub": "https://vibeplayer.site/agdc1db477b5ac32adb475e6621255595c4h",
+          "53-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-22_otakuvid_sub": "https://otakuvid.online/embed/borzrix9g2a3",
+          "53-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-22_vibeplayer_dub": "https://vibeplayer.site/6a5d9e9c75cb7948",
+          "53-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6a5d9e9c75cb7948/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-22_vibeplayer_dub": "https://vibeplayer.site/age1edc6063ab5a834bf7b7acbc06237914h",
+          "53-malep-22_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-22_otakuvid_dub": "https://otakuvid.online/embed/cs9wxv0u6uvt",
+          "53-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-22_vibeplayer_hsub": "https://vibeplayer.site/dad2e61a6cc4db36",
+          "53-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dad2e61a6cc4db36/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-22_vibeplayer_hsub": "https://vibeplayer.site/ag3e5d7386207e55d099b18ea78b35ec2e4h",
+          "53-malep-22_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/59mrse3wclqj",
+          "53-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-22_playmogo_hsub": "https://playmogo.com/e/wxocmlfnghh9",
+          "53-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Determination",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-23",
+      "sub": {
+        "HD-1": {
+          "53-malep-23_vibeplayer_sub": "https://vibeplayer.site/47f4b26b0187a7f6",
+          "53-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/47f4b26b0187a7f6/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-23_vibeplayer_sub": "https://vibeplayer.site/ag3b6c644d22e915dbbbb6cbb44903264b4h",
+          "53-malep-23_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-23_otakuvid_sub": "https://otakuvid.online/embed/dmtls6dkq23x",
+          "53-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-23_vibeplayer_dub": "https://vibeplayer.site/a0efc94239be4f49",
+          "53-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0efc94239be4f49/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-23_vibeplayer_dub": "https://vibeplayer.site/ag03ed544afbcc6197792314aa267b8bf44h",
+          "53-malep-23_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-23_otakuvid_dub": "https://otakuvid.online/embed/tieqdqp126wu",
+          "53-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-23_vibeplayer_hsub": "https://vibeplayer.site/e6680a1041fbb830",
+          "53-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6680a1041fbb830/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-23_vibeplayer_hsub": "https://vibeplayer.site/ag3f7a46454e07bd325fce2f82e48c53c74h",
+          "53-malep-23_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/c5aejtj9ozcc",
+          "53-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-23_playmogo_hsub": "https://playmogo.com/e/a0n573iueeze",
+          "53-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Aoi",
+      "episode_url": "https://hianime.ad/watch/bluer-than-indigo/ep-24",
+      "sub": {
+        "HD-1": {
+          "53-malep-24_vibeplayer_sub": "https://vibeplayer.site/875d8324fce2ac06",
+          "53-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/875d8324fce2ac06/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-24_vibeplayer_sub": "https://vibeplayer.site/ag706fba2e0a62e7f09196f583971b450a4h",
+          "53-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-24_otakuvid_sub": "https://otakuvid.online/embed/6vzdcfq2fp8z",
+          "53-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53-malep-24_vibeplayer_dub": "https://vibeplayer.site/ccb43bdb60aac4da",
+          "53-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ccb43bdb60aac4da/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-24_vibeplayer_dub": "https://vibeplayer.site/agd197d54ebcd08a16fdd76c931f1be3b14h",
+          "53-malep-24_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-24_otakuvid_dub": "https://otakuvid.online/embed/061akvvc8nt6",
+          "53-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53-malep-24_vibeplayer_hsub": "https://vibeplayer.site/91e680d31c5cf9a1",
+          "53-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91e680d31c5cf9a1/master.m3u8"
+        },
+        "HD-2": {
+          "53-malep-24_vibeplayer_hsub": "https://vibeplayer.site/age85169d5661ffb84cfc443009be928be4h",
+          "53-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/fi9oxa69q0kx",
+          "53-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53-malep-24_playmogo_hsub": "https://playmogo.com/e/2cyo7gk17kxe",
+          "53-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

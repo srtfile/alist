@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru Darou Ka Ii Ova",
+  "anime_url": "https://hianime.ad/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova",
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova",
+  "mal_id": 37347,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:04:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Party | Banquet of the Gods",
+      "episode_url": "https://hianime.ad/watch/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "37347-malep-1_vibeplayer_sub": "https://vibeplayer.site/09a6468dbaedd163",
+          "37347-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/09a6468dbaedd163/master.m3u8"
+        },
+        "HD-2": {
+          "37347-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0928f80f6a9df3b39b00845b11b329214h",
+          "37347-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37347-malep-1_otakuhg_sub": "https://otakuhg.site/e/67rpf6o7xfog",
+          "37347-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37347-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ixf37k405c6j",
+          "37347-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37347-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ff7fc90f134fbf64",
+          "37347-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff7fc90f134fbf64/master.m3u8"
+        },
+        "HD-2": {
+          "37347-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd8be83930dc0ac8036f1db7f1b00b02d4h",
+          "37347-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37347-malep-1_otakuhg_hsub": "https://otakuhg.site/e/50vbhgklzquj",
+          "37347-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37347-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rx2fw63rdcxx",
+          "37347-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37347-malep-1_playmogo_hsub": "https://playmogo.com/e/akzh3chyrwdx",
+          "37347-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

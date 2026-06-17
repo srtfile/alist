@@ -1,0 +1,57 @@
+{
+  "anime_name": "Little Witch Academia The Movie 1",
+  "anime_url": "https://hianime.ad/anime/little-witch-academia-the-movie-1",
+  "slug": "little-witch-academia-the-movie-1",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:21:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/little-witch-academia-the-movie-1/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/50eb3669a50159b7",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50eb3669a50159b7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/4chdmscfi6h6",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/9ul3ffo4kjxt",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/2f6c41dc5c538fb1",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f6c41dc5c538fb1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/uo1wgzraizn2",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/z00zz3i54dnq",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/3f55e5a1c56af1c4",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f55e5a1c56af1c4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2jmcnesf2ik1",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/dqt9w43gzgoh",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

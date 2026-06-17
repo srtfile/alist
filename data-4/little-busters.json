@@ -1,0 +1,813 @@
+{
+  "anime_name": "Little Busters",
+  "anime_url": "https://hianime.ad/anime/little-busters",
+  "slug": "little-busters",
+  "mal_id": null,
+  "total_episodes": 26,
+  "captured_at": "2026-06-17T05:16:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Team Name Will Be... the Little Busters",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/bfbf9d5284c30273",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bfbf9d5284c30273/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/bd25ip1exjo1",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/m5jfk0p2w2x7",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/3f0b5e1aca3aaaae",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f0b5e1aca3aaaae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/byoo1kcqqfky",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/46lbxvbkwsqf",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "If You're Happy, I'm Happy",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/ecdf2efa0f10cd7b",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ecdf2efa0f10cd7b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/dno8zzefnlbv",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/m8nkuxd28zvw",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/a4fc7c223820df77",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a4fc7c223820df77/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/xqu19o3gpotp",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/snnjhaqqyai0",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Like Cute Things, You See",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/d186e018c5165c58",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d186e018c5165c58/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/8gzsh34h6y9c",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/lhdxb6yawf22",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/7b92bf07ba12b27c",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7b92bf07ba12b27c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/n8dkf07hkn39",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/zwkgaaqntpuf",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "We'll Make a Happy, Sunny Place",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/89e5f8f3e3bba7e1",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/89e5f8f3e3bba7e1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/4jklh1gxl3dz",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/o5szgp70q185",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/9e1bab69724c7806",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9e1bab69724c7806/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/4kzc3mhv8llo",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/c8g5m9ij2380",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "To Find What I've Lost",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/93eb87630c23ddc6",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/93eb87630c23ddc6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/yapjrt3n5h5o",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/7kltdop1mvtd",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/7203ec810ad6b255",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7203ec810ad6b255/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/dcd9r17ehchx",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/jpj0gbavevcl",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Let's Find Wonderful Things",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/04699cd4eb552e1b",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/04699cd4eb552e1b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_sub": "https://otakuhg.site/e/gmndkold60bh",
+          "malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/vvic2mom2owq",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/d0093b0ff79dc9c3",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d0093b0ff79dc9c3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/xynmurmb9gbt",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/wx5ok1yjfg5p",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Now Then, Guess Who!",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/1792a197adecab3e",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1792a197adecab3e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/psr4mh2zlyyo",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/yx1o1w1um3ty",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/79a0dfecd7204433",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79a0dfecd7204433/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/jbua0ebx481v",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/18s85aqw6fmu",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Let's Look for a Roommate!",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/f2e344d2fbd376bc",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f2e344d2fbd376bc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/qhyfmvvfb0lr",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/909b02ae291c3015",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/909b02ae291c3015/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/tayd3tg0rt5b",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/sj8y3o6njv0j",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Save the Cafeteria!",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/c3932da9cf0d466b",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c3932da9cf0d466b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_sub": "https://otakuhg.site/e/p9f53n9qyj6g",
+          "malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/hajff4i6fnro",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/385aab571a0bc699",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/385aab571a0bc699/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/g5lv0zxbfbmv",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/cwvl2if3w7oy",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Blue of the Sky, the Blue of the Sea",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/124135331fdb6eac",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/124135331fdb6eac/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/80av9aiazz5k",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/7ivdm10o4mll",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/7858581966b75a5e",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7858581966b75a5e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/9lic474ea13m",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/fas0qh0ifp5k",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "See, There Ain't No Ghosts",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/582e3bd1a84499dc",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/582e3bd1a84499dc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_sub": "https://otakuhg.site/e/lkell57oc1h8",
+          "malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/3l0u1bh6v1vr",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/3b35077b3a0ca693",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b35077b3a0ca693/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/9qdskp08sims",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Blue World, Stretching on to Eternity",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/84e4cb5d76ea25c7",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/84e4cb5d76ea25c7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/fn5mf2r7fxjt",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/7ea66e06b15a3b85",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ea66e06b15a3b85/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/71rk510a4xjp",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/0s03goiyae3f",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Where the End Begins",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/cc2e7be54973be6c",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cc2e7be54973be6c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_sub": "https://otakuhg.site/e/95txj4kst47v",
+          "malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/ox4jpbc0468d",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/425d7564b0c8294b",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/425d7564b0c8294b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_dub": "https://otakuhg.site/e/z0po6bm44wzv",
+          "malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/sixhfx37oyb4",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "That's Why I'll Hold My Hand Out to You",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/4e5cac87afe63460",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e5cac87afe63460/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_sub": "https://otakuhg.site/e/zxrayyssvjuz",
+          "malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/gpxlum3mz6rp",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/7e97fbd3278ef4f7",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e97fbd3278ef4f7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_dub": "https://otakuhg.site/e/yoipn0kn82it",
+          "malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/n1o02opolwx0",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Hell Yeah, This Totally Rocks!",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/d616deae64d4bec6",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d616deae64d4bec6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_sub": "https://otakuhg.site/e/hqehdowqz8fu",
+          "malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/41xx1ytwky4f",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/60a66c6792a2ac85",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/60a66c6792a2ac85/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_dub": "https://otakuhg.site/e/jn827szm40z9",
+          "malep-15_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/vqa5b315sj7x",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Don't Look At Me Like That",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/325dcd248c0997a8",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/325dcd248c0997a8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/4nwyab4hzlhs",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/663b6ea61971b0bd",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/663b6ea61971b0bd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_dub": "https://otakuhg.site/e/oknl8aie8ioa",
+          "malep-16_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/f1cpeavo930p",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Wanted Someone to Stay By My Side",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/b13b3dff599131eb",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b13b3dff599131eb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/ubtese4l9sx7",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/7fccad819b4b809b",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7fccad819b4b809b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/qvl6xxs0mxep",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Answer Is Within Your Heart",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/3094d42c2d2418f6",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3094d42c2d2418f6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/vxwu204q9vs1",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/f3cc37c18d3e024d",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f3cc37c18d3e024d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_dub": "https://otakuhg.site/e/cjxc1fk99h7c",
+          "malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/cdgm1i7yytmz",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Keep Working Hard",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/01008bb20d2f919d",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01008bb20d2f919d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_sub": "https://otakuhg.site/e/0qil5c9idcxk",
+          "malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/mcpce3olqzdg",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/1a69509b1aec8473",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1a69509b1aec8473/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_dub": "https://otakuhg.site/e/qtleg3nhihrk",
+          "malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/ofddtvbl6f6k",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Cure the Lovesick",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/445573d08c73a989",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/445573d08c73a989/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_sub": "https://otakuhg.site/e/0cmgtir078gk",
+          "malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/ugm1gikpzcd7",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/3c61bf65271944ed",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3c61bf65271944ed/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_dub": "https://otakuhg.site/e/46dt79gtqppe",
+          "malep-20_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/yj8s1cl8rt44",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Fifty Nautical Miles into the Sky",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/57494f78753bbcdd",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57494f78753bbcdd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/trdrxexd7uax",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/96f68b4efe510e5a",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/96f68b4efe510e5a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/3qjdi7rbmw4b",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Promise I'll Come Back",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/7e61d7c0b4b70091",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7e61d7c0b4b70091/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/qh3wg58lb1gw",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/27dfaf4b3ed6a5b8",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/27dfaf4b3ed6a5b8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_dub": "https://otakuhg.site/e/gny0c9c8jifj",
+          "malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/oyato7sjmjiq",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "For Those You Love",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/510764116d939f4f",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/510764116d939f4f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/hdfj6wjnr3sk",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/d318d178f405e5af",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d318d178f405e5af/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_dub": "https://otakuhg.site/e/wwt6ly5pjg4k",
+          "malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/okopbuwsi3io",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "If Rin-chan Is Happy, I'm Happy, Too",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/2061637e03b758b4",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2061637e03b758b4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/vsv1a8tr07cu",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/ee82cbde51eb3d4c",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ee82cbde51eb3d4c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/o6t8u1ape0di",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Final Member",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/1873f786cf7c08a1",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1873f786cf7c08a1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_sub": "https://otakuhg.site/e/6l4psqkqw689",
+          "malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/mmq5ocajm0ut",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/bed3a3b873f84b1b",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bed3a3b873f84b1b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_dub": "https://otakuhg.site/e/gha2c1q0xbxj",
+          "malep-25_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/nt640bva77al",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Greatest of Friends",
+      "episode_url": "https://hianime.ad/watch/little-busters/ep-26",
+      "sub": {
+        "HD-1": {
+          "malep-26_vibeplayer_sub": "https://vibeplayer.site/279a05ccb7fb389f",
+          "malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/279a05ccb7fb389f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-26_otakuhg_sub": "https://otakuhg.site/e/zpn5alyj0g8z",
+          "malep-26_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_sub": "https://otakuvid.online/embed/32vsnj07eapp",
+          "malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-26_vibeplayer_dub": "https://vibeplayer.site/8a49064790dec3ed",
+          "malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a49064790dec3ed/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_dub": "https://otakuvid.online/embed/9cg562epvt20",
+          "malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

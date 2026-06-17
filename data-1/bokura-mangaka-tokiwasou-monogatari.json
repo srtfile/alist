@@ -1,0 +1,48 @@
+{
+  "anime_name": "Bokura Mangaka Tokiwasou Monogatari",
+  "anime_url": "https://hianime.ad/anime/bokura-mangaka-tokiwasou-monogatari",
+  "slug": "bokura-mangaka-tokiwasou-monogatari",
+  "mal_id": 21405,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:15:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Just Imagine",
+      "episode_url": "https://hianime.ad/watch/bokura-mangaka-tokiwasou-monogatari/ep-1",
+      "sub": {
+        "HD-1": {
+          "21405-malep-1_vibeplayer_sub": "https://vibeplayer.site/0b96963957bbb6e2",
+          "21405-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b96963957bbb6e2/master.m3u8"
+        },
+        "HD-2": {
+          "21405-malep-1_vibeplayer_sub": "https://vibeplayer.site/agdbbb50cfc6b6a25a195cfea1bb41d7944h",
+          "21405-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21405-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a69yns3z7o59",
+          "21405-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21405-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a78b49931a1d4ad7",
+          "21405-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a78b49931a1d4ad7/master.m3u8"
+        },
+        "HD-2": {
+          "21405-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd58ab32ab64ead295a0be057de17d3934h",
+          "21405-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21405-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mtqzj4m8i9zw",
+          "21405-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21405-malep-1_playmogo_hsub": "https://playmogo.com/e/p4bquagsp5um",
+          "21405-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

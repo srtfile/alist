@@ -1,0 +1,48 @@
+{
+  "anime_name": "Choujikuu Robo Meguru",
+  "anime_url": "https://hianime.ad/anime/choujikuu-robo-meguru",
+  "slug": "choujikuu-robo-meguru",
+  "mal_id": 4503,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:46:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/choujikuu-robo-meguru/ep-1",
+      "sub": {
+        "HD-1": {
+          "4503-malep-1_vibeplayer_sub": "https://vibeplayer.site/83e589b450bac4ef",
+          "4503-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/83e589b450bac4ef/master.m3u8"
+        },
+        "HD-2": {
+          "4503-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1d181a9f9ea4d1d8a84f9c007ad56ba14h",
+          "4503-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4503-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kr1kmcbq57rd",
+          "4503-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4503-malep-1_vibeplayer_hsub": "https://vibeplayer.site/afa37e50ef66aefa",
+          "4503-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/afa37e50ef66aefa/master.m3u8"
+        },
+        "HD-2": {
+          "4503-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4b795cef888a4e3523c27cc4b5c72fbd4h",
+          "4503-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4503-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vcrhfg9zft8q",
+          "4503-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4503-malep-1_playmogo_hsub": "https://playmogo.com/e/xcutja2943tt",
+          "4503-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

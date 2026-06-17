@@ -1,0 +1,40 @@
+{
+  "anime_name": "Green Green Ova",
+  "anime_url": "https://hianime.ad/anime/green-green-ova",
+  "slug": "green-green-ova",
+  "mal_id": 133,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:01:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hearts Pounding Deep in the Mountains",
+      "episode_url": "https://hianime.ad/watch/green-green-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "133-malep-1_vibeplayer_sub": "https://vibeplayer.site/776e391d75b19bb2",
+          "133-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/776e391d75b19bb2/master.m3u8"
+        },
+        "Earnvids": {
+          "133-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v6novdiojlel",
+          "133-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "133-malep-1_vibeplayer_hsub": "https://vibeplayer.site/de6d3866224843c1",
+          "133-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/de6d3866224843c1/master.m3u8"
+        },
+        "StreamHG": {
+          "133-malep-1_otakuhg_hsub": "https://otakuhg.site/e/voaj12gk1h80",
+          "133-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "133-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/31xbv7rb0et1",
+          "133-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

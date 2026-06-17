@@ -1,0 +1,39 @@
+{
+  "anime_name": "Animation Runner Kuromi",
+  "anime_url": "https://hianime.ad/anime/animation-runner-kuromi",
+  "slug": "animation-runner-kuromi",
+  "mal_id": 16592,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:34:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Despair High School",
+      "episode_url": "https://hianime.ad/watch/animation-runner-kuromi/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "16592-malep-1_vibeplayer_dub": "https://vibeplayer.site/48cb9ed0d1499c70",
+          "16592-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48cb9ed0d1499c70/master.m3u8"
+        },
+        "HD-2": {
+          "16592-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag1425e55f01ae2c527ade23b4aee454644h",
+          "16592-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "16592-malep-1_otakuhg_dub": "https://otakuhg.site/e/4h43chy92nzk",
+          "16592-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "16592-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0b6zjskp0f4s",
+          "16592-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "16592-malep-1_playmogo_dub": "https://playmogo.com/e/v9y8r5yvhtmz",
+          "16592-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "anime_name": "Date A Live Date To Date",
+  "anime_url": "https://hianime.ad/anime/date-a-live-date-to-date",
+  "slug": "date-a-live-date-to-date",
+  "mal_id": 19163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:46:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Daily Life",
+      "episode_url": "https://hianime.ad/watch/date-a-live-date-to-date/ep-1",
+      "sub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/931df7afd39cc554",
+          "19163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/931df7afd39cc554/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc509fac0f9d7e048334942b98baf7b6c4h",
+          "19163-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_sub": "https://otakuhg.site/e/ajz3cbo0rbmd",
+          "19163-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7mkwksy1p9e8",
+          "19163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_dub": "https://vibeplayer.site/45a50f733fa62a44",
+          "19163-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/45a50f733fa62a44/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf0226c132de677e33092df57964ea6da4h",
+          "19163-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_dub": "https://otakuhg.site/e/l8wkbnbvbu2i",
+          "19163-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_dub": "https://otakuvid.online/embed/fofbtmgywlzv",
+          "19163-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fda52fff529ee988",
+          "19163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fda52fff529ee988/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age10389d9bb89b3f96474df43027cc35e4h",
+          "19163-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jorywzj4jmza",
+          "19163-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/m88rh2kug8bk",
+          "19163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19163-malep-1_playmogo_hsub": "https://playmogo.com/e/tlbjfc60ysas",
+          "19163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

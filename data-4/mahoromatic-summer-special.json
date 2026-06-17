@@ -1,0 +1,49 @@
+{
+  "anime_name": "Mahoromatic Summer Special",
+  "anime_url": "https://hianime.ad/anime/mahoromatic-summer-special",
+  "slug": "mahoromatic-summer-special",
+  "mal_id": 277,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:47:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Return of the Maid",
+      "episode_url": "https://hianime.ad/watch/mahoromatic-summer-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "277-malep-1_vibeplayer_sub": "https://vibeplayer.site/d5a0b2d325544302",
+          "277-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d5a0b2d325544302/master.m3u8"
+        },
+        "Earnvids": {
+          "277-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6ucx19bzhrcb",
+          "277-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "277-malep-1_vibeplayer_dub": "https://vibeplayer.site/0b2c2d7cb63d1984",
+          "277-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0b2c2d7cb63d1984/master.m3u8"
+        },
+        "Earnvids": {
+          "277-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1h5o5t7yvyhb",
+          "277-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "277-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6616107fcd35e01c",
+          "277-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6616107fcd35e01c/master.m3u8"
+        },
+        "Earnvids": {
+          "277-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wqqw7e71uhyw",
+          "277-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "277-malep-1_playmogo_hsub": "https://playmogo.com/e/2t6nw0k6zxz1",
+          "277-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

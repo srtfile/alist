@@ -1,0 +1,60 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 31 Chounouryoku Daikessen Tobe Tobe Temakizushi",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-31-chounouryoku-daikessen-tobe-tobe-temakizushi",
+  "slug": "crayon-shin-chan-movie-31-chounouryoku-daikessen-tobe-tobe-temakizushi",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:44:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-31-chounouryoku-daikessen-tobe-tobe-temakizushi/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/11b9d307ec9721fa",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11b9d307ec9721fa/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agd34b9e6e4cb9837f51098e76a29a2f2b4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/p8s4nd5qb8ut",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/f65x4worka5n",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/s0lh86nu4aw7",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/7438810d72df61f5",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7438810d72df61f5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfe7ab6708d4c7f8e346b8491ed41eaa54h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/dfz1k27ey64s",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h3fckvft9zgx",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ehvy8a2sadsi",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

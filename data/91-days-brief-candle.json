@@ -1,0 +1,52 @@
+{
+  "anime_name": "91 Days Brief Candle",
+  "anime_url": "https://hianime.ad/anime/91-days-brief-candle",
+  "slug": "91-days-brief-candle",
+  "mal_id": 32998,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:19:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Night of the Murder",
+      "episode_url": "https://hianime.ad/watch/91-days-brief-candle/ep-1",
+      "sub": {
+        "HD-1": {
+          "32998-malep-1_vibeplayer_sub": "https://vibeplayer.site/b4cfc54641c28503",
+          "32998-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4cfc54641c28503/master.m3u8"
+        },
+        "HD-2": {
+          "32998-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag49491be56d6a68eacf38f22184ca65ef4h",
+          "32998-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32998-malep-1_otakuhg_sub": "https://otakuhg.site/e/niotcxepfhve",
+          "32998-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32998-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fww8pw0v8a82",
+          "32998-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32998-malep-1_vibeplayer_hsub": "https://vibeplayer.site/84afcce1d978ab7b",
+          "32998-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/84afcce1d978ab7b/master.m3u8"
+        },
+        "HD-2": {
+          "32998-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf1b0d5161ad7db14560475d25af7f66d4h",
+          "32998-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32998-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hm0rxlkuiz9h",
+          "32998-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32998-malep-1_playmogo_hsub": "https://playmogo.com/e/dq1lti93xkfr",
+          "32998-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

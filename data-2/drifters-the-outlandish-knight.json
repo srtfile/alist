@@ -1,0 +1,60 @@
+{
+  "anime_name": "Drifters The Outlandish Knight",
+  "anime_url": "https://hianime.ad/anime/drifters-the-outlandish-knight",
+  "slug": "drifters-the-outlandish-knight",
+  "mal_id": 31339,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:59:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fight Song",
+      "episode_url": "https://hianime.ad/watch/drifters-the-outlandish-knight/ep-1",
+      "sub": {
+        "HD-1": {
+          "31339-malep-1_vibeplayer_sub": "https://vibeplayer.site/7002e8c013561ff9",
+          "31339-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7002e8c013561ff9/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag379f4fb42439b58facc69e4b4a35839e4h",
+          "31339-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31339-malep-1_otakuhg_sub": "https://otakuhg.site/e/w94tlgzec8dv",
+          "31339-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ats7t7dnqea0",
+          "31339-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31339-malep-1_playmogo_sub": "https://playmogo.com/e/se68golkofki",
+          "31339-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31339-malep-1_vibeplayer_hsub": "https://vibeplayer.site/16733504a115387e",
+          "31339-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/16733504a115387e/master.m3u8"
+        },
+        "HD-2": {
+          "31339-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4c25226e05f11d06f56b3c462a9667aa4h",
+          "31339-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31339-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f4eh3x3khws3",
+          "31339-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31339-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5n2a8g60117w",
+          "31339-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31339-malep-1_playmogo_hsub": "https://playmogo.com/e/8627x0htst20",
+          "31339-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

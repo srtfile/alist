@@ -1,0 +1,866 @@
+{
+  "anime_name": "Kurokami The Animation",
+  "anime_url": "https://hianime.ad/anime/kurokami-the-animation",
+  "slug": "kurokami-the-animation",
+  "mal_id": null,
+  "total_episodes": 23,
+  "captured_at": "2026-06-17T04:01:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/a0b96491a957ba30",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0b96491a957ba30/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1mxvzdohiior",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ba181a8995cfd833",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba181a8995cfd833/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/hhhklywozcqz",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/4b95e7e346d30f2c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b95e7e346d30f2c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6xsu7bjuz2tp",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/brq514mh4koy",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/b9f437247dbc8881",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9f437247dbc8881/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/1876q9hgkqmf",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/a9d1591146128c3d",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a9d1591146128c3d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/4n2ntcxbrcz0",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/45a56a9e4f5c3ace",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/45a56a9e4f5c3ace/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/tblul0t2yob7",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/1uq7t3tx5tz4",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/e63f91202941df3f",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e63f91202941df3f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/koxqurjqmyuu",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/9b67cc5d83d5d435",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9b67cc5d83d5d435/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/xk9p6zj2aq9y",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/e27810b351f8c6bf",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e27810b351f8c6bf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/0lgei8jutdja",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/0dvrjerb375a",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/d50c7959ab016ff5",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d50c7959ab016ff5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/3az1dyutxkmc",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/b075f81e01b82ee2",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b075f81e01b82ee2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/h6xtt1j33gmk",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/a014c13af80e4323",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a014c13af80e4323/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/t50432b7tpy5",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/aqhdibamegc4",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/xhjbfsw21h3x",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/eee4d87885b808a6",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eee4d87885b808a6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/hi7ga4zalg8v",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/61f862381bcaace4",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/61f862381bcaace4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/7hm6d1m9kw04",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/320eaa9b714162dc",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/320eaa9b714162dc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/qwysryp3tfm6",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/a1dff0bea353ad99",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a1dff0bea353ad99/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/ggbakg1ya20h",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/fed6a46a1281d2b6",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fed6a46a1281d2b6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/y24ck8l71gq7",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/dc27ce194799efdb",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dc27ce194799efdb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/a9jjuetsdtuj",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/b7c9943635c9c4d2",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b7c9943635c9c4d2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/b2i0nm0tjyt4",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/8ogcdf98ply0",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/kvc528tmr26x",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/dbcc1c4a4b2de0d1",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dbcc1c4a4b2de0d1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/oq18tyqjh4ng",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/c263c184805c078d",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c263c184805c078d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/24w1l2eseltg",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/33c994aadd237a09",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/33c994aadd237a09/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/v18bi0d92yd1",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/d4ri8vcr1f4m",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/287861d59f3c6570",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/287861d59f3c6570/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/vz2kyaum5q5e",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/d6e8b6715c6e1d36",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d6e8b6715c6e1d36/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/4raorvtt23or",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/a5c69cc29118a1eb",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a5c69cc29118a1eb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/efptmep8hznr",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/79svagd8dxh7",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/c4c40c40ee75eb6d",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4c40c40ee75eb6d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/se56mek0llnc",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/55f88c242e2171f4",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/55f88c242e2171f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/q1ob0ep2ws55",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/74fd5e3a98e65c10",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/74fd5e3a98e65c10/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/dvj8s0tg9oye",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/1gvy39az71vu",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/vs5sq2cgj2q0",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/23433bd956bab130",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23433bd956bab130/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/rssp8ik0w8tk",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/7a6cc2f2b1f4ef1b",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7a6cc2f2b1f4ef1b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/4hi0fuwhjrot",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/4aa2ade165240a98",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4aa2ade165240a98/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/mhaj7xdcmhbw",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/7f6b9whotohe",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/06d3fce9c90c3a25",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/06d3fce9c90c3a25/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/3y9imvqsndzg",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/d8822d553458065d",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d8822d553458065d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/tcnlqi0cn1kp",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/037ea1c4fc4bbab7",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/037ea1c4fc4bbab7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/0eimf2qbxilz",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/nbwqtxk5dgsy",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/drjxtfwbht88",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 13",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/4a6b93f0f282096c",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a6b93f0f282096c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/ed0jp7dltb2k",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/a69dfc21441af37d",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a69dfc21441af37d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/71yombus6qn4",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/7e718d252f67ebb5",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e718d252f67ebb5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/wo1uyxo3i0rh",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/1u2nd1ynuqv0",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 14",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/150ae0290f401ddc",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/150ae0290f401ddc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/35w78j6t8gu6",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/e1116f1fdc36b059",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e1116f1fdc36b059/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/p2e6l0c0t2q5",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 15",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/f0b27b54f42a123c",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0b27b54f42a123c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/nd8cggsobjhv",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/7609205bc86ec1fa",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7609205bc86ec1fa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/5odq0p3892n0",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/41107698f16c4c79",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41107698f16c4c79/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/cvi9tkzs9af7",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/yf24tvyhjq3j",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 16",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/4d490188596b033a",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d490188596b033a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/8yo8oiihkjb7",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/9a53c43f2bd55351",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9a53c43f2bd55351/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/zmw7e7llfn63",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/ef472d9f021bc2c3",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ef472d9f021bc2c3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_hsub": "https://otakuhg.site/e/hzj8309o2ycr",
+          "malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/f5nvka5zxord",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/svkibfbezea8",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 17",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/2ac95ca6fe537607",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ac95ca6fe537607/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/jugunhafay6e",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/2969652a394db9a5",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2969652a394db9a5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/sguoh7ac6de8",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-17_vibeplayer_hsub": "https://vibeplayer.site/c177b1d0a7221539",
+          "malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c177b1d0a7221539/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_hsub": "https://otakuvid.online/embed/g2n82kg5z48p",
+          "malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_hsub": "https://playmogo.com/e/7ps3ircbodwb",
+          "malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 18",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/398410b2d289dd41",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/398410b2d289dd41/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/m2dcbmr6ym6n",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/f70f551fccbdc5f6",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f70f551fccbdc5f6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/193lex0qkih1",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/bd1dd937d6883bc2",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd1dd937d6883bc2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/rdjpfgl1rob7",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/p0kt7izucv55",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 19",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/677e3f2dd26f39b7",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/677e3f2dd26f39b7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/m4u9mzz3u4dp",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/dbc33fc4b68bc519",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dbc33fc4b68bc519/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/jnihqhjky8sz",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/97c8afd1a7f8846b",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97c8afd1a7f8846b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/dco1sj2jeue7",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/fkf4hgiv1ynx",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 20",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/afb05caa82a374cb",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/afb05caa82a374cb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/y00cq2l2cx86",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/1d55b5daed9c2f82",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1d55b5daed9c2f82/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/e06pgh1tk634",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-20_vibeplayer_hsub": "https://vibeplayer.site/af488d87b45c05c9",
+          "malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/af488d87b45c05c9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_hsub": "https://otakuvid.online/embed/muqj0t81smn4",
+          "malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-20_playmogo_hsub": "https://playmogo.com/e/mirmzaca953u",
+          "malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 21",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/f55d4496f5dec569",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f55d4496f5dec569/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/3xt3vlwl5fc6",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/98fca22c7295d8c8",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/98fca22c7295d8c8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/02kqzjnly2v0",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/47f3e98016804010",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/47f3e98016804010/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/244dvpvuag0y",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/m1vek8ud27gt",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 22",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/3139054a602e5cda",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3139054a602e5cda/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/5ov6nwx4k9n0",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/23029020ed2293d6",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/23029020ed2293d6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/g6dlaclrqq4g",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/91f915f5ff4c4a7a",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91f915f5ff4c4a7a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/3npp347rqgby",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/2nxln3fp9j25",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/kurokami-the-animation/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/f18977c1afabede9",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f18977c1afabede9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/qoghwm8qasuk",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/68a7ca1da6bd34d6",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/68a7ca1da6bd34d6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/qnupkutn7sp5",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/dbadeebc0a1a6750",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dbadeebc0a1a6750/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/bz1hdckg8uhz",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/x2vhr2h2nbnv",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

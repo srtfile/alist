@@ -1,0 +1,48 @@
+{
+  "anime_name": "Cute High Earth Defense Club Love Love Love",
+  "anime_url": "https://hianime.ad/anime/cute-high-earth-defense-club-love-love-love",
+  "slug": "cute-high-earth-defense-club-love-love-love",
+  "mal_id": 27727,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:17:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "In the Name of Love",
+      "episode_url": "https://hianime.ad/watch/cute-high-earth-defense-club-love-love-love/ep-1",
+      "sub": {
+        "HD-1": {
+          "27727-malep-1_vibeplayer_sub": "https://vibeplayer.site/d0dee12391067801",
+          "27727-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0dee12391067801/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9bbce99ac43e0e2315844857be9d73db4h",
+          "27727-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0rj137szrmeb",
+          "27727-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27727-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cafc0efd9af75b76",
+          "27727-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cafc0efd9af75b76/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag70dc20fb1af2847a9a16beff9bf307a84h",
+          "27727-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/aij6a7i9fwn6",
+          "27727-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27727-malep-1_playmogo_hsub": "https://playmogo.com/e/t5vk5n4iju71",
+          "27727-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

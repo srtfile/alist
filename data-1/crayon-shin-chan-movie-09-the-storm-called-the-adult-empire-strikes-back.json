@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 09 The Storm Called The Adult Empire Strikes Back",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-09-the-storm-called-the-adult-empire-strikes-back",
+  "slug": "crayon-shin-chan-movie-09-the-storm-called-the-adult-empire-strikes-back",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:40:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-09-the-storm-called-the-adult-empire-strikes-back/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/25ee93a6677e4e5b",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25ee93a6677e4e5b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag36e741cf9589dabadd7faa44e3dd7aab4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/miki4i81yhzt",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qeruhd6gi7z0",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/2f7b4b4ce6751619",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f7b4b4ce6751619/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd3ba1073f6b257897d3332642b6b60104h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/6h7zma0fv3qc",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9wcvnoc4xzxj",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/q9uqgjw0hws1",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

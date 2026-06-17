@@ -1,0 +1,57 @@
+{
+  "anime_name": "Garo The Animation Home",
+  "anime_url": "https://hianime.ad/anime/garo-the-animation-home",
+  "slug": "garo-the-animation-home",
+  "mal_id": 23311,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:06:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hellfire",
+      "episode_url": "https://hianime.ad/watch/garo-the-animation-home/ep-1",
+      "sub": {
+        "HD-1": {
+          "23311-malep-1_vibeplayer_sub": "https://vibeplayer.site/c74c93de6fab2c80",
+          "23311-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c74c93de6fab2c80/master.m3u8"
+        },
+        "Earnvids": {
+          "23311-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3145yfxe6lib",
+          "23311-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23311-malep-1_vibeplayer_dub": "https://vibeplayer.site/ec697a06c98b91c4",
+          "23311-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ec697a06c98b91c4/master.m3u8"
+        },
+        "StreamHG": {
+          "23311-malep-1_otakuhg_dub": "https://otakuhg.site/e/vv57fybnt2vg",
+          "23311-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "23311-malep-1_otakuvid_dub": "https://otakuvid.online/embed/gk03gu3rzscj",
+          "23311-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23311-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f2b34889e5834af2",
+          "23311-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2b34889e5834af2/master.m3u8"
+        },
+        "StreamHG": {
+          "23311-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1yzzvnh08rn0",
+          "23311-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23311-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q4rkp0ed7306",
+          "23311-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23311-malep-1_playmogo_hsub": "https://playmogo.com/e/o4xuv14qmfvb",
+          "23311-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

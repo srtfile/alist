@@ -1,0 +1,48 @@
+{
+  "anime_name": "Haikyuu Tokushuu Haru Kou Volley Ni Kaketa Seishun",
+  "anime_url": "https://hianime.ad/anime/haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun",
+  "slug": "haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun",
+  "mal_id": 20583,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:36:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The End and the Beginning",
+      "episode_url": "https://hianime.ad/watch/haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun/ep-1",
+      "sub": {
+        "HD-1": {
+          "20583-malep-1_vibeplayer_sub": "https://vibeplayer.site/1abf5e42138304f8",
+          "20583-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1abf5e42138304f8/master.m3u8"
+        },
+        "StreamHG": {
+          "20583-malep-1_otakuhg_sub": "https://otakuhg.site/e/5lk9ir398gx5",
+          "20583-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "20583-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8tnfmwvuen56",
+          "20583-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3ef26391ad62712a",
+          "20583-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ef26391ad62712a/master.m3u8"
+        },
+        "StreamHG": {
+          "20583-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ki6hgdasahuk",
+          "20583-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20583-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/475qt5nk3k8u",
+          "20583-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20583-malep-1_playmogo_hsub": "https://playmogo.com/e/auqddt2lx1na",
+          "20583-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

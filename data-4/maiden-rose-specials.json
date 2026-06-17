@@ -1,0 +1,73 @@
+{
+  "anime_name": "Maiden Rose Specials",
+  "anime_url": "https://hianime.ad/anime/maiden-rose-specials",
+  "slug": "maiden-rose-specials",
+  "mal_id": 65,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T06:51:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Bara Suishou",
+      "episode_url": "https://hianime.ad/watch/maiden-rose-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "65-malep-1_vibeplayer_sub": "https://vibeplayer.site/f6b734ebea3aa5c3",
+          "65-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6b734ebea3aa5c3/master.m3u8"
+        },
+        "Earnvids": {
+          "65-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wrgvdtytdfzc",
+          "65-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "65-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8f9f660c07072500",
+          "65-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f9f660c07072500/master.m3u8"
+        },
+        "StreamHG": {
+          "65-malep-1_otakuhg_hsub": "https://otakuhg.site/e/533k7jdtqdqe",
+          "65-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "65-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5hyo5upplq0p",
+          "65-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "65-malep-1_playmogo_hsub": "https://playmogo.com/e/5pu4cua9pes2",
+          "65-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Enju",
+      "episode_url": "https://hianime.ad/watch/maiden-rose-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "65-malep-2_vibeplayer_sub": "https://vibeplayer.site/d2a9610af6d4b8cd",
+          "65-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2a9610af6d4b8cd/master.m3u8"
+        },
+        "Earnvids": {
+          "65-malep-2_otakuvid_sub": "https://otakuvid.online/embed/wgh8orups7oj",
+          "65-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "65-malep-2_vibeplayer_hsub": "https://vibeplayer.site/0ae6979ec5a59b30",
+          "65-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0ae6979ec5a59b30/master.m3u8"
+        },
+        "Earnvids": {
+          "65-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/czvujbqbofap",
+          "65-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "65-malep-2_playmogo_hsub": "https://playmogo.com/e/42ld3l587947",
+          "65-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

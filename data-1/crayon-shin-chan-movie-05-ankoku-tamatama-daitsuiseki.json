@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 05 Ankoku Tamatama Daitsuiseki",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-05-ankoku-tamatama-daitsuiseki",
+  "slug": "crayon-shin-chan-movie-05-ankoku-tamatama-daitsuiseki",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:40:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-05-ankoku-tamatama-daitsuiseki/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6c5e4e1ab9f8714b",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c5e4e1ab9f8714b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2c6bfc97468fd3d90a214dff722168194h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ecumpgcevvkx",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/0acuuoa2iqnm",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/4b552f234b02d8b8",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b552f234b02d8b8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag29084b762cfc9077859b260171fae03c4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/3dyqi024uze5",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fsbred972yfb",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/uwfuujmpt8l9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

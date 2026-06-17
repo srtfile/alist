@@ -1,0 +1,48 @@
+{
+  "anime_name": "Bang Dream Movie Episode Of Roselia I Yakusoku",
+  "anime_url": "https://hianime.ad/anime/bang-dream-movie-episode-of-roselia-i-yakusoku",
+  "slug": "bang-dream-movie-episode-of-roselia-i-yakusoku",
+  "mal_id": 33573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:34:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Met!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-movie-episode-of-roselia-i-yakusoku/ep-1",
+      "sub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/e5e4503ec84e7399",
+          "33573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5e4503ec84e7399/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/agda04ef4b42a370044693b134a51116254h",
+          "33573-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xw4zhjd6atjf",
+          "33573-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5bbf9600fcf9f151",
+          "33573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5bbf9600fcf9f151/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag429e9e28bf650ffd9bdffa3cefcc4c674h",
+          "33573-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e70pgt033owl",
+          "33573-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33573-malep-1_playmogo_hsub": "https://playmogo.com/e/mvokxyhb6o1e",
+          "33573-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

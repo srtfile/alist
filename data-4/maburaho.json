@@ -1,0 +1,882 @@
+{
+  "anime_name": "Maburaho",
+  "anime_url": "https://hianime.ad/anime/maburaho",
+  "slug": "maburaho",
+  "mal_id": null,
+  "total_episodes": 24,
+  "captured_at": "2026-06-17T06:10:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "They came...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b170917e6915edf3",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b170917e6915edf3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/tcdzna7c9u3x",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/s0xyawabq8kj",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/e804e7eb147ea27c",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e804e7eb147ea27c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/red2dn29y2lo",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "It fell...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/5d5dae612991555c",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5d5dae612991555c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/4lwhjsqlndip",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/2634b62cadb05033",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2634b62cadb05033/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/mq6oexdhnzs6",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/7961bceb51d62254",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7961bceb51d62254/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/1j28h4gndwoq",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/jn5s0fkqz89g",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/yovgi2nkss81",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "She left...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/dd10a49f706bfa1c",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd10a49f706bfa1c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/2d7dzwfyyxfv",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/99f9f923adf1865b",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99f9f923adf1865b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/zakfx1xe10kf",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/b59371dffcc74239",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b59371dffcc74239/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/1uwup8hndtxc",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/2pz043k0jdb4",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They saw...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/fd25a0d385facdc0",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd25a0d385facdc0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/s2y8rg27g9ax",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/cad2fac573467d6f",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cad2fac573467d6f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/fp5osiyw1t3i",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "She Made It...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/33c5e95b934191ba",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33c5e95b934191ba/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/9vowsn7qrwto",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/3c8f090be4a8b6c5",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3c8f090be4a8b6c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/s76nstg90fj0",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/130868968a11e144",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/130868968a11e144/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/sywadz9jpao4",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/alvxwsy9358k",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They Found Out...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/40b2667f7500bbff",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/40b2667f7500bbff/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/u3pjzgqth6kj",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/789f245aabda9f6a",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/789f245aabda9f6a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/ladbk50oomvv",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/8a0dfa99601847c3",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a0dfa99601847c3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/41vvbnarsa91",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/g27e46a0fqlh",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/0rhfmf579wtv",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They met...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/5fd63d5bb11c389b",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fd63d5bb11c389b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/37ln0z2t750n",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/fb5b0f1431d20a4c",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fb5b0f1431d20a4c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/ip8z6k5u7b55",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/17bff3fd730a25c5",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/17bff3fd730a25c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/wa647yp9p27g",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/i8nv5895k1hv",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They did it...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/19883fcfaebbc8fe",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/19883fcfaebbc8fe/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/kabntp05zivs",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/jxqmw0ycgwfs",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/fa93be93504c32b0",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fa93be93504c32b0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/mda24e3ybah7",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "He used it...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/fbef1a6360a780fc",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fbef1a6360a780fc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/svubgyhlo3ns",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/bfcdd266edb06f55",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bfcdd266edb06f55/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/ahcxf49ib68u",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/218ddbf787bbf699",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/218ddbf787bbf699/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/wgpw876uh0qf",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/mye5cy9lqery",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It Grew...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/6f908a1f540fcf25",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f908a1f540fcf25/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/60o5z32emm9o",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/8ab0e8dae19eb36a",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8ab0e8dae19eb36a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/iudfzu0rls6m",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/c84bddaf793c9735",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c84bddaf793c9735/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/lm7h116q38s2",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/anzjd78h17p5",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/v16zlnh11h85",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They Opened It...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/a915a3c353e594b2",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a915a3c353e594b2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/z3lpaxxx9vca",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/99f97a3056f7c8fd",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99f97a3056f7c8fd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/d6inwo2u1no5",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "He Disappeared...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/3b3ca3ebb4113560",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3b3ca3ebb4113560/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/pmjn8dljg08o",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/71095a034fff92f0",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/71095a034fff92f0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/rnqnu2ixg30y",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/559feaaa641bd25e",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/559feaaa641bd25e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/5beg3f0n1vlc",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/2w3rt9nrsd0n",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "He came back...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/425a7756a01a796c",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/425a7756a01a796c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/exbv48aczpbk",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/79c32bab27b1ce0c",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79c32bab27b1ce0c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/78me1hgnrjma",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/71f2113c6f83af14",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71f2113c6f83af14/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/dgde9rbczr3k",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/62kya5qpx1lc",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Got Drawn In...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/1e15173dde418153",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e15173dde418153/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/z0tbscl6juzy",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/f3b471d80c1498c9",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f3b471d80c1498c9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/47z5d3kcz3ur",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "He Ascended...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/608e0f43273343a1",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/608e0f43273343a1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/nle968e09gay",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/631ee572e9944b5c",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/631ee572e9944b5c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/5w5wwm8cnn3j",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/043d586a3a5b13d7",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/043d586a3a5b13d7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/urj7nsvqka3e",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/d40c0yqf8e2h",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We Snooped...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/61ced9c9b9921c83",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61ced9c9b9921c83/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/ndp42757co3n",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/86d07329a206078b",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/86d07329a206078b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/q8iqo66c49wb",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/da0f3d3ab22e230d",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/da0f3d3ab22e230d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/n9xo5vkh2icr",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/vodrhudxkwyv",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They Decided...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/bbbf34bdec81187f",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bbbf34bdec81187f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/kqgdtntfsoa7",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/df0e9fbd174c09b9",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df0e9fbd174c09b9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/8tjpycgkjcrl",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-17_vibeplayer_hsub": "https://vibeplayer.site/777df83ff8684a2d",
+          "malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/777df83ff8684a2d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_hsub": "https://otakuvid.online/embed/rgpkrlxi3ibb",
+          "malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_hsub": "https://playmogo.com/e/at3oxf7u5ckk",
+          "malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "They Set It Up... Ya See",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/5ea7acdd6c930108",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5ea7acdd6c930108/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/nvitwa1grnc5",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/d2db4cc6ea901902",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d2db4cc6ea901902/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/f967s4z6oi27",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/c58b23ac7916a1f8",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c58b23ac7916a1f8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/td3xggc4bs9g",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/ymitkb9c77fd",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "He Changed... Ya See",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/1f62f546fb0a5754",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f62f546fb0a5754/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/z0it2b4rqsp0",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/a94f8631bc88a690",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a94f8631bc88a690/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/02s8cezg36ld",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/966b8a069061acb4",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/966b8a069061acb4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/pl52ai2bmwtc",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/9q8hxa54p3b5",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "She Delivered It...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/b97a55ff66e5645c",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b97a55ff66e5645c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/eqi9f4dwz93a",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/53297c9dce026a76",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/53297c9dce026a76/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/20m6b5adldu1",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-20_vibeplayer_hsub": "https://vibeplayer.site/3799eeea94d5d99b",
+          "malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3799eeea94d5d99b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_hsub": "https://otakuvid.online/embed/m399nyr1d5u7",
+          "malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-20_playmogo_hsub": "https://playmogo.com/e/2oci64mllftq",
+          "malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "He Was Lit Up...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/b08b80518f357d03",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b08b80518f357d03/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/47759kmv1f7g",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/2ad87278936d8b3b",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2ad87278936d8b3b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/53schtzsr2rk",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/31b2b8d39533182b",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31b2b8d39533182b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/qkg8ne4dlu0s",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/e7nkvlfxnf7v",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "He Kept It...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/26116e41a22aead3",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26116e41a22aead3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/vmcuqqe8eps4",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/4d182e7b8bec9285",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4d182e7b8bec9285/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/zd5totout3b3",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/8e90f5960ce80c07",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e90f5960ce80c07/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/o9oiuxtw0fzb",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/2j14u2wuqm10",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We Were Seen...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/0bbfe98a5be4d4bd",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0bbfe98a5be4d4bd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/1gs0ilhlqnec",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/4caab5a98da1ff15",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4caab5a98da1ff15/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/cuyold8qn06b",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/cd3dbdf33949877a",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cd3dbdf33949877a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/8cu5bqjwuobc",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/o1ey8kjfylvy",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It Ended...",
+      "episode_url": "https://hianime.ad/watch/maburaho/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/be73be0212c4fdd6",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/be73be0212c4fdd6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/i9s3mp74l70g",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/d20c9951504393c5",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d20c9951504393c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/i61hhjx02ion",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-24_vibeplayer_hsub": "https://vibeplayer.site/646f4531062a853b",
+          "malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/646f4531062a853b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_hsub": "https://otakuhg.site/e/pcyt2xo3ohq4",
+          "malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_hsub": "https://otakuvid.online/embed/auz4jjei4wfo",
+          "malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-24_playmogo_hsub": "https://playmogo.com/e/783j1lbpufzo",
+          "malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

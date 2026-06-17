@@ -1,0 +1,61 @@
+{
+  "anime_name": "Chobits Hibiya And Kotoko Chat",
+  "anime_url": "https://hianime.ad/anime/chobits-hibiya-and-kotoko-chat",
+  "slug": "chobits-hibiya-and-kotoko-chat",
+  "mal_id": 59,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:44:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chi Awakens",
+      "episode_url": "https://hianime.ad/watch/chobits-hibiya-and-kotoko-chat/ep-1",
+      "sub": {
+        "HD-1": {
+          "59-malep-1_vibeplayer_sub": "https://vibeplayer.site/5fee509e8cf22cc2",
+          "59-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fee509e8cf22cc2/master.m3u8"
+        },
+        "HD-2": {
+          "59-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf8ca5477358a6b244accaa7110db4b634h",
+          "59-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n7uykneg194a",
+          "59-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59-malep-1_vibeplayer_dub": "https://vibeplayer.site/8469d82af28179fe",
+          "59-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8469d82af28179fe/master.m3u8"
+        },
+        "HD-2": {
+          "59-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf0055a3c92717a5a949ff96458c7d0114h",
+          "59-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "59-malep-1_otakuvid_dub": "https://otakuvid.online/embed/n9r3q8nhjy1k",
+          "59-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eff2be6e256b8c95",
+          "59-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eff2be6e256b8c95/master.m3u8"
+        },
+        "HD-2": {
+          "59-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga1527b9765436e7467499e6f9f5a0de44h",
+          "59-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/byl78ocfkvhk",
+          "59-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59-malep-1_playmogo_hsub": "https://playmogo.com/e/siwbkkbmq8e0",
+          "59-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

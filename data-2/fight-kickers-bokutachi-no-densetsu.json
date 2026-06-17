@@ -1,0 +1,40 @@
+{
+  "anime_name": "Fight Kickers Bokutachi No Densetsu",
+  "anime_url": "https://hianime.ad/anime/fight-kickers-bokutachi-no-densetsu",
+  "slug": "fight-kickers-bokutachi-no-densetsu",
+  "mal_id": 3053,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:14:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hara! Is This Really the Soccer Club?",
+      "episode_url": "https://hianime.ad/watch/fight-kickers-bokutachi-no-densetsu/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "3053-malep-1_vibeplayer_raw": "https://vibeplayer.site/a39e015c7902e0b6",
+          "3053-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/a39e015c7902e0b6/master.m3u8"
+        },
+        "HD-2": {
+          "3053-malep-1_vibeplayer_raw": "https://vibeplayer.site/agb26ad5873712f251ea1753661d5b2bd14h",
+          "3053-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "3053-malep-1_otakuhg_raw": "https://otakuhg.site/e/w64mv45bhss3",
+          "3053-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "3053-malep-1_otakuvid_raw": "https://otakuvid.online/embed/s20ppbxqhk6r",
+          "3053-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "3053-malep-1_playmogo_raw": "https://playmogo.com/e/kx26eotvdqxu",
+          "3053-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

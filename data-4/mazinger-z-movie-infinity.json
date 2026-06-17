@@ -1,0 +1,53 @@
+{
+  "anime_name": "Mazinger Z Movie Infinity",
+  "anime_url": "https://hianime.ad/anime/mazinger-z-movie-infinity",
+  "slug": "mazinger-z-movie-infinity",
+  "mal_id": 2253,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T08:03:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Birth of a Miraculous Robot",
+      "episode_url": "https://hianime.ad/watch/mazinger-z-movie-infinity/ep-1",
+      "sub": {
+        "HD-1": {
+          "2253-malep-1_vibeplayer_sub": "https://vibeplayer.site/6f0098e13dee3618",
+          "2253-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f0098e13dee3618/master.m3u8"
+        },
+        "Earnvids": {
+          "2253-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d6v0x044elv3",
+          "2253-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2253-malep-1_vibeplayer_dub": "https://vibeplayer.site/6d87597447f8e34c",
+          "2253-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6d87597447f8e34c/master.m3u8"
+        },
+        "Earnvids": {
+          "2253-malep-1_otakuvid_dub": "https://otakuvid.online/embed/i1d9d89z8an2",
+          "2253-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2253-malep-1_vibeplayer_hsub": "https://vibeplayer.site/335e517521f7c222",
+          "2253-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/335e517521f7c222/master.m3u8"
+        },
+        "StreamHG": {
+          "2253-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3nx7fkk9t7hb",
+          "2253-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2253-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e4iq8r6ikkgn",
+          "2253-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2253-malep-1_playmogo_hsub": "https://playmogo.com/e/kacps8f3bqn8",
+          "2253-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

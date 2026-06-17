@@ -1,0 +1,56 @@
+{
+  "anime_name": "Attack On Titan Crimson Bow And Arrow",
+  "anime_url": "https://hianime.ad/anime/attack-on-titan-crimson-bow-and-arrow",
+  "slug": "attack-on-titan-crimson-bow-and-arrow",
+  "mal_id": 16498,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:48:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To You, 2,000 Years in the Future: The Fall of Shiganshina (1)",
+      "episode_url": "https://hianime.ad/watch/attack-on-titan-crimson-bow-and-arrow/ep-1",
+      "sub": {
+        "HD-1": {
+          "16498-malep-1_vibeplayer_sub": "https://vibeplayer.site/46dbb64f3fbbf698",
+          "16498-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46dbb64f3fbbf698/master.m3u8"
+        },
+        "HD-2": {
+          "16498-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag2ccfeff571d23a3123e5df4e41fc90c34h",
+          "16498-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "16498-malep-1_otakuhg_sub": "https://otakuhg.site/e/vzynha294rga",
+          "16498-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "16498-malep-1_otakuvid_sub": "https://otakuvid.online/embed/viy3wifuyx1n",
+          "16498-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "16498-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c0f2758ca3ddbf27",
+          "16498-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0f2758ca3ddbf27/master.m3u8"
+        },
+        "HD-2": {
+          "16498-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3fc7b041357742a0dd516ace86c8a26a4h",
+          "16498-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "16498-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t6elku5fdtxz",
+          "16498-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16498-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lm9dpt4so9fm",
+          "16498-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16498-malep-1_playmogo_hsub": "https://playmogo.com/e/d1y3nszjwdoy",
+          "16498-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

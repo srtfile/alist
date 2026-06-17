@@ -1,0 +1,65 @@
+{
+  "anime_name": "Blade Of The Phantom Master",
+  "anime_url": "https://hianime.ad/anime/blade-of-the-phantom-master",
+  "slug": "blade-of-the-phantom-master",
+  "mal_id": 4151,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:40:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Criminal",
+      "episode_url": "https://hianime.ad/watch/blade-of-the-phantom-master/ep-1",
+      "sub": {
+        "HD-1": {
+          "4151-malep-1_vibeplayer_sub": "https://vibeplayer.site/b1de5c1be00ccba4",
+          "4151-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1de5c1be00ccba4/master.m3u8"
+        },
+        "HD-2": {
+          "4151-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0a562969fac6d32330d458d2bf2a5fa34h",
+          "4151-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4151-malep-1_otakuvid_sub": "https://otakuvid.online/embed/skwdqq9idvd4",
+          "4151-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "4151-malep-1_playmogo_sub": "https://playmogo.com/e/i28oskxhp7nx",
+          "4151-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4151-malep-1_vibeplayer_dub": "https://vibeplayer.site/07af600153a94b19",
+          "4151-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07af600153a94b19/master.m3u8"
+        },
+        "HD-2": {
+          "4151-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag9d1bb6c88fb43e0904b73ca0bad5d28b4h",
+          "4151-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4151-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hzc1jj3k8gp1",
+          "4151-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4151-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1f4aa7fc8448d305",
+          "4151-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1f4aa7fc8448d305/master.m3u8"
+        },
+        "HD-2": {
+          "4151-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag841af5e5cfab71504826509bb19cba4e4h",
+          "4151-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4151-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dtcwlbt48e88",
+          "4151-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4151-malep-1_playmogo_hsub": "https://playmogo.com/e/ortfbw6vy9ws",
+          "4151-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

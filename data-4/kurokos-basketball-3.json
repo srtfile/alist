@@ -1,0 +1,943 @@
+{
+  "anime_name": "Kurokos Basketball 3",
+  "anime_url": "https://hianime.ad/anime/kurokos-basketball-3",
+  "slug": "kurokos-basketball-3",
+  "mal_id": null,
+  "total_episodes": 25,
+  "captured_at": "2026-06-17T04:03:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Just Going at Full Strength",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/72d638c1b6a9a3ee",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/72d638c1b6a9a3ee/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/v3hwi1uzv893",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/b73r1acg407o",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/f9e3e65b515b2257",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f9e3e65b515b2257/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/cjjzuhaea8f5",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/kyus49bgq6ac",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "This Is Mine",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/9115fbe8e82ff1d9",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9115fbe8e82ff1d9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/u8eglwf2ntlv",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/b3490jxt22gf",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/55fcbcc72e9d7fdc",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/55fcbcc72e9d7fdc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/g7p401a18o72",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/jd1n5c7szjqe",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Don't You Get In My Way",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/55b4454c57556d4c",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55b4454c57556d4c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/6kxnkh0bzfxr",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/0p7hksqgjr4y",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/d56970dc961698fb",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d56970dc961698fb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/oggzfp77ibrb",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/e8hm65qmblgt",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I'll Take This For Now",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/40e30e39fcedfc52",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/40e30e39fcedfc52/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/qf7u27myycgk",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/wlisxz3nppw1",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/c1e0705138f89de5",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c1e0705138f89de5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/2y4n6292f4w7",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/dfyzpv2qtll5",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Know None of That",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/e994e8dfb16d51ea",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e994e8dfb16d51ea/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/n0guaels5f2u",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/q6itbrgmfdxp",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/50e1fda27786b80e",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/50e1fda27786b80e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/l27ntbzmdwla",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/jxcp05fcd3tc",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I Will Offer Them",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/ed2818447b5722df",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed2818447b5722df/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_sub": "https://otakuhg.site/e/ug1v4bnac60c",
+          "malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/vvigkc2wd343",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/4a1c9dd7903d2c1b",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4a1c9dd7903d2c1b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/db3hk51p6zii",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/4gr3pxz59l9l",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "It Makes Me Laugh",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/b36edff3c27d663e",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b36edff3c27d663e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/bxjuylojzut8",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/p3uz3jszs415",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/0bc78f3526fa669c",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0bc78f3526fa669c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/nasbux1fpkxo",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/9b8pjxjhefor",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "True Light",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/af09ee6d0d72b967",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af09ee6d0d72b967/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/voir080dtu5k",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/34872e3ab7e15535",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/34872e3ab7e15535/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/6jylfv81bwx4",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/g4xkxszy6v6b",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/d41b374aab976e19",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d41b374aab976e19/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/e6nlj7tbo4mo",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/7vj37b179or8",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/q0buokt67e9q",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Don't Belittle Us!!",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/0e9eee9cdad0a4b6",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e9eee9cdad0a4b6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/itgkbpl3uk96",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/1787ef652a598aa8",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1787ef652a598aa8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/3eqem08fb8zg",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/wk00u48qyexa",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/64e2518583a37176",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64e2518583a37176/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/zwzmlzlui0t0",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/iz9l9l1xfl91",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/bwh1lsjx3i86",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "In Order to Win",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/b3173fd536cc6685",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3173fd536cc6685/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/6u4t5w8iom3o",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/n1zlp15665cb",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/bebe719821276347",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bebe719821276347/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/1lu4v2ojx4j8",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/14ouxqpp5epk",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "This Time, for Sure",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/841cf9b6a0b1e023",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/841cf9b6a0b1e023/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_sub": "https://otakuhg.site/e/d0auexz9c4ym",
+          "malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/v5gf1zy2tjbj",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/23a86aee8fa7ee12",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/23a86aee8fa7ee12/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/lb1t3ihska1d",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/e07fc7odlefr",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "He Is the Best Player",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/dd86fc24230f57b0",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd86fc24230f57b0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_sub": "https://otakuhg.site/e/8fin3qlt9qa4",
+          "malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/p8q4j2a58kwe",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/cbe8135c1a4a0dba",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cbe8135c1a4a0dba/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/gsc6qeanrfp6",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/otiw3d73kmv7",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Day with Blue Skies",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/d2291b1796166f4f",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2291b1796166f4f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_sub": "https://otakuhg.site/e/cacuqnka0ajc",
+          "malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/j95zthn5cy5d",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/d63da79aa123b8af",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d63da79aa123b8af/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_dub": "https://otakuhg.site/e/1uujonwiopil",
+          "malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/zdrgkmvn49aq",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "...Sorry",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/ff8f70e099f72269",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff8f70e099f72269/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_sub": "https://otakuhg.site/e/ph66krx49nho",
+          "malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/h9xlj9yi4vcm",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/578c150aee711bfb",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/578c150aee711bfb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_dub": "https://otakuhg.site/e/dcyu5ue15sxi",
+          "malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/cjiq8hdgxpfp",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-14_vibeplayer_hsub": "https://vibeplayer.site/8bc2b956c3ba8e92",
+          "malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8bc2b956c3ba8e92/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_hsub": "https://otakuhg.site/e/p4m0bs40adpi",
+          "malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_hsub": "https://otakuvid.online/embed/zq31votnv43m",
+          "malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_hsub": "https://playmogo.com/e/pyatkvt12xne",
+          "malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We No Longer",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/290c41d2a70a6adf",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/290c41d2a70a6adf/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_sub": "https://otakuhg.site/e/1lpt2k5t2h4s",
+          "malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/4t80jcbtdapo",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/41f52d0c6156d658",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/41f52d0c6156d658/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_dub": "https://otakuhg.site/e/1xczxtxwrq8q",
+          "malep-15_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/79a26deimhgu",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "What Is Victory?",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/d40004e3d91b20a4",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d40004e3d91b20a4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_sub": "https://otakuhg.site/e/t6hn5yk9c4ez",
+          "malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/c4284p2gjqp0",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/6d703b17d5cc6687",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6d703b17d5cc6687/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_dub": "https://otakuhg.site/e/41r7wy4joxdo",
+          "malep-16_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/kmbllya3mylb",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Final Tip-Off!",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/8af11a3dffaed2a4",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8af11a3dffaed2a4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_sub": "https://otakuhg.site/e/y31e9hwicj4b",
+          "malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/xhvub8omyitj",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/2720eb76c50bccad",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2720eb76c50bccad/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_dub": "https://otakuhg.site/e/3b516yevx2vw",
+          "malep-17_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/03b7g6np65mi",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-17_vibeplayer_hsub": "https://vibeplayer.site/f560ce9503a809ce",
+          "malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f560ce9503a809ce/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_hsub": "https://otakuhg.site/e/y0mjv9purljv",
+          "malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_hsub": "https://otakuvid.online/embed/kakavo2tfr3w",
+          "malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_hsub": "https://playmogo.com/e/123eqfyxx0rp",
+          "malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Isn't It the Best?",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/337a67a9629a0ccc",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/337a67a9629a0ccc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/rfy709lc3a29",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/303a8543efaca722",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/303a8543efaca722/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_dub": "https://otakuhg.site/e/3yn9vn0o25l5",
+          "malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/mmhs0tk82d5x",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/0b6f71d05b599b85",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0b6f71d05b599b85/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_hsub": "https://otakuhg.site/e/zrirjty2u49f",
+          "malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/05sjl1qfigku",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/hjv62c639hu8",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Miracle Will Not Happen",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/07dc05f2d02ba432",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/07dc05f2d02ba432/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_sub": "https://otakuhg.site/e/o59gchw6ruq2",
+          "malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/fpwrq0932c8q",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/93a2cdde3d599413",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/93a2cdde3d599413/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_dub": "https://otakuhg.site/e/wrgabbhhae63",
+          "malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/5tutygef2y2p",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/be65cbf4f9c84cb5",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be65cbf4f9c84cb5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_hsub": "https://otakuhg.site/e/m5wmkx99i28r",
+          "malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/tp8scqa7x515",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/pzxv83gcf4tr",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Weight of Resolve",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/816c3bfe8c092a65",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/816c3bfe8c092a65/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_sub": "https://otakuhg.site/e/3e6s5op4cpwe",
+          "malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/p32ujiwmk80q",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/df4cd1434106807a",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df4cd1434106807a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_dub": "https://otakuhg.site/e/6sxd1b87y1h6",
+          "malep-20_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/em2r5jdjmjwq",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "In My Own Way, I'm Desperate",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/d9219f0d907555d0",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9219f0d907555d0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_sub": "https://otakuhg.site/e/xmi5r82bqtpi",
+          "malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/y4f71d4ink7d",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/674b961996f5a355",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/674b961996f5a355/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_dub": "https://otakuhg.site/e/bcmrme4th84y",
+          "malep-21_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/t332yhzv65qg",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/cc57442672b31d24",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc57442672b31d24/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_hsub": "https://otakuhg.site/e/gvctq2k8is73",
+          "malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/pu49uj9rkr00",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/8b22jzevoo06",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Warning",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/904ca9bd63ffa468",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/904ca9bd63ffa468/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_sub": "https://otakuhg.site/e/xr02un41eevp",
+          "malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/brh81linc6u1",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/9495f74ac58d4576",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9495f74ac58d4576/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_dub": "https://otakuhg.site/e/gs896rwh944e",
+          "malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/ikfjm1ugfkoa",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Why Don’t You Give Up?",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/41c67a975dcb09f4",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/41c67a975dcb09f4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_sub": "https://otakuhg.site/e/9njsimb3wi2k",
+          "malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/0miuptrujjxt",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/641e7b228c173d87",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/641e7b228c173d87/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_dub": "https://otakuhg.site/e/6llr0ngac3gg",
+          "malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/51k5gf02i2ec",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "So It Was You",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/0eeb40fba9eb2484",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0eeb40fba9eb2484/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_sub": "https://otakuhg.site/e/jfjy918g2hks",
+          "malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/thgfhdtcoik0",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/7e23092a92bec5fa",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e23092a92bec5fa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_dub": "https://otakuhg.site/e/cah193wy13fq",
+          "malep-24_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/fpu8iu6kyncr",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Many Times Over",
+      "episode_url": "https://hianime.ad/watch/kurokos-basketball-3/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/0ce8cedd62b72038",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ce8cedd62b72038/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_sub": "https://otakuhg.site/e/wx4rgohsjzli",
+          "malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/jh1s5oaxy2yc",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/cd9a85138d45febc",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cd9a85138d45febc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_dub": "https://otakuhg.site/e/nbee611yx4q5",
+          "malep-25_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/ciyivx3x5nf5",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

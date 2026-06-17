@@ -1,0 +1,56 @@
+{
+  "anime_name": "Hackg U Trilogy",
+  "anime_url": "https://hianime.ad/anime/hackg-u-trilogy",
+  "slug": "hackg-u-trilogy",
+  "mal_id": 4470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T15:18:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/hackg-u-trilogy/ep-1",
+      "sub": {
+        "HD-1": {
+          "4470-malep-1_vibeplayer_sub": "https://vibeplayer.site/ff221b1d678499e1",
+          "4470-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff221b1d678499e1/master.m3u8"
+        },
+        "HD-2": {
+          "4470-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag80264d864a7b3834ad87c90a076af20d4h",
+          "4470-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4470-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7cjcmjal9xa4",
+          "4470-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "4470-malep-1_playmogo_sub": "https://playmogo.com/e/k40lunwpo960",
+          "4470-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4b27259e1b743d2b",
+          "4470-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b27259e1b743d2b/master.m3u8"
+        },
+        "HD-2": {
+          "4470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag15290b2ccd866e7f9fc514e1501b24f24h",
+          "4470-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4470-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ch8mr59294ge",
+          "4470-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4470-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mz5v3zqtmvts",
+          "4470-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4470-malep-1_playmogo_hsub": "https://playmogo.com/e/hej9788vtsxm",
+          "4470-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

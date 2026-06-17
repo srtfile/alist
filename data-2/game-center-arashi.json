@@ -1,0 +1,60 @@
+{
+  "anime_name": "Game Center Arashi",
+  "anime_url": "https://hianime.ad/anime/game-center-arashi",
+  "slug": "game-center-arashi",
+  "mal_id": 12243,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:49:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/game-center-arashi/ep-1",
+      "sub": {
+        "HD-1": {
+          "12243-malep-1_vibeplayer_sub": "https://vibeplayer.site/d7bb9ab7a493dee7",
+          "12243-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7bb9ab7a493dee7/master.m3u8"
+        },
+        "HD-2": {
+          "12243-malep-1_vibeplayer_sub": "https://vibeplayer.site/agfe44ad08cfd53f222ce963135f2e79c24h",
+          "12243-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "12243-malep-1_otakuhg_sub": "https://otakuhg.site/e/knctf0pa2dp6",
+          "12243-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12243-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kzr6ycbrpi81",
+          "12243-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "12243-malep-1_playmogo_sub": "https://playmogo.com/e/5dsq2jvrk9yl",
+          "12243-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12243-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a5e09d735d1b9c39",
+          "12243-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a5e09d735d1b9c39/master.m3u8"
+        },
+        "HD-2": {
+          "12243-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb3dce07004ddb94ff748bc8563780da54h",
+          "12243-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "12243-malep-1_otakuhg_hsub": "https://otakuhg.site/e/50yknoemexl8",
+          "12243-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12243-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c3bda0fqcc32",
+          "12243-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12243-malep-1_playmogo_hsub": "https://playmogo.com/e/h694dtm37nuh",
+          "12243-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anime_name": "Inuyasha Kuroi Tessaiga",
+  "anime_url": "https://hianime.ad/anime/inuyasha-kuroi-tessaiga",
+  "slug": "inuyasha-kuroi-tessaiga",
+  "mal_id": 249,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T07:13:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Girl Who Overcame Time... and the Boy Who Was Just Overcome",
+      "episode_url": "https://hianime.ad/watch/inuyasha-kuroi-tessaiga/ep-1",
+      "sub": {
+        "HD-1": {
+          "249-malep-1_vibeplayer_sub": "https://vibeplayer.site/42106ffe41599870",
+          "249-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42106ffe41599870/master.m3u8"
+        },
+        "Earnvids": {
+          "249-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tcx7gvpm8orq",
+          "249-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "249-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f0e960e10fcf054",
+          "249-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f0e960e10fcf054/master.m3u8"
+        },
+        "StreamHG": {
+          "249-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r10c8nx93k7m",
+          "249-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "249-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gst96ixrk11w",
+          "249-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "249-malep-1_playmogo_hsub": "https://playmogo.com/e/rrv1fe1enun7",
+          "249-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

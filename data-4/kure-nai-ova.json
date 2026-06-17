@@ -1,0 +1,69 @@
+{
+  "anime_name": "Kure Nai Ova",
+  "anime_url": "https://hianime.ad/anime/kure-nai-ova",
+  "slug": "kure-nai-ova",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T04:00:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kure-nai-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e1c5ee001c084b8d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e1c5ee001c084b8d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/l4kwac2halty",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/327569410d66f321",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/327569410d66f321/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e66is1q0dbjb",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/5hfg8a1w07x1",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kure-nai-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/c919fd61aeeba494",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c919fd61aeeba494/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/up88i6ivb397",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/db2c8d3fb1803886",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/db2c8d3fb1803886/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/90k8y2e2qw1u",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/zqmrwyaqa2bl",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

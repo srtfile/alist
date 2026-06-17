@@ -1,0 +1,73 @@
+{
+  "anime_name": "Detective Conan Movie 24 The Scarlet Bullet",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-24-the-scarlet-bullet",
+  "slug": "detective-conan-movie-24-the-scarlet-bullet",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:11:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-24-the-scarlet-bullet/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ed9422260a1c72a8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed9422260a1c72a8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3c9a5e4702492dcbcf3faeb328440e804h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/0raw70qcg9s5",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/h1ofv2v3r4mn",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/anca8f8rpp71",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/f75da339c33f7729",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f75da339c33f7729/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag6a781e315ec8b88677cc2233cc801f5a4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/ad403z8w73jd",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/p5f92r3goglt",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/69ecc71cc0a37935",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/69ecc71cc0a37935/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd63f18787e09d21b8d758bcdfd2bf8da4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/t57gkln19s4z",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h3k65n19vdre",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

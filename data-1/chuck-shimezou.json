@@ -1,0 +1,61 @@
+{
+  "anime_name": "Chuck Shimezou",
+  "anime_url": "https://hianime.ad/anime/chuck-shimezou",
+  "slug": "chuck-shimezou",
+  "mal_id": 2575,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:52:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/chuck-shimezou/ep-1",
+      "sub": {
+        "HD-1": {
+          "2575-malep-1_vibeplayer_sub": "https://vibeplayer.site/c92c74c4555100ef",
+          "2575-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c92c74c4555100ef/master.m3u8"
+        },
+        "HD-2": {
+          "2575-malep-1_vibeplayer_sub": "https://vibeplayer.site/age98883841216d63235267214628612ac4h",
+          "2575-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2575-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q6pcfi7m3ubs",
+          "2575-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2575-malep-1_vibeplayer_dub": "https://vibeplayer.site/1f01a2aa43ce5304",
+          "2575-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f01a2aa43ce5304/master.m3u8"
+        },
+        "HD-2": {
+          "2575-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag31223c8cd9cb45d384e7fcd83b87b43f4h",
+          "2575-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2575-malep-1_otakuvid_dub": "https://otakuvid.online/embed/h7hnaog0xo1m",
+          "2575-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5dc52571a6cbc643",
+          "2575-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5dc52571a6cbc643/master.m3u8"
+        },
+        "HD-2": {
+          "2575-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag51c5a5ca0d7567a36c6a0312b816e39d4h",
+          "2575-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2575-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gv0jpd9pp8p5",
+          "2575-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2575-malep-1_playmogo_hsub": "https://playmogo.com/e/c51ulnhdr4sx",
+          "2575-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

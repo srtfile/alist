@@ -1,0 +1,56 @@
+{
+  "anime_name": "Ar Tonelico Sekai No Owari De Utai Tsuzukeru Shoujo",
+  "anime_url": "https://hianime.ad/anime/ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo",
+  "slug": "ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo",
+  "mal_id": 31793,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:00:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "You Can See Me?",
+      "episode_url": "https://hianime.ad/watch/ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo/ep-1",
+      "sub": {
+        "HD-1": {
+          "31793-malep-1_vibeplayer_sub": "https://vibeplayer.site/edffab5ac3ef1f47",
+          "31793-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/edffab5ac3ef1f47/master.m3u8"
+        },
+        "HD-2": {
+          "31793-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4b3fee5e4c9a9e28312cbdf1c63376574h",
+          "31793-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "31793-malep-1_otakuhg_sub": "https://otakuhg.site/e/89yet9ngcdt3",
+          "31793-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31793-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y6a6r0ao94c6",
+          "31793-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31793-malep-1_playmogo_sub": "https://playmogo.com/e/va16dq6dnd26",
+          "31793-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31793-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c90d422a883db283",
+          "31793-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c90d422a883db283/master.m3u8"
+        },
+        "HD-2": {
+          "31793-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7042c6e56a3511a8304452d95cfb3e334h",
+          "31793-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31793-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ozj1vtniafzd",
+          "31793-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31793-malep-1_playmogo_hsub": "https://playmogo.com/e/w4rdnzzewgnb",
+          "31793-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

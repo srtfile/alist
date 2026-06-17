@@ -1,0 +1,52 @@
+{
+  "anime_name": "Amon Saga",
+  "anime_url": "https://hianime.ad/anime/amon-saga",
+  "slug": "amon-saga",
+  "mal_id": 5628,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:17:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/amon-saga/ep-1",
+      "sub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/6d6c092a7ac32140",
+          "5628-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d6c092a7ac32140/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd8a08c3b56ea6bae4dbc7457dde36d2c4h",
+          "5628-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_sub": "https://otakuvid.online/embed/24xapwdqz5be",
+          "5628-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0f66e894989863ff",
+          "5628-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f66e894989863ff/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf5d62d731d8d0d2f50865a98f34562c34h",
+          "5628-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "5628-malep-1_otakuhg_hsub": "https://otakuhg.site/e/77kr2vsokubr",
+          "5628-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ixo4fr50qeyf",
+          "5628-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5628-malep-1_playmogo_hsub": "https://playmogo.com/e/ya2uyki5jm0s",
+          "5628-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "anime_name": "Kimi No Iru Machi Ova",
+  "anime_url": "https://hianime.ad/anime/kimi-no-iru-machi-ova",
+  "slug": "kimi-no-iru-machi-ova",
+  "mal_id": 17741,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T09:42:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pursuit",
+      "episode_url": "https://hianime.ad/watch/kimi-no-iru-machi-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "17741-malep-1_vibeplayer_sub": "https://vibeplayer.site/610f09e1c517a06c",
+          "17741-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/610f09e1c517a06c/master.m3u8"
+        },
+        "Earnvids": {
+          "17741-malep-1_otakuvid_sub": "https://otakuvid.online/embed/71stq0y66dfj",
+          "17741-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "17741-malep-1_playmogo_sub": "https://playmogo.com/e/rilb39bprqnq",
+          "17741-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "17741-malep-1_vibeplayer_hsub": "https://vibeplayer.site/79c2572e4b877493",
+          "17741-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/79c2572e4b877493/master.m3u8"
+        },
+        "StreamHG": {
+          "17741-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lyky90wstg60",
+          "17741-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "17741-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7bd2sqq2vcjf",
+          "17741-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "17741-malep-1_playmogo_hsub": "https://playmogo.com/e/v0r6818imwcv",
+          "17741-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "When the Cherry Blossoms Bloom",
+      "episode_url": "https://hianime.ad/watch/kimi-no-iru-machi-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "17741-malep-2_vibeplayer_sub": "https://vibeplayer.site/bdd600ed854e6369",
+          "17741-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bdd600ed854e6369/master.m3u8"
+        },
+        "Earnvids": {
+          "17741-malep-2_otakuvid_sub": "https://otakuvid.online/embed/uv5lylqmh0us",
+          "17741-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "17741-malep-2_playmogo_sub": "https://playmogo.com/e/2pwncuyzr3m4",
+          "17741-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "17741-malep-2_vibeplayer_hsub": "https://vibeplayer.site/46a4070d40335eac",
+          "17741-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46a4070d40335eac/master.m3u8"
+        },
+        "StreamHG": {
+          "17741-malep-2_otakuhg_hsub": "https://otakuhg.site/e/opz8dkys18l1",
+          "17741-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "17741-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/hn7tu9xjh9ew",
+          "17741-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "17741-malep-2_playmogo_hsub": "https://playmogo.com/e/ijf1sq1oqxqn",
+          "17741-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

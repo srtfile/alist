@@ -1,0 +1,48 @@
+{
+  "anime_name": "Happiness Charge Precure Movie Ningyou No Kuni No Ballerina",
+  "anime_url": "https://hianime.ad/anime/happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina",
+  "slug": "happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina",
+  "mal_id": 21407,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:59:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Love Love! Cure Lovely is Born!",
+      "episode_url": "https://hianime.ad/watch/happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina/ep-1",
+      "sub": {
+        "HD-1": {
+          "21407-malep-1_vibeplayer_sub": "https://vibeplayer.site/567e50b7eb320ffd",
+          "21407-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/567e50b7eb320ffd/master.m3u8"
+        },
+        "StreamHG": {
+          "21407-malep-1_otakuhg_sub": "https://otakuhg.site/e/vugjwb25dzm5",
+          "21407-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21407-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jhzj47e8gefh",
+          "21407-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21407-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d282a87783bab3ac",
+          "21407-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d282a87783bab3ac/master.m3u8"
+        },
+        "StreamHG": {
+          "21407-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kw8d5qqnd824",
+          "21407-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21407-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rwejtntxwu7o",
+          "21407-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21407-malep-1_playmogo_hsub": "https://playmogo.com/e/myg6j9fhghsf",
+          "21407-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

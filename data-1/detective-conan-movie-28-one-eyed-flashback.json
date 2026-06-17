@@ -1,0 +1,60 @@
+{
+  "anime_name": "Detective Conan Movie 28 One Eyed Flashback",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-28-one-eyed-flashback",
+  "slug": "detective-conan-movie-28-one-eyed-flashback",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:11:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-28-one-eyed-flashback/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/22b3c1ec1f858fd5",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/22b3c1ec1f858fd5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag082df2dff72be60e78e9305caa609d3b4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/drca6ki0dwl6",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/s4pcc2me29of",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/xkbv3islncsi",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/11868563e0ab85aa",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11868563e0ab85aa/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag58dfc7e6344418a9bda67285dc78960c4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/uawzjaqcxik1",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x5xm386u9e4k",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/a3q8qgqs4dal",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

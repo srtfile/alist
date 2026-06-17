@@ -1,0 +1,56 @@
+{
+  "anime_name": "Doraemon Movie 21 Nobitas The Legend Of The Sun King",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-21-nobitas-the-legend-of-the-sun-king",
+  "slug": "doraemon-movie-21-nobitas-the-legend-of-the-sun-king",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:04:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-21-nobitas-the-legend-of-the-sun-king/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/9ce271723e6804a8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ce271723e6804a8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agbc067b94bb911f5f03a2a7d54e97461f4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/glz18n04hxlv",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dmedn3rol2ps",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/283aac69b6d147f8",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/283aac69b6d147f8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1f11502237541232ef038daea8bad06b4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/vr8yuaexmglf",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rmjarrjeq92l",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/uy8kddk8amk0",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

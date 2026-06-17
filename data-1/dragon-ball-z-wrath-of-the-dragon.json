@@ -1,0 +1,77 @@
+{
+  "anime_name": "Dragon Ball Z Wrath Of The Dragon",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-wrath-of-the-dragon",
+  "slug": "dragon-ball-z-wrath-of-the-dragon",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:46:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-wrath-of-the-dragon/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/11b504e423f8487f",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11b504e423f8487f/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8a64e245036b6ab7c97511e66baadfb84h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_sub": "https://otakuhg.site/e/nw3121zcf3rc",
+          "813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v3e8tkye7lp1",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/18526b569ff8ebb9",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/18526b569ff8ebb9/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag28ab7c06e8fa2141e775ab97e12884004h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/i3669ths26y8",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kubcktc2102a",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_dub": "https://playmogo.com/e/4puzk34tt4w2",
+          "813-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/27f6b8b43465dc46",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/27f6b8b43465dc46/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4350685bb92d93d52f56e8c43785ae394h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3v7nvp0abxcn",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3vru0is0epmg",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/l3xlzy0g3x21",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

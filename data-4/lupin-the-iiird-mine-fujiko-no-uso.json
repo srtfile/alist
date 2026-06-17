@@ -1,0 +1,57 @@
+{
+  "anime_name": "Lupin The Iiird Mine Fujiko No Uso",
+  "anime_url": "https://hianime.ad/anime/lupin-the-iiird-mine-fujiko-no-uso",
+  "slug": "lupin-the-iiird-mine-fujiko-no-uso",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:06:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-the-iiird-mine-fujiko-no-uso/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ffc2dce68ef2d000",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ffc2dce68ef2d000/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qacckv17e23h",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/59a5f174cce9b417",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/59a5f174cce9b417/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/dukhazp1weky",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/ilx9yqmrcqoi",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/97f421cba1bd4165",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97f421cba1bd4165/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/cu56bc66cb70",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cc7dxdrwupcp",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/a9yjklzpnqi7",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

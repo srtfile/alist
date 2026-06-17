@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gintama Shiroyasha Koutan",
+  "anime_url": "https://hianime.ad/anime/gintama-shiroyasha-koutan",
+  "slug": "gintama-shiroyasha-koutan",
+  "mal_id": 9969,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:57:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Everyone Looks a Little Grown up after Spring Break",
+      "episode_url": "https://hianime.ad/watch/gintama-shiroyasha-koutan/ep-1",
+      "sub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_sub": "https://vibeplayer.site/4a4a807cc23b5da0",
+          "9969-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a4a807cc23b5da0/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_sub": "https://otakuhg.site/e/9gjxr91tqgum",
+          "9969-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_sub": "https://otakuvid.online/embed/42m6m7nn2km9",
+          "9969-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9969-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8f00f198a9159d2",
+          "9969-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8f00f198a9159d2/master.m3u8"
+        },
+        "StreamHG": {
+          "9969-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vvoh6k84fctr",
+          "9969-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9969-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yekajzvzcaxm",
+          "9969-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9969-malep-1_playmogo_hsub": "https://playmogo.com/e/18mam2ld727t",
+          "9969-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

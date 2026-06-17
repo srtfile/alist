@@ -1,0 +1,44 @@
+{
+  "anime_name": "Great Conquest Romance Of Three Kingdoms",
+  "anime_url": "https://hianime.ad/anime/great-conquest-romance-of-three-kingdoms",
+  "slug": "great-conquest-romance-of-three-kingdoms",
+  "mal_id": 4196,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:54:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "War is of Vital Importance to the State",
+      "episode_url": "https://hianime.ad/watch/great-conquest-romance-of-three-kingdoms/ep-1",
+      "sub": {
+        "HD-1": {
+          "4196-malep-1_vibeplayer_sub": "https://vibeplayer.site/6b844003d1767665",
+          "4196-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b844003d1767665/master.m3u8"
+        },
+        "Earnvids": {
+          "4196-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ztou4zjuo3k2",
+          "4196-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4196-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f2b624589e16c7ec",
+          "4196-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2b624589e16c7ec/master.m3u8"
+        },
+        "StreamHG": {
+          "4196-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w0j1ox7sc2h8",
+          "4196-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4196-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gymxslbkoewj",
+          "4196-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4196-malep-1_playmogo_hsub": "https://playmogo.com/e/t2b20bgjrpbm",
+          "4196-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

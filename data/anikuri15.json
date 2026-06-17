@@ -1,0 +1,48 @@
+{
+  "anime_name": "Anikuri15",
+  "anime_url": "https://hianime.ad/anime/anikuri15",
+  "slug": "anikuri15",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:32:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/anikuri15/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/4428891b26c63f1d",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4428891b26c63f1d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/aga67e88b5c80ae76c89ba4dd274ebf6814h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/g82cjvrvvr0b",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/7290c200adda8192",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7290c200adda8192/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agab1625ab68299605caedaf98f26dae654h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n17sylvh9feg",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/13jh5oaqohew",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

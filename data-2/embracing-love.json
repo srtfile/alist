@@ -1,0 +1,93 @@
+{
+  "anime_name": "Embracing Love",
+  "anime_url": "https://hianime.ad/anime/embracing-love",
+  "slug": "embracing-love",
+  "mal_id": 27727,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T10:22:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "In the Name of Love",
+      "episode_url": "https://hianime.ad/watch/embracing-love/ep-1",
+      "sub": {
+        "HD-1": {
+          "27727-malep-1_vibeplayer_sub": "https://vibeplayer.site/6faed33f25112dbb",
+          "27727-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6faed33f25112dbb/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag35345f7db06664179d5b13cf4680ee274h",
+          "27727-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qze5e2jn4l1c",
+          "27727-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27727-malep-1_vibeplayer_hsub": "https://vibeplayer.site/56c1dda52ef03d3d",
+          "27727-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/56c1dda52ef03d3d/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7c4c0bb056c34773214b0a00c2d382db4h",
+          "27727-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "27727-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ztw3tgw4c64w",
+          "27727-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pjtb3s06nebr",
+          "27727-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27727-malep-1_playmogo_hsub": "https://playmogo.com/e/3ynalq15gvyg",
+          "27727-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Love Means Never Feeling Regret",
+      "episode_url": "https://hianime.ad/watch/embracing-love/ep-2",
+      "sub": {
+        "HD-1": {
+          "27727-malep-2_vibeplayer_sub": "https://vibeplayer.site/29964da3b2912cd7",
+          "27727-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/29964da3b2912cd7/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-2_vibeplayer_sub": "https://vibeplayer.site/ageccc6c471bfa5b88b9ec1aaaa47221294h",
+          "27727-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-2_otakuvid_sub": "https://otakuvid.online/embed/8zs46hsu5tap",
+          "27727-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27727-malep-2_vibeplayer_hsub": "https://vibeplayer.site/b62df2830a6ffc9a",
+          "27727-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b62df2830a6ffc9a/master.m3u8"
+        },
+        "HD-2": {
+          "27727-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag4de55674fd850fdf170dd448ade31b294h",
+          "27727-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "27727-malep-2_otakuhg_hsub": "https://otakuhg.site/e/agvgptkkh2br",
+          "27727-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "27727-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/xuk2iw2kr2id",
+          "27727-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27727-malep-2_playmogo_hsub": "https://playmogo.com/e/6k1pg7qs3qaz",
+          "27727-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "anime_name": "Fatestay Night Tv Reproduction",
+  "anime_url": "https://hianime.ad/anime/fatestay-night-tv-reproduction",
+  "slug": "fatestay-night-tv-reproduction",
+  "mal_id": 356,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T11:19:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Day",
+      "episode_url": "https://hianime.ad/watch/fatestay-night-tv-reproduction/ep-1",
+      "sub": {
+        "HD-1": {
+          "356-malep-1_vibeplayer_sub": "https://vibeplayer.site/db5b20bd0ab5a75a",
+          "356-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/db5b20bd0ab5a75a/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7a26b82686443a6545bf517a1f43d12a4h",
+          "356-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-1_otakuhg_sub": "https://otakuhg.site/e/m05rzdu6r2d2",
+          "356-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p9l9xi2s26uc",
+          "356-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "356-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7eb5865d538fe505",
+          "356-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7eb5865d538fe505/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfc49c1ba60f843033be698da3f40e5d14h",
+          "356-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cmyrdhcj4wz8",
+          "356-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zk1695r8s4rg",
+          "356-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "356-malep-1_playmogo_hsub": "https://playmogo.com/e/pevv9snyy4vs",
+          "356-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fateful Night",
+      "episode_url": "https://hianime.ad/watch/fatestay-night-tv-reproduction/ep-2",
+      "sub": {
+        "HD-1": {
+          "356-malep-2_vibeplayer_sub": "https://vibeplayer.site/e8abee9668f0b067",
+          "356-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8abee9668f0b067/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-2_vibeplayer_sub": "https://vibeplayer.site/agcc396aee7be6e8f38533e7079129aff94h",
+          "356-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-2_otakuvid_sub": "https://otakuvid.online/embed/xohynqoftzd5",
+          "356-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "356-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ba4242eb065cb47c",
+          "356-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ba4242eb065cb47c/master.m3u8"
+        },
+        "HD-2": {
+          "356-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag193b10f35f281237f2c3f5e30eb6b3cc4h",
+          "356-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "356-malep-2_otakuhg_hsub": "https://otakuhg.site/e/keiohk3owpol",
+          "356-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "356-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/v3dw0s8llwni",
+          "356-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "356-malep-2_playmogo_hsub": "https://playmogo.com/e/14sx90bjliac",
+          "356-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

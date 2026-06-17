@@ -1,0 +1,48 @@
+{
+  "anime_name": "Genius Party Beyond",
+  "anime_url": "https://hianime.ad/anime/genius-party-beyond",
+  "slug": "genius-party-beyond",
+  "mal_id": 37662,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:18:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Got Turned Into An Anime Again",
+      "episode_url": "https://hianime.ad/watch/genius-party-beyond/ep-1",
+      "sub": {
+        "HD-1": {
+          "37662-malep-1_vibeplayer_sub": "https://vibeplayer.site/e70043c450c0a540",
+          "37662-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e70043c450c0a540/master.m3u8"
+        },
+        "Earnvids": {
+          "37662-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7wz62k73i9zd",
+          "37662-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "37662-malep-1_playmogo_sub": "https://playmogo.com/e/99axdzkvv1mj",
+          "37662-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37662-malep-1_vibeplayer_hsub": "https://vibeplayer.site/abaf37021405bfbb",
+          "37662-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abaf37021405bfbb/master.m3u8"
+        },
+        "StreamHG": {
+          "37662-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lobemzdg53q9",
+          "37662-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37662-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mzl2zp0gy8d6",
+          "37662-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37662-malep-1_playmogo_hsub": "https://playmogo.com/e/70vnms72f1oy",
+          "37662-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

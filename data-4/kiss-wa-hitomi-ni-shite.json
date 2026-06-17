@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kiss Wa Hitomi Ni Shite",
+  "anime_url": "https://hianime.ad/anime/kiss-wa-hitomi-ni-shite",
+  "slug": "kiss-wa-hitomi-ni-shite",
+  "mal_id": 37920,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:31:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ROCKER-KUN / KUMATANDER NO. 2",
+      "episode_url": "https://hianime.ad/watch/kiss-wa-hitomi-ni-shite/ep-1",
+      "sub": {
+        "HD-1": {
+          "37920-malep-1_vibeplayer_sub": "https://vibeplayer.site/a320c62611cabfaf",
+          "37920-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a320c62611cabfaf/master.m3u8"
+        },
+        "Earnvids": {
+          "37920-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uk84qtbr6se1",
+          "37920-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37920-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c46aafbae874009e",
+          "37920-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c46aafbae874009e/master.m3u8"
+        },
+        "StreamHG": {
+          "37920-malep-1_otakuhg_hsub": "https://otakuhg.site/e/24fg6hedfki7",
+          "37920-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37920-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ipi4p5jxfpt4",
+          "37920-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37920-malep-1_playmogo_hsub": "https://playmogo.com/e/9rpi5gmnkg68",
+          "37920-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

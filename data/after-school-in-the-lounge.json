@@ -1,0 +1,85 @@
+{
+  "anime_name": "After School In The Lounge",
+  "anime_url": "https://hianime.ad/anime/after-school-in-the-lounge",
+  "slug": "after-school-in-the-lounge",
+  "mal_id": 40938,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T19:03:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Teenage Girl Beneath the Lamplight",
+      "episode_url": "https://hianime.ad/watch/after-school-in-the-lounge/ep-1",
+      "sub": {
+        "HD-1": {
+          "40938-malep-1_vibeplayer_sub": "https://vibeplayer.site/0e9b06cda72c0765",
+          "40938-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e9b06cda72c0765/master.m3u8"
+        },
+        "HD-2": {
+          "40938-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag48f400e57f3783283aa0ceedae584e104h",
+          "40938-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "40938-malep-1_otakuhg_sub": "https://otakuhg.site/e/8idng44upcx1",
+          "40938-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40938-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9uyd16p2l2bp",
+          "40938-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40938-malep-1_vibeplayer_hsub": "https://vibeplayer.site/91c038a8d82187e3",
+          "40938-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91c038a8d82187e3/master.m3u8"
+        },
+        "HD-2": {
+          "40938-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb04771396e7a0255e33a735f1cb8f5634h",
+          "40938-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40938-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8u6oqthu8tbi",
+          "40938-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cell Phone",
+      "episode_url": "https://hianime.ad/watch/after-school-in-the-lounge/ep-2",
+      "sub": {
+        "HD-1": {
+          "40938-malep-2_vibeplayer_sub": "https://vibeplayer.site/7a4f564313a9f291",
+          "40938-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7a4f564313a9f291/master.m3u8"
+        },
+        "HD-2": {
+          "40938-malep-2_vibeplayer_sub": "https://vibeplayer.site/aga6687599214851dcf24dd5fa2499a6a34h",
+          "40938-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "40938-malep-2_otakuhg_sub": "https://otakuhg.site/e/5plkbptqsvvi",
+          "40938-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40938-malep-2_otakuvid_sub": "https://otakuvid.online/embed/n46dowvdnv9y",
+          "40938-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40938-malep-2_vibeplayer_hsub": "https://vibeplayer.site/4803b14f3c1b9f93",
+          "40938-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4803b14f3c1b9f93/master.m3u8"
+        },
+        "HD-2": {
+          "40938-malep-2_vibeplayer_hsub": "https://vibeplayer.site/aga2d6f0dcf94307deb6ece3e7cd6ab9164h",
+          "40938-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40938-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/wwyfadekijip",
+          "40938-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

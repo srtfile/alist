@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cat God Ohanami Ghostbusters",
+  "anime_url": "https://hianime.ad/anime/cat-god-ohanami-ghostbusters",
+  "slug": "cat-god-ohanami-ghostbusters",
+  "mal_id": 9934,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:04:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The God of Poverty's Inspect+",
+      "episode_url": "https://hianime.ad/watch/cat-god-ohanami-ghostbusters/ep-1",
+      "sub": {
+        "HD-1": {
+          "9934-malep-1_vibeplayer_sub": "https://vibeplayer.site/7d56ae6737998360",
+          "9934-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7d56ae6737998360/master.m3u8"
+        },
+        "HD-2": {
+          "9934-malep-1_vibeplayer_sub": "https://vibeplayer.site/agde7b9f9066572a7a9aafe54526f92eae4h",
+          "9934-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9934-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dsrcb0q0ndqx",
+          "9934-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9934-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5c0c906f388295fb",
+          "9934-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c0c906f388295fb/master.m3u8"
+        },
+        "HD-2": {
+          "9934-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1bc91338dbb4127fafc677e4adbe71cd4h",
+          "9934-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "9934-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a2qe09lejwgu",
+          "9934-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9934-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/obm6ox7liur8",
+          "9934-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9934-malep-1_playmogo_hsub": "https://playmogo.com/e/sggthnmkdrm9",
+          "9934-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

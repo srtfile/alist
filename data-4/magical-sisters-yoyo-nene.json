@@ -1,0 +1,48 @@
+{
+  "anime_name": "Magical Sisters Yoyo Nene",
+  "anime_url": "https://hianime.ad/anime/magical-sisters-yoyo-nene",
+  "slug": "magical-sisters-yoyo-nene",
+  "mal_id": 59176,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:42:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day I Grasped the Stars",
+      "episode_url": "https://hianime.ad/watch/magical-sisters-yoyo-nene/ep-1",
+      "sub": {
+        "HD-1": {
+          "59176-malep-1_vibeplayer_sub": "https://vibeplayer.site/22e1cb8785ae3403",
+          "59176-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/22e1cb8785ae3403/master.m3u8"
+        },
+        "Earnvids": {
+          "59176-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dcuabn0427r2",
+          "59176-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59176-malep-1_playmogo_sub": "https://playmogo.com/e/ifr8ckiulbzt",
+          "59176-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59176-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c9a8acc937824bd9",
+          "59176-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9a8acc937824bd9/master.m3u8"
+        },
+        "StreamHG": {
+          "59176-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t6umv7y8za33",
+          "59176-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59176-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8dkkytwmtezh",
+          "59176-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59176-malep-1_playmogo_hsub": "https://playmogo.com/e/5dcm0jh6x3j0",
+          "59176-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

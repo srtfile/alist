@@ -1,0 +1,60 @@
+{
+  "anime_name": "Delicious Partypretty Cure Movie",
+  "anime_url": "https://hianime.ad/anime/delicious-partypretty-cure-movie",
+  "slug": "delicious-partypretty-cure-movie",
+  "mal_id": 50281,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:57:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Food Brings Smiles. Transform! Cure Precious!",
+      "episode_url": "https://hianime.ad/watch/delicious-partypretty-cure-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "50281-malep-1_vibeplayer_sub": "https://vibeplayer.site/9c8e0c01772e19dc",
+          "50281-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c8e0c01772e19dc/master.m3u8"
+        },
+        "HD-2": {
+          "50281-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag81d5caa698f6ed3d552425a8a6ee0ea14h",
+          "50281-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "50281-malep-1_otakuhg_sub": "https://otakuhg.site/e/on8v8ontr4vd",
+          "50281-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50281-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qiuyesr84gzl",
+          "50281-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "50281-malep-1_playmogo_sub": "https://playmogo.com/e/103ehyyiei3k",
+          "50281-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50281-malep-1_vibeplayer_hsub": "https://vibeplayer.site/416e77aff4b2aeab",
+          "50281-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/416e77aff4b2aeab/master.m3u8"
+        },
+        "HD-2": {
+          "50281-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3aaf559a9cb74690b5fc40d732fa03d54h",
+          "50281-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "50281-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ikqmknge6zuw",
+          "50281-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50281-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5f7tvce6qsyj",
+          "50281-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50281-malep-1_playmogo_hsub": "https://playmogo.com/e/tktzzuvnwk9g",
+          "50281-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

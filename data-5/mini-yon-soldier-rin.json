@@ -1,0 +1,40 @@
+{
+  "anime_name": "Mini Yon Soldier Rin",
+  "anime_url": "https://hianime.ad/anime/mini-yon-soldier-rin",
+  "slug": "mini-yon-soldier-rin",
+  "mal_id": 38203,
+  "total_episodes": 1,
+  "captured_at": "2026-06-15T07:53:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome To 315 Productions",
+      "episode_url": "https://hianime.ad/watch/mini-yon-soldier-rin/ep-1",
+      "sub": {
+        "HD-1": {
+          "38203-malep-1_vibeplayer_sub": "https://vibeplayer.site/848c325268dfadec",
+          "38203-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/848c325268dfadec/master.m3u8"
+        },
+        "Earnvids": {
+          "38203-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vua9mehe9g0y",
+          "38203-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38203-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b1968a4c1077edf8",
+          "38203-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b1968a4c1077edf8/master.m3u8"
+        },
+        "Earnvids": {
+          "38203-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nvi8x7cps8hp",
+          "38203-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38203-malep-1_playmogo_hsub": "https://playmogo.com/e/wo78mp7o74wu",
+          "38203-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

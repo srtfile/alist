@@ -1,0 +1,81 @@
+{
+  "anime_name": "Honkai Star Rail Featured Videos",
+  "anime_url": "https://hianime.ad/anime/honkai-star-rail-featured-videos",
+  "slug": "honkai-star-rail-featured-videos",
+  "mal_id": 32949,
+  "total_episodes": 2,
+  "captured_at": "2026-06-04T05:05:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Scum's Wish",
+      "episode_url": "https://hianime.ad/watch/honkai-star-rail-featured-videos/ep-1",
+      "sub": {
+        "HD-1": {
+          "32949-malep-1_vibeplayer_sub": "https://vibeplayer.site/6674339a773d1f1d",
+          "32949-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6674339a773d1f1d/master.m3u8"
+        },
+        "StreamHG": {
+          "32949-malep-1_otakuhg_sub": "https://otakuhg.site/e/5d8sgkxf16on",
+          "32949-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32949-malep-1_otakuvid_sub": "https://otakuvid.online/embed/amh2h5ei6yrw",
+          "32949-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32949-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cda95f2a54504dda",
+          "32949-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cda95f2a54504dda/master.m3u8"
+        },
+        "StreamHG": {
+          "32949-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yuf3dpufpchx",
+          "32949-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32949-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mkx5wj2d3dei",
+          "32949-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32949-malep-1_playmogo_hsub": "https://playmogo.com/e/uil0ltujlp9t",
+          "32949-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "I'm here for that warmth",
+      "episode_url": "https://hianime.ad/watch/honkai-star-rail-featured-videos/ep-2",
+      "sub": {
+        "HD-1": {
+          "32949-malep-2_vibeplayer_sub": "https://vibeplayer.site/843202ff65a18a79",
+          "32949-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/843202ff65a18a79/master.m3u8"
+        },
+        "StreamHG": {
+          "32949-malep-2_otakuhg_sub": "https://otakuhg.site/e/sgwd8auzcba6",
+          "32949-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32949-malep-2_otakuvid_sub": "https://otakuvid.online/embed/1evn52ifpczm",
+          "32949-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32949-malep-2_vibeplayer_hsub": "https://vibeplayer.site/58ca4a24460a3544",
+          "32949-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/58ca4a24460a3544/master.m3u8"
+        },
+        "Earnvids": {
+          "32949-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/rqh7zbvuwmz2",
+          "32949-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32949-malep-2_playmogo_hsub": "https://playmogo.com/e/8tawu1yvwe1d",
+          "32949-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

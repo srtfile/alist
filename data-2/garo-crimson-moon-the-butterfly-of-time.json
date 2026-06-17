@@ -1,0 +1,53 @@
+{
+  "anime_name": "Garo Crimson Moon The Butterfly Of Time",
+  "anime_url": "https://hianime.ad/anime/garo-crimson-moon-the-butterfly-of-time",
+  "slug": "garo-crimson-moon-the-butterfly-of-time",
+  "mal_id": 28537,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:05:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Onmyou",
+      "episode_url": "https://hianime.ad/watch/garo-crimson-moon-the-butterfly-of-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "28537-malep-1_vibeplayer_sub": "https://vibeplayer.site/f0740609a513b832",
+          "28537-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0740609a513b832/master.m3u8"
+        },
+        "Earnvids": {
+          "28537-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6ts2n7peaidr",
+          "28537-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "28537-malep-1_vibeplayer_dub": "https://vibeplayer.site/50de7a5388c19373",
+          "28537-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/50de7a5388c19373/master.m3u8"
+        },
+        "Earnvids": {
+          "28537-malep-1_otakuvid_dub": "https://otakuvid.online/embed/bvb6c2f8knmx",
+          "28537-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "28537-malep-1_vibeplayer_hsub": "https://vibeplayer.site/53665b0eb8eeca0b",
+          "28537-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/53665b0eb8eeca0b/master.m3u8"
+        },
+        "StreamHG": {
+          "28537-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mpzpd17iqanr",
+          "28537-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28537-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mwc7myqqh8nx",
+          "28537-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28537-malep-1_playmogo_hsub": "https://playmogo.com/e/fc4zqbw18xvs",
+          "28537-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

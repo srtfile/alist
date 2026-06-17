@@ -1,0 +1,52 @@
+{
+  "anime_name": "Dream Animals The Movie",
+  "anime_url": "https://hianime.ad/anime/dream-animals-the-movie",
+  "slug": "dream-animals-the-movie",
+  "mal_id": 37869,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:57:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Happy Party!",
+      "episode_url": "https://hianime.ad/watch/dream-animals-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "37869-malep-1_vibeplayer_sub": "https://vibeplayer.site/4b22ce3a8afdc10b",
+          "37869-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4b22ce3a8afdc10b/master.m3u8"
+        },
+        "HD-2": {
+          "37869-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6ff169d0be1444de4ca10689adfd46064h",
+          "37869-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37869-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sdccafm8fyr7",
+          "37869-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "37869-malep-1_playmogo_sub": "https://playmogo.com/e/s70j46w09gv2",
+          "37869-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37869-malep-1_vibeplayer_hsub": "https://vibeplayer.site/abde778c540b037d",
+          "37869-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abde778c540b037d/master.m3u8"
+        },
+        "HD-2": {
+          "37869-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5e460d681f3b219f7358dd5e38c3de804h",
+          "37869-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37869-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y3wqcys6a5op",
+          "37869-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37869-malep-1_playmogo_hsub": "https://playmogo.com/e/le7a5vphtja9",
+          "37869-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

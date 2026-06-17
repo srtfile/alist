@@ -1,0 +1,27 @@
+{
+  "anime_name": "Gatchaman Crowds Insight 3501",
+  "anime_url": "https://hianime.ad/anime/gatchaman-crowds-insight-3501",
+  "slug": "gatchaman-crowds-insight-3501",
+  "mal_id": 21039,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:09:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "contact point",
+      "episode_url": "https://hianime.ad/watch/gatchaman-crowds-insight-3501/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "21039-malep-1_vibeplayer_dub": "https://vibeplayer.site/80f86cccb5f0d263",
+          "21039-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/80f86cccb5f0d263/master.m3u8"
+        },
+        "Earnvids": {
+          "21039-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ahnes2qtriyr",
+          "21039-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

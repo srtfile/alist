@@ -1,0 +1,56 @@
+{
+  "anime_name": "21 Emon To Space The Barefoot Princess",
+  "anime_url": "https://hianime.ad/anime/21-emon-to-space-the-barefoot-princess",
+  "slug": "21-emon-to-space-the-barefoot-princess",
+  "mal_id": 5628,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:12:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/21-emon-to-space-the-barefoot-princess/ep-1",
+      "sub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/4f3f0c590b07225f",
+          "5628-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f3f0c590b07225f/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd4a9e8f7606e68ccbfc1d618d72e358c4h",
+          "5628-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rpcre6p7fytl",
+          "5628-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "5628-malep-1_playmogo_sub": "https://playmogo.com/e/hhvkf9b9ygol",
+          "5628-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bba3d6caf7809fb6",
+          "5628-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bba3d6caf7809fb6/master.m3u8"
+        },
+        "HD-2": {
+          "5628-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbadc910e8b68288ceee3799b8c4d49854h",
+          "5628-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "5628-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rjoe9h9drvlv",
+          "5628-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5628-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ghvxtxpub0ul",
+          "5628-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5628-malep-1_playmogo_hsub": "https://playmogo.com/e/6f70tzzietnr",
+          "5628-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

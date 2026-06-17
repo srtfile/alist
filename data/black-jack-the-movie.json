@@ -1,0 +1,52 @@
+{
+  "anime_name": "Black Jack The Movie",
+  "anime_url": "https://hianime.ad/anime/black-jack-the-movie",
+  "slug": "black-jack-the-movie",
+  "mal_id": 2213,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:35:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Order of Operations / The Vanished Needle",
+      "episode_url": "https://hianime.ad/watch/black-jack-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2213-malep-1_vibeplayer_sub": "https://vibeplayer.site/fde7e9a2b812e881",
+          "2213-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fde7e9a2b812e881/master.m3u8"
+        },
+        "HD-2": {
+          "2213-malep-1_vibeplayer_sub": "https://vibeplayer.site/agce829bc6a879391a862edff73b6f79224h",
+          "2213-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2213-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3i3v1ehjeql3",
+          "2213-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2213-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b4eb26ed55ee69a3",
+          "2213-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b4eb26ed55ee69a3/master.m3u8"
+        },
+        "HD-2": {
+          "2213-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb1ed692f459cda4cb681ff1b5519fb7b4h",
+          "2213-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2213-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z98hoqadqnsi",
+          "2213-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2213-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/osa5lhlidae2",
+          "2213-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2213-malep-1_playmogo_hsub": "https://playmogo.com/e/k8hjvqmi1rls",
+          "2213-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

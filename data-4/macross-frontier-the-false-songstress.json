@@ -1,0 +1,44 @@
+{
+  "anime_name": "Macross Frontier The False Songstress",
+  "anime_url": "https://hianime.ad/anime/macross-frontier-the-false-songstress",
+  "slug": "macross-frontier-the-false-songstress",
+  "mal_id": 3572,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:16:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Close Encounter",
+      "episode_url": "https://hianime.ad/watch/macross-frontier-the-false-songstress/ep-1",
+      "sub": {
+        "HD-1": {
+          "3572-malep-1_vibeplayer_sub": "https://vibeplayer.site/1ef1c0b5d61fba5e",
+          "3572-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ef1c0b5d61fba5e/master.m3u8"
+        },
+        "Earnvids": {
+          "3572-malep-1_otakuvid_sub": "https://otakuvid.online/embed/531bgei4wc9i",
+          "3572-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3572-malep-1_vibeplayer_hsub": "https://vibeplayer.site/71f32a070c0cc492",
+          "3572-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71f32a070c0cc492/master.m3u8"
+        },
+        "StreamHG": {
+          "3572-malep-1_otakuhg_hsub": "https://otakuhg.site/e/njcojdtv2czc",
+          "3572-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3572-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c60wy3em4ouw",
+          "3572-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3572-malep-1_playmogo_hsub": "https://playmogo.com/e/hqm4apvfqb74",
+          "3572-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

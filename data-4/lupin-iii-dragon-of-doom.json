@@ -1,0 +1,49 @@
+{
+  "anime_name": "Lupin Iii Dragon Of Doom",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-dragon-of-doom",
+  "slug": "lupin-iii-dragon-of-doom",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:59:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-dragon-of-doom/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/81a283702dadd897",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/81a283702dadd897/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/uht39nv98ze6",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/07b7e4f9d5bf952e",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07b7e4f9d5bf952e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/h2zyni92kv4w",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f627887ca420225c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f627887ca420225c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qwzqkuobdssc",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/7t0dmew2x903",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

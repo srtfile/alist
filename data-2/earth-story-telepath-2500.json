@@ -1,0 +1,56 @@
+{
+  "anime_name": "Earth Story Telepath 2500",
+  "anime_url": "https://hianime.ad/anime/earth-story-telepath-2500",
+  "slug": "earth-story-telepath-2500",
+  "mal_id": 3104,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:09:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "full",
+      "episode_url": "https://hianime.ad/watch/earth-story-telepath-2500/ep-1",
+      "sub": {
+        "HD-1": {
+          "3104-malep-1_vibeplayer_sub": "https://vibeplayer.site/97221e90eb373d36",
+          "3104-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/97221e90eb373d36/master.m3u8"
+        },
+        "HD-2": {
+          "3104-malep-1_vibeplayer_sub": "https://vibeplayer.site/agfb501ba9d79b8921db473c29fdbffeba4h",
+          "3104-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3104-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3tly21oi652a",
+          "3104-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3104-malep-1_playmogo_sub": "https://playmogo.com/e/5dwv457r4q24",
+          "3104-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/14d1f23702fe4862",
+          "3104-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/14d1f23702fe4862/master.m3u8"
+        },
+        "HD-2": {
+          "3104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9c8bd6c536901662c844fb3880e8df5a4h",
+          "3104-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "3104-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7fapgrmwlwvv",
+          "3104-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3104-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7hosvbgjyopk",
+          "3104-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3104-malep-1_playmogo_hsub": "https://playmogo.com/e/bxk5ah4n223y",
+          "3104-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

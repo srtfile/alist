@@ -1,0 +1,61 @@
+{
+  "anime_name": "Fist Of The North Star The Movie",
+  "anime_url": "https://hianime.ad/anime/fist-of-the-north-star-the-movie",
+  "slug": "fist-of-the-north-star-the-movie",
+  "mal_id": 17705,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:36:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fist-of-the-north-star-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "17705-malep-1_vibeplayer_sub": "https://vibeplayer.site/03bc1fe3b5193c42",
+          "17705-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/03bc1fe3b5193c42/master.m3u8"
+        },
+        "HD-2": {
+          "17705-malep-1_vibeplayer_sub": "https://vibeplayer.site/age4ad5e3e1d335debac2d1332fe5c1cf34h",
+          "17705-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "17705-malep-1_otakuhg_sub": "https://otakuhg.site/e/24laipkjxgsw",
+          "17705-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "17705-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xxordc9d75jp",
+          "17705-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "17705-malep-1_vibeplayer_dub": "https://vibeplayer.site/440c44ee41528759",
+          "17705-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/440c44ee41528759/master.m3u8"
+        },
+        "HD-2": {
+          "17705-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5689b27817be0666e03043a888f0f9a14h",
+          "17705-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "17705-malep-1_otakuvid_dub": "https://otakuvid.online/embed/19wmt207l12p",
+          "17705-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "17705-malep-1_vibeplayer_hsub": "https://vibeplayer.site/97823170ef197852",
+          "17705-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97823170ef197852/master.m3u8"
+        },
+        "HD-2": {
+          "17705-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agebf12437d0cd132b11fca3c6f5b715e04h",
+          "17705-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "17705-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n9syro2narjs",
+          "17705-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

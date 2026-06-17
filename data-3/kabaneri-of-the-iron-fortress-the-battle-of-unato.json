@@ -1,0 +1,69 @@
+{
+  "anime_name": "Kabaneri Of The Iron Fortress The Battle Of Unato",
+  "anime_url": "https://hianime.ad/anime/kabaneri-of-the-iron-fortress-the-battle-of-unato",
+  "slug": "kabaneri-of-the-iron-fortress-the-battle-of-unato",
+  "mal_id": 28623,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:28:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Frightened Corpse",
+      "episode_url": "https://hianime.ad/watch/kabaneri-of-the-iron-fortress-the-battle-of-unato/ep-1",
+      "sub": {
+        "HD-1": {
+          "28623-malep-1_vibeplayer_sub": "https://vibeplayer.site/d90289ed20121172",
+          "28623-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d90289ed20121172/master.m3u8"
+        },
+        "StreamHG": {
+          "28623-malep-1_otakuhg_sub": "https://otakuhg.site/e/mojoatql32ow",
+          "28623-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28623-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yfim00h1d3xr",
+          "28623-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "28623-malep-1_playmogo_sub": "https://playmogo.com/e/si7kkt7ktjfv",
+          "28623-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "28623-malep-1_vibeplayer_dub": "https://vibeplayer.site/b6ba8ec9e1867450",
+          "28623-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b6ba8ec9e1867450/master.m3u8"
+        },
+        "StreamHG": {
+          "28623-malep-1_otakuhg_dub": "https://otakuhg.site/e/sd9q9k9izm0h",
+          "28623-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "28623-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kjoovjsr543g",
+          "28623-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "28623-malep-1_playmogo_dub": "https://playmogo.com/e/7i65jwb7n1d5",
+          "28623-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "28623-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5c4a1c03d0bff850",
+          "28623-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c4a1c03d0bff850/master.m3u8"
+        },
+        "StreamHG": {
+          "28623-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pddu1aahhexr",
+          "28623-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28623-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1fuwdf19ssfi",
+          "28623-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28623-malep-1_playmogo_hsub": "https://playmogo.com/e/yylibp609c3k",
+          "28623-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

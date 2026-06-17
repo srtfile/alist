@@ -1,0 +1,581 @@
+{
+  "anime_name": "Link Click",
+  "anime_url": "https://hianime.ad/anime/link-click",
+  "slug": "link-click",
+  "mal_id": null,
+  "total_episodes": 11,
+  "captured_at": "2026-06-17T05:14:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "EMMA",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/586f2161b2d65606",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/586f2161b2d65606/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/v4pvi5bus90y",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/inf2kebgvid9",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/f9epdcwz449s",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/cd9434182ac4f82f",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cd9434182ac4f82f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/y4phaqpwbnid",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/e4kdosvqoxz2",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/lvyb6dndivbt",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/eb7f46a059495f36",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eb7f46a059495f36/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/5vv97p81endd",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lbgem7csccm0",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/q2e0nt4xs9ns",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Secret Recipe",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/989697c8669f5f39",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/989697c8669f5f39/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/esozmqgtncfg",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/2n0da3ywroa9",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/c25997f16bdb1b13",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c25997f16bdb1b13/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/nbfzup9pg6w7",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/sc7twn5q6d0w",
+          "malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_dub": "https://playmogo.com/e/bi75k3oud1xw",
+          "malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/ac85829427e768db",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ac85829427e768db/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/zwu2ou24lstj",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/mw6wbho7u6lh",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/hetjgcm53d7c",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To Lose, Not To Win",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/e5b1dbcba3ef2512",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5b1dbcba3ef2512/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/371jrf0m9292",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/6nvko54um8er",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/55f72015abaa55ce",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/55f72015abaa55ce/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/lmpoz09bhbb7",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/zttf1rt843f3",
+          "malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_dub": "https://playmogo.com/e/0gvm3sr5qu95",
+          "malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/09b7e2b3072d4b6f",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/09b7e2b3072d4b6f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/hxbsicbkuwi5",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/pyv1lte8fhg7",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/pvjld86kjhm0",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Confess",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/26ceaceb59fd1dc3",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26ceaceb59fd1dc3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/agrh5w6h5soj",
+          "malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_sub": "https://playmogo.com/e/bp8i719w56oz",
+          "malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/08820f86c34b900b",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/08820f86c34b900b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/n5hvow3evbe5",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/x7swegl7unj9",
+          "malep-4_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_dub": "https://playmogo.com/e/qso34bd9g16n",
+          "malep-4_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/48f406f08de7e870",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48f406f08de7e870/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/u8gqu53xqvqs",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/x35qhwr0b872",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/0wpikyxm1f8z",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Farewell",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/2fb867123ee0c0a9",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2fb867123ee0c0a9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/h2h7uk5mk4w7",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/004c898174af0023",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/004c898174af0023/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/avm4focjb1gh",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/7ibo5iszrbb8",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/a7e802864b02e005",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7e802864b02e005/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/3zvobjoklhpd",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/k7p545wujt73",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/ci14h6p78zxg",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Search of The Child",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/aa8dacddb78e96c9",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa8dacddb78e96c9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/jlwzjyjdsfvj",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/0c21655dbdbd5908",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0c21655dbdbd5908/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/ctb16ms7ojm3",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/zj49s16q0jr6",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/0178ec398effba84",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0178ec398effba84/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/kpqi3uank90u",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/i2bv0rh2lxwt",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/sro1lzv5nfnx",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Aunt May",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/ffeb6629990df085",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ffeb6629990df085/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/esdee95uxa4p",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/ivq12qefamsd",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/e55113e689a54bd0",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e55113e689a54bd0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/2ptjnfbxjcy2",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/oowv8uu7jumb",
+          "malep-7_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_dub": "https://playmogo.com/e/hxnfp6v0qzxm",
+          "malep-7_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/bc46102fbcbd0146",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc46102fbcbd0146/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/zx0n8or3a46d",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/wweptjrqvqvn",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/mhr3kshyspfm",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lost Signal",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/6b768c368eb63f49",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b768c368eb63f49/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/xamugnkdb7hu",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/4ilkquuzoo1j",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/35a92f163294e982",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/35a92f163294e982/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/8gv9srq8hpr4",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/syjbod7wk34q",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/f137596caf896637",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f137596caf896637/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/mcb5diwkq4vc",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/qta5qsdnyw1z",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/zkf5tf0sxfxd",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Consequence of Goodwill",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/b9289e342452da2a",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9289e342452da2a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_sub": "https://otakuhg.site/e/etfkoi7ckci3",
+          "malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/k5iie4ufxe8n",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/14bbd60ccfa2ad22",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/14bbd60ccfa2ad22/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/511aeto1e4au",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/yo8cqcc8u1j2",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/ab44739ada1b919c",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab44739ada1b919c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/pb03umevol0z",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/ytz47o1pl5td",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/yg7tv4pujf5k",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Trap",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/d56285bd3ba5b39c",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d56285bd3ba5b39c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/2hwq4xmvrfzu",
+          "malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_sub": "https://playmogo.com/e/gxvo20cy6759",
+          "malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/79d8595aecccaeb3",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79d8595aecccaeb3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/x8s67wk5j01h",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/vqc0flj8cv5a",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/3c8a362a00f4bf91",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c8a362a00f4bf91/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/plxbbhsgohoj",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/9zk0xtnvxhr3",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/qf0otoo32cpm",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pinnacle of Light",
+      "episode_url": "https://hianime.ad/watch/link-click/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/5eae365e366be61c",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5eae365e366be61c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/gc2wztj27fxk",
+          "malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_sub": "https://playmogo.com/e/qbcje2dz0d8g",
+          "malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/4f5a187c8ee96bdf",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4f5a187c8ee96bdf/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/2yr58yuhg9sv",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/kc4utdthflwt",
+          "malep-11_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_dub": "https://playmogo.com/e/9ewkmoeelqp0",
+          "malep-11_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/b338fb32e188bd01",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b338fb32e188bd01/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/9m52k36buqlr",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/z1i84ky7n74t",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/sjiechg8gei9",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

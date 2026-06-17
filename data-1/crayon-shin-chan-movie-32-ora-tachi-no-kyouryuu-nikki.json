@@ -1,0 +1,52 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 32 Ora Tachi No Kyouryuu Nikki",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-32-ora-tachi-no-kyouryuu-nikki",
+  "slug": "crayon-shin-chan-movie-32-ora-tachi-no-kyouryuu-nikki",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:44:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-32-ora-tachi-no-kyouryuu-nikki/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/7a1bf4bda9300ec0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7a1bf4bda9300ec0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag14d2cdfe8b55af58d39f97269b57a4534h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/e1pm69jqdrut",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/4f37c104d979d72b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4f37c104d979d72b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/age3c8622806e133d3dffd983689bf844d4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/inm6g1gjhlpk",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3mf4vdc8o8bz",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/089dplbrbu44",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

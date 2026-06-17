@@ -1,0 +1,44 @@
+{
+  "anime_name": "Legend Of Crystania The Motion Picture",
+  "anime_url": "https://hianime.ad/anime/legend-of-crystania-the-motion-picture",
+  "slug": "legend-of-crystania-the-motion-picture",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:28:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/legend-of-crystania-the-motion-picture/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f48f9b3488a3d80f",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f48f9b3488a3d80f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qv0qvyv89yqd",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/hiouamh5z86a",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f9a05fff1fc20d8c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f9a05fff1fc20d8c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7vtblueaoxyd",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/f3vefj5n32p5",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

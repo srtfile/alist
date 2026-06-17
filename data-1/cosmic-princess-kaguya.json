@@ -1,0 +1,39 @@
+{
+  "anime_name": "Cosmic Princess Kaguya",
+  "anime_url": "https://hianime.ad/anime/cosmic-princess-kaguya",
+  "slug": "cosmic-princess-kaguya",
+  "mal_id": 2036,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:34:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The One Who Carries the Shining of Stars",
+      "episode_url": "https://hianime.ad/watch/cosmic-princess-kaguya/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "2036-malep-1_vibeplayer_dub": "https://vibeplayer.site/89852e8620537533",
+          "2036-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/89852e8620537533/master.m3u8"
+        },
+        "HD-2": {
+          "2036-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag3eb404aab4b75c3a8a78765f4b43535c4h",
+          "2036-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "2036-malep-1_otakuhg_dub": "https://otakuhg.site/e/h337h4cgbyl6",
+          "2036-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2036-malep-1_otakuvid_dub": "https://otakuvid.online/embed/41hfdpnrksuu",
+          "2036-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2036-malep-1_playmogo_dub": "https://playmogo.com/e/14jvemdhzq00",
+          "2036-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

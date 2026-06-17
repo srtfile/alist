@@ -1,0 +1,3248 @@
+{
+  "anime_name": "Kodocha",
+  "anime_url": "https://hianime.ad/anime/kodocha",
+  "slug": "kodocha",
+  "mal_id": null,
+  "total_episodes": 102,
+  "captured_at": "2026-06-17T03:40:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ce10ae5435b28e3a",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce10ae5435b28e3a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/mc6yhczilsr6",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/c00b3f4930aa91a3",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c00b3f4930aa91a3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/7v7m71crcmfz",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/8i2wdjcdq92z",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/db5757ba7e4de24c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/db5757ba7e4de24c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/73ssmobt25h0",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xypwf43rkztm",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/b5e9bcr1tu9m",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/9fdc8cd39714c9b3",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9fdc8cd39714c9b3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/ixlrh4ebkyl1",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/8ddc1632fde31d47",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8ddc1632fde31d47/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/03nkbrbhkn34",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/9juqckn9qr8i",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/96f717823f0f5040",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/96f717823f0f5040/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/hlrtjhgt14a4",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/8wl68w9uo2pi",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/t8vfb3d98sr9",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/c2f215e59ce1c7d3",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2f215e59ce1c7d3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/evdr6awah3je",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/3y1hg6l8s55g",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/fe8bc72b2aa506a1",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe8bc72b2aa506a1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/x4eufvdti8lk",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/dv6mrmhse9kq",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/ce931bb775448efa",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce931bb775448efa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/c3znew6ejyrb",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/4owy7gh20e8n",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/c15a457de9846f1c",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c15a457de9846f1c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/8a5esjtfxoby",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/cf764f822cea3d58",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf764f822cea3d58/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/3bdkiosm6hrn",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/eb9b85470b95cb7e",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eb9b85470b95cb7e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/11v77nx49l51",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/f8fd419139bbb47e",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8fd419139bbb47e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/maf40ijg5ewy",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/l600d5bc522p",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/lnzspdkkeciv",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/ae34789f8b29ec07",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ae34789f8b29ec07/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/elavfkvtn6nz",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/84153ecaea9a435e",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/84153ecaea9a435e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/nsuu2u1ti1qg",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/bc37919a68b60451",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc37919a68b60451/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/ksdg7oxbp3fe",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/adm8kiusqbgj",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/98h4h6ly8haa",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/79b67168b4e348cf",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79b67168b4e348cf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/s487rvphulak",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/a3cdfa5154f0d14b",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a3cdfa5154f0d14b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/cf3o55lrcu7t",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/a98c6fe2a46f46d7",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a98c6fe2a46f46d7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/boi1nepxu0ah",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/dilz706pfxuf",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/h225qern87jr",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/38102726d666aa19",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/38102726d666aa19/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/uqs772asfmw8",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/e05ea6b2daef7534",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e05ea6b2daef7534/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/aifflzgtf1yt",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/cdc523e682631e38",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdc523e682631e38/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/9hzoigq55iyp",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/qv84e81up5w4",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/peq99si7wczv",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/c9bfb504076ec6e7",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9bfb504076ec6e7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/78dlwnyhxc61",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/9ae33f44d80a7da9",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9ae33f44d80a7da9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/8qt06klp32bt",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/b486e55a1e5ebdef",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b486e55a1e5ebdef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/k3pwm2wpi3er",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/2e355f21508fb63a",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2e355f21508fb63a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/8uido56fkf7e",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/21a462a6c0d789d0",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21a462a6c0d789d0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/pfwytidgw0at",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/f5ef56bea1a6c61d",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f5ef56bea1a6c61d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/letpdju529pw",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/3c8d1cbe192a9801",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3c8d1cbe192a9801/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/vu56a6stz5bn",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/e5s9jykoq4ed",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/q25ohw7iiyit",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/5036e257c4ce13aa",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5036e257c4ce13aa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/rxloyed65i22",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/b20c237d752f55ef",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b20c237d752f55ef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/qwe1l6zqmhon",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/d922815662509e48",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d922815662509e48/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/uu88z1b139ie",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/3yev5hckfp5p",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/99fkbfxa7wa9",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 13",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/5dc8d87c3200b957",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5dc8d87c3200b957/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_sub": "https://otakuhg.site/e/0j6wmz0qjmf6",
+          "malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/klyqnd7uce1q",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/199c22891d73a4d5",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/199c22891d73a4d5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/wuioxfor41vb",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/77bb241bbf042eae",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77bb241bbf042eae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/gpbol97401fe",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/y7pyze42sjpg",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/rvz12jks2zz1",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 14",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/a0752e24e3e1db58",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0752e24e3e1db58/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/7as7gxqjipgk",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/bf886661753bd731",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf886661753bd731/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/rpj3dnuyv5so",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-14_vibeplayer_hsub": "https://vibeplayer.site/1f4269df3e914c40",
+          "malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1f4269df3e914c40/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_hsub": "https://otakuvid.online/embed/wqmyqkhrjvey",
+          "malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_hsub": "https://playmogo.com/e/eqs40en5pzah",
+          "malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 15",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/25bdab5dba5042de",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25bdab5dba5042de/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/38zgg3xfviwx",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/76a02697ad512b1c",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/76a02697ad512b1c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/jat07fdj2bpu",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/3619b31704451bc7",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3619b31704451bc7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_hsub": "https://otakuhg.site/e/ky23yyxulve4",
+          "malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/iowxs4h242dd",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/z7tgvazdaib7",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 16",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/b5c44f97dd447021",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b5c44f97dd447021/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/nu9uyhrxaqkl",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/f1899d0a78b6e205",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f1899d0a78b6e205/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/sgwg15h18r6o",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 17",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/f685561e966248f2",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f685561e966248f2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_sub": "https://otakuhg.site/e/w02rwbxma9je",
+          "malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/z619sjgnoit2",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/be750ad44896cde9",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be750ad44896cde9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/30kwhf6ikx9z",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 18",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/ea955aaa5e7de72b",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea955aaa5e7de72b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/onjt8d4flypy",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/c3655a8a7b8fd4b0",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c3655a8a7b8fd4b0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/a5w235klbo1v",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/4e9d8b1f5b06bae9",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4e9d8b1f5b06bae9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_hsub": "https://otakuhg.site/e/xya3iqvepiqo",
+          "malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/9jbhst3qi7hd",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/bh8ghpzxye0x",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 19",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/8cedc8d8727863e0",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8cedc8d8727863e0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/uiykf5dinjvs",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/2202f9ae64338b9d",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2202f9ae64338b9d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/r9oznync46yw",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/71907678e5437b8c",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71907678e5437b8c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/1aesn7ddxtl8",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/lt78zm1n2w8w",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 20",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/b12c45f659b86c25",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b12c45f659b86c25/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/gg1ndibe9z1c",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/6744848ba0b46e77",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6744848ba0b46e77/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/ufk52sqmqemr",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 21",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/8156d9a5fcc1d830",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8156d9a5fcc1d830/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/kgzhb13s3g6z",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/8ade1420e97fb2e9",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8ade1420e97fb2e9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/eyalm1v7ei6j",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/7063669051878609",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7063669051878609/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_hsub": "https://otakuhg.site/e/gdv8dysap1ry",
+          "malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/yg6sywgga5w3",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/8nhxmn160oa7",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 22",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/0b8270a050e0611f",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b8270a050e0611f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/f2prpymyt5od",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/4b836f3a0ad7d4fe",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4b836f3a0ad7d4fe/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/jfadz78io9sl",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/a2ec8d8f8ae4b55c",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a2ec8d8f8ae4b55c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_hsub": "https://otakuhg.site/e/e7nixfrym03f",
+          "malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/18knyuebq305",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/hsy7heuhswdv",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/8c8b7137ce420580",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c8b7137ce420580/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/ftjm3wkdu4ia",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/07621a8e746326f6",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07621a8e746326f6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/pj4pelc9v18v",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 24",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/56ea52e60f169c98",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/56ea52e60f169c98/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/r2pr3royorz1",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/ed24fce2c7664559",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed24fce2c7664559/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/jmfe9ufbkqcq",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-24_vibeplayer_hsub": "https://vibeplayer.site/a655ecc06e63a60c",
+          "malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a655ecc06e63a60c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_hsub": "https://otakuhg.site/e/ml2lvoj2h573",
+          "malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_hsub": "https://otakuvid.online/embed/w0z939699dpo",
+          "malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-24_playmogo_hsub": "https://playmogo.com/e/r6vb4kwtuce0",
+          "malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 25",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/0c3070469bd59cd3",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c3070469bd59cd3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/0sbbzqtvqhf6",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/63036a7d08018d9d",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/63036a7d08018d9d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/ljkt14rh86j5",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-25_vibeplayer_hsub": "https://vibeplayer.site/77deb1f6c12c5cac",
+          "malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77deb1f6c12c5cac/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_hsub": "https://otakuvid.online/embed/4keccr5ipx4w",
+          "malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-25_playmogo_hsub": "https://playmogo.com/e/zh3lme1zno6m",
+          "malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 26",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-26",
+      "sub": {
+        "HD-1": {
+          "malep-26_vibeplayer_sub": "https://vibeplayer.site/35aabf6f361e299c",
+          "malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/35aabf6f361e299c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_sub": "https://otakuvid.online/embed/st6yzexuf6nd",
+          "malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-26_vibeplayer_dub": "https://vibeplayer.site/c6dcfcc6a250f513",
+          "malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c6dcfcc6a250f513/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_dub": "https://otakuvid.online/embed/a1gajim5nlv7",
+          "malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-26_vibeplayer_hsub": "https://vibeplayer.site/47a3e779d07d4d71",
+          "malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/47a3e779d07d4d71/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-26_otakuhg_hsub": "https://otakuhg.site/e/4ucubpl5urow",
+          "malep-26_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_hsub": "https://otakuvid.online/embed/two5flam9tin",
+          "malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-26_playmogo_hsub": "https://playmogo.com/e/eoj62amnc41a",
+          "malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 27",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-27",
+      "sub": {
+        "HD-1": {
+          "malep-27_vibeplayer_sub": "https://vibeplayer.site/fff771ea6cbdb8f4",
+          "malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fff771ea6cbdb8f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_sub": "https://otakuvid.online/embed/86o6hhs5zo1s",
+          "malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-27_vibeplayer_dub": "https://vibeplayer.site/e696c4f29cad120f",
+          "malep-27_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e696c4f29cad120f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_dub": "https://otakuvid.online/embed/gnburfj1r6sv",
+          "malep-27_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-27_vibeplayer_hsub": "https://vibeplayer.site/fee0b14d9b981e5e",
+          "malep-27_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fee0b14d9b981e5e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-27_otakuhg_hsub": "https://otakuhg.site/e/de7fre4znzh3",
+          "malep-27_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-27_otakuvid_hsub": "https://otakuvid.online/embed/lmp59powbzal",
+          "malep-27_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-27_playmogo_hsub": "https://playmogo.com/e/05bpype7c50l",
+          "malep-27_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 28",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-28",
+      "sub": {
+        "HD-1": {
+          "malep-28_vibeplayer_sub": "https://vibeplayer.site/f6c8a5fd5894b6c8",
+          "malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6c8a5fd5894b6c8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_sub": "https://otakuvid.online/embed/or3o0mbileio",
+          "malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-28_vibeplayer_dub": "https://vibeplayer.site/d8e76d4fd27a1106",
+          "malep-28_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d8e76d4fd27a1106/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_dub": "https://otakuvid.online/embed/h3p4d3drr5g3",
+          "malep-28_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-28_vibeplayer_hsub": "https://vibeplayer.site/1717efccd8b88252",
+          "malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1717efccd8b88252/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-28_otakuvid_hsub": "https://otakuvid.online/embed/nr2a6sffpbxd",
+          "malep-28_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-28_playmogo_hsub": "https://playmogo.com/e/y57wzv3wlxzu",
+          "malep-28_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 29",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-29",
+      "sub": {
+        "HD-1": {
+          "malep-29_vibeplayer_sub": "https://vibeplayer.site/c87027ce3e350d68",
+          "malep-29_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c87027ce3e350d68/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-29_otakuvid_sub": "https://otakuvid.online/embed/mppbhonzy2i0",
+          "malep-29_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-29_vibeplayer_dub": "https://vibeplayer.site/5451a25bc4a9d969",
+          "malep-29_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5451a25bc4a9d969/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-29_otakuvid_dub": "https://otakuvid.online/embed/shg0umab0pkj",
+          "malep-29_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 30",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-30",
+      "sub": {
+        "HD-1": {
+          "malep-30_vibeplayer_sub": "https://vibeplayer.site/7535a91f95a2805b",
+          "malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7535a91f95a2805b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-30_otakuvid_sub": "https://otakuvid.online/embed/kdtmkocv21tl",
+          "malep-30_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-30_vibeplayer_dub": "https://vibeplayer.site/85630dd3bd9aa15a",
+          "malep-30_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/85630dd3bd9aa15a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-30_otakuvid_dub": "https://otakuvid.online/embed/apy7ckj6tozq",
+          "malep-30_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 31",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-31",
+      "sub": {
+        "HD-1": {
+          "malep-31_vibeplayer_sub": "https://vibeplayer.site/1fde088f8f4f61b6",
+          "malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1fde088f8f4f61b6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-31_otakuvid_sub": "https://otakuvid.online/embed/70ai35o6xan2",
+          "malep-31_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-31_vibeplayer_dub": "https://vibeplayer.site/7e1f2e6e230006cd",
+          "malep-31_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e1f2e6e230006cd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-31_otakuvid_dub": "https://otakuvid.online/embed/wxa11jisbntn",
+          "malep-31_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 32",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-32",
+      "sub": {
+        "HD-1": {
+          "malep-32_vibeplayer_sub": "https://vibeplayer.site/b6397a488e9f76a8",
+          "malep-32_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b6397a488e9f76a8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_sub": "https://otakuvid.online/embed/gtxus0emb76r",
+          "malep-32_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-32_vibeplayer_dub": "https://vibeplayer.site/7ec30036304f8aa2",
+          "malep-32_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ec30036304f8aa2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_dub": "https://otakuvid.online/embed/f56ulokjtlb5",
+          "malep-32_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-32_vibeplayer_hsub": "https://vibeplayer.site/3b3c64ec80f9bd3e",
+          "malep-32_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b3c64ec80f9bd3e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-32_otakuhg_hsub": "https://otakuhg.site/e/00dfeq1vv03o",
+          "malep-32_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-32_otakuvid_hsub": "https://otakuvid.online/embed/3ouocsepk108",
+          "malep-32_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-32_playmogo_hsub": "https://playmogo.com/e/gqwtnamv0xu8",
+          "malep-32_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 33",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-33",
+      "sub": {
+        "HD-1": {
+          "malep-33_vibeplayer_sub": "https://vibeplayer.site/9c715ad45e9c0f2f",
+          "malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c715ad45e9c0f2f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-33_otakuvid_sub": "https://otakuvid.online/embed/6nyyo8y7ids2",
+          "malep-33_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-33_vibeplayer_dub": "https://vibeplayer.site/079c8e15f0c1bc98",
+          "malep-33_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/079c8e15f0c1bc98/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-33_otakuvid_dub": "https://otakuvid.online/embed/vphh2vb3ebzq",
+          "malep-33_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-33_vibeplayer_hsub": "https://vibeplayer.site/dd0ce9861d7d7ed0",
+          "malep-33_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dd0ce9861d7d7ed0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-33_otakuhg_hsub": "https://otakuhg.site/e/a3xq6f5oslsm",
+          "malep-33_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-33_otakuvid_hsub": "https://otakuvid.online/embed/wn7idg14z8bp",
+          "malep-33_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-33_playmogo_hsub": "https://playmogo.com/e/500nfkymblyp",
+          "malep-33_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 34",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-34",
+      "sub": {
+        "HD-1": {
+          "malep-34_vibeplayer_sub": "https://vibeplayer.site/1ec9a17c7105ab46",
+          "malep-34_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ec9a17c7105ab46/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_sub": "https://otakuvid.online/embed/lmvflp0kej1n",
+          "malep-34_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-34_vibeplayer_dub": "https://vibeplayer.site/0d274b46eb336eea",
+          "malep-34_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0d274b46eb336eea/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_dub": "https://otakuvid.online/embed/ewgxcrokyfrp",
+          "malep-34_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-34_vibeplayer_hsub": "https://vibeplayer.site/f5e5c79d3068116e",
+          "malep-34_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f5e5c79d3068116e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-34_otakuvid_hsub": "https://otakuvid.online/embed/9e6d43rv0kfg",
+          "malep-34_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-34_playmogo_hsub": "https://playmogo.com/e/frmhy75kdxc5",
+          "malep-34_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 35",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-35",
+      "sub": {
+        "HD-1": {
+          "malep-35_vibeplayer_sub": "https://vibeplayer.site/105115ac5e5eda3d",
+          "malep-35_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/105115ac5e5eda3d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_sub": "https://otakuvid.online/embed/krh4q37ccm33",
+          "malep-35_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-35_vibeplayer_dub": "https://vibeplayer.site/848648760f0011e3",
+          "malep-35_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/848648760f0011e3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_dub": "https://otakuvid.online/embed/k19ntuvt3rso",
+          "malep-35_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-35_vibeplayer_hsub": "https://vibeplayer.site/f474e27ba9e2d69f",
+          "malep-35_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f474e27ba9e2d69f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-35_otakuhg_hsub": "https://otakuhg.site/e/2os9815nymm0",
+          "malep-35_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-35_otakuvid_hsub": "https://otakuvid.online/embed/uewaqje33z7u",
+          "malep-35_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-35_playmogo_hsub": "https://playmogo.com/e/0yubikjk9xuz",
+          "malep-35_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 36",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-36",
+      "sub": {
+        "HD-1": {
+          "malep-36_vibeplayer_sub": "https://vibeplayer.site/a436f10db2ab7860",
+          "malep-36_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a436f10db2ab7860/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-36_otakuvid_sub": "https://otakuvid.online/embed/q62rsyrqep1x",
+          "malep-36_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-36_vibeplayer_dub": "https://vibeplayer.site/23e788a99acf1fe2",
+          "malep-36_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/23e788a99acf1fe2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-36_otakuvid_dub": "https://otakuvid.online/embed/459otu2hmchz",
+          "malep-36_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 37",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-37",
+      "sub": {
+        "HD-1": {
+          "malep-37_vibeplayer_sub": "https://vibeplayer.site/ff2b7b52194675ab",
+          "malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff2b7b52194675ab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-37_otakuvid_sub": "https://otakuvid.online/embed/dz3e3h9nfyvu",
+          "malep-37_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-37_vibeplayer_dub": "https://vibeplayer.site/ddbc1a75f135ab76",
+          "malep-37_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ddbc1a75f135ab76/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-37_otakuvid_dub": "https://otakuvid.online/embed/2kv0vggi3jsr",
+          "malep-37_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-37_vibeplayer_hsub": "https://vibeplayer.site/9b7a1401f7c483e3",
+          "malep-37_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b7a1401f7c483e3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-37_otakuhg_hsub": "https://otakuhg.site/e/e1xfe1ff32wd",
+          "malep-37_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-37_otakuvid_hsub": "https://otakuvid.online/embed/6u1zy74hrb64",
+          "malep-37_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-37_playmogo_hsub": "https://playmogo.com/e/a1j69z5uvwhk",
+          "malep-37_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 38",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-38",
+      "sub": {
+        "HD-1": {
+          "malep-38_vibeplayer_sub": "https://vibeplayer.site/e993e007ddb8b7f9",
+          "malep-38_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e993e007ddb8b7f9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-38_otakuvid_sub": "https://otakuvid.online/embed/a9j539ycpdnk",
+          "malep-38_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-38_vibeplayer_dub": "https://vibeplayer.site/d10a59cc2831b029",
+          "malep-38_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d10a59cc2831b029/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-38_otakuvid_dub": "https://otakuvid.online/embed/0ubwxksp8zay",
+          "malep-38_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-38_vibeplayer_hsub": "https://vibeplayer.site/f436ed3e28bfa526",
+          "malep-38_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f436ed3e28bfa526/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-38_otakuvid_hsub": "https://otakuvid.online/embed/0vm67sfv45si",
+          "malep-38_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-38_playmogo_hsub": "https://playmogo.com/e/oaq4vm9k5brn",
+          "malep-38_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 39",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-39",
+      "sub": {
+        "HD-1": {
+          "malep-39_vibeplayer_sub": "https://vibeplayer.site/d671e2f52b22739d",
+          "malep-39_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d671e2f52b22739d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-39_otakuvid_sub": "https://otakuvid.online/embed/xg72r1ey0ca5",
+          "malep-39_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-39_vibeplayer_dub": "https://vibeplayer.site/38850d95c2b6d251",
+          "malep-39_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/38850d95c2b6d251/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-39_otakuvid_dub": "https://otakuvid.online/embed/beyu7j744zap",
+          "malep-39_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-39_vibeplayer_hsub": "https://vibeplayer.site/b56e4ed29ad8ccd0",
+          "malep-39_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b56e4ed29ad8ccd0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-39_otakuhg_hsub": "https://otakuhg.site/e/aw783tuc3d5h",
+          "malep-39_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-39_otakuvid_hsub": "https://otakuvid.online/embed/7dpvuu3fnfrp",
+          "malep-39_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-39_playmogo_hsub": "https://playmogo.com/e/68tq6qpiyg51",
+          "malep-39_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 40",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-40",
+      "sub": {
+        "HD-1": {
+          "malep-40_vibeplayer_sub": "https://vibeplayer.site/cae7bf8c85e2e963",
+          "malep-40_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cae7bf8c85e2e963/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-40_otakuvid_sub": "https://otakuvid.online/embed/qx1baxf5942l",
+          "malep-40_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-40_vibeplayer_dub": "https://vibeplayer.site/8eec2b2d3e443266",
+          "malep-40_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8eec2b2d3e443266/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-40_otakuvid_dub": "https://otakuvid.online/embed/9ga7g7mi8e3y",
+          "malep-40_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-40_vibeplayer_hsub": "https://vibeplayer.site/22da69cd3e00aa43",
+          "malep-40_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/22da69cd3e00aa43/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-40_otakuvid_hsub": "https://otakuvid.online/embed/2ir6zm4iofhx",
+          "malep-40_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-40_playmogo_hsub": "https://playmogo.com/e/31z5e8h6tow1",
+          "malep-40_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 41",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-41",
+      "sub": {
+        "HD-1": {
+          "malep-41_vibeplayer_sub": "https://vibeplayer.site/8e41758434ca0646",
+          "malep-41_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e41758434ca0646/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-41_otakuvid_sub": "https://otakuvid.online/embed/by6wrd4byfbt",
+          "malep-41_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-41_vibeplayer_dub": "https://vibeplayer.site/02345545f380fee9",
+          "malep-41_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/02345545f380fee9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-41_otakuvid_dub": "https://otakuvid.online/embed/5focdyi0sej6",
+          "malep-41_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 42",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-42",
+      "sub": {
+        "HD-1": {
+          "malep-42_vibeplayer_sub": "https://vibeplayer.site/f1ab60865203f7ea",
+          "malep-42_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1ab60865203f7ea/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-42_otakuvid_sub": "https://otakuvid.online/embed/cu06fow6ci9j",
+          "malep-42_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-42_vibeplayer_dub": "https://vibeplayer.site/4bbfb7263a6fe9fc",
+          "malep-42_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4bbfb7263a6fe9fc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-42_otakuvid_dub": "https://otakuvid.online/embed/oe5e2q62chls",
+          "malep-42_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-42_vibeplayer_hsub": "https://vibeplayer.site/1a2b5923112b6bdb",
+          "malep-42_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a2b5923112b6bdb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-42_otakuhg_hsub": "https://otakuhg.site/e/x757b15gkyao",
+          "malep-42_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-42_otakuvid_hsub": "https://otakuvid.online/embed/yfeanl35jwwz",
+          "malep-42_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-42_playmogo_hsub": "https://playmogo.com/e/o18m4beulj97",
+          "malep-42_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 43",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-43",
+      "sub": {
+        "HD-1": {
+          "malep-43_vibeplayer_sub": "https://vibeplayer.site/3ce99f52362b8446",
+          "malep-43_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ce99f52362b8446/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-43_otakuvid_sub": "https://otakuvid.online/embed/b0uuszlezr88",
+          "malep-43_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-43_vibeplayer_dub": "https://vibeplayer.site/12bdf434990f21ab",
+          "malep-43_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/12bdf434990f21ab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-43_otakuvid_dub": "https://otakuvid.online/embed/gfkscu6ptedc",
+          "malep-43_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-43_vibeplayer_hsub": "https://vibeplayer.site/5dcd018b6727167b",
+          "malep-43_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5dcd018b6727167b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-43_otakuhg_hsub": "https://otakuhg.site/e/8hivr7wzzmhc",
+          "malep-43_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-43_otakuvid_hsub": "https://otakuvid.online/embed/56xgtxjkl0a9",
+          "malep-43_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-43_playmogo_hsub": "https://playmogo.com/e/z2kyq4la9ggp",
+          "malep-43_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 44",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-44",
+      "sub": {
+        "HD-1": {
+          "malep-44_vibeplayer_sub": "https://vibeplayer.site/ad041ea3411bbb2a",
+          "malep-44_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad041ea3411bbb2a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-44_otakuvid_sub": "https://otakuvid.online/embed/x882sqt3ervx",
+          "malep-44_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-44_vibeplayer_dub": "https://vibeplayer.site/d41e4f3a1b778942",
+          "malep-44_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d41e4f3a1b778942/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-44_otakuvid_dub": "https://otakuvid.online/embed/uquv8lxeex5k",
+          "malep-44_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-44_vibeplayer_hsub": "https://vibeplayer.site/75fbf363915a42aa",
+          "malep-44_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/75fbf363915a42aa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-44_otakuvid_hsub": "https://otakuvid.online/embed/k5hyxtm9p7v9",
+          "malep-44_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-44_playmogo_hsub": "https://playmogo.com/e/rpeczzre79ye",
+          "malep-44_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 45",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-45",
+      "sub": {
+        "HD-1": {
+          "malep-45_vibeplayer_sub": "https://vibeplayer.site/81b9ffbad7eeb764",
+          "malep-45_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/81b9ffbad7eeb764/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-45_otakuvid_sub": "https://otakuvid.online/embed/xff2o2vyqzum",
+          "malep-45_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-45_vibeplayer_dub": "https://vibeplayer.site/c7fb4a2c64707114",
+          "malep-45_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c7fb4a2c64707114/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-45_otakuvid_dub": "https://otakuvid.online/embed/vdhd89k1rfwv",
+          "malep-45_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-45_vibeplayer_hsub": "https://vibeplayer.site/6033bed574c56f13",
+          "malep-45_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6033bed574c56f13/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-45_otakuhg_hsub": "https://otakuhg.site/e/uv9vkiz20xqn",
+          "malep-45_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-45_otakuvid_hsub": "https://otakuvid.online/embed/naqbzigkvsyb",
+          "malep-45_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-45_playmogo_hsub": "https://playmogo.com/e/lto3s0bup5js",
+          "malep-45_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 46",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-46",
+      "sub": {
+        "HD-1": {
+          "malep-46_vibeplayer_sub": "https://vibeplayer.site/9f5cce1a70aac260",
+          "malep-46_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9f5cce1a70aac260/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-46_otakuvid_sub": "https://otakuvid.online/embed/3dfpevx92zrx",
+          "malep-46_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-46_vibeplayer_dub": "https://vibeplayer.site/183cb130d04c5230",
+          "malep-46_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/183cb130d04c5230/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-46_otakuvid_dub": "https://otakuvid.online/embed/2kqpn2yny7yc",
+          "malep-46_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 47",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-47",
+      "sub": {
+        "HD-1": {
+          "malep-47_vibeplayer_sub": "https://vibeplayer.site/6bd2f9a26260a9d0",
+          "malep-47_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6bd2f9a26260a9d0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-47_otakuvid_sub": "https://otakuvid.online/embed/uh3mr57cltbv",
+          "malep-47_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-47_vibeplayer_dub": "https://vibeplayer.site/dfdbc69c92597643",
+          "malep-47_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dfdbc69c92597643/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-47_otakuvid_dub": "https://otakuvid.online/embed/shm5stcrq60d",
+          "malep-47_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-47_vibeplayer_hsub": "https://vibeplayer.site/b0b3762f53b0a5b4",
+          "malep-47_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b0b3762f53b0a5b4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-47_otakuvid_hsub": "https://otakuvid.online/embed/or1lxygn4msh",
+          "malep-47_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-47_playmogo_hsub": "https://playmogo.com/e/wgzfg3s3kihf",
+          "malep-47_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 48",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-48",
+      "sub": {
+        "HD-1": {
+          "malep-48_vibeplayer_sub": "https://vibeplayer.site/fc295783b493ce1d",
+          "malep-48_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fc295783b493ce1d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-48_otakuvid_sub": "https://otakuvid.online/embed/9ivwxec9iz33",
+          "malep-48_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-48_vibeplayer_dub": "https://vibeplayer.site/e4606bc91f9b18ad",
+          "malep-48_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e4606bc91f9b18ad/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-48_otakuvid_dub": "https://otakuvid.online/embed/7woa5xvhuokj",
+          "malep-48_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 49",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-49",
+      "sub": {
+        "HD-1": {
+          "malep-49_vibeplayer_sub": "https://vibeplayer.site/58715bba505bdb10",
+          "malep-49_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58715bba505bdb10/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-49_otakuvid_sub": "https://otakuvid.online/embed/pkq4xwf7zct8",
+          "malep-49_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-49_vibeplayer_dub": "https://vibeplayer.site/90910ca9e4f9d93e",
+          "malep-49_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/90910ca9e4f9d93e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-49_otakuvid_dub": "https://otakuvid.online/embed/6q79d4z2wukq",
+          "malep-49_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-49_vibeplayer_hsub": "https://vibeplayer.site/73f722aec7374748",
+          "malep-49_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/73f722aec7374748/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-49_otakuhg_hsub": "https://otakuhg.site/e/8zp8981ox51t",
+          "malep-49_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-49_otakuvid_hsub": "https://otakuvid.online/embed/46vc6iu2hf4v",
+          "malep-49_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-49_playmogo_hsub": "https://playmogo.com/e/bkcy4tlbjjba",
+          "malep-49_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 50",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-50",
+      "sub": {
+        "HD-1": {
+          "malep-50_vibeplayer_sub": "https://vibeplayer.site/01db558ee7911204",
+          "malep-50_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01db558ee7911204/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-50_otakuvid_sub": "https://otakuvid.online/embed/phden4gqen6q",
+          "malep-50_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-50_vibeplayer_dub": "https://vibeplayer.site/81b3af2749ac7338",
+          "malep-50_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/81b3af2749ac7338/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-50_otakuvid_dub": "https://otakuvid.online/embed/6byu8szhibyw",
+          "malep-50_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-50_vibeplayer_hsub": "https://vibeplayer.site/52b0c5d7d86588f0",
+          "malep-50_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/52b0c5d7d86588f0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-50_otakuhg_hsub": "https://otakuhg.site/e/l3lhmyr9idyi",
+          "malep-50_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-50_otakuvid_hsub": "https://otakuvid.online/embed/1r0zz95fonv3",
+          "malep-50_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-50_playmogo_hsub": "https://playmogo.com/e/z9q96vkwp0jo",
+          "malep-50_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 51",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-51",
+      "sub": {
+        "HD-1": {
+          "malep-51_vibeplayer_sub": "https://vibeplayer.site/21a96d4f11b4bb47",
+          "malep-51_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21a96d4f11b4bb47/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-51_otakuvid_sub": "https://otakuvid.online/embed/en7fla9a0mjp",
+          "malep-51_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-51_vibeplayer_dub": "https://vibeplayer.site/e51bb389fc91d362",
+          "malep-51_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e51bb389fc91d362/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-51_otakuvid_dub": "https://otakuvid.online/embed/curnm99hljbl",
+          "malep-51_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 52",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-52",
+      "sub": {
+        "HD-1": {
+          "malep-52_vibeplayer_sub": "https://vibeplayer.site/a6eee84f5dc2b8eb",
+          "malep-52_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6eee84f5dc2b8eb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-52_otakuvid_sub": "https://otakuvid.online/embed/pnsuyzbelguh",
+          "malep-52_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 53",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-53",
+      "sub": {
+        "HD-1": {
+          "malep-53_vibeplayer_sub": "https://vibeplayer.site/ca1bc80e99e628d3",
+          "malep-53_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca1bc80e99e628d3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-53_otakuvid_sub": "https://otakuvid.online/embed/dajtugok3fdn",
+          "malep-53_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-53_vibeplayer_hsub": "https://vibeplayer.site/ff3c6ae143120301",
+          "malep-53_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff3c6ae143120301/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-53_otakuhg_hsub": "https://otakuhg.site/e/za4zmer3npww",
+          "malep-53_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-53_otakuvid_hsub": "https://otakuvid.online/embed/moao7a7qpt29",
+          "malep-53_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-53_playmogo_hsub": "https://playmogo.com/e/3mfkl0hif8es",
+          "malep-53_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 54",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-54",
+      "sub": {
+        "HD-1": {
+          "malep-54_vibeplayer_sub": "https://vibeplayer.site/edfb3480c5092346",
+          "malep-54_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/edfb3480c5092346/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-54_otakuvid_sub": "https://otakuvid.online/embed/pqm8ufp0k9ux",
+          "malep-54_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-54_vibeplayer_hsub": "https://vibeplayer.site/30f8f4dd7c816b48",
+          "malep-54_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30f8f4dd7c816b48/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-54_otakuvid_hsub": "https://otakuvid.online/embed/oiqdakqke1y4",
+          "malep-54_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-54_playmogo_hsub": "https://playmogo.com/e/ehq9ze0qqrhy",
+          "malep-54_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 55",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-55",
+      "sub": {
+        "HD-1": {
+          "malep-55_vibeplayer_sub": "https://vibeplayer.site/274fc071d8ea8f66",
+          "malep-55_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/274fc071d8ea8f66/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-55_otakuvid_sub": "https://otakuvid.online/embed/mhojjyi2457j",
+          "malep-55_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-55_vibeplayer_hsub": "https://vibeplayer.site/0fad31c0cdc5d2e3",
+          "malep-55_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0fad31c0cdc5d2e3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-55_otakuvid_hsub": "https://otakuvid.online/embed/o5jazhjxcy5w",
+          "malep-55_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-55_playmogo_hsub": "https://playmogo.com/e/vet4zkdjxqd3",
+          "malep-55_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 56",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-56",
+      "sub": {
+        "HD-1": {
+          "malep-56_vibeplayer_sub": "https://vibeplayer.site/57b4c6bfc85cba77",
+          "malep-56_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57b4c6bfc85cba77/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-56_otakuvid_sub": "https://otakuvid.online/embed/b9ylvbt61wav",
+          "malep-56_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 57",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-57",
+      "sub": {
+        "HD-1": {
+          "malep-57_vibeplayer_sub": "https://vibeplayer.site/4461e256d8a5edd9",
+          "malep-57_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4461e256d8a5edd9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-57_otakuvid_sub": "https://otakuvid.online/embed/hqsi97jnfbrd",
+          "malep-57_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-57_vibeplayer_hsub": "https://vibeplayer.site/6f113b41d6a1bdb9",
+          "malep-57_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6f113b41d6a1bdb9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-57_otakuhg_hsub": "https://otakuhg.site/e/9i43ti1gx92n",
+          "malep-57_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-57_otakuvid_hsub": "https://otakuvid.online/embed/gowhu4uzcbsy",
+          "malep-57_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-57_playmogo_hsub": "https://playmogo.com/e/wsm5bzjvpmw8",
+          "malep-57_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 58",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-58",
+      "sub": {
+        "HD-1": {
+          "malep-58_vibeplayer_sub": "https://vibeplayer.site/c0cf192110a40c40",
+          "malep-58_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0cf192110a40c40/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-58_otakuvid_sub": "https://otakuvid.online/embed/n3bse9yjw112",
+          "malep-58_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-58_vibeplayer_hsub": "https://vibeplayer.site/e27d858d4d26f4d7",
+          "malep-58_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e27d858d4d26f4d7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-58_otakuhg_hsub": "https://otakuhg.site/e/ygkz6firswoi",
+          "malep-58_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-58_otakuvid_hsub": "https://otakuvid.online/embed/y89fiwlc168r",
+          "malep-58_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-58_playmogo_hsub": "https://playmogo.com/e/6rnkm61t7d0r",
+          "malep-58_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 59",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-59",
+      "sub": {
+        "HD-1": {
+          "malep-59_vibeplayer_sub": "https://vibeplayer.site/63ea7f90f714fee0",
+          "malep-59_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/63ea7f90f714fee0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-59_otakuvid_sub": "https://otakuvid.online/embed/kxsjyh6jbzm9",
+          "malep-59_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-59_vibeplayer_hsub": "https://vibeplayer.site/abcc026419c55943",
+          "malep-59_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abcc026419c55943/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-59_otakuhg_hsub": "https://otakuhg.site/e/vcn80hns9qyp",
+          "malep-59_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-59_otakuvid_hsub": "https://otakuvid.online/embed/xx2wwq13qann",
+          "malep-59_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-59_playmogo_hsub": "https://playmogo.com/e/61t84xdhv91m",
+          "malep-59_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 60",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-60",
+      "sub": {
+        "HD-1": {
+          "malep-60_vibeplayer_sub": "https://vibeplayer.site/71f9c103ac58ee18",
+          "malep-60_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/71f9c103ac58ee18/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-60_otakuvid_sub": "https://otakuvid.online/embed/qk4xhctu2l54",
+          "malep-60_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 61",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-61",
+      "sub": {
+        "HD-1": {
+          "malep-61_vibeplayer_sub": "https://vibeplayer.site/abcdc2aa6de11a41",
+          "malep-61_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/abcdc2aa6de11a41/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-61_otakuvid_sub": "https://otakuvid.online/embed/59idg0n3ijtz",
+          "malep-61_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-61_vibeplayer_hsub": "https://vibeplayer.site/25dafa9dca5d10ee",
+          "malep-61_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/25dafa9dca5d10ee/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-61_otakuhg_hsub": "https://otakuhg.site/e/pirkh7jvayym",
+          "malep-61_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-61_otakuvid_hsub": "https://otakuvid.online/embed/i5e158np6q6f",
+          "malep-61_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-61_playmogo_hsub": "https://playmogo.com/e/ghcfl5u1silu",
+          "malep-61_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 62",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-62",
+      "sub": {
+        "HD-1": {
+          "malep-62_vibeplayer_sub": "https://vibeplayer.site/25ee5125467f38b9",
+          "malep-62_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25ee5125467f38b9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-62_otakuvid_sub": "https://otakuvid.online/embed/g3elxhsd073j",
+          "malep-62_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 63",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-63",
+      "sub": {
+        "HD-1": {
+          "malep-63_vibeplayer_sub": "https://vibeplayer.site/f0923bbf5d1341f1",
+          "malep-63_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0923bbf5d1341f1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-63_otakuvid_sub": "https://otakuvid.online/embed/yfjadwowuuch",
+          "malep-63_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-63_vibeplayer_hsub": "https://vibeplayer.site/d3c63cad55b267cb",
+          "malep-63_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3c63cad55b267cb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-63_otakuhg_hsub": "https://otakuhg.site/e/wpj145rbf1me",
+          "malep-63_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-63_otakuvid_hsub": "https://otakuvid.online/embed/d9vdacqqe7at",
+          "malep-63_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-63_playmogo_hsub": "https://playmogo.com/e/evilgqd6zw3t",
+          "malep-63_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 64",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-64",
+      "sub": {
+        "HD-1": {
+          "malep-64_vibeplayer_sub": "https://vibeplayer.site/064ef1e8731e78ff",
+          "malep-64_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/064ef1e8731e78ff/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-64_otakuvid_sub": "https://otakuvid.online/embed/x1x1ps77tvn4",
+          "malep-64_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-64_vibeplayer_hsub": "https://vibeplayer.site/c223845e669aec76",
+          "malep-64_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c223845e669aec76/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-64_otakuhg_hsub": "https://otakuhg.site/e/xjq3wbmmvrt5",
+          "malep-64_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-64_otakuvid_hsub": "https://otakuvid.online/embed/ulzbq04gjcqh",
+          "malep-64_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-64_playmogo_hsub": "https://playmogo.com/e/kvg99wntahyp",
+          "malep-64_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 65",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-65",
+      "sub": {
+        "HD-1": {
+          "malep-65_vibeplayer_sub": "https://vibeplayer.site/fda200a1709f6835",
+          "malep-65_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fda200a1709f6835/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-65_otakuvid_sub": "https://otakuvid.online/embed/igzw51zdahip",
+          "malep-65_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 66",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-66",
+      "sub": {
+        "HD-1": {
+          "malep-66_vibeplayer_sub": "https://vibeplayer.site/be51d39ebf48270d",
+          "malep-66_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/be51d39ebf48270d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-66_otakuvid_sub": "https://otakuvid.online/embed/lk334jyx5wug",
+          "malep-66_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-66_vibeplayer_hsub": "https://vibeplayer.site/6495e9889ec6bb07",
+          "malep-66_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6495e9889ec6bb07/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-66_otakuvid_hsub": "https://otakuvid.online/embed/ebpfrfaxnflo",
+          "malep-66_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-66_playmogo_hsub": "https://playmogo.com/e/f4j24kh7nprb",
+          "malep-66_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 67",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-67",
+      "sub": {
+        "HD-1": {
+          "malep-67_vibeplayer_sub": "https://vibeplayer.site/da40cd9004ac1bfa",
+          "malep-67_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/da40cd9004ac1bfa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-67_otakuvid_sub": "https://otakuvid.online/embed/4l21jy9vnshg",
+          "malep-67_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 68",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-68",
+      "sub": {
+        "HD-1": {
+          "malep-68_vibeplayer_sub": "https://vibeplayer.site/fdb40120a73f6f3a",
+          "malep-68_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fdb40120a73f6f3a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-68_otakuvid_sub": "https://otakuvid.online/embed/xwa44gs0jdm8",
+          "malep-68_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-68_vibeplayer_hsub": "https://vibeplayer.site/8de626caf0c3112c",
+          "malep-68_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8de626caf0c3112c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-68_otakuhg_hsub": "https://otakuhg.site/e/blp7qwsxnlmq",
+          "malep-68_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-68_otakuvid_hsub": "https://otakuvid.online/embed/vvf9umuu3igc",
+          "malep-68_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-68_playmogo_hsub": "https://playmogo.com/e/ushxz0rvbcuj",
+          "malep-68_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 69",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-69",
+      "sub": {
+        "HD-1": {
+          "malep-69_vibeplayer_sub": "https://vibeplayer.site/3cd9a49bcb2ae850",
+          "malep-69_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3cd9a49bcb2ae850/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-69_otakuvid_sub": "https://otakuvid.online/embed/6knrf6gpgmwx",
+          "malep-69_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-69_vibeplayer_hsub": "https://vibeplayer.site/b3825b6b536f9cdb",
+          "malep-69_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3825b6b536f9cdb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-69_otakuhg_hsub": "https://otakuhg.site/e/ro7kzz1mpvdv",
+          "malep-69_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-69_otakuvid_hsub": "https://otakuvid.online/embed/59fn5gca7cy6",
+          "malep-69_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-69_playmogo_hsub": "https://playmogo.com/e/w576evqyu4gg",
+          "malep-69_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 70",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-70",
+      "sub": {
+        "HD-1": {
+          "malep-70_vibeplayer_sub": "https://vibeplayer.site/e65c6ec0ffd36a1e",
+          "malep-70_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e65c6ec0ffd36a1e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-70_otakuvid_sub": "https://otakuvid.online/embed/tuxtm5kv096b",
+          "malep-70_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-70_vibeplayer_hsub": "https://vibeplayer.site/2c2584b41d4a46ae",
+          "malep-70_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c2584b41d4a46ae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-70_otakuhg_hsub": "https://otakuhg.site/e/npccco86vcjw",
+          "malep-70_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-70_otakuvid_hsub": "https://otakuvid.online/embed/5vibbflod9si",
+          "malep-70_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-70_playmogo_hsub": "https://playmogo.com/e/ci717trxy9fr",
+          "malep-70_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 71",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-71",
+      "sub": {
+        "HD-1": {
+          "malep-71_vibeplayer_sub": "https://vibeplayer.site/55f84056e5b058fd",
+          "malep-71_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55f84056e5b058fd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-71_otakuvid_sub": "https://otakuvid.online/embed/mrnm4xrsl9wh",
+          "malep-71_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 72",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-72",
+      "sub": {
+        "HD-1": {
+          "malep-72_vibeplayer_sub": "https://vibeplayer.site/56f40b93a41be327",
+          "malep-72_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/56f40b93a41be327/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-72_otakuvid_sub": "https://otakuvid.online/embed/50i8k12t4t35",
+          "malep-72_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-72_vibeplayer_hsub": "https://vibeplayer.site/0b8fb4c79212f685",
+          "malep-72_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0b8fb4c79212f685/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-72_otakuhg_hsub": "https://otakuhg.site/e/u587wxpjzt17",
+          "malep-72_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-72_otakuvid_hsub": "https://otakuvid.online/embed/9a5zqs1rm9ef",
+          "malep-72_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-72_playmogo_hsub": "https://playmogo.com/e/v4bnm05azjto",
+          "malep-72_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 73",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-73",
+      "sub": {
+        "HD-1": {
+          "malep-73_vibeplayer_sub": "https://vibeplayer.site/0078ef72303573b9",
+          "malep-73_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0078ef72303573b9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-73_otakuvid_sub": "https://otakuvid.online/embed/1rhgre4h1r26",
+          "malep-73_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-73_vibeplayer_hsub": "https://vibeplayer.site/54ec8fd93e50deb7",
+          "malep-73_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54ec8fd93e50deb7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-73_otakuhg_hsub": "https://otakuhg.site/e/128y0qgtekh8",
+          "malep-73_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-73_otakuvid_hsub": "https://otakuvid.online/embed/m9i6jcqm0riu",
+          "malep-73_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-73_playmogo_hsub": "https://playmogo.com/e/ihejuj80ht5e",
+          "malep-73_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 74",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-74",
+      "sub": {
+        "HD-1": {
+          "malep-74_vibeplayer_sub": "https://vibeplayer.site/d3c68a7489639715",
+          "malep-74_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3c68a7489639715/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-74_otakuvid_sub": "https://otakuvid.online/embed/oa0gh1dh6mc8",
+          "malep-74_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-74_vibeplayer_hsub": "https://vibeplayer.site/71510f00e130c6ac",
+          "malep-74_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71510f00e130c6ac/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-74_otakuvid_hsub": "https://otakuvid.online/embed/ao4ccza2z5s6",
+          "malep-74_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-74_playmogo_hsub": "https://playmogo.com/e/52xhguvs2fjf",
+          "malep-74_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 75",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-75",
+      "sub": {
+        "HD-1": {
+          "malep-75_vibeplayer_sub": "https://vibeplayer.site/8fb3b3c00d82549f",
+          "malep-75_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fb3b3c00d82549f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-75_otakuvid_sub": "https://otakuvid.online/embed/t4nnsmxz0c36",
+          "malep-75_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 76",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-76",
+      "sub": {
+        "HD-1": {
+          "malep-76_vibeplayer_sub": "https://vibeplayer.site/5b5dfbdbf16e5a9f",
+          "malep-76_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b5dfbdbf16e5a9f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-76_otakuvid_sub": "https://otakuvid.online/embed/gsjurkb5nch0",
+          "malep-76_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-76_vibeplayer_hsub": "https://vibeplayer.site/095269d577aba15f",
+          "malep-76_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/095269d577aba15f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-76_otakuvid_hsub": "https://otakuvid.online/embed/zg1eg4oy1z1t",
+          "malep-76_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-76_playmogo_hsub": "https://playmogo.com/e/wj5ckab0ywic",
+          "malep-76_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 77",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-77",
+      "sub": {
+        "HD-1": {
+          "malep-77_vibeplayer_sub": "https://vibeplayer.site/3b7c2853b5477b31",
+          "malep-77_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3b7c2853b5477b31/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-77_otakuvid_sub": "https://otakuvid.online/embed/rk561iiribqe",
+          "malep-77_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 78",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-78",
+      "sub": {
+        "HD-1": {
+          "malep-78_vibeplayer_sub": "https://vibeplayer.site/2dbec83461c617e9",
+          "malep-78_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2dbec83461c617e9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-78_otakuvid_sub": "https://otakuvid.online/embed/9fcwgo78oqx8",
+          "malep-78_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-78_vibeplayer_hsub": "https://vibeplayer.site/18188de4dc1696f0",
+          "malep-78_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18188de4dc1696f0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-78_otakuhg_hsub": "https://otakuhg.site/e/4c65xrrnpj7b",
+          "malep-78_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-78_otakuvid_hsub": "https://otakuvid.online/embed/gu8n5vkud3ao",
+          "malep-78_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-78_playmogo_hsub": "https://playmogo.com/e/ek3hb2gkslao",
+          "malep-78_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 79",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-79",
+      "sub": {
+        "HD-1": {
+          "malep-79_vibeplayer_sub": "https://vibeplayer.site/f12ca95eae261f23",
+          "malep-79_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f12ca95eae261f23/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-79_otakuvid_sub": "https://otakuvid.online/embed/ghg7wypy2waa",
+          "malep-79_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 80",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-80",
+      "sub": {
+        "HD-1": {
+          "malep-80_vibeplayer_sub": "https://vibeplayer.site/ecc23c7169185dd4",
+          "malep-80_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ecc23c7169185dd4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-80_otakuhg_sub": "https://otakuhg.site/e/fsqbad08njrf",
+          "malep-80_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-80_otakuvid_sub": "https://otakuvid.online/embed/uwluelb5f81y",
+          "malep-80_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-80_vibeplayer_hsub": "https://vibeplayer.site/6c2cd0504f6f936e",
+          "malep-80_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6c2cd0504f6f936e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-80_otakuhg_hsub": "https://otakuhg.site/e/s4352pqpx3tb",
+          "malep-80_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-80_otakuvid_hsub": "https://otakuvid.online/embed/x8jyqt3824m6",
+          "malep-80_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-80_playmogo_hsub": "https://playmogo.com/e/x65jgh8qyval",
+          "malep-80_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 81",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-81",
+      "sub": {
+        "HD-1": {
+          "malep-81_vibeplayer_sub": "https://vibeplayer.site/7147db4381537f94",
+          "malep-81_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7147db4381537f94/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-81_otakuvid_sub": "https://otakuvid.online/embed/thdee6slpzzr",
+          "malep-81_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-81_vibeplayer_hsub": "https://vibeplayer.site/f99b1e73850d470d",
+          "malep-81_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f99b1e73850d470d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-81_otakuhg_hsub": "https://otakuhg.site/e/u2zkzcpgjv1l",
+          "malep-81_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-81_otakuvid_hsub": "https://otakuvid.online/embed/aijx0upw2is8",
+          "malep-81_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-81_playmogo_hsub": "https://playmogo.com/e/1tpzrkzvxlrx",
+          "malep-81_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 82",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-82",
+      "sub": {
+        "HD-1": {
+          "malep-82_vibeplayer_sub": "https://vibeplayer.site/81e9601ed9fbc4de",
+          "malep-82_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/81e9601ed9fbc4de/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-82_otakuvid_sub": "https://otakuvid.online/embed/vayw7jhjisbq",
+          "malep-82_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 83",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-83",
+      "sub": {
+        "HD-1": {
+          "malep-83_vibeplayer_sub": "https://vibeplayer.site/703d39995ba71afb",
+          "malep-83_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/703d39995ba71afb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-83_otakuvid_sub": "https://otakuvid.online/embed/o6nc4fbsd9w7",
+          "malep-83_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-83_vibeplayer_hsub": "https://vibeplayer.site/2ccce20546497028",
+          "malep-83_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ccce20546497028/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-83_otakuvid_hsub": "https://otakuvid.online/embed/s8jt7k6lugap",
+          "malep-83_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-83_playmogo_hsub": "https://playmogo.com/e/lg0ebt4toh38",
+          "malep-83_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 84",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-84",
+      "sub": {
+        "HD-1": {
+          "malep-84_vibeplayer_sub": "https://vibeplayer.site/1f12b97f921e2b88",
+          "malep-84_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f12b97f921e2b88/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-84_otakuvid_sub": "https://otakuvid.online/embed/hlqun4vckloh",
+          "malep-84_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-84_vibeplayer_hsub": "https://vibeplayer.site/1958715dd6cb09ee",
+          "malep-84_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1958715dd6cb09ee/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-84_otakuvid_hsub": "https://otakuvid.online/embed/sdhr50g1gpcc",
+          "malep-84_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-84_playmogo_hsub": "https://playmogo.com/e/ax4fq0svgj2g",
+          "malep-84_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 85",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-85",
+      "sub": {
+        "HD-1": {
+          "malep-85_vibeplayer_sub": "https://vibeplayer.site/aa9352690f0e362f",
+          "malep-85_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa9352690f0e362f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-85_otakuvid_sub": "https://otakuvid.online/embed/z90s39npye7t",
+          "malep-85_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-85_vibeplayer_hsub": "https://vibeplayer.site/654536092f452a64",
+          "malep-85_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/654536092f452a64/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-85_otakuhg_hsub": "https://otakuhg.site/e/hrj6r5xafz1y",
+          "malep-85_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-85_otakuvid_hsub": "https://otakuvid.online/embed/ln1duxl8ega1",
+          "malep-85_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-85_playmogo_hsub": "https://playmogo.com/e/y5q7qsqz9e49",
+          "malep-85_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 86",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-86",
+      "sub": {
+        "HD-1": {
+          "malep-86_vibeplayer_sub": "https://vibeplayer.site/244c3ec67e0d59b0",
+          "malep-86_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/244c3ec67e0d59b0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-86_otakuvid_sub": "https://otakuvid.online/embed/s8o908t2e8bf",
+          "malep-86_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-86_vibeplayer_hsub": "https://vibeplayer.site/830fe207ac317384",
+          "malep-86_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/830fe207ac317384/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-86_otakuhg_hsub": "https://otakuhg.site/e/i4kdppmh72i4",
+          "malep-86_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-86_otakuvid_hsub": "https://otakuvid.online/embed/3o647s6f7of7",
+          "malep-86_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-86_playmogo_hsub": "https://playmogo.com/e/tzka02ldwwii",
+          "malep-86_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 87",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-87",
+      "sub": {
+        "HD-1": {
+          "malep-87_vibeplayer_sub": "https://vibeplayer.site/6d262684b2de7425",
+          "malep-87_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d262684b2de7425/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-87_otakuvid_sub": "https://otakuvid.online/embed/3lev6u3vblj2",
+          "malep-87_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 88",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-88",
+      "sub": {
+        "HD-1": {
+          "malep-88_vibeplayer_sub": "https://vibeplayer.site/cf6092a84cd49f08",
+          "malep-88_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf6092a84cd49f08/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-88_otakuvid_sub": "https://otakuvid.online/embed/c37p08nktkie",
+          "malep-88_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-88_vibeplayer_hsub": "https://vibeplayer.site/bb0ffa70a9196d8b",
+          "malep-88_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb0ffa70a9196d8b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-88_otakuvid_hsub": "https://otakuvid.online/embed/tpltcdz40c0r",
+          "malep-88_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-88_playmogo_hsub": "https://playmogo.com/e/y91i1nc7l8ww",
+          "malep-88_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 89",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-89",
+      "sub": {
+        "HD-1": {
+          "malep-89_vibeplayer_sub": "https://vibeplayer.site/034141a7e92f4c12",
+          "malep-89_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/034141a7e92f4c12/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-89_otakuvid_sub": "https://otakuvid.online/embed/tygzwgk37cf3",
+          "malep-89_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-89_vibeplayer_hsub": "https://vibeplayer.site/111a9388111c29fd",
+          "malep-89_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/111a9388111c29fd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-89_otakuhg_hsub": "https://otakuhg.site/e/w7yuud0oja6v",
+          "malep-89_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-89_otakuvid_hsub": "https://otakuvid.online/embed/jo5h5gv9dmul",
+          "malep-89_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-89_playmogo_hsub": "https://playmogo.com/e/yjmma4n64bvm",
+          "malep-89_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 90",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-90",
+      "sub": {
+        "HD-1": {
+          "malep-90_vibeplayer_sub": "https://vibeplayer.site/4e445d99fdb44a5b",
+          "malep-90_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e445d99fdb44a5b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-90_otakuvid_sub": "https://otakuvid.online/embed/h050iyn8ew1g",
+          "malep-90_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 91",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-91",
+      "sub": {
+        "HD-1": {
+          "malep-91_vibeplayer_sub": "https://vibeplayer.site/3722e9bd0f812696",
+          "malep-91_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3722e9bd0f812696/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-91_otakuvid_sub": "https://otakuvid.online/embed/7ln34bhc9sc3",
+          "malep-91_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-91_vibeplayer_hsub": "https://vibeplayer.site/976199cf1dedcbd5",
+          "malep-91_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/976199cf1dedcbd5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-91_otakuvid_hsub": "https://otakuvid.online/embed/ml8ca5hfk9ae",
+          "malep-91_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-91_playmogo_hsub": "https://playmogo.com/e/emrskzgkojl2",
+          "malep-91_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 92",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-92",
+      "sub": {
+        "HD-1": {
+          "malep-92_vibeplayer_sub": "https://vibeplayer.site/d9877cb27caaedd2",
+          "malep-92_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9877cb27caaedd2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-92_otakuvid_sub": "https://otakuvid.online/embed/oxv8pyqmw1id",
+          "malep-92_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-92_vibeplayer_hsub": "https://vibeplayer.site/9f52e87f5159582a",
+          "malep-92_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9f52e87f5159582a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-92_otakuhg_hsub": "https://otakuhg.site/e/gi7qga6bdkrj",
+          "malep-92_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-92_otakuvid_hsub": "https://otakuvid.online/embed/5wzzp3be70qp",
+          "malep-92_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-92_playmogo_hsub": "https://playmogo.com/e/6cdqmug1td4z",
+          "malep-92_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 93",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-93",
+      "sub": {
+        "HD-1": {
+          "malep-93_vibeplayer_sub": "https://vibeplayer.site/85b2656d832b6601",
+          "malep-93_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/85b2656d832b6601/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-93_otakuvid_sub": "https://otakuvid.online/embed/4p5ar9gq4v8t",
+          "malep-93_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-93_vibeplayer_hsub": "https://vibeplayer.site/648fe21c743a84ce",
+          "malep-93_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/648fe21c743a84ce/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-93_otakuhg_hsub": "https://otakuhg.site/e/es7v2u6mf5um",
+          "malep-93_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-93_otakuvid_hsub": "https://otakuvid.online/embed/425fj1s8gnsn",
+          "malep-93_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-93_playmogo_hsub": "https://playmogo.com/e/ghfzcp8pcvr1",
+          "malep-93_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 94",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-94",
+      "sub": {
+        "HD-1": {
+          "malep-94_vibeplayer_sub": "https://vibeplayer.site/681797c332dd3545",
+          "malep-94_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/681797c332dd3545/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-94_otakuvid_sub": "https://otakuvid.online/embed/wfn2f9oub4u2",
+          "malep-94_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 95",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-95",
+      "sub": {
+        "HD-1": {
+          "malep-95_vibeplayer_sub": "https://vibeplayer.site/a38312c6e7216f64",
+          "malep-95_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a38312c6e7216f64/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-95_otakuvid_sub": "https://otakuvid.online/embed/1nzufeeu1dbw",
+          "malep-95_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-95_vibeplayer_hsub": "https://vibeplayer.site/d95f4295d599ad62",
+          "malep-95_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d95f4295d599ad62/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-95_otakuhg_hsub": "https://otakuhg.site/e/vzxru5m8lcqy",
+          "malep-95_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-95_otakuvid_hsub": "https://otakuvid.online/embed/tph5ezmb9mb1",
+          "malep-95_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-95_playmogo_hsub": "https://playmogo.com/e/emrss2z2tqsi",
+          "malep-95_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 96",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-96",
+      "sub": {
+        "HD-1": {
+          "malep-96_vibeplayer_sub": "https://vibeplayer.site/3478de7edc98c401",
+          "malep-96_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3478de7edc98c401/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-96_otakuvid_sub": "https://otakuvid.online/embed/459lwrtzkihg",
+          "malep-96_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-96_vibeplayer_hsub": "https://vibeplayer.site/7a09f89d93b38128",
+          "malep-96_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a09f89d93b38128/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-96_otakuvid_hsub": "https://otakuvid.online/embed/r64f8quxry9c",
+          "malep-96_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-96_playmogo_hsub": "https://playmogo.com/e/wbnihfwjvx0g",
+          "malep-96_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 97",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-97",
+      "sub": {
+        "HD-1": {
+          "malep-97_vibeplayer_sub": "https://vibeplayer.site/bc3295a02807233c",
+          "malep-97_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc3295a02807233c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-97_otakuvid_sub": "https://otakuvid.online/embed/c9zllnycsphd",
+          "malep-97_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 98",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-98",
+      "sub": {
+        "HD-1": {
+          "malep-98_vibeplayer_sub": "https://vibeplayer.site/3530217c15ba8b21",
+          "malep-98_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3530217c15ba8b21/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-98_otakuvid_sub": "https://otakuvid.online/embed/3h79q8yqb9dg",
+          "malep-98_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-98_vibeplayer_hsub": "https://vibeplayer.site/da3b7fce5bb3a0eb",
+          "malep-98_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/da3b7fce5bb3a0eb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-98_otakuhg_hsub": "https://otakuhg.site/e/ewytsrhxn0xo",
+          "malep-98_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-98_otakuvid_hsub": "https://otakuvid.online/embed/gz4s05xu3sy1",
+          "malep-98_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-98_playmogo_hsub": "https://playmogo.com/e/e18xmqslcwvh",
+          "malep-98_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 99",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-99",
+      "sub": {
+        "HD-1": {
+          "malep-99_vibeplayer_sub": "https://vibeplayer.site/0e6f444591854e4d",
+          "malep-99_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e6f444591854e4d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-99_otakuvid_sub": "https://otakuvid.online/embed/d8zk7s7wn91b",
+          "malep-99_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-99_vibeplayer_hsub": "https://vibeplayer.site/2e09c5165a0c73c6",
+          "malep-99_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e09c5165a0c73c6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-99_otakuhg_hsub": "https://otakuhg.site/e/g2dtpsfqorwc",
+          "malep-99_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-99_otakuvid_hsub": "https://otakuvid.online/embed/iavdkflby9vy",
+          "malep-99_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-99_playmogo_hsub": "https://playmogo.com/e/9u1j16qtov5i",
+          "malep-99_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 100",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-100",
+      "sub": {
+        "HD-1": {
+          "malep-100_vibeplayer_sub": "https://vibeplayer.site/2c94c2abcf06e909",
+          "malep-100_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c94c2abcf06e909/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-100_otakuvid_sub": "https://otakuvid.online/embed/rvtirdv18i8j",
+          "malep-100_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 101",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-101",
+      "sub": {
+        "HD-1": {
+          "malep-101_vibeplayer_sub": "https://vibeplayer.site/13c908595969743e",
+          "malep-101_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13c908595969743e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-101_otakuvid_sub": "https://otakuvid.online/embed/21sstcf8jau1",
+          "malep-101_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-101_vibeplayer_hsub": "https://vibeplayer.site/b0bbbe98f0b123f2",
+          "malep-101_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b0bbbe98f0b123f2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-101_otakuhg_hsub": "https://otakuhg.site/e/h1wzz55z1vwd",
+          "malep-101_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-101_otakuvid_hsub": "https://otakuvid.online/embed/5g97rlcuxtl4",
+          "malep-101_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-101_playmogo_hsub": "https://playmogo.com/e/rj1kum5hbjp7",
+          "malep-101_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 102",
+      "episode_url": "https://hianime.ad/watch/kodocha/ep-102",
+      "sub": {
+        "HD-1": {
+          "malep-102_vibeplayer_sub": "https://vibeplayer.site/0d85fa307dd2595a",
+          "malep-102_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d85fa307dd2595a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-102_otakuvid_sub": "https://otakuvid.online/embed/cdfbb1wt9n21",
+          "malep-102_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-102_vibeplayer_hsub": "https://vibeplayer.site/6761029f524336a3",
+          "malep-102_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6761029f524336a3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-102_otakuhg_hsub": "https://otakuhg.site/e/xrhkk9h8rki2",
+          "malep-102_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-102_otakuvid_hsub": "https://otakuvid.online/embed/o9drjfxrtu9i",
+          "malep-102_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-102_playmogo_hsub": "https://playmogo.com/e/8t5qmmey1cfj",
+          "malep-102_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

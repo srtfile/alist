@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kittys Studio",
+  "anime_url": "https://hianime.ad/anime/kittys-studio",
+  "slug": "kittys-studio",
+  "mal_id": 4023,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:32:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Blooming Good Morning",
+      "episode_url": "https://hianime.ad/watch/kittys-studio/ep-1",
+      "sub": {
+        "HD-1": {
+          "4023-malep-1_vibeplayer_sub": "https://vibeplayer.site/61bfc198cd18707f",
+          "4023-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61bfc198cd18707f/master.m3u8"
+        },
+        "Earnvids": {
+          "4023-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6pso4hnztwp9",
+          "4023-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4023-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0bf248e02b14ec5e",
+          "4023-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0bf248e02b14ec5e/master.m3u8"
+        },
+        "Earnvids": {
+          "4023-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nvaf1zwfw4ke",
+          "4023-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4023-malep-1_playmogo_hsub": "https://playmogo.com/e/3cgob99npdh0",
+          "4023-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

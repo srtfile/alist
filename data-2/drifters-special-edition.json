@@ -1,0 +1,52 @@
+{
+  "anime_name": "Drifters Special Edition",
+  "anime_url": "https://hianime.ad/anime/drifters-special-edition",
+  "slug": "drifters-special-edition",
+  "mal_id": 51569,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:59:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/drifters-special-edition/ep-1",
+      "sub": {
+        "HD-1": {
+          "51569-malep-1_vibeplayer_sub": "https://vibeplayer.site/303701b2b34e798b",
+          "51569-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/303701b2b34e798b/master.m3u8"
+        },
+        "HD-2": {
+          "51569-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcb8502cce434849054e48efb91d399e64h",
+          "51569-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "51569-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sthhczzd927j",
+          "51569-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51569-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dabd122ea1e53eec",
+          "51569-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dabd122ea1e53eec/master.m3u8"
+        },
+        "HD-2": {
+          "51569-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag96184811e60cd3af188a1f03195322b44h",
+          "51569-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "51569-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z39tq75kazl7",
+          "51569-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51569-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rcvg6y4d93bq",
+          "51569-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51569-malep-1_playmogo_hsub": "https://playmogo.com/e/1gywnemv00gm",
+          "51569-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "anime_name": "Lupin Iii Alcatraz Connection",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-alcatraz-connection",
+  "slug": "lupin-iii-alcatraz-connection",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:58:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-alcatraz-connection/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/a90abc1f4c298414",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a90abc1f4c298414/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/skw69cdkvo0n",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/047622b8c1926c94",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/047622b8c1926c94/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/c6hv2rggc97u",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/06e5cc8a270324fb",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/06e5cc8a270324fb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r3roame5iu9l",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/0f5hdcazezfb",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

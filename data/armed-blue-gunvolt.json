@@ -1,0 +1,65 @@
+{
+  "anime_name": "Armed Blue Gunvolt",
+  "anime_url": "https://hianime.ad/anime/armed-blue-gunvolt",
+  "slug": "armed-blue-gunvolt",
+  "mal_id": 33475,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:17:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Magnificent Blade, Rin Onigawara",
+      "episode_url": "https://hianime.ad/watch/armed-blue-gunvolt/ep-1",
+      "sub": {
+        "HD-1": {
+          "33475-malep-1_vibeplayer_sub": "https://vibeplayer.site/55c78f9fec55098e",
+          "33475-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55c78f9fec55098e/master.m3u8"
+        },
+        "HD-2": {
+          "33475-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc3a96acd60cb06f206729a195fe252d14h",
+          "33475-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "33475-malep-1_otakuhg_sub": "https://otakuhg.site/e/td7afcunfnpt",
+          "33475-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33475-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rpcuo6xjhyug",
+          "33475-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33475-malep-1_vibeplayer_dub": "https://vibeplayer.site/6e729d44999d3413",
+          "33475-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6e729d44999d3413/master.m3u8"
+        },
+        "HD-2": {
+          "33475-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag3c1d76b29cbd01519191226c87a392ee4h",
+          "33475-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "33475-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0rbhgme7r68m",
+          "33475-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33475-malep-1_vibeplayer_hsub": "https://vibeplayer.site/978a13e4b1f9e976",
+          "33475-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/978a13e4b1f9e976/master.m3u8"
+        },
+        "HD-2": {
+          "33475-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agad268ab425a4c10da82ab2d57fb52eca4h",
+          "33475-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33475-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1m80yyl7ugds",
+          "33475-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33475-malep-1_playmogo_hsub": "https://playmogo.com/e/tkvnaah0fvbm",
+          "33475-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "anime_name": "Devilman The Birth",
+  "anime_url": "https://hianime.ad/anime/devilman-the-birth",
+  "slug": "devilman-the-birth",
+  "mal_id": 589,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:19:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Birth of Gin, a Little Hero!",
+      "episode_url": "https://hianime.ad/watch/devilman-the-birth/ep-1",
+      "sub": {
+        "HD-1": {
+          "589-malep-1_vibeplayer_sub": "https://vibeplayer.site/8fd962d79e8b1b3c",
+          "589-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8fd962d79e8b1b3c/master.m3u8"
+        },
+        "HD-2": {
+          "589-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga2fd9165dd1936ecc60a04130f31704a4h",
+          "589-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "589-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6rqo1c75llag",
+          "589-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "589-malep-1_vibeplayer_dub": "https://vibeplayer.site/54b6b7f4ada3e811",
+          "589-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/54b6b7f4ada3e811/master.m3u8"
+        },
+        "HD-2": {
+          "589-malep-1_vibeplayer_dub": "https://vibeplayer.site/age0bfd6aad85399ac638e16ae8316a3454h",
+          "589-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "589-malep-1_otakuhg_dub": "https://otakuhg.site/e/7rlklncbye2p",
+          "589-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "589-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qs0a04fy03gd",
+          "589-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "589-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb25169f8d34d177",
+          "589-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb25169f8d34d177/master.m3u8"
+        },
+        "HD-2": {
+          "589-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag33ac17db6aa19eb4399f3f1ffd395e6c4h",
+          "589-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "589-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0n89l1a41mbm",
+          "589-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "589-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vh6qmpj25hw0",
+          "589-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "589-malep-1_playmogo_hsub": "https://playmogo.com/e/wbzy319w3hn6",
+          "589-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Full Metal Panic Movie 3 Into The Blue",
+  "anime_url": "https://hianime.ad/anime/full-metal-panic-movie-3-into-the-blue",
+  "slug": "full-metal-panic-movie-3-into-the-blue",
+  "mal_id": 71,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:10:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Guy I Kinda Like is a Sergeant",
+      "episode_url": "https://hianime.ad/watch/full-metal-panic-movie-3-into-the-blue/ep-1",
+      "sub": {
+        "HD-1": {
+          "71-malep-1_vibeplayer_sub": "https://vibeplayer.site/57f9700041cacd1a",
+          "71-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/57f9700041cacd1a/master.m3u8"
+        },
+        "HD-2": {
+          "71-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7b4d53ecbbaa9149d6068b3e5ef3da5b4h",
+          "71-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "71-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ao24u12ijxbd",
+          "71-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "71-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f68f8e88f851343",
+          "71-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f68f8e88f851343/master.m3u8"
+        },
+        "HD-2": {
+          "71-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6a417e3944c545284659630c8705c61a4h",
+          "71-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "71-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9ljvbowd8b4x",
+          "71-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "71-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eypanc4ar29n",
+          "71-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "71-malep-1_playmogo_hsub": "https://playmogo.com/e/qsj0pakvzmdt",
+          "71-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

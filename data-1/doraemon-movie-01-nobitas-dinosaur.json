@@ -1,0 +1,56 @@
+{
+  "anime_name": "Doraemon Movie 01 Nobitas Dinosaur",
+  "anime_url": "https://hianime.ad/anime/doraemon-movie-01-nobitas-dinosaur",
+  "slug": "doraemon-movie-01-nobitas-dinosaur",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:02:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/doraemon-movie-01-nobitas-dinosaur/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/0e4a6030af5d7e56",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e4a6030af5d7e56/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agc5031f0b6760d253982c526ec49d61e14h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/8gcr6q1hj6sb",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/tsr5jitsqrhy",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e7f1b99aabb99316",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e7f1b99aabb99316/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfc8f71724fbfb7a415fb6c94306f1af44h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/0z5fxymy241v",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/88w54kx1ecjp",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/440hd8k2lh5i",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

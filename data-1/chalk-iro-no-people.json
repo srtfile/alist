@@ -1,0 +1,48 @@
+{
+  "anime_name": "Chalk Iro No People",
+  "anime_url": "https://hianime.ad/anime/chalk-iro-no-people",
+  "slug": "chalk-iro-no-people",
+  "mal_id": 56348,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:16:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Person in the Dungeon",
+      "episode_url": "https://hianime.ad/watch/chalk-iro-no-people/ep-1",
+      "sub": {
+        "HD-1": {
+          "56348-malep-1_vibeplayer_sub": "https://vibeplayer.site/87d864ec728d4128",
+          "56348-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87d864ec728d4128/master.m3u8"
+        },
+        "HD-2": {
+          "56348-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7de880d6fa42f36307d1fd0889afa4b24h",
+          "56348-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "56348-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ok2c39dnfk5p",
+          "56348-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56348-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f7d01d870e7a16df",
+          "56348-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f7d01d870e7a16df/master.m3u8"
+        },
+        "HD-2": {
+          "56348-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc7bdb9c6124a0bb0bb66e416a9458c544h",
+          "56348-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56348-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wvbgkeh3hp3f",
+          "56348-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56348-malep-1_playmogo_hsub": "https://playmogo.com/e/b55b7rq49z94",
+          "56348-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

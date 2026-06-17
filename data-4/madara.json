@@ -1,0 +1,79 @@
+{
+  "anime_name": "Madara",
+  "anime_url": "https://hianime.ad/anime/madara",
+  "slug": "madara",
+  "mal_id": 38778,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T06:19:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ao-chan Can't Enjoy Her Youth",
+      "episode_url": "https://hianime.ad/watch/madara/ep-1",
+      "sub": {
+        "HD-1": {
+          "38778-malep-1_vibeplayer_sub": "https://vibeplayer.site/76232ad291f204a8",
+          "38778-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76232ad291f204a8/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-1_otakuvid_sub": "https://otakuvid.online/embed/93lj8z035n0i",
+          "38778-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38778-malep-1_vibeplayer_dub": "https://vibeplayer.site/9c493ae705e08eea",
+          "38778-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9c493ae705e08eea/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z03irxwrz3b8",
+          "38778-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "38778-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6075d8633ccdc18b",
+          "38778-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6075d8633ccdc18b/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9q843y9npkj6",
+          "38778-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ao-chan Can't Easily Decline",
+      "episode_url": "https://hianime.ad/watch/madara/ep-2",
+      "sub": {
+        "HD-1": {
+          "38778-malep-2_vibeplayer_sub": "https://vibeplayer.site/1e9dcefeff822f2e",
+          "38778-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e9dcefeff822f2e/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-2_otakuvid_sub": "https://otakuvid.online/embed/e8cgtgnest68",
+          "38778-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38778-malep-2_vibeplayer_dub": "https://vibeplayer.site/85c7284f89e20023",
+          "38778-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/85c7284f89e20023/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-2_otakuvid_dub": "https://otakuvid.online/embed/zfkiehs58442",
+          "38778-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "38778-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3ad5afdb88647151",
+          "38778-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ad5afdb88647151/master.m3u8"
+        },
+        "Earnvids": {
+          "38778-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/d4969onyx5nq",
+          "38778-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

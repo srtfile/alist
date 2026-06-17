@@ -1,0 +1,48 @@
+{
+  "anime_name": "Bungaku Shoujo Kyou No Oyatsu Hatsukoi",
+  "anime_url": "https://hianime.ad/anime/bungaku-shoujo-kyou-no-oyatsu-hatsukoi",
+  "slug": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi",
+  "mal_id": 7193,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T14:31:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "No Longer Human - Chapter 1: Double Suicide in Kamakura",
+      "episode_url": "https://hianime.ad/watch/bungaku-shoujo-kyou-no-oyatsu-hatsukoi/ep-1",
+      "sub": {
+        "HD-1": {
+          "7193-malep-1_vibeplayer_sub": "https://vibeplayer.site/96b5f9ade292e3fe",
+          "7193-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96b5f9ade292e3fe/master.m3u8"
+        },
+        "HD-2": {
+          "7193-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag908a5055dd88bc4f7d919c4c2aabb41d4h",
+          "7193-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "7193-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zmjv1g7p6qyj",
+          "7193-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7193-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85c7a8b0cf19b50b",
+          "7193-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85c7a8b0cf19b50b/master.m3u8"
+        },
+        "HD-2": {
+          "7193-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7c74159b9489974157277dd972cb702d4h",
+          "7193-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7193-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/17od7dzxc8da",
+          "7193-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7193-malep-1_playmogo_hsub": "https://playmogo.com/e/1tt6o1xwqn9k",
+          "7193-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "anime_name": "Mobile Suit Gundam Iii Encounters In Space",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-iii-encounters-in-space",
+  "slug": "mobile-suit-gundam-iii-encounters-in-space",
+  "mal_id": 80,
+  "total_episodes": 1,
+  "captured_at": "2026-06-11T07:53:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gundam Rising!!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-iii-encounters-in-space/ep-1",
+      "sub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_sub": "https://vibeplayer.site/62df400f4ed649f3",
+          "80-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62df400f4ed649f3/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a5i2ol7of2jo",
+          "80-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_dub": "https://vibeplayer.site/21fb73942784f569",
+          "80-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/21fb73942784f569/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6ezv0hqhnuw1",
+          "80-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7727cc214fc116c4",
+          "80-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7727cc214fc116c4/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zlwtjywlmd21",
+          "80-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9keb9706rdb9",
+          "80-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_hsub": "https://playmogo.com/e/y5w00xksjhwv",
+          "80-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

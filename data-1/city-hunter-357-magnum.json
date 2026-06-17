@@ -1,0 +1,36 @@
+{
+  "anime_name": "City Hunter 357 Magnum",
+  "anime_url": "https://hianime.ad/anime/city-hunter-357-magnum",
+  "slug": "city-hunter-357-magnum",
+  "mal_id": 1470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:01:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "One Cool Sweeper! XYZ is a Dangerous Cocktail",
+      "episode_url": "https://hianime.ad/watch/city-hunter-357-magnum/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "1470-malep-1_vibeplayer_raw": "https://vibeplayer.site/87d57568a5feaa8f",
+          "1470-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/87d57568a5feaa8f/master.m3u8"
+        },
+        "HD-2": {
+          "1470-malep-1_vibeplayer_raw": "https://vibeplayer.site/ag34510e47f12a9bb661c1e8e23e987f4b4h",
+          "1470-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "Earnvids": {
+          "1470-malep-1_otakuvid_raw": "https://otakuvid.online/embed/gyutbg3f0u1f",
+          "1470-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "1470-malep-1_playmogo_raw": "https://playmogo.com/e/01smar81l5zl",
+          "1470-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "anime_name": "Anpanman Purun The Soap Bubble",
+  "anime_url": "https://hianime.ad/anime/anpanman-purun-the-soap-bubble",
+  "slug": "anpanman-purun-the-soap-bubble",
+  "mal_id": 1960,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T20:42:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/anpanman-purun-the-soap-bubble/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1960-malep-1_vibeplayer_dub": "https://vibeplayer.site/07c096f0c9469843",
+          "1960-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07c096f0c9469843/master.m3u8"
+        },
+        "HD-2": {
+          "1960-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag87d4e5b27de6f9960d73d215b77e42504h",
+          "1960-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1960-malep-1_otakuhg_dub": "https://otakuhg.site/e/tu2fnj1q484i",
+          "1960-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1960-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9ldh9css28nt",
+          "1960-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

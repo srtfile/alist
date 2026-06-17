@@ -1,0 +1,61 @@
+{
+  "anime_name": "Ghost In The Shell Arise Border 1 Ghost Pain",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-arise-border-1-ghost-pain",
+  "slug": "ghost-in-the-shell-arise-border-1-ghost-pain",
+  "mal_id": 29325,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:30:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ghost Stands Alone, Part 1",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-arise-border-1-ghost-pain/ep-1",
+      "sub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_sub": "https://vibeplayer.site/272cb5b97c063fa2",
+          "29325-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/272cb5b97c063fa2/master.m3u8"
+        },
+        "StreamHG": {
+          "29325-malep-1_otakuhg_sub": "https://otakuhg.site/e/qrpqjbaxhgr2",
+          "29325-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4tvffsp6odmy",
+          "29325-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_dub": "https://vibeplayer.site/4992018586410191",
+          "29325-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4992018586410191/master.m3u8"
+        },
+        "StreamHG": {
+          "29325-malep-1_otakuhg_dub": "https://otakuhg.site/e/cowkz2c9ah94",
+          "29325-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0h79tdzjog9m",
+          "29325-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29325-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b1347fd6b117035d",
+          "29325-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b1347fd6b117035d/master.m3u8"
+        },
+        "StreamHG": {
+          "29325-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s7lgzwpo9t7p",
+          "29325-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29325-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/91xa4b2u83ye",
+          "29325-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29325-malep-1_playmogo_hsub": "https://playmogo.com/e/4fi0pjcts2ez",
+          "29325-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

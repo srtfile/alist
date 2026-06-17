@@ -1,0 +1,67 @@
+{
+  "anime_name": "Delinquent Detective",
+  "anime_url": "https://hianime.ad/anime/delinquent-detective",
+  "slug": "delinquent-detective",
+  "mal_id": 15109,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T07:58:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Counterfeit Currency Printing Incident / Inaba Hiroshi Kidnapping Incident",
+      "episode_url": "https://hianime.ad/watch/delinquent-detective/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "15109-malep-1_vibeplayer_dub": "https://vibeplayer.site/d9fd26bbcd1de125",
+          "15109-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d9fd26bbcd1de125/master.m3u8"
+        },
+        "HD-2": {
+          "15109-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf9c60075953de9778af21d78f636184c4h",
+          "15109-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "15109-malep-1_otakuhg_dub": "https://otakuhg.site/e/i56i3hkzo775",
+          "15109-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "15109-malep-1_otakuvid_dub": "https://otakuvid.online/embed/kpaulnq8e4mk",
+          "15109-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "15109-malep-1_playmogo_dub": "https://playmogo.com/e/xzfhq2h4vcv5",
+          "15109-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Secret Documents / Mother and Child Stalker Case",
+      "episode_url": "https://hianime.ad/watch/delinquent-detective/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "15109-malep-2_vibeplayer_dub": "https://vibeplayer.site/c0ac79481a0da405",
+          "15109-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c0ac79481a0da405/master.m3u8"
+        },
+        "HD-2": {
+          "15109-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag3507feb1343f3e6069b4221c9427e1ce4h",
+          "15109-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "15109-malep-2_otakuhg_dub": "https://otakuhg.site/e/m7lfgt5t8pol",
+          "15109-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "15109-malep-2_otakuvid_dub": "https://otakuvid.online/embed/8gy3i8lfycwj",
+          "15109-malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "15109-malep-2_playmogo_dub": "https://playmogo.com/e/90h4n8ocu45g",
+          "15109-malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

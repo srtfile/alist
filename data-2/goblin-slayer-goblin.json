@@ -1,0 +1,65 @@
+{
+  "anime_name": "Goblin Slayer Goblin",
+  "anime_url": "https://hianime.ad/anime/goblin-slayer-goblin",
+  "slug": "goblin-slayer-goblin",
+  "mal_id": 37349,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:23:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Fate of Particular Adventurers",
+      "episode_url": "https://hianime.ad/watch/goblin-slayer-goblin/ep-1",
+      "sub": {
+        "HD-1": {
+          "37349-malep-1_vibeplayer_sub": "https://vibeplayer.site/a3827321790d5b25",
+          "37349-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3827321790d5b25/master.m3u8"
+        },
+        "StreamHG": {
+          "37349-malep-1_otakuhg_sub": "https://otakuhg.site/e/4iecifgrt67j",
+          "37349-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37349-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4ftl0zq3om5x",
+          "37349-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37349-malep-1_vibeplayer_dub": "https://vibeplayer.site/079a6dad90380361",
+          "37349-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/079a6dad90380361/master.m3u8"
+        },
+        "StreamHG": {
+          "37349-malep-1_otakuhg_dub": "https://otakuhg.site/e/rfhrs3y99hem",
+          "37349-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37349-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3gjdrlvdgy1b",
+          "37349-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "37349-malep-1_playmogo_dub": "https://playmogo.com/e/xpze3pe8upp2",
+          "37349-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37349-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eb09f9407634f740",
+          "37349-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eb09f9407634f740/master.m3u8"
+        },
+        "StreamHG": {
+          "37349-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b7n6ll4oqveh",
+          "37349-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37349-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rt5a1s7bwecu",
+          "37349-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37349-malep-1_playmogo_hsub": "https://playmogo.com/e/prvox7uqxkyw",
+          "37349-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

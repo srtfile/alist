@@ -1,0 +1,73 @@
+{
+  "anime_name": "Card Captor Sakura Movie 2 The Sealed Card",
+  "anime_url": "https://hianime.ad/anime/card-captor-sakura-movie-2-the-sealed-card",
+  "slug": "card-captor-sakura-movie-2-the-sealed-card",
+  "mal_id": 232,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:16:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sakura and the Strange Magical Book",
+      "episode_url": "https://hianime.ad/watch/card-captor-sakura-movie-2-the-sealed-card/ep-1",
+      "sub": {
+        "HD-1": {
+          "232-malep-1_vibeplayer_sub": "https://vibeplayer.site/571b28ca596e545f",
+          "232-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/571b28ca596e545f/master.m3u8"
+        },
+        "HD-2": {
+          "232-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd2cf88fda54d03e93400178e29ee7b3b4h",
+          "232-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "232-malep-1_otakuhg_sub": "https://otakuhg.site/e/pk3dvcfya94h",
+          "232-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "232-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vklvkbg2j5w8",
+          "232-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "232-malep-1_playmogo_sub": "https://playmogo.com/e/czjl08tgq0kp",
+          "232-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "232-malep-1_vibeplayer_dub": "https://vibeplayer.site/125bbb16e2c9e2b3",
+          "232-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/125bbb16e2c9e2b3/master.m3u8"
+        },
+        "HD-2": {
+          "232-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag44eeb2ae8256ba630202c7262d9822644h",
+          "232-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "232-malep-1_otakuvid_dub": "https://otakuvid.online/embed/83ibegut0sxm",
+          "232-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "232-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1ea126a2d6caf5fd",
+          "232-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1ea126a2d6caf5fd/master.m3u8"
+        },
+        "HD-2": {
+          "232-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc974114f7662b9494ad0d749aff372ea4h",
+          "232-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "232-malep-1_otakuhg_hsub": "https://otakuhg.site/e/64fn2l6pecy1",
+          "232-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "232-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ibbpea89t9rn",
+          "232-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "232-malep-1_playmogo_hsub": "https://playmogo.com/e/mnx9xggsb9qf",
+          "232-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

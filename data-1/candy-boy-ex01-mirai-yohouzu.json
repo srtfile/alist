@@ -1,0 +1,48 @@
+{
+  "anime_name": "Candy Boy Ex01 Mirai Yohouzu",
+  "anime_url": "https://hianime.ad/anime/candy-boy-ex01-mirai-yohouzu",
+  "slug": "candy-boy-ex01-mirai-yohouzu",
+  "mal_id": 2800,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:03:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Pretty, Lasso-Wielding Girl",
+      "episode_url": "https://hianime.ad/watch/candy-boy-ex01-mirai-yohouzu/ep-1",
+      "sub": {
+        "HD-1": {
+          "2800-malep-1_vibeplayer_sub": "https://vibeplayer.site/a504d27c110b295a",
+          "2800-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a504d27c110b295a/master.m3u8"
+        },
+        "HD-2": {
+          "2800-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0171c938c748001071fa260406f059e64h",
+          "2800-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2800-malep-1_otakuvid_sub": "https://otakuvid.online/embed/avgxkkjc733i",
+          "2800-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2800-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c39e940d5fe61e9e",
+          "2800-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c39e940d5fe61e9e/master.m3u8"
+        },
+        "HD-2": {
+          "2800-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9e43f77ef25f70281b6d2cdfc2962fcd4h",
+          "2800-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2800-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5o3o2coh5rnk",
+          "2800-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2800-malep-1_playmogo_hsub": "https://playmogo.com/e/pxdqi4heu63t",
+          "2800-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

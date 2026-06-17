@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gundam Reconguista In G Movie",
+  "anime_url": "https://hianime.ad/anime/gundam-reconguista-in-g-movie",
+  "slug": "gundam-reconguista-in-g-movie",
+  "mal_id": 23259,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:19:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Mysterious Mobile Suit",
+      "episode_url": "https://hianime.ad/watch/gundam-reconguista-in-g-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "23259-malep-1_vibeplayer_sub": "https://vibeplayer.site/4db0c503ba53b35d",
+          "23259-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4db0c503ba53b35d/master.m3u8"
+        },
+        "Earnvids": {
+          "23259-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4v81008lg32n",
+          "23259-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "23259-malep-1_playmogo_sub": "https://playmogo.com/e/nxanxksbmfm3",
+          "23259-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23259-malep-1_vibeplayer_hsub": "https://vibeplayer.site/584ed89118c1dab7",
+          "23259-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/584ed89118c1dab7/master.m3u8"
+        },
+        "StreamHG": {
+          "23259-malep-1_otakuhg_hsub": "https://otakuhg.site/e/k2xlb0tge6ub",
+          "23259-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23259-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/17ejr7h71agb",
+          "23259-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23259-malep-1_playmogo_hsub": "https://playmogo.com/e/7dkgo5me97or",
+          "23259-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

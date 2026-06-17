@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kitarou Tanjou Gegege No Nazo",
+  "anime_url": "https://hianime.ad/anime/kitarou-tanjou-gegege-no-nazo",
+  "slug": "kitarou-tanjou-gegege-no-nazo",
+  "mal_id": 5688,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:32:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ghost Nighter",
+      "episode_url": "https://hianime.ad/watch/kitarou-tanjou-gegege-no-nazo/ep-1",
+      "sub": {
+        "HD-1": {
+          "5688-malep-1_vibeplayer_sub": "https://vibeplayer.site/358d62a8ed825977",
+          "5688-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/358d62a8ed825977/master.m3u8"
+        },
+        "Earnvids": {
+          "5688-malep-1_otakuvid_sub": "https://otakuvid.online/embed/syee7il8f8qc",
+          "5688-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5688-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3f5e81f11e700e90",
+          "5688-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f5e81f11e700e90/master.m3u8"
+        },
+        "StreamHG": {
+          "5688-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7wih86yubfrw",
+          "5688-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5688-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0rhbu6hzavfh",
+          "5688-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5688-malep-1_playmogo_hsub": "https://playmogo.com/e/57u9pvsq1t56",
+          "5688-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

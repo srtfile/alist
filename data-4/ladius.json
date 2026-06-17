@@ -1,0 +1,44 @@
+{
+  "anime_name": "Ladius",
+  "anime_url": "https://hianime.ad/anime/ladius",
+  "slug": "ladius",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:14:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/ladius/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b0ed1bc2fe01bc97",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b0ed1bc2fe01bc97/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/q9tnjmroznj6",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/b3d45eea26ebef03",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3d45eea26ebef03/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/hj6or7dn52me",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5p92w3gy5xni",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9lil5eu0dct9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

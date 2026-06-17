@@ -1,0 +1,48 @@
+{
+  "anime_name": "Kamisama Hajimemashita Kamisama Shiawase Ni Naru",
+  "anime_url": "https://hianime.ad/anime/kamisama-hajimemashita-kamisama-shiawase-ni-naru",
+  "slug": "kamisama-hajimemashita-kamisama-shiawase-ni-naru",
+  "mal_id": 25681,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:54:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I've Started the 'Being a God' Thing Again",
+      "episode_url": "https://hianime.ad/watch/kamisama-hajimemashita-kamisama-shiawase-ni-naru/ep-1",
+      "sub": {
+        "HD-1": {
+          "25681-malep-1_vibeplayer_sub": "https://vibeplayer.site/3f54d79e7e12382a",
+          "25681-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f54d79e7e12382a/master.m3u8"
+        },
+        "StreamHG": {
+          "25681-malep-1_otakuhg_sub": "https://otakuhg.site/e/8wj12z9ntc9e",
+          "25681-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25681-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pk8wdjzna57b",
+          "25681-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25681-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a54fdd120b5cd35d",
+          "25681-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a54fdd120b5cd35d/master.m3u8"
+        },
+        "StreamHG": {
+          "25681-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4wth8mundkhu",
+          "25681-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25681-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7ayz0emca3to",
+          "25681-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25681-malep-1_playmogo_hsub": "https://playmogo.com/e/aah42dnxjb73",
+          "25681-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

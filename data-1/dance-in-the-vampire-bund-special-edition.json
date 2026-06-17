@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dance In The Vampire Bund Special Edition",
+  "anime_url": "https://hianime.ad/anime/dance-in-the-vampire-bund-special-edition",
+  "slug": "dance-in-the-vampire-bund-special-edition",
+  "mal_id": 6747,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:37:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Prom Night",
+      "episode_url": "https://hianime.ad/watch/dance-in-the-vampire-bund-special-edition/ep-1",
+      "sub": {
+        "HD-1": {
+          "6747-malep-1_vibeplayer_sub": "https://vibeplayer.site/1375b2ade41a72c1",
+          "6747-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1375b2ade41a72c1/master.m3u8"
+        },
+        "HD-2": {
+          "6747-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga953445e1c8003af35fd4acd5de845124h",
+          "6747-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "6747-malep-1_otakuhg_sub": "https://otakuhg.site/e/gseo9mfum4u1",
+          "6747-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6747-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lg0ozt3ki8j1",
+          "6747-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6747-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1e674fa281a705d1",
+          "6747-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e674fa281a705d1/master.m3u8"
+        },
+        "HD-2": {
+          "6747-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag025f223c19dcca9abebcc120e63a0b0d4h",
+          "6747-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "6747-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ods3hq6eshjz",
+          "6747-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6747-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/en419g14jxy7",
+          "6747-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6747-malep-1_playmogo_hsub": "https://playmogo.com/e/2k0tadoaudds",
+          "6747-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

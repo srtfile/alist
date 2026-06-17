@@ -1,0 +1,48 @@
+{
+  "anime_name": "Digimon Savers Agumon Gaomon Lalamon Bakuretsu Jougai Last Battle",
+  "anime_url": "https://hianime.ad/anime/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle",
+  "slug": "digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle",
+  "mal_id": 859,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:33:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I am Masaru! Cockatrimon Strikes",
+      "episode_url": "https://hianime.ad/watch/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "859-malep-1_vibeplayer_sub": "https://vibeplayer.site/c7d868c7e2a3bfd1",
+          "859-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c7d868c7e2a3bfd1/master.m3u8"
+        },
+        "HD-2": {
+          "859-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag49a9f00d2330f5cf64784a179a8406f94h",
+          "859-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "859-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ka0wt4ofmzgn",
+          "859-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "859-malep-1_vibeplayer_hsub": "https://vibeplayer.site/20d585220f80adf1",
+          "859-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/20d585220f80adf1/master.m3u8"
+        },
+        "HD-2": {
+          "859-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag28965734d68b67c5eb9e603a2047beef4h",
+          "859-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "859-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bp80kd9rr1t6",
+          "859-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "859-malep-1_playmogo_hsub": "https://playmogo.com/e/ffeu4qbuwmm9",
+          "859-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

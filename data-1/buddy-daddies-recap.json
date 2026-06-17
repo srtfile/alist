@@ -1,0 +1,56 @@
+{
+  "anime_name": "Buddy Daddies Recap",
+  "anime_url": "https://hianime.ad/anime/buddy-daddies-recap",
+  "slug": "buddy-daddies-recap",
+  "mal_id": 53411,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:45:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Piece of Cake",
+      "episode_url": "https://hianime.ad/watch/buddy-daddies-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "53411-malep-1_vibeplayer_sub": "https://vibeplayer.site/cc2e8661c7a8222f",
+          "53411-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cc2e8661c7a8222f/master.m3u8"
+        },
+        "HD-2": {
+          "53411-malep-1_vibeplayer_sub": "https://vibeplayer.site/aga40e17d861ac67b57783390eee49449e4h",
+          "53411-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "53411-malep-1_otakuhg_sub": "https://otakuhg.site/e/4d3z3wg6mdu7",
+          "53411-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53411-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zpngekhl20l6",
+          "53411-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53411-malep-1_vibeplayer_hsub": "https://vibeplayer.site/56e12d3964503141",
+          "53411-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/56e12d3964503141/master.m3u8"
+        },
+        "HD-2": {
+          "53411-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf190d0bb034c5aa1add0373176e923564h",
+          "53411-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53411-malep-1_otakuhg_hsub": "https://otakuhg.site/e/knlmyv3kmlsl",
+          "53411-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53411-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f7ebdbyybi8l",
+          "53411-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53411-malep-1_playmogo_hsub": "https://playmogo.com/e/ahcpvsscf37r",
+          "53411-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Kizumonogatari Ii Nekketsu",
+  "anime_url": "https://hianime.ad/anime/kizumonogatari-ii-nekketsu",
+  "slug": "kizumonogatari-ii-nekketsu",
+  "mal_id": 5395,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:33:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It has appeared! The Dinosaur Robo!!",
+      "episode_url": "https://hianime.ad/watch/kizumonogatari-ii-nekketsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "5395-malep-1_vibeplayer_sub": "https://vibeplayer.site/b6240a4b5a06b98f",
+          "5395-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b6240a4b5a06b98f/master.m3u8"
+        },
+        "StreamHG": {
+          "5395-malep-1_otakuhg_sub": "https://otakuhg.site/e/tk1h2lssr4sr",
+          "5395-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5395-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2feq99fyjfnz",
+          "5395-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "5395-malep-1_playmogo_sub": "https://playmogo.com/e/tcjxdxs18dj1",
+          "5395-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5395-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a94c6857c735c27e",
+          "5395-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a94c6857c735c27e/master.m3u8"
+        },
+        "StreamHG": {
+          "5395-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r6ax08tglp55",
+          "5395-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5395-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e6wcnh5avxv2",
+          "5395-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5395-malep-1_playmogo_hsub": "https://playmogo.com/e/4mugf0p32vco",
+          "5395-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

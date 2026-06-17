@@ -1,0 +1,103 @@
+{
+  "anime_name": "Lupin Iii Jigens Gravestone",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-jigens-gravestone",
+  "slug": "lupin-iii-jigens-gravestone",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T06:00:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Part 01",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-jigens-gravestone/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/4854b40e619778e6",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4854b40e619778e6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/82dcsmsa3mox",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/608ef41e0510fcff",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/608ef41e0510fcff/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/105f6j8ruivm",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/5hcclzmv5ceu",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/bae9968f789c3c4f",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bae9968f789c3c4f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/do0i41251wyg",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jf0mb0hp2opj",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/5k7lp3cgb489",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Part 02",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-jigens-gravestone/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/a06236754b3fc00d",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a06236754b3fc00d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/idlluvnxqqto",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/c30fa08f7ec21a41",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c30fa08f7ec21a41/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/vqwddnao91e0",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/idd3m7d3atd2",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/c2cb7d386f74e799",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c2cb7d386f74e799/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/jkltgt4wvgqn",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/hdsmpv1clob5",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/2upmnvhbptry",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

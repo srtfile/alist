@@ -1,0 +1,1294 @@
+{
+  "anime_name": "Claymore",
+  "anime_url": "https://hianime.ad/anime/claymore",
+  "slug": "claymore",
+  "mal_id": 1818,
+  "total_episodes": 26,
+  "captured_at": "2026-06-03T06:10:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Great Sword",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-1",
+      "sub": {
+        "HD-1": {
+          "1818-malep-1_vibeplayer_sub": "https://vibeplayer.site/b8d08d48c5389f4f",
+          "1818-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8d08d48c5389f4f/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0bd03bd12b49b223e81758a13e9cfb5b4h",
+          "1818-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-1_otakuhg_sub": "https://otakuhg.site/e/hygrmuex62vp",
+          "1818-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gzaxcg1n1mii",
+          "1818-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-1_vibeplayer_dub": "https://vibeplayer.site/bd62276bb7429d46",
+          "1818-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bd62276bb7429d46/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag061a6fa76b67b2a8a753156a5384e3ec4h",
+          "1818-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-1_otakuhg_dub": "https://otakuhg.site/e/a49826xo4o0h",
+          "1818-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-1_otakuvid_dub": "https://otakuvid.online/embed/gy56cxsnv6dr",
+          "1818-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Black Card",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-2",
+      "sub": {
+        "HD-1": {
+          "1818-malep-2_vibeplayer_sub": "https://vibeplayer.site/58d8740ce2352017",
+          "1818-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58d8740ce2352017/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-2_vibeplayer_sub": "https://vibeplayer.site/agf549ceddb8c2f715d8595ea18b651db04h",
+          "1818-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-2_otakuhg_sub": "https://otakuhg.site/e/atv43vxs6xik",
+          "1818-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vlth9azgz5b6",
+          "1818-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-2_vibeplayer_dub": "https://vibeplayer.site/8b2017b10089b1df",
+          "1818-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8b2017b10089b1df/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-2_vibeplayer_dub": "https://vibeplayer.site/ag00fe4dd3056211bb3cf5b52f0e3a4cd34h",
+          "1818-malep-2_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-2_otakuhg_dub": "https://otakuhg.site/e/pkpokqjgsv53",
+          "1818-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-2_otakuvid_dub": "https://otakuvid.online/embed/lth8pj4h7fgs",
+          "1818-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-2_vibeplayer_hsub": "https://vibeplayer.site/792fc3f1f4702896",
+          "1818-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/792fc3f1f4702896/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag5289b65e492cffe0028f03bd01fe7ebb4h",
+          "1818-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-2_otakuhg_hsub": "https://otakuhg.site/e/qgw3idu2paep",
+          "1818-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/fpkobiqph4me",
+          "1818-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-2_playmogo_hsub": "https://playmogo.com/e/3p8gq4v3r2vq",
+          "1818-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Darkness in Paradise",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-3",
+      "sub": {
+        "HD-1": {
+          "1818-malep-3_vibeplayer_sub": "https://vibeplayer.site/a38da4c1e7794e3f",
+          "1818-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a38da4c1e7794e3f/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-3_vibeplayer_sub": "https://vibeplayer.site/ag93e6d1f77f3d3d747c77662559776ebb4h",
+          "1818-malep-3_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-3_otakuhg_sub": "https://otakuhg.site/e/ajrhzosx64yq",
+          "1818-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-3_otakuvid_sub": "https://otakuvid.online/embed/egwb40vj3pa2",
+          "1818-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-3_vibeplayer_dub": "https://vibeplayer.site/7abf674a45eecea0",
+          "1818-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7abf674a45eecea0/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-3_vibeplayer_dub": "https://vibeplayer.site/agb9fa9d089da6484aaef54af9b922cbd94h",
+          "1818-malep-3_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-3_otakuhg_dub": "https://otakuhg.site/e/dqw7eg5o95b5",
+          "1818-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-3_otakuvid_dub": "https://otakuvid.online/embed/5vu4jg415zzp",
+          "1818-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-3_vibeplayer_hsub": "https://vibeplayer.site/06c980c6d8dac6a9",
+          "1818-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/06c980c6d8dac6a9/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag6dfc925e070a96af6379431c09bd558f4h",
+          "1818-malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-3_otakuhg_hsub": "https://otakuhg.site/e/xvgqj0z460zh",
+          "1818-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/1ydkiy34qzkh",
+          "1818-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-3_playmogo_hsub": "https://playmogo.com/e/zx75hw34q2pq",
+          "1818-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Clare's Awakening",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-4",
+      "sub": {
+        "HD-1": {
+          "1818-malep-4_vibeplayer_sub": "https://vibeplayer.site/8a3ea953cf315701",
+          "1818-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a3ea953cf315701/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-4_vibeplayer_sub": "https://vibeplayer.site/aga40d07c374b83c6917eb4f32c3a240954h",
+          "1818-malep-4_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-4_otakuhg_sub": "https://otakuhg.site/e/56fa8e7bzgw3",
+          "1818-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-4_otakuvid_sub": "https://otakuvid.online/embed/lnfp1evu3g6o",
+          "1818-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-4_vibeplayer_dub": "https://vibeplayer.site/3b60e64fa0f9781d",
+          "1818-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b60e64fa0f9781d/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-4_vibeplayer_dub": "https://vibeplayer.site/agff2ff318204a1a78ff38b4e7475591524h",
+          "1818-malep-4_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-4_otakuvid_dub": "https://otakuvid.online/embed/rt32w2wpf2w2",
+          "1818-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Teresa of the Faint Smile",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-5",
+      "sub": {
+        "HD-1": {
+          "1818-malep-5_vibeplayer_sub": "https://vibeplayer.site/139f13a2b71369fd",
+          "1818-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/139f13a2b71369fd/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-5_vibeplayer_sub": "https://vibeplayer.site/ag56330f279c557ecf00f1a8c87c202c2a4h",
+          "1818-malep-5_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-5_otakuhg_sub": "https://otakuhg.site/e/vm0ufyghwwi0",
+          "1818-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-5_otakuvid_sub": "https://otakuvid.online/embed/p6ox9nddd38c",
+          "1818-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-5_vibeplayer_dub": "https://vibeplayer.site/4429977c7d5854db",
+          "1818-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4429977c7d5854db/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-5_vibeplayer_dub": "https://vibeplayer.site/ag35c4d610f5b1b573a0b0e3aedaab6d964h",
+          "1818-malep-5_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-5_otakuhg_dub": "https://otakuhg.site/e/hqkmgk57ydy9",
+          "1818-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-5_otakuvid_dub": "https://otakuvid.online/embed/z76a03p0qxl6",
+          "1818-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Teresa and Clare",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-6",
+      "sub": {
+        "HD-1": {
+          "1818-malep-6_vibeplayer_sub": "https://vibeplayer.site/4df05664be284ea2",
+          "1818-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4df05664be284ea2/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-6_vibeplayer_sub": "https://vibeplayer.site/ag7b9b40658717c720b83df0ea1590b1254h",
+          "1818-malep-6_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-6_otakuhg_sub": "https://otakuhg.site/e/1rde3npqdvel",
+          "1818-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-6_otakuvid_sub": "https://otakuvid.online/embed/d692ut32dbvg",
+          "1818-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-6_vibeplayer_dub": "https://vibeplayer.site/564205d42044a399",
+          "1818-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/564205d42044a399/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-6_vibeplayer_dub": "https://vibeplayer.site/ag84328ee5cb2c4f50aeeaf29b1a565c534h",
+          "1818-malep-6_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-6_otakuvid_dub": "https://otakuvid.online/embed/61qd8rrg7h7y",
+          "1818-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-6_vibeplayer_hsub": "https://vibeplayer.site/65efbd1b2df5dbe2",
+          "1818-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/65efbd1b2df5dbe2/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag5d67dfd6e4de51f85d115f8949b297764h",
+          "1818-malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-6_otakuhg_hsub": "https://otakuhg.site/e/rbd9qjs3nzpu",
+          "1818-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/90fve3fmigr7",
+          "1818-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-6_playmogo_hsub": "https://playmogo.com/e/bm4cmly41llv",
+          "1818-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Marked for Death",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-7",
+      "sub": {
+        "HD-1": {
+          "1818-malep-7_vibeplayer_sub": "https://vibeplayer.site/9c59c8953875c03b",
+          "1818-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c59c8953875c03b/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-7_vibeplayer_sub": "https://vibeplayer.site/agc3b3e4d98da14fe3356bfa348cedb59d4h",
+          "1818-malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-7_otakuvid_sub": "https://otakuvid.online/embed/gawcmzeqonfi",
+          "1818-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-7_vibeplayer_dub": "https://vibeplayer.site/ef64283d62d70904",
+          "1818-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ef64283d62d70904/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-7_vibeplayer_dub": "https://vibeplayer.site/ag090966d3c7a81028f4f4a0ccd11592454h",
+          "1818-malep-7_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-7_otakuhg_dub": "https://otakuhg.site/e/zt9a801997ta",
+          "1818-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-7_otakuvid_dub": "https://otakuvid.online/embed/gd0uumklzhcq",
+          "1818-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-7_vibeplayer_hsub": "https://vibeplayer.site/6be5382aed1582da",
+          "1818-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6be5382aed1582da/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag9b5a38e584c71902a8c9eb7bbcc5ba404h",
+          "1818-malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-7_otakuhg_hsub": "https://otakuhg.site/e/933ztfliv40p",
+          "1818-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/azgzsgcryng5",
+          "1818-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-7_playmogo_hsub": "https://playmogo.com/e/z1038mn9rzx5",
+          "1818-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Awakening",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-8",
+      "sub": {
+        "HD-1": {
+          "1818-malep-8_vibeplayer_sub": "https://vibeplayer.site/7b25780af4bbe06d",
+          "1818-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7b25780af4bbe06d/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-8_vibeplayer_sub": "https://vibeplayer.site/aga82d2d24d2281070f5ccdc5be4a0e6764h",
+          "1818-malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-8_otakuvid_sub": "https://otakuvid.online/embed/6surxscomh0t",
+          "1818-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-8_vibeplayer_dub": "https://vibeplayer.site/d925e8f7b6c524b2",
+          "1818-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d925e8f7b6c524b2/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-8_vibeplayer_dub": "https://vibeplayer.site/agd30d3bb64cdab662b08cedda4dc5268a4h",
+          "1818-malep-8_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-8_otakuhg_dub": "https://otakuhg.site/e/ys7wsc5y9bug",
+          "1818-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-8_otakuvid_dub": "https://otakuvid.online/embed/2wt4a47fsskq",
+          "1818-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-8_vibeplayer_hsub": "https://vibeplayer.site/a8a3e4b762f1154b",
+          "1818-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8a3e4b762f1154b/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag786470b0d63ec235a22bffbaeca969f64h",
+          "1818-malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-8_otakuhg_hsub": "https://otakuhg.site/e/r9garngio9sm",
+          "1818-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/oydqeqxth6nd",
+          "1818-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-8_playmogo_hsub": "https://playmogo.com/e/8huamb8r88lq",
+          "1818-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Those Who Rend Asunder (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-9",
+      "sub": {
+        "HD-1": {
+          "1818-malep-9_vibeplayer_sub": "https://vibeplayer.site/cacaae3759d102fe",
+          "1818-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cacaae3759d102fe/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-9_vibeplayer_sub": "https://vibeplayer.site/agdb98a066b07eefd3202a5bc5c33410d54h",
+          "1818-malep-9_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-9_otakuhg_sub": "https://otakuhg.site/e/ptfn46wjh80r",
+          "1818-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-9_otakuvid_sub": "https://otakuvid.online/embed/fnn712zzepwv",
+          "1818-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-9_vibeplayer_dub": "https://vibeplayer.site/773cdbce8d81410c",
+          "1818-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/773cdbce8d81410c/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-9_vibeplayer_dub": "https://vibeplayer.site/ag9eca08b45716c4ac1e70693e8ebaa4f14h",
+          "1818-malep-9_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-9_otakuvid_dub": "https://otakuvid.online/embed/qpg7tetf9apn",
+          "1818-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Those Who Rend Asunder (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-10",
+      "sub": {
+        "HD-1": {
+          "1818-malep-10_vibeplayer_sub": "https://vibeplayer.site/b0fa4ae571e4494c",
+          "1818-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b0fa4ae571e4494c/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-10_vibeplayer_sub": "https://vibeplayer.site/ag5b8a167f2d0766d64d98f60dd534d6754h",
+          "1818-malep-10_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-10_otakuhg_sub": "https://otakuhg.site/e/nzpgih1vxlke",
+          "1818-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-10_otakuvid_sub": "https://otakuvid.online/embed/fgckhaye8xof",
+          "1818-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-10_vibeplayer_dub": "https://vibeplayer.site/7c9408588c645c0f",
+          "1818-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7c9408588c645c0f/master.m3u8"
+        },
+        "StreamHG": {
+          "1818-malep-10_otakuhg_dub": "https://otakuhg.site/e/vtq1a2cgjujf",
+          "1818-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-10_otakuvid_dub": "https://otakuvid.online/embed/c7q70gpc4ioe",
+          "1818-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ce06451c00171c0f",
+          "1818-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce06451c00171c0f/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-10_vibeplayer_hsub": "https://vibeplayer.site/ag39be302c69fbcf1b06051e9c53f320f14h",
+          "1818-malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-10_otakuhg_hsub": "https://otakuhg.site/e/nvfytj8fnxq0",
+          "1818-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/cef0hefhfa0l",
+          "1818-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-10_playmogo_hsub": "https://playmogo.com/e/fl9zq29zoy37",
+          "1818-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Those Who Rend Asunder (Part 3)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-11",
+      "sub": {
+        "HD-1": {
+          "1818-malep-11_vibeplayer_sub": "https://vibeplayer.site/5b12b1dc3ebf3df9",
+          "1818-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b12b1dc3ebf3df9/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-11_vibeplayer_sub": "https://vibeplayer.site/agd2a11a5d65dfa1d36a0be0c0687b95204h",
+          "1818-malep-11_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-11_otakuvid_sub": "https://otakuvid.online/embed/3ap4lsip77qo",
+          "1818-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-11_vibeplayer_dub": "https://vibeplayer.site/5011ed0ac110d6ef",
+          "1818-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5011ed0ac110d6ef/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-11_vibeplayer_dub": "https://vibeplayer.site/ag8ea000f7052bec626525a42f93a6e5874h",
+          "1818-malep-11_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-11_otakuhg_dub": "https://otakuhg.site/e/tw7g4pr8wi0u",
+          "1818-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-11_otakuvid_dub": "https://otakuvid.online/embed/hbdpm5vpa2jt",
+          "1818-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-11_vibeplayer_hsub": "https://vibeplayer.site/940de94f8207d10e",
+          "1818-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/940de94f8207d10e/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ag9b064588dd64aa01f3cfeeaca0c1c4374h",
+          "1818-malep-11_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-11_otakuhg_hsub": "https://otakuhg.site/e/al1zcv3b81e0",
+          "1818-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/jyaen9czknxh",
+          "1818-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-11_playmogo_hsub": "https://playmogo.com/e/ut0zrij1nvs3",
+          "1818-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Endless Gravestones (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-12",
+      "sub": {
+        "HD-1": {
+          "1818-malep-12_vibeplayer_sub": "https://vibeplayer.site/3dea02961c9afb11",
+          "1818-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3dea02961c9afb11/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-12_vibeplayer_sub": "https://vibeplayer.site/ag597a797b96d383d468f4ace5a964a28d4h",
+          "1818-malep-12_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-12_otakuvid_sub": "https://otakuvid.online/embed/swrk63z76bfz",
+          "1818-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-12_vibeplayer_dub": "https://vibeplayer.site/6b863ec019c7aa66",
+          "1818-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6b863ec019c7aa66/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-12_vibeplayer_dub": "https://vibeplayer.site/ag20a6f1a4d6751ab57aa79b23861c756b4h",
+          "1818-malep-12_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-12_otakuvid_dub": "https://otakuvid.online/embed/pahqm0d0gu82",
+          "1818-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-12_vibeplayer_hsub": "https://vibeplayer.site/8f336db628773a44",
+          "1818-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f336db628773a44/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-12_vibeplayer_hsub": "https://vibeplayer.site/agc44c7023ede3eb615dd7f1cc3b32021c4h",
+          "1818-malep-12_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-12_otakuhg_hsub": "https://otakuhg.site/e/ljs36dpl7osw",
+          "1818-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/7ci9qi97up8q",
+          "1818-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-12_playmogo_hsub": "https://playmogo.com/e/1uq1xal60oah",
+          "1818-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Endless Gravestones (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-13",
+      "sub": {
+        "HD-1": {
+          "1818-malep-13_vibeplayer_sub": "https://vibeplayer.site/ed5f6673c028caaa",
+          "1818-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed5f6673c028caaa/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-13_vibeplayer_sub": "https://vibeplayer.site/ag41b11df47adc468a1ad4901007e7bef74h",
+          "1818-malep-13_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-13_otakuvid_sub": "https://otakuvid.online/embed/pki0ba1t2qgs",
+          "1818-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-13_vibeplayer_dub": "https://vibeplayer.site/9a3b418d2046e875",
+          "1818-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9a3b418d2046e875/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-13_vibeplayer_dub": "https://vibeplayer.site/ag7a383edccf149a0c257af3542e9059504h",
+          "1818-malep-13_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-13_otakuvid_dub": "https://otakuvid.online/embed/p8z5ed83tjxz",
+          "1818-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-13_vibeplayer_hsub": "https://vibeplayer.site/d41aa64f6aa0c206",
+          "1818-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d41aa64f6aa0c206/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-13_vibeplayer_hsub": "https://vibeplayer.site/ag91337be27dc5ab2af0389978178963bd4h",
+          "1818-malep-13_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-13_otakuhg_hsub": "https://otakuhg.site/e/j2l26zzolvb8",
+          "1818-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/z79qt74osxn8",
+          "1818-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-13_playmogo_hsub": "https://playmogo.com/e/nbvnlhstabi1",
+          "1818-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Qualified to Fight",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-14",
+      "sub": {
+        "HD-1": {
+          "1818-malep-14_vibeplayer_sub": "https://vibeplayer.site/62ce88a34ebbc262",
+          "1818-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62ce88a34ebbc262/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-14_vibeplayer_sub": "https://vibeplayer.site/ag9811e375f8227bad6b5847fb318bec494h",
+          "1818-malep-14_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-14_otakuvid_sub": "https://otakuvid.online/embed/8m5dmse2n2wa",
+          "1818-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-14_vibeplayer_dub": "https://vibeplayer.site/f668fd7957ed9901",
+          "1818-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f668fd7957ed9901/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-14_vibeplayer_dub": "https://vibeplayer.site/ag94a9cd29be78633c0379b3825d4e5f054h",
+          "1818-malep-14_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-14_otakuvid_dub": "https://otakuvid.online/embed/cv2nedp7iqor",
+          "1818-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-14_vibeplayer_hsub": "https://vibeplayer.site/67a0fd21abc125e1",
+          "1818-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/67a0fd21abc125e1/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-14_vibeplayer_hsub": "https://vibeplayer.site/ag7d86044dba954115f7707ac370d362ef4h",
+          "1818-malep-14_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-14_otakuhg_hsub": "https://otakuhg.site/e/6mmj5euuxei4",
+          "1818-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/s2aenu8ogg76",
+          "1818-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-14_playmogo_hsub": "https://playmogo.com/e/md5hfkd2yy07",
+          "1818-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Witch's Maw (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-15",
+      "sub": {
+        "HD-1": {
+          "1818-malep-15_vibeplayer_sub": "https://vibeplayer.site/f51b0d4ef5b8c9bb",
+          "1818-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f51b0d4ef5b8c9bb/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-15_vibeplayer_sub": "https://vibeplayer.site/ag3bb6db766a757978abc6fcd4bdfa9c534h",
+          "1818-malep-15_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-15_otakuvid_sub": "https://otakuvid.online/embed/osf70dwdmc3q",
+          "1818-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-15_vibeplayer_dub": "https://vibeplayer.site/b380f52de9493166",
+          "1818-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b380f52de9493166/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-15_vibeplayer_dub": "https://vibeplayer.site/ag420fa4a25767437942babc38e4265a7a4h",
+          "1818-malep-15_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-15_otakuvid_dub": "https://otakuvid.online/embed/dwb84t4872yl",
+          "1818-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-15_vibeplayer_hsub": "https://vibeplayer.site/7cc95485a3d18b86",
+          "1818-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7cc95485a3d18b86/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-15_vibeplayer_hsub": "https://vibeplayer.site/ag1388ed802411543384c664b96a03894b4h",
+          "1818-malep-15_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-15_otakuhg_hsub": "https://otakuhg.site/e/z2j734dafblq",
+          "1818-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/3ajjioqeyxpp",
+          "1818-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-15_playmogo_hsub": "https://playmogo.com/e/mdls4it4hn2j",
+          "1818-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Witch's Maw (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-16",
+      "sub": {
+        "HD-1": {
+          "1818-malep-16_vibeplayer_sub": "https://vibeplayer.site/fb0d4ed6ca3b35dd",
+          "1818-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb0d4ed6ca3b35dd/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-16_vibeplayer_sub": "https://vibeplayer.site/ag3961968b5aa7f75d6bec40c6fbc022284h",
+          "1818-malep-16_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-16_otakuhg_sub": "https://otakuhg.site/e/g48omupw290o",
+          "1818-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-16_otakuvid_sub": "https://otakuvid.online/embed/f2fkiyawgpfz",
+          "1818-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-16_vibeplayer_dub": "https://vibeplayer.site/3f9683ff4653d4a1",
+          "1818-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f9683ff4653d4a1/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-16_vibeplayer_dub": "https://vibeplayer.site/agd1eb75d27320bcfc36858039a83f555d4h",
+          "1818-malep-16_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-16_otakuvid_dub": "https://otakuvid.online/embed/kp1tp98tjuyp",
+          "1818-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Witch's Maw (Part 3)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-17",
+      "sub": {
+        "HD-1": {
+          "1818-malep-17_vibeplayer_sub": "https://vibeplayer.site/55cf3078a5df98fa",
+          "1818-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55cf3078a5df98fa/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-17_vibeplayer_sub": "https://vibeplayer.site/ag9443a0af5643f23a3bb19dc93b1c9a614h",
+          "1818-malep-17_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-17_otakuvid_sub": "https://otakuvid.online/embed/ogqseu4exdce",
+          "1818-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-17_vibeplayer_dub": "https://vibeplayer.site/059c1cc2b742f655",
+          "1818-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/059c1cc2b742f655/master.m3u8"
+        },
+        "Earnvids": {
+          "1818-malep-17_otakuvid_dub": "https://otakuvid.online/embed/qmq971u58f7a",
+          "1818-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-17_vibeplayer_hsub": "https://vibeplayer.site/232020e76cd9f746",
+          "1818-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/232020e76cd9f746/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-17_vibeplayer_hsub": "https://vibeplayer.site/ag4e6ff944db8cbfe39b97c27e3882cdc34h",
+          "1818-malep-17_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-17_otakuhg_hsub": "https://otakuhg.site/e/2odhsudvp2vh",
+          "1818-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/rqutblt1cice",
+          "1818-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-17_playmogo_hsub": "https://playmogo.com/e/9u6fnbzphose",
+          "1818-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Carnage in the North (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-18",
+      "sub": {
+        "HD-1": {
+          "1818-malep-18_vibeplayer_sub": "https://vibeplayer.site/d08b189cd6d0c1d5",
+          "1818-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d08b189cd6d0c1d5/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-18_vibeplayer_sub": "https://vibeplayer.site/agf3b887d1f92e2eb631c3ac6f3b992eec4h",
+          "1818-malep-18_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-18_otakuhg_sub": "https://otakuhg.site/e/vm6dw37bw8fv",
+          "1818-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-18_otakuvid_sub": "https://otakuvid.online/embed/481a653qcjo2",
+          "1818-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-18_vibeplayer_dub": "https://vibeplayer.site/ffc7f882a6e5a633",
+          "1818-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ffc7f882a6e5a633/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-18_vibeplayer_dub": "https://vibeplayer.site/agbbe7754b033f9f667531ef5d185ffd584h",
+          "1818-malep-18_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-18_otakuhg_dub": "https://otakuhg.site/e/lhu6qyk0neqd",
+          "1818-malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-18_otakuvid_dub": "https://otakuvid.online/embed/42y6xl423dru",
+          "1818-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Carnage in the North (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-19",
+      "sub": {
+        "HD-1": {
+          "1818-malep-19_vibeplayer_sub": "https://vibeplayer.site/e4fb087a7cbdeaa1",
+          "1818-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e4fb087a7cbdeaa1/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-19_vibeplayer_sub": "https://vibeplayer.site/ag01c0ac208d79447c78c1eb63469fca1e4h",
+          "1818-malep-19_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-19_otakuvid_sub": "https://otakuvid.online/embed/b41l2ah35k4u",
+          "1818-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-19_vibeplayer_dub": "https://vibeplayer.site/0ab4ecbf5fb4e89e",
+          "1818-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ab4ecbf5fb4e89e/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-19_vibeplayer_dub": "https://vibeplayer.site/ag3295cb08c9458c87fb87bf066685e4a24h",
+          "1818-malep-19_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-19_otakuhg_dub": "https://otakuhg.site/e/nlah23mnm81t",
+          "1818-malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-19_otakuvid_dub": "https://otakuvid.online/embed/l37bwr3496ke",
+          "1818-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-19_vibeplayer_hsub": "https://vibeplayer.site/cd4d1bf02e2bb2fb",
+          "1818-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cd4d1bf02e2bb2fb/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-19_vibeplayer_hsub": "https://vibeplayer.site/agb4f7c3eff4eeb3bafdd8589c8dbdd6b64h",
+          "1818-malep-19_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-19_otakuhg_hsub": "https://otakuhg.site/e/kszbqdhcsic9",
+          "1818-malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/rvno3ak09a0b",
+          "1818-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-19_playmogo_hsub": "https://playmogo.com/e/jsyh9nv441o9",
+          "1818-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Carnage in the North (Part 3)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-20",
+      "sub": {
+        "HD-1": {
+          "1818-malep-20_vibeplayer_sub": "https://vibeplayer.site/31988a4d3a7a1042",
+          "1818-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/31988a4d3a7a1042/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-20_vibeplayer_sub": "https://vibeplayer.site/ag2c0c043b30cda0dc1f736bdbc50345444h",
+          "1818-malep-20_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-20_otakuhg_sub": "https://otakuhg.site/e/gj6x52nb9z3a",
+          "1818-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-20_otakuvid_sub": "https://otakuvid.online/embed/73n1164q66bg",
+          "1818-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-20_vibeplayer_dub": "https://vibeplayer.site/8030e1aabc352574",
+          "1818-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8030e1aabc352574/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-20_vibeplayer_dub": "https://vibeplayer.site/ag1abc823b8dd8c5ac6d313de1a29481904h",
+          "1818-malep-20_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-20_otakuvid_dub": "https://otakuvid.online/embed/ljfa95vmwo6b",
+          "1818-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Invasion of Pieta (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-21",
+      "sub": {
+        "HD-1": {
+          "1818-malep-21_vibeplayer_sub": "https://vibeplayer.site/83d911f0c191e1e9",
+          "1818-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/83d911f0c191e1e9/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-21_vibeplayer_sub": "https://vibeplayer.site/aga2bca59ebb4bad50075bb35745a644b74h",
+          "1818-malep-21_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-21_otakuhg_sub": "https://otakuhg.site/e/sx0rpjrnozcp",
+          "1818-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-21_otakuvid_sub": "https://otakuvid.online/embed/er24b4rrf6ds",
+          "1818-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-21_vibeplayer_dub": "https://vibeplayer.site/cfd4d46c1b39f702",
+          "1818-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cfd4d46c1b39f702/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-21_vibeplayer_dub": "https://vibeplayer.site/agbe463f1011ec1121aba9c91a86c6599f4h",
+          "1818-malep-21_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-21_otakuvid_dub": "https://otakuvid.online/embed/0yqrdfbnkvbs",
+          "1818-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Invasion of Pieta (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-22",
+      "sub": {
+        "HD-1": {
+          "1818-malep-22_vibeplayer_sub": "https://vibeplayer.site/11acc30430964020",
+          "1818-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/11acc30430964020/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-22_vibeplayer_sub": "https://vibeplayer.site/agfa3f9892c265a669a096659cf7bcebf64h",
+          "1818-malep-22_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-22_otakuhg_sub": "https://otakuhg.site/e/7rzlllreano2",
+          "1818-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-22_otakuvid_sub": "https://otakuvid.online/embed/7nnkq2knie7t",
+          "1818-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-22_vibeplayer_dub": "https://vibeplayer.site/252c409c61e1cc63",
+          "1818-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/252c409c61e1cc63/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-22_vibeplayer_dub": "https://vibeplayer.site/ag7bd8a8147d0c961b76e20c23b0eaec954h",
+          "1818-malep-22_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-22_otakuvid_dub": "https://otakuvid.online/embed/l79okvwjjim5",
+          "1818-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Critical Point (Part 1)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-23",
+      "sub": {
+        "HD-1": {
+          "1818-malep-23_vibeplayer_sub": "https://vibeplayer.site/0ba611e67045505d",
+          "1818-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ba611e67045505d/master.m3u8"
+        },
+        "Earnvids": {
+          "1818-malep-23_otakuvid_sub": "https://otakuvid.online/embed/osqmt7a9qpih",
+          "1818-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-23_vibeplayer_dub": "https://vibeplayer.site/b9c98abd5e17c66d",
+          "1818-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b9c98abd5e17c66d/master.m3u8"
+        },
+        "Earnvids": {
+          "1818-malep-23_otakuvid_dub": "https://otakuvid.online/embed/qf7y4qey8pwc",
+          "1818-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-23_vibeplayer_hsub": "https://vibeplayer.site/ad05b80750cdbf3a",
+          "1818-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ad05b80750cdbf3a/master.m3u8"
+        },
+        "StreamHG": {
+          "1818-malep-23_otakuhg_hsub": "https://otakuhg.site/e/j499ak4fwrkd",
+          "1818-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/wxpe2uphg5u5",
+          "1818-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-23_playmogo_hsub": "https://playmogo.com/e/xfosz8brvfle",
+          "1818-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Critical Point (Part 2)",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-24",
+      "sub": {
+        "HD-1": {
+          "1818-malep-24_vibeplayer_sub": "https://vibeplayer.site/9202cd2eb44c465f",
+          "1818-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9202cd2eb44c465f/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-24_vibeplayer_sub": "https://vibeplayer.site/ag2309622f31fb3d403648992f7ee074ec4h",
+          "1818-malep-24_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-24_otakuvid_sub": "https://otakuvid.online/embed/ybomrm7ngzrg",
+          "1818-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-24_vibeplayer_dub": "https://vibeplayer.site/9c22d0cea50e68fc",
+          "1818-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9c22d0cea50e68fc/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-24_vibeplayer_dub": "https://vibeplayer.site/ageee0d4f0229667f12ba0fcdefefa51384h",
+          "1818-malep-24_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-24_otakuvid_dub": "https://otakuvid.online/embed/wrubpvxurjkh",
+          "1818-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-24_vibeplayer_hsub": "https://vibeplayer.site/c3d31698134dc860",
+          "1818-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3d31698134dc860/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-24_vibeplayer_hsub": "https://vibeplayer.site/ag2dc809cff85bdbcc40ad093e896fc92e4h",
+          "1818-malep-24_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-24_otakuhg_hsub": "https://otakuhg.site/e/8n4pjhmfvnhq",
+          "1818-malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/qaf8d7ypo9o1",
+          "1818-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-24_playmogo_hsub": "https://playmogo.com/e/ej83ck4l2tip",
+          "1818-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "For Whose Sake",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-25",
+      "sub": {
+        "HD-1": {
+          "1818-malep-25_vibeplayer_sub": "https://vibeplayer.site/f22a61f61f6fb0f3",
+          "1818-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f22a61f61f6fb0f3/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-25_vibeplayer_sub": "https://vibeplayer.site/ag311730b97f1b68439e0d1575b7ec5fe44h",
+          "1818-malep-25_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-25_otakuvid_sub": "https://otakuvid.online/embed/36s4lctugi4o",
+          "1818-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-25_vibeplayer_dub": "https://vibeplayer.site/efc216ef15a15fc5",
+          "1818-malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/efc216ef15a15fc5/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-25_vibeplayer_dub": "https://vibeplayer.site/age03894ebf7f63dcd5f42bf3c8c9f738a4h",
+          "1818-malep-25_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-25_otakuvid_dub": "https://otakuvid.online/embed/g2le7k9ifvdb",
+          "1818-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-25_vibeplayer_hsub": "https://vibeplayer.site/80922f365945beee",
+          "1818-malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/80922f365945beee/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-25_vibeplayer_hsub": "https://vibeplayer.site/ag2eaaf217ba68bc8a9a7d901d8d4d1c664h",
+          "1818-malep-25_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-25_otakuhg_hsub": "https://otakuhg.site/e/x4lcaab40fw9",
+          "1818-malep-25_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-25_otakuvid_hsub": "https://otakuvid.online/embed/h6mf0vfv7nug",
+          "1818-malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-25_playmogo_hsub": "https://playmogo.com/e/03j761r2jarz",
+          "1818-malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To the Successors",
+      "episode_url": "https://hianime.ad/watch/claymore/ep-26",
+      "sub": {
+        "HD-1": {
+          "1818-malep-26_vibeplayer_sub": "https://vibeplayer.site/78443061eaf0111d",
+          "1818-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/78443061eaf0111d/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-26_vibeplayer_sub": "https://vibeplayer.site/ag2637df0ccb8d4d39ce0e347b59dc70564h",
+          "1818-malep-26_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-26_otakuvid_sub": "https://otakuvid.online/embed/i3qokruacq0k",
+          "1818-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1818-malep-26_vibeplayer_dub": "https://vibeplayer.site/a73d9ef26d6145f9",
+          "1818-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a73d9ef26d6145f9/master.m3u8"
+        },
+        "Earnvids": {
+          "1818-malep-26_otakuvid_dub": "https://otakuvid.online/embed/ryclxtk8xqfz",
+          "1818-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1818-malep-26_vibeplayer_hsub": "https://vibeplayer.site/07b1eae9918b8373",
+          "1818-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07b1eae9918b8373/master.m3u8"
+        },
+        "HD-2": {
+          "1818-malep-26_vibeplayer_hsub": "https://vibeplayer.site/ag363fcf3a819323fb292965d3b98780454h",
+          "1818-malep-26_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1818-malep-26_otakuhg_hsub": "https://otakuhg.site/e/xgctvzfpd3qt",
+          "1818-malep-26_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1818-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/oz1jtblfogwg",
+          "1818-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1818-malep-26_playmogo_hsub": "https://playmogo.com/e/c1s97rk5u3o5",
+          "1818-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

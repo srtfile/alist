@@ -1,0 +1,52 @@
+{
+  "anime_name": "Ephemere",
+  "anime_url": "https://hianime.ad/anime/ephemere",
+  "slug": "ephemere",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:31:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ONA",
+      "episode_url": "https://hianime.ad/watch/ephemere/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/96b6443eff26cf56",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96b6443eff26cf56/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag10230b4c8af92beb33d8275330a009c44h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/lbuzr9u2i2kv",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e88e615b5681efa5",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e88e615b5681efa5/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6fd8d8b083bc9aec2be031c7bc8ee4584h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/2giltn2hasei",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gwuk9eiigas7",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/sez3j89iu95l",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "anime_name": "Greed",
+  "anime_url": "https://hianime.ad/anime/greed",
+  "slug": "greed",
+  "mal_id": 5494,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:00:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Red-Haired Anne",
+      "episode_url": "https://hianime.ad/watch/greed/ep-1",
+      "sub": {
+        "HD-1": {
+          "5494-malep-1_vibeplayer_sub": "https://vibeplayer.site/b8f4bfcd20e2ccf6",
+          "5494-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8f4bfcd20e2ccf6/master.m3u8"
+        },
+        "Earnvids": {
+          "5494-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zfrqoyj15i74",
+          "5494-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5494-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8abc462120b2dc76",
+          "5494-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8abc462120b2dc76/master.m3u8"
+        },
+        "Earnvids": {
+          "5494-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7e9vrsfoyiu7",
+          "5494-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5494-malep-1_playmogo_hsub": "https://playmogo.com/e/qg2g08mc4cnh",
+          "5494-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

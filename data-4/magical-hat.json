@@ -1,0 +1,988 @@
+{
+  "anime_name": "Magical Hat",
+  "anime_url": "https://hianime.ad/anime/magical-hat",
+  "slug": "magical-hat",
+  "mal_id": 15915,
+  "total_episodes": 33,
+  "captured_at": "2026-06-17T06:37:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-1",
+      "sub": {
+        "HD-1": {
+          "15915-malep-1_vibeplayer_sub": "https://vibeplayer.site/a22a6c03097f302f",
+          "15915-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a22a6c03097f302f/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-1_otakuvid_sub": "https://otakuvid.online/embed/trpa6ptkd7n5",
+          "15915-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8e02dd852473581",
+          "15915-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8e02dd852473581/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ic0tzbr8xi78",
+          "15915-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-1_playmogo_hsub": "https://playmogo.com/e/pgil1h0cadww",
+          "15915-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-2",
+      "sub": {
+        "HD-1": {
+          "15915-malep-2_vibeplayer_sub": "https://vibeplayer.site/14096db387a0109a",
+          "15915-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/14096db387a0109a/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-2_otakuvid_sub": "https://otakuvid.online/embed/g4criq8yrjil",
+          "15915-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d8cc2a89ef87b5e4",
+          "15915-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d8cc2a89ef87b5e4/master.m3u8"
+        },
+        "StreamHG": {
+          "15915-malep-2_otakuhg_hsub": "https://otakuhg.site/e/6rg2q8n940mq",
+          "15915-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15915-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/d4yf9vu608r4",
+          "15915-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-2_playmogo_hsub": "https://playmogo.com/e/kd870zib0sb8",
+          "15915-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-3",
+      "sub": {
+        "HD-1": {
+          "15915-malep-3_vibeplayer_sub": "https://vibeplayer.site/eedbdb8066a9fc85",
+          "15915-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eedbdb8066a9fc85/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-3_otakuvid_sub": "https://otakuvid.online/embed/mpy4eai6cshe",
+          "15915-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-3_vibeplayer_hsub": "https://vibeplayer.site/d944d33fd6223080",
+          "15915-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d944d33fd6223080/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/rw310bfukx0p",
+          "15915-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-3_playmogo_hsub": "https://playmogo.com/e/ummwev1qzmyv",
+          "15915-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-4",
+      "sub": {
+        "HD-1": {
+          "15915-malep-4_vibeplayer_sub": "https://vibeplayer.site/218c42e097dd0471",
+          "15915-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/218c42e097dd0471/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-4_otakuvid_sub": "https://otakuvid.online/embed/zwj7quc92d3y",
+          "15915-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-4_vibeplayer_hsub": "https://vibeplayer.site/96bf7a72f7f16ba3",
+          "15915-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/96bf7a72f7f16ba3/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/ecsllotw98d7",
+          "15915-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-4_playmogo_hsub": "https://playmogo.com/e/e46w5rg07yn9",
+          "15915-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-5",
+      "sub": {
+        "HD-1": {
+          "15915-malep-5_vibeplayer_sub": "https://vibeplayer.site/9cd80a3e13e07a84",
+          "15915-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9cd80a3e13e07a84/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-5_otakuvid_sub": "https://otakuvid.online/embed/ify1hrsdywvz",
+          "15915-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-5_vibeplayer_hsub": "https://vibeplayer.site/f43ba2cee64ae75d",
+          "15915-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f43ba2cee64ae75d/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/p7v069mws9up",
+          "15915-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-5_playmogo_hsub": "https://playmogo.com/e/2skq7q8gj6m0",
+          "15915-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-6",
+      "sub": {
+        "HD-1": {
+          "15915-malep-6_vibeplayer_sub": "https://vibeplayer.site/45b129453d0b5876",
+          "15915-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45b129453d0b5876/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-6_otakuvid_sub": "https://otakuvid.online/embed/8wzam7qefwio",
+          "15915-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-6_vibeplayer_hsub": "https://vibeplayer.site/21d6271cecf5fbf2",
+          "15915-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/21d6271cecf5fbf2/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/isk5qrk7ko3c",
+          "15915-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-6_playmogo_hsub": "https://playmogo.com/e/y9zcqu8d59c2",
+          "15915-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-7",
+      "sub": {
+        "HD-1": {
+          "15915-malep-7_vibeplayer_sub": "https://vibeplayer.site/76674d110e7bf4a4",
+          "15915-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76674d110e7bf4a4/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-7_otakuvid_sub": "https://otakuvid.online/embed/8aeasr4xmx0f",
+          "15915-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-7_vibeplayer_hsub": "https://vibeplayer.site/a5e18b614631aaa6",
+          "15915-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a5e18b614631aaa6/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/azr7468x2y0s",
+          "15915-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-7_playmogo_hsub": "https://playmogo.com/e/vlxa2rc4p9im",
+          "15915-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-8",
+      "sub": {
+        "HD-1": {
+          "15915-malep-8_vibeplayer_sub": "https://vibeplayer.site/874fd7e5dd8aa88d",
+          "15915-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/874fd7e5dd8aa88d/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-8_otakuvid_sub": "https://otakuvid.online/embed/ik3099vma1zg",
+          "15915-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-8_vibeplayer_hsub": "https://vibeplayer.site/713bba23ca7e6508",
+          "15915-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/713bba23ca7e6508/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/tc3jzz23qebm",
+          "15915-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-8_playmogo_hsub": "https://playmogo.com/e/zxwmrrdufi9e",
+          "15915-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-9",
+      "sub": {
+        "HD-1": {
+          "15915-malep-9_vibeplayer_sub": "https://vibeplayer.site/dd8a8540a536617c",
+          "15915-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd8a8540a536617c/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-9_otakuvid_sub": "https://otakuvid.online/embed/qh7du550ttc7",
+          "15915-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-9_vibeplayer_hsub": "https://vibeplayer.site/8af3efa7de517c94",
+          "15915-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8af3efa7de517c94/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/kxixed33rixs",
+          "15915-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-9_playmogo_hsub": "https://playmogo.com/e/2ir35eep9e6l",
+          "15915-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-10",
+      "sub": {
+        "HD-1": {
+          "15915-malep-10_vibeplayer_sub": "https://vibeplayer.site/0c1aecd237fe779b",
+          "15915-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c1aecd237fe779b/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-10_otakuvid_sub": "https://otakuvid.online/embed/3d4otsoamphm",
+          "15915-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-10_vibeplayer_hsub": "https://vibeplayer.site/a7f8e785621333cc",
+          "15915-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7f8e785621333cc/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/0s4ozx8q9jqs",
+          "15915-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-10_playmogo_hsub": "https://playmogo.com/e/p0jnkv4h10z1",
+          "15915-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-11",
+      "sub": {
+        "HD-1": {
+          "15915-malep-11_vibeplayer_sub": "https://vibeplayer.site/26417b41793ae487",
+          "15915-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26417b41793ae487/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-11_otakuvid_sub": "https://otakuvid.online/embed/2uzjainhf5us",
+          "15915-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ca149d628d209abc",
+          "15915-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca149d628d209abc/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/586puns4s7jx",
+          "15915-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-11_playmogo_hsub": "https://playmogo.com/e/s2yh0z8exitz",
+          "15915-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-12",
+      "sub": {
+        "HD-1": {
+          "15915-malep-12_vibeplayer_sub": "https://vibeplayer.site/67d17487b19a8e99",
+          "15915-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/67d17487b19a8e99/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-12_otakuvid_sub": "https://otakuvid.online/embed/hj0yxyds3gs8",
+          "15915-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-12_vibeplayer_hsub": "https://vibeplayer.site/8edc27216ff6ff6f",
+          "15915-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8edc27216ff6ff6f/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/51nxyotvyajb",
+          "15915-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-12_playmogo_hsub": "https://playmogo.com/e/i2xiga3auk8z",
+          "15915-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 13",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-13",
+      "sub": {
+        "HD-1": {
+          "15915-malep-13_vibeplayer_sub": "https://vibeplayer.site/f2fd10ac2cde765e",
+          "15915-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f2fd10ac2cde765e/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-13_otakuvid_sub": "https://otakuvid.online/embed/fjfyy9xqjsgz",
+          "15915-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-13_vibeplayer_hsub": "https://vibeplayer.site/81c5f49329e0d1f7",
+          "15915-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/81c5f49329e0d1f7/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/o2dt1dvf7qeb",
+          "15915-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-13_playmogo_hsub": "https://playmogo.com/e/kq75pt3vvkrn",
+          "15915-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 14",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-14",
+      "sub": {
+        "HD-1": {
+          "15915-malep-14_vibeplayer_sub": "https://vibeplayer.site/90de0c83be1ad2b5",
+          "15915-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/90de0c83be1ad2b5/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-14_otakuvid_sub": "https://otakuvid.online/embed/76nno1ds156b",
+          "15915-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-14_vibeplayer_hsub": "https://vibeplayer.site/52e0cbf639f2afa6",
+          "15915-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/52e0cbf639f2afa6/master.m3u8"
+        },
+        "StreamHG": {
+          "15915-malep-14_otakuhg_hsub": "https://otakuhg.site/e/e4n6wz34bbul",
+          "15915-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15915-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/rtj1nj0y31ks",
+          "15915-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-14_playmogo_hsub": "https://playmogo.com/e/cadw77flm4yt",
+          "15915-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 15",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-15",
+      "sub": {
+        "HD-1": {
+          "15915-malep-15_vibeplayer_sub": "https://vibeplayer.site/009083a7a2cfa5fe",
+          "15915-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/009083a7a2cfa5fe/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-15_otakuvid_sub": "https://otakuvid.online/embed/056kqos6zajo",
+          "15915-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-15_vibeplayer_hsub": "https://vibeplayer.site/b51e329e893798bd",
+          "15915-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b51e329e893798bd/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/6oww6ea4xvlw",
+          "15915-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-15_playmogo_hsub": "https://playmogo.com/e/uzfgvb8a2iqz",
+          "15915-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 16",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-16",
+      "sub": {
+        "HD-1": {
+          "15915-malep-16_vibeplayer_sub": "https://vibeplayer.site/e8e3d5fa599a59b9",
+          "15915-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8e3d5fa599a59b9/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-16_otakuvid_sub": "https://otakuvid.online/embed/jou1ny3yb0xb",
+          "15915-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-16_vibeplayer_hsub": "https://vibeplayer.site/ca1b4d5c5099f894",
+          "15915-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca1b4d5c5099f894/master.m3u8"
+        },
+        "StreamHG": {
+          "15915-malep-16_otakuhg_hsub": "https://otakuhg.site/e/4na15g2c09j9",
+          "15915-malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15915-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/nx09tho72wc8",
+          "15915-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-16_playmogo_hsub": "https://playmogo.com/e/dct6b5hyaq1h",
+          "15915-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 17",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-17",
+      "sub": {
+        "HD-1": {
+          "15915-malep-17_vibeplayer_sub": "https://vibeplayer.site/24f12317e96e2674",
+          "15915-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/24f12317e96e2674/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-17_otakuvid_sub": "https://otakuvid.online/embed/iq994uwb18ip",
+          "15915-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-17_vibeplayer_hsub": "https://vibeplayer.site/d118e78fadd4aec9",
+          "15915-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d118e78fadd4aec9/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/fyeshaapclug",
+          "15915-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-17_playmogo_hsub": "https://playmogo.com/e/vanwnhgjgatu",
+          "15915-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 18",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-18",
+      "sub": {
+        "HD-1": {
+          "15915-malep-18_vibeplayer_sub": "https://vibeplayer.site/aa6e94f310942123",
+          "15915-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa6e94f310942123/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-18_otakuvid_sub": "https://otakuvid.online/embed/yc17pj2k4jjm",
+          "15915-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-18_vibeplayer_hsub": "https://vibeplayer.site/0c7de7d6ba68ebe6",
+          "15915-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0c7de7d6ba68ebe6/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/991kkugzna1w",
+          "15915-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-18_playmogo_hsub": "https://playmogo.com/e/e20hava8ns80",
+          "15915-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 19",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-19",
+      "sub": {
+        "HD-1": {
+          "15915-malep-19_vibeplayer_sub": "https://vibeplayer.site/514d1429eb7a1a38",
+          "15915-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/514d1429eb7a1a38/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-19_otakuvid_sub": "https://otakuvid.online/embed/paajnvp5ub2u",
+          "15915-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-19_vibeplayer_hsub": "https://vibeplayer.site/e4993d04b3933863",
+          "15915-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4993d04b3933863/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/9jhud1dfosp2",
+          "15915-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-19_playmogo_hsub": "https://playmogo.com/e/wk07jz21w3yl",
+          "15915-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 20",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-20",
+      "sub": {
+        "HD-1": {
+          "15915-malep-20_vibeplayer_sub": "https://vibeplayer.site/258feb7b414819ce",
+          "15915-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/258feb7b414819ce/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-20_otakuvid_sub": "https://otakuvid.online/embed/0f80sq2wh6i8",
+          "15915-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-20_vibeplayer_hsub": "https://vibeplayer.site/bb417a068b8217af",
+          "15915-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb417a068b8217af/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/cmpt9acpql5r",
+          "15915-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-20_playmogo_hsub": "https://playmogo.com/e/egjzt7xm858y",
+          "15915-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 21",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-21",
+      "sub": {
+        "HD-1": {
+          "15915-malep-21_vibeplayer_sub": "https://vibeplayer.site/e82ab204943a3772",
+          "15915-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e82ab204943a3772/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-21_otakuvid_sub": "https://otakuvid.online/embed/aywjnqhl1jss",
+          "15915-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-21_vibeplayer_hsub": "https://vibeplayer.site/c986ee607665f659",
+          "15915-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c986ee607665f659/master.m3u8"
+        },
+        "StreamHG": {
+          "15915-malep-21_otakuhg_hsub": "https://otakuhg.site/e/605i3u7u371a",
+          "15915-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15915-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/kx28rbw4sguj",
+          "15915-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-21_playmogo_hsub": "https://playmogo.com/e/qmtmj017zmfo",
+          "15915-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 22",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-22",
+      "sub": {
+        "HD-1": {
+          "15915-malep-22_vibeplayer_sub": "https://vibeplayer.site/560b37089be8e0f5",
+          "15915-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/560b37089be8e0f5/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-22_otakuvid_sub": "https://otakuvid.online/embed/g6izddk606gm",
+          "15915-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-22_vibeplayer_hsub": "https://vibeplayer.site/3ef235ce4e263540",
+          "15915-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ef235ce4e263540/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/qy6qh4w6qk8n",
+          "15915-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-22_playmogo_hsub": "https://playmogo.com/e/fjnwvr7b58ne",
+          "15915-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-23",
+      "sub": {
+        "HD-1": {
+          "15915-malep-23_vibeplayer_sub": "https://vibeplayer.site/2cf18fd0bc4deced",
+          "15915-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2cf18fd0bc4deced/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-23_otakuvid_sub": "https://otakuvid.online/embed/gshfbuxkd57i",
+          "15915-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-23_vibeplayer_hsub": "https://vibeplayer.site/9d475c6efda7892c",
+          "15915-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9d475c6efda7892c/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/xos63qdijicu",
+          "15915-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-23_playmogo_hsub": "https://playmogo.com/e/0n9v98dqke25",
+          "15915-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 24",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-24",
+      "sub": {
+        "HD-1": {
+          "15915-malep-24_vibeplayer_sub": "https://vibeplayer.site/066832ffc62a35a4",
+          "15915-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/066832ffc62a35a4/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-24_otakuvid_sub": "https://otakuvid.online/embed/9wydy42d99ds",
+          "15915-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-24_vibeplayer_hsub": "https://vibeplayer.site/3a97d542b7942803",
+          "15915-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a97d542b7942803/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/5npgsnotjul2",
+          "15915-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-24_playmogo_hsub": "https://playmogo.com/e/2xpa4r1rb3q9",
+          "15915-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 25",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-25",
+      "sub": {
+        "HD-1": {
+          "15915-malep-25_vibeplayer_sub": "https://vibeplayer.site/88c117d0a826b3b4",
+          "15915-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88c117d0a826b3b4/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-25_otakuvid_sub": "https://otakuvid.online/embed/51axp9u2bis4",
+          "15915-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-25_vibeplayer_hsub": "https://vibeplayer.site/d9a5627419246140",
+          "15915-malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d9a5627419246140/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-25_otakuvid_hsub": "https://otakuvid.online/embed/9dplf5bhuc9l",
+          "15915-malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-25_playmogo_hsub": "https://playmogo.com/e/m8pqpq2lwrzw",
+          "15915-malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 26",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-26",
+      "sub": {
+        "HD-1": {
+          "15915-malep-26_vibeplayer_sub": "https://vibeplayer.site/575f00da249313ed",
+          "15915-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/575f00da249313ed/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-26_otakuvid_sub": "https://otakuvid.online/embed/dc1wgrpjiid1",
+          "15915-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-26_vibeplayer_hsub": "https://vibeplayer.site/39bc3c61ce872beb",
+          "15915-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39bc3c61ce872beb/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/kbtwos332cfo",
+          "15915-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-26_playmogo_hsub": "https://playmogo.com/e/nbyzwdsv1aua",
+          "15915-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 27",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-27",
+      "sub": {
+        "HD-1": {
+          "15915-malep-27_vibeplayer_sub": "https://vibeplayer.site/cba4a171c33a4825",
+          "15915-malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cba4a171c33a4825/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-27_otakuvid_sub": "https://otakuvid.online/embed/klnb2mlmojnf",
+          "15915-malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-27_vibeplayer_hsub": "https://vibeplayer.site/05ff658198ca4ab3",
+          "15915-malep-27_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/05ff658198ca4ab3/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-27_otakuvid_hsub": "https://otakuvid.online/embed/yppzupql2fbn",
+          "15915-malep-27_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-27_playmogo_hsub": "https://playmogo.com/e/capwab9ky8mo",
+          "15915-malep-27_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 28",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-28",
+      "sub": {
+        "HD-1": {
+          "15915-malep-28_vibeplayer_sub": "https://vibeplayer.site/d2524c956aa9bb24",
+          "15915-malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2524c956aa9bb24/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-28_otakuvid_sub": "https://otakuvid.online/embed/82gv1xogqf05",
+          "15915-malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-28_vibeplayer_hsub": "https://vibeplayer.site/c106a814979a7005",
+          "15915-malep-28_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c106a814979a7005/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-28_otakuvid_hsub": "https://otakuvid.online/embed/iwuocwg7lpx8",
+          "15915-malep-28_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-28_playmogo_hsub": "https://playmogo.com/e/wachghqgw6fh",
+          "15915-malep-28_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 29",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-29",
+      "sub": {
+        "HD-1": {
+          "15915-malep-29_vibeplayer_sub": "https://vibeplayer.site/a4938f72d73e69be",
+          "15915-malep-29_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a4938f72d73e69be/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-29_otakuvid_sub": "https://otakuvid.online/embed/6f7vgvr2acz0",
+          "15915-malep-29_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-29_vibeplayer_hsub": "https://vibeplayer.site/ae77fbaa7599f057",
+          "15915-malep-29_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae77fbaa7599f057/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-29_otakuvid_hsub": "https://otakuvid.online/embed/vov5e3hsifkw",
+          "15915-malep-29_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-29_playmogo_hsub": "https://playmogo.com/e/ncgepkblap9q",
+          "15915-malep-29_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 30",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-30",
+      "sub": {
+        "HD-1": {
+          "15915-malep-30_vibeplayer_sub": "https://vibeplayer.site/4202066fbec49293",
+          "15915-malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4202066fbec49293/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-30_otakuvid_sub": "https://otakuvid.online/embed/8m8k65rpzes8",
+          "15915-malep-30_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-30_vibeplayer_hsub": "https://vibeplayer.site/91299d2fb7627dc8",
+          "15915-malep-30_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/91299d2fb7627dc8/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-30_otakuvid_hsub": "https://otakuvid.online/embed/nf99u2yvjn0c",
+          "15915-malep-30_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-30_playmogo_hsub": "https://playmogo.com/e/znt2apppjk21",
+          "15915-malep-30_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 31",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-31",
+      "sub": {
+        "HD-1": {
+          "15915-malep-31_vibeplayer_sub": "https://vibeplayer.site/835dea99d6242ffb",
+          "15915-malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/835dea99d6242ffb/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-31_otakuvid_sub": "https://otakuvid.online/embed/jqby93fl8kzk",
+          "15915-malep-31_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-31_vibeplayer_hsub": "https://vibeplayer.site/9418820edc680e4d",
+          "15915-malep-31_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9418820edc680e4d/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-31_otakuvid_hsub": "https://otakuvid.online/embed/p22evx1gg68c",
+          "15915-malep-31_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-31_playmogo_hsub": "https://playmogo.com/e/gwkyjc1zn8lk",
+          "15915-malep-31_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 32",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-32",
+      "sub": {
+        "HD-1": {
+          "15915-malep-32_vibeplayer_sub": "https://vibeplayer.site/824b11a2823adc3f",
+          "15915-malep-32_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/824b11a2823adc3f/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-32_otakuvid_sub": "https://otakuvid.online/embed/08yi4wrd1gdc",
+          "15915-malep-32_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-32_vibeplayer_hsub": "https://vibeplayer.site/093fdb50d198edc4",
+          "15915-malep-32_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/093fdb50d198edc4/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-32_otakuvid_hsub": "https://otakuvid.online/embed/rf6a3gb15atr",
+          "15915-malep-32_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-32_playmogo_hsub": "https://playmogo.com/e/ujrpgcvlj803",
+          "15915-malep-32_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 33",
+      "episode_url": "https://hianime.ad/watch/magical-hat/ep-33",
+      "sub": {
+        "HD-1": {
+          "15915-malep-33_vibeplayer_sub": "https://vibeplayer.site/656c6ac1d097d487",
+          "15915-malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/656c6ac1d097d487/master.m3u8"
+        },
+        "Earnvids": {
+          "15915-malep-33_otakuvid_sub": "https://otakuvid.online/embed/t9fsbxa6u0yq",
+          "15915-malep-33_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15915-malep-33_vibeplayer_hsub": "https://vibeplayer.site/c9f66bc72be94931",
+          "15915-malep-33_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c9f66bc72be94931/master.m3u8"
+        },
+        "StreamHG": {
+          "15915-malep-33_otakuhg_hsub": "https://otakuhg.site/e/yy99qf3yn6r7",
+          "15915-malep-33_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15915-malep-33_otakuvid_hsub": "https://otakuvid.online/embed/pkkmzu00za0p",
+          "15915-malep-33_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15915-malep-33_playmogo_hsub": "https://playmogo.com/e/82x074snkf26",
+          "15915-malep-33_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

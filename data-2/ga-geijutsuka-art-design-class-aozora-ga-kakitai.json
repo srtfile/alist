@@ -1,0 +1,48 @@
+{
+  "anime_name": "Ga Geijutsuka Art Design Class Aozora Ga Kakitai",
+  "anime_url": "https://hianime.ad/anime/ga-geijutsuka-art-design-class-aozora-ga-kakitai",
+  "slug": "ga-geijutsuka-art-design-class-aozora-ga-kakitai",
+  "mal_id": 5670,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:31:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Drawing Fun",
+      "episode_url": "https://hianime.ad/watch/ga-geijutsuka-art-design-class-aozora-ga-kakitai/ep-1",
+      "sub": {
+        "HD-1": {
+          "5670-malep-1_vibeplayer_sub": "https://vibeplayer.site/fde591d5502c6489",
+          "5670-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fde591d5502c6489/master.m3u8"
+        },
+        "HD-2": {
+          "5670-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag90655661025396ded8869f33579faf744h",
+          "5670-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5670-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ot5ihbwwnlmh",
+          "5670-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5670-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aa1d9d014d085e45",
+          "5670-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aa1d9d014d085e45/master.m3u8"
+        },
+        "HD-2": {
+          "5670-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag81adc5f9d8a7bfe00070a2915c1023304h",
+          "5670-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5670-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zkza31xmkyla",
+          "5670-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5670-malep-1_playmogo_hsub": "https://playmogo.com/e/kp76eaxvs9ak",
+          "5670-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anime_name": "Marudase Kintarou",
+  "anime_url": "https://hianime.ad/anime/marudase-kintarou",
+  "slug": "marudase-kintarou",
+  "mal_id": 1608,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:48:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kintarou Enters the Company",
+      "episode_url": "https://hianime.ad/watch/marudase-kintarou/ep-1",
+      "sub": {
+        "HD-1": {
+          "1608-malep-1_vibeplayer_sub": "https://vibeplayer.site/37f8362702f843aa",
+          "1608-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/37f8362702f843aa/master.m3u8"
+        },
+        "Earnvids": {
+          "1608-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r4kugn8etx6i",
+          "1608-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1608-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3715ab4bb3782e36",
+          "1608-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3715ab4bb3782e36/master.m3u8"
+        },
+        "StreamHG": {
+          "1608-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ksymcv124rq3",
+          "1608-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1608-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hpcz1y1lfbgk",
+          "1608-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1608-malep-1_playmogo_hsub": "https://playmogo.com/e/w0jmh7kezyxy",
+          "1608-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

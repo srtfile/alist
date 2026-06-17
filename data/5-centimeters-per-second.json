@@ -1,0 +1,81 @@
+{
+  "anime_name": "5 Centimeters Per Second",
+  "anime_url": "https://hianime.ad/anime/5-centimeters-per-second",
+  "slug": "5-centimeters-per-second",
+  "mal_id": 35714,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:16:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wrong Number",
+      "episode_url": "https://hianime.ad/watch/5-centimeters-per-second/ep-1",
+      "sub": {
+        "HD-1": {
+          "35714-malep-1_vibeplayer_sub": "https://vibeplayer.site/6ccfbbeee4b613f9",
+          "35714-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ccfbbeee4b613f9/master.m3u8"
+        },
+        "HD-2": {
+          "35714-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag55d74ff0b7e360dd8e7727fedbf5263f4h",
+          "35714-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "35714-malep-1_otakuhg_sub": "https://otakuhg.site/e/5gc30nn6jkqg",
+          "35714-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35714-malep-1_otakuvid_sub": "https://otakuvid.online/embed/emziqyfmtp6k",
+          "35714-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35714-malep-1_playmogo_sub": "https://playmogo.com/e/b6jmag8r2pb2",
+          "35714-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35714-malep-1_vibeplayer_dub": "https://vibeplayer.site/f350c5772a298760",
+          "35714-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f350c5772a298760/master.m3u8"
+        },
+        "HD-2": {
+          "35714-malep-1_vibeplayer_dub": "https://vibeplayer.site/agbc9cf3d030ef793b77de4b4364c4fff34h",
+          "35714-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "35714-malep-1_otakuhg_dub": "https://otakuhg.site/e/8q6xi31evgcl",
+          "35714-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "35714-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1c34btzjnmh8",
+          "35714-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "35714-malep-1_playmogo_dub": "https://playmogo.com/e/oasooiph1v3q",
+          "35714-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "35714-malep-1_vibeplayer_hsub": "https://vibeplayer.site/34004d83b18ee35a",
+          "35714-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/34004d83b18ee35a/master.m3u8"
+        },
+        "HD-2": {
+          "35714-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agca24a9a5290d8e9cdd9bd35f4d32dcdc4h",
+          "35714-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "35714-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6y3qp6tdelkr",
+          "35714-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35714-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qxiz4j640rrm",
+          "35714-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35714-malep-1_playmogo_hsub": "https://playmogo.com/e/3ujqzqm27spl",
+          "35714-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

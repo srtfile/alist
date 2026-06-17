@@ -1,0 +1,48 @@
+{
+  "anime_name": "Dragons Heaven",
+  "anime_url": "https://hianime.ad/anime/dragons-heaven",
+  "slug": "dragons-heaven",
+  "mal_id": 4197,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:54:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Red Dragon",
+      "episode_url": "https://hianime.ad/watch/dragons-heaven/ep-1",
+      "sub": {
+        "HD-1": {
+          "4197-malep-1_vibeplayer_sub": "https://vibeplayer.site/abccf8d79ff19477",
+          "4197-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/abccf8d79ff19477/master.m3u8"
+        },
+        "HD-2": {
+          "4197-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag99a19a94bcc3b0eb17aea851c2fdcc214h",
+          "4197-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4197-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dq9dxf2waa50",
+          "4197-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4197-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d19d73f6d11a6e8b",
+          "4197-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d19d73f6d11a6e8b/master.m3u8"
+        },
+        "HD-2": {
+          "4197-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8c927eebcf4596c558b153978b4d13d74h",
+          "4197-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4197-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g60uj9jwendo",
+          "4197-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4197-malep-1_playmogo_hsub": "https://playmogo.com/e/shcd6ifq0h9s",
+          "4197-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

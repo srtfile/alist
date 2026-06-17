@@ -1,0 +1,49 @@
+{
+  "anime_name": "Ghost In The Shell Stand Alone Complex Solid State Society Uchikomatic Days",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-stand-alone-complex-solid-state-society-uchikomatic-days",
+  "slug": "ghost-in-the-shell-stand-alone-complex-solid-state-society-uchikomatic-days",
+  "mal_id": 467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:32:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Section 9",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-stand-alone-complex-solid-state-society-uchikomatic-days/ep-1",
+      "sub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_sub": "https://vibeplayer.site/fb33d0429a313058",
+          "467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb33d0429a313058/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7dnqfok18heu",
+          "467-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_dub": "https://vibeplayer.site/d25e4726d572af5a",
+          "467-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d25e4726d572af5a/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sj2thw1cev47",
+          "467-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8ace3f06d71e79c6",
+          "467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ace3f06d71e79c6/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1hvkeoo3oyce",
+          "467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "467-malep-1_playmogo_hsub": "https://playmogo.com/e/3b665wpavshb",
+          "467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

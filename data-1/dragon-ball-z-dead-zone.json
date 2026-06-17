@@ -1,0 +1,69 @@
+{
+  "anime_name": "Dragon Ball Z Dead Zone",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-dead-zone",
+  "slug": "dragon-ball-z-dead-zone",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:44:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-dead-zone/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/d8af011f3ba9abcc",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8af011f3ba9abcc/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9a0cb4321fe7fcce864e771a7d48305a4h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yfytexp2d7t4",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/7a0ecac7bcd43d0e",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7a0ecac7bcd43d0e/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/agee5509eb245b4f7dafb32b2d549218f74h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/uyald0dhekoc",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pje23k000p8j",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b7f47bed7d6c6fc2",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b7f47bed7d6c6fc2/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agad70f765d1187fd1dfba98e0718f562d4h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a64892took6n",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6eludjh69gm8",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/oklccovvi4cb",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1142 @@
+{
+  "anime_name": "Log Horizon",
+  "anime_url": "https://hianime.ad/anime/log-horizon",
+  "slug": "log-horizon",
+  "mal_id": null,
+  "total_episodes": 25,
+  "captured_at": "2026-06-17T05:24:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Apocalypse",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/826cbd24a4a0b705",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/826cbd24a4a0b705/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/ukg19dqrvrtf",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/h2mjz710ja05",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/90169062a03d6624",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/90169062a03d6624/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/f0580mq79krq",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/bsvab3eonbsk",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ad1035a0f624cbbe",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ad1035a0f624cbbe/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/by32wb6h27iu",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bwh1pjbkek53",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/w8vv0ilkikfn",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Battle of Loka",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/fa78ae5df207e35a",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa78ae5df207e35a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/cyhqzg51r586",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/ahstzxn1ns03",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/5632028af939dab9",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5632028af939dab9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/6kh47wquvsk5",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/8ocipslzvm0h",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Depths of Palm",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/ecbd437aeebad1b4",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ecbd437aeebad1b4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/csupl0kanbyk",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/h55c0qke0u0k",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/510d075fc86b6011",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/510d075fc86b6011/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/oqvaxi9uhq0b",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/sfr63vez360j",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/4dc8dc9af619b44b",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4dc8dc9af619b44b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/04x2r0mleklv",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/q1qvs5xzlo92",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/q1fcvpocrh3g",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Escape",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/0f8900b5efb3b722",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f8900b5efb3b722/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/vb4mephc0umg",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/cbaeoh5tcl9p",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/2d72dffee68b8ba5",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2d72dffee68b8ba5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/y3eo1h29fjqe",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/y30hqc5yspaa",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/1e414caed3643dfa",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e414caed3643dfa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/u4forbs00j8b",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/inhwek6ys24n",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/qhy7hair750i",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Return to Akiba",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/24cfb0b3a82ec0a3",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/24cfb0b3a82ec0a3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/5gfkc1cds87o",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/h521e1ritwg6",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/168fd02d0e3b5bdc",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/168fd02d0e3b5bdc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/8fzc6wgqm9zr",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/1bz13rmaj2r6",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/41f2fd8e0b15fb68",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41f2fd8e0b15fb68/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/w7cjznhh0yhs",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/vljbw5xv1gxc",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/makby06ovp7v",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Resolve",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/2e9acc6956e68921",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e9acc6956e68921/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_sub": "https://otakuhg.site/e/dkigch9brmqt",
+          "malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/5ylcbs6d4dax",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/36c6d4bf6cd1e4b2",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/36c6d4bf6cd1e4b2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/i1hic304xube",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/wowjro6agu7d",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Crescent Moon",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/05e20e74928b5787",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/05e20e74928b5787/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/j8j88x0e0fq3",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/fd16i5f8fhi6",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/1b58df313b5dac77",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1b58df313b5dac77/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/aylvt7tdzjdy",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/oc5v7vp2fvdp",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/c32753f0ec82e79e",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c32753f0ec82e79e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/cnazsew4pqd3",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/v4zy2k5uj4a5",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/qqfv2gckf7vw",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Villian in Glasses",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/1b7f29070d8dd373",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1b7f29070d8dd373/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/vm0gfmzatjcc",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/2qixqxdd6re1",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/92a305d282103514",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/92a305d282103514/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/yllw00vjb3fd",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/2hytt2lagpcq",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Round Table Conference",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/72ee83d679ce206c",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/72ee83d679ce206c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_sub": "https://otakuhg.site/e/46i0eh78u2ho",
+          "malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/exwmwgta1aoz",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/3f283c167e3172d3",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f283c167e3172d3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/9kf5s65hou4y",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/jhhadjb784f4",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/703592419b108929",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/703592419b108929/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/sn2rhaq9s3ln",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/3z1fwcvizuok",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/18aom4f8wpvl",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Grab It in Your Hand",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/925be56c484e8b76",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/925be56c484e8b76/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/e3munrsbke6g",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/k5zqw4r43zsy",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/77c1458c06549b0e",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/77c1458c06549b0e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/yvvss4dy2rje",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/6z509z0l7in1",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "An Invitation from Eastal",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/c79a1ec9fee1b5a0",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c79a1ec9fee1b5a0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_sub": "https://otakuhg.site/e/k88bt4qhz6ku",
+          "malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/u2bssbu3fk05",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/509cd1ffae23c191",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/509cd1ffae23c191/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/rzjn8kfqytng",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/pv1ded27k8yf",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/2310e6e0bada147e",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2310e6e0bada147e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/fdo6g3txnhqr",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/fatf3syj1ejq",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/z5swya2x5ph0",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Forest of Lagranda",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/a423ce323d12347d",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a423ce323d12347d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_sub": "https://otakuhg.site/e/u7i1lvonkpmd",
+          "malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/jsksd6fpe1sm",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/e62e689c133ecd95",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e62e689c133ecd95/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/asvhtswklg89",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/ejdf4udnq3pd",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/797da351431f35d3",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/797da351431f35d3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/xrj6ff5j06j2",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/g7361u7n2m8e",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/qs5f347razku",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shield and Freedom",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/a14fe4a8680928c4",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a14fe4a8680928c4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_sub": "https://otakuhg.site/e/mwkqt97xdh3e",
+          "malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/5i7ya585bfml",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/eaa4bc732c805fb7",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eaa4bc732c805fb7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_dub": "https://otakuhg.site/e/wi0mdlkpywjr",
+          "malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/79x15qu606e1",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/a48c2c095c4d81bc",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a48c2c095c4d81bc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/b5v8odw7vak7",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/13oynsfs8kn5",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/hgz7wl0kpv22",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "World Fraction",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/d3862bcc846297ca",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3862bcc846297ca/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_sub": "https://otakuhg.site/e/xq2depqu80yi",
+          "malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/partzcst3pz0",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/5ed94d23ba7d464e",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5ed94d23ba7d464e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_dub": "https://otakuhg.site/e/u4348yazw38m",
+          "malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/c5ihvem0uvwf",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Attack",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/a4a19464170489ac",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a4a19464170489ac/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_sub": "https://otakuhg.site/e/jhcd0c6dukfr",
+          "malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/0yvny6f3wzvw",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/7e133a6af7a0ac4b",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e133a6af7a0ac4b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_dub": "https://otakuhg.site/e/e1nsmb8ayb88",
+          "malep-15_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/7i1zotvz1tgo",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/002d673654a95299",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/002d673654a95299/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-15_otakuhg_hsub": "https://otakuhg.site/e/wxheva5obev0",
+          "malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/pc3rtst1i1wl",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/hm3v3ymo0oyk",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Return of the Goblin King",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/08c4870d77ec9557",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/08c4870d77ec9557/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_sub": "https://otakuhg.site/e/mqqjfkyp7re4",
+          "malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/46e8fqzwjhic",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/376cb64f7b92c9cd",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/376cb64f7b92c9cd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_dub": "https://otakuhg.site/e/zwtdatw1420s",
+          "malep-16_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/d60d3hteh3v1",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/50999742e64aaeb4",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/50999742e64aaeb4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-16_otakuhg_hsub": "https://otakuhg.site/e/3a2oval9q3vz",
+          "malep-16_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/w4xjvt9z72gq",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/dlkij0uqxs6m",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Lazy, Cowardly Princess",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/ef61c3250087e9d5",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ef61c3250087e9d5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_sub": "https://otakuhg.site/e/xm7ontpwu98b",
+          "malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/ef7juznd5spp",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/08ab2dd4618bb8c3",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/08ab2dd4618bb8c3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-17_otakuhg_dub": "https://otakuhg.site/e/ksk2t638cbvb",
+          "malep-17_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/q9xity24bugb",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Expeditionary Force",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/8b25c424e2bce6f0",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b25c424e2bce6f0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_sub": "https://otakuhg.site/e/g1e6844905pk",
+          "malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/0749kova9izn",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/f33cfc170495ec62",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f33cfc170495ec62/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_dub": "https://otakuhg.site/e/43htwul1g2i9",
+          "malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/5vqkdqi5o0wy",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/1aa46968b1453c19",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1aa46968b1453c19/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-18_otakuhg_hsub": "https://otakuhg.site/e/vpkxt0dflr82",
+          "malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/9cvegflj44om",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/w6kva4rk5ygm",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chasing After Them",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/67fb6e19cab6290a",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/67fb6e19cab6290a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_sub": "https://otakuhg.site/e/5660l108r3ib",
+          "malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/gysdvh1mgjie",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/512e30539043831b",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/512e30539043831b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_dub": "https://otakuhg.site/e/dase3b9w7bze",
+          "malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/mn7h3nteqwd3",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/83fc5287753008bc",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/83fc5287753008bc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-19_otakuhg_hsub": "https://otakuhg.site/e/bzk1t0jiko2m",
+          "malep-19_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/4p2mmknvwq6h",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/7pw8s5622xw5",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Contract",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/4ad8e70164a9b397",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ad8e70164a9b397/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_sub": "https://otakuhg.site/e/6yv2anip4ox4",
+          "malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/6829wwy7s7k3",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/0880022ff0727f62",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0880022ff0727f62/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_dub": "https://otakuhg.site/e/bvcs00fwobqr",
+          "malep-20_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/fbazq4i54kyp",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-20_vibeplayer_hsub": "https://vibeplayer.site/8f246cfaf6aad2f7",
+          "malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f246cfaf6aad2f7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-20_otakuhg_hsub": "https://otakuhg.site/e/t9ygd2dcvuhk",
+          "malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_hsub": "https://otakuvid.online/embed/ji75sdss1lad",
+          "malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-20_playmogo_hsub": "https://playmogo.com/e/m36p5w288vns",
+          "malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Two of Us Shall Waltz",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/d01d8de4a422742c",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d01d8de4a422742c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_sub": "https://otakuhg.site/e/0vtqlzlsdboe",
+          "malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/sfetmn4g1yf9",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/04611f73869a4aad",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/04611f73869a4aad/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_dub": "https://otakuhg.site/e/wu7iquaygqdh",
+          "malep-21_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/qn5uxfqmmbk4",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/1aebbd2e2edfd28a",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1aebbd2e2edfd28a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-21_otakuhg_hsub": "https://otakuhg.site/e/spuwb4h8g05s",
+          "malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/aymc14j90vxw",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/ysfhjocy0po9",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Swallow and Young Starling",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/d74426ec4bbd75ef",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d74426ec4bbd75ef/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_sub": "https://otakuhg.site/e/zm3plspzje5p",
+          "malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/6a6lv05i2gw2",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/71f84e91102c1442",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/71f84e91102c1442/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_dub": "https://otakuhg.site/e/6okwlk7esv8z",
+          "malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/6w70q3hee80l",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/3ff7469235cd68cb",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ff7469235cd68cb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_hsub": "https://otakuhg.site/e/5ux3s1k4em58",
+          "malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/jrrjqi5s467x",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/863tm4plun33",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Student of the Mage",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/dee99910a3a17586",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dee99910a3a17586/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_sub": "https://otakuhg.site/e/miqpgnufw3nu",
+          "malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/pd6k1j5upqin",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/e5b3ba413e3de420",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e5b3ba413e3de420/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_dub": "https://otakuhg.site/e/ohrlzush7tsf",
+          "malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/0jbz2vih4aa3",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/2f0af52df82056d9",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f0af52df82056d9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-23_otakuhg_hsub": "https://otakuhg.site/e/34nx3ze935m5",
+          "malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/l31si0fu2q2z",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/wh4qrh0dauf1",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Chaos",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/6854db802286f9f6",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6854db802286f9f6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_sub": "https://otakuhg.site/e/r71bcwgtyvjj",
+          "malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/s8qm04cnos2w",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/92087c3c761c2c34",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/92087c3c761c2c34/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-24_otakuhg_dub": "https://otakuhg.site/e/uqhk0jmipad4",
+          "malep-24_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/kiizv2t47bi0",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Scale Festival",
+      "episode_url": "https://hianime.ad/watch/log-horizon/ep-25",
+      "sub": {
+        "HD-1": {
+          "malep-25_vibeplayer_sub": "https://vibeplayer.site/b38da8b4aedc5674",
+          "malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b38da8b4aedc5674/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_sub": "https://otakuhg.site/e/bes210wcxh1b",
+          "malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_sub": "https://otakuvid.online/embed/0wc6a64a0r1r",
+          "malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/c29a7e9875549a79",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c29a7e9875549a79/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_dub": "https://otakuhg.site/e/577grd9mc0r2",
+          "malep-25_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/2j8cz6vlluim",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-25_vibeplayer_hsub": "https://vibeplayer.site/cf5f3d559b1c38d1",
+          "malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf5f3d559b1c38d1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-25_otakuhg_hsub": "https://otakuhg.site/e/5apywikns6ig",
+          "malep-25_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_hsub": "https://otakuvid.online/embed/34r1cx05yqd9",
+          "malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-25_playmogo_hsub": "https://playmogo.com/e/2r1s11ef4u7n",
+          "malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "anime_name": "Fist Of The North Star The Legend Of Toki",
+  "anime_url": "https://hianime.ad/anime/fist-of-the-north-star-the-legend-of-toki",
+  "slug": "fist-of-the-north-star-the-legend-of-toki",
+  "mal_id": 4549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T12:36:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Fists Are for the Heavens",
+      "episode_url": "https://hianime.ad/watch/fist-of-the-north-star-the-legend-of-toki/ep-1",
+      "sub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_sub": "https://vibeplayer.site/905178e7f146af22",
+          "4549-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/905178e7f146af22/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5948e780a39321caf49e1ae4a30102fa4h",
+          "4549-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_sub": "https://otakuhg.site/e/6quoyqwrxhy8",
+          "4549-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_sub": "https://otakuvid.online/embed/aiy07s8tk0cu",
+          "4549-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f09ae56ed0b9bbd3",
+          "4549-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f09ae56ed0b9bbd3/master.m3u8"
+        },
+        "HD-2": {
+          "4549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag03a59a15206c21c85d21842f83af614a4h",
+          "4549-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wlnzvd179949",
+          "4549-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2pcwnfm5td8g",
+          "4549-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4549-malep-1_playmogo_hsub": "https://playmogo.com/e/y5qi5scrnh3g",
+          "4549-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "anime_name": "Granblue Fantasy The Animation",
+  "anime_url": "https://hianime.ad/anime/granblue-fantasy-the-animation",
+  "slug": "granblue-fantasy-the-animation",
+  "mal_id": 31629,
+  "total_episodes": 13,
+  "captured_at": "2026-06-03T18:48:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Girl in Blue",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-1",
+      "sub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_sub": "https://vibeplayer.site/1a8c6fb8abfda75f",
+          "31629-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a8c6fb8abfda75f/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-1_otakuhg_sub": "https://otakuhg.site/e/pncw25fdy39h",
+          "31629-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9zmqcpuf1mnk",
+          "31629-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_dub": "https://vibeplayer.site/c51746ece2300fc6",
+          "31629-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c51746ece2300fc6/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_dub": "https://otakuvid.online/embed/mvvs6khnevx0",
+          "31629-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-1_vibeplayer_hsub": "https://vibeplayer.site/46aea026582d499c",
+          "31629-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46aea026582d499c/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wray9zseav0a",
+          "31629-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/klruna5hlf5n",
+          "31629-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-1_playmogo_hsub": "https://playmogo.com/e/zco423r1t1qt",
+          "31629-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Departure",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-2",
+      "sub": {
+        "HD-1": {
+          "31629-malep-2_vibeplayer_sub": "https://vibeplayer.site/2806c15abe1958ff",
+          "31629-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2806c15abe1958ff/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-2_otakuvid_sub": "https://otakuvid.online/embed/yri2gajo93ur",
+          "31629-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-2_vibeplayer_dub": "https://vibeplayer.site/cc97e96444b2957d",
+          "31629-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cc97e96444b2957d/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-2_otakuvid_dub": "https://otakuvid.online/embed/fp0os02528ty",
+          "31629-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-2_vibeplayer_hsub": "https://vibeplayer.site/7bd8d42672fad414",
+          "31629-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7bd8d42672fad414/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-2_otakuhg_hsub": "https://otakuhg.site/e/k9nozgkfbo1q",
+          "31629-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/4h1uw55gmwaf",
+          "31629-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-2_playmogo_hsub": "https://playmogo.com/e/dnt0gssty3hz",
+          "31629-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Meet the Wind",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-3",
+      "sub": {
+        "HD-1": {
+          "31629-malep-3_vibeplayer_sub": "https://vibeplayer.site/e5dbbde1bdd73107",
+          "31629-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e5dbbde1bdd73107/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-3_otakuvid_sub": "https://otakuvid.online/embed/95u0mwhcohoh",
+          "31629-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-3_vibeplayer_dub": "https://vibeplayer.site/87f7f33fd1506c1d",
+          "31629-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/87f7f33fd1506c1d/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-3_otakuvid_dub": "https://otakuvid.online/embed/ad9gqg3xf6z5",
+          "31629-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-3_vibeplayer_hsub": "https://vibeplayer.site/28dfe89ae49a048d",
+          "31629-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/28dfe89ae49a048d/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-3_otakuhg_hsub": "https://otakuhg.site/e/lz0x3hu57fcz",
+          "31629-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/m3addo5kvj51",
+          "31629-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-3_playmogo_hsub": "https://playmogo.com/e/o1w328ytt9f9",
+          "31629-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Helmsman's Resolve",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-4",
+      "sub": {
+        "HD-1": {
+          "31629-malep-4_vibeplayer_sub": "https://vibeplayer.site/dc5e8b19ff46f680",
+          "31629-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc5e8b19ff46f680/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-4_otakuvid_sub": "https://otakuvid.online/embed/eg2kvjrhaehm",
+          "31629-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-4_vibeplayer_dub": "https://vibeplayer.site/381269166f5d46c7",
+          "31629-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/381269166f5d46c7/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-4_otakuvid_dub": "https://otakuvid.online/embed/f90y5lb2tarz",
+          "31629-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-4_vibeplayer_hsub": "https://vibeplayer.site/091820a7edd5eb78",
+          "31629-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/091820a7edd5eb78/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-4_otakuhg_hsub": "https://otakuhg.site/e/3evaue0bafl9",
+          "31629-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/97c9xhjshig2",
+          "31629-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-4_playmogo_hsub": "https://playmogo.com/e/e6kq484jwrje",
+          "31629-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Storm Guardian",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-5",
+      "sub": {
+        "HD-1": {
+          "31629-malep-5_vibeplayer_sub": "https://vibeplayer.site/c2081e3ce9709de3",
+          "31629-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2081e3ce9709de3/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-5_otakuvid_sub": "https://otakuvid.online/embed/8nz26vkctqff",
+          "31629-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-5_vibeplayer_dub": "https://vibeplayer.site/fa4106950835dece",
+          "31629-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fa4106950835dece/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-5_otakuvid_dub": "https://otakuvid.online/embed/mtlt3d3r9bav",
+          "31629-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-5_vibeplayer_hsub": "https://vibeplayer.site/4aabd8aa5dda03dd",
+          "31629-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4aabd8aa5dda03dd/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-5_otakuhg_hsub": "https://otakuhg.site/e/rdpft7njayjp",
+          "31629-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ufqdinw1u7ua",
+          "31629-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-5_playmogo_hsub": "https://playmogo.com/e/tt50qidfr644",
+          "31629-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Veil is Lifted",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-6",
+      "sub": {
+        "HD-1": {
+          "31629-malep-6_vibeplayer_sub": "https://vibeplayer.site/3bcf78455b37961c",
+          "31629-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3bcf78455b37961c/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-6_otakuvid_sub": "https://otakuvid.online/embed/k6gd1xq9n0ns",
+          "31629-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-6_vibeplayer_dub": "https://vibeplayer.site/198bb5178111d6ac",
+          "31629-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/198bb5178111d6ac/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-6_otakuvid_dub": "https://otakuvid.online/embed/jch4i9u2vyiq",
+          "31629-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-6_vibeplayer_hsub": "https://vibeplayer.site/683d887a3bfb9c87",
+          "31629-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/683d887a3bfb9c87/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-6_otakuhg_hsub": "https://otakuhg.site/e/fymbzm7ff2ef",
+          "31629-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/e8z67vstfd80",
+          "31629-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-6_playmogo_hsub": "https://playmogo.com/e/73fsqqy18wpl",
+          "31629-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Iron Giant",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-7",
+      "sub": {
+        "HD-1": {
+          "31629-malep-7_vibeplayer_sub": "https://vibeplayer.site/d80586cdbadb0895",
+          "31629-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d80586cdbadb0895/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-7_otakuvid_sub": "https://otakuvid.online/embed/tct86nznu1pk",
+          "31629-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-7_vibeplayer_dub": "https://vibeplayer.site/a8bd4c5fa6de0f3e",
+          "31629-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a8bd4c5fa6de0f3e/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-7_otakuvid_dub": "https://otakuvid.online/embed/55ijqfhdp6o1",
+          "31629-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-7_vibeplayer_hsub": "https://vibeplayer.site/130d6f7be2e66d97",
+          "31629-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/130d6f7be2e66d97/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-7_otakuhg_hsub": "https://otakuhg.site/e/lykgx8aoovr6",
+          "31629-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/qrhwbjf561wr",
+          "31629-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-7_playmogo_hsub": "https://playmogo.com/e/bwl2a9bhwx1t",
+          "31629-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Pair Apart",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-8",
+      "sub": {
+        "HD-1": {
+          "31629-malep-8_vibeplayer_sub": "https://vibeplayer.site/9751fe24a4dd346a",
+          "31629-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9751fe24a4dd346a/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-8_otakuvid_sub": "https://otakuvid.online/embed/vw6tulf2vasx",
+          "31629-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-8_vibeplayer_dub": "https://vibeplayer.site/e7e81776f282fc11",
+          "31629-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e7e81776f282fc11/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-8_otakuvid_dub": "https://otakuvid.online/embed/772j7mrvdtbp",
+          "31629-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-8_vibeplayer_hsub": "https://vibeplayer.site/1754b4b630e15d5d",
+          "31629-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1754b4b630e15d5d/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-8_otakuhg_hsub": "https://otakuhg.site/e/577rayhhg0tj",
+          "31629-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/fnz4u2sze10l",
+          "31629-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-8_playmogo_hsub": "https://playmogo.com/e/iexjn37mn2eg",
+          "31629-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Horizon in the Clouds",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-9",
+      "sub": {
+        "HD-1": {
+          "31629-malep-9_vibeplayer_sub": "https://vibeplayer.site/8b15fd4342ea2a12",
+          "31629-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b15fd4342ea2a12/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-9_otakuhg_sub": "https://otakuhg.site/e/40df7ead8seb",
+          "31629-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-9_otakuvid_sub": "https://otakuvid.online/embed/23w6kll9jxh9",
+          "31629-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-9_vibeplayer_dub": "https://vibeplayer.site/8e7e5dad852a3206",
+          "31629-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8e7e5dad852a3206/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-9_otakuvid_dub": "https://otakuvid.online/embed/uk9fzsgyhm88",
+          "31629-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Separation",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-10",
+      "sub": {
+        "HD-1": {
+          "31629-malep-10_vibeplayer_sub": "https://vibeplayer.site/13603e925e94aec0",
+          "31629-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13603e925e94aec0/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-10_otakuvid_sub": "https://otakuvid.online/embed/9k4tup848ft5",
+          "31629-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-10_vibeplayer_dub": "https://vibeplayer.site/ebe7f5d127edc12b",
+          "31629-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ebe7f5d127edc12b/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-10_otakuvid_dub": "https://otakuvid.online/embed/zakwwhswu0e7",
+          "31629-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-10_vibeplayer_hsub": "https://vibeplayer.site/21632b0b9ad9de1f",
+          "31629-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/21632b0b9ad9de1f/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-10_otakuhg_hsub": "https://otakuhg.site/e/xayc6rnuucjd",
+          "31629-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/fx2x0z1p8cwm",
+          "31629-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-10_playmogo_hsub": "https://playmogo.com/e/at0goc29a396",
+          "31629-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lyria's Wish",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-11",
+      "sub": {
+        "HD-1": {
+          "31629-malep-11_vibeplayer_sub": "https://vibeplayer.site/cf3d9eacdc2892c4",
+          "31629-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf3d9eacdc2892c4/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-11_otakuvid_sub": "https://otakuvid.online/embed/az0ob8uewvfx",
+          "31629-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-11_vibeplayer_dub": "https://vibeplayer.site/8e6c83d1d34eb447",
+          "31629-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8e6c83d1d34eb447/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-11_otakuvid_dub": "https://otakuvid.online/embed/qte5mqd8o259",
+          "31629-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-11_vibeplayer_hsub": "https://vibeplayer.site/df03413941c6a1cb",
+          "31629-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/df03413941c6a1cb/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/9drz7cvvk5dw",
+          "31629-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-11_playmogo_hsub": "https://playmogo.com/e/u6zbrrf776j5",
+          "31629-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Showdown on the High Seas",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-12",
+      "sub": {
+        "HD-1": {
+          "31629-malep-12_vibeplayer_sub": "https://vibeplayer.site/a7fccc8669e4f576",
+          "31629-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a7fccc8669e4f576/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-12_otakuvid_sub": "https://otakuvid.online/embed/ll2h7qvdmetq",
+          "31629-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-12_vibeplayer_dub": "https://vibeplayer.site/312ebe7f38e56035",
+          "31629-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/312ebe7f38e56035/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-12_otakuvid_dub": "https://otakuvid.online/embed/ij2xnp3aeyd7",
+          "31629-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-12_vibeplayer_hsub": "https://vibeplayer.site/758bbe8dbd0bad52",
+          "31629-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/758bbe8dbd0bad52/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-12_otakuhg_hsub": "https://otakuhg.site/e/ejzsxobugy0t",
+          "31629-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/93jglka6clr1",
+          "31629-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-12_playmogo_hsub": "https://playmogo.com/e/tfzlzhjg6lsv",
+          "31629-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Extra 1: Another Sky",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation/ep-13",
+      "sub": {
+        "HD-1": {
+          "31629-malep-13_vibeplayer_sub": "https://vibeplayer.site/e839abf87b6a717b",
+          "31629-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e839abf87b6a717b/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-13_otakuvid_sub": "https://otakuvid.online/embed/2upwoqn8ly16",
+          "31629-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31629-malep-13_vibeplayer_dub": "https://vibeplayer.site/ae93ad52577d4a23",
+          "31629-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ae93ad52577d4a23/master.m3u8"
+        },
+        "Earnvids": {
+          "31629-malep-13_otakuvid_dub": "https://otakuvid.online/embed/ki35vobyzvhm",
+          "31629-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31629-malep-13_vibeplayer_hsub": "https://vibeplayer.site/26f4c7c6b0fcb1d9",
+          "31629-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/26f4c7c6b0fcb1d9/master.m3u8"
+        },
+        "StreamHG": {
+          "31629-malep-13_otakuhg_hsub": "https://otakuhg.site/e/wc5lj2xzr05b",
+          "31629-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31629-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/s0tapzkawuxt",
+          "31629-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31629-malep-13_playmogo_hsub": "https://playmogo.com/e/nsqnjg307wbe",
+          "31629-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

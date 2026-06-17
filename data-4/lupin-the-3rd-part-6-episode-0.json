@@ -1,0 +1,61 @@
+{
+  "anime_name": "Lupin The 3Rd Part 6 Episode 0",
+  "anime_url": "https://hianime.ad/anime/lupin-the-3rd-part-6-episode-0",
+  "slug": "lupin-the-3rd-part-6-episode-0",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:06:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 0 - The Times -",
+      "episode_url": "https://hianime.ad/watch/lupin-the-3rd-part-6-episode-0/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b4cabeb13c435860",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4cabeb13c435860/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/76lm5fx7zzf6",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/11kvedbmtu1r",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/0cd90f323225ed69",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0cd90f323225ed69/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/2r08ifpr4ziq",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/53ldqgn84qgh",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee48ff54112f3b9f",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee48ff54112f3b9f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/0h5gf3pyqj54",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ff6vb3urkkpy",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/0p3r9ecyhtwr",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

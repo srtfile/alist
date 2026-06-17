@@ -1,0 +1,52 @@
+{
+  "anime_name": "Etotama 2",
+  "anime_url": "https://hianime.ad/anime/etotama-2",
+  "slug": "etotama-2",
+  "mal_id": 28221,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:38:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Exuberant Cat Girl",
+      "episode_url": "https://hianime.ad/watch/etotama-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "28221-malep-1_vibeplayer_sub": "https://vibeplayer.site/02a2b1897d9a7451",
+          "28221-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/02a2b1897d9a7451/master.m3u8"
+        },
+        "HD-2": {
+          "28221-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5d2d39f698f14106f2861891d056c7f24h",
+          "28221-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28221-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xbnh90pwgme9",
+          "28221-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "28221-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8102aea1eb3a7496",
+          "28221-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8102aea1eb3a7496/master.m3u8"
+        },
+        "HD-2": {
+          "28221-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3cca26d4918b2688d3136846b11652194h",
+          "28221-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "28221-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bwhch8ceushe",
+          "28221-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28221-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vdpq5f304d8r",
+          "28221-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28221-malep-1_playmogo_hsub": "https://playmogo.com/e/z6ptjivtue89",
+          "28221-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

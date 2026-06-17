@@ -1,0 +1,48 @@
+{
+  "anime_name": "Eureka Seven Ao Jungfrau No Hanabana Tachi",
+  "anime_url": "https://hianime.ad/anime/eureka-seven-ao-jungfrau-no-hanabana-tachi",
+  "slug": "eureka-seven-ao-jungfrau-no-hanabana-tachi",
+  "mal_id": 12471,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:39:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "deep blue",
+      "episode_url": "https://hianime.ad/watch/eureka-seven-ao-jungfrau-no-hanabana-tachi/ep-1",
+      "sub": {
+        "HD-1": {
+          "12471-malep-1_vibeplayer_sub": "https://vibeplayer.site/58733f581d610e3a",
+          "12471-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58733f581d610e3a/master.m3u8"
+        },
+        "HD-2": {
+          "12471-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0b446b92d959658725d7d5302d2230314h",
+          "12471-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12471-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8mwnvjf33tqi",
+          "12471-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12471-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b5a46b34cffebccd",
+          "12471-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b5a46b34cffebccd/master.m3u8"
+        },
+        "HD-2": {
+          "12471-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4eadf51bc6e988d61690025440a653504h",
+          "12471-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12471-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ywx7nwjb6rn3",
+          "12471-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12471-malep-1_playmogo_hsub": "https://playmogo.com/e/pwgqaxk13r7c",
+          "12471-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

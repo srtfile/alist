@@ -1,0 +1,531 @@
+{
+  "anime_name": "Love Of Kill",
+  "anime_url": "https://hianime.ad/anime/love-of-kill",
+  "slug": "love-of-kill",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T05:45:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "WHAT'S YOUR NAME?",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/fa0bb1dd0a9bcd7c",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa0bb1dd0a9bcd7c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/ruq0unyxcg4g",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/gzvywyqkt7l4",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/c15fa4de95afd05b",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c15fa4de95afd05b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/7q7syddx29tc",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/x6gu0hwl3wpm",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/59d45cff013399c5",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/59d45cff013399c5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/cu68rp7i2lsl",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/frd0xbb0arno",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/jqvdlftbjzpf",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "TARGET",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/4658894eb69ac5e8",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4658894eb69ac5e8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/prw6d1cit6sb",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/48xjrr0jqlxf",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/303b5da89f3fbafc",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/303b5da89f3fbafc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/b60hvbjmlwh8",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/sd7zez7e2as9",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/adba1ffc67ebc626",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/adba1ffc67ebc626/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/edbnas45vq8h",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/gwvhttsuin06",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/fbpufioo3yiz",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "ROOM",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/a877328f1e33ba1a",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a877328f1e33ba1a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/cr3ptkre8l1m",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/e581027826508176",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e581027826508176/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/17rirc1box76",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/bb3c041ccf036ce0",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb3c041ccf036ce0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/qiwevyp58rlv",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/p0svqdn0ufu8",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/ilu8p0gk80p6",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "REAL FACE",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/db121978c2a2256d",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/db121978c2a2256d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/4fap5v38w9jl",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/ca2d393ac24fd29c",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ca2d393ac24fd29c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/xk0uswkf4ukb",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/bceaf5bad595ca99",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bceaf5bad595ca99/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/3eu1fb1iiknl",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/cley376r4anv",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/erz741zzdroo",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "LIMIT",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/5f2c483ef3c213ef",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f2c483ef3c213ef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/ya3uz8ulxeuv",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/39eed5e6a77fd221",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/39eed5e6a77fd221/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/875tql47g89r",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/46210ff41a6d086d",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46210ff41a6d086d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/x7mi0anvmdb8",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/fbpes4fgz555",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/4v23zjx70rnf",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dark Dream",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/b1678a71d3885b7e",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1678a71d3885b7e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/gf08hr98y4h6",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/b608879b41702801",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b608879b41702801/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/7e3ijsv51zwv",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/7538acdb204f4f4d",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7538acdb204f4f4d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/pt2xac71yzqd",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/c257m3gclpy3",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/dup8u19brfq9",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bullet",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/41ee9933ccb8da25",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/41ee9933ccb8da25/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/j76ayye1d5sa",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/b51b307f5f89c56b",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b51b307f5f89c56b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/2llrc7d1h5ek",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/c297c19e3650b2bb",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c297c19e3650b2bb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/n9aj30ex1cyx",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/xiptgcaifsii",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/ovyaa8djb0xd",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Confusion",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/e6892151fafe541e",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6892151fafe541e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/rdokaby0cp0n",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/60bae6e891ea1b3a",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/60bae6e891ea1b3a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/wqqtfijnlutr",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/83d9981109a1c246",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/83d9981109a1c246/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/4e5zvntzdfj3",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/lht9kpjxy0cb",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/0xr14v95m0s5",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A War Trigger",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/ca0e519d153955f2",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca0e519d153955f2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/kky7vwe7m3gx",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/90629415b920a34f",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/90629415b920a34f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/6ge1zr5bf8n3",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/1d519cef518fb063",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1d519cef518fb063/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/dn7e7794287x",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/mods5s9g6zrb",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/xdh0140rop5z",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Help",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/608737b7f3e881fe",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/608737b7f3e881fe/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/molcoltfn4ry",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/af419f400c5b8823",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/af419f400c5b8823/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/j1ttlv9pkzva",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/d5840494a7e258e9",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5840494a7e258e9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/1k00fslskidb",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/56i9jhmisicf",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/t8hnlf8jzld7",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Worst",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/d7db7322ba2c900d",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7db7322ba2c900d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/14fg5rny5ry6",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/37a209a69aca2ade",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/37a209a69aca2ade/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/755upeiz0p8o",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/73d9982668c1ad8e",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/73d9982668c1ad8e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/cz3tjrtw2yus",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/nu121f6b0fxj",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/dskmjrrvuuv7",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "My Name",
+      "episode_url": "https://hianime.ad/watch/love-of-kill/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/2cd17b7f968582c3",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2cd17b7f968582c3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/zsiu1zb1akqf",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/55a52ad8e5e1bb2a",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/55a52ad8e5e1bb2a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/oj3apzo9g67i",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/e8c755bd62ba7435",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e8c755bd62ba7435/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/7o3dlqhmctln",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/abcxaptnlaby",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/yyuc5o4np7au",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "anime_name": "Bavi Stock",
+  "anime_url": "https://hianime.ad/anime/bavi-stock",
+  "slug": "bavi-stock",
+  "mal_id": 287,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T23:42:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Moving Towards Destiny",
+      "episode_url": "https://hianime.ad/watch/bavi-stock/ep-1",
+      "sub": {
+        "HD-1": {
+          "287-malep-1_vibeplayer_sub": "https://vibeplayer.site/cf423e15b5ad8c4c",
+          "287-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf423e15b5ad8c4c/master.m3u8"
+        },
+        "HD-2": {
+          "287-malep-1_vibeplayer_sub": "https://vibeplayer.site/agaa4c30ee56a6f36fb9655484333c049f4h",
+          "287-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-1_otakuvid_sub": "https://otakuvid.online/embed/om3qb4vrapn2",
+          "287-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "287-malep-1_vibeplayer_hsub": "https://vibeplayer.site/999bb90d0e83ec38",
+          "287-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/999bb90d0e83ec38/master.m3u8"
+        },
+        "HD-2": {
+          "287-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag72cfaa57f393c01e936ad8ab00a3672c4h",
+          "287-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xrzup0k0zdtt",
+          "287-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ones that Squirm",
+      "episode_url": "https://hianime.ad/watch/bavi-stock/ep-2",
+      "sub": {
+        "HD-1": {
+          "287-malep-2_vibeplayer_sub": "https://vibeplayer.site/3c26c2a8456e78ab",
+          "287-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c26c2a8456e78ab/master.m3u8"
+        },
+        "HD-2": {
+          "287-malep-2_vibeplayer_sub": "https://vibeplayer.site/ag0aef8d068bb423ff244ecd897970960c4h",
+          "287-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-2_otakuvid_sub": "https://otakuvid.online/embed/zu7gw9vohb4l",
+          "287-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "287-malep-2_vibeplayer_hsub": "https://vibeplayer.site/b3baf5dd82617a0a",
+          "287-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3baf5dd82617a0a/master.m3u8"
+        },
+        "HD-2": {
+          "287-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag7a3a149f8312427a537de3c77038a1f64h",
+          "287-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "287-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/frfczvrg5sb7",
+          "287-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

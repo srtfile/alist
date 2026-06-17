@@ -1,0 +1,65 @@
+{
+  "anime_name": "Dramatical Murder Dataxxtransitory",
+  "anime_url": "https://hianime.ad/anime/dramatical-murder-dataxxtransitory",
+  "slug": "dramatical-murder-dataxxtransitory",
+  "mal_id": 23333,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:57:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Data_01_Login",
+      "episode_url": "https://hianime.ad/watch/dramatical-murder-dataxxtransitory/ep-1",
+      "sub": {
+        "HD-1": {
+          "23333-malep-1_vibeplayer_sub": "https://vibeplayer.site/b9fadd07e8bc5d96",
+          "23333-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9fadd07e8bc5d96/master.m3u8"
+        },
+        "HD-2": {
+          "23333-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag5263fec91bb8fec5fbab4f3e1f6cac494h",
+          "23333-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23333-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ng58ya2jkvda",
+          "23333-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23333-malep-1_vibeplayer_dub": "https://vibeplayer.site/6d5ba45ce808cf18",
+          "23333-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6d5ba45ce808cf18/master.m3u8"
+        },
+        "HD-2": {
+          "23333-malep-1_vibeplayer_dub": "https://vibeplayer.site/agfd6fde56943165c63717e2c12841b15f4h",
+          "23333-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "23333-malep-1_otakuvid_dub": "https://otakuvid.online/embed/j22befvuw1lo",
+          "23333-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7deedaaa28e9da24",
+          "23333-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7deedaaa28e9da24/master.m3u8"
+        },
+        "HD-2": {
+          "23333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga89e2a2bb592397cff656920395da9734h",
+          "23333-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "23333-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gzf71xl8hj2s",
+          "23333-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23333-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ti677ki2awlv",
+          "23333-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23333-malep-1_playmogo_hsub": "https://playmogo.com/e/3ewvf0r5587x",
+          "23333-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

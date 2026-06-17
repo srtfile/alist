@@ -1,0 +1,52 @@
+{
+  "anime_name": "Fategrand Order First Order",
+  "anime_url": "https://hianime.ad/anime/fategrand-order-first-order",
+  "slug": "fategrand-order-first-order",
+  "mal_id": 38084,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:13:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolute Demonic Front Babylonia",
+      "episode_url": "https://hianime.ad/watch/fategrand-order-first-order/ep-1",
+      "sub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/1e2ae3df28e1fd4c",
+          "38084-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e2ae3df28e1fd4c/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd6e2f5226afd5d4517217886f6f428a04h",
+          "38084-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_sub": "https://otakuhg.site/e/11n9qmi4htkw",
+          "38084-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2k1skvg9wzlm",
+          "38084-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e31715257eecd976",
+          "38084-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e31715257eecd976/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb4475d133354b8b2543b64ae5922ed2e4h",
+          "38084-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_hsub": "https://otakuhg.site/e/h4pur2k7wmn3",
+          "38084-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/go7wddfhqe11",
+          "38084-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

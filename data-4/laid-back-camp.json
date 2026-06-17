@@ -1,0 +1,555 @@
+{
+  "anime_name": "Laid Back Camp",
+  "anime_url": "https://hianime.ad/anime/laid-back-camp",
+  "slug": "laid-back-camp",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T04:16:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mount Fuji and Curry Noodles",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c076867843d39235",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c076867843d39235/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/qjot6p371ger",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/3lc7npkjfqff",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/7adfb94d18b98db9",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7adfb94d18b98db9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/p2u5co1ixhxd",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/0df940e54a4a9966",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0df940e54a4a9966/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/mkeya8w96f6z",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/86cv7q0xyi3i",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/dht3tozl2x0k",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Welcome to the Outdoor Activities Club",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/4a9eddff69b71c07",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4a9eddff69b71c07/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/15jkafrxz579",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/mwbhcm0523ux",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/5a06af07ce2c40c6",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a06af07ce2c40c6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/zczuf3vlbzk7",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/a3af3eb477055a61",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a3af3eb477055a61/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/il2c1f5kfnhn",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/6ggqdbdw6891",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/3j6jxjgh1tzw",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mount Fuji and Relaxed Hot Pot Camp",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/dbcb523b5b38cba2",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dbcb523b5b38cba2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/alky74006yq3",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/pvtx2snjygze",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/565017c44490d521",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/565017c44490d521/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/556ozuznjkrt",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/85e0d49c1730db84",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85e0d49c1730db84/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/qczt9cha4aom",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/coy4tklwdspi",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/sp42f5s17hln",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Outdoor Activities Club and the Solo Camping Girl",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/d72cab5a5db478d6",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d72cab5a5db478d6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/b4g0fqokmkl6",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/8ef2je7k914h",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/bba4759da94f0975",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bba4759da94f0975/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/repq4wq8o01h",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/x8vixcpocnet",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/55b94ca8482a80ce",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55b94ca8482a80ce/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/rp5b6tdq4bt7",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/zr8ix1a5f4w4",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/8x4o5f3ovjbx",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Two Camps, Two Campers' Views",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/bbef2c629becaf2e",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bbef2c629becaf2e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/z739f56hrlin",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/tkaaqbvs6qcr",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/74a5d751c3fd0ded",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/74a5d751c3fd0ded/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/hhh6rw74z3v5",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/8psmf0ck3w7v",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/c328a0691eae0186",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c328a0691eae0186/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/v57l79iwuhur",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ftcak5nikghs",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/imundib19l1c",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Meat and Fall Colors and the Mystery Lake",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/488e18af2ec25d62",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/488e18af2ec25d62/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/2epybvbxc712",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/877fbb797cd53631",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/877fbb797cd53631/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/vuklhw7oyx57",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/770fef34c440dc58",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/770fef34c440dc58/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/952lw80u4dpu",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/56g8ln0782tc",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/96hu8l1re17g",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Night on the Lake Shore and Campers",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/343e60f82a4d58a5",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/343e60f82a4d58a5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/irzwwbulcdad",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/esdj6m2c18rc",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/e97670d4a34b5c79",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e97670d4a34b5c79/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/uhvl67zgzqvn",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/1a5d5efef112372b",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a5d5efef112372b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/6mco0txtp0r6",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/yiqilbj2plyf",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/myjzx31eitan",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Exams, Caribou, Steamed Buns, Yum!",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/ce4c04082389e8eb",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce4c04082389e8eb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/q7f06jrybrwy",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/v4eh3ojo4dzu",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/331801d40e5b15b6",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/331801d40e5b15b6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/z60hx8n5sf5f",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/62d46e1d4218352a",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/62d46e1d4218352a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/okiw37amdcms",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/6u6h3xui9dn2",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/ygrt7t2mobod",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Night of Navigator Nadeshiko and Hot Spring Steam",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/91e6baed71e9750e",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/91e6baed71e9750e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/jqjvzvhzbdv7",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/856ba26c91980885",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/856ba26c91980885/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/pcrey4tkb324",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/653ebf1a33d081b5",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/653ebf1a33d081b5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/ng97cme0ogpk",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/jt8qdqyaney7",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/hz1l3oxwziji",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Clumsy Travelers and Camp Meetings",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/ffca48abe2057a4f",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ffca48abe2057a4f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/gwje0l4x48sp",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/97aec4503e2ba839",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/97aec4503e2ba839/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/xaez4steeluq",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/2ee9b611596dfe51",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ee9b611596dfe51/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/ix7bk9kvzs44",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/4vyp4irb0ggd",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/cfigq91f01lz",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Christmas Camp!",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/f5ceb7401c3708f0",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f5ceb7401c3708f0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_sub": "https://otakuhg.site/e/sfjkeoxk1le9",
+          "malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/pjfsiee1a0lq",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/6bcc602f905942ee",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6bcc602f905942ee/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/ss5i8qs9nwbs",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/6af00e70d9181bc6",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6af00e70d9181bc6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/piuyr0r194ja",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/g8fwfcpsmqit",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/1tmdyvxf5ukw",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mount Fuji and the Laid-Back Camp Girls",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/1bcd11436cd92ac4",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1bcd11436cd92ac4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/vgvzdp5yxweo",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/1764cedcbe0e4cb1",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1764cedcbe0e4cb1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/merr8aucz0v6",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/095788a7b3be94d8",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/095788a7b3be94d8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/5hp1w63ofnqt",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/pmvirs0shhdb",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/77h80a4w1rph",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

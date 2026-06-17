@@ -1,0 +1,40 @@
+{
+  "anime_name": "Lupin Iii Prison Of The Past",
+  "anime_url": "https://hianime.ad/anime/lupin-iii-prison-of-the-past",
+  "slug": "lupin-iii-prison-of-the-past",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:03:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/lupin-iii-prison-of-the-past/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/935a239e4a5388ee",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/935a239e4a5388ee/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/w9fm8d2mbh0t",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/70b2dd88fe48ce45",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70b2dd88fe48ce45/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c5ejo891iplb",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/78sgxeza1vzh",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

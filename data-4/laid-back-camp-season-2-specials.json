@@ -1,0 +1,81 @@
+{
+  "anime_name": "Laid Back Camp Season 2 Specials",
+  "anime_url": "https://hianime.ad/anime/laid-back-camp-season-2-specials",
+  "slug": "laid-back-camp-season-2-specials",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T04:17:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp-season-2-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/73a68374ab4309b2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73a68374ab4309b2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/gc61dyw29wi8",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f58d6a23d6f33ac0",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f58d6a23d6f33ac0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/5mdcvhfh6so4",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ycqxata76k5q",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/31p2r7fl4jut",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/laid-back-camp-season-2-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/0cf285319aba60d3",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0cf285319aba60d3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/1k82vewmqbiq",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/87qpf2d9x22b",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/483b12d0a8be6126",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/483b12d0a8be6126/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/n7r2v4f2j75w",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/q2k8cx17jwr9",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/ie3hf9ullgyn",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

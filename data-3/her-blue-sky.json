@@ -1,0 +1,52 @@
+{
+  "anime_name": "Her Blue Sky",
+  "anime_url": "https://hianime.ad/anime/her-blue-sky",
+  "slug": "her-blue-sky",
+  "mal_id": 38573,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:34:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy Thought He Was Embarking on a Great Adventure... But, Uh, What's Going on Here?",
+      "episode_url": "https://hianime.ad/watch/her-blue-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_sub": "https://vibeplayer.site/a6c35e48a9b95ad2",
+          "38573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6c35e48a9b95ad2/master.m3u8"
+        },
+        "StreamHG": {
+          "38573-malep-1_otakuhg_sub": "https://otakuhg.site/e/rwzd50tklg2e",
+          "38573-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ia05sveu5zza",
+          "38573-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_sub": "https://playmogo.com/e/vyskxl39uzym",
+          "38573-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "38573-malep-1_vibeplayer_dub": "https://vibeplayer.site/dae595bd758acb49",
+          "38573-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dae595bd758acb49/master.m3u8"
+        },
+        "StreamHG": {
+          "38573-malep-1_otakuhg_dub": "https://otakuhg.site/e/3fl04i2sxdfn",
+          "38573-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "38573-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pnvhfmxk4xno",
+          "38573-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "38573-malep-1_playmogo_dub": "https://playmogo.com/e/018h5wkgf4z7",
+          "38573-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

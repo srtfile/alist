@@ -1,0 +1,48 @@
+{
+  "anime_name": "Gundam Build Fighters Gm No Gyakushuu",
+  "anime_url": "https://hianime.ad/anime/gundam-build-fighters-gm-no-gyakushuu",
+  "slug": "gundam-build-fighters-gm-no-gyakushuu",
+  "mal_id": 19319,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:18:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sei and Reiji",
+      "episode_url": "https://hianime.ad/watch/gundam-build-fighters-gm-no-gyakushuu/ep-1",
+      "sub": {
+        "HD-1": {
+          "19319-malep-1_vibeplayer_sub": "https://vibeplayer.site/9128b0ba7e4bf01d",
+          "19319-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9128b0ba7e4bf01d/master.m3u8"
+        },
+        "Earnvids": {
+          "19319-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pmfxsleuj51c",
+          "19319-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "19319-malep-1_playmogo_sub": "https://playmogo.com/e/ik54mxekrzjh",
+          "19319-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19319-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fc6527cfcbaaaa68",
+          "19319-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc6527cfcbaaaa68/master.m3u8"
+        },
+        "StreamHG": {
+          "19319-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xtmmzevjgedw",
+          "19319-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19319-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r12z3xjishis",
+          "19319-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19319-malep-1_playmogo_hsub": "https://playmogo.com/e/jvl7fc9h23ds",
+          "19319-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

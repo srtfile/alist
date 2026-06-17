@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kimama Ni Idol",
+  "anime_url": "https://hianime.ad/anime/kimama-ni-idol",
+  "slug": "kimama-ni-idol",
+  "mal_id": 53516,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T09:38:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Reincarnated as the Seventh Prince",
+      "episode_url": "https://hianime.ad/watch/kimama-ni-idol/ep-1",
+      "sub": {
+        "HD-1": {
+          "53516-malep-1_vibeplayer_sub": "https://vibeplayer.site/a4da5b4a7270e97f",
+          "53516-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a4da5b4a7270e97f/master.m3u8"
+        },
+        "Earnvids": {
+          "53516-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t8n0xkqmtmhv",
+          "53516-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53516-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1210d630f47904d4",
+          "53516-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1210d630f47904d4/master.m3u8"
+        },
+        "Earnvids": {
+          "53516-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ms26e5wk0nt2",
+          "53516-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53516-malep-1_playmogo_hsub": "https://playmogo.com/e/4avvwfridttd",
+          "53516-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

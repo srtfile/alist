@@ -1,0 +1,73 @@
+{
+  "anime_name": "Digimon Tamers Battle Of Adventurers",
+  "anime_url": "https://hianime.ad/anime/digimon-tamers-battle-of-adventurers",
+  "slug": "digimon-tamers-battle-of-adventurers",
+  "mal_id": 874,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:34:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Guilmon Comes Alive",
+      "episode_url": "https://hianime.ad/watch/digimon-tamers-battle-of-adventurers/ep-1",
+      "sub": {
+        "HD-1": {
+          "874-malep-1_vibeplayer_sub": "https://vibeplayer.site/d7f7fb0d64e7c0e0",
+          "874-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d7f7fb0d64e7c0e0/master.m3u8"
+        },
+        "HD-2": {
+          "874-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag52cfcc0b78f14ecd98f0862a5e94e7974h",
+          "874-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "874-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cyklr23xashe",
+          "874-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "874-malep-1_playmogo_sub": "https://playmogo.com/e/rtidztfuqefk",
+          "874-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "874-malep-1_vibeplayer_dub": "https://vibeplayer.site/ac023288cb1fb315",
+          "874-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ac023288cb1fb315/master.m3u8"
+        },
+        "HD-2": {
+          "874-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag3c3bac5d4a9b772a1734982f349a7f7b4h",
+          "874-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "874-malep-1_otakuhg_dub": "https://otakuhg.site/e/cs1xg9oqna3c",
+          "874-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "874-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ykhlbyetxovo",
+          "874-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "874-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe3d4357485b2a29",
+          "874-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe3d4357485b2a29/master.m3u8"
+        },
+        "HD-2": {
+          "874-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfe2bdb7c3c11bd5e50d6bbc4b74cb64e4h",
+          "874-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "874-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ipas4fbvj92x",
+          "874-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "874-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lm3ehqhu8et9",
+          "874-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "874-malep-1_playmogo_hsub": "https://playmogo.com/e/qp6fsqr5knk5",
+          "874-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

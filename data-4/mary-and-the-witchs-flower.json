@@ -1,0 +1,61 @@
+{
+  "anime_name": "Mary And The Witchs Flower",
+  "anime_url": "https://hianime.ad/anime/mary-and-the-witchs-flower",
+  "slug": "mary-and-the-witchs-flower",
+  "mal_id": 2701,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:50:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/mary-and-the-witchs-flower/ep-1",
+      "sub": {
+        "HD-1": {
+          "2701-malep-1_vibeplayer_sub": "https://vibeplayer.site/48b9a32c9ba3b60c",
+          "2701-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/48b9a32c9ba3b60c/master.m3u8"
+        },
+        "Earnvids": {
+          "2701-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hmohc3fbf9w5",
+          "2701-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2701-malep-1_vibeplayer_dub": "https://vibeplayer.site/3e724912e6daecf8",
+          "2701-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3e724912e6daecf8/master.m3u8"
+        },
+        "StreamHG": {
+          "2701-malep-1_otakuhg_dub": "https://otakuhg.site/e/o7l4aybf4lme",
+          "2701-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2701-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hakk0j0lrbsh",
+          "2701-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2701-malep-1_playmogo_dub": "https://playmogo.com/e/xv9nn06gex67",
+          "2701-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2701-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e818dfdd43034b27",
+          "2701-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e818dfdd43034b27/master.m3u8"
+        },
+        "StreamHG": {
+          "2701-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s3rred5cb3dt",
+          "2701-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2701-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bkqyh1bdn09a",
+          "2701-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2701-malep-1_playmogo_hsub": "https://playmogo.com/e/fxwoiq7koox6",
+          "2701-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

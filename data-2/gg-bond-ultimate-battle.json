@@ -1,0 +1,36 @@
+{
+  "anime_name": "Gg Bond Ultimate Battle",
+  "anime_url": "https://hianime.ad/anime/gg-bond-ultimate-battle",
+  "slug": "gg-bond-ultimate-battle",
+  "mal_id": 38136,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:27:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/gg-bond-ultimate-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "38136-malep-1_vibeplayer_sub": "https://vibeplayer.site/3ba297405ae29f05",
+          "38136-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ba297405ae29f05/master.m3u8"
+        },
+        "Earnvids": {
+          "38136-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g1mm5pjsr54n",
+          "38136-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38136-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f293bcb5bd4a88fd",
+          "38136-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f293bcb5bd4a88fd/master.m3u8"
+        },
+        "Earnvids": {
+          "38136-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ogmcavf7kkd",
+          "38136-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

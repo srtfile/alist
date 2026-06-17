@@ -1,0 +1,51 @@
+{
+  "anime_name": "Granblue Fantasy The Animation Season 2 Extras",
+  "anime_url": "https://hianime.ad/anime/granblue-fantasy-the-animation-season-2-extras",
+  "slug": "granblue-fantasy-the-animation-season-2-extras",
+  "mal_id": 36587,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T18:49:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Skyfarers in the Blue",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation-season-2-extras/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "36587-malep-1_vibeplayer_dub": "https://vibeplayer.site/8a1ad4be4d3fbc5c",
+          "36587-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a1ad4be4d3fbc5c/master.m3u8"
+        },
+        "StreamHG": {
+          "36587-malep-1_otakuhg_dub": "https://otakuhg.site/e/l2o7sbtd9lle",
+          "36587-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "36587-malep-1_otakuvid_dub": "https://otakuvid.online/embed/d9y1xsonwi3p",
+          "36587-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Albion Citadel",
+      "episode_url": "https://hianime.ad/watch/granblue-fantasy-the-animation-season-2-extras/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "36587-malep-2_vibeplayer_dub": "https://vibeplayer.site/0ba4ca818f0c0c03",
+          "36587-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ba4ca818f0c0c03/master.m3u8"
+        },
+        "StreamHG": {
+          "36587-malep-2_otakuhg_dub": "https://otakuhg.site/e/m48lm51uuh6c",
+          "36587-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "36587-malep-2_otakuvid_dub": "https://otakuvid.online/embed/81e6u637cd5g",
+          "36587-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

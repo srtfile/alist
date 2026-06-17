@@ -1,0 +1,409 @@
+{
+  "anime_name": "Ebiten",
+  "anime_url": "https://hianime.ad/anime/ebiten",
+  "slug": "ebiten",
+  "mal_id": null,
+  "total_episodes": 10,
+  "captured_at": "2026-06-03T10:11:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Legend of the Struggling Astronomy Club",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/17cb52c681fcd7c3",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/17cb52c681fcd7c3/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3ac9846b9001d7af08c10c7b8476296e4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/egodr9uxk1st",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/8kv30ty09owr",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/63cf1741084a7bc9",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/63cf1741084a7bc9/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag0002389ceab64adc7b1c89d3d0d041db4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/mizryguh3jgf",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0bak8lvafcgo",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/b5hier0c9m0n",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Crybaby Hakata's Transformation of Splendor",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/9dc2a1846bf27f8d",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9dc2a1846bf27f8d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/ag2002ad258e2eb844a4a58d75233d82e74h",
+          "malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/t70rq5agu4r0",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/d43b8c4bfadf4337",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d43b8c4bfadf4337/master.m3u8"
+        },
+        "HD-2": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/agc89163d00b3b9c4fc99e158ed96a13994h",
+          "malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/6fn6xdstutxb",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/siky27fk5shu",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Put Love Into It, Not Konpeito",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/a6b15ffcde333457",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6b15ffcde333457/master.m3u8"
+        },
+        "HD-2": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/ag75f053b93898ec54d497fa025dfb1c784h",
+          "malep-3_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/gzme6yibuf1k",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/6e7167572f86678f",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e7167572f86678f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/ag4d6a9b69664b5f49e69c4c515a243f394h",
+          "malep-3_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/v9aoflpmyy5i",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/cu8vukzr6gld",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Stamp 2012",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/29af92c3029c3b7d",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/29af92c3029c3b7d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/ag94a3dda5137a69132209ed0030df21394h",
+          "malep-4_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/vh1am932m2zm",
+          "malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_sub": "https://playmogo.com/e/l4rsxhf1uqwo",
+          "malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/480d0d9a51540b8d",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/480d0d9a51540b8d/master.m3u8"
+        },
+        "HD-2": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/ag33736908ea9625531bf4a492ce235a914h",
+          "malep-4_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/3dyewuuqmkvj",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/sbsv8r3502oy",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "This is the Agonizing Astronomy Club of Miracles! A Maid has Landed!",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/20fc57d0e48815af",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20fc57d0e48815af/master.m3u8"
+        },
+        "HD-2": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/ag22d239d1004b7639d723227d915c6bab4h",
+          "malep-5_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/pmdo1ry1ys5s",
+          "malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_sub": "https://playmogo.com/e/x69j4144mv9w",
+          "malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/9b18928b1a292928",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b18928b1a292928/master.m3u8"
+        },
+        "HD-2": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/age618aab789525c88c6d327861bae59814h",
+          "malep-5_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/yiajf82ngzlj",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/if58hlausfko",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Aim for the Stars! The Girl that Dreams of Love",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/41648c61162ea2f6",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/41648c61162ea2f6/master.m3u8"
+        },
+        "HD-2": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/ag6561dbdecbb46416c4931989d58941134h",
+          "malep-6_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/v6syf7y81y3j",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/bb61210075ff9e7f",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb61210075ff9e7f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/ag410292241599eed0adfbb6461e08faa04h",
+          "malep-6_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/8p795swiuxtw",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/k42doyj065w4",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Viva Astronomy",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/e0a0d2469c460e67",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e0a0d2469c460e67/master.m3u8"
+        },
+        "HD-2": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/age893de55dc1d6efb1f2c178e82c43f134h",
+          "malep-7_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/mqyp0w2vx9ur",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/c5219d7ce46f1979",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5219d7ce46f1979/master.m3u8"
+        },
+        "HD-2": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/ag911d42e0f7624e0abc7b2827ae50c79b4h",
+          "malep-7_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/gy4wc4q1965w",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/yd5qhgd7lwzx",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Agonizing Astronomy Club's Special Endless Herb Pheromone",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/70a58fcdcdac2dfc",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70a58fcdcdac2dfc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/ag02a6fa6049d5f8b35e1cdb019b5e9b764h",
+          "malep-8_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/ft53yj1s6zk3",
+          "malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_sub": "https://playmogo.com/e/csvkeo7xvncv",
+          "malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/13a2ba9dd030ba1b",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/13a2ba9dd030ba1b/master.m3u8"
+        },
+        "HD-2": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/ag271af1528e8246676cfeff52608fc33d4h",
+          "malep-8_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/cskww9d2x2u8",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/au9joi72rpr3",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Astronomy Club's Great Victory! Ready, Go Towards Tomorrow!!",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/822a2aeebbc02adc",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/822a2aeebbc02adc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/ag40b3f5f388d6aacf76035b941e7158b84h",
+          "malep-9_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/p184677rogmp",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/0f4df5a7e10afd0f",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f4df5a7e10afd0f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/ag9a22944138245a26371a70e70484e5604h",
+          "malep-9_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/kz141ex92jwe",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/ul64zp0auupn",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beautiful Dreamers",
+      "episode_url": "https://hianime.ad/watch/ebiten/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/a537134bfa4c77d0",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a537134bfa4c77d0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/ag4e21b8ab829b34acbf6c8b7f522aaac04h",
+          "malep-10_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/nmxir99142p4",
+          "malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_sub": "https://playmogo.com/e/e7h0y335hiw9",
+          "malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/ab104a05bf88f5cb",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab104a05bf88f5cb/master.m3u8"
+        },
+        "HD-2": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/agb975f7a9d331ca8e84079b16a7cdc89f4h",
+          "malep-10_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/v8s4y7pvibvi",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/edrgsvycz4xy",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/s2cgjq42iovl",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

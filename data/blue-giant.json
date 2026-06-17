@@ -1,0 +1,56 @@
+{
+  "anime_name": "Blue Giant",
+  "anime_url": "https://hianime.ad/anime/blue-giant",
+  "slug": "blue-giant",
+  "mal_id": 2964,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:58:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hydrangea",
+      "episode_url": "https://hianime.ad/watch/blue-giant/ep-1",
+      "sub": {
+        "HD-1": {
+          "2964-malep-1_vibeplayer_sub": "https://vibeplayer.site/a435a34cbcbff751",
+          "2964-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a435a34cbcbff751/master.m3u8"
+        },
+        "HD-2": {
+          "2964-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag260d08f3043abd13948728d1313c401d4h",
+          "2964-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2964-malep-1_otakuvid_sub": "https://otakuvid.online/embed/glogvejh2efj",
+          "2964-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2964-malep-1_playmogo_sub": "https://playmogo.com/e/oy7ratwk8fhk",
+          "2964-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f107947bdcb7ab9c",
+          "2964-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f107947bdcb7ab9c/master.m3u8"
+        },
+        "HD-2": {
+          "2964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag116e53d581fab9530e0693b04b1a5a4a4h",
+          "2964-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2964-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ogtrai5a32rs",
+          "2964-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2964-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/624f261fjirw",
+          "2964-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2964-malep-1_playmogo_hsub": "https://playmogo.com/e/c4np4ogxgxba",
+          "2964-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

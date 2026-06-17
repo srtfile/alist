@@ -1,0 +1,44 @@
+{
+  "anime_name": "Mobile Suit Gundam Unicorn Episode Ex 100 Years Of Solitude",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude",
+  "slug": "mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude",
+  "mal_id": 32792,
+  "total_episodes": 1,
+  "captured_at": "2026-06-11T07:58:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure 0096",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude/ep-1",
+      "sub": {
+        "HD-1": {
+          "32792-malep-1_vibeplayer_sub": "https://vibeplayer.site/7748178424a97345",
+          "32792-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7748178424a97345/master.m3u8"
+        },
+        "Earnvids": {
+          "32792-malep-1_otakuvid_sub": "https://otakuvid.online/embed/01vq3hy13cdr",
+          "32792-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32792-malep-1_vibeplayer_hsub": "https://vibeplayer.site/844bc0ed980fffc4",
+          "32792-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/844bc0ed980fffc4/master.m3u8"
+        },
+        "StreamHG": {
+          "32792-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2lx51s25is9n",
+          "32792-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32792-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/khkrzzs5ugq0",
+          "32792-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32792-malep-1_playmogo_hsub": "https://playmogo.com/e/0u4xtea4e37k",
+          "32792-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

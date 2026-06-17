@@ -1,0 +1,81 @@
+{
+  "anime_name": "Evangelion 3 0 You Can Not Redo",
+  "anime_url": "https://hianime.ad/anime/evangelion-3-0-you-can-not-redo",
+  "slug": "evangelion-3-0-you-can-not-redo",
+  "mal_id": 30,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:41:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Angel Attack",
+      "episode_url": "https://hianime.ad/watch/evangelion-3-0-you-can-not-redo/ep-1",
+      "sub": {
+        "HD-1": {
+          "30-malep-1_vibeplayer_sub": "https://vibeplayer.site/1d73a290ba65cecf",
+          "30-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1d73a290ba65cecf/master.m3u8"
+        },
+        "HD-2": {
+          "30-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc950e3ceb48ea47748b4a4e18a9f0b664h",
+          "30-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "30-malep-1_otakuhg_sub": "https://otakuhg.site/e/5a7x34dv5pjr",
+          "30-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dffe85ynt1ll",
+          "30-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "30-malep-1_playmogo_sub": "https://playmogo.com/e/p7kvx7uyz9uc",
+          "30-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "30-malep-1_vibeplayer_dub": "https://vibeplayer.site/82b98360a38837e0",
+          "30-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/82b98360a38837e0/master.m3u8"
+        },
+        "HD-2": {
+          "30-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag38e16e3b396425d12e04c844ee033bbe4h",
+          "30-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "30-malep-1_otakuhg_dub": "https://otakuhg.site/e/rofzrp366i9p",
+          "30-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "30-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ersf3camnzra",
+          "30-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "30-malep-1_playmogo_dub": "https://playmogo.com/e/mwnw90jshm8e",
+          "30-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "30-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8496f2ca81b00cf",
+          "30-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8496f2ca81b00cf/master.m3u8"
+        },
+        "HD-2": {
+          "30-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agef42971f327ef18aa177775919638a2a4h",
+          "30-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30-malep-1_otakuhg_hsub": "https://otakuhg.site/e/viea6n4dafas",
+          "30-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gs4jylmulirg",
+          "30-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30-malep-1_playmogo_hsub": "https://playmogo.com/e/0ekydw5j6nnc",
+          "30-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

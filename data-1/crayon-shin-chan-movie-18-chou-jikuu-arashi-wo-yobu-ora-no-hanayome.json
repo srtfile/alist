@@ -1,0 +1,56 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 18 Chou Jikuu Arashi Wo Yobu Ora No Hanayome",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-18-chou-jikuu-arashi-wo-yobu-ora-no-hanayome",
+  "slug": "crayon-shin-chan-movie-18-chou-jikuu-arashi-wo-yobu-ora-no-hanayome",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:42:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-18-chou-jikuu-arashi-wo-yobu-ora-no-hanayome/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/0a2ca42c2b4cb818",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0a2ca42c2b4cb818/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agb498e363b6a25b46257c36db6c401bb44h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/jcx1jm8sp84m",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/xi1cn254i5vc",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c08b98d251e5f1c3",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c08b98d251e5f1c3/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2e2fdcbdfd64b64f413e4292fd15699f4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/cj0gkv1qcqwg",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h2e84wkdgd5l",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/6sehk94x05q9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Diabolik Lovers Recap",
+  "anime_url": "https://hianime.ad/anime/diabolik-lovers-recap",
+  "slug": "diabolik-lovers-recap",
+  "mal_id": 17513,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:23:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Untitled",
+      "episode_url": "https://hianime.ad/watch/diabolik-lovers-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "17513-malep-1_vibeplayer_sub": "https://vibeplayer.site/45b4e493e57dcf2d",
+          "17513-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45b4e493e57dcf2d/master.m3u8"
+        },
+        "HD-2": {
+          "17513-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6ba018c81301a86c451a8879f7728e004h",
+          "17513-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "17513-malep-1_otakuvid_sub": "https://otakuvid.online/embed/txaky23av7kn",
+          "17513-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "17513-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ddec8430fddea338",
+          "17513-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ddec8430fddea338/master.m3u8"
+        },
+        "HD-2": {
+          "17513-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4cf0260aecbc6e188e4661a6bd1475414h",
+          "17513-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "17513-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yqd9c9x8t1d1",
+          "17513-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "17513-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6q7lunybw9z6",
+          "17513-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "17513-malep-1_playmogo_hsub": "https://playmogo.com/e/zj54f2etlbzc",
+          "17513-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

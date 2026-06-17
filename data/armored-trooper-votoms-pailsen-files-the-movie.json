@@ -1,0 +1,52 @@
+{
+  "anime_name": "Armored Trooper Votoms Pailsen Files The Movie",
+  "anime_url": "https://hianime.ad/anime/armored-trooper-votoms-pailsen-files-the-movie",
+  "slug": "armored-trooper-votoms-pailsen-files-the-movie",
+  "mal_id": 2582,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:21:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "War's End",
+      "episode_url": "https://hianime.ad/watch/armored-trooper-votoms-pailsen-files-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2582-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce8f18e5cefd731c",
+          "2582-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce8f18e5cefd731c/master.m3u8"
+        },
+        "HD-2": {
+          "2582-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag318ed30fc5e22e4e0638875bac6bfe534h",
+          "2582-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2582-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6btngwy306w8",
+          "2582-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2582-malep-1_playmogo_sub": "https://playmogo.com/e/bizm6p0pdjjr",
+          "2582-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2582-malep-1_vibeplayer_hsub": "https://vibeplayer.site/57ec09aa764fa5e3",
+          "2582-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/57ec09aa764fa5e3/master.m3u8"
+        },
+        "HD-2": {
+          "2582-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag302f126d8cb4cd4dd9a21d494bd345f34h",
+          "2582-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2582-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/worin9jukbdl",
+          "2582-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2582-malep-1_playmogo_hsub": "https://playmogo.com/e/fbacd1rzpufq",
+          "2582-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

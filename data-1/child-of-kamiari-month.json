@@ -1,0 +1,69 @@
+{
+  "anime_name": "Child Of Kamiari Month",
+  "anime_url": "https://hianime.ad/anime/child-of-kamiari-month",
+  "slug": "child-of-kamiari-month",
+  "mal_id": 1279,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:39:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Esteban, Child of the Sun",
+      "episode_url": "https://hianime.ad/watch/child-of-kamiari-month/ep-1",
+      "sub": {
+        "HD-1": {
+          "1279-malep-1_vibeplayer_sub": "https://vibeplayer.site/a44e8b7248bda5ac",
+          "1279-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a44e8b7248bda5ac/master.m3u8"
+        },
+        "HD-2": {
+          "1279-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag0b1f24cc6e25dd780c24ec6b2f0f974f4h",
+          "1279-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1279-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7768fbfvshw0",
+          "1279-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1279-malep-1_vibeplayer_dub": "https://vibeplayer.site/19206c2047a035c7",
+          "1279-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19206c2047a035c7/master.m3u8"
+        },
+        "HD-2": {
+          "1279-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag42e9464b08b138f36c26e675a9b16cb34h",
+          "1279-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1279-malep-1_otakuvid_dub": "https://otakuvid.online/embed/e6bypcnsmhzc",
+          "1279-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1279-malep-1_playmogo_dub": "https://playmogo.com/e/fvh4v19iu2nu",
+          "1279-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1279-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5df8877f0e507e80",
+          "1279-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5df8877f0e507e80/master.m3u8"
+        },
+        "HD-2": {
+          "1279-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb428e6e1b33fd9b58c84c3836d2a931f4h",
+          "1279-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1279-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yf5fnfo9cn12",
+          "1279-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1279-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bm4qacgods1k",
+          "1279-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1279-malep-1_playmogo_hsub": "https://playmogo.com/e/87wqcxv20pi6",
+          "1279-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

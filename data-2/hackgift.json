@@ -1,0 +1,52 @@
+{
+  "anime_name": "Hackgift",
+  "anime_url": "https://hianime.ad/anime/hackgift",
+  "slug": "hackgift",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T15:18:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/hackgift/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b61c0d87d18808ce",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b61c0d87d18808ce/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agfd86366bc3c2d10ce3b3b3dbd25a2fa64h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/4efp7acszfu0",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/3asmwsgc6cdi",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/d4d79f868a1fa221",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d4d79f868a1fa221/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdabc9b1c03756c81b666f1c52dc74eac4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/m7oy6st237id",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e661yumh5z3i",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

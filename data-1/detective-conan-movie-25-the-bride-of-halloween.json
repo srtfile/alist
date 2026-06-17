@@ -1,0 +1,52 @@
+{
+  "anime_name": "Detective Conan Movie 25 The Bride Of Halloween",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-25-the-bride-of-halloween",
+  "slug": "detective-conan-movie-25-the-bride-of-halloween",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:11:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-25-the-bride-of-halloween/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f9ee7ba6797a1021",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9ee7ba6797a1021/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag41ce516a0c2f0f1476a92c5207b106a34h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/9go6mp1py7gx",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qi3vxv0ydd01",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/cd25899918c64ec9",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cd25899918c64ec9/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/ag45f0a280784cc624195365a4b8c056ed4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/jh397pczjb9y",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/2rr35r8v79kv",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

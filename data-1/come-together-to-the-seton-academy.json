@@ -1,0 +1,52 @@
+{
+  "anime_name": "Come Together To The Seton Academy",
+  "anime_url": "https://hianime.ad/anime/come-together-to-the-seton-academy",
+  "slug": "come-together-to-the-seton-academy",
+  "mal_id": 40483,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:23:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ranka the Wolf Boss",
+      "episode_url": "https://hianime.ad/watch/come-together-to-the-seton-academy/ep-1",
+      "sub": {
+        "HD-1": {
+          "40483-malep-1_vibeplayer_sub": "https://vibeplayer.site/f17c7d9f144087d5",
+          "40483-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f17c7d9f144087d5/master.m3u8"
+        },
+        "HD-2": {
+          "40483-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd13b0b89eac1d745b16b73c8bfe8cbd54h",
+          "40483-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "40483-malep-1_otakuhg_sub": "https://otakuhg.site/e/evwdf953ywvc",
+          "40483-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40483-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8ywfzcesqq20",
+          "40483-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40483-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f9e1cbe296023d34",
+          "40483-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f9e1cbe296023d34/master.m3u8"
+        },
+        "HD-2": {
+          "40483-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag784eb70ee0da339645a693e9407cdb394h",
+          "40483-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "40483-malep-1_otakuhg_hsub": "https://otakuhg.site/e/aclva1v3c3gn",
+          "40483-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40483-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c2pf9q5pgm8t",
+          "40483-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

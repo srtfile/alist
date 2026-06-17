@@ -1,0 +1,60 @@
+{
+  "anime_name": "Brave Witches Petersburg Grand Strategy",
+  "anime_url": "https://hianime.ad/anime/brave-witches-petersburg-grand-strategy",
+  "slug": "brave-witches-petersburg-grand-strategy",
+  "mal_id": 32866,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:35:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Witch of Sasebo?",
+      "episode_url": "https://hianime.ad/watch/brave-witches-petersburg-grand-strategy/ep-1",
+      "sub": {
+        "HD-1": {
+          "32866-malep-1_vibeplayer_sub": "https://vibeplayer.site/dad2c2308b1fe808",
+          "32866-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dad2c2308b1fe808/master.m3u8"
+        },
+        "HD-2": {
+          "32866-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1c8f1d4ce2717bda1fca20a34ceb1cd24h",
+          "32866-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "32866-malep-1_otakuhg_sub": "https://otakuhg.site/e/8xspwbs617uz",
+          "32866-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32866-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tsr4b5lg8l1z",
+          "32866-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32866-malep-1_playmogo_sub": "https://playmogo.com/e/zhe8d69ul254",
+          "32866-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32866-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d43213a86b8a080a",
+          "32866-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d43213a86b8a080a/master.m3u8"
+        },
+        "HD-2": {
+          "32866-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agacedb842ab4424bbe59fa975cd657a8f4h",
+          "32866-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "32866-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b1gjcbal7po2",
+          "32866-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32866-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2oi5ia0p98j6",
+          "32866-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32866-malep-1_playmogo_hsub": "https://playmogo.com/e/w64a71ob8oab",
+          "32866-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

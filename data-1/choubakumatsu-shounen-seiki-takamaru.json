@@ -1,0 +1,85 @@
+{
+  "anime_name": "Choubakumatsu Shounen Seiki Takamaru",
+  "anime_url": "https://hianime.ad/anime/choubakumatsu-shounen-seiki-takamaru",
+  "slug": "choubakumatsu-shounen-seiki-takamaru",
+  "mal_id": 35107,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T05:45:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/choubakumatsu-shounen-seiki-takamaru/ep-1",
+      "sub": {
+        "HD-1": {
+          "35107-malep-1_vibeplayer_sub": "https://vibeplayer.site/87831e430bf1f4f8",
+          "35107-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87831e430bf1f4f8/master.m3u8"
+        },
+        "HD-2": {
+          "35107-malep-1_vibeplayer_sub": "https://vibeplayer.site/age61af2508c712c940f635a0f9100fa354h",
+          "35107-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35107-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q4ncwrz4jkqv",
+          "35107-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35107-malep-1_vibeplayer_hsub": "https://vibeplayer.site/da2542d8b136ec14",
+          "35107-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/da2542d8b136ec14/master.m3u8"
+        },
+        "HD-2": {
+          "35107-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agab9d18dab541604a5648e1642e46c8534h",
+          "35107-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35107-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ilhxv1701upm",
+          "35107-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35107-malep-1_playmogo_hsub": "https://playmogo.com/e/1h2w9wjuqprp",
+          "35107-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/choubakumatsu-shounen-seiki-takamaru/ep-2",
+      "sub": {
+        "HD-1": {
+          "35107-malep-2_vibeplayer_sub": "https://vibeplayer.site/a84da8d3dc51ec5f",
+          "35107-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a84da8d3dc51ec5f/master.m3u8"
+        },
+        "HD-2": {
+          "35107-malep-2_vibeplayer_sub": "https://vibeplayer.site/agf71991f3adf5fdd1d858b732e6e867a34h",
+          "35107-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35107-malep-2_otakuvid_sub": "https://otakuvid.online/embed/qs4fte2ajsqn",
+          "35107-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35107-malep-2_vibeplayer_hsub": "https://vibeplayer.site/07d903f916ee4890",
+          "35107-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07d903f916ee4890/master.m3u8"
+        },
+        "HD-2": {
+          "35107-malep-2_vibeplayer_hsub": "https://vibeplayer.site/agc7535dbe6699092134295dbbaac57a6c4h",
+          "35107-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35107-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/hhhqn8u6u70p",
+          "35107-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35107-malep-2_playmogo_hsub": "https://playmogo.com/e/kqomwav4371x",
+          "35107-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

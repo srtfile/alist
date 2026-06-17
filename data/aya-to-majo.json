@@ -1,0 +1,35 @@
+{
+  "anime_name": "Aya To Majo",
+  "anime_url": "https://hianime.ad/anime/aya-to-majo",
+  "slug": "aya-to-majo",
+  "mal_id": 52816,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:54:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Witch and the City of Blazing Red",
+      "episode_url": "https://hianime.ad/watch/aya-to-majo/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "52816-malep-1_vibeplayer_dub": "https://vibeplayer.site/6a589adba9f134c7",
+          "52816-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6a589adba9f134c7/master.m3u8"
+        },
+        "HD-2": {
+          "52816-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5bfbdc44addafa884fd495cf9e03594a4h",
+          "52816-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "52816-malep-1_otakuhg_dub": "https://otakuhg.site/e/6k8gxyx1jnm9",
+          "52816-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "52816-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6aey5bvbheut",
+          "52816-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

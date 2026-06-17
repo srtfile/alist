@@ -1,0 +1,48 @@
+{
+  "anime_name": "Happy Go Lucky Days",
+  "anime_url": "https://hianime.ad/anime/happy-go-lucky-days",
+  "slug": "happy-go-lucky-days",
+  "mal_id": 31080,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:01:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Unfortunate First Day of School",
+      "episode_url": "https://hianime.ad/watch/happy-go-lucky-days/ep-1",
+      "sub": {
+        "HD-1": {
+          "31080-malep-1_vibeplayer_sub": "https://vibeplayer.site/2cc8ce0ce484f117",
+          "31080-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2cc8ce0ce484f117/master.m3u8"
+        },
+        "StreamHG": {
+          "31080-malep-1_otakuhg_sub": "https://otakuhg.site/e/sb8q8qaohj9e",
+          "31080-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31080-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d75rkupku2jv",
+          "31080-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31080-malep-1_playmogo_sub": "https://playmogo.com/e/djow3lvngn5x",
+          "31080-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31080-malep-1_vibeplayer_hsub": "https://vibeplayer.site/824ab68455724703",
+          "31080-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/824ab68455724703/master.m3u8"
+        },
+        "Earnvids": {
+          "31080-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lbmombwd343e",
+          "31080-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31080-malep-1_playmogo_hsub": "https://playmogo.com/e/ehm4rjm0ha7t",
+          "31080-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "anime_name": "Children Who Chase Lost Voices",
+  "anime_url": "https://hianime.ad/anime/children-who-chase-lost-voices",
+  "slug": "children-who-chase-lost-voices",
+  "mal_id": 34902,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:39:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Confession / She's a Slacker / The Student President's Woes / Spica",
+      "episode_url": "https://hianime.ad/watch/children-who-chase-lost-voices/ep-1",
+      "sub": {
+        "HD-1": {
+          "34902-malep-1_vibeplayer_sub": "https://vibeplayer.site/375c474606f29b9b",
+          "34902-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/375c474606f29b9b/master.m3u8"
+        },
+        "HD-2": {
+          "34902-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag033c1cfec18db53f243f1ecb9813a8c14h",
+          "34902-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "34902-malep-1_otakuhg_sub": "https://otakuhg.site/e/tfumqppbbq2j",
+          "34902-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34902-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bbyhjmxywi49",
+          "34902-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "34902-malep-1_vibeplayer_dub": "https://vibeplayer.site/135903f86c84e9c9",
+          "34902-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/135903f86c84e9c9/master.m3u8"
+        },
+        "HD-2": {
+          "34902-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag562812df0b84ef551c595c8a1e11685c4h",
+          "34902-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "34902-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cxl4yri6aqw0",
+          "34902-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "34902-malep-1_playmogo_dub": "https://playmogo.com/e/dxo6vlpwvczv",
+          "34902-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "34902-malep-1_vibeplayer_hsub": "https://vibeplayer.site/43cb6d3586b0221a",
+          "34902-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/43cb6d3586b0221a/master.m3u8"
+        },
+        "HD-2": {
+          "34902-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf289beae876b7c4d6d3f8620d914a4d24h",
+          "34902-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "34902-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i7hsdtu9op0i",
+          "34902-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34902-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q8yq2vrg8pv0",
+          "34902-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34902-malep-1_playmogo_hsub": "https://playmogo.com/e/knn4i7itai5c",
+          "34902-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

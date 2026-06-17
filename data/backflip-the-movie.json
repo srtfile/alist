@@ -1,0 +1,35 @@
+{
+  "anime_name": "Backflip The Movie",
+  "anime_url": "https://hianime.ad/anime/backflip-the-movie",
+  "slug": "backflip-the-movie",
+  "mal_id": 43756,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:09:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Want to Backflip!",
+      "episode_url": "https://hianime.ad/watch/backflip-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "43756-malep-1_vibeplayer_sub": "https://vibeplayer.site/8e47a0a78fe515f9",
+          "43756-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e47a0a78fe515f9/master.m3u8"
+        },
+        "HD-2": {
+          "43756-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag570feeaccacfd0b73b32a419bfe040f54h",
+          "43756-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "43756-malep-1_otakuhg_sub": "https://otakuhg.site/e/dutp7sbwi5tz",
+          "43756-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "43756-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9tinflokww4e",
+          "43756-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "anime_name": "L O R D Legend Of Ravaging Dynasties",
+  "anime_url": "https://hianime.ad/anime/l-o-r-d-legend-of-ravaging-dynasties",
+  "slug": "l-o-r-d-legend-of-ravaging-dynasties",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:12:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/l-o-r-d-legend-of-ravaging-dynasties/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/8de8f07e290cc3ed",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8de8f07e290cc3ed/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/dv5sv20tx5rl",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/oxzuoczkyzxw",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/zxeip503rghg",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/433793324b1809c9",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/433793324b1809c9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lmqccnit1ezs",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qruzfsklhtom",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

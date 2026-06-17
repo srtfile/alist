@@ -1,0 +1,56 @@
+{
+  "anime_name": "Fategrand Order Moonlightlostroom",
+  "anime_url": "https://hianime.ad/anime/fategrand-order-moonlightlostroom",
+  "slug": "fategrand-order-moonlightlostroom",
+  "mal_id": 38084,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:14:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolute Demonic Front Babylonia",
+      "episode_url": "https://hianime.ad/watch/fategrand-order-moonlightlostroom/ep-1",
+      "sub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/c6bad03a50bd099d",
+          "38084-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c6bad03a50bd099d/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb7061411d04cd56e7981de36fa62d9bb4h",
+          "38084-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_sub": "https://otakuhg.site/e/0ac0twa1fobn",
+          "38084-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r9pegdnnw4ps",
+          "38084-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ffc2c2ee1eb24660",
+          "38084-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ffc2c2ee1eb24660/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag3356e548e03ea1df1320eb3cb5ed0d774h",
+          "38084-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ccp7ocqv0q41",
+          "38084-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/puvqhf8jrt3h",
+          "38084-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38084-malep-1_playmogo_hsub": "https://playmogo.com/e/hpkub3uiwzcj",
+          "38084-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "anime_name": "Mahou No Tenshi Creamy Mami No Otogibanashi",
+  "anime_url": "https://hianime.ad/anime/mahou-no-tenshi-creamy-mami-no-otogibanashi",
+  "slug": "mahou-no-tenshi-creamy-mami-no-otogibanashi",
+  "mal_id": 2044,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:48:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ship of Feather Star",
+      "episode_url": "https://hianime.ad/watch/mahou-no-tenshi-creamy-mami-no-otogibanashi/ep-1",
+      "sub": {
+        "HD-1": {
+          "2044-malep-1_vibeplayer_sub": "https://vibeplayer.site/1724c25998d1b3ff",
+          "2044-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1724c25998d1b3ff/master.m3u8"
+        },
+        "Earnvids": {
+          "2044-malep-1_otakuvid_sub": "https://otakuvid.online/embed/edj5dbuxxnm3",
+          "2044-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2044-malep-1_vibeplayer_hsub": "https://vibeplayer.site/79953029e20624c8",
+          "2044-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/79953029e20624c8/master.m3u8"
+        },
+        "StreamHG": {
+          "2044-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ehurqz81jcew",
+          "2044-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2044-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3qbayfctignk",
+          "2044-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

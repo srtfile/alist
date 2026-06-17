@@ -1,0 +1,35 @@
+{
+  "anime_name": "Digimon Adventure Tri Loss",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-loss",
+  "slug": "digimon-adventure-tri-loss",
+  "mal_id": 552,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:27:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And So it Begins...",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-tri-loss/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/ed8b5ee9e5ef6ca7",
+          "552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed8b5ee9e5ef6ca7/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2d01f055343ed2a9061802a66b5e22214h",
+          "552-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_dub": "https://otakuhg.site/e/jhmhrpmhiid6",
+          "552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/t8bigugpkye0",
+          "552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

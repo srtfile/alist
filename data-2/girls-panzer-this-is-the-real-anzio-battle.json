@@ -1,0 +1,48 @@
+{
+  "anime_name": "Girls Panzer This Is The Real Anzio Battle",
+  "anime_url": "https://hianime.ad/anime/girls-panzer-this-is-the-real-anzio-battle",
+  "slug": "girls-panzer-this-is-the-real-anzio-battle",
+  "mal_id": 14131,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:05:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tankery, Here It Comes",
+      "episode_url": "https://hianime.ad/watch/girls-panzer-this-is-the-real-anzio-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_sub": "https://vibeplayer.site/ebea51141c2b3a02",
+          "14131-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ebea51141c2b3a02/master.m3u8"
+        },
+        "StreamHG": {
+          "14131-malep-1_otakuhg_sub": "https://otakuhg.site/e/n1pcjgwwm6yz",
+          "14131-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_sub": "https://otakuvid.online/embed/iervvy2m8jra",
+          "14131-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bf9dba4c0dcc0fef",
+          "14131-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf9dba4c0dcc0fef/master.m3u8"
+        },
+        "StreamHG": {
+          "14131-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i3saf44u1sk3",
+          "14131-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6pl28ivnwo3r",
+          "14131-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14131-malep-1_playmogo_hsub": "https://playmogo.com/e/1w0ffp7slbs6",
+          "14131-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

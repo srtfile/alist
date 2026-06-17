@@ -1,0 +1,48 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 16 The Storm Called The Hero Of Kinpoko",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-16-the-storm-called-the-hero-of-kinpoko",
+  "slug": "crayon-shin-chan-movie-16-the-storm-called-the-hero-of-kinpoko",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:42:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-16-the-storm-called-the-hero-of-kinpoko/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/145e90df7d60e4fa",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/145e90df7d60e4fa/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag821b9f5c28d9169e5fd13f6c989a2e9a4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/36phglpyecnj",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/8b267f140b992401",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b267f140b992401/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agde96a744031469c0c665b65c9f55f2074h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oywakk90ddzz",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/rxs6v30i04pk",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

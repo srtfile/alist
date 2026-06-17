@@ -1,0 +1,44 @@
+{
+  "anime_name": "Golden Kamuy Ova",
+  "anime_url": "https://hianime.ad/anime/golden-kamuy-ova",
+  "slug": "golden-kamuy-ova",
+  "mal_id": 36028,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:36:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wenkamuy",
+      "episode_url": "https://hianime.ad/watch/golden-kamuy-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "36028-malep-1_vibeplayer_sub": "https://vibeplayer.site/25c6a802b7dc1a3c",
+          "36028-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/25c6a802b7dc1a3c/master.m3u8"
+        },
+        "StreamHG": {
+          "36028-malep-1_otakuhg_sub": "https://otakuhg.site/e/c7ma2zssapzb",
+          "36028-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36028-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ygd6fdgrwngf",
+          "36028-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36028-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bb1e8f4b5c6a25c8",
+          "36028-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb1e8f4b5c6a25c8/master.m3u8"
+        },
+        "StreamHG": {
+          "36028-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zfqt7tti37dx",
+          "36028-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36028-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6pnq0heqofc1",
+          "36028-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "anime_name": "Fatestay Night Unlimited Blade Works",
+  "anime_url": "https://hianime.ad/anime/fatestay-night-unlimited-blade-works",
+  "slug": "fatestay-night-unlimited-blade-works",
+  "mal_id": 22297,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:58:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Winter Day, Fateful Night",
+      "episode_url": "https://hianime.ad/watch/fatestay-night-unlimited-blade-works/ep-1",
+      "sub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_sub": "https://vibeplayer.site/bb61ab2e14f97689",
+          "22297-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bb61ab2e14f97689/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd029746d996885c983de9f6da611be844h",
+          "22297-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "22297-malep-1_otakuhg_sub": "https://otakuhg.site/e/e6iwfp5u5kgi",
+          "22297-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_sub": "https://otakuvid.online/embed/j7kusqfnbbvl",
+          "22297-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "22297-malep-1_playmogo_sub": "https://playmogo.com/e/9ba2ak0hxaj6",
+          "22297-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_dub": "https://vibeplayer.site/716d313c9394a5f5",
+          "22297-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/716d313c9394a5f5/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga4f1d8695e16f9fa4f31644a703645814h",
+          "22297-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "22297-malep-1_otakuhg_dub": "https://otakuhg.site/e/fk7aj3n21ovn",
+          "22297-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6o1ned32i6j2",
+          "22297-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ce7d2c7f078bb9ef",
+          "22297-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ce7d2c7f078bb9ef/master.m3u8"
+        },
+        "HD-2": {
+          "22297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agf0c9629b9147d08ed100e8a4ff44677c4h",
+          "22297-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22297-malep-1_otakuhg_hsub": "https://otakuhg.site/e/clsp70ktcmsd",
+          "22297-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22297-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wnmhooib2ws7",
+          "22297-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22297-malep-1_playmogo_hsub": "https://playmogo.com/e/r02fk3p9rb28",
+          "22297-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

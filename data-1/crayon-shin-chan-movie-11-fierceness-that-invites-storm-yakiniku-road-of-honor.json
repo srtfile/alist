@@ -1,0 +1,60 @@
+{
+  "anime_name": "Crayon Shin Chan Movie 11 Fierceness That Invites Storm Yakiniku Road Of Honor",
+  "anime_url": "https://hianime.ad/anime/crayon-shin-chan-movie-11-fierceness-that-invites-storm-yakiniku-road-of-honor",
+  "slug": "crayon-shin-chan-movie-11-fierceness-that-invites-storm-yakiniku-road-of-honor",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:41:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/crayon-shin-chan-movie-11-fierceness-that-invites-storm-yakiniku-road-of-honor/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/249d5c5cd455f245",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/249d5c5cd455f245/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1560eeebc03b5cc4fe71494de84d5ebb4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/8qmj2akw0pt3",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/m2fxwf5hg3bk",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/v7aam31qq1j1",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/fc6c6b0c902ab1a1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc6c6b0c902ab1a1/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agbaed1b1c21b8f5490ecefd7fa37319794h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/vlnolw0l4kpe",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qci6xzok5mv3",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/djw58s8hfskf",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "anime_name": "Aria The Benedizione",
+  "anime_url": "https://hianime.ad/anime/aria-the-benedizione",
+  "slug": "aria-the-benedizione",
+  "mal_id": 3297,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:09:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "That Imminent Spring Breeze...",
+      "episode_url": "https://hianime.ad/watch/aria-the-benedizione/ep-1",
+      "sub": {
+        "HD-1": {
+          "3297-malep-1_vibeplayer_sub": "https://vibeplayer.site/3c11a5abca6e7ebd",
+          "3297-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c11a5abca6e7ebd/master.m3u8"
+        },
+        "HD-2": {
+          "3297-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1286c83685ec84d66c071c56e564ec164h",
+          "3297-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3297-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xlj43vftdok9",
+          "3297-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c8d9442b6c70fa08",
+          "3297-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8d9442b6c70fa08/master.m3u8"
+        },
+        "HD-2": {
+          "3297-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag07858c1ba40c3ff9119cc7b4668272724h",
+          "3297-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3297-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wsvtkxgute3y",
+          "3297-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3297-malep-1_playmogo_hsub": "https://playmogo.com/e/jci5n0rv3bis",
+          "3297-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "anime_name": "Ginga Eiyuu Densetsu Gaiden Ougon No Tsubasa",
+  "anime_url": "https://hianime.ad/anime/ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa",
+  "slug": "ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa",
+  "mal_id": 31433,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:45:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "In the Eternal Night",
+      "episode_url": "https://hianime.ad/watch/ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa/ep-1",
+      "sub": {
+        "HD-1": {
+          "31433-malep-1_vibeplayer_sub": "https://vibeplayer.site/e7d7b211b9bdb601",
+          "31433-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e7d7b211b9bdb601/master.m3u8"
+        },
+        "StreamHG": {
+          "31433-malep-1_otakuhg_sub": "https://otakuhg.site/e/6ogusxn5r7mz",
+          "31433-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31433-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1y69wknp4lbf",
+          "31433-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e96e6cd3402ae51a",
+          "31433-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e96e6cd3402ae51a/master.m3u8"
+        },
+        "StreamHG": {
+          "31433-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hfk64oozj971",
+          "31433-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31433-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6tg9msyyoj4q",
+          "31433-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31433-malep-1_playmogo_hsub": "https://playmogo.com/e/0w7llaqm0me3",
+          "31433-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "anime_name": "Dorami Chan Wow The Kid Gang Of Bandits",
+  "anime_url": "https://hianime.ad/anime/dorami-chan-wow-the-kid-gang-of-bandits",
+  "slug": "dorami-chan-wow-the-kid-gang-of-bandits",
+  "mal_id": 350,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:08:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Doremi! I'm a Witch Apprentice",
+      "episode_url": "https://hianime.ad/watch/dorami-chan-wow-the-kid-gang-of-bandits/ep-1",
+      "sub": {
+        "HD-1": {
+          "350-malep-1_vibeplayer_sub": "https://vibeplayer.site/852f4efbc62e32b9",
+          "350-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/852f4efbc62e32b9/master.m3u8"
+        },
+        "HD-2": {
+          "350-malep-1_vibeplayer_sub": "https://vibeplayer.site/agebd172e80a7630c196893990d5ec11da4h",
+          "350-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "350-malep-1_otakuvid_sub": "https://otakuvid.online/embed/axgi5eltwh64",
+          "350-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "350-malep-1_playmogo_sub": "https://playmogo.com/e/s5ulc1btxe8s",
+          "350-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "350-malep-1_vibeplayer_hsub": "https://vibeplayer.site/973c5a01c9ec4304",
+          "350-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/973c5a01c9ec4304/master.m3u8"
+        },
+        "HD-2": {
+          "350-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agcbd528ffcc47751e594d974837052aa14h",
+          "350-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "350-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zglyd2svzyba",
+          "350-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "350-malep-1_playmogo_hsub": "https://playmogo.com/e/p2uthxzkjl43",
+          "350-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

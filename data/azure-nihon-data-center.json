@@ -1,0 +1,44 @@
+{
+  "anime_name": "Azure Nihon Data Center",
+  "anime_url": "https://hianime.ad/anime/azure-nihon-data-center",
+  "slug": "azure-nihon-data-center",
+  "mal_id": 75,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:57:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Beginning (Paradise)",
+      "episode_url": "https://hianime.ad/watch/azure-nihon-data-center/ep-1",
+      "sub": {
+        "HD-1": {
+          "75-malep-1_vibeplayer_sub": "https://vibeplayer.site/b410c7b8c1ccd9b8",
+          "75-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b410c7b8c1ccd9b8/master.m3u8"
+        },
+        "HD-2": {
+          "75-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag896f9b833c3ade1a9c68493e2cb524024h",
+          "75-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "75-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8hiqp23m9r7v",
+          "75-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "75-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8c685825c22db784",
+          "75-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c685825c22db784/master.m3u8"
+        },
+        "HD-2": {
+          "75-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag438f2eeeafaa49d6076b51fd036775d44h",
+          "75-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "75-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fjjyfwodvh6m",
+          "75-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

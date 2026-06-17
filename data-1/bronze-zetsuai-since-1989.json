@@ -1,0 +1,52 @@
+{
+  "anime_name": "Bronze Zetsuai Since 1989",
+  "anime_url": "https://hianime.ad/anime/bronze-zetsuai-since-1989",
+  "slug": "bronze-zetsuai-since-1989",
+  "mal_id": 2556,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T03:38:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth",
+      "episode_url": "https://hianime.ad/watch/bronze-zetsuai-since-1989/ep-1",
+      "sub": {
+        "HD-1": {
+          "2556-malep-1_vibeplayer_sub": "https://vibeplayer.site/577f6fe9e8ab1f42",
+          "2556-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/577f6fe9e8ab1f42/master.m3u8"
+        },
+        "HD-2": {
+          "2556-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1aa864c8e2654a9926a58619c2b0f2e24h",
+          "2556-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2556-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5hn86fm74v9k",
+          "2556-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2556-malep-1_vibeplayer_hsub": "https://vibeplayer.site/abed1e627067368f",
+          "2556-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abed1e627067368f/master.m3u8"
+        },
+        "HD-2": {
+          "2556-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag139f309311312ba8c4601f55fad1ec844h",
+          "2556-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "2556-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tvds5q2ra6g3",
+          "2556-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2556-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t5j6985hghoj",
+          "2556-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2556-malep-1_playmogo_hsub": "https://playmogo.com/e/n0trzsyl7h39",
+          "2556-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anime_name": "Jujutsu Kaisen 0 Movie",
+  "anime_url": "https://hianime.ad/anime/jujutsu-kaisen-0-movie",
+  "slug": "jujutsu-kaisen-0-movie",
+  "mal_id": 40748,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:14:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ryomen Sukuna",
+      "episode_url": "https://hianime.ad/watch/jujutsu-kaisen-0-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "40748-malep-1_vibeplayer_sub": "https://vibeplayer.site/62bf2538175b4612",
+          "40748-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62bf2538175b4612/master.m3u8"
+        },
+        "StreamHG": {
+          "40748-malep-1_otakuhg_sub": "https://otakuhg.site/e/94flk4g6glga",
+          "40748-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40748-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d339m1k7w3ve",
+          "40748-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "40748-malep-1_vibeplayer_dub": "https://vibeplayer.site/41d5c4acc8b8dc2a",
+          "40748-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/41d5c4acc8b8dc2a/master.m3u8"
+        },
+        "StreamHG": {
+          "40748-malep-1_otakuhg_dub": "https://otakuhg.site/e/iied1ear2kl9",
+          "40748-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "40748-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qc6iinq1b5u9",
+          "40748-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

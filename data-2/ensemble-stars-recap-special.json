@@ -1,0 +1,61 @@
+{
+  "anime_name": "Ensemble Stars Recap Special",
+  "anime_url": "https://hianime.ad/anime/ensemble-stars-recap-special",
+  "slug": "ensemble-stars-recap-special",
+  "mal_id": 32212,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:30:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "New Wind",
+      "episode_url": "https://hianime.ad/watch/ensemble-stars-recap-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "32212-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce637007b062e20c",
+          "32212-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce637007b062e20c/master.m3u8"
+        },
+        "HD-2": {
+          "32212-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag36564e42d1cc157dde3ddecd02416ef54h",
+          "32212-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32212-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kb7f8ihfhwzb",
+          "32212-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "32212-malep-1_vibeplayer_dub": "https://vibeplayer.site/278d7d3eb743a06b",
+          "32212-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/278d7d3eb743a06b/master.m3u8"
+        },
+        "HD-2": {
+          "32212-malep-1_vibeplayer_dub": "https://vibeplayer.site/agd3e08d8d2c17d6e492a7d512739430f44h",
+          "32212-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32212-malep-1_otakuvid_dub": "https://otakuvid.online/embed/a5bwvyneq0e5",
+          "32212-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "32212-malep-1_vibeplayer_hsub": "https://vibeplayer.site/46861dd91c1c66b7",
+          "32212-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/46861dd91c1c66b7/master.m3u8"
+        },
+        "HD-2": {
+          "32212-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd29d592b2b86733dcf041933f5ae8b304h",
+          "32212-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32212-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gs5qm98vkowu",
+          "32212-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32212-malep-1_playmogo_hsub": "https://playmogo.com/e/wqv0t5xorae9",
+          "32212-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

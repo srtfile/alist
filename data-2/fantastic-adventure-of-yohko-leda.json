@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fantastic Adventure Of Yohko Leda",
+  "anime_url": "https://hianime.ad/anime/fantastic-adventure-of-yohko-leda",
+  "slug": "fantastic-adventure-of-yohko-leda",
+  "mal_id": 455,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:07:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "From the Edge of Night",
+      "episode_url": "https://hianime.ad/watch/fantastic-adventure-of-yohko-leda/ep-1",
+      "sub": {
+        "HD-1": {
+          "455-malep-1_vibeplayer_sub": "https://vibeplayer.site/f7ea44c7233c1cad",
+          "455-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f7ea44c7233c1cad/master.m3u8"
+        },
+        "HD-2": {
+          "455-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag1b41405046a59cf50363c6354b4d2af74h",
+          "455-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "455-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yx59fbrdhvjn",
+          "455-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "455-malep-1_vibeplayer_hsub": "https://vibeplayer.site/32d5d0a4f7b41f72",
+          "455-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32d5d0a4f7b41f72/master.m3u8"
+        },
+        "HD-2": {
+          "455-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agff6c1b3bfc61cca6c8feddb0ff11afff4h",
+          "455-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "455-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uq3kd7c410en",
+          "455-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "455-malep-1_playmogo_hsub": "https://playmogo.com/e/mcggvjgf0m80",
+          "455-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

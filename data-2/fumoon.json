@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fumoon",
+  "anime_url": "https://hianime.ad/anime/fumoon",
+  "slug": "fumoon",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:16:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fumoon/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/28148902e440d4c9",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/28148902e440d4c9/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9efc0816e094fdf988db8eea03651efa4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/wa6va9eab1pm",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/73ff03955610629e",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/73ff03955610629e/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga0dc769f433cc865853e8285f9679c6a4h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/flbrwz5t5yc6",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/w5mc0l1536im",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "anime_name": "Dragon Ball Z Summer Vacation Special",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-summer-vacation-special",
+  "slug": "dragon-ball-z-summer-vacation-special",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:45:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-summer-vacation-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/0e34cf6f29cf65b8",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0e34cf6f29cf65b8/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/agde1873d4e0dbe22593d99871d9fadee04h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_sub": "https://otakuhg.site/e/br19mv2606h9",
+          "813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/558e8gan3lcp",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2657db026d062f5d",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2657db026d062f5d/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7d260ca75ba858e86889d57105dabce24h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a0onnso4bve5",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2xybeoehw8ko",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/9wa2w1pe62fe",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "anime_name": "Kitty Cat Fantasia",
+  "anime_url": "https://hianime.ad/anime/kitty-cat-fantasia",
+  "slug": "kitty-cat-fantasia",
+  "mal_id": 23915,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:32:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kitty-cat-fantasia/ep-1",
+      "sub": {
+        "HD-1": {
+          "23915-malep-1_vibeplayer_sub": "https://vibeplayer.site/20574dae55a9c112",
+          "23915-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20574dae55a9c112/master.m3u8"
+        },
+        "Earnvids": {
+          "23915-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jqdrzacequ1b",
+          "23915-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23915-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8a2f3747ad1d7f4c",
+          "23915-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8a2f3747ad1d7f4c/master.m3u8"
+        },
+        "Earnvids": {
+          "23915-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f7sgb8ga5obw",
+          "23915-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23915-malep-1_playmogo_hsub": "https://playmogo.com/e/sz4alfwm36n9",
+          "23915-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

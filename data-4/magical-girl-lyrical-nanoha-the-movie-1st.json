@@ -1,0 +1,44 @@
+{
+  "anime_name": "Magical Girl Lyrical Nanoha The Movie 1St",
+  "anime_url": "https://hianime.ad/anime/magical-girl-lyrical-nanoha-the-movie-1st",
+  "slug": "magical-girl-lyrical-nanoha-the-movie-1st",
+  "mal_id": 76,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:35:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Is This What You Call a \"Mysterious Encounter\"?",
+      "episode_url": "https://hianime.ad/watch/magical-girl-lyrical-nanoha-the-movie-1st/ep-1",
+      "sub": {
+        "HD-1": {
+          "76-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce66843ff0a5fb7f",
+          "76-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce66843ff0a5fb7f/master.m3u8"
+        },
+        "Earnvids": {
+          "76-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kbfbcf0qdx5v",
+          "76-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "76-malep-1_vibeplayer_hsub": "https://vibeplayer.site/70e76bfadf5d6597",
+          "76-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70e76bfadf5d6597/master.m3u8"
+        },
+        "StreamHG": {
+          "76-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4i5vbbrldnzi",
+          "76-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "76-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zf1hvon8s601",
+          "76-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "76-malep-1_playmogo_hsub": "https://playmogo.com/e/188xq4critpr",
+          "76-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

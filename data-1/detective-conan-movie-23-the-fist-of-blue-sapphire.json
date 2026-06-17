@@ -1,0 +1,56 @@
+{
+  "anime_name": "Detective Conan Movie 23 The Fist Of Blue Sapphire",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-23-the-fist-of-blue-sapphire",
+  "slug": "detective-conan-movie-23-the-fist-of-blue-sapphire",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:11:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-23-the-fist-of-blue-sapphire/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/64adac2ed59e4ee0",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/64adac2ed59e4ee0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag73e6db4e85f3ca91d518136ac08c1a3b4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/o87hnrdvg62u",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/hvh263cqy90v",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/8b6946ea514629d0",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b6946ea514629d0/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag97fbc789678e2ff95c0d51b2686c22004h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/79oqyqcrcxkq",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dfdm0txqzpnc",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/kqw17p0iuxzo",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

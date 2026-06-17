@@ -1,0 +1,65 @@
+{
+  "anime_name": "Dirty Pair Affair Of Nolandia",
+  "anime_url": "https://hianime.ad/anime/dirty-pair-affair-of-nolandia",
+  "slug": "dirty-pair-affair-of-nolandia",
+  "mal_id": 424,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:43:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We'll Teach You How To Kill A Computer",
+      "episode_url": "https://hianime.ad/watch/dirty-pair-affair-of-nolandia/ep-1",
+      "sub": {
+        "HD-1": {
+          "424-malep-1_vibeplayer_sub": "https://vibeplayer.site/b480fc4c5816f16f",
+          "424-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b480fc4c5816f16f/master.m3u8"
+        },
+        "HD-2": {
+          "424-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4587a56a5d996a8f6b2474d4e4a654384h",
+          "424-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "424-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vl5qkqzh4lrv",
+          "424-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "424-malep-1_playmogo_sub": "https://playmogo.com/e/rzuacex5ke0u",
+          "424-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "424-malep-1_vibeplayer_dub": "https://vibeplayer.site/649c6803a8e189f2",
+          "424-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/649c6803a8e189f2/master.m3u8"
+        },
+        "HD-2": {
+          "424-malep-1_vibeplayer_dub": "https://vibeplayer.site/agdbd338d23b4e1ccaaaf1751c31e25def4h",
+          "424-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "424-malep-1_otakuvid_dub": "https://otakuvid.online/embed/i2bq4qvh60rw",
+          "424-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "424-malep-1_vibeplayer_hsub": "https://vibeplayer.site/740dc9274c84ab5f",
+          "424-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/740dc9274c84ab5f/master.m3u8"
+        },
+        "HD-2": {
+          "424-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agb85fee3126930ae3d26a7ffeea9840024h",
+          "424-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "424-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sv7rsmxn5oju",
+          "424-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "424-malep-1_playmogo_hsub": "https://playmogo.com/e/1i5mdbqewv26",
+          "424-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

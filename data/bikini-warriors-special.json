@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bikini Warriors Special",
+  "anime_url": "https://hianime.ad/anime/bikini-warriors-special",
+  "slug": "bikini-warriors-special",
+  "mal_id": 30782,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:22:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's Not a Bikini If It's Armor.",
+      "episode_url": "https://hianime.ad/watch/bikini-warriors-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "30782-malep-1_vibeplayer_sub": "https://vibeplayer.site/f4aecbd340ff7b71",
+          "30782-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f4aecbd340ff7b71/master.m3u8"
+        },
+        "HD-2": {
+          "30782-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag6ffc2eecb8bdfb311d8de92845cb11884h",
+          "30782-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "30782-malep-1_otakuhg_sub": "https://otakuhg.site/e/9p0acv1tka97",
+          "30782-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30782-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hczx9jd8gyqu",
+          "30782-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30782-malep-1_vibeplayer_hsub": "https://vibeplayer.site/084e6e82b78100a6",
+          "30782-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/084e6e82b78100a6/master.m3u8"
+        },
+        "HD-2": {
+          "30782-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7b29219f25bccd26b1cdb9c55b0908634h",
+          "30782-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30782-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ml191fnu0k9t",
+          "30782-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30782-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yepait4eafcr",
+          "30782-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30782-malep-1_playmogo_hsub": "https://playmogo.com/e/fo4gmk23485t",
+          "30782-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

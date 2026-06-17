@@ -1,0 +1,35 @@
+{
+  "anime_name": "Digimon Adventure Tri Confession",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-confession",
+  "slug": "digimon-adventure-tri-confession",
+  "mal_id": 552,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:27:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And So it Begins...",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-tri-confession/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/3f35e2eb53eea2ed",
+          "552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f35e2eb53eea2ed/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag781a35df003ee426153a55952974bdd14h",
+          "552-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_dub": "https://otakuhg.site/e/apclgcmkj2hq",
+          "552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6w66bzkleiqm",
+          "552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

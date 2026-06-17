@@ -1,0 +1,2476 @@
+{
+  "anime_name": "Monster",
+  "anime_url": "https://hianime.ad/anime/monster",
+  "slug": "monster",
+  "mal_id": 19,
+  "total_episodes": 74,
+  "captured_at": "2026-06-05T07:50:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Herr Dr. Tenma",
+      "episode_url": "https://hianime.ad/watch/monster/ep-1",
+      "sub": {
+        "HD-1": {
+          "19-malep-1_vibeplayer_sub": "https://vibeplayer.site/997e51e822cecd1a",
+          "19-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/997e51e822cecd1a/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-1_otakuhg_sub": "https://otakuhg.site/e/elbtw2lwyrt1",
+          "19-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ktn07eauh3fj",
+          "19-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-1_otakuhg_dub": "https://otakuhg.site/e/svnhffmhdl5g",
+          "19-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-1_otakuvid_dub": "https://otakuvid.online/embed/b6or2rv69gny",
+          "19-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Downfall",
+      "episode_url": "https://hianime.ad/watch/monster/ep-2",
+      "sub": {
+        "HD-1": {
+          "19-malep-2_vibeplayer_sub": "https://vibeplayer.site/7ceb2f0bd50ce96d",
+          "19-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7ceb2f0bd50ce96d/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-2_otakuhg_sub": "https://otakuhg.site/e/34ngynko1ku8",
+          "19-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-2_otakuvid_sub": "https://otakuvid.online/embed/s2mua4rvzb6b",
+          "19-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-2_vibeplayer_dub": "https://vibeplayer.site/7f3c92f6fcb22451",
+          "19-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7f3c92f6fcb22451/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-2_otakuhg_dub": "https://otakuhg.site/e/5lc6a2bnjd32",
+          "19-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-2_otakuvid_dub": "https://otakuvid.online/embed/3wg9i2elqq28",
+          "19-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-2_vibeplayer_hsub": "https://vibeplayer.site/4c96524e5c1c9fe0",
+          "19-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4c96524e5c1c9fe0/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-2_otakuhg_hsub": "https://otakuhg.site/e/o73usw2ty7yf",
+          "19-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/5g6vf5e2ufx8",
+          "19-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-2_playmogo_hsub": "https://playmogo.com/e/qmrioy1o8gxq",
+          "19-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Murder",
+      "episode_url": "https://hianime.ad/watch/monster/ep-3",
+      "sub": {
+        "HD-1": {
+          "19-malep-3_vibeplayer_sub": "https://vibeplayer.site/ed65983b43c1118a",
+          "19-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed65983b43c1118a/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-3_otakuhg_sub": "https://otakuhg.site/e/yki5iuex8afd",
+          "19-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-3_otakuvid_sub": "https://otakuvid.online/embed/h3y5sqqnaqi1",
+          "19-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-3_vibeplayer_dub": "https://vibeplayer.site/f5b39763df35ceeb",
+          "19-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f5b39763df35ceeb/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-3_otakuhg_dub": "https://otakuhg.site/e/lhtrv6pazq89",
+          "19-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-3_otakuvid_dub": "https://otakuvid.online/embed/3g2sds0i1npc",
+          "19-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Night of the Execution",
+      "episode_url": "https://hianime.ad/watch/monster/ep-4",
+      "sub": {
+        "HD-1": {
+          "19-malep-4_vibeplayer_sub": "https://vibeplayer.site/149b7b7b593884a2",
+          "19-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/149b7b7b593884a2/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-4_otakuhg_sub": "https://otakuhg.site/e/v7o8yapsajmk",
+          "19-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-4_otakuvid_sub": "https://otakuvid.online/embed/02k6u3lg11z4",
+          "19-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-4_vibeplayer_dub": "https://vibeplayer.site/334291a8ca7e1cf8",
+          "19-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/334291a8ca7e1cf8/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-4_otakuhg_dub": "https://otakuhg.site/e/j0w16j1bnfur",
+          "19-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-4_otakuvid_dub": "https://otakuvid.online/embed/lu5imdw78s5b",
+          "19-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Girl of Heidelberg",
+      "episode_url": "https://hianime.ad/watch/monster/ep-5",
+      "sub": {
+        "HD-1": {
+          "19-malep-5_vibeplayer_sub": "https://vibeplayer.site/0ee8648686df620d",
+          "19-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ee8648686df620d/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-5_otakuhg_sub": "https://otakuhg.site/e/99gk5ri11wf1",
+          "19-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-5_otakuvid_sub": "https://otakuvid.online/embed/tlbfhpeyl0zs",
+          "19-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-5_vibeplayer_dub": "https://vibeplayer.site/8f9e47b0e894f0aa",
+          "19-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f9e47b0e894f0aa/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-5_otakuhg_dub": "https://otakuhg.site/e/nf39pwqzjgwl",
+          "19-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-5_otakuvid_dub": "https://otakuvid.online/embed/ib18q8h0t3qd",
+          "19-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Disappearance Report",
+      "episode_url": "https://hianime.ad/watch/monster/ep-6",
+      "sub": {
+        "HD-1": {
+          "19-malep-6_vibeplayer_sub": "https://vibeplayer.site/d9c1d03a7a9217b0",
+          "19-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9c1d03a7a9217b0/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-6_otakuhg_sub": "https://otakuhg.site/e/tiw5x5zcciqi",
+          "19-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-6_otakuvid_sub": "https://otakuvid.online/embed/2vmiyxguhxqx",
+          "19-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-6_vibeplayer_dub": "https://vibeplayer.site/7e50c5fc34115640",
+          "19-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e50c5fc34115640/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-6_otakuhg_dub": "https://otakuhg.site/e/59n6o2o60evp",
+          "19-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-6_otakuvid_dub": "https://otakuvid.online/embed/o7z6o1arb66q",
+          "19-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Mansion of Tragedy",
+      "episode_url": "https://hianime.ad/watch/monster/ep-7",
+      "sub": {
+        "HD-1": {
+          "19-malep-7_vibeplayer_sub": "https://vibeplayer.site/ef3bf27fce855626",
+          "19-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ef3bf27fce855626/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-7_otakuhg_sub": "https://otakuhg.site/e/ebszvux9ir7q",
+          "19-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-7_otakuvid_sub": "https://otakuvid.online/embed/z402ruup0g7v",
+          "19-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-7_vibeplayer_dub": "https://vibeplayer.site/8fa095b691d38e0f",
+          "19-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8fa095b691d38e0f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-7_otakuhg_dub": "https://otakuhg.site/e/k36agmlst6vp",
+          "19-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-7_otakuvid_dub": "https://otakuvid.online/embed/idbfsbaxm31d",
+          "19-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Fugitive",
+      "episode_url": "https://hianime.ad/watch/monster/ep-8",
+      "sub": {
+        "StreamHG": {
+          "19-malep-8_otakuhg_sub": "https://otakuhg.site/e/mjj7zepbpjpa",
+          "19-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-8_otakuvid_sub": "https://otakuvid.online/embed/s8y5j826gfme",
+          "19-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-8_vibeplayer_dub": "https://vibeplayer.site/cb302255970d514c",
+          "19-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cb302255970d514c/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-8_otakuhg_dub": "https://otakuhg.site/e/t6v24wpalxkt",
+          "19-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-8_otakuvid_dub": "https://otakuvid.online/embed/6sj2raw7iclf",
+          "19-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Girl and the Seasoned Soldier",
+      "episode_url": "https://hianime.ad/watch/monster/ep-9",
+      "sub": {
+        "HD-1": {
+          "19-malep-9_vibeplayer_sub": "https://vibeplayer.site/b4a70312c03a329e",
+          "19-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4a70312c03a329e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-9_otakuhg_sub": "https://otakuhg.site/e/yh8sbadqwtrp",
+          "19-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-9_otakuvid_sub": "https://otakuvid.online/embed/8gwmzohzexxx",
+          "19-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-9_vibeplayer_dub": "https://vibeplayer.site/f7eda45b99848f4e",
+          "19-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7eda45b99848f4e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-9_otakuhg_dub": "https://otakuhg.site/e/aqktxo9kx1zw",
+          "19-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-9_otakuvid_dub": "https://otakuvid.online/embed/gte3g81ox4ae",
+          "19-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Past Erased",
+      "episode_url": "https://hianime.ad/watch/monster/ep-10",
+      "sub": {
+        "HD-1": {
+          "19-malep-10_vibeplayer_sub": "https://vibeplayer.site/c298d55040e50c65",
+          "19-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c298d55040e50c65/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-10_otakuhg_sub": "https://otakuhg.site/e/2pk5u9ccezqu",
+          "19-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-10_otakuvid_sub": "https://otakuvid.online/embed/l3ashgxsqm1y",
+          "19-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-10_vibeplayer_dub": "https://vibeplayer.site/63f0b4c2edd948ba",
+          "19-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/63f0b4c2edd948ba/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-10_otakuhg_dub": "https://otakuhg.site/e/xp4gdpwts6us",
+          "19-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-10_otakuvid_dub": "https://otakuvid.online/embed/oy006q677i0l",
+          "19-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "511 Kinderheim",
+      "episode_url": "https://hianime.ad/watch/monster/ep-11",
+      "sub": {
+        "HD-1": {
+          "19-malep-11_vibeplayer_sub": "https://vibeplayer.site/641df05c182242ba",
+          "19-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/641df05c182242ba/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-11_otakuhg_sub": "https://otakuhg.site/e/r3nsuam6gxi4",
+          "19-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-11_otakuvid_sub": "https://otakuvid.online/embed/a5lwqq6uj0hy",
+          "19-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-11_vibeplayer_dub": "https://vibeplayer.site/1116de71568a17fc",
+          "19-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1116de71568a17fc/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-11_otakuhg_dub": "https://otakuhg.site/e/ko60nukbae3g",
+          "19-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-11_otakuvid_dub": "https://otakuvid.online/embed/nintnt8rrs86",
+          "19-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Little Experiment",
+      "episode_url": "https://hianime.ad/watch/monster/ep-12",
+      "sub": {
+        "HD-1": {
+          "19-malep-12_vibeplayer_sub": "https://vibeplayer.site/32852101a197ecc9",
+          "19-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32852101a197ecc9/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-12_otakuhg_sub": "https://otakuhg.site/e/shufrnnk9vb5",
+          "19-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-12_otakuvid_sub": "https://otakuvid.online/embed/425ihoparez2",
+          "19-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-12_vibeplayer_dub": "https://vibeplayer.site/ab72e0b43f42c54c",
+          "19-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ab72e0b43f42c54c/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-12_otakuhg_dub": "https://otakuhg.site/e/4nzpwd9tfaz4",
+          "19-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-12_otakuvid_dub": "https://otakuvid.online/embed/qzalemiamnb3",
+          "19-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Petra and Schumann",
+      "episode_url": "https://hianime.ad/watch/monster/ep-13",
+      "sub": {
+        "HD-1": {
+          "19-malep-13_vibeplayer_sub": "https://vibeplayer.site/1f786f03e260fdcc",
+          "19-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f786f03e260fdcc/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-13_otakuhg_sub": "https://otakuhg.site/e/h04ez9xfazsu",
+          "19-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-13_otakuvid_sub": "https://otakuvid.online/embed/x6kg0z4gu3p0",
+          "19-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-13_vibeplayer_dub": "https://vibeplayer.site/8552c4ee8354ea33",
+          "19-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8552c4ee8354ea33/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-13_otakuhg_dub": "https://otakuhg.site/e/sk8ht1u1jus6",
+          "19-malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-13_otakuvid_dub": "https://otakuvid.online/embed/e9uii2q2w4j1",
+          "19-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Left Behind",
+      "episode_url": "https://hianime.ad/watch/monster/ep-14",
+      "sub": {
+        "HD-1": {
+          "19-malep-14_vibeplayer_sub": "https://vibeplayer.site/3a4bc8f6fc175555",
+          "19-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3a4bc8f6fc175555/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-14_otakuhg_sub": "https://otakuhg.site/e/vpdnlaut0nue",
+          "19-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-14_otakuvid_sub": "https://otakuvid.online/embed/ai4mpxe6rxk0",
+          "19-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-14_vibeplayer_dub": "https://vibeplayer.site/2544f00f649a4530",
+          "19-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2544f00f649a4530/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-14_otakuhg_dub": "https://otakuhg.site/e/412p4yluwpq6",
+          "19-malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-14_otakuvid_dub": "https://otakuvid.online/embed/ka2hs8ngohn2",
+          "19-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Be My Baby",
+      "episode_url": "https://hianime.ad/watch/monster/ep-15",
+      "sub": {
+        "StreamHG": {
+          "19-malep-15_otakuhg_sub": "https://otakuhg.site/e/wdk6i7t5s84v",
+          "19-malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-15_otakuvid_sub": "https://otakuvid.online/embed/mhb1foyyxffl",
+          "19-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-15_vibeplayer_dub": "https://vibeplayer.site/b0564eb21dc3fc6d",
+          "19-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b0564eb21dc3fc6d/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-15_otakuhg_dub": "https://otakuhg.site/e/9f9liunnfkmm",
+          "19-malep-15_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-15_otakuvid_dub": "https://otakuvid.online/embed/kn2w8cp4sj56",
+          "19-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Wolf's Confession",
+      "episode_url": "https://hianime.ad/watch/monster/ep-16",
+      "sub": {
+        "HD-1": {
+          "19-malep-16_vibeplayer_sub": "https://vibeplayer.site/e1a09d72ec81db8f",
+          "19-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e1a09d72ec81db8f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-16_otakuhg_sub": "https://otakuhg.site/e/arbbj2wnuebs",
+          "19-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-16_otakuvid_sub": "https://otakuvid.online/embed/x0ncs3y2l0ay",
+          "19-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-16_vibeplayer_dub": "https://vibeplayer.site/4e719bad2593e0db",
+          "19-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4e719bad2593e0db/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-16_otakuhg_dub": "https://otakuhg.site/e/s55bwrtnyi3d",
+          "19-malep-16_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-16_otakuvid_dub": "https://otakuvid.online/embed/wyol59jm67ss",
+          "19-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/monster/ep-17",
+      "sub": {
+        "StreamHG": {
+          "19-malep-17_otakuhg_sub": "https://otakuhg.site/e/yhbitke4mjea",
+          "19-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-17_otakuvid_sub": "https://otakuvid.online/embed/q0p054dleg6v",
+          "19-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-17_vibeplayer_dub": "https://vibeplayer.site/a89328ecb24185c6",
+          "19-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a89328ecb24185c6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-17_otakuhg_dub": "https://otakuhg.site/e/pt7ij9silnvd",
+          "19-malep-17_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-17_otakuvid_dub": "https://otakuvid.online/embed/o1jjwoy1ux0c",
+          "19-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Fifth Spoonful of Sugar",
+      "episode_url": "https://hianime.ad/watch/monster/ep-18",
+      "sub": {
+        "HD-1": {
+          "19-malep-18_vibeplayer_sub": "https://vibeplayer.site/ff93bd904684f94e",
+          "19-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ff93bd904684f94e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-18_otakuhg_sub": "https://otakuhg.site/e/ye0vh94bcvcu",
+          "19-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-18_otakuvid_sub": "https://otakuvid.online/embed/h7u2p47l6twf",
+          "19-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-18_vibeplayer_dub": "https://vibeplayer.site/e7083d009fd1b475",
+          "19-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e7083d009fd1b475/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-18_otakuhg_dub": "https://otakuhg.site/e/lbbl6gcdfyym",
+          "19-malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-18_otakuvid_dub": "https://otakuvid.online/embed/amaz7p1hrp7j",
+          "19-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Monster's Abyss",
+      "episode_url": "https://hianime.ad/watch/monster/ep-19",
+      "sub": {
+        "HD-1": {
+          "19-malep-19_vibeplayer_sub": "https://vibeplayer.site/01523d4b1f633cc2",
+          "19-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/01523d4b1f633cc2/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-19_otakuhg_sub": "https://otakuhg.site/e/urf6o9ztlu3h",
+          "19-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-19_otakuvid_sub": "https://otakuvid.online/embed/og9j2scbsa5v",
+          "19-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-19_otakuhg_dub": "https://otakuhg.site/e/flys5mlq6880",
+          "19-malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-19_otakuvid_dub": "https://otakuvid.online/embed/y9bsl7mn076o",
+          "19-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Journey to Freiham",
+      "episode_url": "https://hianime.ad/watch/monster/ep-20",
+      "sub": {
+        "HD-1": {
+          "19-malep-20_vibeplayer_sub": "https://vibeplayer.site/288b52c7976257e6",
+          "19-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/288b52c7976257e6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-20_otakuhg_sub": "https://otakuhg.site/e/zlpqbmjwlu6m",
+          "19-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-20_otakuvid_sub": "https://otakuvid.online/embed/a076aktj0a4z",
+          "19-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-20_otakuhg_dub": "https://otakuhg.site/e/t4287cevu51d",
+          "19-malep-20_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-20_otakuvid_dub": "https://otakuvid.online/embed/vc1i1k4ohh3j",
+          "19-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Wonderful Holiday",
+      "episode_url": "https://hianime.ad/watch/monster/ep-21",
+      "sub": {
+        "HD-1": {
+          "19-malep-21_vibeplayer_sub": "https://vibeplayer.site/47ef165590f3b8cb",
+          "19-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/47ef165590f3b8cb/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-21_otakuhg_sub": "https://otakuhg.site/e/chbkcf11ughk",
+          "19-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-21_otakuvid_sub": "https://otakuvid.online/embed/m7007s2i6vgu",
+          "19-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-21_vibeplayer_dub": "https://vibeplayer.site/1fe5e6bfee033502",
+          "19-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1fe5e6bfee033502/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-21_otakuhg_dub": "https://otakuhg.site/e/es1idhm665es",
+          "19-malep-21_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-21_otakuvid_dub": "https://otakuvid.online/embed/8t8nean0ym0b",
+          "19-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-21_vibeplayer_hsub": "https://vibeplayer.site/9430409eeda5af22",
+          "19-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9430409eeda5af22/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-21_otakuhg_hsub": "https://otakuhg.site/e/rjtdezl59qjs",
+          "19-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/qkrz7ci2l14t",
+          "19-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-21_playmogo_hsub": "https://playmogo.com/e/buf31p76n9yi",
+          "19-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lunge's Trap",
+      "episode_url": "https://hianime.ad/watch/monster/ep-22",
+      "sub": {
+        "StreamHG": {
+          "19-malep-22_otakuhg_sub": "https://otakuhg.site/e/fvhe2bl4oob9",
+          "19-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-22_otakuvid_sub": "https://otakuvid.online/embed/jko75virjczh",
+          "19-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-22_vibeplayer_dub": "https://vibeplayer.site/0ee734a20fca3aad",
+          "19-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ee734a20fca3aad/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-22_otakuhg_dub": "https://otakuhg.site/e/pxdt6td9vo1o",
+          "19-malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-22_otakuvid_dub": "https://otakuvid.online/embed/1r6q2d087ur9",
+          "19-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Eva's Confession",
+      "episode_url": "https://hianime.ad/watch/monster/ep-23",
+      "sub": {
+        "HD-1": {
+          "19-malep-23_vibeplayer_sub": "https://vibeplayer.site/5207aa3dd7cf73ef",
+          "19-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5207aa3dd7cf73ef/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-23_otakuhg_sub": "https://otakuhg.site/e/whlei6e44ym5",
+          "19-malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-23_otakuvid_sub": "https://otakuvid.online/embed/s9tqq27lmcqp",
+          "19-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-23_vibeplayer_dub": "https://vibeplayer.site/ffdc4964332111fd",
+          "19-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ffdc4964332111fd/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-23_otakuhg_dub": "https://otakuhg.site/e/xq0cgcdrx7g6",
+          "19-malep-23_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-23_otakuvid_dub": "https://otakuvid.online/embed/ghl86ba3cqtp",
+          "19-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Men's Dining Table",
+      "episode_url": "https://hianime.ad/watch/monster/ep-24",
+      "sub": {
+        "HD-1": {
+          "19-malep-24_vibeplayer_sub": "https://vibeplayer.site/c288b3f9ee51b136",
+          "19-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c288b3f9ee51b136/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-24_otakuhg_sub": "https://otakuhg.site/e/0nj9wfb3ft7u",
+          "19-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-24_otakuvid_sub": "https://otakuvid.online/embed/f9ptzm70q6o9",
+          "19-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-24_otakuhg_dub": "https://otakuhg.site/e/qqai1mau6lcz",
+          "19-malep-24_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-24_otakuvid_dub": "https://otakuvid.online/embed/zbi1gifmjbjb",
+          "19-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-24_vibeplayer_hsub": "https://vibeplayer.site/882ad2f401371130",
+          "19-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/882ad2f401371130/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-24_otakuhg_hsub": "https://otakuhg.site/e/29w5pjoz9ryv",
+          "19-malep-24_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/1kobe9ornf0j",
+          "19-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-24_playmogo_hsub": "https://playmogo.com/e/af9vkcco1o8a",
+          "19-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Thursday Boy",
+      "episode_url": "https://hianime.ad/watch/monster/ep-25",
+      "sub": {
+        "HD-1": {
+          "19-malep-25_vibeplayer_sub": "https://vibeplayer.site/93417c78453fbeab",
+          "19-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/93417c78453fbeab/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-25_otakuhg_sub": "https://otakuhg.site/e/gnfbsrpk9pac",
+          "19-malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-25_otakuvid_sub": "https://otakuvid.online/embed/sejn5gr538ha",
+          "19-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-25_otakuhg_dub": "https://otakuhg.site/e/tsuoubz4t1hs",
+          "19-malep-25_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-25_otakuvid_dub": "https://otakuvid.online/embed/x9pvs4bqk8ni",
+          "19-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Secret Woods",
+      "episode_url": "https://hianime.ad/watch/monster/ep-26",
+      "sub": {
+        "StreamHG": {
+          "19-malep-26_otakuhg_sub": "https://otakuhg.site/e/gcs0ktsnbu5e",
+          "19-malep-26_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-26_otakuvid_sub": "https://otakuvid.online/embed/iiv7975oh77b",
+          "19-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-26_vibeplayer_dub": "https://vibeplayer.site/61bdc754590c96ba",
+          "19-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/61bdc754590c96ba/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-26_otakuhg_dub": "https://otakuhg.site/e/wmyn1edv8zk4",
+          "19-malep-26_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-26_otakuvid_dub": "https://otakuvid.online/embed/a9zybbwnc6sm",
+          "19-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Pieces of Evidence",
+      "episode_url": "https://hianime.ad/watch/monster/ep-27",
+      "sub": {
+        "HD-1": {
+          "19-malep-27_vibeplayer_sub": "https://vibeplayer.site/da0f2afa5defaa60",
+          "19-malep-27_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/da0f2afa5defaa60/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-27_otakuhg_sub": "https://otakuhg.site/e/i5e00qgq08d5",
+          "19-malep-27_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-27_otakuvid_sub": "https://otakuvid.online/embed/r6vwdgifsbcp",
+          "19-malep-27_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-27_otakuhg_dub": "https://otakuhg.site/e/otpzhpzpxjqa",
+          "19-malep-27_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-27_otakuvid_dub": "https://otakuvid.online/embed/yc0t924hw4vc",
+          "19-malep-27_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Just One Case",
+      "episode_url": "https://hianime.ad/watch/monster/ep-28",
+      "sub": {
+        "HD-1": {
+          "19-malep-28_vibeplayer_sub": "https://vibeplayer.site/99677731b7dc89a0",
+          "19-malep-28_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/99677731b7dc89a0/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-28_otakuhg_sub": "https://otakuhg.site/e/jqo725mnl86g",
+          "19-malep-28_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-28_otakuvid_sub": "https://otakuvid.online/embed/ard3gzlstwh1",
+          "19-malep-28_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-28_vibeplayer_dub": "https://vibeplayer.site/7126823662808124",
+          "19-malep-28_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7126823662808124/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-28_otakuhg_dub": "https://otakuhg.site/e/4h10ww4h95mx",
+          "19-malep-28_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-28_otakuvid_dub": "https://otakuvid.online/embed/rvohez4ix62u",
+          "19-malep-28_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Execution",
+      "episode_url": "https://hianime.ad/watch/monster/ep-29",
+      "sub": {
+        "HD-1": {
+          "19-malep-29_vibeplayer_sub": "https://vibeplayer.site/73e087b7d073c58d",
+          "19-malep-29_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73e087b7d073c58d/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-29_otakuhg_sub": "https://otakuhg.site/e/lm9eribapwcj",
+          "19-malep-29_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-29_otakuvid_sub": "https://otakuvid.online/embed/qmmlzz3ylzrc",
+          "19-malep-29_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-29_vibeplayer_dub": "https://vibeplayer.site/5d244c001180017e",
+          "19-malep-29_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5d244c001180017e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-29_otakuhg_dub": "https://otakuhg.site/e/fcq02m2chk3l",
+          "19-malep-29_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-29_otakuvid_dub": "https://otakuvid.online/embed/2hrq5algw8v2",
+          "19-malep-29_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Certain Decision",
+      "episode_url": "https://hianime.ad/watch/monster/ep-30",
+      "sub": {
+        "HD-1": {
+          "19-malep-30_vibeplayer_sub": "https://vibeplayer.site/d8821c92b90c0f95",
+          "19-malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8821c92b90c0f95/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-30_otakuhg_sub": "https://otakuhg.site/e/hej9966vyyxk",
+          "19-malep-30_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-30_otakuvid_sub": "https://otakuvid.online/embed/vas2aj679hc8",
+          "19-malep-30_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-30_vibeplayer_dub": "https://vibeplayer.site/7e53b417b80fac5c",
+          "19-malep-30_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7e53b417b80fac5c/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-30_otakuhg_dub": "https://otakuhg.site/e/a9kfvvrbhibs",
+          "19-malep-30_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-30_otakuvid_dub": "https://otakuvid.online/embed/emhgnnvr82rx",
+          "19-malep-30_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Under Broad Daylight",
+      "episode_url": "https://hianime.ad/watch/monster/ep-31",
+      "sub": {
+        "HD-1": {
+          "19-malep-31_vibeplayer_sub": "https://vibeplayer.site/8c95603c8963b3d3",
+          "19-malep-31_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c95603c8963b3d3/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-31_otakuhg_sub": "https://otakuhg.site/e/fn72mawjyy1b",
+          "19-malep-31_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-31_otakuvid_sub": "https://otakuvid.online/embed/z73h0yn071t1",
+          "19-malep-31_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-31_vibeplayer_dub": "https://vibeplayer.site/be089f3a6a954aa9",
+          "19-malep-31_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be089f3a6a954aa9/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-31_otakuhg_dub": "https://otakuhg.site/e/hqci2wtiurjx",
+          "19-malep-31_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-31_otakuvid_dub": "https://otakuvid.online/embed/p6e6jzu7muy0",
+          "19-malep-31_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Sanctuary",
+      "episode_url": "https://hianime.ad/watch/monster/ep-32",
+      "sub": {
+        "HD-1": {
+          "19-malep-32_vibeplayer_sub": "https://vibeplayer.site/d2b4500f9c50ca6e",
+          "19-malep-32_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2b4500f9c50ca6e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-32_otakuhg_sub": "https://otakuhg.site/e/z65gjx3gzlcj",
+          "19-malep-32_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-32_otakuvid_sub": "https://otakuvid.online/embed/qpd61q5j8p2j",
+          "19-malep-32_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-32_vibeplayer_dub": "https://vibeplayer.site/9bc19367b716d7ea",
+          "19-malep-32_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9bc19367b716d7ea/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-32_otakuhg_dub": "https://otakuhg.site/e/0n975i66oenm",
+          "19-malep-32_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-32_otakuvid_dub": "https://otakuvid.online/embed/yf1gd84s1848",
+          "19-malep-32_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Scene of a Child",
+      "episode_url": "https://hianime.ad/watch/monster/ep-33",
+      "sub": {
+        "HD-1": {
+          "19-malep-33_vibeplayer_sub": "https://vibeplayer.site/6950f1452c1cd5e0",
+          "19-malep-33_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6950f1452c1cd5e0/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-33_otakuhg_sub": "https://otakuhg.site/e/xbrq66a9v0r1",
+          "19-malep-33_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-33_otakuvid_sub": "https://otakuvid.online/embed/41qlksy5sfqd",
+          "19-malep-33_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-33_vibeplayer_dub": "https://vibeplayer.site/21d52ac28f635812",
+          "19-malep-33_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/21d52ac28f635812/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-33_otakuhg_dub": "https://otakuhg.site/e/czgcia3gt8e6",
+          "19-malep-33_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-33_otakuvid_dub": "https://otakuvid.online/embed/mka6u9znrlpm",
+          "19-malep-33_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "At the End of the Darkness",
+      "episode_url": "https://hianime.ad/watch/monster/ep-34",
+      "sub": {
+        "HD-1": {
+          "19-malep-34_vibeplayer_sub": "https://vibeplayer.site/34a7b063cff07330",
+          "19-malep-34_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34a7b063cff07330/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-34_otakuhg_sub": "https://otakuhg.site/e/66u1vhd22ja0",
+          "19-malep-34_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-34_otakuvid_sub": "https://otakuvid.online/embed/oj5a5ga8fr24",
+          "19-malep-34_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-34_otakuhg_dub": "https://otakuhg.site/e/x2esg0j69n3h",
+          "19-malep-34_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-34_otakuvid_dub": "https://otakuvid.online/embed/0jm0t15atvw7",
+          "19-malep-34_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Hero With No Name",
+      "episode_url": "https://hianime.ad/watch/monster/ep-35",
+      "sub": {
+        "HD-1": {
+          "19-malep-35_vibeplayer_sub": "https://vibeplayer.site/9005d952a4e214ff",
+          "19-malep-35_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9005d952a4e214ff/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-35_otakuhg_sub": "https://otakuhg.site/e/8f5uq2njs8rz",
+          "19-malep-35_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-35_otakuvid_sub": "https://otakuvid.online/embed/s4rbzs1mroh5",
+          "19-malep-35_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-35_otakuhg_dub": "https://otakuhg.site/e/7wc1evfvl072",
+          "19-malep-35_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-35_otakuvid_dub": "https://otakuvid.online/embed/kgk76odicgff",
+          "19-malep-35_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Monster of Chaos",
+      "episode_url": "https://hianime.ad/watch/monster/ep-36",
+      "sub": {
+        "HD-1": {
+          "19-malep-36_vibeplayer_sub": "https://vibeplayer.site/669960a6030ec41b",
+          "19-malep-36_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/669960a6030ec41b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-36_otakuhg_sub": "https://otakuhg.site/e/4y6be6e4vuca",
+          "19-malep-36_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-36_otakuvid_sub": "https://otakuvid.online/embed/iiu1bxe77qh7",
+          "19-malep-36_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-36_vibeplayer_dub": "https://vibeplayer.site/ba67516f93dcd563",
+          "19-malep-36_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba67516f93dcd563/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-36_otakuhg_dub": "https://otakuhg.site/e/2ljgnlinykzj",
+          "19-malep-36_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-36_otakuvid_dub": "https://otakuvid.online/embed/xqqd85weso9u",
+          "19-malep-36_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-36_vibeplayer_hsub": "https://vibeplayer.site/8b0ce3b04280fda6",
+          "19-malep-36_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b0ce3b04280fda6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-36_otakuhg_hsub": "https://otakuhg.site/e/e0eagablkz6r",
+          "19-malep-36_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-36_otakuvid_hsub": "https://otakuvid.online/embed/sis5lbh6dhg8",
+          "19-malep-36_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-36_playmogo_hsub": "https://playmogo.com/e/ds54b8amobt3",
+          "19-malep-36_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Monster Without a Name",
+      "episode_url": "https://hianime.ad/watch/monster/ep-37",
+      "sub": {
+        "HD-1": {
+          "19-malep-37_vibeplayer_sub": "https://vibeplayer.site/b0995fa428db0952",
+          "19-malep-37_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b0995fa428db0952/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-37_otakuhg_sub": "https://otakuhg.site/e/lu2kto151yfl",
+          "19-malep-37_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-37_otakuvid_sub": "https://otakuvid.online/embed/fvmc6rb0k9et",
+          "19-malep-37_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-37_vibeplayer_dub": "https://vibeplayer.site/bf3fbe59940f4e11",
+          "19-malep-37_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf3fbe59940f4e11/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-37_otakuhg_dub": "https://otakuhg.site/e/eukfi7hkcsxw",
+          "19-malep-37_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-37_otakuvid_dub": "https://otakuvid.online/embed/41s4sx13vgnr",
+          "19-malep-37_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Demon in Our Eyes",
+      "episode_url": "https://hianime.ad/watch/monster/ep-38",
+      "sub": {
+        "HD-1": {
+          "19-malep-38_vibeplayer_sub": "https://vibeplayer.site/73aafeddfa502f0b",
+          "19-malep-38_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73aafeddfa502f0b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-38_otakuhg_sub": "https://otakuhg.site/e/ioiaft5u8ity",
+          "19-malep-38_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-38_otakuvid_sub": "https://otakuvid.online/embed/y9dm19q85p1w",
+          "19-malep-38_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-38_vibeplayer_dub": "https://vibeplayer.site/e4fa127b74bdf218",
+          "19-malep-38_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e4fa127b74bdf218/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-38_otakuhg_dub": "https://otakuhg.site/e/3pr0oo7p6w7g",
+          "19-malep-38_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-38_otakuvid_dub": "https://otakuvid.online/embed/rr9lqyyk38wa",
+          "19-malep-38_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Hell in His Eyes",
+      "episode_url": "https://hianime.ad/watch/monster/ep-39",
+      "sub": {
+        "HD-1": {
+          "19-malep-39_vibeplayer_sub": "https://vibeplayer.site/87195338e47d5fb5",
+          "19-malep-39_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87195338e47d5fb5/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-39_otakuhg_sub": "https://otakuhg.site/e/pevwqawc7z0s",
+          "19-malep-39_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-39_otakuvid_sub": "https://otakuvid.online/embed/vx7f9xrqrowj",
+          "19-malep-39_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-39_vibeplayer_dub": "https://vibeplayer.site/f95f6a166ee23395",
+          "19-malep-39_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f95f6a166ee23395/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-39_otakuhg_dub": "https://otakuhg.site/e/q9ledgvozzg1",
+          "19-malep-39_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-39_otakuvid_dub": "https://otakuvid.online/embed/k307721ykhtu",
+          "19-malep-39_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Grimmer",
+      "episode_url": "https://hianime.ad/watch/monster/ep-40",
+      "sub": {
+        "StreamHG": {
+          "19-malep-40_otakuhg_sub": "https://otakuhg.site/e/kjrgzhctd9hf",
+          "19-malep-40_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-40_otakuvid_sub": "https://otakuvid.online/embed/3m68trh7hznt",
+          "19-malep-40_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-40_vibeplayer_dub": "https://vibeplayer.site/a595b4b358ada9c2",
+          "19-malep-40_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a595b4b358ada9c2/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-40_otakuhg_dub": "https://otakuhg.site/e/wz39tonlmx55",
+          "19-malep-40_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-40_otakuvid_dub": "https://otakuvid.online/embed/7ypkanjvzlpx",
+          "19-malep-40_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Ghost of 511",
+      "episode_url": "https://hianime.ad/watch/monster/ep-41",
+      "sub": {
+        "HD-1": {
+          "19-malep-41_vibeplayer_sub": "https://vibeplayer.site/24fa4b6acecccce6",
+          "19-malep-41_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/24fa4b6acecccce6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-41_otakuhg_sub": "https://otakuhg.site/e/c0017byfwvlu",
+          "19-malep-41_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-41_otakuvid_sub": "https://otakuvid.online/embed/g5hl5hs2x6d9",
+          "19-malep-41_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-41_vibeplayer_dub": "https://vibeplayer.site/dfff825206483cb3",
+          "19-malep-41_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dfff825206483cb3/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-41_otakuhg_dub": "https://otakuhg.site/e/165sd4xodi0v",
+          "19-malep-41_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-41_otakuvid_dub": "https://otakuvid.online/embed/rofpqxew4vfi",
+          "19-malep-41_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Adventures of the Magnificent Steiner",
+      "episode_url": "https://hianime.ad/watch/monster/ep-42",
+      "sub": {
+        "StreamHG": {
+          "19-malep-42_otakuhg_sub": "https://otakuhg.site/e/y68sbyq25fpp",
+          "19-malep-42_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-42_otakuvid_sub": "https://otakuvid.online/embed/dj2s44vnfnf6",
+          "19-malep-42_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-42_otakuhg_dub": "https://otakuhg.site/e/ike7iqo1o2ha",
+          "19-malep-42_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-42_otakuvid_dub": "https://otakuvid.online/embed/4ehxjkqcs1na",
+          "19-malep-42_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Detective Suk",
+      "episode_url": "https://hianime.ad/watch/monster/ep-43",
+      "sub": {
+        "HD-1": {
+          "19-malep-43_vibeplayer_sub": "https://vibeplayer.site/5b0136bce144519a",
+          "19-malep-43_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b0136bce144519a/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-43_otakuhg_sub": "https://otakuhg.site/e/xg09o5jy5dw1",
+          "19-malep-43_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-43_otakuvid_sub": "https://otakuvid.online/embed/sc070hymhced",
+          "19-malep-43_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-43_vibeplayer_dub": "https://vibeplayer.site/02b73bff498cd647",
+          "19-malep-43_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/02b73bff498cd647/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-43_otakuhg_dub": "https://otakuhg.site/e/jjxoeee0fz7y",
+          "19-malep-43_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-43_otakuvid_dub": "https://otakuvid.online/embed/2py45e1feugl",
+          "19-malep-43_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Two Darkness",
+      "episode_url": "https://hianime.ad/watch/monster/ep-44",
+      "sub": {
+        "StreamHG": {
+          "19-malep-44_otakuhg_sub": "https://otakuhg.site/e/0v9e2ro04jp2",
+          "19-malep-44_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-44_otakuvid_sub": "https://otakuvid.online/embed/g70ckpq2i0xh",
+          "19-malep-44_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-44_vibeplayer_dub": "https://vibeplayer.site/f622d12d13f266d9",
+          "19-malep-44_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f622d12d13f266d9/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-44_otakuhg_dub": "https://otakuhg.site/e/z27ftn4tkkcu",
+          "19-malep-44_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-44_otakuvid_dub": "https://otakuvid.online/embed/kkeo8u03nuhd",
+          "19-malep-44_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Afterimage of a Monster",
+      "episode_url": "https://hianime.ad/watch/monster/ep-45",
+      "sub": {
+        "HD-1": {
+          "19-malep-45_vibeplayer_sub": "https://vibeplayer.site/bf165b706df091ee",
+          "19-malep-45_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf165b706df091ee/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-45_otakuhg_sub": "https://otakuhg.site/e/ic4rx2tbcpei",
+          "19-malep-45_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-45_otakuvid_sub": "https://otakuvid.online/embed/gvw16f94i4tg",
+          "19-malep-45_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-45_vibeplayer_dub": "https://vibeplayer.site/080740446d77ffe6",
+          "19-malep-45_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/080740446d77ffe6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-45_otakuhg_dub": "https://otakuhg.site/e/f7y4edayl5qr",
+          "19-malep-45_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-45_otakuvid_dub": "https://otakuvid.online/embed/fvtqns5tbrah",
+          "19-malep-45_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Point of Contact",
+      "episode_url": "https://hianime.ad/watch/monster/ep-46",
+      "sub": {
+        "HD-1": {
+          "19-malep-46_vibeplayer_sub": "https://vibeplayer.site/f9e71d189fb7aa87",
+          "19-malep-46_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9e71d189fb7aa87/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-46_otakuhg_sub": "https://otakuhg.site/e/tp23r43xko40",
+          "19-malep-46_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-46_otakuvid_sub": "https://otakuvid.online/embed/0nrkd63a2g2j",
+          "19-malep-46_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-46_vibeplayer_dub": "https://vibeplayer.site/75cc2740b44738bf",
+          "19-malep-46_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/75cc2740b44738bf/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-46_otakuhg_dub": "https://otakuhg.site/e/2a1odh5k5mf4",
+          "19-malep-46_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-46_otakuvid_dub": "https://otakuvid.online/embed/vh4pr8py0scs",
+          "19-malep-46_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-46_vibeplayer_hsub": "https://vibeplayer.site/554edf7ab5c115d0",
+          "19-malep-46_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/554edf7ab5c115d0/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-46_otakuhg_hsub": "https://otakuhg.site/e/6gsvjqdi7l31",
+          "19-malep-46_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-46_otakuvid_hsub": "https://otakuvid.online/embed/26rw5t877st9",
+          "19-malep-46_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-46_playmogo_hsub": "https://playmogo.com/e/0qlnulqq799w",
+          "19-malep-46_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Door to a Nightmare",
+      "episode_url": "https://hianime.ad/watch/monster/ep-47",
+      "sub": {
+        "HD-1": {
+          "19-malep-47_vibeplayer_sub": "https://vibeplayer.site/004271adac9c937f",
+          "19-malep-47_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/004271adac9c937f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-47_otakuhg_sub": "https://otakuhg.site/e/zrjc6jktaqxd",
+          "19-malep-47_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-47_otakuvid_sub": "https://otakuvid.online/embed/xpgip1phdbzn",
+          "19-malep-47_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-47_otakuhg_dub": "https://otakuhg.site/e/gcv8g4ul59z0",
+          "19-malep-47_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-47_otakuvid_dub": "https://otakuvid.online/embed/1267pb9ule3j",
+          "19-malep-47_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Most Frightening Thing",
+      "episode_url": "https://hianime.ad/watch/monster/ep-48",
+      "sub": {
+        "HD-1": {
+          "19-malep-48_vibeplayer_sub": "https://vibeplayer.site/4ce3437a6e2cbe42",
+          "19-malep-48_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ce3437a6e2cbe42/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-48_otakuhg_sub": "https://otakuhg.site/e/mk6zdbtimbhw",
+          "19-malep-48_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-48_otakuvid_sub": "https://otakuvid.online/embed/fl2izetlbi7y",
+          "19-malep-48_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-48_vibeplayer_dub": "https://vibeplayer.site/0ebd3f3aaf493ce5",
+          "19-malep-48_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ebd3f3aaf493ce5/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-48_otakuhg_dub": "https://otakuhg.site/e/lkzrz7abrssm",
+          "19-malep-48_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-48_otakuvid_dub": "https://otakuvid.online/embed/ge2truptfvvi",
+          "19-malep-48_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Cruelest Thing",
+      "episode_url": "https://hianime.ad/watch/monster/ep-49",
+      "sub": {
+        "HD-1": {
+          "19-malep-49_vibeplayer_sub": "https://vibeplayer.site/423cedb60a936736",
+          "19-malep-49_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/423cedb60a936736/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-49_otakuhg_sub": "https://otakuhg.site/e/i8irhot9bnpg",
+          "19-malep-49_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-49_otakuvid_sub": "https://otakuvid.online/embed/1nled6ix1jyo",
+          "19-malep-49_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-49_vibeplayer_dub": "https://vibeplayer.site/0ce8c1ee9bada6aa",
+          "19-malep-49_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0ce8c1ee9bada6aa/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-49_otakuhg_dub": "https://otakuhg.site/e/j6qudb7xg9lt",
+          "19-malep-49_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-49_otakuvid_dub": "https://otakuvid.online/embed/1ykcp0oh9b1d",
+          "19-malep-49_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Rose Mansion",
+      "episode_url": "https://hianime.ad/watch/monster/ep-50",
+      "sub": {
+        "HD-1": {
+          "19-malep-50_vibeplayer_sub": "https://vibeplayer.site/44cab1c9fb69011c",
+          "19-malep-50_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/44cab1c9fb69011c/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-50_otakuhg_sub": "https://otakuhg.site/e/37d1j533c0wh",
+          "19-malep-50_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-50_otakuvid_sub": "https://otakuvid.online/embed/1sfztnkpxksq",
+          "19-malep-50_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-50_vibeplayer_dub": "https://vibeplayer.site/db0eeaef865064d6",
+          "19-malep-50_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/db0eeaef865064d6/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-50_otakuhg_dub": "https://otakuhg.site/e/agalxvtg71lk",
+          "19-malep-50_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-50_otakuvid_dub": "https://otakuvid.online/embed/xpwrnezv0xp9",
+          "19-malep-50_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Monster's Love Letter",
+      "episode_url": "https://hianime.ad/watch/monster/ep-51",
+      "sub": {
+        "HD-1": {
+          "19-malep-51_vibeplayer_sub": "https://vibeplayer.site/f73b7446904743ca",
+          "19-malep-51_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f73b7446904743ca/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-51_otakuhg_sub": "https://otakuhg.site/e/xj6qze0t14qb",
+          "19-malep-51_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-51_otakuvid_sub": "https://otakuvid.online/embed/h2xes1e7o8ee",
+          "19-malep-51_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-51_vibeplayer_dub": "https://vibeplayer.site/f5e801e175ca6456",
+          "19-malep-51_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f5e801e175ca6456/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-51_otakuhg_dub": "https://otakuhg.site/e/jehdapiwc4t4",
+          "19-malep-51_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-51_otakuvid_dub": "https://otakuvid.online/embed/4uuusej0i9jd",
+          "19-malep-51_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Lawyer",
+      "episode_url": "https://hianime.ad/watch/monster/ep-52",
+      "sub": {
+        "HD-1": {
+          "19-malep-52_vibeplayer_sub": "https://vibeplayer.site/1e41e14bab068289",
+          "19-malep-52_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e41e14bab068289/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-52_otakuhg_sub": "https://otakuhg.site/e/w35scg6enu8f",
+          "19-malep-52_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-52_otakuvid_sub": "https://otakuvid.online/embed/vltwnzeuegzi",
+          "19-malep-52_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-52_vibeplayer_dub": "https://vibeplayer.site/48a3c324d346be38",
+          "19-malep-52_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48a3c324d346be38/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-52_otakuhg_dub": "https://otakuhg.site/e/t0mdtgyj7k6x",
+          "19-malep-52_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-52_otakuvid_dub": "https://otakuvid.online/embed/qb1ksuvantz4",
+          "19-malep-52_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Determination",
+      "episode_url": "https://hianime.ad/watch/monster/ep-53",
+      "sub": {
+        "HD-1": {
+          "19-malep-53_vibeplayer_sub": "https://vibeplayer.site/c5dd06744227dc7f",
+          "19-malep-53_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c5dd06744227dc7f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-53_otakuhg_sub": "https://otakuhg.site/e/ycx80xw32jmd",
+          "19-malep-53_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-53_otakuvid_sub": "https://otakuvid.online/embed/gaxsb8sol96z",
+          "19-malep-53_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-53_vibeplayer_dub": "https://vibeplayer.site/838babe894987f9b",
+          "19-malep-53_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/838babe894987f9b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-53_otakuhg_dub": "https://otakuhg.site/e/7nn1ba0fmaqn",
+          "19-malep-53_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-53_otakuvid_dub": "https://otakuvid.online/embed/v7e1rvv44you",
+          "19-malep-53_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Escape",
+      "episode_url": "https://hianime.ad/watch/monster/ep-54",
+      "sub": {
+        "HD-1": {
+          "19-malep-54_vibeplayer_sub": "https://vibeplayer.site/21cdb403cbab1776",
+          "19-malep-54_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21cdb403cbab1776/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-54_otakuhg_sub": "https://otakuhg.site/e/so090x2e6sqc",
+          "19-malep-54_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-54_otakuvid_sub": "https://otakuvid.online/embed/48spjlskb1ii",
+          "19-malep-54_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-54_vibeplayer_dub": "https://vibeplayer.site/c1c268cc2cafa53a",
+          "19-malep-54_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c1c268cc2cafa53a/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-54_otakuhg_dub": "https://otakuhg.site/e/hdw8ed89tvou",
+          "19-malep-54_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-54_otakuvid_dub": "https://otakuvid.online/embed/fzdymkzph5rp",
+          "19-malep-54_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Room Number 402",
+      "episode_url": "https://hianime.ad/watch/monster/ep-55",
+      "sub": {
+        "HD-1": {
+          "19-malep-55_vibeplayer_sub": "https://vibeplayer.site/54835e461bf9982f",
+          "19-malep-55_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/54835e461bf9982f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-55_otakuhg_sub": "https://otakuhg.site/e/v56snyqlwv31",
+          "19-malep-55_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-55_otakuvid_sub": "https://otakuvid.online/embed/ne0z82x6szoy",
+          "19-malep-55_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-55_vibeplayer_dub": "https://vibeplayer.site/a91f54a875da7432",
+          "19-malep-55_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a91f54a875da7432/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-55_otakuhg_dub": "https://otakuhg.site/e/0q3k4ql3m8yz",
+          "19-malep-55_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-55_otakuvid_dub": "https://otakuvid.online/embed/9i5xibon6qih",
+          "19-malep-55_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Unending Journey",
+      "episode_url": "https://hianime.ad/watch/monster/ep-56",
+      "sub": {
+        "HD-1": {
+          "19-malep-56_vibeplayer_sub": "https://vibeplayer.site/61bc1ac03296b0e1",
+          "19-malep-56_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61bc1ac03296b0e1/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-56_otakuhg_sub": "https://otakuhg.site/e/jupw631p3cx4",
+          "19-malep-56_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-56_otakuvid_sub": "https://otakuvid.online/embed/jbbf0uotmovi",
+          "19-malep-56_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-56_vibeplayer_dub": "https://vibeplayer.site/206f8432608a6c47",
+          "19-malep-56_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/206f8432608a6c47/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-56_otakuhg_dub": "https://otakuhg.site/e/y6189iedtum8",
+          "19-malep-56_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-56_otakuvid_dub": "https://otakuvid.online/embed/4pormbynj04l",
+          "19-malep-56_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "That Night",
+      "episode_url": "https://hianime.ad/watch/monster/ep-57",
+      "sub": {
+        "HD-1": {
+          "19-malep-57_vibeplayer_sub": "https://vibeplayer.site/89ca485f7cbdc88e",
+          "19-malep-57_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/89ca485f7cbdc88e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-57_otakuhg_sub": "https://otakuhg.site/e/a9dhszq9hgzh",
+          "19-malep-57_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-57_otakuvid_sub": "https://otakuvid.online/embed/a9piqycfl2u8",
+          "19-malep-57_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-57_vibeplayer_dub": "https://vibeplayer.site/ed01caaf4f7f6197",
+          "19-malep-57_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed01caaf4f7f6197/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-57_otakuhg_dub": "https://otakuhg.site/e/1r987x4fpnjx",
+          "19-malep-57_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-57_otakuvid_dub": "https://otakuvid.online/embed/7o2anc1q39zi",
+          "19-malep-57_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Unwanted Job",
+      "episode_url": "https://hianime.ad/watch/monster/ep-58",
+      "sub": {
+        "HD-1": {
+          "19-malep-58_vibeplayer_sub": "https://vibeplayer.site/a2997d29a944000b",
+          "19-malep-58_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a2997d29a944000b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-58_otakuhg_sub": "https://otakuhg.site/e/w0ctgb5dh11u",
+          "19-malep-58_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-58_otakuvid_sub": "https://otakuvid.online/embed/roacgjt01cq6",
+          "19-malep-58_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-58_vibeplayer_dub": "https://vibeplayer.site/677d008c3d6d8972",
+          "19-malep-58_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/677d008c3d6d8972/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-58_otakuhg_dub": "https://otakuhg.site/e/cxryfmek3faa",
+          "19-malep-58_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-58_otakuvid_dub": "https://otakuvid.online/embed/edlv7m51nqob",
+          "19-malep-58_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Man Who Saw the Devil",
+      "episode_url": "https://hianime.ad/watch/monster/ep-59",
+      "sub": {
+        "HD-1": {
+          "19-malep-59_vibeplayer_sub": "https://vibeplayer.site/58821adfb170b2d3",
+          "19-malep-59_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58821adfb170b2d3/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-59_otakuhg_sub": "https://otakuhg.site/e/fka05b9er57b",
+          "19-malep-59_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-59_otakuvid_sub": "https://otakuvid.online/embed/z98uanedkzfi",
+          "19-malep-59_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-59_vibeplayer_dub": "https://vibeplayer.site/0dc66266b21d34ba",
+          "19-malep-59_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0dc66266b21d34ba/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-59_otakuhg_dub": "https://otakuhg.site/e/k96fo0l4rlkg",
+          "19-malep-59_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-59_otakuvid_dub": "https://otakuvid.online/embed/pqzc507n4xuo",
+          "19-malep-59_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Man Who Knew Too Much",
+      "episode_url": "https://hianime.ad/watch/monster/ep-60",
+      "sub": {
+        "HD-1": {
+          "19-malep-60_vibeplayer_sub": "https://vibeplayer.site/c4c9c77f490b6dc1",
+          "19-malep-60_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4c9c77f490b6dc1/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-60_otakuhg_sub": "https://otakuhg.site/e/zba1oi4figzf",
+          "19-malep-60_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-60_otakuvid_sub": "https://otakuvid.online/embed/0eau6xbjm1l4",
+          "19-malep-60_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-60_vibeplayer_dub": "https://vibeplayer.site/361ee03912ef71a1",
+          "19-malep-60_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/361ee03912ef71a1/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-60_otakuhg_dub": "https://otakuhg.site/e/9z5oofxjuvwb",
+          "19-malep-60_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-60_otakuvid_dub": "https://otakuvid.online/embed/agdc2s6wb46x",
+          "19-malep-60_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Door of Memory",
+      "episode_url": "https://hianime.ad/watch/monster/ep-61",
+      "sub": {
+        "HD-1": {
+          "19-malep-61_vibeplayer_sub": "https://vibeplayer.site/a803ffbdb6005194",
+          "19-malep-61_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a803ffbdb6005194/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-61_otakuhg_sub": "https://otakuhg.site/e/okp8b2gjeh8b",
+          "19-malep-61_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-61_otakuvid_sub": "https://otakuvid.online/embed/l2838ewtpqnl",
+          "19-malep-61_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-61_vibeplayer_dub": "https://vibeplayer.site/81d9b348b8672542",
+          "19-malep-61_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/81d9b348b8672542/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-61_otakuhg_dub": "https://otakuhg.site/e/rhofyhxgrhu4",
+          "19-malep-61_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-61_otakuvid_dub": "https://otakuvid.online/embed/afw3yib29tqx",
+          "19-malep-61_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Fun Dining Table",
+      "episode_url": "https://hianime.ad/watch/monster/ep-62",
+      "sub": {
+        "HD-1": {
+          "19-malep-62_vibeplayer_sub": "https://vibeplayer.site/ab25f7a9c5478afa",
+          "19-malep-62_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab25f7a9c5478afa/master.m3u8"
+        },
+        "Earnvids": {
+          "19-malep-62_otakuvid_sub": "https://otakuvid.online/embed/87a3z30xyjrz",
+          "19-malep-62_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-62_vibeplayer_dub": "https://vibeplayer.site/c9009ec83d756725",
+          "19-malep-62_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c9009ec83d756725/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-62_otakuhg_dub": "https://otakuhg.site/e/hib35r2o8hyz",
+          "19-malep-62_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-62_otakuvid_dub": "https://otakuvid.online/embed/8x1jv9047k3d",
+          "19-malep-62_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-62_vibeplayer_hsub": "https://vibeplayer.site/7e35333b0d592b80",
+          "19-malep-62_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e35333b0d592b80/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-62_otakuhg_hsub": "https://otakuhg.site/e/4ku2ttdzz1q2",
+          "19-malep-62_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-62_otakuvid_hsub": "https://otakuvid.online/embed/wown960kltud",
+          "19-malep-62_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-62_playmogo_hsub": "https://playmogo.com/e/scy56adccngu",
+          "19-malep-62_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Unrelated Murder",
+      "episode_url": "https://hianime.ad/watch/monster/ep-63",
+      "sub": {
+        "StreamHG": {
+          "19-malep-63_otakuhg_sub": "https://otakuhg.site/e/zak4nzh41281",
+          "19-malep-63_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-63_otakuvid_sub": "https://otakuvid.online/embed/2a0wvtzg44jg",
+          "19-malep-63_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-63_vibeplayer_dub": "https://vibeplayer.site/9a2d65fc229cbb0c",
+          "19-malep-63_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9a2d65fc229cbb0c/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-63_otakuhg_dub": "https://otakuhg.site/e/q1zr5esx1o2e",
+          "19-malep-63_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-63_otakuvid_dub": "https://otakuvid.online/embed/81mddvb7ods7",
+          "19-malep-63_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Baby's Depression",
+      "episode_url": "https://hianime.ad/watch/monster/ep-64",
+      "sub": {
+        "HD-1": {
+          "19-malep-64_vibeplayer_sub": "https://vibeplayer.site/07fe0d89315e7a07",
+          "19-malep-64_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/07fe0d89315e7a07/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-64_otakuhg_sub": "https://otakuhg.site/e/1ddxhqbjpuzm",
+          "19-malep-64_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-64_otakuvid_sub": "https://otakuvid.online/embed/gv169pv0zrhv",
+          "19-malep-64_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-64_vibeplayer_dub": "https://vibeplayer.site/7eb8eec5085ba5ba",
+          "19-malep-64_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7eb8eec5085ba5ba/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-64_otakuhg_dub": "https://otakuhg.site/e/rhy47as1t5yr",
+          "19-malep-64_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-64_otakuvid_dub": "https://otakuvid.online/embed/z9hlok5y3f7d",
+          "19-malep-64_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Johan's Footprints",
+      "episode_url": "https://hianime.ad/watch/monster/ep-65",
+      "sub": {
+        "StreamHG": {
+          "19-malep-65_otakuhg_sub": "https://otakuhg.site/e/xzxvocasq0u8",
+          "19-malep-65_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-65_otakuvid_sub": "https://otakuvid.online/embed/d0tq5n7lhkvs",
+          "19-malep-65_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-65_vibeplayer_dub": "https://vibeplayer.site/f2aa6ac98e7b3ee9",
+          "19-malep-65_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f2aa6ac98e7b3ee9/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-65_otakuhg_dub": "https://otakuhg.site/e/ijuypzqytu41",
+          "19-malep-65_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-65_otakuvid_dub": "https://otakuvid.online/embed/sdya1uudvu72",
+          "19-malep-65_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Welcome Back",
+      "episode_url": "https://hianime.ad/watch/monster/ep-66",
+      "sub": {
+        "HD-1": {
+          "19-malep-66_vibeplayer_sub": "https://vibeplayer.site/f40667240448e80e",
+          "19-malep-66_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f40667240448e80e/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-66_otakuhg_sub": "https://otakuhg.site/e/pzussxlktan3",
+          "19-malep-66_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-66_otakuvid_sub": "https://otakuvid.online/embed/dnqoejygquio",
+          "19-malep-66_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "StreamHG": {
+          "19-malep-66_otakuhg_dub": "https://otakuhg.site/e/47e56uxqwq72",
+          "19-malep-66_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-66_otakuvid_dub": "https://otakuvid.online/embed/ryqgbbs3l6vt",
+          "19-malep-66_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "I'm Home",
+      "episode_url": "https://hianime.ad/watch/monster/ep-67",
+      "sub": {
+        "HD-1": {
+          "19-malep-67_vibeplayer_sub": "https://vibeplayer.site/0ea1fbf78ed2e062",
+          "19-malep-67_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ea1fbf78ed2e062/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-67_otakuhg_sub": "https://otakuhg.site/e/zfl0ho11xtdy",
+          "19-malep-67_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-67_otakuvid_sub": "https://otakuvid.online/embed/smorjdlz9bxg",
+          "19-malep-67_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-67_vibeplayer_dub": "https://vibeplayer.site/26796ac8836292a8",
+          "19-malep-67_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/26796ac8836292a8/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-67_otakuhg_dub": "https://otakuhg.site/e/a5smxumddltq",
+          "19-malep-67_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-67_otakuvid_dub": "https://otakuvid.online/embed/3tchl4nvrtwt",
+          "19-malep-67_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Ruhenheim",
+      "episode_url": "https://hianime.ad/watch/monster/ep-68",
+      "sub": {
+        "HD-1": {
+          "19-malep-68_vibeplayer_sub": "https://vibeplayer.site/9ff71cd65d642be8",
+          "19-malep-68_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ff71cd65d642be8/master.m3u8"
+        },
+        "Earnvids": {
+          "19-malep-68_otakuvid_sub": "https://otakuvid.online/embed/zoy32m22lpwo",
+          "19-malep-68_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-68_vibeplayer_dub": "https://vibeplayer.site/69d83d5577ded487",
+          "19-malep-68_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/69d83d5577ded487/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-68_otakuhg_dub": "https://otakuhg.site/e/uk5hkqlzg7zh",
+          "19-malep-68_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-68_otakuvid_dub": "https://otakuvid.online/embed/hphxiucd09nt",
+          "19-malep-68_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "19-malep-68_vibeplayer_hsub": "https://vibeplayer.site/508d0bcedc9be3bf",
+          "19-malep-68_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/508d0bcedc9be3bf/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-68_otakuhg_hsub": "https://otakuhg.site/e/vyn3ofvl3p69",
+          "19-malep-68_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-68_otakuvid_hsub": "https://otakuvid.online/embed/atyl0ezv0x0l",
+          "19-malep-68_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19-malep-68_playmogo_hsub": "https://playmogo.com/e/btce9nrcmiuv",
+          "19-malep-68_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Peaceful Home",
+      "episode_url": "https://hianime.ad/watch/monster/ep-69",
+      "sub": {
+        "HD-1": {
+          "19-malep-69_vibeplayer_sub": "https://vibeplayer.site/227cb087a6d207aa",
+          "19-malep-69_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/227cb087a6d207aa/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-69_otakuhg_sub": "https://otakuhg.site/e/pv8er42h0l5c",
+          "19-malep-69_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-69_otakuvid_sub": "https://otakuvid.online/embed/bl2mnvr9tq09",
+          "19-malep-69_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-69_vibeplayer_dub": "https://vibeplayer.site/efb671ba7a3c18fd",
+          "19-malep-69_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/efb671ba7a3c18fd/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-69_otakuhg_dub": "https://otakuhg.site/e/ljxik5c6ybt0",
+          "19-malep-69_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-69_otakuvid_dub": "https://otakuvid.online/embed/d6p66u2kfpke",
+          "19-malep-69_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Town of Slaughter",
+      "episode_url": "https://hianime.ad/watch/monster/ep-70",
+      "sub": {
+        "StreamHG": {
+          "19-malep-70_otakuhg_sub": "https://otakuhg.site/e/730rlluw5kwq",
+          "19-malep-70_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-70_otakuvid_sub": "https://otakuvid.online/embed/kpij1e8dyb1q",
+          "19-malep-70_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-70_vibeplayer_dub": "https://vibeplayer.site/eedfe4adf4acca0f",
+          "19-malep-70_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eedfe4adf4acca0f/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-70_otakuhg_dub": "https://otakuhg.site/e/7i1kv0xl159b",
+          "19-malep-70_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-70_otakuvid_dub": "https://otakuvid.online/embed/8c5p6w06ei6r",
+          "19-malep-70_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Magnificent Steiner's Rage",
+      "episode_url": "https://hianime.ad/watch/monster/ep-71",
+      "sub": {
+        "HD-1": {
+          "19-malep-71_vibeplayer_sub": "https://vibeplayer.site/f2f394892e3cd11b",
+          "19-malep-71_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f2f394892e3cd11b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-71_otakuhg_sub": "https://otakuhg.site/e/yqh9bzkizxo2",
+          "19-malep-71_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-71_otakuvid_sub": "https://otakuvid.online/embed/6e4btao6r22g",
+          "19-malep-71_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-71_vibeplayer_dub": "https://vibeplayer.site/b670c3b284d088fd",
+          "19-malep-71_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b670c3b284d088fd/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-71_otakuhg_dub": "https://otakuhg.site/e/swoptyjj4msf",
+          "19-malep-71_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-71_otakuvid_dub": "https://otakuvid.online/embed/4bwqnmz545pc",
+          "19-malep-71_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Man Without A Name",
+      "episode_url": "https://hianime.ad/watch/monster/ep-72",
+      "sub": {
+        "HD-1": {
+          "19-malep-72_vibeplayer_sub": "https://vibeplayer.site/f8ce2a2b8082baf8",
+          "19-malep-72_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f8ce2a2b8082baf8/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-72_otakuhg_sub": "https://otakuhg.site/e/jw7mondr3ng0",
+          "19-malep-72_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-72_otakuvid_sub": "https://otakuvid.online/embed/7onr0ojonmpm",
+          "19-malep-72_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-72_vibeplayer_dub": "https://vibeplayer.site/860f530783e7260b",
+          "19-malep-72_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/860f530783e7260b/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-72_otakuhg_dub": "https://otakuhg.site/e/3iybjdyl0jxt",
+          "19-malep-72_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-72_otakuvid_dub": "https://otakuvid.online/embed/fwlsgamjj7yz",
+          "19-malep-72_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Landscape of the End",
+      "episode_url": "https://hianime.ad/watch/monster/ep-73",
+      "sub": {
+        "HD-1": {
+          "19-malep-73_vibeplayer_sub": "https://vibeplayer.site/38c1e736e7f2439d",
+          "19-malep-73_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/38c1e736e7f2439d/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-73_otakuhg_sub": "https://otakuhg.site/e/mysm8lskah69",
+          "19-malep-73_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-73_otakuvid_sub": "https://otakuvid.online/embed/aibxit7ky2xw",
+          "19-malep-73_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-73_vibeplayer_dub": "https://vibeplayer.site/9befc7ae0cfd0bda",
+          "19-malep-73_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9befc7ae0cfd0bda/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-73_otakuhg_dub": "https://otakuhg.site/e/88sv4lhhhazi",
+          "19-malep-73_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-73_otakuvid_dub": "https://otakuvid.online/embed/yfz84868507a",
+          "19-malep-73_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Real Monster",
+      "episode_url": "https://hianime.ad/watch/monster/ep-74",
+      "sub": {
+        "HD-1": {
+          "19-malep-74_vibeplayer_sub": "https://vibeplayer.site/1c18c11b74e02930",
+          "19-malep-74_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1c18c11b74e02930/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-74_otakuhg_sub": "https://otakuhg.site/e/jnbuw5agvkb9",
+          "19-malep-74_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-74_otakuvid_sub": "https://otakuvid.online/embed/vtah9h4bli7r",
+          "19-malep-74_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "19-malep-74_vibeplayer_dub": "https://vibeplayer.site/59da14842585ca80",
+          "19-malep-74_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/59da14842585ca80/master.m3u8"
+        },
+        "StreamHG": {
+          "19-malep-74_otakuhg_dub": "https://otakuhg.site/e/4b87zgiyji7m",
+          "19-malep-74_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "19-malep-74_otakuvid_dub": "https://otakuvid.online/embed/yvofm425v1po",
+          "19-malep-74_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "anime_name": "Lost Song",
+  "anime_url": "https://hianime.ad/anime/lost-song",
+  "slug": "lost-song",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T05:33:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Song of Healing",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/dde621aa4e7ca79a",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dde621aa4e7ca79a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/cv59z987xwbs",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/5ba68287b8a88dde",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5ba68287b8a88dde/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/6hzvoipi02kh",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/9b4b4e85434356fd",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b4b4e85434356fd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/r99okmzzbkef",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/91flu4v4zy9q",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/otyo66e1oelx",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Departure",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/180585935baf0740",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/180585935baf0740/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/aybb6x6059ja",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/bd6feb0d579e051d",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bd6feb0d579e051d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/4t7g2mm3nj92",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/f8a6e658823750f8",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8a6e658823750f8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/748ysfzm8jf7",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/8gsvmenur47b",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Love",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/73dd8955b1e0b5f4",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73dd8955b1e0b5f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/c4hnbhyowi4q",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/526e2b193b423bf7",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/526e2b193b423bf7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/6fpu9kdma9nn",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/bd627d0222d25eeb",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd627d0222d25eeb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/kyfn7o4d34lv",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/n7ddg7gd7mfm",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Depravity",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/02b86bf7c704cfa4",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/02b86bf7c704cfa4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/w0ymqjco089h",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/d7e76caf3d0b5dfa",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d7e76caf3d0b5dfa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/sm8wnu48hqar",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/ba09e04874c222d8",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ba09e04874c222d8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/ulcknwtq4osb",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/fce2wdmu54et",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Encounter",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/22a46a0e61ddae2a",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/22a46a0e61ddae2a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/ngkqhb2g3ptl",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/eae02de6b46f0214",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eae02de6b46f0214/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/v01nziu4ut8q",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/2e16ade3509bef52",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e16ade3509bef52/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/2wdvs9t9glq2",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/n3j3nc0f5ty9",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Goodbye",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/ec2cf417f89b9035",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ec2cf417f89b9035/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/i8ig5i8mj9rx",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/df4f12b1224dae24",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df4f12b1224dae24/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/vbhfcofbsd6l",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/381f1b5c6a429a63",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/381f1b5c6a429a63/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/mujvpgnyu0u7",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/2vsg6st3mas2",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Mortality",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/33af741d4a7b1f14",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33af741d4a7b1f14/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/w0zfj9blykrk",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/c1491e2730b2758d",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c1491e2730b2758d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/n52xnjb9f4ao",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/18a9c7ffc36ea63f",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18a9c7ffc36ea63f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/rmi8yby3c2at",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/psl3kjec9k5y",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Eternity",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/5c4057b76e06cf7d",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5c4057b76e06cf7d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/dkmog8otnuhh",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/5689255dfab34289",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5689255dfab34289/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/nzr0mft1b1ft",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/2e7a63c0f217c167",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e7a63c0f217c167/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/wehdbs2d46vk",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/xa22n9lb72fo",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Nostalgia",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/2805eb48fc2785b7",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2805eb48fc2785b7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/fzng8n6nvcxi",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/95800da087ec1e50",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/95800da087ec1e50/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/gvwq1xr9m5la",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/0f774df607d8b4ab",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f774df607d8b4ab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/gv4ikqya15ww",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/2sslley3568s",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Determination",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/98698863d74e5b8b",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/98698863d74e5b8b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/3j60oagta4a7",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/2a54f677686ce31d",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2a54f677686ce31d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/48ssldbpogmr",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/95e0ad7b47050984",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95e0ad7b47050984/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/yiw2wrhvq935",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/08baiy2lqodh",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Silence",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/e96eff56bc7874c6",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e96eff56bc7874c6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/x9qa6p4r6f0v",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/c7bacf5929e2ec04",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c7bacf5929e2ec04/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/p4mgwmg4qmbk",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/16ff832fce12f11a",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/16ff832fce12f11a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/952ed8zsbezv",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/g8hyfoafv6jy",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Song of Beginning",
+      "episode_url": "https://hianime.ad/watch/lost-song/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/1201797fea7023d8",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1201797fea7023d8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/7akasfdn92qy",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/30f84dcb056b09c2",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/30f84dcb056b09c2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/33dycsbc92vd",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/dcdd4b382152ca7c",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dcdd4b382152ca7c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/ry02vwctlk2y",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/qp3hrxo8hr7i",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

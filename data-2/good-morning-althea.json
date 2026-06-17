@@ -1,0 +1,44 @@
+{
+  "anime_name": "Good Morning Althea",
+  "anime_url": "https://hianime.ad/anime/good-morning-althea",
+  "slug": "good-morning-althea",
+  "mal_id": 31699,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T18:43:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/good-morning-althea/ep-1",
+      "sub": {
+        "HD-1": {
+          "31699-malep-1_vibeplayer_sub": "https://vibeplayer.site/3c6db01783bc2d80",
+          "31699-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c6db01783bc2d80/master.m3u8"
+        },
+        "Earnvids": {
+          "31699-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dh4chjurmw4y",
+          "31699-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31699-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d6377b545b007f16",
+          "31699-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d6377b545b007f16/master.m3u8"
+        },
+        "StreamHG": {
+          "31699-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mwnals6dx18x",
+          "31699-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31699-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wbm0fxu8ubyp",
+          "31699-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31699-malep-1_playmogo_hsub": "https://playmogo.com/e/4uke7irfiqlv",
+          "31699-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

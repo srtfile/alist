@@ -1,0 +1,40 @@
+{
+  "anime_name": "Maison Ikkoku Bangai Hen Ikkokujima Nanpa Shimatsuki",
+  "anime_url": "https://hianime.ad/anime/maison-ikkoku-bangai-hen-ikkokujima-nanpa-shimatsuki",
+  "slug": "maison-ikkoku-bangai-hen-ikkokujima-nanpa-shimatsuki",
+  "mal_id": 1453,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:53:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sorry to Keep You Waiting! I Am Otonashi Kyoko!",
+      "episode_url": "https://hianime.ad/watch/maison-ikkoku-bangai-hen-ikkokujima-nanpa-shimatsuki/ep-1",
+      "sub": {
+        "HD-1": {
+          "1453-malep-1_vibeplayer_sub": "https://vibeplayer.site/37d762b0f72bdc57",
+          "1453-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/37d762b0f72bdc57/master.m3u8"
+        },
+        "Earnvids": {
+          "1453-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dhbbuwuha0z7",
+          "1453-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1453-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ab1894a3d6a9ae7c",
+          "1453-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab1894a3d6a9ae7c/master.m3u8"
+        },
+        "StreamHG": {
+          "1453-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zw1sj1b3i0n9",
+          "1453-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1453-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e6ow5w6oxdt3",
+          "1453-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

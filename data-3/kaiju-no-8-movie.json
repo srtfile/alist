@@ -1,0 +1,65 @@
+{
+  "anime_name": "Kaiju No 8 Movie",
+  "anime_url": "https://hianime.ad/anime/kaiju-no-8-movie",
+  "slug": "kaiju-no-8-movie",
+  "mal_id": 52588,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:38:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Man Who Became a Kaiju",
+      "episode_url": "https://hianime.ad/watch/kaiju-no-8-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "52588-malep-1_vibeplayer_sub": "https://vibeplayer.site/2729dcb0417915d7",
+          "52588-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2729dcb0417915d7/master.m3u8"
+        },
+        "StreamHG": {
+          "52588-malep-1_otakuhg_sub": "https://otakuhg.site/e/bbotct2qpi6z",
+          "52588-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52588-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sc3domb65xpg",
+          "52588-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "52588-malep-1_playmogo_sub": "https://playmogo.com/e/97h1cm08i22l",
+          "52588-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "52588-malep-1_vibeplayer_dub": "https://vibeplayer.site/0568a4e68ad80678",
+          "52588-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0568a4e68ad80678/master.m3u8"
+        },
+        "StreamHG": {
+          "52588-malep-1_otakuhg_dub": "https://otakuhg.site/e/ri9yvwwmaim7",
+          "52588-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "52588-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2w0z3av3gr79",
+          "52588-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "52588-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8200fb9d4a5638f",
+          "52588-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8200fb9d4a5638f/master.m3u8"
+        },
+        "StreamHG": {
+          "52588-malep-1_otakuhg_hsub": "https://otakuhg.site/e/baofp0saan7o",
+          "52588-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52588-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vjuzxi94pepm",
+          "52588-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52588-malep-1_playmogo_hsub": "https://playmogo.com/e/k5io1dsmqi8o",
+          "52588-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

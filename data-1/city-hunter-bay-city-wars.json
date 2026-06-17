@@ -1,0 +1,57 @@
+{
+  "anime_name": "City Hunter Bay City Wars",
+  "anime_url": "https://hianime.ad/anime/city-hunter-bay-city-wars",
+  "slug": "city-hunter-bay-city-wars",
+  "mal_id": 1470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T06:01:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "One Cool Sweeper! XYZ is a Dangerous Cocktail",
+      "episode_url": "https://hianime.ad/watch/city-hunter-bay-city-wars/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1470-malep-1_vibeplayer_dub": "https://vibeplayer.site/b7b42f49ed21e35e",
+          "1470-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b7b42f49ed21e35e/master.m3u8"
+        },
+        "HD-2": {
+          "1470-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2056f19f5b0689e17f935a1f059bccda4h",
+          "1470-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "1470-malep-1_otakuhg_dub": "https://otakuhg.site/e/478zjigtrqrw",
+          "1470-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1470-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z85glcon9mg6",
+          "1470-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1470-malep-1_playmogo_dub": "https://playmogo.com/e/ev1ywz5mcjjt",
+          "1470-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "1470-malep-1_vibeplayer_raw": "https://vibeplayer.site/35cd982ae0796f10",
+          "1470-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/35cd982ae0796f10/master.m3u8"
+        },
+        "HD-2": {
+          "1470-malep-1_vibeplayer_raw": "https://vibeplayer.site/agcda6b35e558e72e49aa2c864cd17adcf4h",
+          "1470-malep-1_vibeplayer_raw_m3u8": null
+        },
+        "StreamHG": {
+          "1470-malep-1_otakuhg_raw": "https://otakuhg.site/e/n4tdbzhz2n7n",
+          "1470-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "1470-malep-1_otakuvid_raw": "https://otakuvid.online/embed/ht7edbr7nh6p",
+          "1470-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

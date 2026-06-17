@@ -1,0 +1,61 @@
+{
+  "anime_name": "Harmony",
+  "anime_url": "https://hianime.ad/anime/harmony",
+  "slug": "harmony",
+  "mal_id": 55689,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T20:05:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pop Music Debut?!",
+      "episode_url": "https://hianime.ad/watch/harmony/ep-1",
+      "sub": {
+        "HD-1": {
+          "55689-malep-1_vibeplayer_sub": "https://vibeplayer.site/7bd49c09d3ffd29b",
+          "55689-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7bd49c09d3ffd29b/master.m3u8"
+        },
+        "Earnvids": {
+          "55689-malep-1_otakuvid_sub": "https://otakuvid.online/embed/233je7m8pfqh",
+          "55689-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "55689-malep-1_playmogo_sub": "https://playmogo.com/e/oft3jmtnnkij",
+          "55689-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55689-malep-1_vibeplayer_dub": "https://vibeplayer.site/760cf4efc07d40d1",
+          "55689-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/760cf4efc07d40d1/master.m3u8"
+        },
+        "Earnvids": {
+          "55689-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9plss8ko2hpf",
+          "55689-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "55689-malep-1_playmogo_dub": "https://playmogo.com/e/uhol1mpjftna",
+          "55689-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55689-malep-1_vibeplayer_hsub": "https://vibeplayer.site/660637d6ed5a496b",
+          "55689-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/660637d6ed5a496b/master.m3u8"
+        },
+        "StreamHG": {
+          "55689-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2sjnlhf1or3n",
+          "55689-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55689-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mzzpuq9831ng",
+          "55689-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55689-malep-1_playmogo_hsub": "https://playmogo.com/e/vlg4gl41fo9l",
+          "55689-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

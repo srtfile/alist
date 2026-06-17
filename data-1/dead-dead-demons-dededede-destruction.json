@@ -1,0 +1,69 @@
+{
+  "anime_name": "Dead Dead Demons Dededede Destruction",
+  "anime_url": "https://hianime.ad/anime/dead-dead-demons-dededede-destruction",
+  "slug": "dead-dead-demons-dededede-destruction",
+  "mal_id": 8074,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:50:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring of the DEAD",
+      "episode_url": "https://hianime.ad/watch/dead-dead-demons-dededede-destruction/ep-1",
+      "sub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_sub": "https://vibeplayer.site/cab8470beec95a07",
+          "8074-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cab8470beec95a07/master.m3u8"
+        },
+        "HD-2": {
+          "8074-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag248689ee12a100fdd0e702c4de08161a4h",
+          "8074-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "8074-malep-1_otakuhg_sub": "https://otakuhg.site/e/dw4zrwqez6pz",
+          "8074-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a1fm6xi3asb1",
+          "8074-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_dub": "https://vibeplayer.site/b533770988824d2f",
+          "8074-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b533770988824d2f/master.m3u8"
+        },
+        "HD-2": {
+          "8074-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag6d1a1dd4fa7d807cf86b81df492a627c4h",
+          "8074-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2zrv5ltcdjh6",
+          "8074-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fb9a5e283ea340e8",
+          "8074-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb9a5e283ea340e8/master.m3u8"
+        },
+        "HD-2": {
+          "8074-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag704f06513f58deea41880d640e4ba8ed4h",
+          "8074-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "8074-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rrgt7r5jpnz2",
+          "8074-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p4mlcld9r3me",
+          "8074-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_hsub": "https://playmogo.com/e/14gwf34rksx2",
+          "8074-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

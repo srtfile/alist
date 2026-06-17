@@ -1,0 +1,65 @@
+{
+  "anime_name": "Fatekaleid Liner Prisma Illya Dance At The Sports Festival",
+  "anime_url": "https://hianime.ad/anime/fatekaleid-liner-prisma-illya-dance-at-the-sports-festival",
+  "slug": "fatekaleid-liner-prisma-illya-dance-at-the-sports-festival",
+  "mal_id": 14829,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:16:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birth! A Magical Girl!",
+      "episode_url": "https://hianime.ad/watch/fatekaleid-liner-prisma-illya-dance-at-the-sports-festival/ep-1",
+      "sub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/f59649d97504188f",
+          "14829-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f59649d97504188f/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_sub": "https://vibeplayer.site/agc867055606e8abd679ce605c6405b6b54h",
+          "14829-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_sub": "https://otakuvid.online/embed/124d6t02n2tr",
+          "14829-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_dub": "https://vibeplayer.site/4ed3721a6fc2e9c4",
+          "14829-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4ed3721a6fc2e9c4/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_dub": "https://vibeplayer.site/agaf23faa92a9b5b87a6089d6f8d69d5f64h",
+          "14829-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_dub": "https://otakuvid.online/embed/rangu3lwgbqz",
+          "14829-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ee46098ab7142b98",
+          "14829-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ee46098ab7142b98/master.m3u8"
+        },
+        "HD-2": {
+          "14829-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag5c678483fcd7c7f92ae3341b2da3d5344h",
+          "14829-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "14829-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5rzeylad0jgl",
+          "14829-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14829-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/v5bw1q0wzoov",
+          "14829-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14829-malep-1_playmogo_hsub": "https://playmogo.com/e/i8niizyx9on2",
+          "14829-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

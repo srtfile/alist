@@ -1,0 +1,77 @@
+{
+  "anime_name": "Expelled From Paradise",
+  "anime_url": "https://hianime.ad/anime/expelled-from-paradise",
+  "slug": "expelled-from-paradise",
+  "mal_id": 322,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:47:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Studio",
+      "episode_url": "https://hianime.ad/watch/expelled-from-paradise/ep-1",
+      "sub": {
+        "HD-1": {
+          "322-malep-1_vibeplayer_sub": "https://vibeplayer.site/cce95e6be4d79f47",
+          "322-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cce95e6be4d79f47/master.m3u8"
+        },
+        "HD-2": {
+          "322-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag86eb272303329f619dc6f884eeb0d4dd4h",
+          "322-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "322-malep-1_otakuhg_sub": "https://otakuhg.site/e/im5n6he5qz4y",
+          "322-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "322-malep-1_otakuvid_sub": "https://otakuvid.online/embed/85eilq43wdzo",
+          "322-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "322-malep-1_playmogo_sub": "https://playmogo.com/e/b2heuharmqg6",
+          "322-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "322-malep-1_vibeplayer_dub": "https://vibeplayer.site/a332462094fa66db",
+          "322-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a332462094fa66db/master.m3u8"
+        },
+        "HD-2": {
+          "322-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag2d5ffb0344e782786adf73131a01c0544h",
+          "322-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "322-malep-1_otakuhg_dub": "https://otakuhg.site/e/tjwgwjw7ljjz",
+          "322-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "322-malep-1_otakuvid_dub": "https://otakuvid.online/embed/knon2xw2vafn",
+          "322-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "322-malep-1_vibeplayer_hsub": "https://vibeplayer.site/94a65ecb5f8474ed",
+          "322-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94a65ecb5f8474ed/master.m3u8"
+        },
+        "HD-2": {
+          "322-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfbe6230e46f2b94c8ad2ab57c5eb76c04h",
+          "322-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "322-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rbb2uj60s4uy",
+          "322-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "322-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u4wwpnzo2362",
+          "322-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "322-malep-1_playmogo_hsub": "https://playmogo.com/e/5yo18pkosqiz",
+          "322-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anime_name": "Matasaburo Of The Wind",
+  "anime_url": "https://hianime.ad/anime/matasaburo-of-the-wind",
+  "slug": "matasaburo-of-the-wind",
+  "mal_id": 1691,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:58:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Wind Returns",
+      "episode_url": "https://hianime.ad/watch/matasaburo-of-the-wind/ep-1",
+      "sub": {
+        "HD-1": {
+          "1691-malep-1_vibeplayer_sub": "https://vibeplayer.site/5cf030e95e1b693c",
+          "1691-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5cf030e95e1b693c/master.m3u8"
+        },
+        "Earnvids": {
+          "1691-malep-1_otakuvid_sub": "https://otakuvid.online/embed/j914co1noz3n",
+          "1691-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1691-malep-1_vibeplayer_hsub": "https://vibeplayer.site/84c6d3ea1361cca0",
+          "1691-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/84c6d3ea1361cca0/master.m3u8"
+        },
+        "StreamHG": {
+          "1691-malep-1_otakuhg_hsub": "https://otakuhg.site/e/g8a97bo18ulm",
+          "1691-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1691-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d914zbpbsjyl",
+          "1691-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1691-malep-1_playmogo_hsub": "https://playmogo.com/e/90uh4a9zdxcj",
+          "1691-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

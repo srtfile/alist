@@ -1,0 +1,44 @@
+{
+  "anime_name": "Macross 7 The Movie The Galaxy Is Calling Me",
+  "anime_url": "https://hianime.ad/anime/macross-7-the-movie-the-galaxy-is-calling-me",
+  "slug": "macross-7-the-movie-the-galaxy-is-calling-me",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:14:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/macross-7-the-movie-the-galaxy-is-calling-me/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f74062ee2c21b2d2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f74062ee2c21b2d2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/hqdfk70h5r8v",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/3taultdcj8q3",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/572f49ce1edb836d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/572f49ce1edb836d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cbw8zisu59c8",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/o7f6trniip4b",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

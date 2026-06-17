@@ -1,0 +1,56 @@
+{
+  "anime_name": "A Hundred Percents",
+  "anime_url": "https://hianime.ad/anime/a-hundred-percents",
+  "slug": "a-hundred-percents",
+  "mal_id": 58820,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:32:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wakana Tabata and Prince Takehara / Kinue Takehara and Ryouko Ueda",
+      "episode_url": "https://hianime.ad/watch/a-hundred-percents/ep-1",
+      "sub": {
+        "HD-1": {
+          "58820-malep-1_vibeplayer_sub": "https://vibeplayer.site/245a9e3dffbbd3f4",
+          "58820-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/245a9e3dffbbd3f4/master.m3u8"
+        },
+        "HD-2": {
+          "58820-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag770678c2e4dbd26b7cdf41241116d1424h",
+          "58820-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58820-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v2gb7ac5mx0l",
+          "58820-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58820-malep-1_playmogo_sub": "https://playmogo.com/e/htodgznfatbu",
+          "58820-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58820-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7ffa0b3daad835e2",
+          "58820-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7ffa0b3daad835e2/master.m3u8"
+        },
+        "HD-2": {
+          "58820-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agfc8365197d9874f30f939c4d7b08baef4h",
+          "58820-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "58820-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lf431iy9ia4h",
+          "58820-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58820-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/87qsorflg3eb",
+          "58820-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58820-malep-1_playmogo_hsub": "https://playmogo.com/e/i6excxjsa54q",
+          "58820-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

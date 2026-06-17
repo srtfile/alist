@@ -1,0 +1,44 @@
+{
+  "anime_name": "Majokko Club Yoningumi A Kuukan Kara No Alien X",
+  "anime_url": "https://hianime.ad/anime/majokko-club-yoningumi-a-kuukan-kara-no-alien-x",
+  "slug": "majokko-club-yoningumi-a-kuukan-kara-no-alien-x",
+  "mal_id": 156,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:57:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Reunion",
+      "episode_url": "https://hianime.ad/watch/majokko-club-yoningumi-a-kuukan-kara-no-alien-x/ep-1",
+      "sub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_sub": "https://vibeplayer.site/87c75c8f00a6e754",
+          "156-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87c75c8f00a6e754/master.m3u8"
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_sub": "https://otakuvid.online/embed/50fl1mf8l665",
+          "156-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_hsub": "https://vibeplayer.site/49bfb395ae5f3033",
+          "156-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/49bfb395ae5f3033/master.m3u8"
+        },
+        "StreamHG": {
+          "156-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7801m7ojstnb",
+          "156-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ckf8w4hs2eg1",
+          "156-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "156-malep-1_playmogo_hsub": "https://playmogo.com/e/xknnybmfvwy9",
+          "156-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

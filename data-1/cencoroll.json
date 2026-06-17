@@ -1,0 +1,52 @@
+{
+  "anime_name": "Cencoroll",
+  "anime_url": "https://hianime.ad/anime/cencoroll",
+  "slug": "cencoroll",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:11:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/cencoroll/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2637540928b02581",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2637540928b02581/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7f8cfd59f40ee436f16229accea51dca4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/20klpzskrz9e",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/05ccbd9ea9635350",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/05ccbd9ea9635350/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc43b841f1f9eae3c0933e156b36c87e54h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/mbgfz8zqg6qu",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lqf4gi114xqr",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ukibk0m6268c",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

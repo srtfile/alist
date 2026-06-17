@@ -1,0 +1,56 @@
+{
+  "anime_name": "Detective Conan Movie 12 Full Score Of Fear",
+  "anime_url": "https://hianime.ad/anime/detective-conan-movie-12-full-score-of-fear",
+  "slug": "detective-conan-movie-12-full-score-of-fear",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:09:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/detective-conan-movie-12-full-score-of-fear/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f38e7c7aa4061fe2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f38e7c7aa4061fe2/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag695c3455b274ec04ca8a58b757dc873f4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/mairtf1q9ykf",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/35pbcbgrt3nm",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c663f8308880b03a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c663f8308880b03a/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag8aef9dcd765596bd175ea0363c2c45c44h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/n4r46qk4n15s",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/brk1m47u52ov",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qaenqfoq91mk",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

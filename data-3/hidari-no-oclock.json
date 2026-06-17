@@ -1,0 +1,69 @@
+{
+  "anime_name": "Hidari No Oclock",
+  "anime_url": "https://hianime.ad/anime/hidari-no-oclock",
+  "slug": "hidari-no-oclock",
+  "mal_id": 2224,
+  "total_episodes": 2,
+  "captured_at": "2026-06-03T20:49:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I want to chase My rythmic gymnastics!",
+      "episode_url": "https://hianime.ad/watch/hidari-no-oclock/ep-1",
+      "sub": {
+        "HD-1": {
+          "2224-malep-1_vibeplayer_sub": "https://vibeplayer.site/9d035a2e0ed3a356",
+          "2224-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d035a2e0ed3a356/master.m3u8"
+        },
+        "Earnvids": {
+          "2224-malep-1_otakuvid_sub": "https://otakuvid.online/embed/59dhpespbhy5",
+          "2224-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2224-malep-1_vibeplayer_hsub": "https://vibeplayer.site/37b2f84ddc0ae318",
+          "2224-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37b2f84ddc0ae318/master.m3u8"
+        },
+        "Earnvids": {
+          "2224-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y84jwcqg69nv",
+          "2224-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2224-malep-1_playmogo_hsub": "https://playmogo.com/e/e550zycx5u2g",
+          "2224-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Do not cut the ribbon! Communicate...the love.",
+      "episode_url": "https://hianime.ad/watch/hidari-no-oclock/ep-2",
+      "sub": {
+        "HD-1": {
+          "2224-malep-2_vibeplayer_sub": "https://vibeplayer.site/b95164cadb1a2340",
+          "2224-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b95164cadb1a2340/master.m3u8"
+        },
+        "Earnvids": {
+          "2224-malep-2_otakuvid_sub": "https://otakuvid.online/embed/zy74l84xm7p4",
+          "2224-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2224-malep-2_vibeplayer_hsub": "https://vibeplayer.site/963937f276a34983",
+          "2224-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/963937f276a34983/master.m3u8"
+        },
+        "Earnvids": {
+          "2224-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/p7a75nf6n2jr",
+          "2224-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2224-malep-2_playmogo_hsub": "https://playmogo.com/e/2dkc89a4b17c",
+          "2224-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

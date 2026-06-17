@@ -1,0 +1,52 @@
+{
+  "anime_name": "Date A Bullet Nightmare Or Queen",
+  "anime_url": "https://hianime.ad/anime/date-a-bullet-nightmare-or-queen",
+  "slug": "date-a-bullet-nightmare-or-queen",
+  "mal_id": 19163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:44:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Daily Life",
+      "episode_url": "https://hianime.ad/watch/date-a-bullet-nightmare-or-queen/ep-1",
+      "sub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/c2c95e50deb8929c",
+          "19163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c2c95e50deb8929c/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd7cfa3901d6290d2078d1412b81e80d04h",
+          "19163-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/btx2ahy31xkv",
+          "19163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2dcb2a54b9f26db8",
+          "19163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2dcb2a54b9f26db8/master.m3u8"
+        },
+        "HD-2": {
+          "19163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag78c7a33df55cdd5d40ff24f8b19281a04h",
+          "19163-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "19163-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qura08rxfpjw",
+          "19163-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8mgi8shsnzbc",
+          "19163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19163-malep-1_playmogo_hsub": "https://playmogo.com/e/4rhopcu4bwd9",
+          "19163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

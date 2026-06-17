@@ -1,0 +1,53 @@
+{
+  "anime_name": "Hokuto No Ken Yuria Den",
+  "anime_url": "https://hianime.ad/anime/hokuto-no-ken-yuria-den",
+  "slug": "hokuto-no-ken-yuria-den",
+  "mal_id": 967,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T05:00:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "God or Devil? The Mightiest Man Appears in Hell",
+      "episode_url": "https://hianime.ad/watch/hokuto-no-ken-yuria-den/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "967-malep-1_vibeplayer_dub": "https://vibeplayer.site/2a7312db4ba88304",
+          "967-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2a7312db4ba88304/master.m3u8"
+        },
+        "StreamHG": {
+          "967-malep-1_otakuhg_dub": "https://otakuhg.site/e/32qhuh079jy0",
+          "967-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "967-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ojsrd8fq2uds",
+          "967-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "967-malep-1_playmogo_dub": "https://playmogo.com/e/000zudd6iszq",
+          "967-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "967-malep-1_vibeplayer_raw": "https://vibeplayer.site/3a09c148ce271d54",
+          "967-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/3a09c148ce271d54/master.m3u8"
+        },
+        "StreamHG": {
+          "967-malep-1_otakuhg_raw": "https://otakuhg.site/e/2i00qb8jdk20",
+          "967-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "967-malep-1_otakuvid_raw": "https://otakuvid.online/embed/hr84aklyj442",
+          "967-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "967-malep-1_playmogo_raw": "https://playmogo.com/e/n9yybaj0w46f",
+          "967-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

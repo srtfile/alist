@@ -1,0 +1,53 @@
+{
+  "anime_name": "Hokuto No Ken Raoh Gaiden Gekitou Hen",
+  "anime_url": "https://hianime.ad/anime/hokuto-no-ken-raoh-gaiden-gekitou-hen",
+  "slug": "hokuto-no-ken-raoh-gaiden-gekitou-hen",
+  "mal_id": 4549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T21:19:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Fists Are for the Heavens",
+      "episode_url": "https://hianime.ad/watch/hokuto-no-ken-raoh-gaiden-gekitou-hen/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_dub": "https://vibeplayer.site/a82b54f4b5a0e299",
+          "4549-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a82b54f4b5a0e299/master.m3u8"
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_dub": "https://otakuhg.site/e/hchc2sai81lg",
+          "4549-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_dub": "https://otakuvid.online/embed/rnhnhp69aky1",
+          "4549-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "4549-malep-1_playmogo_dub": "https://playmogo.com/e/hrozqpea6thm",
+          "4549-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "4549-malep-1_vibeplayer_raw": "https://vibeplayer.site/c84b525a3d364d56",
+          "4549-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/c84b525a3d364d56/master.m3u8"
+        },
+        "StreamHG": {
+          "4549-malep-1_otakuhg_raw": "https://otakuhg.site/e/s36f7c6v70rx",
+          "4549-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "4549-malep-1_otakuvid_raw": "https://otakuvid.online/embed/nh1hvmjqbgt5",
+          "4549-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "4549-malep-1_playmogo_raw": "https://playmogo.com/e/lq2ryxijkvwd",
+          "4549-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}

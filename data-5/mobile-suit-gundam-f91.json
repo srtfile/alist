@@ -1,0 +1,53 @@
+{
+  "anime_name": "Mobile Suit Gundam F91",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-f91",
+  "slug": "mobile-suit-gundam-f91",
+  "mal_id": 80,
+  "total_episodes": 1,
+  "captured_at": "2026-06-11T07:52:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gundam Rising!!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-f91/ep-1",
+      "sub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_sub": "https://vibeplayer.site/1e44ecbb453427a2",
+          "80-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e44ecbb453427a2/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o587pj5j56al",
+          "80-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_dub": "https://vibeplayer.site/68657cb48c2852ec",
+          "80-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/68657cb48c2852ec/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_dub": "https://otakuvid.online/embed/v18rg1y7vcb5",
+          "80-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_hsub": "https://vibeplayer.site/43c4d87069187d4b",
+          "80-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/43c4d87069187d4b/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_hsub": "https://otakuhg.site/e/50nxohn1s7mn",
+          "80-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t3h8u44gl77s",
+          "80-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_hsub": "https://playmogo.com/e/p3yv41u7z2xr",
+          "80-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

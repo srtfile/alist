@@ -1,0 +1,77 @@
+{
+  "anime_name": "Blood C The Last Dark",
+  "anime_url": "https://hianime.ad/anime/blood-c-the-last-dark",
+  "slug": "blood-c-the-last-dark",
+  "mal_id": 10490,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:48:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "O Ye Winds of Heaven",
+      "episode_url": "https://hianime.ad/watch/blood-c-the-last-dark/ep-1",
+      "sub": {
+        "HD-1": {
+          "10490-malep-1_vibeplayer_sub": "https://vibeplayer.site/91c500436787136c",
+          "10490-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/91c500436787136c/master.m3u8"
+        },
+        "HD-2": {
+          "10490-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd6c1d3bfe12165fc40000b11e5ebedda4h",
+          "10490-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "10490-malep-1_otakuhg_sub": "https://otakuhg.site/e/vkyihqhuxbhr",
+          "10490-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10490-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x6r0s6oimmoz",
+          "10490-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "10490-malep-1_vibeplayer_dub": "https://vibeplayer.site/645b00438ef6964b",
+          "10490-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/645b00438ef6964b/master.m3u8"
+        },
+        "HD-2": {
+          "10490-malep-1_vibeplayer_dub": "https://vibeplayer.site/agf00966ba1770b0eda2e533929a22f5dc4h",
+          "10490-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "10490-malep-1_otakuhg_dub": "https://otakuhg.site/e/d4x0h72q0cz4",
+          "10490-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "10490-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1ccq5wc226u6",
+          "10490-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "10490-malep-1_playmogo_dub": "https://playmogo.com/e/tcdy0ip2mz3y",
+          "10490-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "10490-malep-1_vibeplayer_hsub": "https://vibeplayer.site/693ecd443d59db70",
+          "10490-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/693ecd443d59db70/master.m3u8"
+        },
+        "HD-2": {
+          "10490-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd909941b2c786b64a2b88d742b8fc95f4h",
+          "10490-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "10490-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f66e2nmj55kn",
+          "10490-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10490-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ovsvd6iw3ne8",
+          "10490-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10490-malep-1_playmogo_hsub": "https://playmogo.com/e/acvtdg6at0cg",
+          "10490-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "anime_name": "Konohana Kitan",
+  "anime_url": "https://hianime.ad/anime/konohana-kitan",
+  "slug": "konohana-kitan",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T03:48:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sakuya Konohana",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/23130da965392105",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23130da965392105/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/qv0i3k2ne3jn",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/bdpuwd52enp0",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/f45b8f26cbd15b38",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f45b8f26cbd15b38/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/i0rvqcyjmbaz",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/gtp8gjqphrrj",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Spring Journey",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/09f507bab7b95f0c",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/09f507bab7b95f0c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/4kwzsvzqs1vy",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/321ifzze3mu8",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/a46948b708fc3f45",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a46948b708fc3f45/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/q6wchbmerf8m",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/3zntg13jhpp8",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Waiting Lovesick",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/e698dfacbc4347c1",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e698dfacbc4347c1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/64w3os6u6suw",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/a5aqec65p68o",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/bb01914ffa4f1b8a",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb01914ffa4f1b8a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/6fm7c05s92yu",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Raft Bridge of Dreams",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/bc7981c74a31626a",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc7981c74a31626a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/bk7cgpld0vwq",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/f92998c280a29274",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f92998c280a29274/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/v6vws5213sr8",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Spring Rains Bring With It",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/a78a43224132d9eb",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a78a43224132d9eb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/svzewflaaq7i",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/ec035df11f84135a",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ec035df11f84135a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/uxhh8kunsetj",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Konohana-tei Horror Stories",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/13e6d998d5e6d07e",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13e6d998d5e6d07e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/w9ucyfrp81q2",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/be3f09c63f56f219",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be3f09c63f56f219/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/jeexn24vh5ba",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Night of the Summer Festival",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/3d33207318636d57",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3d33207318636d57/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/4nz20hmp0tjw",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/s46dtuyg4qsz",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/d5aa7405545b57d8",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d5aa7405545b57d8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/gwtah3d1h777",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/i5n27mxwcnod",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Transient Guest",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/370df4ea2a506a42",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/370df4ea2a506a42/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/j5oezqvpve6y",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/q5w7zd8iy649",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/97c57cb5909186dd",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/97c57cb5909186dd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/27fsxys3lmeg",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/ued5pdio8e6u",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Evanescent...",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/97bcd6f56fdb1dd8",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/97bcd6f56fdb1dd8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/c0gf5trkw7gv",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/4abb251404bb9986",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4abb251404bb9986/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/896zqqur3xa0",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/tgqn4f7eej2k",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Sister Strikes",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/9c2d4949e315151a",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9c2d4949e315151a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/hcyrqw02bsgm",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/vrs4lrdrl5d7",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/33cb9c8bd2296e4e",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/33cb9c8bd2296e4e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/opf3vewqelue",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/wh4anag0506a",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A God's Day Off",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/a9f81148b86f3d12",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a9f81148b86f3d12/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/jojn0jhicd61",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/c84724249de5238a",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c84724249de5238a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/1pn00rsk90fj",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/thljnj4idbgu",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Miracle on New Year's Eve",
+      "episode_url": "https://hianime.ad/watch/konohana-kitan/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/9cf3b3da47466d30",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9cf3b3da47466d30/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/6cazvbfb9trr",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/b0a14ac34228e425",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b0a14ac34228e425/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/o3hck11djo8e",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/5jnhitlr5yb2",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

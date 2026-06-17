@@ -1,0 +1,36 @@
+{
+  "anime_name": "Love Live Nijigasaki High School Idol Club Next Sky",
+  "anime_url": "https://hianime.ad/anime/love-live-nijigasaki-high-school-idol-club-next-sky",
+  "slug": "love-live-nijigasaki-high-school-idol-club-next-sky",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T05:42:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/love-live-nijigasaki-high-school-idol-club-next-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/7112a0ba19469282",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7112a0ba19469282/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/g36mu6p8u3pq",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ec685ac0bf824c8b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec685ac0bf824c8b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6lejmz3zaa9d",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

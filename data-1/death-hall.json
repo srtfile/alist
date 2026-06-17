@@ -1,0 +1,56 @@
+{
+  "anime_name": "Death Hall",
+  "anime_url": "https://hianime.ad/anime/death-hall",
+  "slug": "death-hall",
+  "mal_id": 789,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:52:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Your Voice",
+      "episode_url": "https://hianime.ad/watch/death-hall/ep-1",
+      "sub": {
+        "HD-1": {
+          "789-malep-1_vibeplayer_sub": "https://vibeplayer.site/6cde1720603a7735",
+          "789-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6cde1720603a7735/master.m3u8"
+        },
+        "HD-2": {
+          "789-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag87db8abe25c0bb5db07b73c60570bc074h",
+          "789-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "789-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nl2scp5scuue",
+          "789-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "789-malep-1_playmogo_sub": "https://playmogo.com/e/sh22vw4joaiw",
+          "789-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "789-malep-1_vibeplayer_hsub": "https://vibeplayer.site/553b7dffc204adcf",
+          "789-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/553b7dffc204adcf/master.m3u8"
+        },
+        "HD-2": {
+          "789-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agdd1deb302ec2ce9e855bd519edf821df4h",
+          "789-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "789-malep-1_otakuhg_hsub": "https://otakuhg.site/e/686b0b438hyw",
+          "789-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "789-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yk96bwg8v0jr",
+          "789-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "789-malep-1_playmogo_hsub": "https://playmogo.com/e/okf7jbojpfec",
+          "789-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

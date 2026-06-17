@@ -1,0 +1,81 @@
+{
+  "anime_name": "Bang Dream Morfonication",
+  "anime_url": "https://hianime.ad/anime/bang-dream-morfonication",
+  "slug": "bang-dream-morfonication",
+  "mal_id": 33573,
+  "total_episodes": 2,
+  "captured_at": "2026-06-02T22:34:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Met!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-morfonication/ep-1",
+      "sub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/091489b5b49e4d2f",
+          "33573-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/091489b5b49e4d2f/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_sub": "https://vibeplayer.site/agcd667142b8e813464f0a2ece8f325ae44h",
+          "33573-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pg0j6xvsu28z",
+          "33573-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3723421410b63e80",
+          "33573-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3723421410b63e80/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag06e8847cff58713224a5e2bf0f2236e84h",
+          "33573-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "33573-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6eogamiwzccu",
+          "33573-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zidwgankfcq5",
+          "33573-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We Did It!",
+      "episode_url": "https://hianime.ad/watch/bang-dream-morfonication/ep-2",
+      "sub": {
+        "HD-1": {
+          "33573-malep-2_vibeplayer_sub": "https://vibeplayer.site/d6088e04d4f07a3f",
+          "33573-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d6088e04d4f07a3f/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-2_vibeplayer_sub": "https://vibeplayer.site/agc29004f2441613102dab4798cac1f71c4h",
+          "33573-malep-2_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-2_otakuvid_sub": "https://otakuvid.online/embed/hdqd8803a1o2",
+          "33573-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33573-malep-2_vibeplayer_hsub": "https://vibeplayer.site/7fb90467b3467767",
+          "33573-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7fb90467b3467767/master.m3u8"
+        },
+        "HD-2": {
+          "33573-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ag03c9a5cb48c95a239725b39c182939d94h",
+          "33573-malep-2_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33573-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/xfb6h1qef4v8",
+          "33573-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

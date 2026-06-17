@@ -1,0 +1,48 @@
+{
+  "anime_name": "Fateprototype",
+  "anime_url": "https://hianime.ad/anime/fateprototype",
+  "slug": "fateprototype",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:18:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/fateprototype/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/1933a5c9dae2ff41",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1933a5c9dae2ff41/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/agca7e8f1947a324ef9161161a99081e5e4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/wv2ye130b7on",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/l91yp87yzuw6",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/3deaccbced026a7f",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3deaccbced026a7f/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/age6a691d546c33e394260f4fb20f249d34h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zgms2h5nbw4f",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

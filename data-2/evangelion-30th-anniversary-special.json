@@ -1,0 +1,56 @@
+{
+  "anime_name": "Evangelion 30Th Anniversary Special",
+  "anime_url": "https://hianime.ad/anime/evangelion-30th-anniversary-special",
+  "slug": "evangelion-30th-anniversary-special",
+  "mal_id": 30,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:40:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Angel Attack",
+      "episode_url": "https://hianime.ad/watch/evangelion-30th-anniversary-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "30-malep-1_vibeplayer_sub": "https://vibeplayer.site/73f1c31fea1fef9f",
+          "30-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73f1c31fea1fef9f/master.m3u8"
+        },
+        "HD-2": {
+          "30-malep-1_vibeplayer_sub": "https://vibeplayer.site/agd1205958239ab8ac46185481eda959f04h",
+          "30-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tv9csnh0innd",
+          "30-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "30-malep-1_playmogo_sub": "https://playmogo.com/e/ofjcwef8tu6b",
+          "30-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30-malep-1_vibeplayer_hsub": "https://vibeplayer.site/beac80fe6d793449",
+          "30-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/beac80fe6d793449/master.m3u8"
+        },
+        "HD-2": {
+          "30-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag6f42c1f85503307ddf2804edcacd298c4h",
+          "30-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "30-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lep2tzhina2k",
+          "30-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9c4mutz8emkh",
+          "30-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30-malep-1_playmogo_hsub": "https://playmogo.com/e/8wcyulkm869o",
+          "30-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

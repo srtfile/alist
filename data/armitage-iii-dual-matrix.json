@@ -1,0 +1,65 @@
+{
+  "anime_name": "Armitage Iii Dual Matrix",
+  "anime_url": "https://hianime.ad/anime/armitage-iii-dual-matrix",
+  "slug": "armitage-iii-dual-matrix",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T21:18:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/armitage-iii-dual-matrix/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c4ac05c4e0f563cb",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4ac05c4e0f563cb/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ag64e13d74102e53fc6b4b10e449c155544h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/27l9d9b3mm1z",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/3g7rhwkfogeh",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/11ed9a5897f359fb",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/11ed9a5897f359fb/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/agb316168ad55c88753407e94b2af40b4e4h",
+          "malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/gz68f1wesvtd",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/262ab118a0392abc",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/262ab118a0392abc/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/agda4933c3b0f513250db0099837d3e0a44h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/39nzz9rgpegg",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9zslyeczbzc3",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "anime_name": "Ghost In The Shell The New Movie",
+  "anime_url": "https://hianime.ad/anime/ghost-in-the-shell-the-new-movie",
+  "slug": "ghost-in-the-shell-the-new-movie",
+  "mal_id": 467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T17:35:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Section 9",
+      "episode_url": "https://hianime.ad/watch/ghost-in-the-shell-the-new-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_sub": "https://vibeplayer.site/9b6a14f2f9e12062",
+          "467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9b6a14f2f9e12062/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ptaqypnd87lr",
+          "467-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_dub": "https://vibeplayer.site/62669cfc28264a1c",
+          "467-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/62669cfc28264a1c/master.m3u8"
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pq4keju9r6ca",
+          "467-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b9a873029389ef3f",
+          "467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b9a873029389ef3f/master.m3u8"
+        },
+        "StreamHG": {
+          "467-malep-1_otakuhg_hsub": "https://otakuhg.site/e/nbpokh9e1bvn",
+          "467-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s49g5uhsn4we",
+          "467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "467-malep-1_playmogo_hsub": "https://playmogo.com/e/66a0mhe32jkz",
+          "467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

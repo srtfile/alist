@@ -1,0 +1,73 @@
+{
+  "anime_name": "Dragon Ball Z Broly The Legendary Super Saiyan",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-broly-the-legendary-super-saiyan",
+  "slug": "dragon-ball-z-broly-the-legendary-super-saiyan",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:43:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-broly-the-legendary-super-saiyan/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/36ef3746cd1e32ca",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36ef3746cd1e32ca/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/agaa2b1b25efce65dd8662e7f9ae75ae634h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_sub": "https://otakuhg.site/e/bvvcmgbmhb2h",
+          "813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/89zfldklojwh",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/af9a6d46160bed4f",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/af9a6d46160bed4f/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag694653f410669270160aff11d2e516584h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/8nu5ljr49ux2",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5ny6myfmzy3s",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dc2f0e58b06c19c8",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc2f0e58b06c19c8/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agcbe8343d7f1fa6ffae5d17fca155a4194h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vra49y8qj1rx",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8caiatzgfmpi",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/7i6j40hb5zg6",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

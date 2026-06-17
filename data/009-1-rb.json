@@ -1,0 +1,52 @@
+{
+  "anime_name": "009 1 Rb",
+  "anime_url": "https://hianime.ad/anime/009-1-rb",
+  "slug": "009-1-rb",
+  "mal_id": 1583,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T17:07:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Infiltrators",
+      "episode_url": "https://hianime.ad/watch/009-1-rb/ep-1",
+      "sub": {
+        "HD-1": {
+          "1583-malep-1_vibeplayer_sub": "https://vibeplayer.site/bc4642e96074ea06",
+          "1583-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc4642e96074ea06/master.m3u8"
+        },
+        "HD-2": {
+          "1583-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag76e106f1b0624ef9a332844c6b6a09934h",
+          "1583-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "1583-malep-1_otakuhg_sub": "https://otakuhg.site/e/gnuodb55oy8e",
+          "1583-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1583-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z7b323l76cv3",
+          "1583-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c10fc21dd514418b",
+          "1583-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c10fc21dd514418b/master.m3u8"
+        },
+        "HD-2": {
+          "1583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agd80275a428b4756e68eaef6e6b27c97c4h",
+          "1583-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1583-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0gnuzxj2sgjm",
+          "1583-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1583-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/edkjcn934dl9",
+          "1583-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

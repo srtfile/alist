@@ -1,0 +1,52 @@
+{
+  "anime_name": "Dorami Chan A Blue Straw Hat",
+  "anime_url": "https://hianime.ad/anime/dorami-chan-a-blue-straw-hat",
+  "slug": "dorami-chan-a-blue-straw-hat",
+  "mal_id": 350,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:07:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Doremi! I'm a Witch Apprentice",
+      "episode_url": "https://hianime.ad/watch/dorami-chan-a-blue-straw-hat/ep-1",
+      "sub": {
+        "HD-1": {
+          "350-malep-1_vibeplayer_sub": "https://vibeplayer.site/64914ceab8101d14",
+          "350-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/64914ceab8101d14/master.m3u8"
+        },
+        "HD-2": {
+          "350-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag9a401f5ef1943d2a813b55d4485eadc54h",
+          "350-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "350-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n11h6t70ew6m",
+          "350-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "350-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3ffdec057aa06f71",
+          "350-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ffdec057aa06f71/master.m3u8"
+        },
+        "HD-2": {
+          "350-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2937b6db307b408d84b169743e032c4a4h",
+          "350-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "350-malep-1_otakuhg_hsub": "https://otakuhg.site/e/num41hb2ml6f",
+          "350-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "350-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9lf09qx235tb",
+          "350-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "350-malep-1_playmogo_hsub": "https://playmogo.com/e/uppa4cscqmma",
+          "350-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

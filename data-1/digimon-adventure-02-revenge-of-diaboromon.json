@@ -1,0 +1,52 @@
+{
+  "anime_name": "Digimon Adventure 02 Revenge Of Diaboromon",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-02-revenge-of-diaboromon",
+  "slug": "digimon-adventure-02-revenge-of-diaboromon",
+  "mal_id": 1313,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:27:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Enter Flamedramon",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-02-revenge-of-diaboromon/ep-1",
+      "sub": {
+        "HD-1": {
+          "1313-malep-1_vibeplayer_sub": "https://vibeplayer.site/366a8164d968f2f2",
+          "1313-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/366a8164d968f2f2/master.m3u8"
+        },
+        "HD-2": {
+          "1313-malep-1_vibeplayer_sub": "https://vibeplayer.site/age2623d2f97df78f6454ff66df564d3704h",
+          "1313-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1313-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hznuobb8q8nr",
+          "1313-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1313-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5f780b2b42e06319",
+          "1313-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5f780b2b42e06319/master.m3u8"
+        },
+        "HD-2": {
+          "1313-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1cbcdb840e948e39210bbaec71aff5534h",
+          "1313-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "1313-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tb1d3v87rzxp",
+          "1313-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1313-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/718l848hm7ma",
+          "1313-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1313-malep-1_playmogo_hsub": "https://playmogo.com/e/w7ozjwhxa258",
+          "1313-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

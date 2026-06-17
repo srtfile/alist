@@ -1,0 +1,81 @@
+{
+  "anime_name": "Dragon Ball Z Lord Slug",
+  "anime_url": "https://hianime.ad/anime/dragon-ball-z-lord-slug",
+  "slug": "dragon-ball-z-lord-slug",
+  "mal_id": 813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T09:44:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The New Threat",
+      "episode_url": "https://hianime.ad/watch/dragon-ball-z-lord-slug/ep-1",
+      "sub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/e6fbe199994c94a0",
+          "813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6fbe199994c94a0/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag18e5f7bcce574f24fa9f9420963f22f34h",
+          "813-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_sub": "https://otakuhg.site/e/0oruzvv4sxk6",
+          "813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jo64xzpafh4u",
+          "813-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_sub": "https://playmogo.com/e/rzi6smb8pxdf",
+          "813-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/ac16d7d3760d288b",
+          "813-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ac16d7d3760d288b/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_dub": "https://vibeplayer.site/aga50b2b87590771bfc5dea6caa1dc8d874h",
+          "813-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_dub": "https://otakuhg.site/e/3nb5hhl06bd3",
+          "813-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jml5n89fsosd",
+          "813-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_dub": "https://playmogo.com/e/b9lqsfnwpa7s",
+          "813-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e1e8f6463a34f2c2",
+          "813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1e8f6463a34f2c2/master.m3u8"
+        },
+        "HD-2": {
+          "813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7ef49a31fbf1470cf6f4917ebc5be4224h",
+          "813-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sa157aydt9j7",
+          "813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/705slm5ill1u",
+          "813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "813-malep-1_playmogo_hsub": "https://playmogo.com/e/1otyvwb8qovv",
+          "813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

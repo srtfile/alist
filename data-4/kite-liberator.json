@@ -1,0 +1,61 @@
+{
+  "anime_name": "Kite Liberator",
+  "anime_url": "https://hianime.ad/anime/kite-liberator",
+  "slug": "kite-liberator",
+  "mal_id": 36266,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T03:32:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Magical Girl Site",
+      "episode_url": "https://hianime.ad/watch/kite-liberator/ep-1",
+      "sub": {
+        "HD-1": {
+          "36266-malep-1_vibeplayer_sub": "https://vibeplayer.site/bdb7cd8154898ec2",
+          "36266-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bdb7cd8154898ec2/master.m3u8"
+        },
+        "StreamHG": {
+          "36266-malep-1_otakuhg_sub": "https://otakuhg.site/e/ca6y3f8l84pu",
+          "36266-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36266-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kxh7u0iwlry8",
+          "36266-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "36266-malep-1_vibeplayer_dub": "https://vibeplayer.site/3c2e432295572bae",
+          "36266-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3c2e432295572bae/master.m3u8"
+        },
+        "StreamHG": {
+          "36266-malep-1_otakuhg_dub": "https://otakuhg.site/e/4zgfxnmkr7sv",
+          "36266-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "36266-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ggq54fxsaoup",
+          "36266-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "36266-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d04cf388c527deec",
+          "36266-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d04cf388c527deec/master.m3u8"
+        },
+        "StreamHG": {
+          "36266-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ca8eyd578ba7",
+          "36266-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36266-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pz0btkh7i7n0",
+          "36266-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36266-malep-1_playmogo_hsub": "https://playmogo.com/e/b7wias6sff52",
+          "36266-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

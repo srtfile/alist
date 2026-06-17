@@ -1,0 +1,52 @@
+{
+  "anime_name": "Masamune Kuns Revenge Ova",
+  "anime_url": "https://hianime.ad/anime/masamune-kuns-revenge-ova",
+  "slug": "masamune-kuns-revenge-ova",
+  "mal_id": 33487,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T07:51:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Boy Who Was Called Pig's Foot",
+      "episode_url": "https://hianime.ad/watch/masamune-kuns-revenge-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "33487-malep-1_vibeplayer_sub": "https://vibeplayer.site/331a6fb4d2860b77",
+          "33487-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/331a6fb4d2860b77/master.m3u8"
+        },
+        "StreamHG": {
+          "33487-malep-1_otakuhg_sub": "https://otakuhg.site/e/tw9uz5o4v1ih",
+          "33487-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33487-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a07yxs3e0rft",
+          "33487-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33487-malep-1_playmogo_sub": "https://playmogo.com/e/qolfx7c0rsds",
+          "33487-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33487-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8319efb6bf64f70d",
+          "33487-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8319efb6bf64f70d/master.m3u8"
+        },
+        "StreamHG": {
+          "33487-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gp3sby4w18k2",
+          "33487-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33487-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t6aiqjv0v0vi",
+          "33487-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33487-malep-1_playmogo_hsub": "https://playmogo.com/e/jqfs8k9sln8m",
+          "33487-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

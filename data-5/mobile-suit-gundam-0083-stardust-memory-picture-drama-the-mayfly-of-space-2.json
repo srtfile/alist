@@ -1,0 +1,44 @@
+{
+  "anime_name": "Mobile Suit Gundam 0083 Stardust Memory Picture Drama The Mayfly Of Space 2",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-0083-stardust-memory-picture-drama-the-mayfly-of-space-2",
+  "slug": "mobile-suit-gundam-0083-stardust-memory-picture-drama-the-mayfly-of-space-2",
+  "mal_id": 80,
+  "total_episodes": 1,
+  "captured_at": "2026-06-11T07:51:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gundam Rising!!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-0083-stardust-memory-picture-drama-the-mayfly-of-space-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_sub": "https://vibeplayer.site/b4840ded70ecedbc",
+          "80-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b4840ded70ecedbc/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6rvyzf62d5in",
+          "80-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_hsub": "https://vibeplayer.site/641f601760540e24",
+          "80-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/641f601760540e24/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8dutw7dgh6s2",
+          "80-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7tb99svle7ng",
+          "80-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_hsub": "https://playmogo.com/e/e0qlfntamljn",
+          "80-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

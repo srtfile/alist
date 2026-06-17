@@ -1,0 +1,60 @@
+{
+  "anime_name": "Fategrand Order Shuukyoku Tokuiten Kani Jikan Shinden Solomon",
+  "anime_url": "https://hianime.ad/anime/fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon",
+  "slug": "fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon",
+  "mal_id": 38084,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T11:14:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolute Demonic Front Babylonia",
+      "episode_url": "https://hianime.ad/watch/fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon/ep-1",
+      "sub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/f1e3d5277694695f",
+          "38084-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1e3d5277694695f/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8d9721eb6bd7e3f1428393e2a96370c04h",
+          "38084-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_sub": "https://otakuhg.site/e/5x98tqlrv8lp",
+          "38084-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jirlvtu76ah7",
+          "38084-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38084-malep-1_playmogo_sub": "https://playmogo.com/e/57zm5sdine0h",
+          "38084-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/18cbdbfa9b704f8d",
+          "38084-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18cbdbfa9b704f8d/master.m3u8"
+        },
+        "HD-2": {
+          "38084-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag52f5bb978531a3383a966c148e0b3cba4h",
+          "38084-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "38084-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oit9vs5mmxow",
+          "38084-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38084-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/amseb1ro4gqp",
+          "38084-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38084-malep-1_playmogo_hsub": "https://playmogo.com/e/t5rrqh6itqv6",
+          "38084-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

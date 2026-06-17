@@ -1,0 +1,44 @@
+{
+  "anime_name": "Kuroi Ame Ni Utarete",
+  "anime_url": "https://hianime.ad/anime/kuroi-ame-ni-utarete",
+  "slug": "kuroi-ame-ni-utarete",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T04:00:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/kuroi-ame-ni-utarete/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/9a4355ad64e90326",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9a4355ad64e90326/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/6fq0ohr7frj0",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/vlcfv09kcwxz",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/1cd8fa8b11620d52",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1cd8fa8b11620d52/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vsa1bjd6oiok",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/bs77jpg61wku",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

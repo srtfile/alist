@@ -1,0 +1,65 @@
+{
+  "anime_name": "Free Eternal Summer Kindan No All Hard",
+  "anime_url": "https://hianime.ad/anime/free-eternal-summer-kindan-no-all-hard",
+  "slug": "free-eternal-summer-kindan-no-all-hard",
+  "mal_id": 22265,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:00:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Stormy Dive-Dash!",
+      "episode_url": "https://hianime.ad/watch/free-eternal-summer-kindan-no-all-hard/ep-1",
+      "sub": {
+        "HD-1": {
+          "22265-malep-1_vibeplayer_sub": "https://vibeplayer.site/ed24f37a025ae49d",
+          "22265-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed24f37a025ae49d/master.m3u8"
+        },
+        "HD-2": {
+          "22265-malep-1_vibeplayer_sub": "https://vibeplayer.site/agecc3dcbbf42338ecab12abe10e6331ee4h",
+          "22265-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22265-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fmb6zrq0uqr7",
+          "22265-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22265-malep-1_vibeplayer_dub": "https://vibeplayer.site/0d037888e4e7a376",
+          "22265-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0d037888e4e7a376/master.m3u8"
+        },
+        "HD-2": {
+          "22265-malep-1_vibeplayer_dub": "https://vibeplayer.site/agdd3e5de6b1aa0699b142ec02687309bb4h",
+          "22265-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22265-malep-1_otakuvid_dub": "https://otakuvid.online/embed/7lhdopiatkid",
+          "22265-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22265-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c222750b5a5ca07b",
+          "22265-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c222750b5a5ca07b/master.m3u8"
+        },
+        "HD-2": {
+          "22265-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc3d7221bf05b91ca50ec47c07a5e24124h",
+          "22265-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22265-malep-1_otakuhg_hsub": "https://otakuhg.site/e/g9cdxz4vte1g",
+          "22265-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22265-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d8tfxzj5hiap",
+          "22265-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22265-malep-1_playmogo_hsub": "https://playmogo.com/e/4oxzj589s89i",
+          "22265-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

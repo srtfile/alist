@@ -1,0 +1,52 @@
+{
+  "anime_name": "Eunhajeonseol Tera",
+  "anime_url": "https://hianime.ad/anime/eunhajeonseol-tera",
+  "slug": "eunhajeonseol-tera",
+  "mal_id": 37458,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T10:38:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Holmes and Zen Master Hakuin",
+      "episode_url": "https://hianime.ad/watch/eunhajeonseol-tera/ep-1",
+      "sub": {
+        "HD-1": {
+          "37458-malep-1_vibeplayer_sub": "https://vibeplayer.site/750819e552d3891e",
+          "37458-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/750819e552d3891e/master.m3u8"
+        },
+        "HD-2": {
+          "37458-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag51766d2ae7c543759b48d2177ca43bd54h",
+          "37458-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "37458-malep-1_otakuhg_sub": "https://otakuhg.site/e/na5t0rfs9uns",
+          "37458-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37458-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hz5z1qjhe5dr",
+          "37458-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37458-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dd6d1d34a3ba4007",
+          "37458-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dd6d1d34a3ba4007/master.m3u8"
+        },
+        "HD-2": {
+          "37458-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag2fa98242293cc8b688f43bfa97c99b1a4h",
+          "37458-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "37458-malep-1_otakuhg_hsub": "https://otakuhg.site/e/10nyf7prvg3y",
+          "37458-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37458-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tpzvmoautc49",
+          "37458-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

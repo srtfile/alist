@@ -1,0 +1,52 @@
+{
+  "anime_name": "Aldnoah Zero Ame No Danshou The Penultimate Truth",
+  "anime_url": "https://hianime.ad/anime/aldnoah-zero-ame-no-danshou-the-penultimate-truth",
+  "slug": "aldnoah-zero-ame-no-danshou-the-penultimate-truth",
+  "mal_id": 22729,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:59:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Princess of Vers / Princess of Mars",
+      "episode_url": "https://hianime.ad/watch/aldnoah-zero-ame-no-danshou-the-penultimate-truth/ep-1",
+      "sub": {
+        "HD-1": {
+          "22729-malep-1_vibeplayer_sub": "https://vibeplayer.site/7ea6326c4b57ff0f",
+          "22729-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7ea6326c4b57ff0f/master.m3u8"
+        },
+        "HD-2": {
+          "22729-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag8aa1d49a39b6a358a0e9a33d30adf2454h",
+          "22729-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22729-malep-1_otakuvid_sub": "https://otakuvid.online/embed/out6lt60wus7",
+          "22729-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22729-malep-1_vibeplayer_hsub": "https://vibeplayer.site/31f23c73b04054a9",
+          "22729-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31f23c73b04054a9/master.m3u8"
+        },
+        "HD-2": {
+          "22729-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4e92e6b1ee6019378e0840611eaccfef4h",
+          "22729-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "22729-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5lexxokfjute",
+          "22729-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22729-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/24dhlbew61ap",
+          "22729-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22729-malep-1_playmogo_hsub": "https://playmogo.com/e/295cef0nndba",
+          "22729-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

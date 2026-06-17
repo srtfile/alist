@@ -1,0 +1,56 @@
+{
+  "anime_name": "Hackg U Returner",
+  "anime_url": "https://hianime.ad/anime/hackg-u-returner",
+  "slug": "hackg-u-returner",
+  "mal_id": 54852,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T15:18:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Destruction",
+      "episode_url": "https://hianime.ad/watch/hackg-u-returner/ep-1",
+      "sub": {
+        "HD-1": {
+          "54852-malep-1_vibeplayer_sub": "https://vibeplayer.site/1a3ff3eb19dcfe3a",
+          "54852-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a3ff3eb19dcfe3a/master.m3u8"
+        },
+        "HD-2": {
+          "54852-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag040b4ae25a1adcbe08c49a75eb62b97c4h",
+          "54852-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "54852-malep-1_otakuhg_sub": "https://otakuhg.site/e/1ak9q8n060sj",
+          "54852-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "54852-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jl0kp37qro8f",
+          "54852-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "54852-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9a26d9628fc9f4d5",
+          "54852-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9a26d9628fc9f4d5/master.m3u8"
+        },
+        "HD-2": {
+          "54852-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag4114df12871bb95e1711f11954db331b4h",
+          "54852-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "54852-malep-1_otakuhg_hsub": "https://otakuhg.site/e/79mdr63annwd",
+          "54852-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "54852-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8476e1aake3i",
+          "54852-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54852-malep-1_playmogo_hsub": "https://playmogo.com/e/3pacsbazsvnf",
+          "54852-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

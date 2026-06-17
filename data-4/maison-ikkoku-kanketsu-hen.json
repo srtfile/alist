@@ -1,0 +1,48 @@
+{
+  "anime_name": "Maison Ikkoku Kanketsu Hen",
+  "anime_url": "https://hianime.ad/anime/maison-ikkoku-kanketsu-hen",
+  "slug": "maison-ikkoku-kanketsu-hen",
+  "mal_id": 1453,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:53:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sorry to Keep You Waiting! I Am Otonashi Kyoko!",
+      "episode_url": "https://hianime.ad/watch/maison-ikkoku-kanketsu-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "1453-malep-1_vibeplayer_sub": "https://vibeplayer.site/114816d405a99db6",
+          "1453-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/114816d405a99db6/master.m3u8"
+        },
+        "StreamHG": {
+          "1453-malep-1_otakuhg_sub": "https://otakuhg.site/e/82vzvy14navw",
+          "1453-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1453-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i8xi1m8hrh89",
+          "1453-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1453-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eeb2dba9b198dd2b",
+          "1453-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eeb2dba9b198dd2b/master.m3u8"
+        },
+        "StreamHG": {
+          "1453-malep-1_otakuhg_hsub": "https://otakuhg.site/e/96xr6vaoqmr7",
+          "1453-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1453-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7o5lvmqpklmj",
+          "1453-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1453-malep-1_playmogo_hsub": "https://playmogo.com/e/h1i9nxlvzea1",
+          "1453-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

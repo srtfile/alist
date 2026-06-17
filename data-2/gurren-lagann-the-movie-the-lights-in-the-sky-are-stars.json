@@ -1,0 +1,52 @@
+{
+  "anime_name": "Gurren Lagann The Movie The Lights In The Sky Are Stars",
+  "anime_url": "https://hianime.ad/anime/gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
+  "slug": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
+  "mal_id": 2001,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:26:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Bust Through the Heavens with Your Drill!",
+      "episode_url": "https://hianime.ad/watch/gurren-lagann-the-movie-the-lights-in-the-sky-are-stars/ep-1",
+      "sub": {
+        "HD-1": {
+          "2001-malep-1_vibeplayer_sub": "https://vibeplayer.site/3a97d9be46f1ce2e",
+          "2001-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3a97d9be46f1ce2e/master.m3u8"
+        },
+        "StreamHG": {
+          "2001-malep-1_otakuhg_sub": "https://otakuhg.site/e/03a6gdrbios5",
+          "2001-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2001-malep-1_otakuvid_sub": "https://otakuvid.online/embed/90vfb6r1b8xp",
+          "2001-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2001-malep-1_playmogo_sub": "https://playmogo.com/e/va0nhvc22hh7",
+          "2001-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2001-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0071f3969ca4da8a",
+          "2001-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0071f3969ca4da8a/master.m3u8"
+        },
+        "StreamHG": {
+          "2001-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zyena7efolu7",
+          "2001-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2001-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gvyhkhfc3dl3",
+          "2001-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2001-malep-1_playmogo_hsub": "https://playmogo.com/e/s2vltv9korj1",
+          "2001-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

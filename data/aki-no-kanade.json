@@ -1,0 +1,56 @@
+{
+  "anime_name": "Aki No Kanade",
+  "anime_url": "https://hianime.ad/anime/aki-no-kanade",
+  "slug": "aki-no-kanade",
+  "mal_id": 55129,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T19:51:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Foolish Angel and the Demon",
+      "episode_url": "https://hianime.ad/watch/aki-no-kanade/ep-1",
+      "sub": {
+        "HD-1": {
+          "55129-malep-1_vibeplayer_sub": "https://vibeplayer.site/3be22fcf51bfff3f",
+          "55129-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3be22fcf51bfff3f/master.m3u8"
+        },
+        "HD-2": {
+          "55129-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag55634aaa1963e13ba911d33acdd1375e4h",
+          "55129-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55129-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zau675dk4rdc",
+          "55129-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "55129-malep-1_playmogo_sub": "https://playmogo.com/e/xb3fhv4a823c",
+          "55129-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55129-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c30a80d82de8aa39",
+          "55129-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c30a80d82de8aa39/master.m3u8"
+        },
+        "HD-2": {
+          "55129-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag7ff90326025d7bb98c6c16d3a38593364h",
+          "55129-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "55129-malep-1_otakuhg_hsub": "https://otakuhg.site/e/27um50f5exvp",
+          "55129-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55129-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q3tfada0u07s",
+          "55129-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55129-malep-1_playmogo_hsub": "https://playmogo.com/e/bhpghncy17w8",
+          "55129-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

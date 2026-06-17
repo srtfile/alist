@@ -1,0 +1,56 @@
+{
+  "anime_name": "Bleach The Sealed Sword Frenzy",
+  "anime_url": "https://hianime.ad/anime/bleach-the-sealed-sword-frenzy",
+  "slug": "bleach-the-sealed-sword-frenzy",
+  "mal_id": 53998,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:44:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Last 9 Days",
+      "episode_url": "https://hianime.ad/watch/bleach-the-sealed-sword-frenzy/ep-1",
+      "sub": {
+        "HD-1": {
+          "53998-malep-1_vibeplayer_sub": "https://vibeplayer.site/844479b209757cd6",
+          "53998-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/844479b209757cd6/master.m3u8"
+        },
+        "HD-2": {
+          "53998-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag73331ddca25f330a383973573037d9e54h",
+          "53998-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "53998-malep-1_otakuhg_sub": "https://otakuhg.site/e/h88jwyebm1vx",
+          "53998-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53998-malep-1_otakuvid_sub": "https://otakuvid.online/embed/adqnaowq7zcm",
+          "53998-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53998-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ef3d4cf0b2630214",
+          "53998-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ef3d4cf0b2630214/master.m3u8"
+        },
+        "HD-2": {
+          "53998-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag58cf7c319c10405e787fac701ccdde684h",
+          "53998-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "53998-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2gy5b5waqumt",
+          "53998-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53998-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kttxg8xnf5bm",
+          "53998-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53998-malep-1_playmogo_hsub": "https://playmogo.com/e/abeva3h2tmpz",
+          "53998-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

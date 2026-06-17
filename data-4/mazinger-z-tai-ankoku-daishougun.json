@@ -1,0 +1,35 @@
+{
+  "anime_name": "Mazinger Z Tai Ankoku Daishougun",
+  "anime_url": "https://hianime.ad/anime/mazinger-z-tai-ankoku-daishougun",
+  "slug": "mazinger-z-tai-ankoku-daishougun",
+  "mal_id": 2253,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T08:03:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Birth of a Miraculous Robot",
+      "episode_url": "https://hianime.ad/watch/mazinger-z-tai-ankoku-daishougun/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "2253-malep-1_vibeplayer_dub": "https://vibeplayer.site/f4315e77db153c40",
+          "2253-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f4315e77db153c40/master.m3u8"
+        },
+        "StreamHG": {
+          "2253-malep-1_otakuhg_dub": "https://otakuhg.site/e/72617ll6ihk6",
+          "2253-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2253-malep-1_otakuvid_dub": "https://otakuvid.online/embed/gzn6dt01prf8",
+          "2253-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2253-malep-1_playmogo_dub": "https://playmogo.com/e/fiuw7tiaxf4q",
+          "2253-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

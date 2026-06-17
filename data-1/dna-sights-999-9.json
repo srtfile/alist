@@ -1,0 +1,65 @@
+{
+  "anime_name": "Dna Sights 999 9",
+  "anime_url": "https://hianime.ad/anime/dna-sights-999-9",
+  "slug": "dna-sights-999-9",
+  "mal_id": 35370,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:46:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Species with Senpai",
+      "episode_url": "https://hianime.ad/watch/dna-sights-999-9/ep-1",
+      "sub": {
+        "HD-1": {
+          "35370-malep-1_vibeplayer_sub": "https://vibeplayer.site/22a3f2547cf1fb00",
+          "35370-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/22a3f2547cf1fb00/master.m3u8"
+        },
+        "HD-2": {
+          "35370-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag7e0623852bebd3cf4d4656829352af5c4h",
+          "35370-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "35370-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mvbp5alh0n5s",
+          "35370-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35370-malep-1_vibeplayer_dub": "https://vibeplayer.site/d3de96d3c35004e4",
+          "35370-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d3de96d3c35004e4/master.m3u8"
+        },
+        "HD-2": {
+          "35370-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag0e5e615fd3beecc49d704d914481234d4h",
+          "35370-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "35370-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sc6bug6aoecd",
+          "35370-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "35370-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ac60cb45ed381ce",
+          "35370-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ac60cb45ed381ce/master.m3u8"
+        },
+        "HD-2": {
+          "35370-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag1d4de28f1508d08d0f531d261d8d48154h",
+          "35370-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "35370-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i49omqwh1piz",
+          "35370-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35370-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xkofvwuu60t3",
+          "35370-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35370-malep-1_playmogo_hsub": "https://playmogo.com/e/f6uirb4wk09d",
+          "35370-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

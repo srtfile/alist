@@ -1,0 +1,52 @@
+{
+  "anime_name": "Canary",
+  "anime_url": "https://hianime.ad/anime/canary",
+  "slug": "canary",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T04:02:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/canary/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/eb81d0ba636dbdc8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eb81d0ba636dbdc8/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/aga8fc2ccf2880ff1baf1a335fe5b0f51b4h",
+          "malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/fx0jpu6khm11",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/fggoies85b94",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f70c52cdbaa07605",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f70c52cdbaa07605/master.m3u8"
+        },
+        "HD-2": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/aga80bb2dfc4cd2e66b546a7997d64a6924h",
+          "malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/btzamiyrf2ld",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qvsvon94qw80",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

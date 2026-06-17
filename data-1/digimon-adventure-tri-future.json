@@ -1,0 +1,35 @@
+{
+  "anime_name": "Digimon Adventure Tri Future",
+  "anime_url": "https://hianime.ad/anime/digimon-adventure-tri-future",
+  "slug": "digimon-adventure-tri-future",
+  "mal_id": 552,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:27:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "And So it Begins...",
+      "episode_url": "https://hianime.ad/watch/digimon-adventure-tri-future/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/c0907ed11960758c",
+          "552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c0907ed11960758c/master.m3u8"
+        },
+        "HD-2": {
+          "552-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag5bc82f7f5b54504adafdf8c95bf701114h",
+          "552-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "552-malep-1_otakuhg_dub": "https://otakuhg.site/e/4rceli9vkg89",
+          "552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nrh5vld87w1e",
+          "552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}

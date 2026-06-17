@@ -1,0 +1,69 @@
+{
+  "anime_name": "Darkside Blues",
+  "anime_url": "https://hianime.ad/anime/darkside-blues",
+  "slug": "darkside-blues",
+  "mal_id": 6674,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T07:43:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/darkside-blues/ep-1",
+      "sub": {
+        "HD-1": {
+          "6674-malep-1_vibeplayer_sub": "https://vibeplayer.site/9b79760d4c41578c",
+          "6674-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9b79760d4c41578c/master.m3u8"
+        },
+        "HD-2": {
+          "6674-malep-1_vibeplayer_sub": "https://vibeplayer.site/agafd891949af9b29ad3655b6e6817147c4h",
+          "6674-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6674-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c6k8lyca210t",
+          "6674-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6674-malep-1_playmogo_sub": "https://playmogo.com/e/41k57d6ftrbv",
+          "6674-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6674-malep-1_vibeplayer_dub": "https://vibeplayer.site/76f5eaff90174c48",
+          "6674-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/76f5eaff90174c48/master.m3u8"
+        },
+        "HD-2": {
+          "6674-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag92220b921a2df9c82c4b4ddfe74e823f4h",
+          "6674-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6674-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9urqm2vb4vgc",
+          "6674-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6674-malep-1_vibeplayer_hsub": "https://vibeplayer.site/304909356bbefe8c",
+          "6674-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/304909356bbefe8c/master.m3u8"
+        },
+        "HD-2": {
+          "6674-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agc2133a17f30194288240a1ea78e626304h",
+          "6674-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "6674-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ec2dhfpehpma",
+          "6674-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6674-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o8dfmrr2lol5",
+          "6674-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6674-malep-1_playmogo_hsub": "https://playmogo.com/e/x2t23gk1hhb7",
+          "6674-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

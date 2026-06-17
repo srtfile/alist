@@ -1,0 +1,60 @@
+{
+  "anime_name": "Does It Count If You Lose Your Innocence To An Android Special",
+  "anime_url": "https://hianime.ad/anime/does-it-count-if-you-lose-your-innocence-to-an-android-special",
+  "slug": "does-it-count-if-you-lose-your-innocence-to-an-android-special",
+  "mal_id": 61694,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T08:49:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Life Might Be Over",
+      "episode_url": "https://hianime.ad/watch/does-it-count-if-you-lose-your-innocence-to-an-android-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "61694-malep-1_vibeplayer_sub": "https://vibeplayer.site/725584e0c13bf9aa",
+          "61694-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/725584e0c13bf9aa/master.m3u8"
+        },
+        "HD-2": {
+          "61694-malep-1_vibeplayer_sub": "https://vibeplayer.site/agaa9cd648429c36df4ed3f3d3955f55ca4h",
+          "61694-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "61694-malep-1_otakuhg_sub": "https://otakuhg.site/e/9hb9mv8tq9sj",
+          "61694-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61694-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yl1wa56hhkqm",
+          "61694-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "61694-malep-1_playmogo_sub": "https://playmogo.com/e/4orec45j2ex8",
+          "61694-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "61694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/937155858c8ad710",
+          "61694-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/937155858c8ad710/master.m3u8"
+        },
+        "HD-2": {
+          "61694-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age94fdc73c22182e6d5436465652563db4h",
+          "61694-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "61694-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mkhg0b4cxgtf",
+          "61694-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61694-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0omnczb8s3el",
+          "61694-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61694-malep-1_playmogo_hsub": "https://playmogo.com/e/49ljowupp5fs",
+          "61694-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

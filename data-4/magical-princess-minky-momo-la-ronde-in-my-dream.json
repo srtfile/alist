@@ -1,0 +1,44 @@
+{
+  "anime_name": "Magical Princess Minky Momo La Ronde In My Dream",
+  "anime_url": "https://hianime.ad/anime/magical-princess-minky-momo-la-ronde-in-my-dream",
+  "slug": "magical-princess-minky-momo-la-ronde-in-my-dream",
+  "mal_id": 5953,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T06:41:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hello, Minky Momo",
+      "episode_url": "https://hianime.ad/watch/magical-princess-minky-momo-la-ronde-in-my-dream/ep-1",
+      "sub": {
+        "HD-1": {
+          "5953-malep-1_vibeplayer_sub": "https://vibeplayer.site/04589c0c70dac1ba",
+          "5953-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/04589c0c70dac1ba/master.m3u8"
+        },
+        "Earnvids": {
+          "5953-malep-1_otakuvid_sub": "https://otakuvid.online/embed/m7xbs8ifusnl",
+          "5953-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5953-malep-1_vibeplayer_hsub": "https://vibeplayer.site/679651c89a5462ca",
+          "5953-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/679651c89a5462ca/master.m3u8"
+        },
+        "StreamHG": {
+          "5953-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kicc2aea8aos",
+          "5953-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5953-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9fr0fb7ez9g3",
+          "5953-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5953-malep-1_playmogo_hsub": "https://playmogo.com/e/1h4iaevexocp",
+          "5953-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "anime_name": "Blue Lock Episode Nagi",
+  "anime_url": "https://hianime.ad/anime/blue-lock-episode-nagi",
+  "slug": "blue-lock-episode-nagi",
+  "mal_id": 49596,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T01:01:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dream",
+      "episode_url": "https://hianime.ad/watch/blue-lock-episode-nagi/ep-1",
+      "sub": {
+        "HD-1": {
+          "49596-malep-1_vibeplayer_sub": "https://vibeplayer.site/7b8b0ec2d4d1c7aa",
+          "49596-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7b8b0ec2d4d1c7aa/master.m3u8"
+        },
+        "HD-2": {
+          "49596-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag3f17a8429dd6a2a0ee7c6c2e028d9afa4h",
+          "49596-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "StreamHG": {
+          "49596-malep-1_otakuhg_sub": "https://otakuhg.site/e/82d0nx8sgtib",
+          "49596-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49596-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b9u0bcz3i4lx",
+          "49596-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49596-malep-1_vibeplayer_dub": "https://vibeplayer.site/d5f0e47441db5b53",
+          "49596-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d5f0e47441db5b53/master.m3u8"
+        },
+        "HD-2": {
+          "49596-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag90148f4d93d1123a7274692286f71e664h",
+          "49596-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "StreamHG": {
+          "49596-malep-1_otakuhg_dub": "https://otakuhg.site/e/j4zoi3q6t165",
+          "49596-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "49596-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zbai5crobvcx",
+          "49596-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "49596-malep-1_playmogo_dub": "https://playmogo.com/e/l7x7qf8abnpu",
+          "49596-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49596-malep-1_vibeplayer_hsub": "https://vibeplayer.site/215ad476f7154136",
+          "49596-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/215ad476f7154136/master.m3u8"
+        },
+        "HD-2": {
+          "49596-malep-1_vibeplayer_hsub": "https://vibeplayer.site/agcf88980b1e2197e584f009c8a347a5e14h",
+          "49596-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "49596-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a8tmo4m6mhch",
+          "49596-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49596-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wz9rgkm1269h",
+          "49596-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49596-malep-1_playmogo_hsub": "https://playmogo.com/e/941z6n9fla9v",
+          "49596-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

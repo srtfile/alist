@@ -1,0 +1,581 @@
+{
+  "anime_name": "Kyoukai Senki",
+  "anime_url": "https://hianime.ad/anime/kyoukai-senki",
+  "slug": "kyoukai-senki",
+  "mal_id": null,
+  "total_episodes": 13,
+  "captured_at": "2026-06-17T04:10:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Activate",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/716c3dd53f0b817f",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/716c3dd53f0b817f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/jr1i5vc43dqo",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/js15hv1jo2im",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/2e5b70ca1057d16e",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2e5b70ca1057d16e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/p7l8o4ttk2yq",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/1c40cc7c562d22d1",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c40cc7c562d22d1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/buazv6nc8f5n",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ushmpp19b5s5",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/vqvdni2ryfet",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Voyage",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/2d5a312616f26f2a",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2d5a312616f26f2a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/yo54cxe70l4y",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/x9mg5se1256z",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/0a62a2d6a677de29",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0a62a2d6a677de29/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/xgll462m0pd3",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/71ebdd8211f24831",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71ebdd8211f24831/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/j0pi9y7poq5s",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/4ai30jqqsi9o",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/3kdgrdutzsmv",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reason to Fight",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/9fd5b5ab6b9aaa8d",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9fd5b5ab6b9aaa8d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/n1btoqw21nbv",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/uov3wp4pkzde",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/348bbc55c1ccdfc6",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/348bbc55c1ccdfc6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/58r5el6jqo4j",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/00b232930e099dfa",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/00b232930e099dfa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/p2ckpsmfqu4j",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/fonn57whwskk",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/r4dng7uzng74",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Separate Ways",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/d318c4ab7a358278",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d318c4ab7a358278/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/vn1fhiec7qef",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/c844ac77abf63fd8",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c844ac77abf63fd8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/tsumfbttb7c5",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/f0ba257b4b8525e9",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f0ba257b4b8525e9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/td3gs3i0p3kp",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/63ihudkzlg87",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/q21wq3fu9rgo",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Determination",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/bf5caa1144fd9de4",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf5caa1144fd9de4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/jcwps5mpcr31",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/mh4kh4mcwfyz",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/69f4e16ecaa5e5ed",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/69f4e16ecaa5e5ed/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/op4zcmajr02n",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/873ea6a08459858b",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/873ea6a08459858b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/5kdi95dspdqs",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ias93e94qzdb",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/68q9089d17ah",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Voyage",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/4fce97fb082ff863",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4fce97fb082ff863/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/0lrltb7x2w54",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/f0d6ce6bf6a97010",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f0d6ce6bf6a97010/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/mfaxmfb6lt01",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/5cae5b2485635959",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5cae5b2485635959/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/lm95sff9qotb",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/sbq7v9c4zbme",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/0ycj7kfckt27",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Hunt",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/98f565b1ec0b24b9",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/98f565b1ec0b24b9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/wm5lspn3y0gl",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/0443f5eb19bb6ba6",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0443f5eb19bb6ba6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/t06mxq8b1sda",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/0661077c49f29103",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0661077c49f29103/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/khnmal0ntbwm",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ivdapue6xvyb",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/70tidv3aslbx",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Path to Recovery",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/72f7b81eae2598bd",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/72f7b81eae2598bd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/koxv67yis8pq",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/9e704f957978f97a",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9e704f957978f97a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/zigdmauqp049",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/647f38fa7f647b73",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/647f38fa7f647b73/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/2zqb9dw3e6ls",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/ye4a3cmzh3vu",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/0crcb2n729j4",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Autonomous Area",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/b50f929a230578e3",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b50f929a230578e3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_sub": "https://otakuhg.site/e/1lv5uuvltf30",
+          "malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/3ikjnsvwliaz",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/c70c4c69a6a80345",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c70c4c69a6a80345/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/f3yvnyozxpdw",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/ab4b14dc7a963730",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ab4b14dc7a963730/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/bp5u60uhzcc1",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/2fzrv8ws7p9d",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/jyg07klt94un",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Expedition",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/37634c665bfc0092",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/37634c665bfc0092/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/cugaw8z0ug8x",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/gkgnn3b8m5xr",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/bf8dba18325f47e1",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf8dba18325f47e1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/03qn80z0b9fn",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/aad9b9bcd3e818c1",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aad9b9bcd3e818c1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/g43ycdlkrfx6",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/7yeho7cs3za1",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/aymi1085zwyq",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Encirclement",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/6406ba0505b56482",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6406ba0505b56482/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/4r0n71r5os1x",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/70c15f58c26d2165",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/70c15f58c26d2165/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/4ygs6th6tfz3",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/aef242260771cf9f",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aef242260771cf9f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/wtb1ftklzuyo",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/qsin7ltliu5p",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/754cqchc33mm",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Battle of the Oki Islands (Part 1)",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/4c38ca3b4e2fc220",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c38ca3b4e2fc220/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/5i3c9m1q0knr",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/6120a28ee217f760",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6120a28ee217f760/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/7rsrcfkjab9r",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/faad6bfd47aa32ef",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/faad6bfd47aa32ef/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/om107uujerkf",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/onleuj75gjz0",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/d1fpx2htsfm0",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Battle of the Oki Islands (Part 2)",
+      "episode_url": "https://hianime.ad/watch/kyoukai-senki/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/811459a3f503e861",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/811459a3f503e861/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/xm2axlhjbh0u",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/2f60581c48bb7b34",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f60581c48bb7b34/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/umwgmr3bdrmf",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/ceea288c40cc9d99",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ceea288c40cc9d99/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/0hvmket93sa3",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/vm6c0bk79piy",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/bd3ed8tlqrjl",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

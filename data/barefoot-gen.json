@@ -1,0 +1,73 @@
+{
+  "anime_name": "Barefoot Gen",
+  "anime_url": "https://hianime.ad/anime/barefoot-gen",
+  "slug": "barefoot-gen",
+  "mal_id": 44276,
+  "total_episodes": 1,
+  "captured_at": "2026-06-02T22:38:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "VR⨯Reality",
+      "episode_url": "https://hianime.ad/watch/barefoot-gen/ep-1",
+      "sub": {
+        "HD-1": {
+          "44276-malep-1_vibeplayer_sub": "https://vibeplayer.site/0736dca7c701ba8d",
+          "44276-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0736dca7c701ba8d/master.m3u8"
+        },
+        "HD-2": {
+          "44276-malep-1_vibeplayer_sub": "https://vibeplayer.site/agf55cfd13b8236c75c2951de2474f576b4h",
+          "44276-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44276-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hgmlzkrwya6w",
+          "44276-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "44276-malep-1_playmogo_sub": "https://playmogo.com/e/6j1bqe9r0s65",
+          "44276-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44276-malep-1_vibeplayer_dub": "https://vibeplayer.site/417989ccf53a9de3",
+          "44276-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/417989ccf53a9de3/master.m3u8"
+        },
+        "HD-2": {
+          "44276-malep-1_vibeplayer_dub": "https://vibeplayer.site/ag41c3f8cacacd4f4ffd140ac575816e914h",
+          "44276-malep-1_vibeplayer_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44276-malep-1_otakuvid_dub": "https://otakuvid.online/embed/t6zufqwd50ta",
+          "44276-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "44276-malep-1_playmogo_dub": "https://playmogo.com/e/x70r3xtj6gb2",
+          "44276-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44276-malep-1_vibeplayer_hsub": "https://vibeplayer.site/74165353d0ad041a",
+          "44276-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/74165353d0ad041a/master.m3u8"
+        },
+        "HD-2": {
+          "44276-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9c15df098d21b230165af48709adc0da4h",
+          "44276-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "44276-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w8xazrq3nx7t",
+          "44276-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44276-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/riiwg0akolbf",
+          "44276-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44276-malep-1_playmogo_hsub": "https://playmogo.com/e/q881qaokbr0p",
+          "44276-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "anime_name": "Haikyu Movie The Dumpster Battle",
+  "anime_url": "https://hianime.ad/anime/haikyu-movie-the-dumpster-battle",
+  "slug": "haikyu-movie-the-dumpster-battle",
+  "mal_id": 20583,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T19:33:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The End and the Beginning",
+      "episode_url": "https://hianime.ad/watch/haikyu-movie-the-dumpster-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "20583-malep-1_vibeplayer_sub": "https://vibeplayer.site/738462b5af6fa040",
+          "20583-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/738462b5af6fa040/master.m3u8"
+        },
+        "StreamHG": {
+          "20583-malep-1_otakuhg_sub": "https://otakuhg.site/e/91ze85kp0ehy",
+          "20583-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "20583-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9r31b80v8ews",
+          "20583-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20583-malep-1_playmogo_sub": "https://playmogo.com/e/7alywcb2z5ru",
+          "20583-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "20583-malep-1_vibeplayer_dub": "https://vibeplayer.site/562378e58b5cb1c2",
+          "20583-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/562378e58b5cb1c2/master.m3u8"
+        },
+        "StreamHG": {
+          "20583-malep-1_otakuhg_dub": "https://otakuhg.site/e/8r03t351kr69",
+          "20583-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "20583-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nvfsszfvqxl3",
+          "20583-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "20583-malep-1_playmogo_dub": "https://playmogo.com/e/ykjql9bo34io",
+          "20583-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "20583-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6a010158578f25a6",
+          "20583-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a010158578f25a6/master.m3u8"
+        },
+        "StreamHG": {
+          "20583-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ru41oa16mech",
+          "20583-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20583-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n5uvef6dt42q",
+          "20583-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20583-malep-1_playmogo_hsub": "https://playmogo.com/e/sc6336o6za8t",
+          "20583-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

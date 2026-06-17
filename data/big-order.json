@@ -1,0 +1,52 @@
+{
+  "anime_name": "Big Order",
+  "anime_url": "https://hianime.ad/anime/big-order",
+  "slug": "big-order",
+  "mal_id": 31904,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T00:19:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Order! Awaken, Evil Powers! Big Destruction",
+      "episode_url": "https://hianime.ad/watch/big-order/ep-1",
+      "sub": {
+        "HD-1": {
+          "31904-malep-1_vibeplayer_sub": "https://vibeplayer.site/b16b3fc686721984",
+          "31904-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b16b3fc686721984/master.m3u8"
+        },
+        "HD-2": {
+          "31904-malep-1_vibeplayer_sub": "https://vibeplayer.site/ag4de0ef87193c1126994be458f39c35744h",
+          "31904-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31904-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jec3bs6x019v",
+          "31904-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31904-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c7214a0d8b1a6e80",
+          "31904-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c7214a0d8b1a6e80/master.m3u8"
+        },
+        "HD-2": {
+          "31904-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag0740fa112e5aab3ce3638d1347a3addf4h",
+          "31904-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "31904-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x8a23aav6vn6",
+          "31904-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31904-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sphec9z1gh33",
+          "31904-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31904-malep-1_playmogo_hsub": "https://playmogo.com/e/y3pq9ztrxo75",
+          "31904-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

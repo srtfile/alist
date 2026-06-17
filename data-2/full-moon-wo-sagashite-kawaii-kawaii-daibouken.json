@@ -1,0 +1,56 @@
+{
+  "anime_name": "Full Moon Wo Sagashite Kawaii Kawaii Daibouken",
+  "anime_url": "https://hianime.ad/anime/full-moon-wo-sagashite-kawaii-kawaii-daibouken",
+  "slug": "full-moon-wo-sagashite-kawaii-kawaii-daibouken",
+  "mal_id": 122,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T13:12:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Want to Sing!",
+      "episode_url": "https://hianime.ad/watch/full-moon-wo-sagashite-kawaii-kawaii-daibouken/ep-1",
+      "sub": {
+        "HD-1": {
+          "122-malep-1_vibeplayer_sub": "https://vibeplayer.site/3a68c6086f04f08f",
+          "122-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3a68c6086f04f08f/master.m3u8"
+        },
+        "HD-2": {
+          "122-malep-1_vibeplayer_sub": "https://vibeplayer.site/agbf0a9c4fa6ca25435fc39399dbe355d84h",
+          "122-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "122-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jj3uzei9dg6u",
+          "122-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "122-malep-1_playmogo_sub": "https://playmogo.com/e/1kvrohny8z17",
+          "122-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c852cd0f81ebf217",
+          "122-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c852cd0f81ebf217/master.m3u8"
+        },
+        "HD-2": {
+          "122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/age63573b7e101095eac4fa3e25c4d62894h",
+          "122-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "122-malep-1_otakuhg_hsub": "https://otakuhg.site/e/p6xwayl2pifc",
+          "122-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "122-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ewd2w6krv84j",
+          "122-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "122-malep-1_playmogo_hsub": "https://playmogo.com/e/vy8h7lv5ovbf",
+          "122-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

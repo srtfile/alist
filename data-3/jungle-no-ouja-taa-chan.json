@@ -1,0 +1,40 @@
+{
+  "anime_name": "Jungle No Ouja Taa Chan",
+  "anime_url": "https://hianime.ad/anime/jungle-no-ouja-taa-chan",
+  "slug": "jungle-no-ouja-taa-chan",
+  "mal_id": 3418,
+  "total_episodes": 1,
+  "captured_at": "2026-06-04T08:17:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's the Jungle King",
+      "episode_url": "https://hianime.ad/watch/jungle-no-ouja-taa-chan/ep-1",
+      "sub": {
+        "HD-1": {
+          "3418-malep-1_vibeplayer_sub": "https://vibeplayer.site/f106daaf033c3938",
+          "3418-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f106daaf033c3938/master.m3u8"
+        },
+        "Earnvids": {
+          "3418-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ppb59r799phe",
+          "3418-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3418-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d1b52287e52b4437",
+          "3418-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d1b52287e52b4437/master.m3u8"
+        },
+        "Earnvids": {
+          "3418-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xnidhwppx97y",
+          "3418-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3418-malep-1_playmogo_hsub": "https://playmogo.com/e/i469ie000a3j",
+          "3418-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}

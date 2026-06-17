@@ -1,0 +1,56 @@
+{
+  "anime_name": "Circuit Angel Ketsui No Starting Grid",
+  "anime_url": "https://hianime.ad/anime/circuit-angel-ketsui-no-starting-grid",
+  "slug": "circuit-angel-ketsui-no-starting-grid",
+  "mal_id": 13145,
+  "total_episodes": 1,
+  "captured_at": "2026-06-03T05:57:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gold Paladin",
+      "episode_url": "https://hianime.ad/watch/circuit-angel-ketsui-no-starting-grid/ep-1",
+      "sub": {
+        "HD-1": {
+          "13145-malep-1_vibeplayer_sub": "https://vibeplayer.site/c42a2400ff14697c",
+          "13145-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c42a2400ff14697c/master.m3u8"
+        },
+        "HD-2": {
+          "13145-malep-1_vibeplayer_sub": "https://vibeplayer.site/agb9e8558b6e88dc757af8f0f5fd531ace4h",
+          "13145-malep-1_vibeplayer_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13145-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4ki1kqjec2ws",
+          "13145-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "13145-malep-1_playmogo_sub": "https://playmogo.com/e/2ebp5h1z8w0c",
+          "13145-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13145-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2e7ddbdda7284c69",
+          "13145-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2e7ddbdda7284c69/master.m3u8"
+        },
+        "HD-2": {
+          "13145-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ag9cdbe947df2f4e2a9b14a40270fe87304h",
+          "13145-malep-1_vibeplayer_hsub_m3u8": null
+        },
+        "StreamHG": {
+          "13145-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tbciq6cfwkxr",
+          "13145-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13145-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6y52lqrvugcv",
+          "13145-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13145-malep-1_playmogo_hsub": "https://playmogo.com/e/ws61fo2v25fc",
+          "13145-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
