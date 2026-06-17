@@ -1,0 +1,943 @@
+{
+  "anime_name": "Needless",
+  "anime_url": "https://hianime.ad/anime/needless",
+  "slug": "needless",
+  "mal_id": null,
+  "total_episodes": 24,
+  "captured_at": "2026-06-17T19:32:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Adam Blade",
+      "episode_url": "https://hianime.ad/watch/needless/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c387ecbc1fe98f73",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c387ecbc1fe98f73/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dp984fs6qi5l",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/42b1fdb326d3c9dd",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/42b1fdb326d3c9dd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/ij156in7bbs9",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/67d622b663003643",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/67d622b663003643/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/duy8x3zogcq9",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p6n6cisyb1id",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/400zle7k50nq",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Eve Neuschwanstein",
+      "episode_url": "https://hianime.ad/watch/needless/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/f9c418386009a072",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9c418386009a072/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/oy8a470vr4ez",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/3eeaa06aa71ca4fb",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3eeaa06aa71ca4fb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/zxt7g8p8l2zy",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/c6927c8726c9e3d0",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c6927c8726c9e3d0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/n2x7mjs0gey1",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/wxze4avq34xu",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/pg0eyh0onm1b",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Momiji Teruyama",
+      "episode_url": "https://hianime.ad/watch/needless/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/37a2e4e699c501e0",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/37a2e4e699c501e0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/9e34giw2b2x6",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/3b71958b0b177d0f",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b71958b0b177d0f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/ecy3o1uwjfm0",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/ec9b81c8810bde34",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec9b81c8810bde34/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/aap5mjqsy5xy",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/w3uwbjec5zvw",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/84pmchlc9h29",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Iron Mountain",
+      "episode_url": "https://hianime.ad/watch/needless/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/a520f9d516d5886f",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a520f9d516d5886f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/rvuxliwccs3c",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/880f26e9c61a415a",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/880f26e9c61a415a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/19qjghq64sic",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/11734114fc287f42",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/11734114fc287f42/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/vd9e3z0h8clv",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/fhh8dqi349lx",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/rr2n9ndrymuj",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Simeon's Girl Squadron",
+      "episode_url": "https://hianime.ad/watch/needless/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/7784e1500abecda0",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7784e1500abecda0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/dq3ywnedmqyr",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/a9c582cd1d02cbe7",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a9c582cd1d02cbe7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/tjyvsmvrmqlq",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/e76f4910b2c2072a",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e76f4910b2c2072a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/cxfwozaz4bop",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/k7i2dfcf5czw",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/7ba5620lin3d",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Goldilocks",
+      "episode_url": "https://hianime.ad/watch/needless/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/e6b374fbb67b6cb7",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6b374fbb67b6cb7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/frhwomws5f8q",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/3431964f855b7419",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3431964f855b7419/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/sz28caiiesfc",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/fb1f764f88d4a1dd",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fb1f764f88d4a1dd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/zlqncbfykop1",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/nouge2f4gaww",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Adam Arklight",
+      "episode_url": "https://hianime.ad/watch/needless/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/b7fc88d94990ce9f",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7fc88d94990ce9f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/tnppd3rjdpvd",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/be1830b3fe0fad89",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be1830b3fe0fad89/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/nwkti3h5i6ox",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/35734a686cbe26ab",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/35734a686cbe26ab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/3gji1hdy75vy",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/jy0zbl226csq",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Riru Roukakuji",
+      "episode_url": "https://hianime.ad/watch/needless/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/2e9096ab24ccca4c",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e9096ab24ccca4c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/a5q737amh5h5",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/78999907bcdd0be5",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/78999907bcdd0be5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/i9u783xjdp38",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/aee1341115ab2136",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aee1341115ab2136/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/ic5rseomfrl3",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/3kvf258eamyi",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Shelter Number 3",
+      "episode_url": "https://hianime.ad/watch/needless/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/b9fd7912ce494352",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9fd7912ce494352/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/md35ng6l053a",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/518df5adc996a124",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/518df5adc996a124/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/kmivuik2ybvy",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/8334dda6bec85085",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8334dda6bec85085/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/22v1kqv387pc",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/e5hvwneabfkz",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Seto and Solva",
+      "episode_url": "https://hianime.ad/watch/needless/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/c9749d4e5b21f319",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9749d4e5b21f319/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/yz8tyla0zkup",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/f065db40f52f0163",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f065db40f52f0163/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/mbg1qdkwhs2j",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/c2c4f6c5d2b1bc01",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c2c4f6c5d2b1bc01/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/ik5f7tqsahai",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/qlahi9lemgze",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Black Attraction",
+      "episode_url": "https://hianime.ad/watch/needless/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/4f1a31cade47ba61",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f1a31cade47ba61/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/p5ke811v29i7",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/5823a3b8dae33cfa",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5823a3b8dae33cfa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/5hin5iq5mji3",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/e53b45022ca4ef37",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e53b45022ca4ef37/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/r4sfuqhfftzk",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/257vbnugeh44",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kurumi",
+      "episode_url": "https://hianime.ad/watch/needless/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/2be31f702d812eb1",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2be31f702d812eb1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/qjhsblue5gtz",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/048ed80da9eb824c",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/048ed80da9eb824c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/4zcgk9iuveje",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/f0e7e9f5b3a0260d",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f0e7e9f5b3a0260d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/986i1lafwucu",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/d7i2zo36xmz1",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Byakugo",
+      "episode_url": "https://hianime.ad/watch/needless/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/553fd626381810c6",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/553fd626381810c6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/6oj5xi4p8051",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/79532b0886fdc041",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79532b0886fdc041/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/662b433a11i0",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/da7526a076110fef",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/da7526a076110fef/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/4yz4m7h3xoyk",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/5wfa1vrs3nmu",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lilith Temptation",
+      "episode_url": "https://hianime.ad/watch/needless/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/6ffca09ea4f30112",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ffca09ea4f30112/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/mlcneq4tjh6f",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/f969230c70fb7df1",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f969230c70fb7df1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/18wedcvl6e6x",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-14_vibeplayer_hsub": "https://vibeplayer.site/ccc2d83cc1420436",
+          "malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ccc2d83cc1420436/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_hsub": "https://otakuvid.online/embed/qe42y0yf8gwg",
+          "malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_hsub": "https://playmogo.com/e/c9lye4vkdmf6",
+          "malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fourth Wave",
+      "episode_url": "https://hianime.ad/watch/needless/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/473a664fa6de8bcc",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/473a664fa6de8bcc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/tq4kzm6nlkpy",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/1d72a51d684f8391",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1d72a51d684f8391/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/3e8e5dbtp91m",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/1769501901ff121a",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1769501901ff121a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/pnx8inz7iiud",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/1nn8utrwtlni",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Aruka Schild",
+      "episode_url": "https://hianime.ad/watch/needless/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/c87e00d60b6b7d72",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c87e00d60b6b7d72/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/r8rrxve4zzkh",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/f7e8b18a2aa84bcd",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7e8b18a2aa84bcd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/9f7j4sdtv2dq",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/d5651060adbd810e",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5651060adbd810e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/85qn6we3f73d",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/fdc391ywfvm5",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Resistance",
+      "episode_url": "https://hianime.ad/watch/needless/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/2ca0c7238b4a5e4b",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ca0c7238b4a5e4b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/wvnggsjh19xu",
+          "malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/ba6be667fab9b47f",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba6be667fab9b47f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/fdjqdd4p9ln9",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-17_vibeplayer_hsub": "https://vibeplayer.site/68b26dd2b2aec9f4",
+          "malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/68b26dd2b2aec9f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_hsub": "https://otakuvid.online/embed/yo2nmdenapy4",
+          "malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_hsub": "https://playmogo.com/e/wwmjh78c6skw",
+          "malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Agni Schiwatas",
+      "episode_url": "https://hianime.ad/watch/needless/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/0435bb2a9fcea53a",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0435bb2a9fcea53a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/hk4cg7doai61",
+          "malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/c586f30d39b2800e",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c586f30d39b2800e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/800kv4v7p34u",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/9295687cafb8ad4b",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9295687cafb8ad4b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/5gnhzwt7t5fk",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/qbg9v3zziqbr",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Positive Feedback Zero",
+      "episode_url": "https://hianime.ad/watch/needless/ep-19",
+      "sub": {
+        "HD-1": {
+          "malep-19_vibeplayer_sub": "https://vibeplayer.site/aa1a3007e65d36f3",
+          "malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa1a3007e65d36f3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_sub": "https://otakuvid.online/embed/dafazqt844oq",
+          "malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/e9468ff0f206ff11",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e9468ff0f206ff11/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/zublxldtfd3k",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-19_vibeplayer_hsub": "https://vibeplayer.site/de01b8d43e26dcc2",
+          "malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/de01b8d43e26dcc2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_hsub": "https://otakuvid.online/embed/sr0k77qydt34",
+          "malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-19_playmogo_hsub": "https://playmogo.com/e/7px7le0m1vev",
+          "malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A-B",
+      "episode_url": "https://hianime.ad/watch/needless/ep-20",
+      "sub": {
+        "HD-1": {
+          "malep-20_vibeplayer_sub": "https://vibeplayer.site/4c5061b021a9185c",
+          "malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c5061b021a9185c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_sub": "https://otakuvid.online/embed/ujkl2nmslrmm",
+          "malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/451270b3ef3896bd",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/451270b3ef3896bd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/8cowzs4oxxib",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-20_vibeplayer_hsub": "https://vibeplayer.site/cc45b6053bc5ea5d",
+          "malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc45b6053bc5ea5d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_hsub": "https://otakuvid.online/embed/k7bfy21t969o",
+          "malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-20_playmogo_hsub": "https://playmogo.com/e/y5ftvrsgmmqw",
+          "malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A-A",
+      "episode_url": "https://hianime.ad/watch/needless/ep-21",
+      "sub": {
+        "HD-1": {
+          "malep-21_vibeplayer_sub": "https://vibeplayer.site/8ff6e6b3c2b3bb36",
+          "malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8ff6e6b3c2b3bb36/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_sub": "https://otakuvid.online/embed/8f7plhshb703",
+          "malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/1b64b5eedf8ce653",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1b64b5eedf8ce653/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/h960iqq9cboy",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-21_vibeplayer_hsub": "https://vibeplayer.site/c183b7ef4ecf8c9e",
+          "malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c183b7ef4ecf8c9e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_hsub": "https://otakuvid.online/embed/nfsqtpg7oyv5",
+          "malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-21_playmogo_hsub": "https://playmogo.com/e/awmkt67jb9wx",
+          "malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Triple Six Committee",
+      "episode_url": "https://hianime.ad/watch/needless/ep-22",
+      "sub": {
+        "HD-1": {
+          "malep-22_vibeplayer_sub": "https://vibeplayer.site/3b86b1f0b754c8e1",
+          "malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3b86b1f0b754c8e1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_sub": "https://otakuvid.online/embed/ojohkgtuslv8",
+          "malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/50d10ccac19591c8",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/50d10ccac19591c8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/ny3850gq2gtk",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-22_vibeplayer_hsub": "https://vibeplayer.site/2ac5d7670cb85302",
+          "malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ac5d7670cb85302/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_hsub": "https://otakuvid.online/embed/breav3vkorn6",
+          "malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-22_playmogo_hsub": "https://playmogo.com/e/bm564cmlqqsu",
+          "malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Saten",
+      "episode_url": "https://hianime.ad/watch/needless/ep-23",
+      "sub": {
+        "HD-1": {
+          "malep-23_vibeplayer_sub": "https://vibeplayer.site/a885eb6e89b77085",
+          "malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a885eb6e89b77085/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_sub": "https://otakuvid.online/embed/ecoaqnfkd9ma",
+          "malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/4fdd8319407efc0a",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4fdd8319407efc0a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/q23le4cgencr",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-23_vibeplayer_hsub": "https://vibeplayer.site/c45041b3f42efeab",
+          "malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c45041b3f42efeab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_hsub": "https://otakuvid.online/embed/f30gkdqb724q",
+          "malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-23_playmogo_hsub": "https://playmogo.com/e/xrtg7mb0hpxi",
+          "malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cruz Schild",
+      "episode_url": "https://hianime.ad/watch/needless/ep-24",
+      "sub": {
+        "HD-1": {
+          "malep-24_vibeplayer_sub": "https://vibeplayer.site/e8393144d6482dc7",
+          "malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8393144d6482dc7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_sub": "https://otakuvid.online/embed/gv30wztdco6h",
+          "malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/7115d141af612f02",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7115d141af612f02/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/z1kcx6tfi6fs",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-24_vibeplayer_hsub": "https://vibeplayer.site/b76508d7f810c19c",
+          "malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b76508d7f810c19c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_hsub": "https://otakuvid.online/embed/cem3aekkglq0",
+          "malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-24_playmogo_hsub": "https://playmogo.com/e/4av5bgq0v269",
+          "malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
