@@ -1508,5 +1508,15 @@
     "captured_at": "2026-06-17T22:47:54",
     "file": "data-5/mokke.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mokke.json"
+  },
+  {
+    "slug": "mokke-special-episodes",
+    "mal_id": 2931,
+    "anime_name": "Mokke Special Episodes",
+    "anime_url": "https://hianime.ad/anime/mokke-special-episodes",
+    "total_episodes": 2,
+    "captured_at": "2026-06-17T22:48:24",
+    "file": "data-5/mokke-special-episodes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mokke-special-episodes.json"
   }
 ]
