@@ -1088,5 +1088,15 @@
     "captured_at": "2026-06-17T22:33:47",
     "file": "data-5/mobile-suit-gundam-narrative.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-narrative.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-seed",
+    "mal_id": 93,
+    "anime_name": "Mobile Suit Gundam Seed",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-seed",
+    "total_episodes": 49,
+    "captured_at": "2026-06-17T22:33:58",
+    "file": "data-5/mobile-suit-gundam-seed.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-seed.json"
   }
 ]
