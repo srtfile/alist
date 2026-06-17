@@ -1,0 +1,61 @@
+{
+  "anime_name": "Neon Genesis Evangelion Movie The End Of Evangelion",
+  "anime_url": "https://hianime.ad/anime/neon-genesis-evangelion-movie-the-end-of-evangelion",
+  "slug": "neon-genesis-evangelion-movie-the-end-of-evangelion",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:43:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/neon-genesis-evangelion-movie-the-end-of-evangelion/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/eeba7c1f1cb403a5",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eeba7c1f1cb403a5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/eu3jw10755m7",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ofbbxl7vi9j1",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/d3c80bf4b5097f99",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d3c80bf4b5097f99/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/lluzuledt3yp",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/r4xm3klnsp3j",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/6bc36426623becf2",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6bc36426623becf2/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/uoa9xte5x70g",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eivwxviai27b",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/279b83na32ol",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
