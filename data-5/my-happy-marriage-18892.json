@@ -1,0 +1,61 @@
+{
+  "anime_name": "My Happy Marriage 18892",
+  "anime_url": "https://hianime.ad/anime/my-happy-marriage-18892",
+  "slug": "my-happy-marriage-18892",
+  "mal_id": 51552,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:15:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Meeting",
+      "episode_url": "https://hianime.ad/watch/my-happy-marriage-18892/ep-1",
+      "sub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_sub": "https://vibeplayer.site/7d4cf931d1dc56cd",
+          "51552-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7d4cf931d1dc56cd/master.m3u8"
+        },
+        "StreamHG": {
+          "51552-malep-1_otakuhg_sub": "https://otakuhg.site/e/yc6m7hkrn8bn",
+          "51552-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_sub": "https://otakuvid.online/embed/id6cuntw6lmo",
+          "51552-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_dub": "https://vibeplayer.site/318790cfd76b9617",
+          "51552-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/318790cfd76b9617/master.m3u8"
+        },
+        "StreamHG": {
+          "51552-malep-1_otakuhg_dub": "https://otakuhg.site/e/abu3lq7k7m3y",
+          "51552-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2a36fup02jpg",
+          "51552-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51552-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0c974e4d5013a35",
+          "51552-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0c974e4d5013a35/master.m3u8"
+        },
+        "StreamHG": {
+          "51552-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oj7v2gch6rna",
+          "51552-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51552-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/orx8gcdr5qsv",
+          "51552-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51552-malep-1_playmogo_hsub": "https://playmogo.com/e/vgcnqc4g5fk4",
+          "51552-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
