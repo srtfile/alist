@@ -78,5 +78,15 @@
     "captured_at": "2026-06-17T21:14:46",
     "file": "data-5/military-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/military-special.json"
+  },
+  {
+    "slug": "milky-highway",
+    "mal_id": 11341,
+    "anime_name": "Milky Highway",
+    "anime_url": "https://hianime.ad/anime/milky-highway",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T21:14:58",
+    "file": "data-5/milky-highway.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/milky-highway.json"
   }
 ]
