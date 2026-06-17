@@ -648,5 +648,15 @@
     "captured_at": "2026-06-17T21:33:16",
     "file": "data-5/mitsudomoe.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mitsudomoe.json"
+  },
+  {
+    "slug": "mitsudomoe-zouryouchuu",
+    "mal_id": 9510,
+    "anime_name": "Mitsudomoe Zouryouchuu",
+    "anime_url": "https://hianime.ad/anime/mitsudomoe-zouryouchuu",
+    "total_episodes": 8,
+    "captured_at": "2026-06-17T21:33:37",
+    "file": "data-5/mitsudomoe-zouryouchuu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mitsudomoe-zouryouchuu.json"
   }
 ]
