@@ -1,0 +1,44 @@
+{
+  "anime_name": "Nezumi Monogatari George To Gerald No Bouken",
+  "anime_url": "https://hianime.ad/anime/nezumi-monogatari-george-to-gerald-no-bouken",
+  "slug": "nezumi-monogatari-george-to-gerald-no-bouken",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:52:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/nezumi-monogatari-george-to-gerald-no-bouken/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/6b6e36c5a1037913",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b6e36c5a1037913/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/shvlrkvgtse3",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/pvs8ltn1x4ve",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/ec32fb3c6c9c347c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec32fb3c6c9c347c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/edkdquig3q9l",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/e2t0vyt0btjr",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
