@@ -1,0 +1,61 @@
+{
+  "anime_name": "Mobile Suit Gundam Thunderbolt Bandit Flower",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-thunderbolt-bandit-flower",
+  "slug": "mobile-suit-gundam-thunderbolt-bandit-flower",
+  "mal_id": 80,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:43:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gundam Rising!!",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-thunderbolt-bandit-flower/ep-1",
+      "sub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_sub": "https://vibeplayer.site/70a0b9f10c906b03",
+          "80-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70a0b9f10c906b03/master.m3u8"
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_sub": "https://otakuvid.online/embed/u174elwxkm9j",
+          "80-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_sub": "https://playmogo.com/e/deoy2izlcgq0",
+          "80-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_dub": "https://vibeplayer.site/70fabe91b5786521",
+          "80-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/70fabe91b5786521/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_dub": "https://otakuhg.site/e/zg49n4dgfpux",
+          "80-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ceujreqg2pqv",
+          "80-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "80-malep-1_vibeplayer_hsub": "https://vibeplayer.site/92dff4f53dacbe8e",
+          "80-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/92dff4f53dacbe8e/master.m3u8"
+        },
+        "StreamHG": {
+          "80-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kn77m10db2kg",
+          "80-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "80-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fggju8k3e856",
+          "80-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "80-malep-1_playmogo_hsub": "https://playmogo.com/e/0sngyg8c7fqh",
+          "80-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
