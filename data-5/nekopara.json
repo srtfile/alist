@@ -1,0 +1,501 @@
+{
+  "anime_name": "Nekopara",
+  "anime_url": "https://hianime.ad/anime/nekopara",
+  "slug": "nekopara",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T19:40:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to La Soleil!",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/f425688f4fc54d79",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f425688f4fc54d79/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/1c2g5xnl7yl4",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/a093567bb98f9b82",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a093567bb98f9b82/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/iadsut6y5qkj",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/50t1o5g216cl",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/abaa5aeb9abaa00a",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/abaa5aeb9abaa00a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/5hb9t7zzzb79",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ewspd7jaolpw",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/nxptzri7lbvx",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Lost Kitten?",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/f1e33ed151620744",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1e33ed151620744/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/gruwsjixs4yx",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/e33f34ae1d81f6a6",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e33f34ae1d81f6a6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/fc2wtqok1mmi",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/8ap3hiu5dzgw",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/ae031ee4626d2d00",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae031ee4626d2d00/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/wkmr9gfj1qel",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/uh4jny7b7q3n",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/oxyriio0w87y",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The One on My Mind",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/5f63659c807d0f77",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f63659c807d0f77/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/ms47u37jgywf",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/u5ey08m4qrzd",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/974f75c0ff89b2a3",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/974f75c0ff89b2a3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/xwibaeqipjuj",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/rbszt7k2u7y7",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The First Time...!",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/906f8c26be7377f4",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/906f8c26be7377f4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/81ix1pweri5l",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/15eabc8cabb7c441",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/15eabc8cabb7c441/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/9rqhmt9i0v64",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/001301b3cde29fcb",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/001301b3cde29fcb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/8j3hszmy2it6",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/vlgzb93gx8lb",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/c4zs5bbyrrbv",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cacao's Adventure",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/f23fb0b1180a7893",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f23fb0b1180a7893/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/l3wf260g8auc",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/44e2e9f776c6a3db",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44e2e9f776c6a3db/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/v487tb1fm9w2",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/768448bb18e59657",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/768448bb18e59657/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/4m1zkoekmbyz",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/nqk622srrq29",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/qid38cvk39v1",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Battles Without Honor and Cat-Humanity!",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/89fc9cb4a94a5a6a",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/89fc9cb4a94a5a6a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/sdaa6pko9x3a",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/07992bb6df1e4f94",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07992bb6df1e4f94/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/4lpsrohqphrk",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/dec495860da3d984",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dec495860da3d984/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/yvp6o94mge30",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/40ignaxvxn43",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/5yyos7hay78u",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "House-Sitting Cats",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/3e216ba342ad033a",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3e216ba342ad033a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/g00ngo9akn3v",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/f350ff21dd3927fc",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f350ff21dd3927fc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/1gm3zwlx0jqe",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/7f143d338d35d06a",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7f143d338d35d06a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/kc4ciglghrnv",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ag6yeszg6ejd",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/ho6enlxl791d",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Melancholy of Shigure",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/e952d17f18ecd653",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e952d17f18ecd653/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/cwzml87dqubg",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/c783fbcbc11db0b8",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c783fbcbc11db0b8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/i2aot50ku4l5",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/631244a6d9a8e6d3",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/631244a6d9a8e6d3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/rsobrm8gnil9",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/6q7f997dqnwe",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/081c1iqtq82w",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "True Feelings",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/3f44c764f1c449f6",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f44c764f1c449f6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/c9tx78gs6aa4",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/26ebc7b093e2ac83",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/26ebc7b093e2ac83/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/an4yrqpb8zy2",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/fa24a13c0edcb3be",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa24a13c0edcb3be/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/cekdf75a81yj",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/et4jnmke33x4",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/j1x9vler1q8e",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Oh No! Bell Renewal Exams",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/f01df0419499b7eb",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f01df0419499b7eb/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/btn7amdcsgq3",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/v3p3d49twcr3",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/bb97b9831644229b",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb97b9831644229b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/6yhra9plxwvd",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Cacao Repays Her Debts",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/ea7af0eb6c002feb",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea7af0eb6c002feb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/jna0z7na444c",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/2fddbddf45f6a608",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2fddbddf45f6a608/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/7xrm68bb8vvl",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/619d7bed305944a1",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/619d7bed305944a1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/frgr9fhetlmc",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/e92t2m8zc4s6",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/lzbub1zd3mqc",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Summer Beach Cat Paradise!",
+      "episode_url": "https://hianime.ad/watch/nekopara/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/ce23c88480b91ce2",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce23c88480b91ce2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/cazn73p96tw9",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/97de01a2c822c251",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/97de01a2c822c251/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/f541zlw16eif",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/a7fe44de59203f2a",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7fe44de59203f2a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/h7ljdfclp6en",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/8euro7o5927s",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/xrjamvowsikj",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
