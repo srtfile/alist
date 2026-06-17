@@ -568,5 +568,15 @@
     "captured_at": "2026-06-17T21:30:20",
     "file": "data-5/miss-monochrome-the-animation-manager.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/miss-monochrome-the-animation-manager.json"
+  },
+  {
+    "slug": "mission-e",
+    "mal_id": 4209,
+    "anime_name": "Mission E",
+    "anime_url": "https://hianime.ad/anime/mission-e",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T21:30:31",
+    "file": "data-5/mission-e.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mission-e.json"
   }
 ]
