@@ -1438,5 +1438,15 @@
     "captured_at": "2026-06-17T22:45:26",
     "file": "data-5/mobile-suit-zeta-gundam.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-zeta-gundam.json"
+  },
+  {
+    "slug": "modest-heroes",
+    "mal_id": 48441,
+    "anime_name": "Modest Heroes",
+    "anime_url": "https://hianime.ad/anime/modest-heroes",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T22:46:16",
+    "file": "data-5/modest-heroes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/modest-heroes.json"
   }
 ]
