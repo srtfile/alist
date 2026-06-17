@@ -1428,5 +1428,15 @@
     "captured_at": "2026-06-17T22:44:33",
     "file": "data-5/mobile-suit-v-gundam.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-v-gundam.json"
+  },
+  {
+    "slug": "mobile-suit-zeta-gundam",
+    "mal_id": 85,
+    "anime_name": "Mobile Suit Zeta Gundam",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-zeta-gundam",
+    "total_episodes": 50,
+    "captured_at": "2026-06-17T22:45:26",
+    "file": "data-5/mobile-suit-zeta-gundam.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-zeta-gundam.json"
   }
 ]
