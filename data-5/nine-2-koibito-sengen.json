@@ -1,0 +1,40 @@
+{
+  "anime_name": "Nine 2 Koibito Sengen",
+  "anime_url": "https://hianime.ad/anime/nine-2-koibito-sengen",
+  "slug": "nine-2-koibito-sengen",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T20:06:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/nine-2-koibito-sengen/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/04e834e7fdb98cf5",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/04e834e7fdb98cf5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/yoxj5vogh1xq",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/52e67d846d40757b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/52e67d846d40757b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f65ejphx7rol",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/eo4yplw2p2ym",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
