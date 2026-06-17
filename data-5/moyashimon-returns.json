@@ -1,0 +1,373 @@
+{
+  "anime_name": "Moyashimon Returns",
+  "anime_url": "https://hianime.ad/anime/moyashimon-returns",
+  "slug": "moyashimon-returns",
+  "mal_id": 13409,
+  "total_episodes": 11,
+  "captured_at": "2026-06-17T17:34:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Moyashi Gang Rises",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-1",
+      "sub": {
+        "HD-1": {
+          "13409-malep-1_vibeplayer_sub": "https://vibeplayer.site/5ff98b6f92644046",
+          "13409-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5ff98b6f92644046/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-1_otakuhg_sub": "https://otakuhg.site/e/gm37331r1by4",
+          "13409-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6gce1tfc1bv6",
+          "13409-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-1_vibeplayer_hsub": "https://vibeplayer.site/953ae59c8147be4e",
+          "13409-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/953ae59c8147be4e/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s106l7az8jes",
+          "13409-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t8qfcgmr7r55",
+          "13409-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-1_playmogo_hsub": "https://playmogo.com/e/3p8iu65r5fl7",
+          "13409-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Fermenting Cellar",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-2",
+      "sub": {
+        "HD-1": {
+          "13409-malep-2_vibeplayer_sub": "https://vibeplayer.site/412277b6421a10da",
+          "13409-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/412277b6421a10da/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-2_otakuhg_sub": "https://otakuhg.site/e/htcgwmcr2lcr",
+          "13409-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-2_otakuvid_sub": "https://otakuvid.online/embed/w0fpvm0j2emo",
+          "13409-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Team Oikawa",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-3",
+      "sub": {
+        "HD-1": {
+          "13409-malep-3_vibeplayer_sub": "https://vibeplayer.site/a9f104742a9f0e02",
+          "13409-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a9f104742a9f0e02/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-3_otakuhg_sub": "https://otakuhg.site/e/k8xe0vhw4hq4",
+          "13409-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-3_otakuvid_sub": "https://otakuvid.online/embed/4d24yop0motn",
+          "13409-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-3_vibeplayer_hsub": "https://vibeplayer.site/05db3b8cd7c61b6d",
+          "13409-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/05db3b8cd7c61b6d/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-3_otakuhg_hsub": "https://otakuhg.site/e/pcnjhbis62tg",
+          "13409-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/pphof1flrsm0",
+          "13409-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-3_playmogo_hsub": "https://playmogo.com/e/7ceaxqf3cqpd",
+          "13409-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Autumn of Change",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-4",
+      "sub": {
+        "HD-1": {
+          "13409-malep-4_vibeplayer_sub": "https://vibeplayer.site/d0603b8680338988",
+          "13409-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d0603b8680338988/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-4_otakuhg_sub": "https://otakuhg.site/e/9w56j17qavao",
+          "13409-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-4_otakuvid_sub": "https://otakuvid.online/embed/ukgq7lkjlhe5",
+          "13409-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-4_vibeplayer_hsub": "https://vibeplayer.site/b04c0c5885603107",
+          "13409-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b04c0c5885603107/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-4_otakuhg_hsub": "https://otakuhg.site/e/wcufovnvcyhd",
+          "13409-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/xjzcjupi2ns2",
+          "13409-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-4_playmogo_hsub": "https://playmogo.com/e/ptqqrc2ef9fo",
+          "13409-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Harvest Festival",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-5",
+      "sub": {
+        "HD-1": {
+          "13409-malep-5_vibeplayer_sub": "https://vibeplayer.site/ef7b1e94099e0c12",
+          "13409-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ef7b1e94099e0c12/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-5_otakuhg_sub": "https://otakuhg.site/e/eafl5ppnogoh",
+          "13409-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-5_otakuvid_sub": "https://otakuvid.online/embed/804tt4n5adbp",
+          "13409-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-5_vibeplayer_hsub": "https://vibeplayer.site/e3e4f60e5e53daf9",
+          "13409-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e3e4f60e5e53daf9/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/hoduxamzq7ky",
+          "13409-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-5_playmogo_hsub": "https://playmogo.com/e/31iqbq7crndf",
+          "13409-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Teamwork",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-6",
+      "sub": {
+        "HD-1": {
+          "13409-malep-6_vibeplayer_sub": "https://vibeplayer.site/2bcaa71109be02ee",
+          "13409-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2bcaa71109be02ee/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-6_otakuhg_sub": "https://otakuhg.site/e/mes9vidfnk0w",
+          "13409-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-6_otakuvid_sub": "https://otakuvid.online/embed/hvnk1unh8ntj",
+          "13409-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-6_vibeplayer_hsub": "https://vibeplayer.site/3b7b5b4757bbc976",
+          "13409-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b7b5b4757bbc976/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/339xzxe5uwf0",
+          "13409-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-6_playmogo_hsub": "https://playmogo.com/e/n94vztzv7cuq",
+          "13409-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bird in a Cage",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-7",
+      "sub": {
+        "HD-1": {
+          "13409-malep-7_vibeplayer_sub": "https://vibeplayer.site/d1f96c9011fac8a1",
+          "13409-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d1f96c9011fac8a1/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-7_otakuhg_sub": "https://otakuhg.site/e/yqsw1059s6d7",
+          "13409-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ci44kqguxa17",
+          "13409-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-7_vibeplayer_hsub": "https://vibeplayer.site/8f4d0dae0be1f768",
+          "13409-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f4d0dae0be1f768/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/cj8v297g88oi",
+          "13409-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-7_playmogo_hsub": "https://playmogo.com/e/m4st4qjvjrrl",
+          "13409-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mariage",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-8",
+      "sub": {
+        "HD-1": {
+          "13409-malep-8_vibeplayer_sub": "https://vibeplayer.site/42d3b48bb764e83e",
+          "13409-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42d3b48bb764e83e/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-8_otakuhg_sub": "https://otakuhg.site/e/7kr1525s2h1o",
+          "13409-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-8_otakuvid_sub": "https://otakuvid.online/embed/6tt188h95eo5",
+          "13409-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-8_vibeplayer_hsub": "https://vibeplayer.site/aa14ed75280e2096",
+          "13409-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aa14ed75280e2096/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/0xoask7a0lmt",
+          "13409-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-8_playmogo_hsub": "https://playmogo.com/e/qim5839osfqw",
+          "13409-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "On the Route des Grand Crus",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-9",
+      "sub": {
+        "HD-1": {
+          "13409-malep-9_vibeplayer_sub": "https://vibeplayer.site/1cc4ca7b26a2632b",
+          "13409-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1cc4ca7b26a2632b/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-9_otakuhg_sub": "https://otakuhg.site/e/2baymr6xqasb",
+          "13409-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-9_otakuvid_sub": "https://otakuvid.online/embed/99acshe1os9n",
+          "13409-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-9_vibeplayer_hsub": "https://vibeplayer.site/bd113ae9edee3cf2",
+          "13409-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bd113ae9edee3cf2/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/jhvj3f7f5le9",
+          "13409-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-9_playmogo_hsub": "https://playmogo.com/e/5m67plklhjak",
+          "13409-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Misunderstandings",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-10",
+      "sub": {
+        "HD-1": {
+          "13409-malep-10_vibeplayer_sub": "https://vibeplayer.site/6b507d2afcb7ab46",
+          "13409-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b507d2afcb7ab46/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-10_otakuhg_sub": "https://otakuhg.site/e/d2e72fr11qxh",
+          "13409-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-10_otakuvid_sub": "https://otakuvid.online/embed/xrd6ftn942se",
+          "13409-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-10_vibeplayer_hsub": "https://vibeplayer.site/60fa6dcd44ce4d4d",
+          "13409-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/60fa6dcd44ce4d4d/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/d7s37hsqk24r",
+          "13409-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-10_playmogo_hsub": "https://playmogo.com/e/spbe83asog4o",
+          "13409-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We're Home",
+      "episode_url": "https://hianime.ad/watch/moyashimon-returns/ep-11",
+      "sub": {
+        "HD-1": {
+          "13409-malep-11_vibeplayer_sub": "https://vibeplayer.site/2a71c5d485dab6dc",
+          "13409-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a71c5d485dab6dc/master.m3u8"
+        },
+        "StreamHG": {
+          "13409-malep-11_otakuhg_sub": "https://otakuhg.site/e/u17htmyd2p07",
+          "13409-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13409-malep-11_otakuvid_sub": "https://otakuvid.online/embed/m5jxpl2u3y0v",
+          "13409-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "13409-malep-11_vibeplayer_hsub": "https://vibeplayer.site/078abd9212b2c52f",
+          "13409-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/078abd9212b2c52f/master.m3u8"
+        },
+        "Earnvids": {
+          "13409-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/uuo1d58cf0wv",
+          "13409-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13409-malep-11_playmogo_hsub": "https://playmogo.com/e/u7uyw6hx45v4",
+          "13409-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
