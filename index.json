@@ -25008,5 +25008,15 @@
     "captured_at": "2026-06-17T17:53:34",
     "file": "data-5/mushi-uta.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mushi-uta.json"
+  },
+  {
+    "slug": "mushibugyo",
+    "mal_id": 17505,
+    "anime_name": "Mushibugyo",
+    "anime_url": "https://hianime.ad/anime/mushibugyo",
+    "total_episodes": 26,
+    "captured_at": "2026-06-17T17:54:02",
+    "file": "data-5/mushibugyo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mushibugyo.json"
   }
 ]
