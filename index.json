@@ -27328,5 +27328,15 @@
     "captured_at": "2026-06-17T19:42:18",
     "file": "data-5/neo-ranga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/neo-ranga.json"
+  },
+  {
+    "slug": "neon-genesis-evangelion",
+    "mal_id": null,
+    "anime_name": "Neon Genesis Evangelion",
+    "anime_url": "https://hianime.ad/anime/neon-genesis-evangelion",
+    "total_episodes": 26,
+    "captured_at": "2026-06-17T19:43:17",
+    "file": "data-5/neon-genesis-evangelion.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/neon-genesis-evangelion.json"
   }
 ]
