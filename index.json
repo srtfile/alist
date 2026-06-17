@@ -1708,5 +1708,15 @@
     "captured_at": "2026-06-17T22:54:52",
     "file": "data-5/monster.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/monster.json"
+  },
+  {
+    "slug": "monster-but-wild",
+    "mal_id": 58473,
+    "anime_name": "Monster But Wild",
+    "anime_url": "https://hianime.ad/anime/monster-but-wild",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T22:56:02",
+    "file": "data-5/monster-but-wild.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/monster-but-wild.json"
   }
 ]
