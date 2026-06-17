@@ -1,0 +1,57 @@
+{
+  "anime_name": "Mobile Suit Gundam The Witch From Mercury Prologue",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-the-witch-from-mercury-prologue",
+  "slug": "mobile-suit-gundam-the-witch-from-mercury-prologue",
+  "mal_id": 49828,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:53:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Witch from Mercury",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-the-witch-from-mercury-prologue/ep-1",
+      "sub": {
+        "HD-1": {
+          "49828-malep-1_vibeplayer_sub": "https://vibeplayer.site/e2be89a144aab6f9",
+          "49828-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2be89a144aab6f9/master.m3u8"
+        },
+        "StreamHG": {
+          "49828-malep-1_otakuhg_sub": "https://otakuhg.site/e/h14y7utdoz7l",
+          "49828-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49828-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ewvsmvcduryj",
+          "49828-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49828-malep-1_vibeplayer_dub": "https://vibeplayer.site/7d3a7444b85b58b6",
+          "49828-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7d3a7444b85b58b6/master.m3u8"
+        },
+        "Earnvids": {
+          "49828-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dr0xtsbcx70x",
+          "49828-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49828-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77b0badf46393a8a",
+          "49828-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77b0badf46393a8a/master.m3u8"
+        },
+        "StreamHG": {
+          "49828-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4opawp02w2tf",
+          "49828-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "49828-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3px90xzsq3sz",
+          "49828-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49828-malep-1_playmogo_hsub": "https://playmogo.com/e/7nvp5avchzry",
+          "49828-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
