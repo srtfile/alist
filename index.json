@@ -1518,5 +1518,15 @@
     "captured_at": "2026-06-17T22:48:24",
     "file": "data-5/mokke-special-episodes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mokke-special-episodes.json"
+  },
+  {
+    "slug": "moldiver",
+    "mal_id": 1678,
+    "anime_name": "Moldiver",
+    "anime_url": "https://hianime.ad/anime/moldiver",
+    "total_episodes": 6,
+    "captured_at": "2026-06-17T22:48:36",
+    "file": "data-5/moldiver.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moldiver.json"
   }
 ]
