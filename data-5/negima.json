@@ -1,0 +1,719 @@
+{
+  "anime_name": "Negima",
+  "anime_url": "https://hianime.ad/anime/negima",
+  "slug": "negima",
+  "mal_id": null,
+  "total_episodes": 26,
+  "captured_at": "2026-06-17T19:35:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/negima/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/14245ea7c13556f1",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/14245ea7c13556f1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/h45lruk9ecuc",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/ifocn15se40d",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/bdfc8c332d66ad08",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/bdfc8c332d66ad08/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_raw": "https://otakuhg.site/e/695a0p3ufmve",
+          "malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/zvxjdcxwewgl",
+          "malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/negima/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/712eda7077c5bca0",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/712eda7077c5bca0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/nqil5ilswb4c",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-2_vibeplayer_raw": "https://vibeplayer.site/3f08662368f013f0",
+          "malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/3f08662368f013f0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_raw": "https://otakuvid.online/embed/49jzdnkxjqp6",
+          "malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/negima/ep-3",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/69d8358b7f825dff",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/69d8358b7f825dff/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/gt4mjzxz0fwp",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-3_vibeplayer_raw": "https://vibeplayer.site/eedae024b5a69a36",
+          "malep-3_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/eedae024b5a69a36/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_raw": "https://otakuvid.online/embed/zxufcz5mi6ud",
+          "malep-3_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/negima/ep-4",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/379890f5cd055816",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/379890f5cd055816/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/zwwacj52mvqv",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/x7vkk722qbco",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-4_vibeplayer_raw": "https://vibeplayer.site/275fee775e58bb0a",
+          "malep-4_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/275fee775e58bb0a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_raw": "https://otakuvid.online/embed/oya35d5t2x23",
+          "malep-4_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/negima/ep-5",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/300d56c295b5f31e",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/300d56c295b5f31e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/mgo6riscmnjb",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/7qku6pm4t51r",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-5_vibeplayer_raw": "https://vibeplayer.site/0cffd7b74f8f2a48",
+          "malep-5_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/0cffd7b74f8f2a48/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_raw": "https://otakuhg.site/e/xv46gg5tbdzv",
+          "malep-5_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_raw": "https://otakuvid.online/embed/ip668gmy8whw",
+          "malep-5_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/negima/ep-6",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/d69c710717d0c304",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d69c710717d0c304/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/jswfpsflhzh3",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-6_vibeplayer_raw": "https://vibeplayer.site/98ba525d39f496c6",
+          "malep-6_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/98ba525d39f496c6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_raw": "https://otakuvid.online/embed/y37syeq8pcvh",
+          "malep-6_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/negima/ep-7",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/547b1376d79ec179",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/547b1376d79ec179/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/gvi5hrg6jk6k",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-7_vibeplayer_raw": "https://vibeplayer.site/e26e8d6eae2aad3e",
+          "malep-7_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/e26e8d6eae2aad3e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_raw": "https://otakuvid.online/embed/hhzmemcl62kc",
+          "malep-7_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/negima/ep-8",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/ef5e27c5afcaf187",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ef5e27c5afcaf187/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/su9dsy7729fq",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-8_vibeplayer_raw": "https://vibeplayer.site/c8629e536e76309b",
+          "malep-8_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/c8629e536e76309b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_raw": "https://otakuvid.online/embed/orep0n3hag7i",
+          "malep-8_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/negima/ep-9",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/f3168a8003f91d41",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f3168a8003f91d41/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/etb97zn9rvbg",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-9_vibeplayer_raw": "https://vibeplayer.site/8ffce446e956c58b",
+          "malep-9_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/8ffce446e956c58b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_raw": "https://otakuvid.online/embed/n9rl3elcn5o4",
+          "malep-9_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/negima/ep-10",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/966549ed5d1c8fbd",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/966549ed5d1c8fbd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/mxmtml88usso",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-10_vibeplayer_raw": "https://vibeplayer.site/4a8013f7d2c5789a",
+          "malep-10_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/4a8013f7d2c5789a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_raw": "https://otakuvid.online/embed/i2qqz28z96ly",
+          "malep-10_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/negima/ep-11",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/a2a0277bf8924916",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a2a0277bf8924916/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/avse3o8oywf6",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-11_vibeplayer_raw": "https://vibeplayer.site/ce9879ab6c8fc862",
+          "malep-11_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ce9879ab6c8fc862/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_raw": "https://otakuvid.online/embed/2a8koleji4of",
+          "malep-11_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/negima/ep-12",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/f0850c17cf65f77d",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f0850c17cf65f77d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/emm5ulyg2vls",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-12_vibeplayer_raw": "https://vibeplayer.site/d3eece5c33ca9b45",
+          "malep-12_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/d3eece5c33ca9b45/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_raw": "https://otakuvid.online/embed/kqoqfg8gxwi8",
+          "malep-12_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 13",
+      "episode_url": "https://hianime.ad/watch/negima/ep-13",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/ef87b2b068a8d3b0",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ef87b2b068a8d3b0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/d1y6w2iwmwa5",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-13_vibeplayer_raw": "https://vibeplayer.site/5d4879edfb615f0d",
+          "malep-13_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/5d4879edfb615f0d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_raw": "https://otakuvid.online/embed/grvzz0qlcdju",
+          "malep-13_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 14",
+      "episode_url": "https://hianime.ad/watch/negima/ep-14",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/f26fa98a2a4d00ab",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f26fa98a2a4d00ab/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-14_otakuhg_dub": "https://otakuhg.site/e/31pl5e7yxo7v",
+          "malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/fusqt9q68lao",
+          "malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-14_vibeplayer_raw": "https://vibeplayer.site/439b0e04cadee9d7",
+          "malep-14_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/439b0e04cadee9d7/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_raw": "https://otakuvid.online/embed/mvj62y75e9n2",
+          "malep-14_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 15",
+      "episode_url": "https://hianime.ad/watch/negima/ep-15",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/07917684c05a280b",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/07917684c05a280b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/gb9lhvnjuvs8",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-15_vibeplayer_raw": "https://vibeplayer.site/a53b45167da64afb",
+          "malep-15_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/a53b45167da64afb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_raw": "https://otakuvid.online/embed/mtb23e7ixawv",
+          "malep-15_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 16",
+      "episode_url": "https://hianime.ad/watch/negima/ep-16",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/6e91642dfe6b8495",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6e91642dfe6b8495/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/khktdu9avvem",
+          "malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-16_vibeplayer_raw": "https://vibeplayer.site/224335b51ae6eb9b",
+          "malep-16_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/224335b51ae6eb9b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_raw": "https://otakuvid.online/embed/qfeokulm749j",
+          "malep-16_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 17",
+      "episode_url": "https://hianime.ad/watch/negima/ep-17",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/ff778705d9fd4109",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ff778705d9fd4109/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/5bc4myd1cqcq",
+          "malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-17_vibeplayer_raw": "https://vibeplayer.site/ad7c2c9d5ad1fb92",
+          "malep-17_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ad7c2c9d5ad1fb92/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_raw": "https://otakuvid.online/embed/udgiy91ipgzr",
+          "malep-17_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 18",
+      "episode_url": "https://hianime.ad/watch/negima/ep-18",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/999ef35e21243382",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/999ef35e21243382/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/22604fp68i3w",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-18_vibeplayer_raw": "https://vibeplayer.site/632a70fae916c3ba",
+          "malep-18_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/632a70fae916c3ba/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_raw": "https://otakuvid.online/embed/9pkbmnezwzfr",
+          "malep-18_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 19",
+      "episode_url": "https://hianime.ad/watch/negima/ep-19",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-19_vibeplayer_dub": "https://vibeplayer.site/8b594f0d822aeffc",
+          "malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8b594f0d822aeffc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_dub": "https://otakuvid.online/embed/je35kgbn7z78",
+          "malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-19_vibeplayer_raw": "https://vibeplayer.site/4581a61552787c09",
+          "malep-19_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/4581a61552787c09/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-19_otakuvid_raw": "https://otakuvid.online/embed/2snrzwjw0ayy",
+          "malep-19_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 20",
+      "episode_url": "https://hianime.ad/watch/negima/ep-20",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-20_vibeplayer_dub": "https://vibeplayer.site/88aa1346dc059e85",
+          "malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/88aa1346dc059e85/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_dub": "https://otakuvid.online/embed/lvmp91feu4zu",
+          "malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-20_vibeplayer_raw": "https://vibeplayer.site/1c3d11387bf1d170",
+          "malep-20_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/1c3d11387bf1d170/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-20_otakuvid_raw": "https://otakuvid.online/embed/bkvzsmpn6xvk",
+          "malep-20_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 21",
+      "episode_url": "https://hianime.ad/watch/negima/ep-21",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-21_vibeplayer_dub": "https://vibeplayer.site/72cb8066fcc668c5",
+          "malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/72cb8066fcc668c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_dub": "https://otakuvid.online/embed/uujrlq3djzow",
+          "malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-21_vibeplayer_raw": "https://vibeplayer.site/bea0a0f6741dde3d",
+          "malep-21_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/bea0a0f6741dde3d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-21_otakuvid_raw": "https://otakuvid.online/embed/aykzufxa5h0z",
+          "malep-21_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 22",
+      "episode_url": "https://hianime.ad/watch/negima/ep-22",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-22_vibeplayer_dub": "https://vibeplayer.site/918c2d63b026578d",
+          "malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/918c2d63b026578d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-22_otakuhg_dub": "https://otakuhg.site/e/qeabonf29j5r",
+          "malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_dub": "https://otakuvid.online/embed/348jbbw42780",
+          "malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-22_vibeplayer_raw": "https://vibeplayer.site/483fc08223d79382",
+          "malep-22_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/483fc08223d79382/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-22_otakuvid_raw": "https://otakuvid.online/embed/uwmz6g0z3p87",
+          "malep-22_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/negima/ep-23",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-23_vibeplayer_dub": "https://vibeplayer.site/0aad4e31342d60dc",
+          "malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0aad4e31342d60dc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_dub": "https://otakuvid.online/embed/u47ru8ol6eyp",
+          "malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-23_vibeplayer_raw": "https://vibeplayer.site/65755ce9b202657f",
+          "malep-23_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/65755ce9b202657f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-23_otakuvid_raw": "https://otakuvid.online/embed/unv9e9tpsmmp",
+          "malep-23_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 24",
+      "episode_url": "https://hianime.ad/watch/negima/ep-24",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-24_vibeplayer_dub": "https://vibeplayer.site/7df938db0380a7fa",
+          "malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7df938db0380a7fa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_dub": "https://otakuvid.online/embed/srwsev0m188v",
+          "malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-24_vibeplayer_raw": "https://vibeplayer.site/afa78ce8b3e38740",
+          "malep-24_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/afa78ce8b3e38740/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-24_otakuvid_raw": "https://otakuvid.online/embed/aphuehpmm5kv",
+          "malep-24_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 25",
+      "episode_url": "https://hianime.ad/watch/negima/ep-25",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-25_vibeplayer_dub": "https://vibeplayer.site/bb515f938f674b9b",
+          "malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb515f938f674b9b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_dub": "https://otakuvid.online/embed/zxa3z3196oj8",
+          "malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-25_vibeplayer_raw": "https://vibeplayer.site/2548f516570fa6eb",
+          "malep-25_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/2548f516570fa6eb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-25_otakuvid_raw": "https://otakuvid.online/embed/qiz2he664mpi",
+          "malep-25_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 26",
+      "episode_url": "https://hianime.ad/watch/negima/ep-26",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-26_vibeplayer_dub": "https://vibeplayer.site/209bf8479262a166",
+          "malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/209bf8479262a166/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-26_otakuhg_dub": "https://otakuhg.site/e/5y5qv11gl1no",
+          "malep-26_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_dub": "https://otakuvid.online/embed/djd7tlwn51nu",
+          "malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-26_vibeplayer_raw": "https://vibeplayer.site/a1b0d418ff738c55",
+          "malep-26_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/a1b0d418ff738c55/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-26_otakuvid_raw": "https://otakuvid.online/embed/xif9oyzp74jc",
+          "malep-26_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
