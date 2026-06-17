@@ -27528,5 +27528,15 @@
     "captured_at": "2026-06-17T19:50:51",
     "file": "data-5/new-qins-moon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-qins-moon.json"
+  },
+  {
+    "slug": "new-saga",
+    "mal_id": null,
+    "anime_name": "New Saga",
+    "anime_url": "https://hianime.ad/anime/new-saga",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T19:51:42",
+    "file": "data-5/new-saga.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-saga.json"
   }
 ]
