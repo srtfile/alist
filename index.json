@@ -1658,5 +1658,15 @@
     "captured_at": "2026-06-17T22:53:33",
     "file": "data-5/mononogatari-2nd-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mononogatari-2nd-season.json"
+  },
+  {
+    "slug": "mononoke",
+    "mal_id": 2246,
+    "anime_name": "Mononoke",
+    "anime_url": "https://hianime.ad/anime/mononoke",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T22:53:53",
+    "file": "data-5/mononoke.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mononoke.json"
   }
 ]
