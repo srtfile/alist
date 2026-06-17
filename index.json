@@ -1078,5 +1078,15 @@
     "captured_at": "2026-06-17T22:33:35",
     "file": "data-5/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-narrative",
+    "mal_id": 80,
+    "anime_name": "Mobile Suit Gundam Narrative",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-narrative",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T22:33:47",
+    "file": "data-5/mobile-suit-gundam-narrative.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-narrative.json"
   }
 ]
