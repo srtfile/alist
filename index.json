@@ -1158,5 +1158,15 @@
     "captured_at": "2026-06-17T22:36:27",
     "file": "data-5/mobile-suit-gundam-seed-special-edition.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-seed-special-edition.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-thunderbolt",
+    "mal_id": 80,
+    "anime_name": "Mobile Suit Gundam Thunderbolt",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-thunderbolt",
+    "total_episodes": 4,
+    "captured_at": "2026-06-17T22:36:40",
+    "file": "data-5/mobile-suit-gundam-thunderbolt.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-thunderbolt.json"
   }
 ]
