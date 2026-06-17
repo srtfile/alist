@@ -1,0 +1,65 @@
+{
+  "anime_name": "My Hero Academia The Movie 2 Heroes Rising",
+  "anime_url": "https://hianime.ad/anime/my-hero-academia-the-movie-2-heroes-rising",
+  "slug": "my-hero-academia-the-movie-2-heroes-rising",
+  "mal_id": 31964,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:21:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Izuku Midoriya: Origin",
+      "episode_url": "https://hianime.ad/watch/my-hero-academia-the-movie-2-heroes-rising/ep-1",
+      "sub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/45b9a559c8d1b663",
+          "31964-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45b9a559c8d1b663/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_sub": "https://otakuhg.site/e/rdjpngvuc7l0",
+          "31964-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tqhgewmkqt6u",
+          "31964-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_sub": "https://playmogo.com/e/39enhbtex1g5",
+          "31964-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_dub": "https://vibeplayer.site/8bd431a0591ca980",
+          "31964-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8bd431a0591ca980/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_dub": "https://otakuhg.site/e/y5fc5660ohww",
+          "31964-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ozklg7hwxnrw",
+          "31964-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cec6ee56cb7f62bf",
+          "31964-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cec6ee56cb7f62bf/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zj9eqb6av722",
+          "31964-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/exfhij0c9v2j",
+          "31964-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_hsub": "https://playmogo.com/e/hnzq7y99t75j",
+          "31964-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
