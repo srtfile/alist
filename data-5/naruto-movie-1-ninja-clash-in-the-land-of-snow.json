@@ -1,0 +1,65 @@
+{
+  "anime_name": "Naruto Movie 1 Ninja Clash In The Land Of Snow",
+  "anime_url": "https://hianime.ad/anime/naruto-movie-1-ninja-clash-in-the-land-of-snow",
+  "slug": "naruto-movie-1-ninja-clash-in-the-land-of-snow",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:16:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/naruto-movie-1-ninja-clash-in-the-land-of-snow/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5b5052e4764f5c44",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5b5052e4764f5c44/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/duz5ejdjx0r5",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/5bwbixu6fkv5",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/6ti9x89x3j6n",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/4501ba91e640159d",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4501ba91e640159d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/2u477hpwkgke",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/uib9q6cgpolt",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/b960c549b0ae0e8d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b960c549b0ae0e8d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/6qiu9xnwqsdj",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5t28wxivvba5",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/9r04hqokq5b7",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
