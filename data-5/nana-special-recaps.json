@@ -1,0 +1,102 @@
+{
+  "anime_name": "Nana Special Recaps",
+  "anime_url": "https://hianime.ad/anime/nana-special-recaps",
+  "slug": "nana-special-recaps",
+  "mal_id": null,
+  "total_episodes": 3,
+  "captured_at": "2026-06-17T19:10:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Junkos Room 11.5",
+      "episode_url": "https://hianime.ad/watch/nana-special-recaps/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/66f69c9345c81793",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/66f69c9345c81793/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/danxij3hkqcd",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/94ja5py64vjb",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f3083e0a50243c0b",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f3083e0a50243c0b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1u02yrbff7iw",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/whdxm6xw6s7z",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Junkos Room 21.5",
+      "episode_url": "https://hianime.ad/watch/nana-special-recaps/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/d80caf3e08ef7d78",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d80caf3e08ef7d78/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/mxi3cj2rkb2j",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/5358163efac34eae",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5358163efac34eae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/j0qunk8xe5mr",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/76o2j6ko4tyq",
+          "malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Junkos Room 36.5",
+      "episode_url": "https://hianime.ad/watch/nana-special-recaps/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/0c110a3710b94903",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c110a3710b94903/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/3p2q9qjjat6k",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/v1a7wq8trdcv",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/e86ba214a34f0d08",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e86ba214a34f0d08/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/5ffpnp500d85",
+          "malep-3_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
