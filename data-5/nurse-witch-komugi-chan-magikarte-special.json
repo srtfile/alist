@@ -1,0 +1,40 @@
+{
+  "anime_name": "Nurse Witch Komugi Chan Magikarte Special",
+  "anime_url": "https://hianime.ad/anime/nurse-witch-komugi-chan-magikarte-special",
+  "slug": "nurse-witch-komugi-chan-magikarte-special",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T20:56:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special (Episode 2.5)",
+      "episode_url": "https://hianime.ad/watch/nurse-witch-komugi-chan-magikarte-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/910aa891cf9e7bdf",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/910aa891cf9e7bdf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/me1vg440b2v4",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/6471f2f6091875f8",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6471f2f6091875f8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vz922jqvypss",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/jep53918pmks",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
