@@ -1,0 +1,44 @@
+{
+  "anime_name": "Momentary Lily Special",
+  "anime_url": "https://hianime.ad/anime/momentary-lily-special",
+  "slug": "momentary-lily-special",
+  "mal_id": 58739,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T17:02:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Saury Hitsumabushi After the Loneliness",
+      "episode_url": "https://hianime.ad/watch/momentary-lily-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "58739-malep-1_vibeplayer_sub": "https://vibeplayer.site/f573e1f1a5008b95",
+          "58739-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f573e1f1a5008b95/master.m3u8"
+        },
+        "Earnvids": {
+          "58739-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h9u0i0r8v087",
+          "58739-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58739-malep-1_vibeplayer_hsub": "https://vibeplayer.site/63618893624936d1",
+          "58739-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/63618893624936d1/master.m3u8"
+        },
+        "StreamHG": {
+          "58739-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2bsrolumzsdn",
+          "58739-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58739-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5wpkcb00eaac",
+          "58739-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58739-malep-1_playmogo_hsub": "https://playmogo.com/e/tzdb5mwxb4jl",
+          "58739-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
