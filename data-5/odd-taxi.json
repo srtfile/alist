@@ -1,0 +1,617 @@
+{
+  "anime_name": "Odd Taxi",
+  "anime_url": "https://hianime.ad/anime/odd-taxi",
+  "slug": "odd-taxi",
+  "mal_id": null,
+  "total_episodes": 13,
+  "captured_at": "2026-06-17T21:09:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Eccentric Driver",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2a94d2e94ec51114",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a94d2e94ec51114/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/snx63v189dvy",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/pm4kzd00qovt",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/c84edd0f43454356",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c84edd0f43454356/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/rdvz5d5u0u4h",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/qrk9u1lbo1e9",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/6e12dbf1d1f1f5cc",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e12dbf1d1f1f5cc/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/a67m4w0w5btq",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/txyt870v1lyi",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/o3yvqnhrevfb",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "How To Spend a Long Night",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/dd55841f455d96ee",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd55841f455d96ee/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/9ouq31lnnvgs",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/f55cb4aacb0ae822",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f55cb4aacb0ae822/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/406w81hqk4u5",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/st0tljxhk6ig",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/79f74ce29d65bae8",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/79f74ce29d65bae8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/xl8qtfaumqvx",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/6u35j96yr9yy",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/q3w1b1i4621t",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Borrowed Plumes and the Bodyguard",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/1f702ad9ffa8ec0e",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f702ad9ffa8ec0e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/kn42wxlbvx1f",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/iz0mohe6p1l0",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/274c5590b8092f40",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/274c5590b8092f40/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/ub35g7vslhi4",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/okso14qbyljd",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/9bb23b7eeaa3a4c7",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9bb23b7eeaa3a4c7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/102fgg1nuzok",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/l96nr9c9tz6w",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/r0o0mn55leqy",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tanaka's Revolution",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/b8000e641f53e2e0",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8000e641f53e2e0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/6qiufefuz40j",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/810dbca4373aa402",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/810dbca4373aa402/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/vcjnttr0llmc",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/jb4m8zbfwpla",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/6342664e66575be6",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6342664e66575be6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/hr08kidxhk9z",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/0yxoa00qhihv",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/vpq8y1w0wwog",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Don't Call Me an Idol",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/b57b1036d7e80b5d",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b57b1036d7e80b5d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/3z2cef0pl2bb",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/412f60a0e4e96e12",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/412f60a0e4e96e12/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/cqhk0cy3css6",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/su78ot3ygnse",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/e00cf9cddac01afa",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e00cf9cddac01afa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/ai0c1dv1fvxc",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/j1lnswe8zwgk",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/2oyqhc9mbnal",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Let Me Hear You Say,",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/52934f6857a4fa90",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/52934f6857a4fa90/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/pamf6cufdd3f",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/29f2790d7d627d1c",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/29f2790d7d627d1c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/5wb48lksgqf3",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/klhyanglpn4z",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/cdebdabeb046ac0c",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdebdabeb046ac0c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/5f2ifrhvms09",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/qjlf6b1c0vfe",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/6kaxuzxr0690",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Trick or Treat",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/d685212a4bf07e08",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d685212a4bf07e08/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/kiwepfl4iq88",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/0b34184670a93243",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0b34184670a93243/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/jwmhd2g55e3w",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/vl56lrscloes",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/15e2eae817fbea1e",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/15e2eae817fbea1e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/hmramlkbzevz",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/8yw52k5ik62d",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/wln2nxjap7sz",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bless you",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/892cdefdcc12f3d5",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/892cdefdcc12f3d5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/2whe33icj8s0",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/b57ed4ed1e8c482f",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b57ed4ed1e8c482f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/gw4c7ovrm34q",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/853ll39c0m6n",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/48a4274b37573854",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48a4274b37573854/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_hsub": "https://otakuhg.site/e/qzwxjwbv9to9",
+          "malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/92ufcox25x6b",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/wg5petx1zexg",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Hero's Melancholy",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/6325e5af7ee10174",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6325e5af7ee10174/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/q9kc8jza1i6a",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/daaa4b1770547011",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/daaa4b1770547011/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/n63smhqmn3l1",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/e348nhw87dny",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/ac2f1970005bdfe0",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ac2f1970005bdfe0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/iq79rasax8hk",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/cqrdxwuu83nu",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/ss58fby9ez51",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "We Have No Tomorrow",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/986970aa1d02f724",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/986970aa1d02f724/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/psb4b85wxt8f",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/fa2057364dd78455",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fa2057364dd78455/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/1ildstmur7ts",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/oouin9g32nb4",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/a18ec1dae61a3e82",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a18ec1dae61a3e82/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/zkus8ocjm8ew",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/9xm1x9s7qf0i",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/6dfmt0elhxvl",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "If We Could Go Back to That Day",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/5bd25ba472a55a17",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5bd25ba472a55a17/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/9lhzl0jgx1lo",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/cc002d969d027524",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cc002d969d027524/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/vtzagd05256c",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/lw7z3zk6e4et",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/9d6dcaa6e2cb4f06",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9d6dcaa6e2cb4f06/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/6hob9at4ovbn",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/j8em5nhpa6ae",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/todkjky68m15",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Not Enough",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/b6a0a5b863dd9ccf",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b6a0a5b863dd9ccf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/7i1ds0bo92l9",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/2be1cf06054b4bf1",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2be1cf06054b4bf1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/z0mund3jvsqp",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/64wqitzzu3dy",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/e4cea009e173acaf",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4cea009e173acaf/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/wb7u3jon4ys1",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/0x5mssh259fu",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/llsghepnmkdb",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Where To?",
+      "episode_url": "https://hianime.ad/watch/odd-taxi/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/ac6973cfb9c59db9",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac6973cfb9c59db9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/nr9h8ahw1wlp",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/c0d629c69638d082",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c0d629c69638d082/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_dub": "https://otakuhg.site/e/6he15ud1f2o1",
+          "malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/t8oodaj6a57o",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/29c761d4fc2e6702",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29c761d4fc2e6702/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-13_otakuhg_hsub": "https://otakuhg.site/e/66hv472qexih",
+          "malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/q37dd31as1wa",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/qb4e5dwnjhle",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
