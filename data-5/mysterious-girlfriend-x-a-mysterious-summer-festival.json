@@ -1,0 +1,44 @@
+{
+  "anime_name": "Mysterious Girlfriend X A Mysterious Summer Festival",
+  "anime_url": "https://hianime.ad/anime/mysterious-girlfriend-x-a-mysterious-summer-festival",
+  "slug": "mysterious-girlfriend-x-a-mysterious-summer-festival",
+  "mal_id": 12467,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:57:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mysterious Girlfriend",
+      "episode_url": "https://hianime.ad/watch/mysterious-girlfriend-x-a-mysterious-summer-festival/ep-1",
+      "sub": {
+        "HD-1": {
+          "12467-malep-1_vibeplayer_sub": "https://vibeplayer.site/1421ca74070871e2",
+          "12467-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1421ca74070871e2/master.m3u8"
+        },
+        "Earnvids": {
+          "12467-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qnafi47dsrdd",
+          "12467-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12467-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fdeed0833e19333a",
+          "12467-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fdeed0833e19333a/master.m3u8"
+        },
+        "StreamHG": {
+          "12467-malep-1_otakuhg_hsub": "https://otakuhg.site/e/h5hgnjevxxdv",
+          "12467-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12467-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9z36dp4dies7",
+          "12467-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12467-malep-1_playmogo_hsub": "https://playmogo.com/e/s446unreb9ch",
+          "12467-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
