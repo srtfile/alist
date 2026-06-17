@@ -1,0 +1,65 @@
+{
+  "anime_name": "Naruto Ova7 Chunin Exam On Fire And Naruto Vs Konohamaru",
+  "anime_url": "https://hianime.ad/anime/naruto-ova7-chunin-exam-on-fire-and-naruto-vs-konohamaru",
+  "slug": "naruto-ova7-chunin-exam-on-fire-and-naruto-vs-konohamaru",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:18:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/naruto-ova7-chunin-exam-on-fire-and-naruto-vs-konohamaru/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/298435ea00d0d2aa",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/298435ea00d0d2aa/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/l1cm6wioc370",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/zqy6mrx6kd5u",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/bb53cd2d54fdb218",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb53cd2d54fdb218/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/7rr7qnxjv45m",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/v1gpd9bv9dne",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/61097d42jngv",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/1e57226aa8121d93",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e57226aa8121d93/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/1tdw4hs28npk",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/io3a5n2l9c50",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/tjznk7ed80s3",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
