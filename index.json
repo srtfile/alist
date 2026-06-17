@@ -108,5 +108,15 @@
     "captured_at": "2026-06-17T21:15:22",
     "file": "data-5/millennium-actress.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/millennium-actress.json"
+  },
+  {
+    "slug": "million-doll",
+    "mal_id": 29941,
+    "anime_name": "Million Doll",
+    "anime_url": "https://hianime.ad/anime/million-doll",
+    "total_episodes": 11,
+    "captured_at": "2026-06-17T21:15:34",
+    "file": "data-5/million-doll.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/million-doll.json"
   }
 ]
