@@ -1648,5 +1648,15 @@
     "captured_at": "2026-06-17T22:53:02",
     "file": "data-5/monogatari-series-second-season.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/monogatari-series-second-season.json"
+  },
+  {
+    "slug": "mononogatari-2nd-season",
+    "mal_id": 54883,
+    "anime_name": "Mononogatari 2Nd Season",
+    "anime_url": "https://hianime.ad/anime/mononogatari-2nd-season",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T22:53:33",
+    "file": "data-5/mononogatari-2nd-season.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mononogatari-2nd-season.json"
   }
 ]
