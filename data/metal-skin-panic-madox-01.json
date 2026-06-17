@@ -1,0 +1,57 @@
+{
+  "anime_name": "Metal Skin Panic Madox 01",
+  "anime_url": "https://hianime.ad/anime/metal-skin-panic-madox-01",
+  "slug": "metal-skin-panic-madox-01",
+  "mal_id": 72,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T13:49:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Man from the South/A Hostage with No Compromises",
+      "episode_url": "https://hianime.ad/watch/metal-skin-panic-madox-01/ep-1",
+      "sub": {
+        "HD-1": {
+          "72-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4078143065625b7",
+          "72-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4078143065625b7/master.m3u8"
+        },
+        "Earnvids": {
+          "72-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4vswv01czg2l",
+          "72-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "72-malep-1_vibeplayer_dub": "https://vibeplayer.site/ce3f694c29248398",
+          "72-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ce3f694c29248398/master.m3u8"
+        },
+        "StreamHG": {
+          "72-malep-1_otakuhg_dub": "https://otakuhg.site/e/hqqzkoh8z5dv",
+          "72-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "72-malep-1_otakuvid_dub": "https://otakuvid.online/embed/x3m7qrl3g3xl",
+          "72-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "72-malep-1_vibeplayer_hsub": "https://vibeplayer.site/270c7ca7e607d48d",
+          "72-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/270c7ca7e607d48d/master.m3u8"
+        },
+        "StreamHG": {
+          "72-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gjqvb3ud8zee",
+          "72-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "72-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nryslb043bgh",
+          "72-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "72-malep-1_playmogo_hsub": "https://playmogo.com/e/9tcbqv6ll3fs",
+          "72-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
