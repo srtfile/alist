@@ -3,8 +3,8 @@
   "anime_url": "https://hianime.ad/anime/monster-eater",
   "slug": "monster-eater",
   "mal_id": 63304,
-  "total_episodes": 10,
-  "captured_at": "2026-06-05T07:52:13",
+  "total_episodes": 11,
+  "captured_at": "2026-06-17T17:13:33",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -377,12 +377,16 @@
       }
     },
     {
-      "episode_title": "Episode 10",
+      "episode_title": "Llond",
       "episode_url": "https://hianime.ad/watch/monster-eater/ep-10",
       "sub": {
         "HD-1": {
           "63304-malep-10_vibeplayer_sub": "https://vibeplayer.site/ebaf262fe9f57edd",
           "63304-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ebaf262fe9f57edd/master.m3u8"
+        },
+        "StreamHG": {
+          "63304-malep-10_otakuhg_sub": "https://otakuhg.site/e/5hbycogz84ft",
+          "63304-malep-10_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
           "63304-malep-10_otakuvid_sub": "https://otakuvid.online/embed/sm54vgo4sx56",
@@ -399,6 +403,10 @@
           "63304-malep-10_vibeplayer_hsub": "https://vibeplayer.site/7097e5abf6d7f797",
           "63304-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7097e5abf6d7f797/master.m3u8"
         },
+        "StreamHG": {
+          "63304-malep-10_otakuhg_hsub": "https://otakuhg.site/e/2aj86dglf0nj",
+          "63304-malep-10_otakuhg_hsub_m3u8": null
+        },
         "Earnvids": {
           "63304-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/tkqt8u1guke6",
           "63304-malep-10_otakuvid_hsub_m3u8": null
@@ -406,6 +414,47 @@
         "Doodstream": {
           "63304-malep-10_playmogo_hsub": "https://playmogo.com/e/wv8jdm8tid2e",
           "63304-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Basilista, the Venomdrake",
+      "episode_url": "https://hianime.ad/watch/monster-eater/ep-11",
+      "sub": {
+        "HD-1": {
+          "63304-malep-11_vibeplayer_sub": "https://vibeplayer.site/23bc615c846008e9",
+          "63304-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23bc615c846008e9/master.m3u8"
+        },
+        "StreamHG": {
+          "63304-malep-11_otakuhg_sub": "https://otakuhg.site/e/ki07jo72lei5",
+          "63304-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "63304-malep-11_otakuvid_sub": "https://otakuvid.online/embed/3fkld9m15090",
+          "63304-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "63304-malep-11_playmogo_sub": "https://playmogo.com/e/byk72bvh6a5r",
+          "63304-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63304-malep-11_vibeplayer_hsub": "https://vibeplayer.site/92d135c52a851f93",
+          "63304-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/92d135c52a851f93/master.m3u8"
+        },
+        "StreamHG": {
+          "63304-malep-11_otakuhg_hsub": "https://otakuhg.site/e/4smy9lu5odyt",
+          "63304-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "63304-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/bg7w0ppv1um8",
+          "63304-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63304-malep-11_playmogo_hsub": "https://playmogo.com/e/0ihovpj69bih",
+          "63304-malep-11_playmogo_hsub_m3u8": null
         }
       }
     }
