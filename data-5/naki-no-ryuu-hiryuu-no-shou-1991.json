@@ -1,0 +1,40 @@
+{
+  "anime_name": "Naki No Ryuu Hiryuu No Shou 1991",
+  "anime_url": "https://hianime.ad/anime/naki-no-ryuu-hiryuu-no-shou-1991",
+  "slug": "naki-no-ryuu-hiryuu-no-shou-1991",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:07:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/naki-no-ryuu-hiryuu-no-shou-1991/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/53acfd3f6c1c5b37",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/53acfd3f6c1c5b37/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/xdbc6wb97uao",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/9e428a43a62c203d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9e428a43a62c203d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hi8cmv7rv7u6",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/0w5sjuxfk0vl",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
