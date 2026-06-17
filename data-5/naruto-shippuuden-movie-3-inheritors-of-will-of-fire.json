@@ -1,0 +1,45 @@
+{
+  "anime_name": "Naruto Shippuuden Movie 3 Inheritors Of Will Of Fire",
+  "anime_url": "https://hianime.ad/anime/naruto-shippuuden-movie-3-inheritors-of-will-of-fire",
+  "slug": "naruto-shippuuden-movie-3-inheritors-of-will-of-fire",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:18:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/naruto-shippuuden-movie-3-inheritors-of-will-of-fire/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/9451287e94e910e7",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9451287e94e910e7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/bh7bt022hipp",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/vco0oxys851s",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/5e074a383b298c6e",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/5e074a383b298c6e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_raw": "https://otakuhg.site/e/uoxyliofgufu",
+          "malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/knssevqqq9yh",
+          "malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
