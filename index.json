@@ -24538,5 +24538,15 @@
     "captured_at": "2026-06-17T17:24:52",
     "file": "data-5/moonlight-mile-2nd-season-touch-down.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moonlight-mile-2nd-season-touch-down.json"
+  },
+  {
+    "slug": "moonrise",
+    "mal_id": null,
+    "anime_name": "Moonrise",
+    "anime_url": "https://hianime.ad/anime/moonrise",
+    "total_episodes": 18,
+    "captured_at": "2026-06-17T17:25:20",
+    "file": "data-5/moonrise.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moonrise.json"
   }
 ]
