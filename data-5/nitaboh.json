@@ -1,0 +1,40 @@
+{
+  "anime_name": "Nitaboh",
+  "anime_url": "https://hianime.ad/anime/nitaboh",
+  "slug": "nitaboh",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T20:25:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/nitaboh/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b885f1c204914d35",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b885f1c204914d35/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/czjwcxzs214k",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a119db9acc5ddcab",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a119db9acc5ddcab/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lzcoqkt0zv15",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/hx4n4pp54njg",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
