@@ -1,0 +1,48 @@
+{
+  "anime_name": "My Star Specials",
+  "anime_url": "https://hianime.ad/anime/my-star-specials",
+  "slug": "my-star-specials",
+  "mal_id": 52034,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:43:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mother and Children",
+      "episode_url": "https://hianime.ad/watch/my-star-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "52034-malep-1_vibeplayer_sub": "https://vibeplayer.site/a9b0e530058b15d7",
+          "52034-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a9b0e530058b15d7/master.m3u8"
+        },
+        "StreamHG": {
+          "52034-malep-1_otakuhg_sub": "https://otakuhg.site/e/xja47l4rleq3",
+          "52034-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52034-malep-1_otakuvid_sub": "https://otakuvid.online/embed/szrtxdbs3klo",
+          "52034-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52034-malep-1_vibeplayer_hsub": "https://vibeplayer.site/acd3525ff524dfe4",
+          "52034-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/acd3525ff524dfe4/master.m3u8"
+        },
+        "StreamHG": {
+          "52034-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ecxtbsboot37",
+          "52034-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52034-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s00pp1rwhfxc",
+          "52034-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52034-malep-1_playmogo_hsub": "https://playmogo.com/e/qs5p2y1xjn2b",
+          "52034-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
