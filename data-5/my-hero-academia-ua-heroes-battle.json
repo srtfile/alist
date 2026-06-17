@@ -1,0 +1,69 @@
+{
+  "anime_name": "My Hero Academia Ua Heroes Battle",
+  "anime_url": "https://hianime.ad/anime/my-hero-academia-ua-heroes-battle",
+  "slug": "my-hero-academia-ua-heroes-battle",
+  "mal_id": 31964,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:22:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Izuku Midoriya: Origin",
+      "episode_url": "https://hianime.ad/watch/my-hero-academia-ua-heroes-battle/ep-1",
+      "sub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_sub": "https://vibeplayer.site/6596d4df340ae526",
+          "31964-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6596d4df340ae526/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_sub": "https://otakuhg.site/e/tfkax9fwp4yh",
+          "31964-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5ppw8ns152bp",
+          "31964-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_sub": "https://playmogo.com/e/gu9n2evi3mi6",
+          "31964-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_dub": "https://vibeplayer.site/cff6533e01c516a7",
+          "31964-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cff6533e01c516a7/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_dub": "https://otakuhg.site/e/hpgaiu8amm7z",
+          "31964-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_dub": "https://otakuvid.online/embed/830fyyi493f5",
+          "31964-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_dub": "https://playmogo.com/e/01t0hibpojqy",
+          "31964-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31964-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ca5c1982a9b96e33",
+          "31964-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca5c1982a9b96e33/master.m3u8"
+        },
+        "StreamHG": {
+          "31964-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a7o9li2vsitq",
+          "31964-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31964-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ptauaowfpze9",
+          "31964-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31964-malep-1_playmogo_hsub": "https://playmogo.com/e/4zzloxlv6770",
+          "31964-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
