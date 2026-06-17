@@ -29078,5 +29078,15 @@
     "captured_at": "2026-06-17T21:05:54",
     "file": "data-5/occult-academy.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/occult-academy.json"
+  },
+  {
+    "slug": "occult-academy-specials",
+    "mal_id": null,
+    "anime_name": "Occult Academy Specials",
+    "anime_url": "https://hianime.ad/anime/occult-academy-specials",
+    "total_episodes": 5,
+    "captured_at": "2026-06-17T21:06:22",
+    "file": "data-5/occult-academy-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/occult-academy-specials.json"
   }
 ]
