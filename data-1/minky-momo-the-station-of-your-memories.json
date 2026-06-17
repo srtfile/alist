@@ -1,0 +1,44 @@
+{
+  "anime_name": "Minky Momo The Station Of Your Memories",
+  "anime_url": "https://hianime.ad/anime/minky-momo-the-station-of-your-memories",
+  "slug": "minky-momo-the-station-of-your-memories",
+  "mal_id": 518,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T15:55:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Love Love Minky Momo",
+      "episode_url": "https://hianime.ad/watch/minky-momo-the-station-of-your-memories/ep-1",
+      "sub": {
+        "HD-1": {
+          "518-malep-1_vibeplayer_sub": "https://vibeplayer.site/cb153b927c9833a4",
+          "518-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb153b927c9833a4/master.m3u8"
+        },
+        "Earnvids": {
+          "518-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cakefsib9ppd",
+          "518-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "518-malep-1_playmogo_sub": "https://playmogo.com/e/25205sk4u8d3",
+          "518-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "518-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d82d84fcbf2772b9",
+          "518-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d82d84fcbf2772b9/master.m3u8"
+        },
+        "Earnvids": {
+          "518-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lky8ffryagj1",
+          "518-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "518-malep-1_playmogo_hsub": "https://playmogo.com/e/ow9wzzom6o7t",
+          "518-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
