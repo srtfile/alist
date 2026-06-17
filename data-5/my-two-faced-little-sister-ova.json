@@ -1,0 +1,69 @@
+{
+  "anime_name": "My Two Faced Little Sister Ova",
+  "anime_url": "https://hianime.ad/anime/my-two-faced-little-sister-ova",
+  "slug": "my-two-faced-little-sister-ova",
+  "mal_id": 14653,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T18:47:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Night",
+      "episode_url": "https://hianime.ad/watch/my-two-faced-little-sister-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "14653-malep-1_vibeplayer_sub": "https://vibeplayer.site/906894702df35bfb",
+          "14653-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/906894702df35bfb/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xipw4j2tm31i",
+          "14653-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7df141eda6d31abc",
+          "14653-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7df141eda6d31abc/master.m3u8"
+        },
+        "StreamHG": {
+          "14653-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t4xkc4omxm3f",
+          "14653-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14653-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/64wcn1e1ywc0",
+          "14653-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Second Night",
+      "episode_url": "https://hianime.ad/watch/my-two-faced-little-sister-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "14653-malep-2_vibeplayer_sub": "https://vibeplayer.site/d5e1c3d164c92eb6",
+          "14653-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d5e1c3d164c92eb6/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-2_otakuvid_sub": "https://otakuvid.online/embed/il080idvi7o8",
+          "14653-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14653-malep-2_vibeplayer_hsub": "https://vibeplayer.site/569942f90db5d0d8",
+          "14653-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/569942f90db5d0d8/master.m3u8"
+        },
+        "StreamHG": {
+          "14653-malep-2_otakuhg_hsub": "https://otakuhg.site/e/fftpz7xq0ux6",
+          "14653-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14653-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/vl08aseh8asl",
+          "14653-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
