@@ -1,0 +1,589 @@
+{
+  "anime_name": "My Daemon",
+  "anime_url": "https://hianime.ad/anime/my-daemon",
+  "slug": "my-daemon",
+  "mal_id": 14653,
+  "total_episodes": 13,
+  "captured_at": "2026-06-17T18:07:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-1",
+      "sub": {
+        "HD-1": {
+          "14653-malep-1_vibeplayer_sub": "https://vibeplayer.site/d16123911c496082",
+          "14653-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d16123911c496082/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sn12yke5r8a3",
+          "14653-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-1_playmogo_sub": "https://playmogo.com/e/68ly5umk0cij",
+          "14653-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-1_vibeplayer_dub": "https://vibeplayer.site/146aaa88af533c6d",
+          "14653-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/146aaa88af533c6d/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cwbvnz9r7bum",
+          "14653-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-1_playmogo_dub": "https://playmogo.com/e/uuw0v794x2ez",
+          "14653-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1a401b3f09865b86",
+          "14653-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a401b3f09865b86/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lhezvwqz8r4g",
+          "14653-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-1_playmogo_hsub": "https://playmogo.com/e/57rj01grkdsp",
+          "14653-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Second Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-2",
+      "sub": {
+        "HD-1": {
+          "14653-malep-2_vibeplayer_sub": "https://vibeplayer.site/4d16fa2b48234c09",
+          "14653-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d16fa2b48234c09/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ujdk5pqsnfvc",
+          "14653-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-2_playmogo_sub": "https://playmogo.com/e/lbo7r8zvrr3d",
+          "14653-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-2_vibeplayer_dub": "https://vibeplayer.site/44e9e1d290faa6c4",
+          "14653-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44e9e1d290faa6c4/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-2_otakuvid_dub": "https://otakuvid.online/embed/2i587znh8t7h",
+          "14653-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-2_vibeplayer_hsub": "https://vibeplayer.site/bc722d324306f83d",
+          "14653-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc722d324306f83d/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/x29lkckbsv02",
+          "14653-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-2_playmogo_hsub": "https://playmogo.com/e/fh953az2pivr",
+          "14653-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Third Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-3",
+      "sub": {
+        "HD-1": {
+          "14653-malep-3_vibeplayer_sub": "https://vibeplayer.site/e612e3a73e363e9e",
+          "14653-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e612e3a73e363e9e/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-3_otakuvid_sub": "https://otakuvid.online/embed/ve6qbd0uvfjq",
+          "14653-malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-3_playmogo_sub": "https://playmogo.com/e/tesy5izbogmy",
+          "14653-malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-3_vibeplayer_dub": "https://vibeplayer.site/a3af855a6c8cc72d",
+          "14653-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a3af855a6c8cc72d/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-3_otakuvid_dub": "https://otakuvid.online/embed/5m78dv2mtt7k",
+          "14653-malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-3_playmogo_dub": "https://playmogo.com/e/5banlieqydrv",
+          "14653-malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-3_vibeplayer_hsub": "https://vibeplayer.site/cbf0ba7cd272566a",
+          "14653-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cbf0ba7cd272566a/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/rr6rd38rzybp",
+          "14653-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-3_playmogo_hsub": "https://playmogo.com/e/hiwp7dbn9kjp",
+          "14653-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Fourth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-4",
+      "sub": {
+        "HD-1": {
+          "14653-malep-4_vibeplayer_sub": "https://vibeplayer.site/a7af5451c332d33c",
+          "14653-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a7af5451c332d33c/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-4_otakuvid_sub": "https://otakuvid.online/embed/4y30b9jop1wl",
+          "14653-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-4_vibeplayer_dub": "https://vibeplayer.site/5e14c8f7f7bafc77",
+          "14653-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e14c8f7f7bafc77/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-4_otakuvid_dub": "https://otakuvid.online/embed/gekge26rpx5i",
+          "14653-malep-4_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-4_playmogo_dub": "https://playmogo.com/e/v62dp9udhobx",
+          "14653-malep-4_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ba27a8e5fe1d109b",
+          "14653-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ba27a8e5fe1d109b/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/yip6lg1oxgy4",
+          "14653-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-4_playmogo_hsub": "https://playmogo.com/e/z249qqnk5i1k",
+          "14653-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Fifth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-5",
+      "sub": {
+        "HD-1": {
+          "14653-malep-5_vibeplayer_sub": "https://vibeplayer.site/b951da57b3c4549c",
+          "14653-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b951da57b3c4549c/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-5_otakuvid_sub": "https://otakuvid.online/embed/1dtsdijikm2q",
+          "14653-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-5_playmogo_sub": "https://playmogo.com/e/80msqdw8d1vh",
+          "14653-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-5_vibeplayer_dub": "https://vibeplayer.site/943d2e1eb85d9670",
+          "14653-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/943d2e1eb85d9670/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-5_otakuvid_dub": "https://otakuvid.online/embed/82crd7psezvv",
+          "14653-malep-5_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-5_playmogo_dub": "https://playmogo.com/e/oic7xpykboub",
+          "14653-malep-5_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-5_vibeplayer_hsub": "https://vibeplayer.site/0d5386d25c826d16",
+          "14653-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0d5386d25c826d16/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/nuzb5cgtlj9b",
+          "14653-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-5_playmogo_hsub": "https://playmogo.com/e/bj1u9014g0jo",
+          "14653-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Sixth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-6",
+      "sub": {
+        "HD-1": {
+          "14653-malep-6_vibeplayer_sub": "https://vibeplayer.site/ec07be128d47ec3d",
+          "14653-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ec07be128d47ec3d/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-6_otakuvid_sub": "https://otakuvid.online/embed/gaj3tbyz0vy5",
+          "14653-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-6_vibeplayer_dub": "https://vibeplayer.site/5542b2d8ab5349a7",
+          "14653-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5542b2d8ab5349a7/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-6_otakuvid_dub": "https://otakuvid.online/embed/6xznzefvp6rp",
+          "14653-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-6_vibeplayer_hsub": "https://vibeplayer.site/e0c294225c7d84ba",
+          "14653-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e0c294225c7d84ba/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/z6vosux5pe2e",
+          "14653-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-6_playmogo_hsub": "https://playmogo.com/e/urjy4iyd4sg4",
+          "14653-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Seventh Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-7",
+      "sub": {
+        "HD-1": {
+          "14653-malep-7_vibeplayer_sub": "https://vibeplayer.site/8e4316387b86353f",
+          "14653-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e4316387b86353f/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-7_otakuvid_sub": "https://otakuvid.online/embed/qs31z9oslh4x",
+          "14653-malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-7_playmogo_sub": "https://playmogo.com/e/ltxs2n0a96br",
+          "14653-malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-7_vibeplayer_dub": "https://vibeplayer.site/1293f81dd2ce77a5",
+          "14653-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1293f81dd2ce77a5/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-7_otakuvid_dub": "https://otakuvid.online/embed/bvw1vidca5jp",
+          "14653-malep-7_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-7_playmogo_dub": "https://playmogo.com/e/dxjs98qcdwoo",
+          "14653-malep-7_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-7_vibeplayer_hsub": "https://vibeplayer.site/2f5354447f92b8b5",
+          "14653-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2f5354447f92b8b5/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/iwxaqxmxfbj1",
+          "14653-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-7_playmogo_hsub": "https://playmogo.com/e/ykpkvyg1vb2b",
+          "14653-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eighth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-8",
+      "sub": {
+        "HD-1": {
+          "14653-malep-8_vibeplayer_sub": "https://vibeplayer.site/9d6f3df7b8454b09",
+          "14653-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d6f3df7b8454b09/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-8_otakuvid_sub": "https://otakuvid.online/embed/zv3nwh9mlas4",
+          "14653-malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-8_playmogo_sub": "https://playmogo.com/e/hnvuzoj29wj1",
+          "14653-malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-8_vibeplayer_dub": "https://vibeplayer.site/7c0a5792aa245a23",
+          "14653-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7c0a5792aa245a23/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-8_otakuvid_dub": "https://otakuvid.online/embed/bp375xdtcesy",
+          "14653-malep-8_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-8_playmogo_dub": "https://playmogo.com/e/lxfq7lx0sjb2",
+          "14653-malep-8_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-8_vibeplayer_hsub": "https://vibeplayer.site/b3e9877c31de61c7",
+          "14653-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3e9877c31de61c7/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/czjnbye97cv9",
+          "14653-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-8_playmogo_hsub": "https://playmogo.com/e/i5yfifmjiix0",
+          "14653-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ninth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-9",
+      "sub": {
+        "HD-1": {
+          "14653-malep-9_vibeplayer_sub": "https://vibeplayer.site/5a7fa7cd42ba8629",
+          "14653-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a7fa7cd42ba8629/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-9_otakuvid_sub": "https://otakuvid.online/embed/bs16m3d4esv8",
+          "14653-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-9_playmogo_sub": "https://playmogo.com/e/jfxfsoqty010",
+          "14653-malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-9_vibeplayer_dub": "https://vibeplayer.site/5a4cb615f503c491",
+          "14653-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a4cb615f503c491/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-9_otakuvid_dub": "https://otakuvid.online/embed/qp590cmz4zz2",
+          "14653-malep-9_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-9_playmogo_dub": "https://playmogo.com/e/8ocg4fq9ef37",
+          "14653-malep-9_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-9_vibeplayer_hsub": "https://vibeplayer.site/f8111bf96ebbcda9",
+          "14653-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8111bf96ebbcda9/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/1khrj99sqg2s",
+          "14653-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-9_playmogo_hsub": "https://playmogo.com/e/o0usz0i27x8b",
+          "14653-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Tenth Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-10",
+      "sub": {
+        "HD-1": {
+          "14653-malep-10_vibeplayer_sub": "https://vibeplayer.site/af6f427b9dd7cf56",
+          "14653-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/af6f427b9dd7cf56/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-10_otakuvid_sub": "https://otakuvid.online/embed/2haholvezxu2",
+          "14653-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-10_playmogo_sub": "https://playmogo.com/e/u52m2dogt53h",
+          "14653-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-10_vibeplayer_dub": "https://vibeplayer.site/819ad3df16b1fef4",
+          "14653-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/819ad3df16b1fef4/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-10_otakuvid_dub": "https://otakuvid.online/embed/i0ba4lk7prpz",
+          "14653-malep-10_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-10_playmogo_dub": "https://playmogo.com/e/3yzg1vsx6y9v",
+          "14653-malep-10_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-10_vibeplayer_hsub": "https://vibeplayer.site/41859b38ce823392",
+          "14653-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41859b38ce823392/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/ihsm8kf93iux",
+          "14653-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-10_playmogo_hsub": "https://playmogo.com/e/du5igy9p082r",
+          "14653-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eleventh Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-11",
+      "sub": {
+        "HD-1": {
+          "14653-malep-11_vibeplayer_sub": "https://vibeplayer.site/4acac2f6ff04b103",
+          "14653-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4acac2f6ff04b103/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-11_otakuvid_sub": "https://otakuvid.online/embed/u73hzim0uonp",
+          "14653-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-11_playmogo_sub": "https://playmogo.com/e/3ag3hx9m4pn3",
+          "14653-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-11_vibeplayer_dub": "https://vibeplayer.site/d49db46e6f0ce039",
+          "14653-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d49db46e6f0ce039/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-11_otakuvid_dub": "https://otakuvid.online/embed/n4nrdivw9wve",
+          "14653-malep-11_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-11_playmogo_dub": "https://playmogo.com/e/z4df0wc2etll",
+          "14653-malep-11_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-11_vibeplayer_hsub": "https://vibeplayer.site/29b8ca747e612362",
+          "14653-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29b8ca747e612362/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/zhsub7t4n6v6",
+          "14653-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-11_playmogo_hsub": "https://playmogo.com/e/ajws1x8p865z",
+          "14653-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Final Night",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-12",
+      "sub": {
+        "HD-1": {
+          "14653-malep-12_vibeplayer_sub": "https://vibeplayer.site/8f40434e58a7a24f",
+          "14653-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8f40434e58a7a24f/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-12_otakuvid_sub": "https://otakuvid.online/embed/r121axnbzqg2",
+          "14653-malep-12_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-12_playmogo_sub": "https://playmogo.com/e/3wks0snyeu5l",
+          "14653-malep-12_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-12_vibeplayer_dub": "https://vibeplayer.site/b69a0474fa75297b",
+          "14653-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b69a0474fa75297b/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-12_otakuvid_dub": "https://otakuvid.online/embed/foryywb7kwzx",
+          "14653-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-12_vibeplayer_hsub": "https://vibeplayer.site/cc1c67f99117d3a6",
+          "14653-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc1c67f99117d3a6/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/oq8pdi62r5gx",
+          "14653-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-12_playmogo_hsub": "https://playmogo.com/e/u68ie2sb9hnk",
+          "14653-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "At All Cost",
+      "episode_url": "https://hianime.ad/watch/my-daemon/ep-13",
+      "sub": {
+        "HD-1": {
+          "14653-malep-13_vibeplayer_sub": "https://vibeplayer.site/6710ef020e42117d",
+          "14653-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6710ef020e42117d/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-13_otakuvid_sub": "https://otakuvid.online/embed/6rxn9vuguyo9",
+          "14653-malep-13_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-13_playmogo_sub": "https://playmogo.com/e/o8805wklumy9",
+          "14653-malep-13_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14653-malep-13_vibeplayer_dub": "https://vibeplayer.site/8edc84d3b294d616",
+          "14653-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8edc84d3b294d616/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-13_otakuvid_dub": "https://otakuvid.online/embed/trfppv67r9ny",
+          "14653-malep-13_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-13_playmogo_dub": "https://playmogo.com/e/ya0j5z2lj70j",
+          "14653-malep-13_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14653-malep-13_vibeplayer_hsub": "https://vibeplayer.site/e36d5eb29d87280e",
+          "14653-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e36d5eb29d87280e/master.m3u8"
+        },
+        "Earnvids": {
+          "14653-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/sdcnqcqphr9q",
+          "14653-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14653-malep-13_playmogo_hsub": "https://playmogo.com/e/g3a32jgelm98",
+          "14653-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
