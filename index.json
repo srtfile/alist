@@ -1668,5 +1668,15 @@
     "captured_at": "2026-06-17T22:53:53",
     "file": "data-5/mononoke.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mononoke.json"
+  },
+  {
+    "slug": "mononoke-dance",
+    "mal_id": 2246,
+    "anime_name": "Mononoke Dance",
+    "anime_url": "https://hianime.ad/anime/mononoke-dance",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T22:54:12",
+    "file": "data-5/mononoke-dance.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mononoke-dance.json"
   }
 ]
