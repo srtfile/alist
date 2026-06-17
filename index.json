@@ -1228,5 +1228,15 @@
     "captured_at": "2026-06-17T22:38:12",
     "file": "data-5/mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-wing",
+    "mal_id": 90,
+    "anime_name": "Mobile Suit Gundam Wing",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-wing",
+    "total_episodes": 49,
+    "captured_at": "2026-06-17T22:38:23",
+    "file": "data-5/mobile-suit-gundam-wing.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-wing.json"
   }
 ]
