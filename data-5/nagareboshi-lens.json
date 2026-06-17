@@ -1,0 +1,44 @@
+{
+  "anime_name": "Nagareboshi Lens",
+  "anime_url": "https://hianime.ad/anime/nagareboshi-lens",
+  "slug": "nagareboshi-lens",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:03:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/nagareboshi-lens/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c7d679efd915d45e",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c7d679efd915d45e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/t4i68cenwqxm",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/lqc7cmr86h3b",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/365e62f9ccb50953",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/365e62f9ccb50953/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vrbhv3aglpcm",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/dlhyqd125nvo",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
