@@ -1,0 +1,45 @@
+{
+  "anime_name": "Night Raid 1931 The Prophecy",
+  "anime_url": "https://hianime.ad/anime/night-raid-1931-the-prophecy",
+  "slug": "night-raid-1931-the-prophecy",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:59:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/night-raid-1931-the-prophecy/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5a3a629bedb15921",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a3a629bedb15921/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/sgdo2jgj66gc",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/a0ee155e5a5e5c4a",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0ee155e5a5e5c4a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/5c79ae6xwucx",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/40fb144092d5d16c",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/40fb144092d5d16c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ld7riukydkuv",
+          "malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
