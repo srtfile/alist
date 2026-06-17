@@ -1,0 +1,755 @@
+{
+  "anime_name": "Moonrise",
+  "anime_url": "https://hianime.ad/anime/moonrise",
+  "slug": "moonrise",
+  "mal_id": null,
+  "total_episodes": 18,
+  "captured_at": "2026-06-17T17:25:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Night It All Began",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/1e706ee6844175d9",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e706ee6844175d9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/ph4f046qm6pj",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/4782c380a263bca8",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4782c380a263bca8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/i9ghqhkjl39n",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/mk15k6tz7v9w",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/3ce46452f29d2915",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ce46452f29d2915/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i4rbmvrul4aw",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/1rucslg6iy87",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Fateful Day",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/f765e1f4bff5c9ae",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f765e1f4bff5c9ae/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/f1kzootscpc7",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/e931a80e0f8932e6",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e931a80e0f8932e6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/19khjweisaue",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/2c3fc06080f5a5ce",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c3fc06080f5a5ce/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/sy118a2v2zm4",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/wnvhynp92sr8",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Unexpected Face",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/2f08a9a322562b7d",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2f08a9a322562b7d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/1kn4gtk15caw",
+          "malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_sub": "https://playmogo.com/e/cz8v6dnohnal",
+          "malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/02158b8f937acc10",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/02158b8f937acc10/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/8eftyhbwq5pn",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/7dcda0756fadf915",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7dcda0756fadf915/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/2fflztmg6025",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/ha572yhrnkbl",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "What Matters Most",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/4bf5641e2f3c72b1",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4bf5641e2f3c72b1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/huyqpfq1sfkj",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/a496a8df222fea64",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a496a8df222fea64/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/keybwd5aaaoj",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/2dd5e340bb8d4a1c",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2dd5e340bb8d4a1c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/2d129my1m450",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/9g5ytdpl0dmq",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Revelation",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/12450fc9033c988b",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/12450fc9033c988b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/yig0m6hnolay",
+          "malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_sub": "https://playmogo.com/e/tfaarlemcedw",
+          "malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/bfa7f0b1e2900d86",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bfa7f0b1e2900d86/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/woenmmpm1njk",
+          "malep-5_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_dub": "https://playmogo.com/e/v6t0n16c7w76",
+          "malep-5_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/a020b7c8c316c2b1",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a020b7c8c316c2b1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/skomrzgc97nk",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/yu4psvl51mb4",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/cb497aefa53dd105",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb497aefa53dd105/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/9ehaju2v3x9k",
+          "malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_sub": "https://playmogo.com/e/d5xw9z6oychj",
+          "malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/563615dd5da19517",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/563615dd5da19517/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/ji638ub2c72n",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/f167054ce4f3efe6",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f167054ce4f3efe6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/1b4uk9odkrof",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/50ucbjjaolvl",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "People of the Moon",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/946f2fc20b7e18b5",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/946f2fc20b7e18b5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/yoaumg2zb66m",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/1d20229e347eed21",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1d20229e347eed21/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/wj9vi81z181h",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/a5cef3d6f4b94be2",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a5cef3d6f4b94be2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/i3zgwikxbna8",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/c7qnkrtbzqti",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Mary",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/747622b4cc1e1509",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/747622b4cc1e1509/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/40rv6b187o4y",
+          "malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_sub": "https://playmogo.com/e/3j1w0ex2jb3r",
+          "malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/34a9bd9a33833a9a",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/34a9bd9a33833a9a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/rapbmlgkqwz7",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/37476c4595a30558",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37476c4595a30558/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/nhcfi8kitbt2",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/079urppc5wso",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Unchanging Feelings",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/665183ae98a5540a",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/665183ae98a5540a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/jkmv4sso1gyg",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/4f4d1226afeeff02",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4f4d1226afeeff02/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/8a3uunv4sb0t",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/efc6793427bdec28",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/efc6793427bdec28/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/vwmq8mrk9uai",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/azplm50ps2pt",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pursuit",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/d55a56f3bd905a50",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d55a56f3bd905a50/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/xp6rmhugqxf8",
+          "malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_sub": "https://playmogo.com/e/toei97fseks0",
+          "malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/f1ec2804546ba51a",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f1ec2804546ba51a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/fh1gcqjrqeq3",
+          "malep-10_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_dub": "https://playmogo.com/e/e4msaqj68v08",
+          "malep-10_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/f25ccc2ed0aba32c",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f25ccc2ed0aba32c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/cpasma6zbj8f",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/msmm458u7ocx",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/03c9701ed4b31b60",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/03c9701ed4b31b60/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/n8acx3ycbrnk",
+          "malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_sub": "https://playmogo.com/e/d8304b8hf3i8",
+          "malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/66ec62d96550fe53",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/66ec62d96550fe53/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/65hg5gi4sc1o",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/9cd601373cb865f1",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9cd601373cb865f1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/5nk97c38utf7",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/6y4yoyzhpbkk",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Falling Shadows",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/73ecbe7d8627dbcb",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73ecbe7d8627dbcb/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/4v1h3oqqwjhm",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/6a210a629bdd4542",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6a210a629bdd4542/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/941hucdpe7ol",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/0f7335b32bf5d863",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f7335b32bf5d863/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/72v25ksuv0hk",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/jl13q7agx2w6",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Parting",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/100f3cc6e465ca91",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/100f3cc6e465ca91/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/142dfqrsf5hh",
+          "malep-13_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_sub": "https://playmogo.com/e/6obpwxy1w3z9",
+          "malep-13_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/5c4b580b5aa1e647",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5c4b580b5aa1e647/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/ba0p0kfzbza8",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/5798e40a17bcd48c",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5798e40a17bcd48c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/iskb8kzy52nv",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/c1wqfhi1vtkn",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Past and Reality",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-14",
+      "sub": {
+        "HD-1": {
+          "malep-14_vibeplayer_sub": "https://vibeplayer.site/e44ffdbcb1e65e4c",
+          "malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e44ffdbcb1e65e4c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_sub": "https://otakuvid.online/embed/amb5d4l1coah",
+          "malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-14_vibeplayer_dub": "https://vibeplayer.site/451d47de1fa6fc1a",
+          "malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/451d47de1fa6fc1a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_dub": "https://otakuvid.online/embed/aa4lmhkh994g",
+          "malep-14_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_dub": "https://playmogo.com/e/66om7obfahrw",
+          "malep-14_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-14_vibeplayer_hsub": "https://vibeplayer.site/13b0157125a74009",
+          "malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/13b0157125a74009/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-14_otakuvid_hsub": "https://otakuvid.online/embed/0gxmqxn15cd5",
+          "malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-14_playmogo_hsub": "https://playmogo.com/e/7bskcfxnfyck",
+          "malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Expectations",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-15",
+      "sub": {
+        "HD-1": {
+          "malep-15_vibeplayer_sub": "https://vibeplayer.site/a5745951f96dfce4",
+          "malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a5745951f96dfce4/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_sub": "https://otakuvid.online/embed/lx7lxi796ehx",
+          "malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-15_vibeplayer_dub": "https://vibeplayer.site/5e7ac937d66cdc3b",
+          "malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e7ac937d66cdc3b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_dub": "https://otakuvid.online/embed/6nwpd6txcr5n",
+          "malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-15_vibeplayer_hsub": "https://vibeplayer.site/f8e127a6be753cfd",
+          "malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8e127a6be753cfd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-15_otakuvid_hsub": "https://otakuvid.online/embed/lfxkmy5pur6b",
+          "malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-15_playmogo_hsub": "https://playmogo.com/e/hwy3l9hlfk15",
+          "malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reminiscence",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-16",
+      "sub": {
+        "HD-1": {
+          "malep-16_vibeplayer_sub": "https://vibeplayer.site/27180a8f764f7130",
+          "malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/27180a8f764f7130/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_sub": "https://otakuvid.online/embed/lxgj4c634iw9",
+          "malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-16_vibeplayer_dub": "https://vibeplayer.site/3ab4661c60d7468b",
+          "malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3ab4661c60d7468b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_dub": "https://otakuvid.online/embed/rk8u457z6zss",
+          "malep-16_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_dub": "https://playmogo.com/e/9vjdd68j3o38",
+          "malep-16_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-16_vibeplayer_hsub": "https://vibeplayer.site/5c0b72cd0fbc30a3",
+          "malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c0b72cd0fbc30a3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-16_otakuvid_hsub": "https://otakuvid.online/embed/b96mfqja4gbv",
+          "malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-16_playmogo_hsub": "https://playmogo.com/e/wtvkwke125xj",
+          "malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Domination",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-17",
+      "sub": {
+        "HD-1": {
+          "malep-17_vibeplayer_sub": "https://vibeplayer.site/5df70b0f86453761",
+          "malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5df70b0f86453761/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_sub": "https://otakuvid.online/embed/d7xwltym4ffn",
+          "malep-17_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_sub": "https://playmogo.com/e/gyz5o9qjb3wd",
+          "malep-17_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-17_vibeplayer_dub": "https://vibeplayer.site/bd2ac76b3f119b4f",
+          "malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bd2ac76b3f119b4f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_dub": "https://otakuvid.online/embed/awfma5fcfj8p",
+          "malep-17_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_dub": "https://playmogo.com/e/ov8h9r166vzu",
+          "malep-17_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-17_vibeplayer_hsub": "https://vibeplayer.site/54465db73504f996",
+          "malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54465db73504f996/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-17_otakuvid_hsub": "https://otakuvid.online/embed/7a2eu8hc8xg3",
+          "malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-17_playmogo_hsub": "https://playmogo.com/e/p46fsoo1ao1e",
+          "malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Carry On Your Will",
+      "episode_url": "https://hianime.ad/watch/moonrise/ep-18",
+      "sub": {
+        "HD-1": {
+          "malep-18_vibeplayer_sub": "https://vibeplayer.site/f0b1bd6590e4bbcf",
+          "malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0b1bd6590e4bbcf/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_sub": "https://otakuvid.online/embed/hah9dwqy44ey",
+          "malep-18_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_sub": "https://playmogo.com/e/q2dxmk6ofuh4",
+          "malep-18_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-18_vibeplayer_dub": "https://vibeplayer.site/d2ad5fae6c572b75",
+          "malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d2ad5fae6c572b75/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_dub": "https://otakuvid.online/embed/dsmuizpq8ak6",
+          "malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-18_vibeplayer_hsub": "https://vibeplayer.site/37da7a9529a2a499",
+          "malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37da7a9529a2a499/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-18_otakuvid_hsub": "https://otakuvid.online/embed/6zbjmbmwlmj1",
+          "malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-18_playmogo_hsub": "https://playmogo.com/e/w830ntqwwbzi",
+          "malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
