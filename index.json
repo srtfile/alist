@@ -24998,5 +24998,15 @@
     "captured_at": "2026-06-17T17:52:53",
     "file": "data-5/mushi-shi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mushi-shi.json"
+  },
+  {
+    "slug": "mushi-uta",
+    "mal_id": 2603,
+    "anime_name": "Mushi Uta",
+    "anime_url": "https://hianime.ad/anime/mushi-uta",
+    "total_episodes": 12,
+    "captured_at": "2026-06-17T17:53:34",
+    "file": "data-5/mushi-uta.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mushi-uta.json"
   }
 ]
