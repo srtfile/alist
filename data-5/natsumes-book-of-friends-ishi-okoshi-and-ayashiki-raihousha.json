@@ -1,0 +1,85 @@
+{
+  "anime_name": "Natsumes Book Of Friends Ishi Okoshi And Ayashiki Raihousha",
+  "anime_url": "https://hianime.ad/anime/natsumes-book-of-friends-ishi-okoshi-and-ayashiki-raihousha",
+  "slug": "natsumes-book-of-friends-ishi-okoshi-and-ayashiki-raihousha",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-17T19:30:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ishi Okoshi",
+      "episode_url": "https://hianime.ad/watch/natsumes-book-of-friends-ishi-okoshi-and-ayashiki-raihousha/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/4c21db542b494570",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c21db542b494570/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/r5rrdnulgugw",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/tb515cqi0k45",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/9ba95274b42daaca",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9ba95274b42daaca/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/w3iuct3ki4qb",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1hhqlcnzhb07",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/d1l1adwqijyo",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ayashiki Raihousha",
+      "episode_url": "https://hianime.ad/watch/natsumes-book-of-friends-ishi-okoshi-and-ayashiki-raihousha/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/5fa3ac49dcb75a72",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fa3ac49dcb75a72/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/v16q66aiv14z",
+          "malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_sub": "https://playmogo.com/e/8reawkhopw17",
+          "malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/c5c5ddc65fb2a035",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5c5ddc65fb2a035/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/pc0mw0m1i0l1",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/mnlyhv2bvqt3",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/o978jxxnk0jt",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
