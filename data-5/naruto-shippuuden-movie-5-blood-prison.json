@@ -1,0 +1,49 @@
+{
+  "anime_name": "Naruto Shippuuden Movie 5 Blood Prison",
+  "anime_url": "https://hianime.ad/anime/naruto-shippuuden-movie-5-blood-prison",
+  "slug": "naruto-shippuuden-movie-5-blood-prison",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:22:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/naruto-shippuuden-movie-5-blood-prison/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/67c2c44c3002254c",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/67c2c44c3002254c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/pmrsmxo4wxiq",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/0kqnbdhs8eat",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/db5acacd09622ba9",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/db5acacd09622ba9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_raw": "https://otakuhg.site/e/3cw3tqwzygwy",
+          "malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/qqccy46ap8ok",
+          "malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_raw": "https://playmogo.com/e/q4i89fh6ejle",
+          "malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
