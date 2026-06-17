@@ -1,0 +1,496 @@
+{
+  "anime_name": "Nobunagun",
+  "anime_url": "https://hianime.ad/anime/nobunagun",
+  "slug": "nobunagun",
+  "mal_id": null,
+  "total_episodes": 13,
+  "captured_at": "2026-06-17T20:40:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Oda Nobunaga",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/509b2a276136bb25",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/509b2a276136bb25/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/g6us5dnys0e8",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/20afd29d22c8090c",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/20afd29d22c8090c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/5yimjlq1il0c",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/38a8af8bfa3d6069",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/38a8af8bfa3d6069/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jb0hsztmxzhq",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/i56wlpv0z1qt",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Evolutionary Invasion Objects",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/0652aac608cabe0a",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0652aac608cabe0a/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/jn75z95r7p3h",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/7294763996bb608e",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7294763996bb608e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/4ayhxuuosbjb",
+          "malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/1e5edb96aec7814b",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e5edb96aec7814b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/qsl8ma6gicbv",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/tqqzlo0u0sk0",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/eu8hmt2vebdj",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Capa's Island",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/a975ab26dc621a30",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a975ab26dc621a30/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/y128cvhm6fnr",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/13ebc038fc79571c",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/13ebc038fc79571c/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/76o7czxb9x4f",
+          "malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/27b1690b16086aa9",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/27b1690b16086aa9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/upy6jdcoblxp",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/24lk7u0rn62q",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hurricane",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/dc3b232919bbedbe",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc3b232919bbedbe/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/z9mrvxq92iz4",
+          "malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/eef1f6f2d1c2e73d",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eef1f6f2d1c2e73d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/2or3183xasa2",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/6ae5e48414ca483f",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6ae5e48414ca483f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/tseeh8hlogd4",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/yjac5n3dziwp",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Second Platoon",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/6121821b1acee59d",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6121821b1acee59d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/y02xqhrhl617",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/2c86739ecdedb88b",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2c86739ecdedb88b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/rf9weyhelul4",
+          "malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/55149d6ca57ecc43",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55149d6ca57ecc43/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/vpyoprpo5v5v",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/ant7pbcs859y",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Monster Meat",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/9681f07c7f332763",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9681f07c7f332763/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/7bixqpo73pff",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/54cc790c242d1940",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/54cc790c242d1940/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/0ggrrxvkbjfk",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/5ebdb2f8a680f750",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5ebdb2f8a680f750/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/sfeg1pcqs5hc",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/d6k9bx1g8cvp",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Musashi Wonder",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/acc84f6021e039af",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/acc84f6021e039af/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/ze0tgmjc89vi",
+          "malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/8aacd4ee309bbdc2",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8aacd4ee309bbdc2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/21jwrdfo04p6",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/8dbabd4f86ec9607",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8dbabd4f86ec9607/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/dt69ji4e27cg",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/m7zs4c5z0xe0",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tunnel",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/3f2ae5f2d689dc63",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f2ae5f2d689dc63/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/6pt0d9jf9ngd",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/4c709cfec8d6e65f",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4c709cfec8d6e65f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/blkxxv2r4vhz",
+          "malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/519c7785297872e2",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/519c7785297872e2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/g6xovrnshzfl",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/t68k7ankse8h",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sio and Kaoru",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/cedf2ed66f9366d0",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cedf2ed66f9366d0/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/a9l34n4qom8q",
+          "malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/0a03bbe58645fa6e",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0a03bbe58645fa6e/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/jdravf7ck0mr",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/646ba16b849c64ed",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/646ba16b849c64ed/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/wrn43asmba2v",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/ho90vcz9h8rl",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dogoo",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/cf18f10fd4affb01",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf18f10fd4affb01/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/cn6c5tbkn12y",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/3e3cec8492f559dd",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3e3cec8492f559dd/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/empi54auzjhb",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Operation Stone Forest, Part 1",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/36ae84f072508e85",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36ae84f072508e85/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/fxuajmgjr4np",
+          "malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/94e804c3afb617c5",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/94e804c3afb617c5/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/elmep9x65uez",
+          "malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/7037cbddbf31d7be",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7037cbddbf31d7be/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/oknrsvdhq4p0",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/0718w3qxu9kj",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Operation Stone Forest, Part 2",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/f066dfe859e5ab8f",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f066dfe859e5ab8f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/x2msgluarmq8",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/d50962c7a07edcf1",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d50962c7a07edcf1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/nzbp5eh03a6v",
+          "malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/8400a04208a8685b",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8400a04208a8685b/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/emwacca58izr",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/xx4i7icolnvd",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Nobunagun",
+      "episode_url": "https://hianime.ad/watch/nobunagun/ep-13",
+      "sub": {
+        "HD-1": {
+          "malep-13_vibeplayer_sub": "https://vibeplayer.site/778668fd5bd048f1",
+          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/778668fd5bd048f1/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/zz4lsh6ujt75",
+          "malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-13_vibeplayer_dub": "https://vibeplayer.site/2a55528f44dd9476",
+          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2a55528f44dd9476/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/ty0rcujclr18",
+          "malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-13_vibeplayer_hsub": "https://vibeplayer.site/981cf0429cd7bfc3",
+          "malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/981cf0429cd7bfc3/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-13_otakuvid_hsub": "https://otakuvid.online/embed/moqomkizgxc5",
+          "malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-13_playmogo_hsub": "https://playmogo.com/e/pms1ujjxfkd4",
+          "malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
