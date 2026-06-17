@@ -1,0 +1,95 @@
+{
+  "anime_name": "No Money",
+  "anime_url": "https://hianime.ad/anime/no-money",
+  "slug": "no-money",
+  "mal_id": null,
+  "total_episodes": 4,
+  "captured_at": "2026-06-17T20:33:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/no-money/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-1_vibeplayer_raw": "https://vibeplayer.site/15acba452de7e5ad",
+          "malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/15acba452de7e5ad/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_raw": "https://otakuhg.site/e/eovhudd0jrxw",
+          "malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_raw": "https://otakuvid.online/embed/4xhn9ytb9upb",
+          "malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/no-money/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-2_vibeplayer_raw": "https://vibeplayer.site/0beda3d84128e844",
+          "malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/0beda3d84128e844/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_raw": "https://otakuhg.site/e/2puzk09t4u0z",
+          "malep-2_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_raw": "https://otakuvid.online/embed/ijzd4yi8ymz7",
+          "malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/no-money/ep-3",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-3_vibeplayer_raw": "https://vibeplayer.site/ed6085df808ff63a",
+          "malep-3_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ed6085df808ff63a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_raw": "https://otakuhg.site/e/5fp5iiyzogxb",
+          "malep-3_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_raw": "https://otakuvid.online/embed/jpxxnh1riy69",
+          "malep-3_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/no-money/ep-4",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "malep-4_vibeplayer_raw": "https://vibeplayer.site/4798bd07249e08c5",
+          "malep-4_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/4798bd07249e08c5/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_raw": "https://otakuhg.site/e/5clgy3duh5xn",
+          "malep-4_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_raw": "https://otakuvid.online/embed/dt14aupv5rjv",
+          "malep-4_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
