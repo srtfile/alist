@@ -1,0 +1,52 @@
+{
+  "anime_name": "Noblesse Pamyeol Ui Sijak",
+  "anime_url": "https://hianime.ad/anime/noblesse-pamyeol-ui-sijak",
+  "slug": "noblesse-pamyeol-ui-sijak",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T20:37:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/noblesse-pamyeol-ui-sijak/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/e94c4df1c9705141",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e94c4df1c9705141/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/uojplkq2kh1g",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/z4dzxi9qp27j",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/cmkw09593oxm",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a189ec907c438773",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a189ec907c438773/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/epq04hxu4b6y",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f7rjp6b1jd8x",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/k92tihjvn8nz",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
