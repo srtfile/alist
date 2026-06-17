@@ -598,5 +598,15 @@
     "captured_at": "2026-06-17T21:31:24",
     "file": "data-5/mission-yozakura-family-season-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mission-yozakura-family-season-2.json"
+  },
+  {
+    "slug": "mistin",
+    "mal_id": 27721,
+    "anime_name": "Mistin",
+    "anime_url": "https://hianime.ad/anime/mistin",
+    "total_episodes": 26,
+    "captured_at": "2026-06-17T21:31:42",
+    "file": "data-5/mistin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mistin.json"
   }
 ]
