@@ -368,5 +368,15 @@
     "captured_at": "2026-06-17T21:23:35",
     "file": "data-5/mirage-queen-aime-cirque.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mirage-queen-aime-cirque.json"
+  },
+  {
+    "slug": "mirai",
+    "mal_id": 54717,
+    "anime_name": "Mirai",
+    "anime_url": "https://hianime.ad/anime/mirai",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T21:23:46",
+    "file": "data-5/mirai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mirai.json"
   }
 ]
