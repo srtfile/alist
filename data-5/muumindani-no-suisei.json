@@ -1,0 +1,44 @@
+{
+  "anime_name": "Muumindani No Suisei",
+  "anime_url": "https://hianime.ad/anime/muumindani-no-suisei",
+  "slug": "muumindani-no-suisei",
+  "mal_id": 16524,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:01:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Castaway",
+      "episode_url": "https://hianime.ad/watch/muumindani-no-suisei/ep-1",
+      "sub": {
+        "HD-1": {
+          "16524-malep-1_vibeplayer_sub": "https://vibeplayer.site/61a3cf979549fbd2",
+          "16524-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61a3cf979549fbd2/master.m3u8"
+        },
+        "Earnvids": {
+          "16524-malep-1_otakuvid_sub": "https://otakuvid.online/embed/djb05fxvvlff",
+          "16524-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "16524-malep-1_vibeplayer_hsub": "https://vibeplayer.site/629faa67fe51a53d",
+          "16524-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/629faa67fe51a53d/master.m3u8"
+        },
+        "StreamHG": {
+          "16524-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8cfdjm923bjr",
+          "16524-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16524-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6dnz4rfsuizj",
+          "16524-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16524-malep-1_playmogo_hsub": "https://playmogo.com/e/k4ebyu0d2ckf",
+          "16524-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
