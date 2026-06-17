@@ -1,0 +1,65 @@
+{
+  "anime_name": "Mobile Suit Gundam Seed Freedom",
+  "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-seed-freedom",
+  "slug": "mobile-suit-gundam-seed-freedom",
+  "mal_id": 93,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:41:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "False Peace",
+      "episode_url": "https://hianime.ad/watch/mobile-suit-gundam-seed-freedom/ep-1",
+      "sub": {
+        "HD-1": {
+          "93-malep-1_vibeplayer_sub": "https://vibeplayer.site/4d6429496c6730f6",
+          "93-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d6429496c6730f6/master.m3u8"
+        },
+        "StreamHG": {
+          "93-malep-1_otakuhg_sub": "https://otakuhg.site/e/6kcvw2cq3spt",
+          "93-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "93-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mns2m07ps7ir",
+          "93-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "93-malep-1_playmogo_sub": "https://playmogo.com/e/wt8v0ipuupcr",
+          "93-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "93-malep-1_vibeplayer_dub": "https://vibeplayer.site/3f8a7e193f38fe50",
+          "93-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f8a7e193f38fe50/master.m3u8"
+        },
+        "StreamHG": {
+          "93-malep-1_otakuhg_dub": "https://otakuhg.site/e/14ib3bfh4fti",
+          "93-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "93-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nc6ssa7q867f",
+          "93-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "93-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3aab06d3225b4678",
+          "93-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3aab06d3225b4678/master.m3u8"
+        },
+        "StreamHG": {
+          "93-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rbexojpq7zbi",
+          "93-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "93-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l8ryddop01o6",
+          "93-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "93-malep-1_playmogo_hsub": "https://playmogo.com/e/qmxrrwrodpva",
+          "93-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
