@@ -1,0 +1,57 @@
+{
+  "anime_name": "My Neighbors The Yamadas",
+  "anime_url": "https://hianime.ad/anime/my-neighbors-the-yamadas",
+  "slug": "my-neighbors-the-yamadas",
+  "mal_id": 14227,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T18:34:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sitting Next to Yoshida-kun",
+      "episode_url": "https://hianime.ad/watch/my-neighbors-the-yamadas/ep-1",
+      "sub": {
+        "HD-1": {
+          "14227-malep-1_vibeplayer_sub": "https://vibeplayer.site/bcf0c8fedce602c5",
+          "14227-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bcf0c8fedce602c5/master.m3u8"
+        },
+        "StreamHG": {
+          "14227-malep-1_otakuhg_sub": "https://otakuhg.site/e/l8vtwqpy3uc3",
+          "14227-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14227-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3a2d00exabsx",
+          "14227-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14227-malep-1_vibeplayer_dub": "https://vibeplayer.site/f0ff4ae60641b727",
+          "14227-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f0ff4ae60641b727/master.m3u8"
+        },
+        "Earnvids": {
+          "14227-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2odakfil25yp",
+          "14227-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14227-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f029f1769b590fde",
+          "14227-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f029f1769b590fde/master.m3u8"
+        },
+        "StreamHG": {
+          "14227-malep-1_otakuhg_hsub": "https://otakuhg.site/e/juzhea28r0rz",
+          "14227-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14227-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ohkbpvko5nuj",
+          "14227-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14227-malep-1_playmogo_hsub": "https://playmogo.com/e/x8dq0vyxqkwc",
+          "14227-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
