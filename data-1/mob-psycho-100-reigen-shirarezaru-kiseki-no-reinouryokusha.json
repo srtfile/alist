@@ -1,0 +1,48 @@
+{
+  "anime_name": "Mob Psycho 100 Reigen Shirarezaru Kiseki No Reinouryokusha",
+  "anime_url": "https://hianime.ad/anime/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha",
+  "slug": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha",
+  "mal_id": 32182,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T16:25:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Self-Proclaimed Psychic Reigen Arataka: And Mob",
+      "episode_url": "https://hianime.ad/watch/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha/ep-1",
+      "sub": {
+        "HD-1": {
+          "32182-malep-1_vibeplayer_sub": "https://vibeplayer.site/78a5d2d4720574b5",
+          "32182-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/78a5d2d4720574b5/master.m3u8"
+        },
+        "StreamHG": {
+          "32182-malep-1_otakuhg_sub": "https://otakuhg.site/e/7upt3nge3lss",
+          "32182-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32182-malep-1_otakuvid_sub": "https://otakuvid.online/embed/towmnedem4wn",
+          "32182-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32182-malep-1_vibeplayer_hsub": "https://vibeplayer.site/596e116588132b12",
+          "32182-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/596e116588132b12/master.m3u8"
+        },
+        "StreamHG": {
+          "32182-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j3idjcrowyvx",
+          "32182-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32182-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hveubjlvevzi",
+          "32182-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32182-malep-1_playmogo_hsub": "https://playmogo.com/e/d3yfoewle4oy",
+          "32182-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
