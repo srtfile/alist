@@ -1,0 +1,40 @@
+{
+  "anime_name": "Musashi The Dream Of The Last Samurai",
+  "anime_url": "https://hianime.ad/anime/musashi-the-dream-of-the-last-samurai",
+  "slug": "musashi-the-dream-of-the-last-samurai",
+  "mal_id": 1200,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T17:50:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "full",
+      "episode_url": "https://hianime.ad/watch/musashi-the-dream-of-the-last-samurai/ep-1",
+      "sub": {
+        "HD-1": {
+          "1200-malep-1_vibeplayer_sub": "https://vibeplayer.site/b19fcc25dd3ce873",
+          "1200-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b19fcc25dd3ce873/master.m3u8"
+        },
+        "Earnvids": {
+          "1200-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o7ro3mqu3sb8",
+          "1200-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1200-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e00341f48fa8bdb6",
+          "1200-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e00341f48fa8bdb6/master.m3u8"
+        },
+        "Earnvids": {
+          "1200-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/82detkpgob1f",
+          "1200-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1200-malep-1_playmogo_hsub": "https://playmogo.com/e/jo8d7nn5cpng",
+          "1200-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
