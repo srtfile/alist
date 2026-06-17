@@ -27118,5 +27118,15 @@
     "captured_at": "2026-06-17T19:31:41",
     "file": "data-5/nazotokine.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nazotokine.json"
+  },
+  {
+    "slug": "ne-zha",
+    "mal_id": null,
+    "anime_name": "Ne Zha",
+    "anime_url": "https://hianime.ad/anime/ne-zha",
+    "total_episodes": 1,
+    "captured_at": "2026-06-17T19:32:08",
+    "file": "data-5/ne-zha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ne-zha.json"
   }
 ]
