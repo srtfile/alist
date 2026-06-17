@@ -1,0 +1,61 @@
+{
+  "anime_name": "Nande Koko Ni Sensei Ga Special",
+  "anime_url": "https://hianime.ad/anime/nande-koko-ni-sensei-ga-special",
+  "slug": "nande-koko-ni-sensei-ga-special",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:14:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/nande-koko-ni-sensei-ga-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/cacebd744c55b3ab",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cacebd744c55b3ab/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/f4j2emz4dlrc",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/qass2jksffw7",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/64f0c46d1c0a6ab4",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/64f0c46d1c0a6ab4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/qsboudkd5e1c",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/v9l0ngmqvpe8",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/9c6d4750ac853063",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9c6d4750ac853063/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/f1lvbej4yxdw",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h0thvcyc3bxk",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/aet6zdwot7xz",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
