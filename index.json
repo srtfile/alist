@@ -988,5 +988,15 @@
     "captured_at": "2026-06-17T22:31:01",
     "file": "data-5/mobile-suit-gundam-0083-the-afterglow-of-zeon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-0083-the-afterglow-of-zeon.json"
+  },
+  {
+    "slug": "mobile-suit-gundam-age",
+    "mal_id": 10808,
+    "anime_name": "Mobile Suit Gundam Age",
+    "anime_url": "https://hianime.ad/anime/mobile-suit-gundam-age",
+    "total_episodes": 49,
+    "captured_at": "2026-06-17T22:31:12",
+    "file": "data-5/mobile-suit-gundam-age.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mobile-suit-gundam-age.json"
   }
 ]
