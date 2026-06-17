@@ -1,0 +1,48 @@
+{
+  "anime_name": "Natsume Yujin Cho The Movie Ephemeral Bond",
+  "anime_url": "https://hianime.ad/anime/natsume-yujin-cho-the-movie-ephemeral-bond",
+  "slug": "natsume-yujin-cho-the-movie-ephemeral-bond",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T19:25:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/natsume-yujin-cho-the-movie-ephemeral-bond/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b2f43abf4d6d8b50",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2f43abf4d6d8b50/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/6x9hb2szhf96",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dbf8afwf1kkd",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/556aee92e9a594f0",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/556aee92e9a594f0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/omfgi39n6tsu",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ibu27iqnc4me",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/sj17jwq2j36f",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
