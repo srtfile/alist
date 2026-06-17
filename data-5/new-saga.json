@@ -1,0 +1,651 @@
+{
+  "anime_name": "New Saga",
+  "anime_url": "https://hianime.ad/anime/new-saga",
+  "slug": "new-saga",
+  "mal_id": null,
+  "total_episodes": 12,
+  "captured_at": "2026-06-17T19:51:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'll Change My Fate",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/91957e6c935ac2ed",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/91957e6c935ac2ed/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/guu75yiobmrl",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/4w1slhhmw0rr",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/248222d5f188cb9f",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/248222d5f188cb9f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/mrga4ds3vy3c",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/u8ty9zuvgilc",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/9d4e6fe94e19d5b9",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9d4e6fe94e19d5b9/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/spd4upvaotn9",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w8mfu7zbwubq",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/82joa6zphcck",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Hero's Conditions",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/d8afe612aca55a9b",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8afe612aca55a9b/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_sub": "https://otakuhg.site/e/s71hj672vifp",
+          "malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/q0z4ogs1dyu1",
+          "malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_sub": "https://playmogo.com/e/uq2b3cfc43md",
+          "malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-2_vibeplayer_dub": "https://vibeplayer.site/05257d61f9015946",
+          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/05257d61f9015946/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_dub": "https://otakuhg.site/e/muie030da855",
+          "malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/yp6nda7tnr7f",
+          "malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_dub": "https://playmogo.com/e/db01h27hccs1",
+          "malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/43c1a3d73b752f57",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/43c1a3d73b752f57/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-2_otakuhg_hsub": "https://otakuhg.site/e/j6tv7pelomzd",
+          "malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/a16aog4h01t7",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/n21lp1003nvl",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Application of the Contract",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-3",
+      "sub": {
+        "HD-1": {
+          "malep-3_vibeplayer_sub": "https://vibeplayer.site/5ac6a4ae7c9bc647",
+          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5ac6a4ae7c9bc647/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_sub": "https://otakuhg.site/e/q7debd3n25vy",
+          "malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/sm1xj8ah3qrc",
+          "malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-3_vibeplayer_dub": "https://vibeplayer.site/a4ba787a1de9c63d",
+          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a4ba787a1de9c63d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_dub": "https://otakuhg.site/e/dwqhx67awbuv",
+          "malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/3ruruuaeqswf",
+          "malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_dub": "https://playmogo.com/e/0mlkfbtnyl2f",
+          "malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-3_vibeplayer_hsub": "https://vibeplayer.site/1c5b3dfe337ca613",
+          "malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c5b3dfe337ca613/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-3_otakuhg_hsub": "https://otakuhg.site/e/cyu6ersw0ihq",
+          "malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-3_otakuvid_hsub": "https://otakuvid.online/embed/j1k4nw90et1m",
+          "malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-3_playmogo_hsub": "https://playmogo.com/e/g6chx0wmcv7r",
+          "malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Perfect Start to a Heroic Tale",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-4",
+      "sub": {
+        "HD-1": {
+          "malep-4_vibeplayer_sub": "https://vibeplayer.site/52e45052dd6325f4",
+          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/52e45052dd6325f4/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_sub": "https://otakuhg.site/e/d839dnt62f35",
+          "malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/zck1phik9tsz",
+          "malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_sub": "https://playmogo.com/e/x7pxjl1fjx0s",
+          "malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-4_vibeplayer_dub": "https://vibeplayer.site/f9fd8031aeb51881",
+          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f9fd8031aeb51881/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_dub": "https://otakuhg.site/e/2ee5f7q579rf",
+          "malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/8seg24tsvzn8",
+          "malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-4_vibeplayer_hsub": "https://vibeplayer.site/438ee48aec023d25",
+          "malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/438ee48aec023d25/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-4_otakuhg_hsub": "https://otakuhg.site/e/8lax4nx9dk2i",
+          "malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-4_otakuvid_hsub": "https://otakuvid.online/embed/0v74r4r0yqpw",
+          "malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-4_playmogo_hsub": "https://playmogo.com/e/3ajn23ymdcib",
+          "malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reunion At Dawn",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-5",
+      "sub": {
+        "HD-1": {
+          "malep-5_vibeplayer_sub": "https://vibeplayer.site/f59af71f5f2856a7",
+          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f59af71f5f2856a7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_sub": "https://otakuhg.site/e/5a1urzfxkvko",
+          "malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/7z9rg8hoba6p",
+          "malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-5_vibeplayer_dub": "https://vibeplayer.site/dc6d648237a18981",
+          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dc6d648237a18981/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_dub": "https://otakuhg.site/e/7da1zewg5sw4",
+          "malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/nm3ymkdz7wrs",
+          "malep-5_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_dub": "https://playmogo.com/e/yjtz1r0xgbr4",
+          "malep-5_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-5_vibeplayer_hsub": "https://vibeplayer.site/a4537d2ba6766ac1",
+          "malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a4537d2ba6766ac1/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-5_otakuhg_hsub": "https://otakuhg.site/e/xalnn5fket3g",
+          "malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-5_otakuvid_hsub": "https://otakuvid.online/embed/4hss36oksizp",
+          "malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-5_playmogo_hsub": "https://playmogo.com/e/qlfo5zfci6eb",
+          "malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Brothers In Arms",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-6",
+      "sub": {
+        "HD-1": {
+          "malep-6_vibeplayer_sub": "https://vibeplayer.site/22431bba8d7f61d8",
+          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/22431bba8d7f61d8/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_sub": "https://otakuhg.site/e/hgg8vrhr2ler",
+          "malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/qwhfb32f01xe",
+          "malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-6_vibeplayer_dub": "https://vibeplayer.site/9493026bc341a226",
+          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9493026bc341a226/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_dub": "https://otakuhg.site/e/sx5ba06haynx",
+          "malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/ar6fuyqaoaut",
+          "malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-6_vibeplayer_hsub": "https://vibeplayer.site/d1374e590593ebb6",
+          "malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d1374e590593ebb6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-6_otakuhg_hsub": "https://otakuhg.site/e/ixlu51609x82",
+          "malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-6_otakuvid_hsub": "https://otakuvid.online/embed/oh3hqgej2r7i",
+          "malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-6_playmogo_hsub": "https://playmogo.com/e/dgw6isvbuqz9",
+          "malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To The Blacksmith's Nation",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-7",
+      "sub": {
+        "HD-1": {
+          "malep-7_vibeplayer_sub": "https://vibeplayer.site/91c520e2ffdb9113",
+          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/91c520e2ffdb9113/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_sub": "https://otakuhg.site/e/jsy5szeg4j1j",
+          "malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/ebr6nis2jrkc",
+          "malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_sub": "https://playmogo.com/e/wtl1wuihubwe",
+          "malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-7_vibeplayer_dub": "https://vibeplayer.site/2c44a79de7eff501",
+          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2c44a79de7eff501/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_dub": "https://otakuhg.site/e/hnuha35od501",
+          "malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/pem6z3xr1z8p",
+          "malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-7_vibeplayer_hsub": "https://vibeplayer.site/fe1efc996dfff0a0",
+          "malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe1efc996dfff0a0/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-7_otakuhg_hsub": "https://otakuhg.site/e/enphnroiwczd",
+          "malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ldohri6hcl9r",
+          "malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-7_playmogo_hsub": "https://playmogo.com/e/wlrup4q14d74",
+          "malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Those Who Act Out of Sight",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-8",
+      "sub": {
+        "HD-1": {
+          "malep-8_vibeplayer_sub": "https://vibeplayer.site/f7b0fb71ee9f67d7",
+          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f7b0fb71ee9f67d7/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_sub": "https://otakuhg.site/e/g5tm2envof3l",
+          "malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/ef3s4zjxff32",
+          "malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-8_vibeplayer_dub": "https://vibeplayer.site/a6994b6d6d47dd8c",
+          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a6994b6d6d47dd8c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-8_otakuhg_dub": "https://otakuhg.site/e/u195zpsohzng",
+          "malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/qymi06zmccvq",
+          "malep-8_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_dub": "https://playmogo.com/e/eom9h11tw3ni",
+          "malep-8_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-8_vibeplayer_hsub": "https://vibeplayer.site/aff98a8abec4dd2d",
+          "malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aff98a8abec4dd2d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-8_otakuvid_hsub": "https://otakuvid.online/embed/hfcj2ocipzef",
+          "malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-8_playmogo_hsub": "https://playmogo.com/e/0wsjuu4to46v",
+          "malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hidden Ambitions",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-9",
+      "sub": {
+        "HD-1": {
+          "malep-9_vibeplayer_sub": "https://vibeplayer.site/9b3f663d1523141a",
+          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9b3f663d1523141a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_sub": "https://otakuhg.site/e/d1v6g4nd54x2",
+          "malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/uyf6i80x7gsp",
+          "malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_sub": "https://playmogo.com/e/bvxm5q0r25an",
+          "malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-9_vibeplayer_dub": "https://vibeplayer.site/9f59311e05109694",
+          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9f59311e05109694/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_dub": "https://otakuhg.site/e/f2sr4jutmzc3",
+          "malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/diml0laeh4sm",
+          "malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-9_vibeplayer_hsub": "https://vibeplayer.site/699ba9b1fd256f0a",
+          "malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/699ba9b1fd256f0a/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-9_otakuhg_hsub": "https://otakuhg.site/e/ivjw7hzvcufm",
+          "malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-9_otakuvid_hsub": "https://otakuvid.online/embed/6gu7ydb27m3q",
+          "malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-9_playmogo_hsub": "https://playmogo.com/e/hh7zibwc0wkq",
+          "malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Duel",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-10",
+      "sub": {
+        "HD-1": {
+          "malep-10_vibeplayer_sub": "https://vibeplayer.site/4e803c32e7585c77",
+          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e803c32e7585c77/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_sub": "https://otakuhg.site/e/cumnbwl8vurs",
+          "malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/8o9sj68zizp7",
+          "malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-10_vibeplayer_dub": "https://vibeplayer.site/c92326a081d1d291",
+          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c92326a081d1d291/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_dub": "https://otakuhg.site/e/h2j4m9z9t2mj",
+          "malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/w8vkj28zrdee",
+          "malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-10_vibeplayer_hsub": "https://vibeplayer.site/48231ad9e1ec931f",
+          "malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/48231ad9e1ec931f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-10_otakuhg_hsub": "https://otakuhg.site/e/6j99mv15eozh",
+          "malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-10_otakuvid_hsub": "https://otakuvid.online/embed/bjwduss1yz10",
+          "malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-10_playmogo_hsub": "https://playmogo.com/e/io9p1db1ravh",
+          "malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Secret Red-Hot Strategy",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-11",
+      "sub": {
+        "HD-1": {
+          "malep-11_vibeplayer_sub": "https://vibeplayer.site/2988c2469a223832",
+          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2988c2469a223832/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_sub": "https://otakuhg.site/e/y6m0uhqj8wok",
+          "malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/f0yhpa7jd07l",
+          "malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_sub": "https://playmogo.com/e/ndcajyuxwk31",
+          "malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-11_vibeplayer_dub": "https://vibeplayer.site/2b2afea3c9cbaf2d",
+          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2b2afea3c9cbaf2d/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_dub": "https://otakuhg.site/e/g1tnerny45qf",
+          "malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/qk4j78gdx0b1",
+          "malep-11_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_dub": "https://playmogo.com/e/finmzwbuhq3j",
+          "malep-11_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-11_vibeplayer_hsub": "https://vibeplayer.site/fc3423fd9dce1b8c",
+          "malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc3423fd9dce1b8c/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-11_otakuhg_hsub": "https://otakuhg.site/e/gghan385t15s",
+          "malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-11_otakuvid_hsub": "https://otakuvid.online/embed/966s8a7wu5ms",
+          "malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-11_playmogo_hsub": "https://playmogo.com/e/bahsu5a967nv",
+          "malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Heroic Tale Continues",
+      "episode_url": "https://hianime.ad/watch/new-saga/ep-12",
+      "sub": {
+        "HD-1": {
+          "malep-12_vibeplayer_sub": "https://vibeplayer.site/0f942103f1c34397",
+          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f942103f1c34397/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_sub": "https://otakuhg.site/e/9if1wgm5wk6o",
+          "malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/eyxdkvwssvds",
+          "malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-12_vibeplayer_dub": "https://vibeplayer.site/f74b921510847a10",
+          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f74b921510847a10/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_dub": "https://otakuhg.site/e/j31q70tgikxk",
+          "malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/bm943rch6m82",
+          "malep-12_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_dub": "https://playmogo.com/e/67mmhf4ovmor",
+          "malep-12_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-12_vibeplayer_hsub": "https://vibeplayer.site/18c007cdb7c3a257",
+          "malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18c007cdb7c3a257/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-12_otakuhg_hsub": "https://otakuhg.site/e/sbhi4mbakgul",
+          "malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-12_otakuvid_hsub": "https://otakuvid.online/embed/d5m2p3cqs5ig",
+          "malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-12_playmogo_hsub": "https://playmogo.com/e/7hxkp9q14bd2",
+          "malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
