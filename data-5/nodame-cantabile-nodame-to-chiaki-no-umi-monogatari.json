@@ -1,0 +1,49 @@
+{
+  "anime_name": "Nodame Cantabile Nodame To Chiaki No Umi Monogatari",
+  "anime_url": "https://hianime.ad/anime/nodame-cantabile-nodame-to-chiaki-no-umi-monogatari",
+  "slug": "nodame-cantabile-nodame-to-chiaki-no-umi-monogatari",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-17T20:42:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/nodame-cantabile-nodame-to-chiaki-no-umi-monogatari/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/229be2ee87aab9a8",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/229be2ee87aab9a8/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/gbjjoeobu87w",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/be86a7031f0f2c99",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/be86a7031f0f2c99/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/8f44m3yzuvtx",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f2f930dfebef015d",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f2f930dfebef015d/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ny57pf0vxbjp",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/l794eh1w780w",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
