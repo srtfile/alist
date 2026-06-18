@@ -1,0 +1,48 @@
+{
+  "anime_name": "Overlord Movie 2 The Dark Hero",
+  "anime_url": "https://hianime.ad/anime/overlord-movie-2-the-dark-hero",
+  "slug": "overlord-movie-2-the-dark-hero",
+  "mal_id": 29803,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:36:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "End and Beginning",
+      "episode_url": "https://hianime.ad/watch/overlord-movie-2-the-dark-hero/ep-1",
+      "sub": {
+        "HD-1": {
+          "29803-malep-1_vibeplayer_sub": "https://vibeplayer.site/c89211bc30257632",
+          "29803-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c89211bc30257632/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-1_otakuhg_sub": "https://otakuhg.site/e/hovkg2fiymgz",
+          "29803-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-1_otakuvid_sub": "https://otakuvid.online/embed/taeho10u4ugz",
+          "29803-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "29803-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cbad583cc6f564d1",
+          "29803-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cbad583cc6f564d1/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xbxi7kbxcte1",
+          "29803-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9bgyyx3rh0e7",
+          "29803-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-1_playmogo_hsub": "https://playmogo.com/e/i3atndj2873y",
+          "29803-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
