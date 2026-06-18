@@ -1,0 +1,44 @@
+{
+  "anime_name": "Saezuru Tori Wa Habatakanai Dont Stay Gold",
+  "anime_url": "https://hianime.ad/anime/saezuru-tori-wa-habatakanai-dont-stay-gold",
+  "slug": "saezuru-tori-wa-habatakanai-dont-stay-gold",
+  "mal_id": 7106,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:56:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/saezuru-tori-wa-habatakanai-dont-stay-gold/ep-1",
+      "sub": {
+        "HD-1": {
+          "7106-malep-1_vibeplayer_sub": "https://vibeplayer.site/bea24b6e3aa273a9",
+          "7106-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bea24b6e3aa273a9/master.m3u8"
+        },
+        "Earnvids": {
+          "7106-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tr2gq7qzdjph",
+          "7106-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7106-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b6504ef0305494bc",
+          "7106-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b6504ef0305494bc/master.m3u8"
+        },
+        "StreamHG": {
+          "7106-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4al6r4to0q3j",
+          "7106-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7106-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xd3gxoayrztf",
+          "7106-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7106-malep-1_playmogo_hsub": "https://playmogo.com/e/0w8572llmzl6",
+          "7106-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
