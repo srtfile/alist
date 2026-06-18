@@ -1,0 +1,44 @@
+{
+  "anime_name": "Raiyantsuuri No Uta",
+  "anime_url": "https://hianime.ad/anime/raiyantsuuri-no-uta",
+  "slug": "raiyantsuuri-no-uta",
+  "mal_id": 10321,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:08:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seven-Colored Compass",
+      "episode_url": "https://hianime.ad/watch/raiyantsuuri-no-uta/ep-1",
+      "sub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_sub": "https://vibeplayer.site/90775b00d7173b5f",
+          "10321-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/90775b00d7173b5f/master.m3u8"
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ghuevvzelzs1",
+          "10321-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_sub": "https://playmogo.com/e/cmsz4eg0agdv",
+          "10321-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_hsub": "https://vibeplayer.site/303632ccf19ee0d8",
+          "10321-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/303632ccf19ee0d8/master.m3u8"
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ag9lmteeuyc",
+          "10321-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_hsub": "https://playmogo.com/e/kkehrrxpse26",
+          "10321-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
