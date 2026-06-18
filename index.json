@@ -5868,5 +5868,15 @@
     "captured_at": "2026-06-18T10:59:39",
     "file": "data-5/nobunagun.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nobunagun.json"
+  },
+  {
+    "slug": "nodame-cantabile",
+    "mal_id": null,
+    "anime_name": "Nodame Cantabile",
+    "anime_url": "https://hianime.ad/anime/nodame-cantabile",
+    "total_episodes": 23,
+    "captured_at": "2026-06-18T11:00:00",
+    "file": "data-5/nodame-cantabile.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nodame-cantabile.json"
   }
 ]
