@@ -1,0 +1,49 @@
+{
+  "anime_name": "Project A Ko 3 Cinderella Rhapsody",
+  "anime_url": "https://hianime.ad/anime/project-a-ko-3-cinderella-rhapsody",
+  "slug": "project-a-ko-3-cinderella-rhapsody",
+  "mal_id": 1349,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:56:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Partner",
+      "episode_url": "https://hianime.ad/watch/project-a-ko-3-cinderella-rhapsody/ep-1",
+      "sub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_sub": "https://vibeplayer.site/89e7eeb47fc6a7c2",
+          "1349-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/89e7eeb47fc6a7c2/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4cmt6yzlrm6j",
+          "1349-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_dub": "https://vibeplayer.site/e4e633ff663c9657",
+          "1349-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e4e633ff663c9657/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6jqn2zb7udtb",
+          "1349-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_hsub": "https://vibeplayer.site/21c0249625d4a3fb",
+          "1349-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/21c0249625d4a3fb/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q7psg0d53i6k",
+          "1349-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1349-malep-1_playmogo_hsub": "https://playmogo.com/e/gfzd7s3ckh5f",
+          "1349-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
