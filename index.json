@@ -13808,5 +13808,15 @@
     "captured_at": "2026-06-18T17:48:15",
     "file": "data-6/revue-starlight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/revue-starlight.json"
+  },
+  {
+    "slug": "rewrite",
+    "mal_id": 31716,
+    "anime_name": "Rewrite",
+    "anime_url": "https://hianime.ad/anime/rewrite",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T17:48:46",
+    "file": "data-6/rewrite.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rewrite.json"
   }
 ]
