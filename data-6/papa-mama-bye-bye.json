@@ -1,0 +1,44 @@
+{
+  "anime_name": "Papa Mama Bye Bye",
+  "anime_url": "https://hianime.ad/anime/papa-mama-bye-bye",
+  "slug": "papa-mama-bye-bye",
+  "mal_id": 47113,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:47:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/papa-mama-bye-bye/ep-1",
+      "sub": {
+        "HD-1": {
+          "47113-malep-1_vibeplayer_sub": "https://vibeplayer.site/a1f9f7a5a4d4fb26",
+          "47113-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a1f9f7a5a4d4fb26/master.m3u8"
+        },
+        "Earnvids": {
+          "47113-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o49nfpnlr54x",
+          "47113-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "47113-malep-1_playmogo_sub": "https://playmogo.com/e/wqafgewn4zed",
+          "47113-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "47113-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30ef42d6462afe77",
+          "47113-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30ef42d6462afe77/master.m3u8"
+        },
+        "Earnvids": {
+          "47113-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pwwf9olmv0vd",
+          "47113-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "47113-malep-1_playmogo_hsub": "https://playmogo.com/e/bgsjd8rylv0p",
+          "47113-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
