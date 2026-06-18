@@ -1,0 +1,49 @@
+{
+  "anime_name": "Sailor Moon R The Movie The Promise Of The Rose",
+  "anime_url": "https://hianime.ad/anime/sailor-moon-r-the-movie-the-promise-of-the-rose",
+  "slug": "sailor-moon-r-the-movie-the-promise-of-the-rose",
+  "mal_id": 740,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:07:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Moon Returns: The Mysterious Aliens Appear",
+      "episode_url": "https://hianime.ad/watch/sailor-moon-r-the-movie-the-promise-of-the-rose/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "740-malep-1_vibeplayer_dub": "https://vibeplayer.site/ed443ea00e5d5fd1",
+          "740-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ed443ea00e5d5fd1/master.m3u8"
+        },
+        "StreamHG": {
+          "740-malep-1_otakuhg_dub": "https://otakuhg.site/e/pa1hkjcpcpes",
+          "740-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "740-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wnil083hzc75",
+          "740-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "740-malep-1_playmogo_dub": "https://playmogo.com/e/agndpgbeqzx9",
+          "740-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "740-malep-1_vibeplayer_raw": "https://vibeplayer.site/637aa0967f049449",
+          "740-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/637aa0967f049449/master.m3u8"
+        },
+        "StreamHG": {
+          "740-malep-1_otakuhg_raw": "https://otakuhg.site/e/qs5lorbqdkuk",
+          "740-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "740-malep-1_otakuvid_raw": "https://otakuvid.online/embed/06p0odqe94tn",
+          "740-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
