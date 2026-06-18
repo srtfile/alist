@@ -13078,5 +13078,15 @@
     "captured_at": "2026-06-18T17:03:57",
     "file": "data-6/rezero-kara-hajimeru-isekai-seikatsu-memory-snow.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rezero-kara-hajimeru-isekai-seikatsu-memory-snow.json"
+  },
+  {
+    "slug": "rezero-petit",
+    "mal_id": 31240,
+    "anime_name": "Rezero Petit",
+    "anime_url": "https://hianime.ad/anime/rezero-petit",
+    "total_episodes": 14,
+    "captured_at": "2026-06-18T17:04:29",
+    "file": "data-6/rezero-petit.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rezero-petit.json"
   }
 ]
