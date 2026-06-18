@@ -1,0 +1,40 @@
+{
+  "anime_name": "Scramble Wars Tsuppashire Genom Trophy Rally",
+  "anime_url": "https://hianime.ad/anime/scramble-wars-tsuppashire-genom-trophy-rally",
+  "slug": "scramble-wars-tsuppashire-genom-trophy-rally",
+  "mal_id": 41115,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:22:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/scramble-wars-tsuppashire-genom-trophy-rally/ep-1",
+      "sub": {
+        "HD-1": {
+          "41115-malep-1_vibeplayer_sub": "https://vibeplayer.site/58359faf5320867c",
+          "41115-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58359faf5320867c/master.m3u8"
+        },
+        "Earnvids": {
+          "41115-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s1p5nd49hg8a",
+          "41115-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41115-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ad769b63e063888",
+          "41115-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ad769b63e063888/master.m3u8"
+        },
+        "Earnvids": {
+          "41115-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i29xt63pdbdq",
+          "41115-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41115-malep-1_playmogo_hsub": "https://playmogo.com/e/ci9vqbsq9qrp",
+          "41115-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
