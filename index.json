@@ -12738,5 +12738,15 @@
     "captured_at": "2026-06-18T16:13:10",
     "file": "data-6/ranma-12-hot-song-contest.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ranma-12-hot-song-contest.json"
+  },
+  {
+    "slug": "ranma",
+    "mal_id": 210,
+    "anime_name": "Ranma",
+    "anime_url": "https://hianime.ad/anime/ranma",
+    "total_episodes": 161,
+    "captured_at": "2026-06-18T16:13:25",
+    "file": "data-6/ranma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ranma.json"
   }
 ]
