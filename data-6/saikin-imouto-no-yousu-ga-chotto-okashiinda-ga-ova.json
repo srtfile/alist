@@ -1,0 +1,44 @@
+{
+  "anime_name": "Saikin Imouto No Yousu Ga Chotto Okashiinda Ga Ova",
+  "anime_url": "https://hianime.ad/anime/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova",
+  "slug": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova",
+  "mal_id": 17777,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:00:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mitsuki SOS",
+      "episode_url": "https://hianime.ad/watch/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "17777-malep-1_vibeplayer_sub": "https://vibeplayer.site/f88f9a31f6730056",
+          "17777-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f88f9a31f6730056/master.m3u8"
+        },
+        "Earnvids": {
+          "17777-malep-1_otakuvid_sub": "https://otakuvid.online/embed/88d9jerdz0ep",
+          "17777-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "17777-malep-1_vibeplayer_hsub": "https://vibeplayer.site/56590a38e142a600",
+          "17777-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/56590a38e142a600/master.m3u8"
+        },
+        "StreamHG": {
+          "17777-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a6u0h3k236tp",
+          "17777-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "17777-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/45itp0fy1rqv",
+          "17777-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "17777-malep-1_playmogo_hsub": "https://playmogo.com/e/kn8nstrov087",
+          "17777-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
