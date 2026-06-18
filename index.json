@@ -11748,5 +11748,15 @@
     "captured_at": "2026-06-18T15:04:25",
     "file": "data-6/psycho-diver-soul-siren.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/psycho-diver-soul-siren.json"
+  },
+  {
+    "slug": "psycho-pass",
+    "mal_id": 13601,
+    "anime_name": "Psycho Pass",
+    "anime_url": "https://hianime.ad/anime/psycho-pass",
+    "total_episodes": 22,
+    "captured_at": "2026-06-18T15:04:41",
+    "file": "data-6/psycho-pass.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/psycho-pass.json"
   }
 ]
