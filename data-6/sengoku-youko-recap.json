@@ -1,0 +1,44 @@
+{
+  "anime_name": "Sengoku Youko Recap",
+  "anime_url": "https://hianime.ad/anime/sengoku-youko-recap",
+  "slug": "sengoku-youko-recap",
+  "mal_id": 56242,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:54:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Are Those Who Lament This Barbaric Age",
+      "episode_url": "https://hianime.ad/watch/sengoku-youko-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "56242-malep-1_vibeplayer_sub": "https://vibeplayer.site/e28b4834780f0067",
+          "56242-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e28b4834780f0067/master.m3u8"
+        },
+        "Earnvids": {
+          "56242-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t5pulgy9qq9o",
+          "56242-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "56242-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4f3bfbc074044568",
+          "56242-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4f3bfbc074044568/master.m3u8"
+        },
+        "StreamHG": {
+          "56242-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xr4ze3rjc2wp",
+          "56242-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56242-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gl3j571vxqua",
+          "56242-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56242-malep-1_playmogo_hsub": "https://playmogo.com/e/gpszsa8qh62p",
+          "56242-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
