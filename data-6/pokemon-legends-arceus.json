@@ -1,0 +1,110 @@
+{
+  "anime_name": "Pokemon Legends Arceus",
+  "anime_url": "https://hianime.ad/anime/pokemon-legends-arceus",
+  "slug": "pokemon-legends-arceus",
+  "mal_id": 527,
+  "total_episodes": 3,
+  "captured_at": "2026-06-18T14:04:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pokémon! I Choose You!",
+      "episode_url": "https://hianime.ad/watch/pokemon-legends-arceus/ep-1",
+      "sub": {
+        "HD-1": {
+          "527-malep-1_vibeplayer_sub": "https://vibeplayer.site/aa1b04a0dfd6cf47",
+          "527-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa1b04a0dfd6cf47/master.m3u8"
+        },
+        "StreamHG": {
+          "527-malep-1_otakuhg_sub": "https://otakuhg.site/e/ttzsdtox6tfj",
+          "527-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "527-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wi12gn3b40in",
+          "527-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "527-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ff504a9b003d7bd0",
+          "527-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ff504a9b003d7bd0/master.m3u8"
+        },
+        "StreamHG": {
+          "527-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wcuu8juh0wqz",
+          "527-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "527-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ae6ycxxo48pe",
+          "527-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "527-malep-1_playmogo_hsub": "https://playmogo.com/e/3q2w1kfam3tl",
+          "527-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pokemon Emergency!",
+      "episode_url": "https://hianime.ad/watch/pokemon-legends-arceus/ep-2",
+      "sub": {
+        "HD-1": {
+          "527-malep-2_vibeplayer_sub": "https://vibeplayer.site/65be845d6e774846",
+          "527-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65be845d6e774846/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-2_otakuvid_sub": "https://otakuvid.online/embed/z94el0yxp0vi",
+          "527-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "527-malep-2_vibeplayer_hsub": "https://vibeplayer.site/96d76a1b4e044fe7",
+          "527-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/96d76a1b4e044fe7/master.m3u8"
+        },
+        "StreamHG": {
+          "527-malep-2_otakuhg_hsub": "https://otakuhg.site/e/m0m9yo199qac",
+          "527-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "527-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/oe8l9033dekp",
+          "527-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "527-malep-2_playmogo_hsub": "https://playmogo.com/e/z8d71r0pepkg",
+          "527-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ash Catches a Pokemon",
+      "episode_url": "https://hianime.ad/watch/pokemon-legends-arceus/ep-3",
+      "sub": {
+        "HD-1": {
+          "527-malep-3_vibeplayer_sub": "https://vibeplayer.site/ab9a6fa808c1b4ee",
+          "527-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab9a6fa808c1b4ee/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-3_otakuvid_sub": "https://otakuvid.online/embed/ailuo2eqnefg",
+          "527-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "527-malep-3_vibeplayer_hsub": "https://vibeplayer.site/b3bc7c4a4c790fc6",
+          "527-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3bc7c4a4c790fc6/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/a2lmj0ztlz5s",
+          "527-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "527-malep-3_playmogo_hsub": "https://playmogo.com/e/8l4by2dfmgm7",
+          "527-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
