@@ -1,0 +1,65 @@
+{
+  "anime_name": "Ranma Team Ranma Vs The Legendary Phoenix",
+  "anime_url": "https://hianime.ad/anime/ranma-team-ranma-vs-the-legendary-phoenix",
+  "slug": "ranma-team-ranma-vs-the-legendary-phoenix",
+  "mal_id": 210,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:17:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Here's Ranma",
+      "episode_url": "https://hianime.ad/watch/ranma-team-ranma-vs-the-legendary-phoenix/ep-1",
+      "sub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_sub": "https://vibeplayer.site/20c4aff117de5850",
+          "210-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20c4aff117de5850/master.m3u8"
+        },
+        "StreamHG": {
+          "210-malep-1_otakuhg_sub": "https://otakuhg.site/e/kzb9wjmz9dqz",
+          "210-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0d8nenxu6jkj",
+          "210-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_sub": "https://playmogo.com/e/aqcf83m89npx",
+          "210-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_dub": "https://vibeplayer.site/c1afd23e395b193e",
+          "210-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c1afd23e395b193e/master.m3u8"
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dk9h0gz2864h",
+          "210-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_dub": "https://playmogo.com/e/agevvqlfzete",
+          "210-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb5bb87373cf6c7c",
+          "210-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb5bb87373cf6c7c/master.m3u8"
+        },
+        "StreamHG": {
+          "210-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gt0xvcwu5zfh",
+          "210-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tarjd4vhsw1l",
+          "210-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_hsub": "https://playmogo.com/e/56d40ifhgawa",
+          "210-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
