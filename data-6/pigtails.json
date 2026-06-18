@@ -1,0 +1,40 @@
+{
+  "anime_name": "Pigtails",
+  "anime_url": "https://hianime.ad/anime/pigtails",
+  "slug": "pigtails",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:35:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pigtails/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/76ca15b427c17721",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76ca15b427c17721/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/43pmdzle4ja3",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/8805c1ba1dbc09dc",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8805c1ba1dbc09dc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e9wxc218cijq",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/kvt68qczts8e",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
