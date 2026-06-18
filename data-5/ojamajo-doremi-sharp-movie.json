@@ -1,0 +1,40 @@
+{
+  "anime_name": "Ojamajo Doremi Sharp Movie",
+  "anime_url": "https://hianime.ad/anime/ojamajo-doremi-sharp-movie",
+  "slug": "ojamajo-doremi-sharp-movie",
+  "mal_id": 351,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:29:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Doremi Becomes a Mom!?",
+      "episode_url": "https://hianime.ad/watch/ojamajo-doremi-sharp-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "351-malep-1_vibeplayer_sub": "https://vibeplayer.site/32e53460e498a7b8",
+          "351-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32e53460e498a7b8/master.m3u8"
+        },
+        "Earnvids": {
+          "351-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r1j0r481n5v9",
+          "351-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "351-malep-1_vibeplayer_hsub": "https://vibeplayer.site/164449db95a823a3",
+          "351-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/164449db95a823a3/master.m3u8"
+        },
+        "Earnvids": {
+          "351-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vvujw58azfov",
+          "351-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "351-malep-1_playmogo_hsub": "https://playmogo.com/e/9q5uh8c6p6if",
+          "351-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
