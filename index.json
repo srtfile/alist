@@ -12528,5 +12528,15 @@
     "captured_at": "2026-06-18T16:05:05",
     "file": "data-6/rainbow-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rainbow-days.json"
+  },
+  {
+    "slug": "rainbow-fireflies",
+    "mal_id": 6114,
+    "anime_name": "Rainbow Fireflies",
+    "anime_url": "https://hianime.ad/anime/rainbow-fireflies",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T16:05:37",
+    "file": "data-6/rainbow-fireflies.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rainbow-fireflies.json"
   }
 ]
