@@ -1,0 +1,49 @@
+{
+  "anime_name": "Princess Minerva",
+  "anime_url": "https://hianime.ad/anime/princess-minerva",
+  "slug": "princess-minerva",
+  "mal_id": 55774,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:43:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Princess and Her Torture Time",
+      "episode_url": "https://hianime.ad/watch/princess-minerva/ep-1",
+      "sub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_sub": "https://vibeplayer.site/d9edb71b2d584eae",
+          "55774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d9edb71b2d584eae/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b51tfptytri3",
+          "55774-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_dub": "https://vibeplayer.site/a33ed5fd90dda2ff",
+          "55774-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a33ed5fd90dda2ff/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ijsxk452ztd3",
+          "55774-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bc3e6ef4803b683d",
+          "55774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc3e6ef4803b683d/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r367i7dqopt9",
+          "55774-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55774-malep-1_playmogo_hsub": "https://playmogo.com/e/qhjn4setc3h4",
+          "55774-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
