@@ -1,0 +1,44 @@
+{
+  "anime_name": "Shin Kimagure Orangeroad Soshite Ano Natsu No Hajimari",
+  "anime_url": "https://hianime.ad/anime/shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari",
+  "slug": "shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari",
+  "mal_id": 9799,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T21:55:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari/ep-1",
+      "sub": {
+        "HD-1": {
+          "9799-malep-1_vibeplayer_sub": "https://vibeplayer.site/baa435b2584def66",
+          "9799-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/baa435b2584def66/master.m3u8"
+        },
+        "Earnvids": {
+          "9799-malep-1_otakuvid_sub": "https://otakuvid.online/embed/phvniv8a4169",
+          "9799-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9799-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e2f1da56b995775",
+          "9799-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e2f1da56b995775/master.m3u8"
+        },
+        "StreamHG": {
+          "9799-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l35tpqw7ezgi",
+          "9799-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9799-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/009j7flsawlg",
+          "9799-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9799-malep-1_playmogo_hsub": "https://playmogo.com/e/5nw2p7juqvml",
+          "9799-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
