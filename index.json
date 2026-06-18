@@ -5468,5 +5468,15 @@
     "captured_at": "2026-06-18T10:43:10",
     "file": "data-5/ninjala-tv.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninjala-tv.json"
+  },
+  {
+    "slug": "ninkuu",
+    "mal_id": null,
+    "anime_name": "Ninkuu",
+    "anime_url": "https://hianime.ad/anime/ninkuu",
+    "total_episodes": 55,
+    "captured_at": "2026-06-18T10:45:45",
+    "file": "data-5/ninkuu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninkuu.json"
   }
 ]
