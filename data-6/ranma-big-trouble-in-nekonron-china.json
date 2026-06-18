@@ -1,0 +1,61 @@
+{
+  "anime_name": "Ranma Big Trouble In Nekonron China",
+  "anime_url": "https://hianime.ad/anime/ranma-big-trouble-in-nekonron-china",
+  "slug": "ranma-big-trouble-in-nekonron-china",
+  "mal_id": 210,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:16:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Here's Ranma",
+      "episode_url": "https://hianime.ad/watch/ranma-big-trouble-in-nekonron-china/ep-1",
+      "sub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_sub": "https://vibeplayer.site/92d90dfc60d5572e",
+          "210-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/92d90dfc60d5572e/master.m3u8"
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kscfb7oomr2q",
+          "210-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_sub": "https://playmogo.com/e/cvk5l55pwyez",
+          "210-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_dub": "https://vibeplayer.site/a2c30ad48b09fc4f",
+          "210-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a2c30ad48b09fc4f/master.m3u8"
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_dub": "https://otakuvid.online/embed/q34y8zihq0c8",
+          "210-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_dub": "https://playmogo.com/e/dmjhwd5h7s52",
+          "210-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_hsub": "https://vibeplayer.site/611e38805d929357",
+          "210-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/611e38805d929357/master.m3u8"
+        },
+        "StreamHG": {
+          "210-malep-1_otakuhg_hsub": "https://otakuhg.site/e/h53dqklybf8o",
+          "210-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0knfjpn3g6zp",
+          "210-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_hsub": "https://playmogo.com/e/7lcxe95aeebb",
+          "210-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
