@@ -1,0 +1,69 @@
+{
+  "anime_name": "Scarlet",
+  "anime_url": "https://hianime.ad/anime/scarlet",
+  "slug": "scarlet",
+  "mal_id": 48492,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:10:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Scarlet Psionics",
+      "episode_url": "https://hianime.ad/watch/scarlet/ep-1",
+      "sub": {
+        "HD-1": {
+          "48492-malep-1_vibeplayer_sub": "https://vibeplayer.site/742216b5dc5e436a",
+          "48492-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/742216b5dc5e436a/master.m3u8"
+        },
+        "StreamHG": {
+          "48492-malep-1_otakuhg_sub": "https://otakuhg.site/e/dph9bgqyiyxn",
+          "48492-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48492-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ywx91srtlyg4",
+          "48492-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "48492-malep-1_playmogo_sub": "https://playmogo.com/e/g6e427j19bml",
+          "48492-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48492-malep-1_vibeplayer_dub": "https://vibeplayer.site/81c83aa93798c762",
+          "48492-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/81c83aa93798c762/master.m3u8"
+        },
+        "StreamHG": {
+          "48492-malep-1_otakuhg_dub": "https://otakuhg.site/e/85ivfzwfqebg",
+          "48492-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48492-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pkk9espbyqbs",
+          "48492-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "48492-malep-1_playmogo_dub": "https://playmogo.com/e/ygfvrgarqtel",
+          "48492-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48492-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0b9f73e9c602b4b2",
+          "48492-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0b9f73e9c602b4b2/master.m3u8"
+        },
+        "StreamHG": {
+          "48492-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5hksyif0nqjp",
+          "48492-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48492-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5x7ey60cw3i2",
+          "48492-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48492-malep-1_playmogo_hsub": "https://playmogo.com/e/8ip6vtk3fes3",
+          "48492-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
