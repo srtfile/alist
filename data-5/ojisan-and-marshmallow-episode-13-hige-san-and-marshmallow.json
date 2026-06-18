@@ -1,0 +1,40 @@
+{
+  "anime_name": "Ojisan And Marshmallow Episode 13 Hige San And Marshmallow",
+  "anime_url": "https://hianime.ad/anime/ojisan-and-marshmallow-episode-13-hige-san-and-marshmallow",
+  "slug": "ojisan-and-marshmallow-episode-13-hige-san-and-marshmallow",
+  "mal_id": 31848,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:30:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hige-san and Marshmallow",
+      "episode_url": "https://hianime.ad/watch/ojisan-and-marshmallow-episode-13-hige-san-and-marshmallow/ep-1",
+      "sub": {
+        "HD-1": {
+          "31848-malep-1_vibeplayer_sub": "https://vibeplayer.site/26ff9e57de601aff",
+          "31848-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26ff9e57de601aff/master.m3u8"
+        },
+        "Earnvids": {
+          "31848-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h7dybwge2aow",
+          "31848-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31848-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85161b2fb2c5d80b",
+          "31848-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85161b2fb2c5d80b/master.m3u8"
+        },
+        "Earnvids": {
+          "31848-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tb0ycf1pubgl",
+          "31848-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31848-malep-1_playmogo_hsub": "https://playmogo.com/e/cm8jygt55hfp",
+          "31848-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
