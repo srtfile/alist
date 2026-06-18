@@ -1,0 +1,40 @@
+{
+  "anime_name": "Seiyus Life Petit Uchiage",
+  "anime_url": "https://hianime.ad/anime/seiyus-life-petit-uchiage",
+  "slug": "seiyus-life-petit-uchiage",
+  "mal_id": 29163,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:40:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Recording",
+      "episode_url": "https://hianime.ad/watch/seiyus-life-petit-uchiage/ep-1",
+      "sub": {
+        "HD-1": {
+          "29163-malep-1_vibeplayer_sub": "https://vibeplayer.site/0678383ebc1bc34e",
+          "29163-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0678383ebc1bc34e/master.m3u8"
+        },
+        "Earnvids": {
+          "29163-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1j7cuaik097x",
+          "29163-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "29163-malep-1_vibeplayer_hsub": "https://vibeplayer.site/993b9d91471715eb",
+          "29163-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/993b9d91471715eb/master.m3u8"
+        },
+        "Earnvids": {
+          "29163-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8cnahw8jhhxm",
+          "29163-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29163-malep-1_playmogo_hsub": "https://playmogo.com/e/af4l9mibknr0",
+          "29163-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
