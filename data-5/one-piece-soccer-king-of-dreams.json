@@ -1,0 +1,52 @@
+{
+  "anime_name": "One Piece Soccer King Of Dreams",
+  "anime_url": "https://hianime.ad/anime/one-piece-soccer-king-of-dreams",
+  "slug": "one-piece-soccer-king-of-dreams",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:53:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-soccer-king-of-dreams/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/fa8f394627876e13",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa8f394627876e13/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/xpkll0vwcbf0",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k0vak8zbiy4b",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_sub": "https://playmogo.com/e/eazse3msogp9",
+          "21-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a87eca8204400057",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a87eca8204400057/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l1ra5wru23oy",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jz0szgo5hrfv",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/40yysdobtn9d",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
