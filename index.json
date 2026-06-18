@@ -10878,5 +10878,15 @@
     "captured_at": "2026-06-18T14:26:33",
     "file": "data-6/potemayo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/potemayo.json"
+  },
+  {
+    "slug": "potemayo-specials",
+    "mal_id": 2744,
+    "anime_name": "Potemayo Specials",
+    "anime_url": "https://hianime.ad/anime/potemayo-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-18T14:26:54",
+    "file": "data-6/potemayo-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/potemayo-specials.json"
   }
 ]
