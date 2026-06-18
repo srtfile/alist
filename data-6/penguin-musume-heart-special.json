@@ -1,0 +1,40 @@
+{
+  "anime_name": "Penguin Musume Heart Special",
+  "anime_url": "https://hianime.ad/anime/penguin-musume-heart-special",
+  "slug": "penguin-musume-heart-special",
+  "mal_id": 50522,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:08:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 11.5",
+      "episode_url": "https://hianime.ad/watch/penguin-musume-heart-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "50522-malep-1_vibeplayer_sub": "https://vibeplayer.site/3160d9d8253e43fe",
+          "50522-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3160d9d8253e43fe/master.m3u8"
+        },
+        "Earnvids": {
+          "50522-malep-1_otakuvid_sub": "https://otakuvid.online/embed/60di02ii74b0",
+          "50522-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50522-malep-1_vibeplayer_hsub": "https://vibeplayer.site/18dbfcf85104d642",
+          "50522-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/18dbfcf85104d642/master.m3u8"
+        },
+        "Earnvids": {
+          "50522-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/asazgp7qn87i",
+          "50522-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50522-malep-1_playmogo_hsub": "https://playmogo.com/e/finqe3bucu9s",
+          "50522-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
