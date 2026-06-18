@@ -1,0 +1,52 @@
+{
+  "anime_name": "One Punch Man Road To Hero",
+  "anime_url": "https://hianime.ad/anime/one-punch-man-road-to-hero",
+  "slug": "one-punch-man-road-to-hero",
+  "mal_id": 30276,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:57:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Strongest Man",
+      "episode_url": "https://hianime.ad/watch/one-punch-man-road-to-hero/ep-1",
+      "sub": {
+        "HD-1": {
+          "30276-malep-1_vibeplayer_sub": "https://vibeplayer.site/b7460dca8cf14e82",
+          "30276-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7460dca8cf14e82/master.m3u8"
+        },
+        "StreamHG": {
+          "30276-malep-1_otakuhg_sub": "https://otakuhg.site/e/rn1u6okzbey6",
+          "30276-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30276-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9lrp3lr3k6cw",
+          "30276-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "30276-malep-1_playmogo_sub": "https://playmogo.com/e/0tohzcsvlw9n",
+          "30276-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30276-malep-1_vibeplayer_hsub": "https://vibeplayer.site/865790800276e462",
+          "30276-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/865790800276e462/master.m3u8"
+        },
+        "StreamHG": {
+          "30276-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ral3s7puvahc",
+          "30276-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30276-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kmealjtpq2lz",
+          "30276-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30276-malep-1_playmogo_hsub": "https://playmogo.com/e/9w5922rl8c7i",
+          "30276-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
