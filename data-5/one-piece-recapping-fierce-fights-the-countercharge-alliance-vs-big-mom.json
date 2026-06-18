@@ -1,0 +1,48 @@
+{
+  "anime_name": "One Piece Recapping Fierce Fights The Countercharge Alliance Vs Big Mom",
+  "anime_url": "https://hianime.ad/anime/one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom",
+  "slug": "one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:52:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/dc9421cece01cc59",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc9421cece01cc59/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/tz5ige9ycmuy",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/85ybra2gfy68",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/201d6029f737099f",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/201d6029f737099f/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/en3tuoyjqeq2",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z8v0p508u459",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/cabon9dwcmnm",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
