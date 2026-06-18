@@ -4,7 +4,7 @@
   "slug": "no-choice-but-to-betray-the-earth",
   "mal_id": null,
   "total_episodes": 72,
-  "captured_at": "2026-06-17T20:26:54",
+  "captured_at": "2026-06-18T10:49:33",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -903,35 +903,9 @@
     {
       "episode_title": "Episode 30",
       "episode_url": "https://hianime.ad/watch/no-choice-but-to-betray-the-earth/ep-30",
-      "sub": {
-        "HD-1": {
-          "malep-30_vibeplayer_sub": "https://vibeplayer.site/62a93549d01f9686",
-          "malep-30_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/62a93549d01f9686/master.m3u8"
-        },
-        "Earnvids": {
-          "malep-30_otakuvid_sub": "https://otakuvid.online/embed/ilhd9vge2vjs",
-          "malep-30_otakuvid_sub_m3u8": null
-        },
-        "Doodstream": {
-          "malep-30_playmogo_sub": "https://playmogo.com/e/3dmjcsdg8zso",
-          "malep-30_playmogo_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "malep-30_vibeplayer_hsub": "https://vibeplayer.site/cd46b27a0074c8fb",
-          "malep-30_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cd46b27a0074c8fb/master.m3u8"
-        },
-        "Earnvids": {
-          "malep-30_otakuvid_hsub": "https://otakuvid.online/embed/em4pr3aw4xtc",
-          "malep-30_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "malep-30_playmogo_hsub": "https://playmogo.com/e/ovvb5hzvtsqt",
-          "malep-30_playmogo_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "Episode 31",
