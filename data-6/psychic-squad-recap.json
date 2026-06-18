@@ -1,0 +1,40 @@
+{
+  "anime_name": "Psychic Squad Recap",
+  "anime_url": "https://hianime.ad/anime/psychic-squad-recap",
+  "slug": "psychic-squad-recap",
+  "mal_id": 4038,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:04:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolutely Lovely! Their Name Is “The Children”",
+      "episode_url": "https://hianime.ad/watch/psychic-squad-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "4038-malep-1_vibeplayer_sub": "https://vibeplayer.site/b1f9746e39e8c991",
+          "4038-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1f9746e39e8c991/master.m3u8"
+        },
+        "Earnvids": {
+          "4038-malep-1_otakuvid_sub": "https://otakuvid.online/embed/e5fqdclo2cmv",
+          "4038-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4038-malep-1_vibeplayer_hsub": "https://vibeplayer.site/290e556fe0fd35cd",
+          "4038-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/290e556fe0fd35cd/master.m3u8"
+        },
+        "Earnvids": {
+          "4038-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2ussclxdn7wc",
+          "4038-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4038-malep-1_playmogo_hsub": "https://playmogo.com/e/376y8h9m0pdm",
+          "4038-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
