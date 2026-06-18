@@ -1,0 +1,95 @@
+{
+  "anime_name": "Ronin Warriors Gaiden",
+  "anime_url": "https://hianime.ad/anime/ronin-warriors-gaiden",
+  "slug": "ronin-warriors-gaiden",
+  "mal_id": 1264,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T18:24:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Target: Metropolitan Tokyo",
+      "episode_url": "https://hianime.ad/watch/ronin-warriors-gaiden/ep-1",
+      "sub": {
+        "HD-1": {
+          "1264-malep-1_vibeplayer_sub": "https://vibeplayer.site/bad0f87884ec1e88",
+          "1264-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bad0f87884ec1e88/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i1pp11c1fgz8",
+          "1264-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1264-malep-1_vibeplayer_dub": "https://vibeplayer.site/e89628ac0e52d085",
+          "1264-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e89628ac0e52d085/master.m3u8"
+        },
+        "StreamHG": {
+          "1264-malep-1_otakuhg_dub": "https://otakuhg.site/e/jl68r3b909td",
+          "1264-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1264-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xz0frhtsztoh",
+          "1264-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1264-malep-1_vibeplayer_hsub": "https://vibeplayer.site/718da53c132afd00",
+          "1264-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/718da53c132afd00/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zht4qpv0bi67",
+          "1264-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-1_playmogo_hsub": "https://playmogo.com/e/v8389f1o93do",
+          "1264-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Assault of Shiten, Warlord of Demons",
+      "episode_url": "https://hianime.ad/watch/ronin-warriors-gaiden/ep-2",
+      "sub": {
+        "HD-1": {
+          "1264-malep-2_vibeplayer_sub": "https://vibeplayer.site/ee521893d83dfbf0",
+          "1264-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee521893d83dfbf0/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-2_otakuvid_sub": "https://otakuvid.online/embed/jat1pctwk3fx",
+          "1264-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1264-malep-2_vibeplayer_dub": "https://vibeplayer.site/7d833cbfdc98f7d8",
+          "1264-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7d833cbfdc98f7d8/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-2_otakuvid_dub": "https://otakuvid.online/embed/iepnfa4zd80w",
+          "1264-malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-2_playmogo_dub": "https://playmogo.com/e/ummuwrv76w03",
+          "1264-malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1264-malep-2_vibeplayer_hsub": "https://vibeplayer.site/7a1d66d4fadb4477",
+          "1264-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a1d66d4fadb4477/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/zjrlsfqet3l8",
+          "1264-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-2_playmogo_hsub": "https://playmogo.com/e/swxkm5yc4wyb",
+          "1264-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
