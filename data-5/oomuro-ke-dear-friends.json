@@ -1,0 +1,52 @@
+{
+  "anime_name": "Oomuro Ke Dear Friends",
+  "anime_url": "https://hianime.ad/anime/oomuro-ke-dear-friends",
+  "slug": "oomuro-ke-dear-friends",
+  "mal_id": 58426,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:15:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Girl Meets Deer",
+      "episode_url": "https://hianime.ad/watch/oomuro-ke-dear-friends/ep-1",
+      "sub": {
+        "HD-1": {
+          "58426-malep-1_vibeplayer_sub": "https://vibeplayer.site/b2f9cbf134891549",
+          "58426-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2f9cbf134891549/master.m3u8"
+        },
+        "StreamHG": {
+          "58426-malep-1_otakuhg_sub": "https://otakuhg.site/e/eznib63m9di5",
+          "58426-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "58426-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kmgx5wsaf9wc",
+          "58426-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58426-malep-1_playmogo_sub": "https://playmogo.com/e/qgd35jf1cs0z",
+          "58426-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58426-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cdcef8c7a7396964",
+          "58426-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdcef8c7a7396964/master.m3u8"
+        },
+        "StreamHG": {
+          "58426-malep-1_otakuhg_hsub": "https://otakuhg.site/e/30gavl9p2n0l",
+          "58426-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58426-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sy4cknsq8oxt",
+          "58426-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58426-malep-1_playmogo_hsub": "https://playmogo.com/e/97xzp2toxs10",
+          "58426-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
