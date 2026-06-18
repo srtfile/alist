@@ -1,0 +1,87 @@
+{
+  "anime_name": "Psychic Force",
+  "anime_url": "https://hianime.ad/anime/psychic-force",
+  "slug": "psychic-force",
+  "mal_id": 337,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T15:02:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/psychic-force/ep-1",
+      "sub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_sub": "https://vibeplayer.site/6f9933a88bf28368",
+          "337-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f9933a88bf28368/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fwbz2l6k906k",
+          "337-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_dub": "https://vibeplayer.site/76aaeb1895abe4a0",
+          "337-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/76aaeb1895abe4a0/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1yt9kxokj1rb",
+          "337-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6243ee98b671d1ff",
+          "337-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6243ee98b671d1ff/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eze1lsl8fmdt",
+          "337-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "337-malep-1_playmogo_hsub": "https://playmogo.com/e/20pni4j9ifua",
+          "337-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Orina",
+      "episode_url": "https://hianime.ad/watch/psychic-force/ep-2",
+      "sub": {
+        "HD-1": {
+          "337-malep-2_vibeplayer_sub": "https://vibeplayer.site/5f16f623981e7278",
+          "337-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5f16f623981e7278/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-2_otakuvid_sub": "https://otakuvid.online/embed/0dxc5xxq9svp",
+          "337-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "337-malep-2_vibeplayer_dub": "https://vibeplayer.site/99e43689f76be89b",
+          "337-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/99e43689f76be89b/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-2_otakuvid_dub": "https://otakuvid.online/embed/vkimzas836dv",
+          "337-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "337-malep-2_vibeplayer_hsub": "https://vibeplayer.site/eefda785a7ceec17",
+          "337-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eefda785a7ceec17/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/bmqqx3yirkj8",
+          "337-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "337-malep-2_playmogo_hsub": "https://playmogo.com/e/tcqjdr40khu5",
+          "337-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
