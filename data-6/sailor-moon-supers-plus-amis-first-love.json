@@ -1,0 +1,40 @@
+{
+  "anime_name": "Sailor Moon Supers Plus Amis First Love",
+  "anime_url": "https://hianime.ad/anime/sailor-moon-supers-plus-amis-first-love",
+  "slug": "sailor-moon-supers-plus-amis-first-love",
+  "mal_id": 1239,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:09:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Meeting of Fate! The Night where a Pegasus Flies",
+      "episode_url": "https://hianime.ad/watch/sailor-moon-supers-plus-amis-first-love/ep-1",
+      "sub": {
+        "HD-1": {
+          "1239-malep-1_vibeplayer_sub": "https://vibeplayer.site/d2da90b48032c45e",
+          "1239-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2da90b48032c45e/master.m3u8"
+        },
+        "Earnvids": {
+          "1239-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s8y6kzm7xmtb",
+          "1239-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1239-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dab9c4b12f15eb51",
+          "1239-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dab9c4b12f15eb51/master.m3u8"
+        },
+        "Earnvids": {
+          "1239-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/opt3a928u87f",
+          "1239-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1239-malep-1_playmogo_hsub": "https://playmogo.com/e/tjki9zy2n5z1",
+          "1239-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
