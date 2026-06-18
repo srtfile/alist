@@ -9268,5 +9268,15 @@
     "captured_at": "2026-06-18T13:09:17",
     "file": "data-6/perfect-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/perfect-world.json"
+  },
+  {
+    "slug": "perfect-world-movie",
+    "mal_id": 36652,
+    "anime_name": "Perfect World Movie",
+    "anime_url": "https://hianime.ad/anime/perfect-world-movie",
+    "total_episodes": 3,
+    "captured_at": "2026-06-18T13:12:59",
+    "file": "data-6/perfect-world-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/perfect-world-movie.json"
   }
 ]
