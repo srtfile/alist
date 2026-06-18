@@ -17548,5 +17548,15 @@
     "captured_at": "2026-06-18T21:07:06",
     "file": "data-6/senyuu-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/senyuu-2.json"
+  },
+  {
+    "slug": "seoul-station",
+    "mal_id": 3545,
+    "anime_name": "Seoul Station",
+    "anime_url": "https://hianime.ad/anime/seoul-station",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T21:07:40",
+    "file": "data-6/seoul-station.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/seoul-station.json"
   }
 ]
