@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rainbow Fireflies",
+  "anime_url": "https://hianime.ad/anime/rainbow-fireflies",
+  "slug": "rainbow-fireflies",
+  "mal_id": 6114,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:05:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "After the Rain",
+      "episode_url": "https://hianime.ad/watch/rainbow-fireflies/ep-1",
+      "sub": {
+        "HD-1": {
+          "6114-malep-1_vibeplayer_sub": "https://vibeplayer.site/067fca6c0ba78de5",
+          "6114-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/067fca6c0ba78de5/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tf5f0m6qdg77",
+          "6114-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-1_playmogo_sub": "https://playmogo.com/e/0a49hp1ikms1",
+          "6114-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ceb16286bbe8d9f2",
+          "6114-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ceb16286bbe8d9f2/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/86klh0vscxk7",
+          "6114-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-1_playmogo_hsub": "https://playmogo.com/e/w7c34w7ntwy7",
+          "6114-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
