@@ -1,0 +1,44 @@
+{
+  "anime_name": "Riki Oh The Wall Of Hell",
+  "anime_url": "https://hianime.ad/anime/riki-oh-the-wall-of-hell",
+  "slug": "riki-oh-the-wall-of-hell",
+  "mal_id": 43470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:54:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Science-types Fell in Love, So They Tried Comparing Couples",
+      "episode_url": "https://hianime.ad/watch/riki-oh-the-wall-of-hell/ep-1",
+      "sub": {
+        "HD-1": {
+          "43470-malep-1_vibeplayer_sub": "https://vibeplayer.site/ad4f24670e7bb419",
+          "43470-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ad4f24670e7bb419/master.m3u8"
+        },
+        "Earnvids": {
+          "43470-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jbwcl4hdbqq9",
+          "43470-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "43470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2b20fca4a5c66445",
+          "43470-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2b20fca4a5c66445/master.m3u8"
+        },
+        "StreamHG": {
+          "43470-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ggi6q3b2j5gc",
+          "43470-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "43470-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iekzi0v517oo",
+          "43470-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "43470-malep-1_playmogo_hsub": "https://playmogo.com/e/0x8e0m40j7p5",
+          "43470-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
