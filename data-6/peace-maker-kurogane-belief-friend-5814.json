@@ -1,0 +1,44 @@
+{
+  "anime_name": "Peace Maker Kurogane Belief Friend 5814",
+  "anime_url": "https://hianime.ad/anime/peace-maker-kurogane-belief-friend-5814",
+  "slug": "peace-maker-kurogane-belief-friend-5814",
+  "mal_id": 161,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:57:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Cherry Blossoms",
+      "episode_url": "https://hianime.ad/watch/peace-maker-kurogane-belief-friend-5814/ep-1",
+      "sub": {
+        "HD-1": {
+          "161-malep-1_vibeplayer_sub": "https://vibeplayer.site/ffc05e2adc8ac2bd",
+          "161-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ffc05e2adc8ac2bd/master.m3u8"
+        },
+        "Earnvids": {
+          "161-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f5w9h6wkpijb",
+          "161-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "161-malep-1_playmogo_sub": "https://playmogo.com/e/oz5kxfcz0pc0",
+          "161-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "161-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a3d43d9095617e65",
+          "161-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a3d43d9095617e65/master.m3u8"
+        },
+        "Earnvids": {
+          "161-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g4fav8zmupbr",
+          "161-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "161-malep-1_playmogo_hsub": "https://playmogo.com/e/kjv4c3g2g296",
+          "161-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
