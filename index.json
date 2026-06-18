@@ -15638,5 +15638,15 @@
     "captured_at": "2026-06-18T19:28:17",
     "file": "data-6/saiyuki-interactive.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/saiyuki-interactive.json"
+  },
+  {
+    "slug": "saiyuki-reload",
+    "mal_id": 130,
+    "anime_name": "Saiyuki Reload",
+    "anime_url": "https://hianime.ad/anime/saiyuki-reload",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T19:28:38",
+    "file": "data-6/saiyuki-reload.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/saiyuki-reload.json"
   }
 ]
