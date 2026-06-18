@@ -13088,5 +13088,15 @@
     "captured_at": "2026-06-18T17:04:29",
     "file": "data-6/rezero-petit.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rezero-petit.json"
+  },
+  {
+    "slug": "real-girl",
+    "mal_id": 36793,
+    "anime_name": "Real Girl",
+    "anime_url": "https://hianime.ad/anime/real-girl",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T17:05:02",
+    "file": "data-6/real-girl.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/real-girl.json"
   }
 ]
