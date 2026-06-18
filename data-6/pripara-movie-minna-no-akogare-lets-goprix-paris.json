@@ -1,0 +1,44 @@
+{
+  "anime_name": "Pripara Movie Minna No Akogare Lets Goprix Paris",
+  "anime_url": "https://hianime.ad/anime/pripara-movie-minna-no-akogare-lets-goprix-paris",
+  "slug": "pripara-movie-minna-no-akogare-lets-goprix-paris",
+  "mal_id": 23135,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:50:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Became an Idol!",
+      "episode_url": "https://hianime.ad/watch/pripara-movie-minna-no-akogare-lets-goprix-paris/ep-1",
+      "sub": {
+        "HD-1": {
+          "23135-malep-1_vibeplayer_sub": "https://vibeplayer.site/515d499281f3b0e2",
+          "23135-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/515d499281f3b0e2/master.m3u8"
+        },
+        "Earnvids": {
+          "23135-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2b2sf3ey5j36",
+          "23135-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23135-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ca04bd4b4be6e08c",
+          "23135-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca04bd4b4be6e08c/master.m3u8"
+        },
+        "StreamHG": {
+          "23135-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zgnv40etw54d",
+          "23135-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23135-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/p62sf0b0q299",
+          "23135-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23135-malep-1_playmogo_hsub": "https://playmogo.com/e/rhojwifolpcw",
+          "23135-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
