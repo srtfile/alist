@@ -10598,5 +10598,15 @@
     "captured_at": "2026-06-18T14:13:42",
     "file": "data-6/pokemon-advanced.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-advanced.json"
+  },
+  {
+    "slug": "pokemon-black-white",
+    "mal_id": null,
+    "anime_name": "Pokemon Black White",
+    "anime_url": "https://hianime.ad/anime/pokemon-black-white",
+    "total_episodes": 48,
+    "captured_at": "2026-06-18T14:16:30",
+    "file": "data-6/pokemon-black-white.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-black-white.json"
   }
 ]
