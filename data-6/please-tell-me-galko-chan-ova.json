@@ -1,0 +1,44 @@
+{
+  "anime_name": "Please Tell Me Galko Chan Ova",
+  "anime_url": "https://hianime.ad/anime/please-tell-me-galko-chan-ova",
+  "slug": "please-tell-me-galko-chan-ova",
+  "mal_id": 32013,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:49:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Is It True You're a Gyaru?",
+      "episode_url": "https://hianime.ad/watch/please-tell-me-galko-chan-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "32013-malep-1_vibeplayer_sub": "https://vibeplayer.site/ee38334f9abc5e5d",
+          "32013-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee38334f9abc5e5d/master.m3u8"
+        },
+        "Earnvids": {
+          "32013-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qwn4jj4ovm1n",
+          "32013-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32013-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0392a77c82870d1b",
+          "32013-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0392a77c82870d1b/master.m3u8"
+        },
+        "StreamHG": {
+          "32013-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3x050xt6m3ra",
+          "32013-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32013-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ajx8qfz956gw",
+          "32013-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32013-malep-1_playmogo_hsub": "https://playmogo.com/e/m91qiyew0df6",
+          "32013-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
