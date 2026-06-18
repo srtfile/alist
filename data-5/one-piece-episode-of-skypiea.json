@@ -1,0 +1,57 @@
+{
+  "anime_name": "One Piece Episode Of Skypiea",
+  "anime_url": "https://hianime.ad/anime/one-piece-episode-of-skypiea",
+  "slug": "one-piece-episode-of-skypiea",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:51:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-episode-of-skypiea/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/45f2769f0ac95b2f",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45f2769f0ac95b2f/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/ueowyrrq8d27",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jtzqzvcrcitg",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_dub": "https://vibeplayer.site/8149e299628a4021",
+          "21-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8149e299628a4021/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_dub": "https://otakuvid.online/embed/f9q9c9ba696s",
+          "21-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c678540becab42f4",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c678540becab42f4/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7zuug6kquers",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/39au6o1gbp4n",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/msqxaws1v89h",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
