@@ -16148,5 +16148,15 @@
     "captured_at": "2026-06-18T19:54:01",
     "file": "data-6/samurai-hunt-for-the-sword.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/samurai-hunt-for-the-sword.json"
+  },
+  {
+    "slug": "sanctuary",
+    "mal_id": 648,
+    "anime_name": "Sanctuary",
+    "anime_url": "https://hianime.ad/anime/sanctuary",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T19:54:23",
+    "file": "data-6/sanctuary.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sanctuary.json"
   }
 ]
