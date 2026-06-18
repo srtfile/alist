@@ -1,0 +1,53 @@
+{
+  "anime_name": "Professor Layton And The Eternal Diva",
+  "anime_url": "https://hianime.ad/anime/professor-layton-and-the-eternal-diva",
+  "slug": "professor-layton-and-the-eternal-diva",
+  "mal_id": 41521,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:56:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Head for the Top!",
+      "episode_url": "https://hianime.ad/watch/professor-layton-and-the-eternal-diva/ep-1",
+      "sub": {
+        "HD-1": {
+          "41521-malep-1_vibeplayer_sub": "https://vibeplayer.site/d3878b86aa630ce2",
+          "41521-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d3878b86aa630ce2/master.m3u8"
+        },
+        "Earnvids": {
+          "41521-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wet8m3xb9nnc",
+          "41521-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "41521-malep-1_vibeplayer_dub": "https://vibeplayer.site/1f3d84fe1d83577f",
+          "41521-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1f3d84fe1d83577f/master.m3u8"
+        },
+        "Earnvids": {
+          "41521-malep-1_otakuvid_dub": "https://otakuvid.online/embed/mr2jp0yp3ix6",
+          "41521-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "41521-malep-1_playmogo_dub": "https://playmogo.com/e/rorkybupj3ve",
+          "41521-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "41521-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bb9174112b151f15",
+          "41521-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb9174112b151f15/master.m3u8"
+        },
+        "Earnvids": {
+          "41521-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iws8wcc5h50t",
+          "41521-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41521-malep-1_playmogo_hsub": "https://playmogo.com/e/eakkptzsf75k",
+          "41521-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
