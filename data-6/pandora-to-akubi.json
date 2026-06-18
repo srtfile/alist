@@ -1,0 +1,77 @@
+{
+  "anime_name": "Pandora To Akubi",
+  "anime_url": "https://hianime.ad/anime/pandora-to-akubi",
+  "slug": "pandora-to-akubi",
+  "mal_id": 32214,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T12:44:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Adepter",
+      "episode_url": "https://hianime.ad/watch/pandora-to-akubi/ep-1",
+      "sub": {
+        "HD-1": {
+          "32214-malep-1_vibeplayer_sub": "https://vibeplayer.site/5fee422691a94690",
+          "32214-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fee422691a94690/master.m3u8"
+        },
+        "Earnvids": {
+          "32214-malep-1_otakuvid_sub": "https://otakuvid.online/embed/36dd4w8hgh6k",
+          "32214-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32214-malep-1_playmogo_sub": "https://playmogo.com/e/hpd0bdio0ezl",
+          "32214-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32214-malep-1_vibeplayer_hsub": "https://vibeplayer.site/99ccfcb6764fd64f",
+          "32214-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/99ccfcb6764fd64f/master.m3u8"
+        },
+        "Earnvids": {
+          "32214-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/98g8r0uxllyg",
+          "32214-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32214-malep-1_playmogo_hsub": "https://playmogo.com/e/pr93ygyvtvib",
+          "32214-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Geofront",
+      "episode_url": "https://hianime.ad/watch/pandora-to-akubi/ep-2",
+      "sub": {
+        "HD-1": {
+          "32214-malep-2_vibeplayer_sub": "https://vibeplayer.site/9096da75f660d7e5",
+          "32214-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9096da75f660d7e5/master.m3u8"
+        },
+        "Earnvids": {
+          "32214-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ufuqrlextua2",
+          "32214-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32214-malep-2_vibeplayer_hsub": "https://vibeplayer.site/95a0f098972180e4",
+          "32214-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/95a0f098972180e4/master.m3u8"
+        },
+        "StreamHG": {
+          "32214-malep-2_otakuhg_hsub": "https://otakuhg.site/e/3v5ipxloxagz",
+          "32214-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32214-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/2ss4vtrd0512",
+          "32214-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32214-malep-2_playmogo_hsub": "https://playmogo.com/e/uw5h9hotiumh",
+          "32214-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
