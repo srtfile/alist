@@ -1,0 +1,48 @@
+{
+  "anime_name": "Pole Princess Movie",
+  "anime_url": "https://hianime.ad/anime/pole-princess-movie",
+  "slug": "pole-princess-movie",
+  "mal_id": 42654,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:21:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pole-princess-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "42654-malep-1_vibeplayer_sub": "https://vibeplayer.site/b147c530ae3c0a54",
+          "42654-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b147c530ae3c0a54/master.m3u8"
+        },
+        "Earnvids": {
+          "42654-malep-1_otakuvid_sub": "https://otakuvid.online/embed/eh0qwunebmrg",
+          "42654-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "42654-malep-1_playmogo_sub": "https://playmogo.com/e/0771zq7so4y9",
+          "42654-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "42654-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dbd2ff76e1cd390f",
+          "42654-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dbd2ff76e1cd390f/master.m3u8"
+        },
+        "StreamHG": {
+          "42654-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4p1wnnf6c996",
+          "42654-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42654-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/n2zi7vg9qr8y",
+          "42654-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42654-malep-1_playmogo_hsub": "https://playmogo.com/e/42ifaon5dqmc",
+          "42654-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
