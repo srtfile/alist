@@ -7718,5 +7718,15 @@
     "captured_at": "2026-06-18T12:08:03",
     "file": "data-5/onegai-my-melody.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onegai-my-melody.json"
+  },
+  {
+    "slug": "onegai-my-melody-sukkiri",
+    "mal_id": 5520,
+    "anime_name": "Onegai My Melody Sukkiri",
+    "anime_url": "https://hianime.ad/anime/onegai-my-melody-sukkiri",
+    "total_episodes": 52,
+    "captured_at": "2026-06-18T12:08:55",
+    "file": "data-5/onegai-my-melody-sukkiri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onegai-my-melody-sukkiri.json"
   }
 ]
