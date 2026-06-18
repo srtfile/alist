@@ -1,0 +1,49 @@
+{
+  "anime_name": "Project A Ko 2 Daitokuji Zaibatsu No Inbou",
+  "anime_url": "https://hianime.ad/anime/project-a-ko-2-daitokuji-zaibatsu-no-inbou",
+  "slug": "project-a-ko-2-daitokuji-zaibatsu-no-inbou",
+  "mal_id": 1349,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:56:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Partner",
+      "episode_url": "https://hianime.ad/watch/project-a-ko-2-daitokuji-zaibatsu-no-inbou/ep-1",
+      "sub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_sub": "https://vibeplayer.site/4e3f362ffd1b5111",
+          "1349-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e3f362ffd1b5111/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h1k7384tf9s8",
+          "1349-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_dub": "https://vibeplayer.site/67f213c187a688f1",
+          "1349-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/67f213c187a688f1/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_dub": "https://otakuvid.online/embed/49zhhhe5bv2u",
+          "1349-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_hsub": "https://vibeplayer.site/301eeee0d20fb70c",
+          "1349-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/301eeee0d20fb70c/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0ab8wbslz0ct",
+          "1349-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1349-malep-1_playmogo_hsub": "https://playmogo.com/e/28o00qts8tlb",
+          "1349-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
