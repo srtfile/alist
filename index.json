@@ -12768,5 +12768,15 @@
     "captured_at": "2026-06-18T16:16:12",
     "file": "data-6/ranma-ova.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ranma-ova.json"
+  },
+  {
+    "slug": "ranma-super",
+    "mal_id": 210,
+    "anime_name": "Ranma Super",
+    "anime_url": "https://hianime.ad/anime/ranma-super",
+    "total_episodes": 3,
+    "captured_at": "2026-06-18T16:16:29",
+    "file": "data-6/ranma-super.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ranma-super.json"
   }
 ]
