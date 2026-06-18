@@ -12498,5 +12498,15 @@
     "captured_at": "2026-06-18T16:03:57",
     "file": "data-6/rail-wars.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rail-wars.json"
+  },
+  {
+    "slug": "rain-town",
+    "mal_id": 59619,
+    "anime_name": "Rain Town",
+    "anime_url": "https://hianime.ad/anime/rain-town",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T16:04:20",
+    "file": "data-6/rain-town.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rain-town.json"
   }
 ]
