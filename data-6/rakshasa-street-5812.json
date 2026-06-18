@@ -1,0 +1,69 @@
+{
+  "anime_name": "Rakshasa Street 5812",
+  "anime_url": "https://hianime.ad/anime/rakshasa-street-5812",
+  "slug": "rakshasa-street-5812",
+  "mal_id": null,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T16:08:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/rakshasa-street-5812/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/67da1017bbb912fc",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/67da1017bbb912fc/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/um5re9ythj5h",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/78aee88f127ffdb2",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78aee88f127ffdb2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mtxstisndrgc",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/vocs3qrv3kgr",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/rakshasa-street-5812/ep-2",
+      "sub": {
+        "HD-1": {
+          "malep-2_vibeplayer_sub": "https://vibeplayer.site/6569798126ae0f90",
+          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6569798126ae0f90/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/gr2m34vogol1",
+          "malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-2_vibeplayer_hsub": "https://vibeplayer.site/133145c6f354de14",
+          "malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/133145c6f354de14/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-2_otakuvid_hsub": "https://otakuvid.online/embed/how4z7bc767k",
+          "malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-2_playmogo_hsub": "https://playmogo.com/e/57tlvtuynqb9",
+          "malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
