@@ -9258,5 +9258,15 @@
     "captured_at": "2026-06-18T13:09:05",
     "file": "data-6/perfect-blue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/perfect-blue.json"
+  },
+  {
+    "slug": "perfect-world",
+    "mal_id": 36652,
+    "anime_name": "Perfect World",
+    "anime_url": "https://hianime.ad/anime/perfect-world",
+    "total_episodes": 258,
+    "captured_at": "2026-06-18T13:09:17",
+    "file": "data-6/perfect-world.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/perfect-world.json"
   }
 ]
