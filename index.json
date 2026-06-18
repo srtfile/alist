@@ -3568,5 +3568,15 @@
     "captured_at": "2026-06-18T04:07:11",
     "file": "data-5/my-hime.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-hime.json"
+  },
+  {
+    "slug": "my-hime-specials",
+    "mal_id": 98,
+    "anime_name": "My Hime Specials",
+    "anime_url": "https://hianime.ad/anime/my-hime-specials",
+    "total_episodes": 28,
+    "captured_at": "2026-06-18T04:07:43",
+    "file": "data-5/my-hime-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-hime-specials.json"
   }
 ]
