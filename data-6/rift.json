@@ -1,0 +1,408 @@
+{
+  "anime_name": "Rift",
+  "anime_url": "https://hianime.ad/anime/rift",
+  "slug": "rift",
+  "mal_id": 15059,
+  "total_episodes": 13,
+  "captured_at": "2026-06-18T17:53:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter of Destiny",
+      "episode_url": "https://hianime.ad/watch/rift/ep-1",
+      "sub": {
+        "HD-1": {
+          "15059-malep-1_vibeplayer_sub": "https://vibeplayer.site/5012bbee23db0529",
+          "15059-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5012bbee23db0529/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-1_otakuvid_sub": "https://otakuvid.online/embed/drc4u9nozvpz",
+          "15059-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ba655db5b9fbdd5",
+          "15059-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ba655db5b9fbdd5/master.m3u8"
+        },
+        "StreamHG": {
+          "15059-malep-1_otakuhg_hsub": "https://otakuhg.site/e/090zgme3sazz",
+          "15059-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15059-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jyy67zpda43e",
+          "15059-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-1_playmogo_hsub": "https://playmogo.com/e/wj08q7rm7271",
+          "15059-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The New Battlefield",
+      "episode_url": "https://hianime.ad/watch/rift/ep-2",
+      "sub": {
+        "HD-1": {
+          "15059-malep-2_vibeplayer_sub": "https://vibeplayer.site/f6ee551ae96634fd",
+          "15059-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6ee551ae96634fd/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-2_otakuvid_sub": "https://otakuvid.online/embed/jujx1mnd3v3x",
+          "15059-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a8c0455b3e85a953",
+          "15059-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8c0455b3e85a953/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/xs1stsxfe9w1",
+          "15059-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-2_playmogo_hsub": "https://playmogo.com/e/jkn83o7jvtnj",
+          "15059-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dead Line",
+      "episode_url": "https://hianime.ad/watch/rift/ep-3",
+      "sub": {
+        "HD-1": {
+          "15059-malep-3_vibeplayer_sub": "https://vibeplayer.site/8d825b2ba859471f",
+          "15059-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d825b2ba859471f/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-3_otakuvid_sub": "https://otakuvid.online/embed/dylq8p21x5f7",
+          "15059-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-3_vibeplayer_hsub": "https://vibeplayer.site/bf9cbc8c736d812f",
+          "15059-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf9cbc8c736d812f/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/pbt38nzrcbc7",
+          "15059-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-3_playmogo_hsub": "https://playmogo.com/e/m1r8nkzquaqp",
+          "15059-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Revenge Battle of Fate",
+      "episode_url": "https://hianime.ad/watch/rift/ep-4",
+      "sub": {
+        "HD-1": {
+          "15059-malep-4_vibeplayer_sub": "https://vibeplayer.site/d547ead01dfa549e",
+          "15059-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d547ead01dfa549e/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-4_otakuvid_sub": "https://otakuvid.online/embed/jj89txddhcvz",
+          "15059-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-4_vibeplayer_hsub": "https://vibeplayer.site/2dbf6acfd4a1ec16",
+          "15059-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2dbf6acfd4a1ec16/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/st8emdbl9b2y",
+          "15059-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-4_playmogo_hsub": "https://playmogo.com/e/pjvhsfbuftym",
+          "15059-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fujiwara Zone",
+      "episode_url": "https://hianime.ad/watch/rift/ep-5",
+      "sub": {
+        "HD-1": {
+          "15059-malep-5_vibeplayer_sub": "https://vibeplayer.site/177c30d37daad212",
+          "15059-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/177c30d37daad212/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-5_otakuvid_sub": "https://otakuvid.online/embed/ou4kev820qtc",
+          "15059-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-5_vibeplayer_hsub": "https://vibeplayer.site/5437d9d74bd3f247",
+          "15059-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5437d9d74bd3f247/master.m3u8"
+        },
+        "StreamHG": {
+          "15059-malep-5_otakuhg_hsub": "https://otakuhg.site/e/y7yequmrp020",
+          "15059-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15059-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/2o4aogmdrgm2",
+          "15059-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-5_playmogo_hsub": "https://playmogo.com/e/s12p13i55q5x",
+          "15059-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Keisuke's Determination",
+      "episode_url": "https://hianime.ad/watch/rift/ep-6",
+      "sub": {
+        "HD-1": {
+          "15059-malep-6_vibeplayer_sub": "https://vibeplayer.site/9a0d795f82b36ccf",
+          "15059-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9a0d795f82b36ccf/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-6_otakuvid_sub": "https://otakuvid.online/embed/34v2jish1uwb",
+          "15059-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-6_vibeplayer_hsub": "https://vibeplayer.site/a478cb4730f2c996",
+          "15059-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a478cb4730f2c996/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/oktmf4re79ck",
+          "15059-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-6_playmogo_hsub": "https://playmogo.com/e/5bjt9o90vy5w",
+          "15059-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Zero Hearts",
+      "episode_url": "https://hianime.ad/watch/rift/ep-7",
+      "sub": {
+        "HD-1": {
+          "15059-malep-7_vibeplayer_sub": "https://vibeplayer.site/b2377057525cad16",
+          "15059-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b2377057525cad16/master.m3u8"
+        },
+        "StreamHG": {
+          "15059-malep-7_otakuhg_sub": "https://otakuhg.site/e/in0c1ac3xybd",
+          "15059-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "15059-malep-7_otakuvid_sub": "https://otakuvid.online/embed/rfgcu3zu5lyb",
+          "15059-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-7_vibeplayer_hsub": "https://vibeplayer.site/82592c6ee9d94d08",
+          "15059-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/82592c6ee9d94d08/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/cpv6znurnxvj",
+          "15059-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-7_playmogo_hsub": "https://playmogo.com/e/qzj3levdgqx0",
+          "15059-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "White Devil",
+      "episode_url": "https://hianime.ad/watch/rift/ep-8",
+      "sub": {
+        "HD-1": {
+          "15059-malep-8_vibeplayer_sub": "https://vibeplayer.site/ef998fd14355f95e",
+          "15059-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ef998fd14355f95e/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-8_otakuvid_sub": "https://otakuvid.online/embed/6ruoa9xyp8jh",
+          "15059-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-8_vibeplayer_hsub": "https://vibeplayer.site/1c741e8b13cb2603",
+          "15059-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c741e8b13cb2603/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/mtji9rxtnpbd",
+          "15059-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-8_playmogo_hsub": "https://playmogo.com/e/7q61f1t6azhl",
+          "15059-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Grim Reaper",
+      "episode_url": "https://hianime.ad/watch/rift/ep-9",
+      "sub": {
+        "HD-1": {
+          "15059-malep-9_vibeplayer_sub": "https://vibeplayer.site/03e60b72c832cbe9",
+          "15059-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/03e60b72c832cbe9/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-9_otakuvid_sub": "https://otakuvid.online/embed/4a8khhav7387",
+          "15059-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-9_vibeplayer_hsub": "https://vibeplayer.site/85d76c3ecf413003",
+          "15059-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85d76c3ecf413003/master.m3u8"
+        },
+        "StreamHG": {
+          "15059-malep-9_otakuhg_hsub": "https://otakuhg.site/e/s80nk0exebbh",
+          "15059-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15059-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/mpxib21vzx1q",
+          "15059-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-9_playmogo_hsub": "https://playmogo.com/e/285p1uu7en5y",
+          "15059-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Full Stop",
+      "episode_url": "https://hianime.ad/watch/rift/ep-10",
+      "sub": {
+        "HD-1": {
+          "15059-malep-10_vibeplayer_sub": "https://vibeplayer.site/6d5f834019c00b42",
+          "15059-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6d5f834019c00b42/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-10_otakuvid_sub": "https://otakuvid.online/embed/x866ptu1851i",
+          "15059-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-10_vibeplayer_hsub": "https://vibeplayer.site/6e75408c733a9f2a",
+          "15059-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e75408c733a9f2a/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/rlxmery9lr80",
+          "15059-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-10_playmogo_hsub": "https://playmogo.com/e/1dgnfmzdt4y6",
+          "15059-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Full Stop, Continued...",
+      "episode_url": "https://hianime.ad/watch/rift/ep-11",
+      "sub": {
+        "HD-1": {
+          "15059-malep-11_vibeplayer_sub": "https://vibeplayer.site/dcd889b865680d10",
+          "15059-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dcd889b865680d10/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-11_otakuvid_sub": "https://otakuvid.online/embed/w54x96amfat4",
+          "15059-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-11_vibeplayer_hsub": "https://vibeplayer.site/060e1084adae1389",
+          "15059-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/060e1084adae1389/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/udwjagjqup6o",
+          "15059-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-11_playmogo_hsub": "https://playmogo.com/e/8t8n8yso2rrm",
+          "15059-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Brothers",
+      "episode_url": "https://hianime.ad/watch/rift/ep-12",
+      "sub": {
+        "HD-1": {
+          "15059-malep-12_vibeplayer_sub": "https://vibeplayer.site/31ad4668ffa97fd7",
+          "15059-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/31ad4668ffa97fd7/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-12_otakuvid_sub": "https://otakuvid.online/embed/lqfziezvmmyr",
+          "15059-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-12_vibeplayer_hsub": "https://vibeplayer.site/e6da469a28d6ce69",
+          "15059-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6da469a28d6ce69/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/apc7e5ens742",
+          "15059-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-12_playmogo_hsub": "https://playmogo.com/e/oab0vkrwydr5",
+          "15059-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Unexpected Battle",
+      "episode_url": "https://hianime.ad/watch/rift/ep-13",
+      "sub": {
+        "HD-1": {
+          "15059-malep-13_vibeplayer_sub": "https://vibeplayer.site/9dcfb1782782f53a",
+          "15059-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9dcfb1782782f53a/master.m3u8"
+        },
+        "Earnvids": {
+          "15059-malep-13_otakuvid_sub": "https://otakuvid.online/embed/ikvnli9ycrn9",
+          "15059-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15059-malep-13_vibeplayer_hsub": "https://vibeplayer.site/e56f4df5df98d01e",
+          "15059-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e56f4df5df98d01e/master.m3u8"
+        },
+        "StreamHG": {
+          "15059-malep-13_otakuhg_hsub": "https://otakuhg.site/e/uhfloy7acntf",
+          "15059-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15059-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/w0rsoa539ykh",
+          "15059-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15059-malep-13_playmogo_hsub": "https://playmogo.com/e/ely4gw4emrz3",
+          "15059-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
