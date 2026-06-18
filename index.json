@@ -7708,5 +7708,15 @@
     "captured_at": "2026-06-18T12:07:50",
     "file": "data-5/oneechan-ga-kita-hajimete-no-kitaa.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/oneechan-ga-kita-hajimete-no-kitaa.json"
+  },
+  {
+    "slug": "onegai-my-melody",
+    "mal_id": 2489,
+    "anime_name": "Onegai My Melody",
+    "anime_url": "https://hianime.ad/anime/onegai-my-melody",
+    "total_episodes": 52,
+    "captured_at": "2026-06-18T12:08:03",
+    "file": "data-5/onegai-my-melody.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onegai-my-melody.json"
   }
 ]
