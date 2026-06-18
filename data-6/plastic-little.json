@@ -1,0 +1,53 @@
+{
+  "anime_name": "Plastic Little",
+  "anime_url": "https://hianime.ad/anime/plastic-little",
+  "slug": "plastic-little",
+  "mal_id": 33489,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:41:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A New Beginning",
+      "episode_url": "https://hianime.ad/watch/plastic-little/ep-1",
+      "sub": {
+        "HD-1": {
+          "33489-malep-1_vibeplayer_sub": "https://vibeplayer.site/c1c044c6c72dfe25",
+          "33489-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1c044c6c72dfe25/master.m3u8"
+        },
+        "Earnvids": {
+          "33489-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g4iiummx59cf",
+          "33489-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33489-malep-1_vibeplayer_dub": "https://vibeplayer.site/e68cc461377066ea",
+          "33489-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e68cc461377066ea/master.m3u8"
+        },
+        "Earnvids": {
+          "33489-malep-1_otakuvid_dub": "https://otakuvid.online/embed/tx3ev49clrey",
+          "33489-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33489-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ddf6ebdb926145fa",
+          "33489-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ddf6ebdb926145fa/master.m3u8"
+        },
+        "StreamHG": {
+          "33489-malep-1_otakuhg_hsub": "https://otakuhg.site/e/03afex70wqvi",
+          "33489-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33489-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d8uaouyou89d",
+          "33489-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33489-malep-1_playmogo_hsub": "https://playmogo.com/e/c8x00ej13rbj",
+          "33489-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
