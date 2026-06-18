@@ -5938,5 +5938,15 @@
     "captured_at": "2026-06-18T11:02:01",
     "file": "data-5/nogizaka-haruka-no-himitsu-purezza.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nogizaka-haruka-no-himitsu-purezza.json"
+  },
+  {
+    "slug": "noir",
+    "mal_id": null,
+    "anime_name": "Noir",
+    "anime_url": "https://hianime.ad/anime/noir",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T11:02:27",
+    "file": "data-5/noir.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/noir.json"
   }
 ]
