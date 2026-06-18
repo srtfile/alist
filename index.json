@@ -16348,5 +16348,15 @@
     "captured_at": "2026-06-18T20:04:31",
     "file": "data-6/sasami-sanganbaranai.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sasami-sanganbaranai.json"
+  },
+  {
+    "slug": "sasuke",
+    "mal_id": 6056,
+    "anime_name": "Sasuke",
+    "anime_url": "https://hianime.ad/anime/sasuke",
+    "total_episodes": 2,
+    "captured_at": "2026-06-18T20:05:03",
+    "file": "data-6/sasuke.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sasuke.json"
   }
 ]
