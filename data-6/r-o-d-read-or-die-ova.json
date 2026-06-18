@@ -1,0 +1,67 @@
+{
+  "anime_name": "R O D Read Or Die Ova",
+  "anime_url": "https://hianime.ad/anime/r-o-d-read-or-die-ova",
+  "slug": "r-o-d-read-or-die-ova",
+  "mal_id": 209,
+  "total_episodes": 3,
+  "captured_at": "2026-06-18T15:33:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Papers Have Landed",
+      "episode_url": "https://hianime.ad/watch/r-o-d-read-or-die-ova/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "209-malep-1_vibeplayer_dub": "https://vibeplayer.site/fb740c52725bddf2",
+          "209-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fb740c52725bddf2/master.m3u8"
+        },
+        "StreamHG": {
+          "209-malep-1_otakuhg_dub": "https://otakuhg.site/e/daf3dj5bqes6",
+          "209-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "209-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dh6wuaxvn2mj",
+          "209-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Rise Up, Oh Dregs of Humanity",
+      "episode_url": "https://hianime.ad/watch/r-o-d-read-or-die-ova/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "209-malep-2_vibeplayer_dub": "https://vibeplayer.site/3fdf2dd07b713667",
+          "209-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3fdf2dd07b713667/master.m3u8"
+        },
+        "StreamHG": {
+          "209-malep-2_otakuhg_dub": "https://otakuhg.site/e/8vpvw7qrjz1g",
+          "209-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "209-malep-2_otakuvid_dub": "https://otakuvid.online/embed/0nv80l2608s3",
+          "209-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Let's Meet in Jinbo-cho",
+      "episode_url": "https://hianime.ad/watch/r-o-d-read-or-die-ova/ep-3",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "209-malep-3_vibeplayer_dub": "https://vibeplayer.site/0f5575c534c2c158",
+          "209-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0f5575c534c2c158/master.m3u8"
+        },
+        "Earnvids": {
+          "209-malep-3_otakuvid_dub": "https://otakuvid.online/embed/km7o7n324fpc",
+          "209-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
