@@ -1,0 +1,44 @@
+{
+  "anime_name": "Run Melos",
+  "anime_url": "https://hianime.ad/anime/run-melos",
+  "slug": "run-melos",
+  "mal_id": 2362,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:37:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Those who are Eligible, Assemble",
+      "episode_url": "https://hianime.ad/watch/run-melos/ep-1",
+      "sub": {
+        "HD-1": {
+          "2362-malep-1_vibeplayer_sub": "https://vibeplayer.site/b96d89019042dd56",
+          "2362-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b96d89019042dd56/master.m3u8"
+        },
+        "Earnvids": {
+          "2362-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qugex5ri2qba",
+          "2362-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2362-malep-1_playmogo_sub": "https://playmogo.com/e/y8ojf3h62aly",
+          "2362-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2362-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bfabbfc04e5b3deb",
+          "2362-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bfabbfc04e5b3deb/master.m3u8"
+        },
+        "Earnvids": {
+          "2362-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ooky3j62jyp",
+          "2362-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2362-malep-1_playmogo_hsub": "https://playmogo.com/e/14prk6t68nw0",
+          "2362-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
