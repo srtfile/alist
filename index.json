@@ -15838,5 +15838,15 @@
     "captured_at": "2026-06-18T19:37:51",
     "file": "data-6/sakura-quest.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-quest.json"
+  },
+  {
+    "slug": "sakura-trick",
+    "mal_id": 20047,
+    "anime_name": "Sakura Trick",
+    "anime_url": "https://hianime.ad/anime/sakura-trick",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T19:38:33",
+    "file": "data-6/sakura-trick.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-trick.json"
   }
 ]
