@@ -17628,5 +17628,15 @@
     "captured_at": "2026-06-18T21:11:04",
     "file": "data-6/servamp-movie-alice-in-the-garden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/servamp-movie-alice-in-the-garden.json"
+  },
+  {
+    "slug": "servant-x-service",
+    "mal_id": 18119,
+    "anime_name": "Servant X Service",
+    "anime_url": "https://hianime.ad/anime/servant-x-service",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T21:11:26",
+    "file": "data-6/servant-x-service.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/servant-x-service.json"
   }
 ]
