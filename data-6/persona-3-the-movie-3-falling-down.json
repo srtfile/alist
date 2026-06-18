@@ -1,0 +1,44 @@
+{
+  "anime_name": "Persona 3 The Movie 3 Falling Down",
+  "anime_url": "https://hianime.ad/anime/persona-3-the-movie-3-falling-down",
+  "slug": "persona-3-the-movie-3-falling-down",
+  "mal_id": 34841,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:19:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/persona-3-the-movie-3-falling-down/ep-1",
+      "sub": {
+        "HD-1": {
+          "34841-malep-1_vibeplayer_sub": "https://vibeplayer.site/404c62a75a2a8eec",
+          "34841-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/404c62a75a2a8eec/master.m3u8"
+        },
+        "Earnvids": {
+          "34841-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k3h79olclvf1",
+          "34841-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34841-malep-1_vibeplayer_hsub": "https://vibeplayer.site/96a731fdbf88b503",
+          "34841-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/96a731fdbf88b503/master.m3u8"
+        },
+        "StreamHG": {
+          "34841-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t9ad8xt697eh",
+          "34841-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34841-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2b64bvb69dfg",
+          "34841-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34841-malep-1_playmogo_hsub": "https://playmogo.com/e/witfguugu4w4",
+          "34841-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
