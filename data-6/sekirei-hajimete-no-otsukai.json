@@ -1,0 +1,49 @@
+{
+  "anime_name": "Sekirei Hajimete No Otsukai",
+  "anime_url": "https://hianime.ad/anime/sekirei-hajimete-no-otsukai",
+  "slug": "sekirei-hajimete-no-otsukai",
+  "mal_id": 4063,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:44:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sekirei",
+      "episode_url": "https://hianime.ad/watch/sekirei-hajimete-no-otsukai/ep-1",
+      "sub": {
+        "HD-1": {
+          "4063-malep-1_vibeplayer_sub": "https://vibeplayer.site/e9ad84deb40b97dd",
+          "4063-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e9ad84deb40b97dd/master.m3u8"
+        },
+        "Earnvids": {
+          "4063-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ssfw43n59qw9",
+          "4063-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "4063-malep-1_vibeplayer_dub": "https://vibeplayer.site/05926b117cb7ba5a",
+          "4063-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/05926b117cb7ba5a/master.m3u8"
+        },
+        "Earnvids": {
+          "4063-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ttrhke172jbb",
+          "4063-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "4063-malep-1_vibeplayer_hsub": "https://vibeplayer.site/15480a2f12111c98",
+          "4063-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/15480a2f12111c98/master.m3u8"
+        },
+        "StreamHG": {
+          "4063-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5ysqxqn7ob2a",
+          "4063-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "4063-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f78opfb6km78",
+          "4063-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
