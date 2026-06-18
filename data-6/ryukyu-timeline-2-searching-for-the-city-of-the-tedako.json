@@ -1,0 +1,44 @@
+{
+  "anime_name": "Ryukyu Timeline 2 Searching For The City Of The Tedako",
+  "anime_url": "https://hianime.ad/anime/ryukyu-timeline-2-searching-for-the-city-of-the-tedako",
+  "slug": "ryukyu-timeline-2-searching-for-the-city-of-the-tedako",
+  "mal_id": 36470,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:45:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Can't Just Leave You",
+      "episode_url": "https://hianime.ad/watch/ryukyu-timeline-2-searching-for-the-city-of-the-tedako/ep-1",
+      "sub": {
+        "HD-1": {
+          "36470-malep-1_vibeplayer_sub": "https://vibeplayer.site/4e427cab5909e83a",
+          "36470-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e427cab5909e83a/master.m3u8"
+        },
+        "StreamHG": {
+          "36470-malep-1_otakuhg_sub": "https://otakuhg.site/e/wi1hw5e5qy6g",
+          "36470-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36470-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a2opni73a34u",
+          "36470-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36470-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1233a96de5aade9a",
+          "36470-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1233a96de5aade9a/master.m3u8"
+        },
+        "Earnvids": {
+          "36470-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cuyxn3k8d5y3",
+          "36470-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36470-malep-1_playmogo_hsub": "https://playmogo.com/e/pnpboecbppkr",
+          "36470-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
