@@ -11228,5 +11228,15 @@
     "captured_at": "2026-06-18T14:41:19",
     "file": "data-6/princess-knight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-knight.json"
+  },
+  {
+    "slug": "princess-lover",
+    "mal_id": 6201,
+    "anime_name": "Princess Lover",
+    "anime_url": "https://hianime.ad/anime/princess-lover",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T14:42:13",
+    "file": "data-6/princess-lover.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-lover.json"
   }
 ]
