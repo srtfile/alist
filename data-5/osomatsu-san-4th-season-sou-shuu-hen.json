@@ -1,0 +1,44 @@
+{
+  "anime_name": "Osomatsu San 4Th Season Sou Shuu Hen",
+  "anime_url": "https://hianime.ad/anime/osomatsu-san-4th-season-sou-shuu-hen",
+  "slug": "osomatsu-san-4th-season-sou-shuu-hen",
+  "mal_id": 58996,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:25:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It's Starting Again",
+      "episode_url": "https://hianime.ad/watch/osomatsu-san-4th-season-sou-shuu-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "58996-malep-1_vibeplayer_sub": "https://vibeplayer.site/aa0e9ff99c4c2a4e",
+          "58996-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa0e9ff99c4c2a4e/master.m3u8"
+        },
+        "Earnvids": {
+          "58996-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hbl3cb86g8en",
+          "58996-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58996-malep-1_playmogo_sub": "https://playmogo.com/e/9deojawaican",
+          "58996-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58996-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e9013d12cbac8ae4",
+          "58996-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e9013d12cbac8ae4/master.m3u8"
+        },
+        "Earnvids": {
+          "58996-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/035asjr4jqgm",
+          "58996-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58996-malep-1_playmogo_hsub": "https://playmogo.com/e/28dosvj9c1ux",
+          "58996-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
