@@ -1,0 +1,57 @@
+{
+  "anime_name": "Ryoma The Prince Of Tennis",
+  "anime_url": "https://hianime.ad/anime/ryoma-the-prince-of-tennis",
+  "slug": "ryoma-the-prince-of-tennis",
+  "mal_id": 22,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:44:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Prince Appears",
+      "episode_url": "https://hianime.ad/watch/ryoma-the-prince-of-tennis/ep-1",
+      "sub": {
+        "HD-1": {
+          "22-malep-1_vibeplayer_sub": "https://vibeplayer.site/e59495ec35571f61",
+          "22-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e59495ec35571f61/master.m3u8"
+        },
+        "Earnvids": {
+          "22-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o411l8tzskvh",
+          "22-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "22-malep-1_playmogo_sub": "https://playmogo.com/e/2o6zfnndfh8w",
+          "22-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22-malep-1_vibeplayer_dub": "https://vibeplayer.site/7d23322ff5c363ed",
+          "22-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7d23322ff5c363ed/master.m3u8"
+        },
+        "Earnvids": {
+          "22-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z2rnbxui2gj0",
+          "22-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7fd45b36992f9391",
+          "22-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7fd45b36992f9391/master.m3u8"
+        },
+        "StreamHG": {
+          "22-malep-1_otakuhg_hsub": "https://otakuhg.site/e/p9k9vdeo9d63",
+          "22-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/v81amjxitza5",
+          "22-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22-malep-1_playmogo_hsub": "https://playmogo.com/e/hxs4u2u3k290",
+          "22-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
