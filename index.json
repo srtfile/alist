@@ -8418,5 +8418,15 @@
     "captured_at": "2026-06-18T12:34:04",
     "file": "data-6/overflow-tv-ver.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overflow-tv-ver.json"
+  },
+  {
+    "slug": "overflow-uncensored",
+    "mal_id": null,
+    "anime_name": "Overflow Uncensored",
+    "anime_url": "https://hianime.ad/anime/overflow-uncensored",
+    "total_episodes": 8,
+    "captured_at": "2026-06-18T12:34:21",
+    "file": "data-6/overflow-uncensored.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overflow-uncensored.json"
   }
 ]
