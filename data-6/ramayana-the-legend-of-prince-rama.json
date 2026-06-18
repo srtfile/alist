@@ -1,0 +1,35 @@
+{
+  "anime_name": "Ramayana The Legend Of Prince Rama",
+  "anime_url": "https://hianime.ad/anime/ramayana-the-legend-of-prince-rama",
+  "slug": "ramayana-the-legend-of-prince-rama",
+  "mal_id": 10321,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:10:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seven-Colored Compass",
+      "episode_url": "https://hianime.ad/watch/ramayana-the-legend-of-prince-rama/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_dub": "https://vibeplayer.site/8e3688456d8d876a",
+          "10321-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8e3688456d8d876a/master.m3u8"
+        },
+        "StreamHG": {
+          "10321-malep-1_otakuhg_dub": "https://otakuhg.site/e/0o4u9p1spx7p",
+          "10321-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_dub": "https://otakuvid.online/embed/745nckwt0nzh",
+          "10321-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_dub": "https://playmogo.com/e/si3upqhv6y54",
+          "10321-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
