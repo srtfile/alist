@@ -1,0 +1,48 @@
+{
+  "anime_name": "Saenai Heroine No Sodatekata Fine",
+  "anime_url": "https://hianime.ad/anime/saenai-heroine-no-sodatekata-fine",
+  "slug": "saenai-heroine-no-sodatekata-fine",
+  "mal_id": 23277,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:55:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Error-ridden Prologue",
+      "episode_url": "https://hianime.ad/watch/saenai-heroine-no-sodatekata-fine/ep-1",
+      "sub": {
+        "HD-1": {
+          "23277-malep-1_vibeplayer_sub": "https://vibeplayer.site/0eb4c0b7622df451",
+          "23277-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0eb4c0b7622df451/master.m3u8"
+        },
+        "StreamHG": {
+          "23277-malep-1_otakuhg_sub": "https://otakuhg.site/e/sc9qczfpshf1",
+          "23277-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23277-malep-1_otakuvid_sub": "https://otakuvid.online/embed/650w9z2qppq1",
+          "23277-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23277-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3a04323d3885c97d",
+          "23277-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a04323d3885c97d/master.m3u8"
+        },
+        "StreamHG": {
+          "23277-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0gcn8koy80l8",
+          "23277-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23277-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/izla9dekim0x",
+          "23277-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23277-malep-1_playmogo_hsub": "https://playmogo.com/e/fq9l18wfnlcv",
+          "23277-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
