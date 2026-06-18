@@ -1,0 +1,73 @@
+{
+  "anime_name": "Prayers",
+  "anime_url": "https://hianime.ad/anime/prayers",
+  "slug": "prayers",
+  "mal_id": 112,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T14:30:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Red Impact / Rebirth of the Dark",
+      "episode_url": "https://hianime.ad/watch/prayers/ep-1",
+      "sub": {
+        "HD-1": {
+          "112-malep-1_vibeplayer_sub": "https://vibeplayer.site/ee7058e25afc1d13",
+          "112-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ee7058e25afc1d13/master.m3u8"
+        },
+        "Earnvids": {
+          "112-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4w9hnuw6drzz",
+          "112-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "112-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0da67daab3ae5746",
+          "112-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0da67daab3ae5746/master.m3u8"
+        },
+        "Earnvids": {
+          "112-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8vzetwb06606",
+          "112-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "112-malep-1_playmogo_hsub": "https://playmogo.com/e/i62wr1g7gsra",
+          "112-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Purple Beam / The Clear-headed Green",
+      "episode_url": "https://hianime.ad/watch/prayers/ep-2",
+      "sub": {
+        "HD-1": {
+          "112-malep-2_vibeplayer_sub": "https://vibeplayer.site/b508d399971c464f",
+          "112-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b508d399971c464f/master.m3u8"
+        },
+        "Earnvids": {
+          "112-malep-2_otakuvid_sub": "https://otakuvid.online/embed/678wf27j1ncc",
+          "112-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "112-malep-2_playmogo_sub": "https://playmogo.com/e/xyfejigxuz4f",
+          "112-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "112-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d3cf281447e65c79",
+          "112-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3cf281447e65c79/master.m3u8"
+        },
+        "Earnvids": {
+          "112-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/10q51q4hg54u",
+          "112-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "112-malep-2_playmogo_hsub": "https://playmogo.com/e/3x6ua6zw4dji",
+          "112-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
