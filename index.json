@@ -7838,5 +7838,15 @@
     "captured_at": "2026-06-18T12:14:01",
     "file": "data-5/onmyo-kaiten-rebirth-verse.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onmyo-kaiten-rebirth-verse.json"
+  },
+  {
+    "slug": "onmyouji",
+    "mal_id": 50932,
+    "anime_name": "Onmyouji",
+    "anime_url": "https://hianime.ad/anime/onmyouji",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T12:14:22",
+    "file": "data-5/onmyouji.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onmyouji.json"
   }
 ]
