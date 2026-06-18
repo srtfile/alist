@@ -1,0 +1,81 @@
+{
+  "anime_name": "Persona 5 The Animation Tv Specials",
+  "anime_url": "https://hianime.ad/anime/persona-5-the-animation-tv-specials",
+  "slug": "persona-5-the-animation-tv-specials",
+  "mal_id": 36023,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T13:22:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Am Thou, Thou Art I",
+      "episode_url": "https://hianime.ad/watch/persona-5-the-animation-tv-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "36023-malep-1_vibeplayer_sub": "https://vibeplayer.site/de5c4b404f79530c",
+          "36023-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de5c4b404f79530c/master.m3u8"
+        },
+        "StreamHG": {
+          "36023-malep-1_otakuhg_sub": "https://otakuhg.site/e/02pyttnjwd2m",
+          "36023-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36023-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tdnfpyxarrrm",
+          "36023-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36023-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1afed03abc8bf586",
+          "36023-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1afed03abc8bf586/master.m3u8"
+        },
+        "StreamHG": {
+          "36023-malep-1_otakuhg_hsub": "https://otakuhg.site/e/97srmcn89ipj",
+          "36023-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36023-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0ynsywl0assx",
+          "36023-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36023-malep-1_playmogo_hsub": "https://playmogo.com/e/vjqpr0okorky",
+          "36023-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Let's Take Back What's Dear to You.",
+      "episode_url": "https://hianime.ad/watch/persona-5-the-animation-tv-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "36023-malep-2_vibeplayer_sub": "https://vibeplayer.site/9ee530ced397dd1a",
+          "36023-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ee530ced397dd1a/master.m3u8"
+        },
+        "Earnvids": {
+          "36023-malep-2_otakuvid_sub": "https://otakuvid.online/embed/0jgxnyyvcbo2",
+          "36023-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36023-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d6daa2f8a6696907",
+          "36023-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d6daa2f8a6696907/master.m3u8"
+        },
+        "StreamHG": {
+          "36023-malep-2_otakuhg_hsub": "https://otakuhg.site/e/pfbqeinwp2aq",
+          "36023-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36023-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/brv0dmh57w1b",
+          "36023-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36023-malep-2_playmogo_hsub": "https://playmogo.com/e/ui5jnng8ocmd",
+          "36023-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
