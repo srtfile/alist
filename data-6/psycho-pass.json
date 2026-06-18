@@ -1,0 +1,805 @@
+{
+  "anime_name": "Psycho Pass",
+  "anime_url": "https://hianime.ad/anime/psycho-pass",
+  "slug": "psycho-pass",
+  "mal_id": 13601,
+  "total_episodes": 22,
+  "captured_at": "2026-06-18T15:04:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Crime Coefficient",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-1",
+      "sub": {
+        "HD-1": {
+          "13601-malep-1_vibeplayer_sub": "https://vibeplayer.site/cb4b07b8a11f3c6f",
+          "13601-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb4b07b8a11f3c6f/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-1_otakuhg_sub": "https://otakuhg.site/e/ur3r755q8dvt",
+          "13601-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rb8tbyf9beqk",
+          "13601-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-1_vibeplayer_dub": "https://vibeplayer.site/7b222815da6724ab",
+          "13601-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7b222815da6724ab/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-1_otakuhg_dub": "https://otakuhg.site/e/xw7hxzpeff0b",
+          "13601-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9wq22h2wgb5k",
+          "13601-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Those Capable",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-2",
+      "sub": {
+        "HD-1": {
+          "13601-malep-2_vibeplayer_sub": "https://vibeplayer.site/306a443dffe20ab4",
+          "13601-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/306a443dffe20ab4/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-2_otakuhg_sub": "https://otakuhg.site/e/q9y1nzxu306e",
+          "13601-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-2_otakuvid_sub": "https://otakuvid.online/embed/qe4uf7fupbq2",
+          "13601-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-2_vibeplayer_dub": "https://vibeplayer.site/e94be0dce8a1c28d",
+          "13601-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e94be0dce8a1c28d/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-2_otakuhg_dub": "https://otakuhg.site/e/yufn2fbhkzf5",
+          "13601-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-2_otakuvid_dub": "https://otakuvid.online/embed/g1k34dmf4ebl",
+          "13601-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Rearing Conventions",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-3",
+      "sub": {
+        "HD-1": {
+          "13601-malep-3_vibeplayer_sub": "https://vibeplayer.site/e6c1f283c0275308",
+          "13601-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e6c1f283c0275308/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-3_otakuhg_sub": "https://otakuhg.site/e/jztdsij1pqht",
+          "13601-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-3_otakuvid_sub": "https://otakuvid.online/embed/qvqsjmn0ph3r",
+          "13601-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-3_vibeplayer_dub": "https://vibeplayer.site/79f6e48e95eeb6d3",
+          "13601-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/79f6e48e95eeb6d3/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-3_otakuhg_dub": "https://otakuhg.site/e/mdflf4s8070u",
+          "13601-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-3_otakuvid_dub": "https://otakuvid.online/embed/6j2xp8byw8e9",
+          "13601-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Nobody Knows Your Mask",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-4",
+      "sub": {
+        "HD-1": {
+          "13601-malep-4_vibeplayer_sub": "https://vibeplayer.site/9002f842e2721a61",
+          "13601-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9002f842e2721a61/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-4_otakuhg_sub": "https://otakuhg.site/e/of6gdzk0lnha",
+          "13601-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-4_otakuvid_sub": "https://otakuvid.online/embed/uq0p6g0tnylp",
+          "13601-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-4_vibeplayer_dub": "https://vibeplayer.site/54750dc59bc63fe4",
+          "13601-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/54750dc59bc63fe4/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-4_otakuhg_dub": "https://otakuhg.site/e/opbfwoayiwdy",
+          "13601-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-4_otakuvid_dub": "https://otakuvid.online/embed/05t2xyl7tpy2",
+          "13601-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Nobody Knows Your Face",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-5",
+      "sub": {
+        "HD-1": {
+          "13601-malep-5_vibeplayer_sub": "https://vibeplayer.site/a5270dcaa28ef6e4",
+          "13601-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a5270dcaa28ef6e4/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-5_otakuhg_sub": "https://otakuhg.site/e/3y9pr3io56ju",
+          "13601-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-5_otakuvid_sub": "https://otakuvid.online/embed/80aibczm18hq",
+          "13601-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-5_vibeplayer_dub": "https://vibeplayer.site/4ddda27ec07ecd6c",
+          "13601-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4ddda27ec07ecd6c/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-5_otakuhg_dub": "https://otakuhg.site/e/qvvg3z6y87zn",
+          "13601-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-5_otakuvid_dub": "https://otakuvid.online/embed/oqjm04dkqtid",
+          "13601-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Return of the Psychotic Prince",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-6",
+      "sub": {
+        "HD-1": {
+          "13601-malep-6_vibeplayer_sub": "https://vibeplayer.site/5d2fe58fcafd7ad1",
+          "13601-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5d2fe58fcafd7ad1/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-6_otakuhg_sub": "https://otakuhg.site/e/cl99ihem74kq",
+          "13601-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-6_otakuvid_sub": "https://otakuvid.online/embed/lwnp8lqnnu6l",
+          "13601-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-6_vibeplayer_dub": "https://vibeplayer.site/6dd8e229620f78bc",
+          "13601-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6dd8e229620f78bc/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-6_otakuhg_dub": "https://otakuhg.site/e/x0hr51tffjcl",
+          "13601-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-6_otakuvid_dub": "https://otakuvid.online/embed/i2n14ln4ojk8",
+          "13601-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Symbolism of Bletilla Striata",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-7",
+      "sub": {
+        "HD-1": {
+          "13601-malep-7_vibeplayer_sub": "https://vibeplayer.site/1bdc6e3eda96b00f",
+          "13601-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1bdc6e3eda96b00f/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-7_otakuhg_sub": "https://otakuhg.site/e/gx32gm2d8xk9",
+          "13601-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-7_otakuvid_sub": "https://otakuvid.online/embed/pto4jvzorgtd",
+          "13601-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-7_vibeplayer_dub": "https://vibeplayer.site/bc081d0518679fc5",
+          "13601-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bc081d0518679fc5/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-7_otakuhg_dub": "https://otakuhg.site/e/2kyl4y3l8bc0",
+          "13601-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-7_otakuvid_dub": "https://otakuvid.online/embed/ff2jox0onwdd",
+          "13601-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "And Then, Silence",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-8",
+      "sub": {
+        "HD-1": {
+          "13601-malep-8_vibeplayer_sub": "https://vibeplayer.site/2fee9b3b822f3954",
+          "13601-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2fee9b3b822f3954/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-8_otakuhg_sub": "https://otakuhg.site/e/kvnzkq4jqiks",
+          "13601-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-8_otakuvid_sub": "https://otakuvid.online/embed/xc84jpk5u41h",
+          "13601-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-8_vibeplayer_dub": "https://vibeplayer.site/518ccb420739cc79",
+          "13601-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/518ccb420739cc79/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-8_otakuhg_dub": "https://otakuhg.site/e/vpzkl7jxf0pl",
+          "13601-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-8_otakuvid_dub": "https://otakuvid.online/embed/bo2np0s3unux",
+          "13601-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "13601-malep-8_vibeplayer_hsub": "https://vibeplayer.site/e81771e04c85dc75",
+          "13601-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e81771e04c85dc75/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-8_otakuhg_hsub": "https://otakuhg.site/e/bgj15cds3utj",
+          "13601-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/yp3ahbfq3sej",
+          "13601-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13601-malep-8_playmogo_hsub": "https://playmogo.com/e/i7jrsvx2iz03",
+          "13601-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fruit of Paradise",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-9",
+      "sub": {
+        "HD-1": {
+          "13601-malep-9_vibeplayer_sub": "https://vibeplayer.site/cdf8d17d40ab2113",
+          "13601-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cdf8d17d40ab2113/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-9_otakuhg_sub": "https://otakuhg.site/e/sw53w6k7p9mz",
+          "13601-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-9_otakuvid_sub": "https://otakuvid.online/embed/t6qbe4ab674d",
+          "13601-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-9_vibeplayer_dub": "https://vibeplayer.site/867c8a3461301b04",
+          "13601-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/867c8a3461301b04/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-9_otakuhg_dub": "https://otakuhg.site/e/kbk59v1usiym",
+          "13601-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-9_otakuvid_dub": "https://otakuvid.online/embed/hhgo9ifrme4p",
+          "13601-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Methuselah's Game",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-10",
+      "sub": {
+        "HD-1": {
+          "13601-malep-10_vibeplayer_sub": "https://vibeplayer.site/2c7bfa819154ea11",
+          "13601-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c7bfa819154ea11/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-10_otakuhg_sub": "https://otakuhg.site/e/3wz7tgr5j47t",
+          "13601-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-10_otakuvid_sub": "https://otakuvid.online/embed/efm8okhnmpt1",
+          "13601-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-10_vibeplayer_dub": "https://vibeplayer.site/71797b32ae901785",
+          "13601-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/71797b32ae901785/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-10_otakuhg_dub": "https://otakuhg.site/e/moa93h4ccxbx",
+          "13601-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-10_otakuvid_dub": "https://otakuvid.online/embed/oxdybyorijjo",
+          "13601-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Saint's Supper",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-11",
+      "sub": {
+        "HD-1": {
+          "13601-malep-11_vibeplayer_sub": "https://vibeplayer.site/35eaa594ede856a0",
+          "13601-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/35eaa594ede856a0/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-11_otakuhg_sub": "https://otakuhg.site/e/i6kdbl8i43nq",
+          "13601-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-11_otakuvid_sub": "https://otakuvid.online/embed/qxdnfuda7fig",
+          "13601-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-11_vibeplayer_dub": "https://vibeplayer.site/174ffb282cd2e7a2",
+          "13601-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/174ffb282cd2e7a2/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-11_otakuhg_dub": "https://otakuhg.site/e/sze34xmff9mk",
+          "13601-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-11_otakuvid_dub": "https://otakuvid.online/embed/21bjvo4i5cm9",
+          "13601-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Devil's Crossroad",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-12",
+      "sub": {
+        "HD-1": {
+          "13601-malep-12_vibeplayer_sub": "https://vibeplayer.site/55d6e56da7287fda",
+          "13601-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55d6e56da7287fda/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-12_otakuhg_sub": "https://otakuhg.site/e/ldn2qafexlx8",
+          "13601-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-12_otakuvid_sub": "https://otakuvid.online/embed/v75d771c5gb1",
+          "13601-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-12_vibeplayer_dub": "https://vibeplayer.site/e8430eceb05e3562",
+          "13601-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e8430eceb05e3562/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-12_otakuhg_dub": "https://otakuhg.site/e/mthjlsew22l9",
+          "13601-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-12_otakuvid_dub": "https://otakuvid.online/embed/p978k01dj4wh",
+          "13601-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "13601-malep-12_vibeplayer_hsub": "https://vibeplayer.site/7cbf882e28d854ca",
+          "13601-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7cbf882e28d854ca/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-12_otakuhg_hsub": "https://otakuhg.site/e/9h4bdmgqg95a",
+          "13601-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/ya6rc6uubgro",
+          "13601-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13601-malep-12_playmogo_hsub": "https://playmogo.com/e/8x2hnyzi3bgb",
+          "13601-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Invitation from the Abyss",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-13",
+      "sub": {
+        "HD-1": {
+          "13601-malep-13_vibeplayer_sub": "https://vibeplayer.site/5c3a922a57d35e93",
+          "13601-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5c3a922a57d35e93/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-13_otakuhg_sub": "https://otakuhg.site/e/caaunw8op5u0",
+          "13601-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-13_otakuvid_sub": "https://otakuvid.online/embed/k2foyjw9t30i",
+          "13601-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-13_vibeplayer_dub": "https://vibeplayer.site/18954aeee854bb9c",
+          "13601-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/18954aeee854bb9c/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-13_otakuhg_dub": "https://otakuhg.site/e/hgzdrwh8tf16",
+          "13601-malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-13_otakuvid_dub": "https://otakuvid.online/embed/jg313mm7xc5h",
+          "13601-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Sweet Poison",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-14",
+      "sub": {
+        "HD-1": {
+          "13601-malep-14_vibeplayer_sub": "https://vibeplayer.site/c9c4fa686aaa2579",
+          "13601-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c9c4fa686aaa2579/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-14_otakuhg_sub": "https://otakuhg.site/e/qmnhx2uo2pt5",
+          "13601-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-14_otakuvid_sub": "https://otakuvid.online/embed/m9msc2osvsdj",
+          "13601-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-14_vibeplayer_dub": "https://vibeplayer.site/241899592943b79b",
+          "13601-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/241899592943b79b/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-14_otakuhg_dub": "https://otakuhg.site/e/ahcb6op7720v",
+          "13601-malep-14_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-14_otakuvid_dub": "https://otakuvid.online/embed/qwg54lyyyy7h",
+          "13601-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Town Where Sulfur Falls",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-15",
+      "sub": {
+        "HD-1": {
+          "13601-malep-15_vibeplayer_sub": "https://vibeplayer.site/6ed8d7e55077cb2a",
+          "13601-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ed8d7e55077cb2a/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-15_otakuhg_sub": "https://otakuhg.site/e/97j2qpqfqxj5",
+          "13601-malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-15_otakuvid_sub": "https://otakuvid.online/embed/iqv8cw5n9ba2",
+          "13601-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-15_vibeplayer_dub": "https://vibeplayer.site/fe8ff60944bdf2c6",
+          "13601-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe8ff60944bdf2c6/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-15_otakuhg_dub": "https://otakuhg.site/e/mqjx1sb3iuv5",
+          "13601-malep-15_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-15_otakuvid_dub": "https://otakuvid.online/embed/pbyazpxyvyoq",
+          "13601-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Gate to Judgment",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-16",
+      "sub": {
+        "HD-1": {
+          "13601-malep-16_vibeplayer_sub": "https://vibeplayer.site/696716ef7a572994",
+          "13601-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/696716ef7a572994/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-16_otakuhg_sub": "https://otakuhg.site/e/wlk3m71t5tfa",
+          "13601-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-16_otakuvid_sub": "https://otakuvid.online/embed/fdqpjtrb1127",
+          "13601-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-16_vibeplayer_dub": "https://vibeplayer.site/8de3b05d7ded0445",
+          "13601-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8de3b05d7ded0445/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-16_otakuhg_dub": "https://otakuhg.site/e/icravumm6adg",
+          "13601-malep-16_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-16_otakuvid_dub": "https://otakuvid.online/embed/t22l7l94j4p9",
+          "13601-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Iron Heart",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-17",
+      "sub": {
+        "HD-1": {
+          "13601-malep-17_vibeplayer_sub": "https://vibeplayer.site/2f84d2b4a5cd7de5",
+          "13601-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2f84d2b4a5cd7de5/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-17_otakuhg_sub": "https://otakuhg.site/e/jxnw71raapzy",
+          "13601-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-17_otakuvid_sub": "https://otakuvid.online/embed/flxsyp7p24xh",
+          "13601-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-17_vibeplayer_dub": "https://vibeplayer.site/74eca8091f3b986c",
+          "13601-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/74eca8091f3b986c/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-17_otakuhg_dub": "https://otakuhg.site/e/gspspihsixkv",
+          "13601-malep-17_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-17_otakuvid_dub": "https://otakuvid.online/embed/4hxw36b4bywd",
+          "13601-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "13601-malep-17_vibeplayer_hsub": "https://vibeplayer.site/646a1bacc3fbb35c",
+          "13601-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/646a1bacc3fbb35c/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-17_otakuhg_hsub": "https://otakuhg.site/e/ph2zecg6skvd",
+          "13601-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/vmfjl1ht3wvn",
+          "13601-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13601-malep-17_playmogo_hsub": "https://playmogo.com/e/9bg64fghym2t",
+          "13601-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Promise Written on Water",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-18",
+      "sub": {
+        "HD-1": {
+          "13601-malep-18_vibeplayer_sub": "https://vibeplayer.site/481d4f0278e0d8da",
+          "13601-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/481d4f0278e0d8da/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-18_otakuhg_sub": "https://otakuhg.site/e/gggh1xb4kbow",
+          "13601-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-18_otakuvid_sub": "https://otakuvid.online/embed/9q60c11thnvc",
+          "13601-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-18_vibeplayer_dub": "https://vibeplayer.site/c92e32de6b6bba9b",
+          "13601-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c92e32de6b6bba9b/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-18_otakuhg_dub": "https://otakuhg.site/e/zb1jipywfr8j",
+          "13601-malep-18_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-18_otakuvid_dub": "https://otakuvid.online/embed/bxtyiwjsynfw",
+          "13601-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Transparent Shadow",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-19",
+      "sub": {
+        "HD-1": {
+          "13601-malep-19_vibeplayer_sub": "https://vibeplayer.site/3d84ba106a29acbc",
+          "13601-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3d84ba106a29acbc/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-19_otakuhg_sub": "https://otakuhg.site/e/t0ue3idhe29t",
+          "13601-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-19_otakuvid_sub": "https://otakuvid.online/embed/49rp8ojw0x1u",
+          "13601-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-19_vibeplayer_dub": "https://vibeplayer.site/83c6d1965ac00e61",
+          "13601-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/83c6d1965ac00e61/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-19_otakuhg_dub": "https://otakuhg.site/e/5q3r1vnlus8r",
+          "13601-malep-19_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-19_otakuvid_dub": "https://otakuvid.online/embed/uwj0ijl93oho",
+          "13601-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Where Justice Lies",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-20",
+      "sub": {
+        "HD-1": {
+          "13601-malep-20_vibeplayer_sub": "https://vibeplayer.site/225215b1bfccd370",
+          "13601-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/225215b1bfccd370/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-20_otakuhg_sub": "https://otakuhg.site/e/7i03g2t95sra",
+          "13601-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-20_otakuvid_sub": "https://otakuvid.online/embed/q6r4l9475y6u",
+          "13601-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-20_vibeplayer_dub": "https://vibeplayer.site/bdff14e485775977",
+          "13601-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bdff14e485775977/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-20_otakuhg_dub": "https://otakuhg.site/e/w8x2b1y5kqf8",
+          "13601-malep-20_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-20_otakuvid_dub": "https://otakuvid.online/embed/apztk2pblb4n",
+          "13601-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Blood-Stained Reward",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-21",
+      "sub": {
+        "HD-1": {
+          "13601-malep-21_vibeplayer_sub": "https://vibeplayer.site/1039bd46e4f020d3",
+          "13601-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1039bd46e4f020d3/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-21_otakuhg_sub": "https://otakuhg.site/e/wyct0p9e8c3s",
+          "13601-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-21_otakuvid_sub": "https://otakuvid.online/embed/dicxq3v18pvk",
+          "13601-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-21_vibeplayer_dub": "https://vibeplayer.site/2cd33f951e73bb04",
+          "13601-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2cd33f951e73bb04/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-21_otakuhg_dub": "https://otakuhg.site/e/f8uyoz02uzuf",
+          "13601-malep-21_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-21_otakuvid_dub": "https://otakuvid.online/embed/dscr7h7g8ttc",
+          "13601-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Perfect World",
+      "episode_url": "https://hianime.ad/watch/psycho-pass/ep-22",
+      "sub": {
+        "HD-1": {
+          "13601-malep-22_vibeplayer_sub": "https://vibeplayer.site/6ec36ff40d203e9a",
+          "13601-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ec36ff40d203e9a/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-22_otakuhg_sub": "https://otakuhg.site/e/9nxjlgtwz2q8",
+          "13601-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-22_otakuvid_sub": "https://otakuvid.online/embed/2a17chqltk4a",
+          "13601-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "13601-malep-22_vibeplayer_dub": "https://vibeplayer.site/18467472a81fd934",
+          "13601-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/18467472a81fd934/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-22_otakuhg_dub": "https://otakuhg.site/e/xsqir0v9251h",
+          "13601-malep-22_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-22_otakuvid_dub": "https://otakuvid.online/embed/k76zeg34pzyh",
+          "13601-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "13601-malep-22_vibeplayer_hsub": "https://vibeplayer.site/33365d5ebd01fbf6",
+          "13601-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/33365d5ebd01fbf6/master.m3u8"
+        },
+        "StreamHG": {
+          "13601-malep-22_otakuhg_hsub": "https://otakuhg.site/e/v4c685cy17ej",
+          "13601-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "13601-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/iadftdfrhu1j",
+          "13601-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "13601-malep-22_playmogo_hsub": "https://playmogo.com/e/1mo6h1c4jc79",
+          "13601-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
