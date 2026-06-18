@@ -1,0 +1,69 @@
+{
+  "anime_name": "Shin Mashin Eiyuuden Wataru Majinzan",
+  "anime_url": "https://hianime.ad/anime/shin-mashin-eiyuuden-wataru-majinzan",
+  "slug": "shin-mashin-eiyuuden-wataru-majinzan",
+  "mal_id": 9799,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T21:56:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/shin-mashin-eiyuuden-wataru-majinzan/ep-1",
+      "sub": {
+        "HD-1": {
+          "9799-malep-1_vibeplayer_sub": "https://vibeplayer.site/c913fb6b650c0127",
+          "9799-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c913fb6b650c0127/master.m3u8"
+        },
+        "Earnvids": {
+          "9799-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ivcildvist0x",
+          "9799-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9799-malep-1_vibeplayer_hsub": "https://vibeplayer.site/97a405fabd899f04",
+          "9799-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97a405fabd899f04/master.m3u8"
+        },
+        "Earnvids": {
+          "9799-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7d8cqv3o4hh2",
+          "9799-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9799-malep-1_playmogo_hsub": "https://playmogo.com/e/jwrswdure1rs",
+          "9799-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/shin-mashin-eiyuuden-wataru-majinzan/ep-2",
+      "sub": {
+        "HD-1": {
+          "9799-malep-2_vibeplayer_sub": "https://vibeplayer.site/2517c192023fca52",
+          "9799-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2517c192023fca52/master.m3u8"
+        },
+        "Earnvids": {
+          "9799-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vdw1borusdth",
+          "9799-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9799-malep-2_vibeplayer_hsub": "https://vibeplayer.site/664a8ef462c46e04",
+          "9799-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/664a8ef462c46e04/master.m3u8"
+        },
+        "Earnvids": {
+          "9799-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/br8vr3ypt2hb",
+          "9799-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9799-malep-2_playmogo_hsub": "https://playmogo.com/e/fiss1e61ujne",
+          "9799-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
