@@ -6308,5 +6308,15 @@
     "captured_at": "2026-06-18T11:14:43",
     "file": "data-5/nyanbo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nyanbo.json"
+  },
+  {
+    "slug": "nyanko-days",
+    "mal_id": 34148,
+    "anime_name": "Nyanko Days",
+    "anime_url": "https://hianime.ad/anime/nyanko-days",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T11:15:30",
+    "file": "data-5/nyanko-days.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nyanko-days.json"
   }
 ]
