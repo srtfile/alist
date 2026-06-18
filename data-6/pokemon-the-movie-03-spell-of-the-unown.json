@@ -1,0 +1,69 @@
+{
+  "anime_name": "Pokemon The Movie 03 Spell Of The Unown",
+  "anime_url": "https://hianime.ad/anime/pokemon-the-movie-03-spell-of-the-unown",
+  "slug": "pokemon-the-movie-03-spell-of-the-unown",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:05:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pokemon-the-movie-03-spell-of-the-unown/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/c85a8675a8dc59fe",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c85a8675a8dc59fe/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/sna72ssax4s8",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dj5acovts8ar",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/hbuw81zbfk85",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/43582aa844fd3b5e",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/43582aa844fd3b5e/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/yjjzll7w2fed",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/83k5xgbie31w",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/f3tys8mfsm5t",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/85f126d98bb9edfe",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85f126d98bb9edfe/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/vdnrf1ank9ey",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0gjdp1qtxbmi",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ho6xxsw8pm67",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
