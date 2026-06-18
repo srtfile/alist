@@ -1,0 +1,52 @@
+{
+  "anime_name": "One Piece Movie 7 Karakuri Jou No Mecha Kyohei",
+  "anime_url": "https://hianime.ad/anime/one-piece-movie-7-karakuri-jou-no-mecha-kyohei",
+  "slug": "one-piece-movie-7-karakuri-jou-no-mecha-kyohei",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:46:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-movie-7-karakuri-jou-no-mecha-kyohei/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/a8a3ad5adc2edb73",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a8a3ad5adc2edb73/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/e6ewydfskq5o",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7uny6dg9n2zx",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_sub": "https://playmogo.com/e/7tha09vrgsm3",
+          "21-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/843232acf8d0935f",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/843232acf8d0935f/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qexoq03tfaux",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6dflisx91lm0",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/go0bga5mcrih",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
