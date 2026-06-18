@@ -1,0 +1,40 @@
+{
+  "anime_name": "Saibi",
+  "anime_url": "https://hianime.ad/anime/saibi",
+  "slug": "saibi",
+  "mal_id": 33255,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:58:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Disastrous Life of a Psychic (Part 1)",
+      "episode_url": "https://hianime.ad/watch/saibi/ep-1",
+      "sub": {
+        "HD-1": {
+          "33255-malep-1_vibeplayer_sub": "https://vibeplayer.site/4c0f0c5f26f9bfce",
+          "33255-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4c0f0c5f26f9bfce/master.m3u8"
+        },
+        "Earnvids": {
+          "33255-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jzoymxws6x8o",
+          "33255-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33255-malep-1_vibeplayer_hsub": "https://vibeplayer.site/65db97a11f8fefaf",
+          "33255-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/65db97a11f8fefaf/master.m3u8"
+        },
+        "Earnvids": {
+          "33255-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/86z1ybbhpoqo",
+          "33255-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33255-malep-1_playmogo_hsub": "https://playmogo.com/e/7o7vv6kw4dgd",
+          "33255-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
