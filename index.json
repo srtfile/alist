@@ -11668,5 +11668,15 @@
     "captured_at": "2026-06-18T15:00:52",
     "file": "data-6/pseudo-harem.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pseudo-harem.json"
+  },
+  {
+    "slug": "psychic-academy",
+    "mal_id": 337,
+    "anime_name": "Psychic Academy",
+    "anime_url": "https://hianime.ad/anime/psychic-academy",
+    "total_episodes": 8,
+    "captured_at": "2026-06-18T15:01:17",
+    "file": "data-6/psychic-academy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/psychic-academy.json"
   }
 ]
