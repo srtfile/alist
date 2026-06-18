@@ -1,0 +1,44 @@
+{
+  "anime_name": "Saiyuki Interactive",
+  "anime_url": "https://hianime.ad/anime/saiyuki-interactive",
+  "slug": "saiyuki-interactive",
+  "mal_id": 129,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:28:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "To the Distant West",
+      "episode_url": "https://hianime.ad/watch/saiyuki-interactive/ep-1",
+      "sub": {
+        "HD-1": {
+          "129-malep-1_vibeplayer_sub": "https://vibeplayer.site/b305d44d71674eb8",
+          "129-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b305d44d71674eb8/master.m3u8"
+        },
+        "Earnvids": {
+          "129-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mph597v8yvcc",
+          "129-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "129-malep-1_vibeplayer_hsub": "https://vibeplayer.site/012adf3e29330db1",
+          "129-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/012adf3e29330db1/master.m3u8"
+        },
+        "StreamHG": {
+          "129-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r8lgbkbcfhkh",
+          "129-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "129-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/x8ffn1gxmosv",
+          "129-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "129-malep-1_playmogo_hsub": "https://playmogo.com/e/0mp9b6t9oamj",
+          "129-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
