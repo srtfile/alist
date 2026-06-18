@@ -11408,5 +11408,15 @@
     "captured_at": "2026-06-18T14:47:40",
     "file": "data-6/princession-orchestra.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princession-orchestra.json"
+  },
+  {
+    "slug": "pripara",
+    "mal_id": 23135,
+    "anime_name": "Pripara",
+    "anime_url": "https://hianime.ad/anime/pripara",
+    "total_episodes": 140,
+    "captured_at": "2026-06-18T14:48:30",
+    "file": "data-6/pripara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pripara.json"
   }
 ]
