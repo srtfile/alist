@@ -6148,5 +6148,15 @@
     "captured_at": "2026-06-18T11:09:46",
     "file": "data-5/null-peta-special.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/null-peta-special.json"
+  },
+  {
+    "slug": "number24",
+    "mal_id": 39583,
+    "anime_name": "Number24",
+    "anime_url": "https://hianime.ad/anime/number24",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T11:09:58",
+    "file": "data-5/number24.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/number24.json"
   }
 ]
