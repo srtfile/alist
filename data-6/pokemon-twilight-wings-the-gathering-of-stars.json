@@ -1,0 +1,49 @@
+{
+  "anime_name": "Pokemon Twilight Wings The Gathering Of Stars",
+  "anime_url": "https://hianime.ad/anime/pokemon-twilight-wings-the-gathering-of-stars",
+  "slug": "pokemon-twilight-wings-the-gathering-of-stars",
+  "mal_id": 527,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:20:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pokémon! I Choose You!",
+      "episode_url": "https://hianime.ad/watch/pokemon-twilight-wings-the-gathering-of-stars/ep-1",
+      "sub": {
+        "HD-1": {
+          "527-malep-1_vibeplayer_sub": "https://vibeplayer.site/4f9da681378b40c3",
+          "527-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f9da681378b40c3/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kwp6lpt3efm9",
+          "527-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "527-malep-1_vibeplayer_dub": "https://vibeplayer.site/0b17a7bee4dc4f4e",
+          "527-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0b17a7bee4dc4f4e/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6f87bsnm4v24",
+          "527-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "527-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e25aca13d25ebdd8",
+          "527-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e25aca13d25ebdd8/master.m3u8"
+        },
+        "Earnvids": {
+          "527-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/r3g8cqlbhw0e",
+          "527-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "527-malep-1_playmogo_hsub": "https://playmogo.com/e/0wqz2gorjet4",
+          "527-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
