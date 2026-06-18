@@ -18288,5 +18288,15 @@
     "captured_at": "2026-06-18T21:53:48",
     "file": "data-7/shin-hakkenden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shin-hakkenden.json"
+  },
+  {
+    "slug": "shin-ikkitousen",
+    "mal_id": 49342,
+    "anime_name": "Shin Ikkitousen",
+    "anime_url": "https://hianime.ad/anime/shin-ikkitousen",
+    "total_episodes": 3,
+    "captured_at": "2026-06-18T21:54:32",
+    "file": "data-7/shin-ikkitousen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shin-ikkitousen.json"
   }
 ]
