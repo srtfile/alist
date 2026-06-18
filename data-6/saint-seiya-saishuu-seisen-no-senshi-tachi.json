@@ -1,0 +1,44 @@
+{
+  "anime_name": "Saint Seiya Saishuu Seisen No Senshi Tachi",
+  "anime_url": "https://hianime.ad/anime/saint-seiya-saishuu-seisen-no-senshi-tachi",
+  "slug": "saint-seiya-saishuu-seisen-no-senshi-tachi",
+  "mal_id": 1254,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:20:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Revive! Legendary Hero!",
+      "episode_url": "https://hianime.ad/watch/saint-seiya-saishuu-seisen-no-senshi-tachi/ep-1",
+      "sub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_sub": "https://vibeplayer.site/2a31c3416816947b",
+          "1254-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a31c3416816947b/master.m3u8"
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jyla06wlwruk",
+          "1254-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7b081517ed9b04ab",
+          "1254-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7b081517ed9b04ab/master.m3u8"
+        },
+        "StreamHG": {
+          "1254-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pxe71euu8y0k",
+          "1254-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t8olr1criyk2",
+          "1254-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1254-malep-1_playmogo_hsub": "https://playmogo.com/e/bv8xiualjr45",
+          "1254-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
