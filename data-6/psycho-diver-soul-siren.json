@@ -1,0 +1,53 @@
+{
+  "anime_name": "Psycho Diver Soul Siren",
+  "anime_url": "https://hianime.ad/anime/psycho-diver-soul-siren",
+  "slug": "psycho-diver-soul-siren",
+  "mal_id": 23281,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:04:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Scales of Justice <299/300>",
+      "episode_url": "https://hianime.ad/watch/psycho-diver-soul-siren/ep-1",
+      "sub": {
+        "HD-1": {
+          "23281-malep-1_vibeplayer_sub": "https://vibeplayer.site/f1fcf61589d048c1",
+          "23281-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1fcf61589d048c1/master.m3u8"
+        },
+        "Earnvids": {
+          "23281-malep-1_otakuvid_sub": "https://otakuvid.online/embed/31vjp8tuebhi",
+          "23281-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23281-malep-1_vibeplayer_dub": "https://vibeplayer.site/7fcd6db425091f63",
+          "23281-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7fcd6db425091f63/master.m3u8"
+        },
+        "Earnvids": {
+          "23281-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cj9f7lagogim",
+          "23281-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23281-malep-1_vibeplayer_hsub": "https://vibeplayer.site/00e9f70acfe643eb",
+          "23281-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/00e9f70acfe643eb/master.m3u8"
+        },
+        "StreamHG": {
+          "23281-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vqufr2ubyt2j",
+          "23281-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23281-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fh95atvwt356",
+          "23281-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23281-malep-1_playmogo_hsub": "https://playmogo.com/e/1axyke3zmeic",
+          "23281-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
