@@ -12018,5 +12018,15 @@
     "captured_at": "2026-06-18T15:17:05",
     "file": "data-6/punirunes-puni-3.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/punirunes-puni-3.json"
+  },
+  {
+    "slug": "pupa",
+    "mal_id": 19315,
+    "anime_name": "Pupa",
+    "anime_url": "https://hianime.ad/anime/pupa",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T15:17:41",
+    "file": "data-6/pupa.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pupa.json"
   }
 ]
