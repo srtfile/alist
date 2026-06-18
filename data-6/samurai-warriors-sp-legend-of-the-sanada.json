@@ -1,0 +1,40 @@
+{
+  "anime_name": "Samurai Warriors Sp Legend Of The Sanada",
+  "anime_url": "https://hianime.ad/anime/samurai-warriors-sp-legend-of-the-sanada",
+  "slug": "samurai-warriors-sp-legend-of-the-sanada",
+  "mal_id": 1264,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:52:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Target: Metropolitan Tokyo",
+      "episode_url": "https://hianime.ad/watch/samurai-warriors-sp-legend-of-the-sanada/ep-1",
+      "sub": {
+        "HD-1": {
+          "1264-malep-1_vibeplayer_sub": "https://vibeplayer.site/f1865a32e613ca93",
+          "1264-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1865a32e613ca93/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7wysknnz6nbv",
+          "1264-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1264-malep-1_vibeplayer_hsub": "https://vibeplayer.site/90699b6e85b759a6",
+          "1264-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/90699b6e85b759a6/master.m3u8"
+        },
+        "Earnvids": {
+          "1264-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5dkdqz8w650o",
+          "1264-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-1_playmogo_hsub": "https://playmogo.com/e/jkcbne96wi6b",
+          "1264-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
