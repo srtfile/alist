@@ -11188,5 +11188,15 @@
     "captured_at": "2026-06-18T14:40:14",
     "file": "data-6/princess-connection.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-connection.json"
+  },
+  {
+    "slug": "princess-jellyfish",
+    "mal_id": 8129,
+    "anime_name": "Princess Jellyfish",
+    "anime_url": "https://hianime.ad/anime/princess-jellyfish",
+    "total_episodes": 11,
+    "captured_at": "2026-06-18T14:40:27",
+    "file": "data-6/princess-jellyfish.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-jellyfish.json"
   }
 ]
