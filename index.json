@@ -11388,5 +11388,15 @@
     "captured_at": "2026-06-18T14:46:50",
     "file": "data-6/princess-rouge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-rouge.json"
+  },
+  {
+    "slug": "princess-tutu",
+    "mal_id": 721,
+    "anime_name": "Princess Tutu",
+    "anime_url": "https://hianime.ad/anime/princess-tutu",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T14:47:03",
+    "file": "data-6/princess-tutu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/princess-tutu.json"
   }
 ]
