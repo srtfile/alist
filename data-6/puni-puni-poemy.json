@@ -1,0 +1,55 @@
+{
+  "anime_name": "Puni Puni Poemy",
+  "anime_url": "https://hianime.ad/anime/puni-puni-poemy",
+  "slug": "puni-puni-poemy",
+  "mal_id": 59512,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T15:14:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Our New Puni-Pal, Tomorune",
+      "episode_url": "https://hianime.ad/watch/puni-puni-poemy/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "59512-malep-1_vibeplayer_dub": "https://vibeplayer.site/8e69cbfbdb42179d",
+          "59512-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8e69cbfbdb42179d/master.m3u8"
+        },
+        "StreamHG": {
+          "59512-malep-1_otakuhg_dub": "https://otakuhg.site/e/0rrb4bzawt0z",
+          "59512-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "59512-malep-1_otakuvid_dub": "https://otakuvid.online/embed/fe40z67a0itf",
+          "59512-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59512-malep-1_playmogo_dub": "https://playmogo.com/e/psjjexoogukj",
+          "59512-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "A Day in Puniland",
+      "episode_url": "https://hianime.ad/watch/puni-puni-poemy/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "59512-malep-2_vibeplayer_dub": "https://vibeplayer.site/19cbb9cff34e5993",
+          "59512-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19cbb9cff34e5993/master.m3u8"
+        },
+        "StreamHG": {
+          "59512-malep-2_otakuhg_dub": "https://otakuhg.site/e/mjsbobq5tmcw",
+          "59512-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "59512-malep-2_otakuvid_dub": "https://otakuvid.online/embed/xfa31hqss6nk",
+          "59512-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
