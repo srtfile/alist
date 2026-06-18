@@ -18138,5 +18138,15 @@
     "captured_at": "2026-06-18T21:45:49",
     "file": "data-7/shiki.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shiki.json"
+  },
+  {
+    "slug": "shiki-specials",
+    "mal_id": 7724,
+    "anime_name": "Shiki Specials",
+    "anime_url": "https://hianime.ad/anime/shiki-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-18T21:46:29",
+    "file": "data-7/shiki-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shiki-specials.json"
   }
 ]
