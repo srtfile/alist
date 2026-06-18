@@ -7338,5 +7338,15 @@
     "captured_at": "2026-06-18T11:51:48",
     "file": "data-5/one-piece-episode-of-skypiea.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-piece-episode-of-skypiea.json"
+  },
+  {
+    "slug": "one-piece-glorious-island",
+    "mal_id": 21,
+    "anime_name": "One Piece Glorious Island",
+    "anime_url": "https://hianime.ad/anime/one-piece-glorious-island",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T11:52:01",
+    "file": "data-5/one-piece-glorious-island.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-piece-glorious-island.json"
   }
 ]
