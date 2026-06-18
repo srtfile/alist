@@ -1,0 +1,106 @@
+{
+  "anime_name": "Perfect World Movie",
+  "anime_url": "https://hianime.ad/anime/perfect-world-movie",
+  "slug": "perfect-world-movie",
+  "mal_id": 36652,
+  "total_episodes": 3,
+  "captured_at": "2026-06-18T13:12:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chosen One",
+      "episode_url": "https://hianime.ad/watch/perfect-world-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "36652-malep-1_vibeplayer_sub": "https://vibeplayer.site/aaf7d4d52e72009b",
+          "36652-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aaf7d4d52e72009b/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-1_otakuhg_sub": "https://otakuhg.site/e/cnqz1ysz23qe",
+          "36652-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1aa9smkicldo",
+          "36652-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36652-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3789e1e290e212aa",
+          "36652-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3789e1e290e212aa/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pkn0e4c1wls4",
+          "36652-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hp5mm0068cjy",
+          "36652-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "To Play Chopin's Pieces",
+      "episode_url": "https://hianime.ad/watch/perfect-world-movie/ep-2",
+      "sub": {
+        "HD-1": {
+          "36652-malep-2_vibeplayer_sub": "https://vibeplayer.site/fd3aad7e821d808e",
+          "36652-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd3aad7e821d808e/master.m3u8"
+        },
+        "Earnvids": {
+          "36652-malep-2_otakuvid_sub": "https://otakuvid.online/embed/oqkkvm0cdnic",
+          "36652-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36652-malep-2_vibeplayer_hsub": "https://vibeplayer.site/dc119349112f36c7",
+          "36652-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc119349112f36c7/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-2_otakuhg_hsub": "https://otakuhg.site/e/4aaz8yx1q8p2",
+          "36652-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/f6bp705ocmi4",
+          "36652-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36652-malep-2_playmogo_hsub": "https://playmogo.com/e/8nabge8sk9tn",
+          "36652-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "What Mozart Has Left",
+      "episode_url": "https://hianime.ad/watch/perfect-world-movie/ep-3",
+      "sub": {
+        "HD-1": {
+          "36652-malep-3_vibeplayer_sub": "https://vibeplayer.site/3c42aa0564ac7930",
+          "36652-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c42aa0564ac7930/master.m3u8"
+        },
+        "Earnvids": {
+          "36652-malep-3_otakuvid_sub": "https://otakuvid.online/embed/xkj2yfyezxiq",
+          "36652-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36652-malep-3_vibeplayer_hsub": "https://vibeplayer.site/8d4d46769c283dbd",
+          "36652-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8d4d46769c283dbd/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-3_otakuhg_hsub": "https://otakuhg.site/e/biuejfj1ad94",
+          "36652-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/58qsc7tfv31u",
+          "36652-malep-3_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
