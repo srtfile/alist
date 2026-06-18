@@ -7518,5 +7518,15 @@
     "captured_at": "2026-06-18T11:55:37",
     "file": "data-5/one-pound-gospel.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-pound-gospel.json"
+  },
+  {
+    "slug": "one-punch-man",
+    "mal_id": 30276,
+    "anime_name": "One Punch Man",
+    "anime_url": "https://hianime.ad/anime/one-punch-man",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T11:55:48",
+    "file": "data-5/one-punch-man.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-punch-man.json"
   }
 ]
