@@ -5708,5 +5708,15 @@
     "captured_at": "2026-06-18T10:54:24",
     "file": "data-5/no-money-omake-episodes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-money-omake-episodes.json"
+  },
+  {
+    "slug": "no-rin",
+    "mal_id": null,
+    "anime_name": "No Rin",
+    "anime_url": "https://hianime.ad/anime/no-rin",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T10:54:38",
+    "file": "data-5/no-rin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-rin.json"
   }
 ]
