@@ -1,0 +1,52 @@
+{
+  "anime_name": "One Piece Romance Dawn Story",
+  "anime_url": "https://hianime.ad/anime/one-piece-romance-dawn-story",
+  "slug": "one-piece-romance-dawn-story",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:53:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-romance-dawn-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/d588d061f9e5d875",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d588d061f9e5d875/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/vi5fc82day5a",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9rmsst60swli",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_sub": "https://playmogo.com/e/erpq3x9q2vwe",
+          "21-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b01aaad57cecfee6",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b01aaad57cecfee6/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2hgg5kzi9bxy",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6typozyilby4",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/pvg2mii5957r",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
