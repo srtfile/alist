@@ -7068,5 +7068,15 @@
     "captured_at": "2026-06-18T11:45:11",
     "file": "data-5/one-piece-log-fish-man-island-saga.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-piece-log-fish-man-island-saga.json"
+  },
+  {
+    "slug": "one-piece-movie-1",
+    "mal_id": 21,
+    "anime_name": "One Piece Movie 1",
+    "anime_url": "https://hianime.ad/anime/one-piece-movie-1",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T11:45:46",
+    "file": "data-5/one-piece-movie-1.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-piece-movie-1.json"
   }
 ]
