@@ -5688,5 +5688,15 @@
     "captured_at": "2026-06-18T10:53:50",
     "file": "data-5/no-love-zone.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-love-zone.json"
+  },
+  {
+    "slug": "no-money",
+    "mal_id": null,
+    "anime_name": "No Money",
+    "anime_url": "https://hianime.ad/anime/no-money",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T10:54:08",
+    "file": "data-5/no-money.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-money.json"
   }
 ]
