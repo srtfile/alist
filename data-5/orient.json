@@ -1,0 +1,575 @@
+{
+  "anime_name": "Orient",
+  "anime_url": "https://hianime.ad/anime/orient",
+  "slug": "orient",
+  "mal_id": 45560,
+  "total_episodes": 12,
+  "captured_at": "2026-06-18T12:21:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Musashi & Kojiro",
+      "episode_url": "https://hianime.ad/watch/orient/ep-1",
+      "sub": {
+        "HD-1": {
+          "45560-malep-1_vibeplayer_sub": "https://vibeplayer.site/b0fe03481525f470",
+          "45560-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b0fe03481525f470/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k4hiwnzkqm1a",
+          "45560-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-1_vibeplayer_dub": "https://vibeplayer.site/1124ce3765b5e25f",
+          "45560-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1124ce3765b5e25f/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-1_otakuhg_dub": "https://otakuhg.site/e/7b0ygetxsleo",
+          "45560-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5a7c1ufnls7f",
+          "45560-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-1_vibeplayer_hsub": "https://vibeplayer.site/25a7b11787248547",
+          "45560-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/25a7b11787248547/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5omaj3uipdp1",
+          "45560-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s72atn4w1hs4",
+          "45560-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-1_playmogo_hsub": "https://playmogo.com/e/kj92srxoqepj",
+          "45560-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Bushi's Pride",
+      "episode_url": "https://hianime.ad/watch/orient/ep-2",
+      "sub": {
+        "HD-1": {
+          "45560-malep-2_vibeplayer_sub": "https://vibeplayer.site/e13b7d7bca9ef669",
+          "45560-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e13b7d7bca9ef669/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-2_otakuhg_sub": "https://otakuhg.site/e/0lv68ozypp3s",
+          "45560-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-2_otakuvid_sub": "https://otakuvid.online/embed/gr2nerleh1u3",
+          "45560-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-2_vibeplayer_dub": "https://vibeplayer.site/87de89b528941d5f",
+          "45560-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/87de89b528941d5f/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-2_otakuhg_dub": "https://otakuhg.site/e/bltftovhcixx",
+          "45560-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-2_otakuvid_dub": "https://otakuvid.online/embed/pb8e19h0h0kj",
+          "45560-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-2_vibeplayer_hsub": "https://vibeplayer.site/cdf08be80f3e3288",
+          "45560-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdf08be80f3e3288/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-2_otakuhg_hsub": "https://otakuhg.site/e/yaabkg7tfj34",
+          "45560-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/79j7t65ygrdv",
+          "45560-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-2_playmogo_hsub": "https://playmogo.com/e/btz4o5i1uybj",
+          "45560-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Outside World",
+      "episode_url": "https://hianime.ad/watch/orient/ep-3",
+      "sub": {
+        "HD-1": {
+          "45560-malep-3_vibeplayer_sub": "https://vibeplayer.site/7e68f57d94dc23e8",
+          "45560-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7e68f57d94dc23e8/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-3_otakuvid_sub": "https://otakuvid.online/embed/w6wrm8rldm6s",
+          "45560-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-3_vibeplayer_dub": "https://vibeplayer.site/2ecc3198878a2848",
+          "45560-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2ecc3198878a2848/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-3_otakuhg_dub": "https://otakuhg.site/e/x60lpq3yo94h",
+          "45560-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-3_otakuvid_dub": "https://otakuvid.online/embed/g8cvbpb0q997",
+          "45560-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-3_vibeplayer_hsub": "https://vibeplayer.site/b715ebfb80672a18",
+          "45560-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b715ebfb80672a18/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-3_otakuhg_hsub": "https://otakuhg.site/e/ess55q21mk6a",
+          "45560-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/x8e38rg0ukss",
+          "45560-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-3_playmogo_hsub": "https://playmogo.com/e/uwakfgcu8vmj",
+          "45560-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Kosameda Band",
+      "episode_url": "https://hianime.ad/watch/orient/ep-4",
+      "sub": {
+        "HD-1": {
+          "45560-malep-4_vibeplayer_sub": "https://vibeplayer.site/8a0711551d6c9dd1",
+          "45560-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a0711551d6c9dd1/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-4_otakuvid_sub": "https://otakuvid.online/embed/chmnek663e7l",
+          "45560-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-4_vibeplayer_dub": "https://vibeplayer.site/6c2d6011bd193f1e",
+          "45560-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6c2d6011bd193f1e/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-4_otakuhg_dub": "https://otakuhg.site/e/m949vw4jixpr",
+          "45560-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-4_otakuvid_dub": "https://otakuvid.online/embed/ms3863b5pcjf",
+          "45560-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-4_vibeplayer_hsub": "https://vibeplayer.site/c43f4becdccbf4a6",
+          "45560-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c43f4becdccbf4a6/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-4_otakuhg_hsub": "https://otakuhg.site/e/hgsbn23wcs6m",
+          "45560-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/x41wovlopp2m",
+          "45560-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-4_playmogo_hsub": "https://playmogo.com/e/3s8mubxnecb2",
+          "45560-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Choosing Tomorrow",
+      "episode_url": "https://hianime.ad/watch/orient/ep-5",
+      "sub": {
+        "HD-1": {
+          "45560-malep-5_vibeplayer_sub": "https://vibeplayer.site/3424e7faa35fa927",
+          "45560-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3424e7faa35fa927/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-5_otakuvid_sub": "https://otakuvid.online/embed/obzd9jxegm6y",
+          "45560-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-5_vibeplayer_dub": "https://vibeplayer.site/3859e19093e3ebfc",
+          "45560-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3859e19093e3ebfc/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-5_otakuhg_dub": "https://otakuhg.site/e/bls512r5c5m9",
+          "45560-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-5_otakuvid_dub": "https://otakuvid.online/embed/6x9o48fdd2m4",
+          "45560-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-5_vibeplayer_hsub": "https://vibeplayer.site/490a8cccb8093f42",
+          "45560-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/490a8cccb8093f42/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-5_otakuhg_hsub": "https://otakuhg.site/e/m7rk6cnnxamy",
+          "45560-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/3q908ua9f89d",
+          "45560-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-5_playmogo_hsub": "https://playmogo.com/e/nhnaaj9kvxcn",
+          "45560-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Getting Stronger",
+      "episode_url": "https://hianime.ad/watch/orient/ep-6",
+      "sub": {
+        "HD-1": {
+          "45560-malep-6_vibeplayer_sub": "https://vibeplayer.site/2ad8fe0bd9772e93",
+          "45560-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2ad8fe0bd9772e93/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-6_otakuhg_sub": "https://otakuhg.site/e/eh043517cwgn",
+          "45560-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-6_otakuvid_sub": "https://otakuvid.online/embed/lhexeev7lsal",
+          "45560-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-6_vibeplayer_dub": "https://vibeplayer.site/161f523b28a347ae",
+          "45560-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/161f523b28a347ae/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-6_otakuhg_dub": "https://otakuhg.site/e/i1vxlcd0duk1",
+          "45560-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-6_otakuvid_dub": "https://otakuvid.online/embed/rzkfqxffsmxh",
+          "45560-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-6_vibeplayer_hsub": "https://vibeplayer.site/83af24d749977447",
+          "45560-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/83af24d749977447/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-6_otakuhg_hsub": "https://otakuhg.site/e/yvfeg6kstnle",
+          "45560-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/zn1vrdb1blcf",
+          "45560-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-6_playmogo_hsub": "https://playmogo.com/e/61p876b4aw9a",
+          "45560-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "You Can't Survive Underwater",
+      "episode_url": "https://hianime.ad/watch/orient/ep-7",
+      "sub": {
+        "HD-1": {
+          "45560-malep-7_vibeplayer_sub": "https://vibeplayer.site/cdad3960b66fef46",
+          "45560-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cdad3960b66fef46/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-7_otakuvid_sub": "https://otakuvid.online/embed/f7gqo0u2kgmx",
+          "45560-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-7_vibeplayer_dub": "https://vibeplayer.site/df7fe83dc5f9ef00",
+          "45560-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df7fe83dc5f9ef00/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-7_otakuhg_dub": "https://otakuhg.site/e/cpawqqf1dox0",
+          "45560-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-7_otakuvid_dub": "https://otakuvid.online/embed/1zukj32ywqu8",
+          "45560-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-7_vibeplayer_hsub": "https://vibeplayer.site/1c5d0bec40e5582f",
+          "45560-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c5d0bec40e5582f/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-7_otakuhg_hsub": "https://otakuhg.site/e/zh52czgs96g6",
+          "45560-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/zgg9efud3d35",
+          "45560-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-7_playmogo_hsub": "https://playmogo.com/e/oz5flhd9s2kz",
+          "45560-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Obsidian Goddess",
+      "episode_url": "https://hianime.ad/watch/orient/ep-8",
+      "sub": {
+        "HD-1": {
+          "45560-malep-8_vibeplayer_sub": "https://vibeplayer.site/5a96dec27533e77e",
+          "45560-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a96dec27533e77e/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-8_otakuvid_sub": "https://otakuvid.online/embed/9c7d49yun98m",
+          "45560-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-8_vibeplayer_dub": "https://vibeplayer.site/7f28eb8c0c074a2a",
+          "45560-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7f28eb8c0c074a2a/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-8_otakuhg_dub": "https://otakuhg.site/e/w3ipzesck8rq",
+          "45560-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-8_otakuvid_dub": "https://otakuvid.online/embed/p6x57qevoy1m",
+          "45560-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-8_vibeplayer_hsub": "https://vibeplayer.site/5ba857b4bd769d6a",
+          "45560-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5ba857b4bd769d6a/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-8_otakuhg_hsub": "https://otakuhg.site/e/fp0rpakyh5pn",
+          "45560-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/4i7os0f3bq5w",
+          "45560-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-8_playmogo_hsub": "https://playmogo.com/e/fsclsay25pwr",
+          "45560-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Bushi's Way of Life",
+      "episode_url": "https://hianime.ad/watch/orient/ep-9",
+      "sub": {
+        "HD-1": {
+          "45560-malep-9_vibeplayer_sub": "https://vibeplayer.site/c4f84c048a7d6255",
+          "45560-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4f84c048a7d6255/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-9_otakuvid_sub": "https://otakuvid.online/embed/12tumhxq44ss",
+          "45560-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-9_vibeplayer_dub": "https://vibeplayer.site/1aacb690be6c8bc7",
+          "45560-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1aacb690be6c8bc7/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-9_otakuhg_dub": "https://otakuhg.site/e/5q1ht3mxj9rs",
+          "45560-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-9_otakuvid_dub": "https://otakuvid.online/embed/o5sp3fjlitoi",
+          "45560-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-9_vibeplayer_hsub": "https://vibeplayer.site/bea26c7415a252d8",
+          "45560-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bea26c7415a252d8/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-9_otakuhg_hsub": "https://otakuhg.site/e/ypp5acm5c17o",
+          "45560-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/fx4yff9ix0b1",
+          "45560-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-9_playmogo_hsub": "https://playmogo.com/e/8h4fyacqrflh",
+          "45560-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Goddess's Power",
+      "episode_url": "https://hianime.ad/watch/orient/ep-10",
+      "sub": {
+        "HD-1": {
+          "45560-malep-10_vibeplayer_sub": "https://vibeplayer.site/c889c364311479e5",
+          "45560-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c889c364311479e5/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-10_otakuhg_sub": "https://otakuhg.site/e/1tw7crdaxb9z",
+          "45560-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-10_otakuvid_sub": "https://otakuvid.online/embed/h8142qi2ciiu",
+          "45560-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-10_vibeplayer_dub": "https://vibeplayer.site/ec37226293b70239",
+          "45560-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ec37226293b70239/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-10_otakuhg_dub": "https://otakuhg.site/e/mkdzhmpiys83",
+          "45560-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-10_otakuvid_dub": "https://otakuvid.online/embed/wbzbcfcgzji5",
+          "45560-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-10_vibeplayer_hsub": "https://vibeplayer.site/f6fefdc5b7b9f633",
+          "45560-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f6fefdc5b7b9f633/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-10_otakuhg_hsub": "https://otakuhg.site/e/u7siaaoicn6s",
+          "45560-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/7q0z4qjjy73o",
+          "45560-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-10_playmogo_hsub": "https://playmogo.com/e/xi5xboxm0ngf",
+          "45560-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "What's in a Katana",
+      "episode_url": "https://hianime.ad/watch/orient/ep-11",
+      "sub": {
+        "HD-1": {
+          "45560-malep-11_vibeplayer_sub": "https://vibeplayer.site/a0c9f92327e6454f",
+          "45560-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0c9f92327e6454f/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-11_otakuvid_sub": "https://otakuvid.online/embed/ij8m0kec19rj",
+          "45560-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-11_vibeplayer_dub": "https://vibeplayer.site/5ea20d01c64554f3",
+          "45560-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5ea20d01c64554f3/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-11_otakuhg_dub": "https://otakuhg.site/e/97zi57zgl8qx",
+          "45560-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-11_otakuvid_dub": "https://otakuvid.online/embed/cyriymjchnbj",
+          "45560-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-11_vibeplayer_hsub": "https://vibeplayer.site/c408e623128f2618",
+          "45560-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c408e623128f2618/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-11_otakuhg_hsub": "https://otakuhg.site/e/d1rc7dko2i9b",
+          "45560-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/c3y3v7xcl3mh",
+          "45560-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-11_playmogo_hsub": "https://playmogo.com/e/1gz4zeugewi8",
+          "45560-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Where This Road Leads",
+      "episode_url": "https://hianime.ad/watch/orient/ep-12",
+      "sub": {
+        "HD-1": {
+          "45560-malep-12_vibeplayer_sub": "https://vibeplayer.site/8691f493e2a9c0d3",
+          "45560-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8691f493e2a9c0d3/master.m3u8"
+        },
+        "Earnvids": {
+          "45560-malep-12_otakuvid_sub": "https://otakuvid.online/embed/tt79mq90lvs7",
+          "45560-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45560-malep-12_vibeplayer_dub": "https://vibeplayer.site/4491818d0cc61696",
+          "45560-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4491818d0cc61696/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-12_otakuhg_dub": "https://otakuhg.site/e/pw3elyqbu9xy",
+          "45560-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-12_otakuvid_dub": "https://otakuvid.online/embed/0nmuaucigaol",
+          "45560-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45560-malep-12_vibeplayer_hsub": "https://vibeplayer.site/bac9953798bf0927",
+          "45560-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bac9953798bf0927/master.m3u8"
+        },
+        "StreamHG": {
+          "45560-malep-12_otakuhg_hsub": "https://otakuhg.site/e/az2tijoevond",
+          "45560-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45560-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/4jryuqdmwuc7",
+          "45560-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45560-malep-12_playmogo_hsub": "https://playmogo.com/e/ce1fc7v9g0f2",
+          "45560-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
