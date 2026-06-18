@@ -4858,5 +4858,15 @@
     "captured_at": "2026-06-18T10:20:42",
     "file": "data-5/new-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-game.json"
+  },
+  {
+    "slug": "new-getter-robo",
+    "mal_id": null,
+    "anime_name": "New Getter Robo",
+    "anime_url": "https://hianime.ad/anime/new-getter-robo",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T10:21:02",
+    "file": "data-5/new-getter-robo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-getter-robo.json"
   }
 ]
