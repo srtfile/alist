@@ -1,0 +1,77 @@
+{
+  "anime_name": "Shingeki No Bahamut Genesis Short Story",
+  "anime_url": "https://hianime.ad/anime/shingeki-no-bahamut-genesis-short-story",
+  "slug": "shingeki-no-bahamut-genesis-short-story",
+  "mal_id": 21843,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T21:59:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter Wytearp",
+      "episode_url": "https://hianime.ad/watch/shingeki-no-bahamut-genesis-short-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "21843-malep-1_vibeplayer_sub": "https://vibeplayer.site/896866633cf5a03d",
+          "21843-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/896866633cf5a03d/master.m3u8"
+        },
+        "Earnvids": {
+          "21843-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lc3rb5crmcwu",
+          "21843-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21843-malep-1_playmogo_sub": "https://playmogo.com/e/sj8aotfep54c",
+          "21843-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21843-malep-1_vibeplayer_hsub": "https://vibeplayer.site/74a444fa829b7090",
+          "21843-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/74a444fa829b7090/master.m3u8"
+        },
+        "Earnvids": {
+          "21843-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4zdvr2z3p25z",
+          "21843-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21843-malep-1_playmogo_hsub": "https://playmogo.com/e/gfwhe6idw0in",
+          "21843-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Escape from Levian",
+      "episode_url": "https://hianime.ad/watch/shingeki-no-bahamut-genesis-short-story/ep-2",
+      "sub": {
+        "HD-1": {
+          "21843-malep-2_vibeplayer_sub": "https://vibeplayer.site/74f84665fef6e433",
+          "21843-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/74f84665fef6e433/master.m3u8"
+        },
+        "Earnvids": {
+          "21843-malep-2_otakuvid_sub": "https://otakuvid.online/embed/3aed3s1xh6xt",
+          "21843-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21843-malep-2_playmogo_sub": "https://playmogo.com/e/qd3g81adw2ml",
+          "21843-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21843-malep-2_vibeplayer_hsub": "https://vibeplayer.site/e4799aa7ddf33357",
+          "21843-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4799aa7ddf33357/master.m3u8"
+        },
+        "Earnvids": {
+          "21843-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/yru3f6lirapn",
+          "21843-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21843-malep-2_playmogo_hsub": "https://playmogo.com/e/q99t1o2lhfez",
+          "21843-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
