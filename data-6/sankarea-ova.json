@@ -1,0 +1,77 @@
+{
+  "anime_name": "Sankarea Ova",
+  "anime_url": "https://hianime.ad/anime/sankarea-ova",
+  "slug": "sankarea-ova",
+  "mal_id": 11499,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T19:56:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Once I... Become a... Zombie",
+      "episode_url": "https://hianime.ad/watch/sankarea-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "11499-malep-1_vibeplayer_sub": "https://vibeplayer.site/772964fe0dd02392",
+          "11499-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/772964fe0dd02392/master.m3u8"
+        },
+        "Earnvids": {
+          "11499-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gst3w2heamio",
+          "11499-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11499-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7adaa8e4e3afeee7",
+          "11499-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7adaa8e4e3afeee7/master.m3u8"
+        },
+        "StreamHG": {
+          "11499-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4qdjnuspivms",
+          "11499-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11499-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ez81wy3xmbz3",
+          "11499-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11499-malep-1_playmogo_hsub": "https://playmogo.com/e/curbj7mo7ykh",
+          "11499-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It Was... Successful",
+      "episode_url": "https://hianime.ad/watch/sankarea-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "11499-malep-2_vibeplayer_sub": "https://vibeplayer.site/4ac1494ec409d97a",
+          "11499-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4ac1494ec409d97a/master.m3u8"
+        },
+        "Earnvids": {
+          "11499-malep-2_otakuvid_sub": "https://otakuvid.online/embed/jm4j8cgcpitk",
+          "11499-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11499-malep-2_vibeplayer_hsub": "https://vibeplayer.site/236413a083b949ed",
+          "11499-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/236413a083b949ed/master.m3u8"
+        },
+        "StreamHG": {
+          "11499-malep-2_otakuhg_hsub": "https://otakuhg.site/e/ov18fcialob9",
+          "11499-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11499-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/artjxgbamaer",
+          "11499-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11499-malep-2_playmogo_hsub": "https://playmogo.com/e/sxd0irm8wc8t",
+          "11499-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
