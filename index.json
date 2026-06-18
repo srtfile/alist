@@ -16258,5 +16258,15 @@
     "captured_at": "2026-06-18T20:00:26",
     "file": "data-6/sanzoku-diary.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sanzoku-diary.json"
+  },
+  {
+    "slug": "sarazanmai",
+    "mal_id": 37426,
+    "anime_name": "Sarazanmai",
+    "anime_url": "https://hianime.ad/anime/sarazanmai",
+    "total_episodes": 11,
+    "captured_at": "2026-06-18T20:00:48",
+    "file": "data-6/sarazanmai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sarazanmai.json"
   }
 ]
