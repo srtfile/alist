@@ -1,0 +1,62 @@
+{
+  "anime_name": "Sayonara Zetsubou Sensei Special",
+  "anime_url": "https://hianime.ad/anime/sayonara-zetsubou-sensei-special",
+  "slug": "sayonara-zetsubou-sensei-special",
+  "mal_id": 2605,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:08:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Goodbye, Mr. Despair",
+      "episode_url": "https://hianime.ad/watch/sayonara-zetsubou-sensei-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "2605-malep-1_vibeplayer_sub": "https://vibeplayer.site/8493da2da8e821a1",
+          "2605-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8493da2da8e821a1/master.m3u8"
+        },
+        "Earnvids": {
+          "2605-malep-1_otakuvid_sub": "https://otakuvid.online/embed/12ilu5p91f6v",
+          "2605-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2605-malep-1_playmogo_sub": "https://playmogo.com/e/lh1bhwstikns",
+          "2605-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2605-malep-1_vibeplayer_hsub": "https://vibeplayer.site/181710474b15097d",
+          "2605-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/181710474b15097d/master.m3u8"
+        },
+        "Earnvids": {
+          "2605-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1tqjid1exjvr",
+          "2605-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2605-malep-1_playmogo_hsub": "https://playmogo.com/e/ikwkcgbe5w68",
+          "2605-malep-1_playmogo_hsub_m3u8": null
+        }
+      },
+      "raw": {
+        "HD-1": {
+          "2605-malep-1_vibeplayer_raw": "https://vibeplayer.site/43fab632631b685b",
+          "2605-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/43fab632631b685b/master.m3u8"
+        },
+        "StreamHG": {
+          "2605-malep-1_otakuhg_raw": "https://otakuhg.site/e/rdxlgnt1g9er",
+          "2605-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "2605-malep-1_otakuvid_raw": "https://otakuvid.online/embed/eb45fyvb8poj",
+          "2605-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "2605-malep-1_playmogo_raw": "https://playmogo.com/e/1lxlgwqyaemv",
+          "2605-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
