@@ -5328,5 +5328,15 @@
     "captured_at": "2026-06-18T10:34:51",
     "file": "data-5/ninja-cadets.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninja-cadets.json"
+  },
+  {
+    "slug": "ninja-collection",
+    "mal_id": null,
+    "anime_name": "Ninja Collection",
+    "anime_url": "https://hianime.ad/anime/ninja-collection",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T10:35:02",
+    "file": "data-5/ninja-collection.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninja-collection.json"
   }
 ]
