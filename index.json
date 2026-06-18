@@ -10818,5 +10818,15 @@
     "captured_at": "2026-06-18T14:24:42",
     "file": "data-6/poppinpartys-ordinary-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/poppinpartys-ordinary-days.json"
+  },
+  {
+    "slug": "pops",
+    "mal_id": 7750,
+    "anime_name": "Pops",
+    "anime_url": "https://hianime.ad/anime/pops",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T14:25:02",
+    "file": "data-6/pops.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pops.json"
   }
 ]
