@@ -8738,5 +8738,15 @@
     "captured_at": "2026-06-18T12:44:03",
     "file": "data-6/pandora-to-akubi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pandora-to-akubi.json"
+  },
+  {
+    "slug": "pandorahearts",
+    "mal_id": null,
+    "anime_name": "Pandorahearts",
+    "anime_url": "https://hianime.ad/anime/pandorahearts",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T12:44:15",
+    "file": "data-6/pandorahearts.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pandorahearts.json"
   }
 ]
