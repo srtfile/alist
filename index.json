@@ -3278,5 +3278,15 @@
     "captured_at": "2026-06-18T03:56:14",
     "file": "data-5/my-ordinary-life-episode-0.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-ordinary-life-episode-0.json"
+  },
+  {
+    "slug": "my-roommate-is-a-cat",
+    "mal_id": 38145,
+    "anime_name": "My Roommate Is A Cat",
+    "anime_url": "https://hianime.ad/anime/my-roommate-is-a-cat",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T03:56:26",
+    "file": "data-5/my-roommate-is-a-cat.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-roommate-is-a-cat.json"
   }
 ]
