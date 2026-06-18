@@ -10248,5 +10248,15 @@
     "captured_at": "2026-06-18T13:52:16",
     "file": "data-6/pokemon.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon.json"
+  },
+  {
+    "slug": "pokemon-concierge",
+    "mal_id": 527,
+    "anime_name": "Pokemon Concierge",
+    "anime_url": "https://hianime.ad/anime/pokemon-concierge",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T13:56:14",
+    "file": "data-6/pokemon-concierge.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-concierge.json"
   }
 ]
