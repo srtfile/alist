@@ -8878,5 +8878,15 @@
     "captured_at": "2026-06-18T12:48:07",
     "file": "data-6/papillon-rose.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/papillon-rose.json"
+  },
+  {
+    "slug": "paprika",
+    "mal_id": 62983,
+    "anime_name": "Paprika",
+    "anime_url": "https://hianime.ad/anime/paprika",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T12:48:24",
+    "file": "data-6/paprika.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/paprika.json"
   }
 ]
