@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rurouni Kenshin New Kyoto Arc",
+  "anime_url": "https://hianime.ad/anime/rurouni-kenshin-new-kyoto-arc",
+  "slug": "rurouni-kenshin-new-kyoto-arc",
+  "mal_id": 45,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:41:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Handsome Swordsman of Legend: A Man who Fights for Love",
+      "episode_url": "https://hianime.ad/watch/rurouni-kenshin-new-kyoto-arc/ep-1",
+      "sub": {
+        "HD-1": {
+          "45-malep-1_vibeplayer_sub": "https://vibeplayer.site/f773087d3d12625c",
+          "45-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f773087d3d12625c/master.m3u8"
+        },
+        "Earnvids": {
+          "45-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z5bnljqhhox7",
+          "45-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "45-malep-1_vibeplayer_hsub": "https://vibeplayer.site/28de7aac55d0faa7",
+          "45-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/28de7aac55d0faa7/master.m3u8"
+        },
+        "StreamHG": {
+          "45-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6rm9iruy3qnt",
+          "45-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5jtf50gryx0z",
+          "45-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45-malep-1_playmogo_hsub": "https://playmogo.com/e/2y9c5gpjmphm",
+          "45-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
