@@ -1,0 +1,53 @@
+{
+  "anime_name": "Sankarea I Too Am A Zombie",
+  "anime_url": "https://hianime.ad/anime/sankarea-i-too-am-a-zombie",
+  "slug": "sankarea-i-too-am-a-zombie",
+  "mal_id": 8841,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:56:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yes, I'm a Magical Garment Girl",
+      "episode_url": "https://hianime.ad/watch/sankarea-i-too-am-a-zombie/ep-1",
+      "sub": {
+        "HD-1": {
+          "8841-malep-1_vibeplayer_sub": "https://vibeplayer.site/343fce8cf10744d5",
+          "8841-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/343fce8cf10744d5/master.m3u8"
+        },
+        "Earnvids": {
+          "8841-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pp6ltpee0vj2",
+          "8841-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8841-malep-1_vibeplayer_dub": "https://vibeplayer.site/a9ebe44cb3f8a4bd",
+          "8841-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a9ebe44cb3f8a4bd/master.m3u8"
+        },
+        "Earnvids": {
+          "8841-malep-1_otakuvid_dub": "https://otakuvid.online/embed/66k7rxzu72pt",
+          "8841-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8841-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7b35095c07c2c721",
+          "8841-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7b35095c07c2c721/master.m3u8"
+        },
+        "StreamHG": {
+          "8841-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3z0nxli8qm05",
+          "8841-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8841-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3x2w0kl3smgm",
+          "8841-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8841-malep-1_playmogo_hsub": "https://playmogo.com/e/q5el7v9pg88t",
+          "8841-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
