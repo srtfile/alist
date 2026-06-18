@@ -1,0 +1,44 @@
+{
+  "anime_name": "Princess Arete",
+  "anime_url": "https://hianime.ad/anime/princess-arete",
+  "slug": "princess-arete",
+  "mal_id": 55774,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:39:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Princess and Her Torture Time",
+      "episode_url": "https://hianime.ad/watch/princess-arete/ep-1",
+      "sub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_sub": "https://vibeplayer.site/d477074adf4e2bab",
+          "55774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d477074adf4e2bab/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sp8ww1la69qn",
+          "55774-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/eccfdc2174057d9a",
+          "55774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eccfdc2174057d9a/master.m3u8"
+        },
+        "StreamHG": {
+          "55774-malep-1_otakuhg_hsub": "https://otakuhg.site/e/riqalc1p986g",
+          "55774-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a8j78f1ijcx7",
+          "55774-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55774-malep-1_playmogo_hsub": "https://playmogo.com/e/bd63u2rf9dzv",
+          "55774-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
