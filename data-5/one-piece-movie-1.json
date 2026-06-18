@@ -1,0 +1,52 @@
+{
+  "anime_name": "One Piece Movie 1",
+  "anime_url": "https://hianime.ad/anime/one-piece-movie-1",
+  "slug": "one-piece-movie-1",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:45:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-movie-1/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/fdd3bbe781c84568",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fdd3bbe781c84568/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/3h8b4opss5z5",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3f6el4xw4tun",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_sub": "https://playmogo.com/e/x6v0o8vnim4j",
+          "21-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f4c796e6bfc57e29",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f4c796e6bfc57e29/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1q4oymyuxm2u",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uyoyih8vi0rs",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/78a4m1rvela4",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
