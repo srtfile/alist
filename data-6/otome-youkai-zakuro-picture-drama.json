@@ -1,0 +1,73 @@
+{
+  "anime_name": "Otome Youkai Zakuro Picture Drama",
+  "anime_url": "https://hianime.ad/anime/otome-youkai-zakuro-picture-drama",
+  "slug": "otome-youkai-zakuro-picture-drama",
+  "mal_id": 8476,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T12:27:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Prepare To Be Bewitched",
+      "episode_url": "https://hianime.ad/watch/otome-youkai-zakuro-picture-drama/ep-1",
+      "sub": {
+        "HD-1": {
+          "8476-malep-1_vibeplayer_sub": "https://vibeplayer.site/74d78eab8901f2b9",
+          "8476-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/74d78eab8901f2b9/master.m3u8"
+        },
+        "Earnvids": {
+          "8476-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2q4zwz19dg5z",
+          "8476-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8476-malep-1_vibeplayer_hsub": "https://vibeplayer.site/60f7b3e92d46da5e",
+          "8476-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/60f7b3e92d46da5e/master.m3u8"
+        },
+        "StreamHG": {
+          "8476-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ov82d6niof8g",
+          "8476-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8476-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ct11ib4xmu0m",
+          "8476-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8476-malep-1_playmogo_hsub": "https://playmogo.com/e/q30djbfxqwcz",
+          "8476-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Crimson Brilliance",
+      "episode_url": "https://hianime.ad/watch/otome-youkai-zakuro-picture-drama/ep-2",
+      "sub": {
+        "HD-1": {
+          "8476-malep-2_vibeplayer_sub": "https://vibeplayer.site/0ff7622cc1d975c5",
+          "8476-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0ff7622cc1d975c5/master.m3u8"
+        },
+        "Earnvids": {
+          "8476-malep-2_otakuvid_sub": "https://otakuvid.online/embed/k931i540l5vz",
+          "8476-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8476-malep-2_vibeplayer_hsub": "https://vibeplayer.site/331f6b4054d77cbb",
+          "8476-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/331f6b4054d77cbb/master.m3u8"
+        },
+        "Earnvids": {
+          "8476-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/k43vsxn2nw12",
+          "8476-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8476-malep-2_playmogo_hsub": "https://playmogo.com/e/tewah7i08nio",
+          "8476-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
