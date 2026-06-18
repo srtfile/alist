@@ -15958,5 +15958,15 @@
     "captured_at": "2026-06-18T19:43:54",
     "file": "data-6/salted-fish.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/salted-fish.json"
+  },
+  {
+    "slug": "samurai-7",
+    "mal_id": 166,
+    "anime_name": "Samurai 7",
+    "anime_url": "https://hianime.ad/anime/samurai-7",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T19:44:33",
+    "file": "data-6/samurai-7.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/samurai-7.json"
   }
 ]
