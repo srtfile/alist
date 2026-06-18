@@ -6298,5 +6298,15 @@
     "captured_at": "2026-06-18T11:14:21",
     "file": "data-5/nyan-koi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nyan-koi.json"
+  },
+  {
+    "slug": "nyanbo",
+    "mal_id": 32805,
+    "anime_name": "Nyanbo",
+    "anime_url": "https://hianime.ad/anime/nyanbo",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T11:14:43",
+    "file": "data-5/nyanbo.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nyanbo.json"
   }
 ]
