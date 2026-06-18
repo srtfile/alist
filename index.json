@@ -3348,5 +3348,15 @@
     "captured_at": "2026-06-18T03:59:17",
     "file": "data-5/my-sister-my-writer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-sister-my-writer.json"
+  },
+  {
+    "slug": "my-star",
+    "mal_id": 52034,
+    "anime_name": "My Star",
+    "anime_url": "https://hianime.ad/anime/my-star",
+    "total_episodes": 11,
+    "captured_at": "2026-06-18T03:59:37",
+    "file": "data-5/my-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/my-star.json"
   }
 ]
