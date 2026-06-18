@@ -1,0 +1,44 @@
+{
+  "anime_name": "One Piece Episode Of Sabo The Three Brothers Bond",
+  "anime_url": "https://hianime.ad/anime/one-piece-episode-of-sabo-the-three-brothers-bond",
+  "slug": "one-piece-episode-of-sabo-the-three-brothers-bond",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:51:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-episode-of-sabo-the-three-brothers-bond/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/2aa6e24f0a57d045",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2aa6e24f0a57d045/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xnw9bhnkmt6z",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2ef01a97c200b8eb",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ef01a97c200b8eb/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xh7q1zxmzc7g",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z9a155hv2mi6",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/k7e4qpujh52f",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
