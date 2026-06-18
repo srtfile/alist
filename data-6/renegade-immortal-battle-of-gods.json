@@ -1,0 +1,52 @@
+{
+  "anime_name": "Renegade Immortal Battle Of Gods",
+  "anime_url": "https://hianime.ad/anime/renegade-immortal-battle-of-gods",
+  "slug": "renegade-immortal-battle-of-gods",
+  "mal_id": 1108,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:36:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Taikoubou Is Accorded Project Soul Hunt",
+      "episode_url": "https://hianime.ad/watch/renegade-immortal-battle-of-gods/ep-1",
+      "sub": {
+        "HD-1": {
+          "1108-malep-1_vibeplayer_sub": "https://vibeplayer.site/24c227576cccd33e",
+          "1108-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/24c227576cccd33e/master.m3u8"
+        },
+        "StreamHG": {
+          "1108-malep-1_otakuhg_sub": "https://otakuhg.site/e/yvc08hpb7gbd",
+          "1108-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1108-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0qxnt857hzn9",
+          "1108-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1108-malep-1_playmogo_sub": "https://playmogo.com/e/63ttqw7ey60y",
+          "1108-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1108-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d911eace1a0adf59",
+          "1108-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d911eace1a0adf59/master.m3u8"
+        },
+        "StreamHG": {
+          "1108-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qhqzgl9cgruy",
+          "1108-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1108-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8rr9i8uz8l9d",
+          "1108-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1108-malep-1_playmogo_hsub": "https://playmogo.com/e/b360bqwldpqj",
+          "1108-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
