@@ -1,0 +1,576 @@
+{
+  "anime_name": "Overlord",
+  "anime_url": "https://hianime.ad/anime/overlord",
+  "slug": "overlord",
+  "mal_id": 29803,
+  "total_episodes": 13,
+  "captured_at": "2026-06-18T12:34:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "End and Beginning",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-1",
+      "sub": {
+        "HD-1": {
+          "29803-malep-1_vibeplayer_sub": "https://vibeplayer.site/b21f326f361f456a",
+          "29803-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b21f326f361f456a/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-1_otakuhg_sub": "https://otakuhg.site/e/qgpzm5s063by",
+          "29803-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gcuj6j8zd005",
+          "29803-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-1_vibeplayer_dub": "https://vibeplayer.site/5f1fdb2567d62856",
+          "29803-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5f1fdb2567d62856/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-1_otakuhg_dub": "https://otakuhg.site/e/p7cgxd92e5l8",
+          "29803-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-1_otakuvid_dub": "https://otakuvid.online/embed/izro37xs8dj0",
+          "29803-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c0d3dcdacd3285da",
+          "29803-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0d3dcdacd3285da/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ciqfslwke1jo",
+          "29803-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6ji7kbbwnu56",
+          "29803-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-1_playmogo_hsub": "https://playmogo.com/e/ncx2y7157jz2",
+          "29803-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Floor Guardians",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-2",
+      "sub": {
+        "HD-1": {
+          "29803-malep-2_vibeplayer_sub": "https://vibeplayer.site/bf468dbbe68ef620",
+          "29803-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf468dbbe68ef620/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-2_otakuhg_sub": "https://otakuhg.site/e/4yuv8shedb0m",
+          "29803-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-2_otakuvid_sub": "https://otakuvid.online/embed/s8j92rplqvfc",
+          "29803-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-2_vibeplayer_dub": "https://vibeplayer.site/dee0412249d19daf",
+          "29803-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dee0412249d19daf/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-2_otakuhg_dub": "https://otakuhg.site/e/2mson9mmxcbw",
+          "29803-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-2_otakuvid_dub": "https://otakuvid.online/embed/c0j53jykv341",
+          "29803-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-2_vibeplayer_hsub": "https://vibeplayer.site/f77d7b3446f9daf1",
+          "29803-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f77d7b3446f9daf1/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-2_otakuhg_hsub": "https://otakuhg.site/e/oj7s1i1map09",
+          "29803-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/17ogpyaxnw54",
+          "29803-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-2_playmogo_hsub": "https://playmogo.com/e/3n2ydvkplmq0",
+          "29803-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Battle at Carne Village",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-3",
+      "sub": {
+        "HD-1": {
+          "29803-malep-3_vibeplayer_sub": "https://vibeplayer.site/17abbb203f670807",
+          "29803-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/17abbb203f670807/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-3_otakuhg_sub": "https://otakuhg.site/e/v8xtfllamixz",
+          "29803-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-3_otakuvid_sub": "https://otakuvid.online/embed/q2nwd7t2qbzj",
+          "29803-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-3_vibeplayer_dub": "https://vibeplayer.site/4f02ebb5d8d1ca2b",
+          "29803-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4f02ebb5d8d1ca2b/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-3_otakuhg_dub": "https://otakuhg.site/e/gwl0l2zwm3o4",
+          "29803-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-3_otakuvid_dub": "https://otakuvid.online/embed/9qr6b5qx1dx3",
+          "29803-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-3_vibeplayer_hsub": "https://vibeplayer.site/b9cbf430fe0b3f34",
+          "29803-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b9cbf430fe0b3f34/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-3_otakuhg_hsub": "https://otakuhg.site/e/6il9t7w0zunz",
+          "29803-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/5s4508qk3ot5",
+          "29803-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-3_playmogo_hsub": "https://playmogo.com/e/ok078bm8casi",
+          "29803-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ruler of Death",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-4",
+      "sub": {
+        "HD-1": {
+          "29803-malep-4_vibeplayer_sub": "https://vibeplayer.site/e7cfeae9c65fc571",
+          "29803-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e7cfeae9c65fc571/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-4_otakuhg_sub": "https://otakuhg.site/e/2xt4oq9zo9u7",
+          "29803-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-4_otakuvid_sub": "https://otakuvid.online/embed/xj5j9hxevee2",
+          "29803-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-4_vibeplayer_dub": "https://vibeplayer.site/6961750e1459e1fe",
+          "29803-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6961750e1459e1fe/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-4_otakuhg_dub": "https://otakuhg.site/e/aiiwqm1th9vy",
+          "29803-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-4_otakuvid_dub": "https://otakuvid.online/embed/fqtjk22x20h0",
+          "29803-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Two Adventurers",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-5",
+      "sub": {
+        "HD-1": {
+          "29803-malep-5_vibeplayer_sub": "https://vibeplayer.site/cff8856239934a1b",
+          "29803-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cff8856239934a1b/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-5_otakuhg_sub": "https://otakuhg.site/e/z501n27y9ovi",
+          "29803-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-5_otakuvid_sub": "https://otakuvid.online/embed/e7l5zcgn1r4v",
+          "29803-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-5_vibeplayer_dub": "https://vibeplayer.site/48566558bf1bfa04",
+          "29803-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48566558bf1bfa04/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-5_otakuhg_dub": "https://otakuhg.site/e/hwdayzfm9fl0",
+          "29803-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-5_otakuvid_dub": "https://otakuvid.online/embed/yjromel0zfx6",
+          "29803-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-5_vibeplayer_hsub": "https://vibeplayer.site/7c6a45f0e03341a8",
+          "29803-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7c6a45f0e03341a8/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-5_otakuhg_hsub": "https://otakuhg.site/e/xvuitsme2l9p",
+          "29803-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/un0gnte6zjgb",
+          "29803-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-5_playmogo_hsub": "https://playmogo.com/e/t9wlmtlu8525",
+          "29803-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Journey",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-6",
+      "sub": {
+        "HD-1": {
+          "29803-malep-6_vibeplayer_sub": "https://vibeplayer.site/925e4d1d2129cfe5",
+          "29803-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/925e4d1d2129cfe5/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-6_otakuhg_sub": "https://otakuhg.site/e/8xhyjahqcmkc",
+          "29803-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-6_otakuvid_sub": "https://otakuvid.online/embed/f8y0e3lnpj76",
+          "29803-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-6_vibeplayer_dub": "https://vibeplayer.site/4be3c4619af2e76a",
+          "29803-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4be3c4619af2e76a/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-6_otakuhg_dub": "https://otakuhg.site/e/tigqhqwqncoy",
+          "29803-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-6_otakuvid_dub": "https://otakuvid.online/embed/v0f9h3z88yc7",
+          "29803-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Wise King of Forest",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-7",
+      "sub": {
+        "HD-1": {
+          "29803-malep-7_vibeplayer_sub": "https://vibeplayer.site/935083e1b647517c",
+          "29803-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/935083e1b647517c/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-7_otakuhg_sub": "https://otakuhg.site/e/mzmbuqe0w807",
+          "29803-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ax4jf3bccyf6",
+          "29803-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-7_vibeplayer_dub": "https://vibeplayer.site/13d008a99241a6e9",
+          "29803-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/13d008a99241a6e9/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-7_otakuhg_dub": "https://otakuhg.site/e/tmy69gocrt7j",
+          "29803-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-7_otakuvid_dub": "https://otakuvid.online/embed/rmfrus5sliyp",
+          "29803-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-7_vibeplayer_hsub": "https://vibeplayer.site/471cdc84f30d3ecf",
+          "29803-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/471cdc84f30d3ecf/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-7_otakuhg_hsub": "https://otakuhg.site/e/uj9yzjgkp4iw",
+          "29803-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/81ickzu0wat2",
+          "29803-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-7_playmogo_hsub": "https://playmogo.com/e/3vhzw7n0bgfk",
+          "29803-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Twin Swords of Slashing Death",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-8",
+      "sub": {
+        "HD-1": {
+          "29803-malep-8_vibeplayer_sub": "https://vibeplayer.site/f904832d0507fc71",
+          "29803-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f904832d0507fc71/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-8_otakuhg_sub": "https://otakuhg.site/e/czdycew26pip",
+          "29803-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-8_otakuvid_sub": "https://otakuvid.online/embed/2diior43o3rd",
+          "29803-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-8_vibeplayer_dub": "https://vibeplayer.site/5e48fad5fec500d6",
+          "29803-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e48fad5fec500d6/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-8_otakuhg_dub": "https://otakuhg.site/e/8b1s56hnjoqs",
+          "29803-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-8_otakuvid_dub": "https://otakuvid.online/embed/z7ggipve1kax",
+          "29803-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-8_vibeplayer_hsub": "https://vibeplayer.site/6ddd7380dcaa7085",
+          "29803-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6ddd7380dcaa7085/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-8_otakuhg_hsub": "https://otakuhg.site/e/0wx12qu25szy",
+          "29803-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/ezp6begdouqx",
+          "29803-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-8_playmogo_hsub": "https://playmogo.com/e/02bq0591bm3m",
+          "29803-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Dark Warrior",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-9",
+      "sub": {
+        "HD-1": {
+          "29803-malep-9_vibeplayer_sub": "https://vibeplayer.site/50b67e29c1b712bc",
+          "29803-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/50b67e29c1b712bc/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-9_otakuhg_sub": "https://otakuhg.site/e/nl7uly71mzr4",
+          "29803-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-9_otakuvid_sub": "https://otakuvid.online/embed/0sn4gpila3fz",
+          "29803-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-9_vibeplayer_dub": "https://vibeplayer.site/9deccff05b259c68",
+          "29803-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9deccff05b259c68/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-9_otakuhg_dub": "https://otakuhg.site/e/7avtzo98k6gn",
+          "29803-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-9_otakuvid_dub": "https://otakuvid.online/embed/822hp5b75yl7",
+          "29803-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "True Vampire",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-10",
+      "sub": {
+        "HD-1": {
+          "29803-malep-10_vibeplayer_sub": "https://vibeplayer.site/e1625d1728caae49",
+          "29803-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e1625d1728caae49/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-10_otakuhg_sub": "https://otakuhg.site/e/udhkdqhos48f",
+          "29803-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-10_otakuvid_sub": "https://otakuvid.online/embed/9prlia59kr0a",
+          "29803-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-10_vibeplayer_dub": "https://vibeplayer.site/e0bdc845d81ae77e",
+          "29803-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e0bdc845d81ae77e/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-10_otakuhg_dub": "https://otakuhg.site/e/lwr6b1ssqhov",
+          "29803-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-10_otakuvid_dub": "https://otakuvid.online/embed/i09n8n52y1ms",
+          "29803-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Confusion and Understanding",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-11",
+      "sub": {
+        "HD-1": {
+          "29803-malep-11_vibeplayer_sub": "https://vibeplayer.site/23d20772390b7372",
+          "29803-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23d20772390b7372/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-11_otakuhg_sub": "https://otakuhg.site/e/x0g7skmy25mn",
+          "29803-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-11_otakuvid_sub": "https://otakuvid.online/embed/z1jrcs330rl1",
+          "29803-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-11_vibeplayer_dub": "https://vibeplayer.site/f1b58b714efef16d",
+          "29803-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f1b58b714efef16d/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-11_otakuhg_dub": "https://otakuhg.site/e/3z5xsr3d64a9",
+          "29803-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-11_otakuvid_dub": "https://otakuvid.online/embed/xa8llf7e9cz7",
+          "29803-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-11_vibeplayer_hsub": "https://vibeplayer.site/1a5ad84791c86e09",
+          "29803-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a5ad84791c86e09/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-11_otakuhg_hsub": "https://otakuhg.site/e/j81d2u4u0sc2",
+          "29803-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/2bnwihdwwgb7",
+          "29803-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-11_playmogo_hsub": "https://playmogo.com/e/nh869o2uis9l",
+          "29803-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Bloody Valkyrie",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-12",
+      "sub": {
+        "HD-1": {
+          "29803-malep-12_vibeplayer_sub": "https://vibeplayer.site/e50f0a91ce085c3c",
+          "29803-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e50f0a91ce085c3c/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-12_otakuhg_sub": "https://otakuhg.site/e/2c7jh4tih117",
+          "29803-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-12_otakuvid_sub": "https://otakuvid.online/embed/gnfe370qh4aq",
+          "29803-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-12_vibeplayer_dub": "https://vibeplayer.site/19695d2d4fe7cbfd",
+          "29803-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19695d2d4fe7cbfd/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-12_otakuhg_dub": "https://otakuhg.site/e/q65w524773sr",
+          "29803-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-12_otakuvid_dub": "https://otakuvid.online/embed/dq02mw6aj9pi",
+          "29803-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "29803-malep-12_vibeplayer_hsub": "https://vibeplayer.site/c7d5883195d1393a",
+          "29803-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c7d5883195d1393a/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-12_otakuhg_hsub": "https://otakuhg.site/e/x14s2sjsr8z9",
+          "29803-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/plg7utqt4xdh",
+          "29803-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29803-malep-12_playmogo_hsub": "https://playmogo.com/e/vuimkylz8hdh",
+          "29803-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Player VS Non Player Character",
+      "episode_url": "https://hianime.ad/watch/overlord/ep-13",
+      "sub": {
+        "HD-1": {
+          "29803-malep-13_vibeplayer_sub": "https://vibeplayer.site/35869fd6cae46872",
+          "29803-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/35869fd6cae46872/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-13_otakuhg_sub": "https://otakuhg.site/e/6xp3kcrjqjgd",
+          "29803-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-13_otakuvid_sub": "https://otakuvid.online/embed/15wxlcnenzxh",
+          "29803-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "29803-malep-13_vibeplayer_dub": "https://vibeplayer.site/7dd16744f7c66ea4",
+          "29803-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7dd16744f7c66ea4/master.m3u8"
+        },
+        "StreamHG": {
+          "29803-malep-13_otakuhg_dub": "https://otakuhg.site/e/g7ulqu1ex1ix",
+          "29803-malep-13_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "29803-malep-13_otakuvid_dub": "https://otakuvid.online/embed/lf1a4emg6hec",
+          "29803-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
