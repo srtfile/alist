@@ -7758,5 +7758,15 @@
     "captured_at": "2026-06-18T12:11:03",
     "file": "data-5/oniai-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/oniai-specials.json"
+  },
+  {
+    "slug": "onigiri",
+    "mal_id": 32606,
+    "anime_name": "Onigiri",
+    "anime_url": "https://hianime.ad/anime/onigiri",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T12:11:29",
+    "file": "data-5/onigiri.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onigiri.json"
   }
 ]
