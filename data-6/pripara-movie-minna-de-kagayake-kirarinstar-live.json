@@ -1,0 +1,44 @@
+{
+  "anime_name": "Pripara Movie Minna De Kagayake Kirarinstar Live",
+  "anime_url": "https://hianime.ad/anime/pripara-movie-minna-de-kagayake-kirarinstar-live",
+  "slug": "pripara-movie-minna-de-kagayake-kirarinstar-live",
+  "mal_id": 23135,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:50:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Became an Idol!",
+      "episode_url": "https://hianime.ad/watch/pripara-movie-minna-de-kagayake-kirarinstar-live/ep-1",
+      "sub": {
+        "HD-1": {
+          "23135-malep-1_vibeplayer_sub": "https://vibeplayer.site/65bcb37520ceb326",
+          "23135-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65bcb37520ceb326/master.m3u8"
+        },
+        "Earnvids": {
+          "23135-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qp4twb29vm5g",
+          "23135-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23135-malep-1_vibeplayer_hsub": "https://vibeplayer.site/531025248bec45f7",
+          "23135-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/531025248bec45f7/master.m3u8"
+        },
+        "StreamHG": {
+          "23135-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xn5da7g9gm6s",
+          "23135-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23135-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/16snveqn6iif",
+          "23135-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23135-malep-1_playmogo_hsub": "https://playmogo.com/e/dmc4zw0yised",
+          "23135-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
