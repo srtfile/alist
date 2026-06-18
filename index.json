@@ -12508,5 +12508,15 @@
     "captured_at": "2026-06-18T16:04:20",
     "file": "data-6/rain-town.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rain-town.json"
+  },
+  {
+    "slug": "rainbow",
+    "mal_id": 6114,
+    "anime_name": "Rainbow",
+    "anime_url": "https://hianime.ad/anime/rainbow",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T16:04:33",
+    "file": "data-6/rainbow.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rainbow.json"
   }
 ]
