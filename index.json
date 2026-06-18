@@ -7808,5 +7808,15 @@
     "captured_at": "2026-06-18T12:13:01",
     "file": "data-5/onimusha.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onimusha.json"
+  },
+  {
+    "slug": "onipan",
+    "mal_id": 50955,
+    "anime_name": "Onipan",
+    "anime_url": "https://hianime.ad/anime/onipan",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T12:13:29",
+    "file": "data-5/onipan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onipan.json"
   }
 ]
