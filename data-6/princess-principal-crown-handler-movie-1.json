@@ -1,0 +1,57 @@
+{
+  "anime_name": "Princess Principal Crown Handler Movie 1",
+  "anime_url": "https://hianime.ad/anime/princess-principal-crown-handler-movie-1",
+  "slug": "princess-principal-crown-handler-movie-1",
+  "mal_id": 35240,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:45:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Case 13 Wired Liar",
+      "episode_url": "https://hianime.ad/watch/princess-principal-crown-handler-movie-1/ep-1",
+      "sub": {
+        "HD-1": {
+          "35240-malep-1_vibeplayer_sub": "https://vibeplayer.site/dc8776e5e0b3c023",
+          "35240-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc8776e5e0b3c023/master.m3u8"
+        },
+        "Earnvids": {
+          "35240-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sfcm04f16x9h",
+          "35240-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35240-malep-1_playmogo_sub": "https://playmogo.com/e/lygjzarq73ph",
+          "35240-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35240-malep-1_vibeplayer_dub": "https://vibeplayer.site/b8657d850bf0d929",
+          "35240-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b8657d850bf0d929/master.m3u8"
+        },
+        "Earnvids": {
+          "35240-malep-1_otakuvid_dub": "https://otakuvid.online/embed/26elc7m6ndmh",
+          "35240-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "35240-malep-1_playmogo_dub": "https://playmogo.com/e/e5ytrcogg3z7",
+          "35240-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "35240-malep-1_vibeplayer_hsub": "https://vibeplayer.site/163a4c9002c92413",
+          "35240-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/163a4c9002c92413/master.m3u8"
+        },
+        "Earnvids": {
+          "35240-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qdk1tn8heaqe",
+          "35240-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35240-malep-1_playmogo_hsub": "https://playmogo.com/e/yak5t3dkxk84",
+          "35240-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
