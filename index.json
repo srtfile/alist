@@ -16228,5 +16228,15 @@
     "captured_at": "2026-06-18T19:57:37",
     "file": "data-6/sanpei-the-fisherman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sanpei-the-fisherman.json"
+  },
+  {
+    "slug": "sanrio-boys",
+    "mal_id": 34839,
+    "anime_name": "Sanrio Boys",
+    "anime_url": "https://hianime.ad/anime/sanrio-boys",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T19:59:32",
+    "file": "data-6/sanrio-boys.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sanrio-boys.json"
   }
 ]
