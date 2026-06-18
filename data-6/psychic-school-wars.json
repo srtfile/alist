@@ -1,0 +1,57 @@
+{
+  "anime_name": "Psychic School Wars",
+  "anime_url": "https://hianime.ad/anime/psychic-school-wars",
+  "slug": "psychic-school-wars",
+  "mal_id": 337,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:02:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/psychic-school-wars/ep-1",
+      "sub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_sub": "https://vibeplayer.site/a183e8193012a361",
+          "337-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a183e8193012a361/master.m3u8"
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b9vkeal7wnb2",
+          "337-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_dub": "https://vibeplayer.site/44042ff477d3be33",
+          "337-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44042ff477d3be33/master.m3u8"
+        },
+        "StreamHG": {
+          "337-malep-1_otakuhg_dub": "https://otakuhg.site/e/fk1e5zpto3z1",
+          "337-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4b79yx8y09fc",
+          "337-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "337-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9c83bb8e4fd4d195",
+          "337-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9c83bb8e4fd4d195/master.m3u8"
+        },
+        "StreamHG": {
+          "337-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ug57krdx4f1g",
+          "337-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "337-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ns8zq4h8l16d",
+          "337-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "337-malep-1_playmogo_hsub": "https://playmogo.com/e/49rw1fp4wgnf",
+          "337-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
