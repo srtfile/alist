@@ -1,0 +1,48 @@
+{
+  "anime_name": "One Piece Djangos Dance Carnival",
+  "anime_url": "https://hianime.ad/anime/one-piece-djangos-dance-carnival",
+  "slug": "one-piece-djangos-dance-carnival",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:49:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-djangos-dance-carnival/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/379f988c39d9e5e6",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/379f988c39d9e5e6/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zewj9pu1xk2e",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_sub": "https://playmogo.com/e/c7u809etdwr0",
+          "21-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9ef061646c2fec31",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9ef061646c2fec31/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rm1cql1aq3f8",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5516yg67grdz",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/hnc8xkypexug",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
