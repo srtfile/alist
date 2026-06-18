@@ -1,0 +1,95 @@
+{
+  "anime_name": "Rakushou Hyper Doll",
+  "anime_url": "https://hianime.ad/anime/rakushou-hyper-doll",
+  "slug": "rakushou-hyper-doll",
+  "mal_id": 392,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T16:10:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Surprised to be Dead",
+      "episode_url": "https://hianime.ad/watch/rakushou-hyper-doll/ep-1",
+      "sub": {
+        "HD-1": {
+          "392-malep-1_vibeplayer_sub": "https://vibeplayer.site/4bbb59a6a9e75e1e",
+          "392-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4bbb59a6a9e75e1e/master.m3u8"
+        },
+        "Earnvids": {
+          "392-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0on6neee77bz",
+          "392-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "392-malep-1_vibeplayer_dub": "https://vibeplayer.site/0058a4fc974cac76",
+          "392-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0058a4fc974cac76/master.m3u8"
+        },
+        "Earnvids": {
+          "392-malep-1_otakuvid_dub": "https://otakuvid.online/embed/v17mcuwep7s6",
+          "392-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "392-malep-1_vibeplayer_hsub": "https://vibeplayer.site/be9e2b89ed64e067",
+          "392-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be9e2b89ed64e067/master.m3u8"
+        },
+        "StreamHG": {
+          "392-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gfxxh19lsbm9",
+          "392-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "392-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mcuergc6h9g8",
+          "392-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "392-malep-1_playmogo_hsub": "https://playmogo.com/e/f67hu6jik9yi",
+          "392-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Koenma of the Spirit Realm! A trial Towards Resurrection.",
+      "episode_url": "https://hianime.ad/watch/rakushou-hyper-doll/ep-2",
+      "sub": {
+        "HD-1": {
+          "392-malep-2_vibeplayer_sub": "https://vibeplayer.site/a092505ee06dce1d",
+          "392-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a092505ee06dce1d/master.m3u8"
+        },
+        "Earnvids": {
+          "392-malep-2_otakuvid_sub": "https://otakuvid.online/embed/fmzqnrws3zd6",
+          "392-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "392-malep-2_vibeplayer_dub": "https://vibeplayer.site/531b00bfe74b38a8",
+          "392-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/531b00bfe74b38a8/master.m3u8"
+        },
+        "Earnvids": {
+          "392-malep-2_otakuvid_dub": "https://otakuvid.online/embed/cg1ie2ailkub",
+          "392-malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "392-malep-2_playmogo_dub": "https://playmogo.com/e/izwwjj8t3xnk",
+          "392-malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "392-malep-2_vibeplayer_hsub": "https://vibeplayer.site/574bd078ba994840",
+          "392-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/574bd078ba994840/master.m3u8"
+        },
+        "Earnvids": {
+          "392-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/yo7k4bg7ygdv",
+          "392-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "392-malep-2_playmogo_hsub": "https://playmogo.com/e/6xg1wrgf29ji",
+          "392-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
