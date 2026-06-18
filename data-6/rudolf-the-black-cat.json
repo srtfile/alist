@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rudolf The Black Cat",
+  "anime_url": "https://hianime.ad/anime/rudolf-the-black-cat",
+  "slug": "rudolf-the-black-cat",
+  "mal_id": 62171,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:33:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Black Cat & Spica",
+      "episode_url": "https://hianime.ad/watch/rudolf-the-black-cat/ep-1",
+      "sub": {
+        "HD-1": {
+          "62171-malep-1_vibeplayer_sub": "https://vibeplayer.site/331bf150cc691a8d",
+          "62171-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/331bf150cc691a8d/master.m3u8"
+        },
+        "Earnvids": {
+          "62171-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bp48qtp5oylx",
+          "62171-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "62171-malep-1_playmogo_sub": "https://playmogo.com/e/6rpqvytg7he6",
+          "62171-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62171-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2a79757ac46c375f",
+          "62171-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a79757ac46c375f/master.m3u8"
+        },
+        "Earnvids": {
+          "62171-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/twx52p87lys8",
+          "62171-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62171-malep-1_playmogo_hsub": "https://playmogo.com/e/pk2xjx15tyje",
+          "62171-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
