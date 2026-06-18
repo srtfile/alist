@@ -4,7 +4,7 @@
   "slug": "mr-osomatsu-2",
   "mal_id": 35067,
   "total_episodes": 25,
-  "captured_at": "2026-06-17T17:38:29",
+  "captured_at": "2026-06-18T00:11:44",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -39,8 +39,26 @@
     {
       "episode_title": "Congratulations! Employment!! / Super Detergent",
       "episode_url": "https://hianime.ad/watch/mr-osomatsu-2/ep-2",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "35067-malep-2_vibeplayer_sub": "https://vibeplayer.site/ac45418396187e07",
+          "35067-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac45418396187e07/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-2_otakuvid_sub": "https://otakuvid.online/embed/mkl0kel5n9st",
+          "35067-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35067-malep-2_vibeplayer_dub": "https://vibeplayer.site/a305a6889af77933",
+          "35067-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a305a6889af77933/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-2_otakuvid_dub": "https://otakuvid.online/embed/uw5yk5p4zf02",
+          "35067-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
@@ -71,8 +89,26 @@
     {
       "episode_title": "Matsuzou and Matsuyo",
       "episode_url": "https://hianime.ad/watch/mr-osomatsu-2/ep-4",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "35067-malep-4_vibeplayer_sub": "https://vibeplayer.site/61637d2bda753113",
+          "35067-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61637d2bda753113/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-4_otakuvid_sub": "https://otakuvid.online/embed/hqpzxcbq56xa",
+          "35067-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35067-malep-4_vibeplayer_dub": "https://vibeplayer.site/b3273dcb518ce356",
+          "35067-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b3273dcb518ce356/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-4_otakuvid_dub": "https://otakuvid.online/embed/h9vkhibbz8g6",
+          "35067-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
@@ -282,15 +318,51 @@
     {
       "episode_title": "End of the Year",
       "episode_url": "https://hianime.ad/watch/mr-osomatsu-2/ep-13",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "35067-malep-13_vibeplayer_sub": "https://vibeplayer.site/bc39143aa3389ed6",
+          "35067-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc39143aa3389ed6/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-13_otakuvid_sub": "https://otakuvid.online/embed/3sos2ohc0yzq",
+          "35067-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35067-malep-13_vibeplayer_dub": "https://vibeplayer.site/5e8910b1530cba86",
+          "35067-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e8910b1530cba86/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-13_otakuvid_dub": "https://otakuvid.online/embed/7xa7wu6kkcgq",
+          "35067-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
       "episode_title": "The Choromatsu Incident",
       "episode_url": "https://hianime.ad/watch/mr-osomatsu-2/ep-14",
-      "sub": {},
-      "dub": {},
+      "sub": {
+        "HD-1": {
+          "35067-malep-14_vibeplayer_sub": "https://vibeplayer.site/c0c88df9179a5d33",
+          "35067-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0c88df9179a5d33/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-14_otakuvid_sub": "https://otakuvid.online/embed/ziw3fg5kqiyb",
+          "35067-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35067-malep-14_vibeplayer_dub": "https://vibeplayer.site/7da278d6ca6839ab",
+          "35067-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7da278d6ca6839ab/master.m3u8"
+        },
+        "Earnvids": {
+          "35067-malep-14_otakuvid_dub": "https://otakuvid.online/embed/fn773pnt68bn",
+          "35067-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
       "hsub": {}
     },
     {
