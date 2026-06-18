@@ -1,0 +1,61 @@
+{
+  "anime_name": "Promare",
+  "anime_url": "https://hianime.ad/anime/promare",
+  "slug": "promare",
+  "mal_id": 114,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:59:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Used to be a Bad Boy Bragging Contest",
+      "episode_url": "https://hianime.ad/watch/promare/ep-1",
+      "sub": {
+        "HD-1": {
+          "114-malep-1_vibeplayer_sub": "https://vibeplayer.site/0059eb385034cfd1",
+          "114-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0059eb385034cfd1/master.m3u8"
+        },
+        "StreamHG": {
+          "114-malep-1_otakuhg_sub": "https://otakuhg.site/e/2xnkulwc2h2m",
+          "114-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "114-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k0mex6seer7d",
+          "114-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "114-malep-1_vibeplayer_dub": "https://vibeplayer.site/4a35e5206a7e23af",
+          "114-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4a35e5206a7e23af/master.m3u8"
+        },
+        "StreamHG": {
+          "114-malep-1_otakuhg_dub": "https://otakuhg.site/e/vynym3gmamgh",
+          "114-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "114-malep-1_otakuvid_dub": "https://otakuvid.online/embed/tq8gtrx0644w",
+          "114-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "114-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e4e0d3a118fad27b",
+          "114-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4e0d3a118fad27b/master.m3u8"
+        },
+        "StreamHG": {
+          "114-malep-1_otakuhg_hsub": "https://otakuhg.site/e/a9k1m0ua64gs",
+          "114-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "114-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yfnrqy3zaqf6",
+          "114-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "114-malep-1_playmogo_hsub": "https://playmogo.com/e/5yzwnmw80wy7",
+          "114-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
