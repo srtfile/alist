@@ -1,0 +1,40 @@
+{
+  "anime_name": "Saigo No Door Wo Shimero",
+  "anime_url": "https://hianime.ad/anime/saigo-no-door-wo-shimero",
+  "slug": "saigo-no-door-wo-shimero",
+  "mal_id": 40595,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:58:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter: The Two Nations' Ultimate Weapons",
+      "episode_url": "https://hianime.ad/watch/saigo-no-door-wo-shimero/ep-1",
+      "sub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_sub": "https://vibeplayer.site/96b321155f7ec81e",
+          "40595-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/96b321155f7ec81e/master.m3u8"
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rh8yshfs0dm1",
+          "40595-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0758a7334d114f35",
+          "40595-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0758a7334d114f35/master.m3u8"
+        },
+        "StreamHG": {
+          "40595-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b4l0fs125oby",
+          "40595-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ffw9v778qqzo",
+          "40595-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
