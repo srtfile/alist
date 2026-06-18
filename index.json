@@ -16498,5 +16498,15 @@
     "captured_at": "2026-06-18T20:12:30",
     "file": "data-6/school-days.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/school-days.json"
+  },
+  {
+    "slug": "school-rumble",
+    "mal_id": 24,
+    "anime_name": "School Rumble",
+    "anime_url": "https://hianime.ad/anime/school-rumble",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T20:13:03",
+    "file": "data-6/school-rumble.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/school-rumble.json"
   }
 ]
