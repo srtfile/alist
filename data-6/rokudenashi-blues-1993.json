@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rokudenashi Blues 1993",
+  "anime_url": "https://hianime.ad/anime/rokudenashi-blues-1993",
+  "slug": "rokudenashi-blues-1993",
+  "mal_id": 32951,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:19:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Unmotivated Bastard",
+      "episode_url": "https://hianime.ad/watch/rokudenashi-blues-1993/ep-1",
+      "sub": {
+        "HD-1": {
+          "32951-malep-1_vibeplayer_sub": "https://vibeplayer.site/d8b26ef937fabb99",
+          "32951-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d8b26ef937fabb99/master.m3u8"
+        },
+        "Earnvids": {
+          "32951-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dbw1ae0owwfy",
+          "32951-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32951-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aecdd5071e281c45",
+          "32951-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aecdd5071e281c45/master.m3u8"
+        },
+        "StreamHG": {
+          "32951-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s5p9lqofhbuw",
+          "32951-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32951-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pnhsf95ttae5",
+          "32951-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32951-malep-1_playmogo_hsub": "https://playmogo.com/e/vglyomadcr8y",
+          "32951-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
