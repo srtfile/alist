@@ -1,0 +1,48 @@
+{
+  "anime_name": "Oneechan Ga Kita Hajimete No Kitaa",
+  "anime_url": "https://hianime.ad/anime/oneechan-ga-kita-hajimete-no-kitaa",
+  "slug": "oneechan-ga-kita-hajimete-no-kitaa",
+  "mal_id": 20931,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:07:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "She Came! She Came!",
+      "episode_url": "https://hianime.ad/watch/oneechan-ga-kita-hajimete-no-kitaa/ep-1",
+      "sub": {
+        "HD-1": {
+          "20931-malep-1_vibeplayer_sub": "https://vibeplayer.site/d2631990f21975e0",
+          "20931-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d2631990f21975e0/master.m3u8"
+        },
+        "Earnvids": {
+          "20931-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7c1ygi8k5ldy",
+          "20931-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20931-malep-1_playmogo_sub": "https://playmogo.com/e/uslodv56xval",
+          "20931-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20931-malep-1_vibeplayer_hsub": "https://vibeplayer.site/acd533e4fedf8f02",
+          "20931-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/acd533e4fedf8f02/master.m3u8"
+        },
+        "StreamHG": {
+          "20931-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ws2e2kor2svf",
+          "20931-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20931-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/am848w8wbuyd",
+          "20931-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20931-malep-1_playmogo_hsub": "https://playmogo.com/e/viin2m4ujm7b",
+          "20931-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
