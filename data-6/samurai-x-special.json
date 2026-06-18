@@ -1,0 +1,57 @@
+{
+  "anime_name": "Samurai X Special",
+  "anime_url": "https://hianime.ad/anime/samurai-x-special",
+  "slug": "samurai-x-special",
+  "mal_id": 45,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:52:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Handsome Swordsman of Legend: A Man who Fights for Love",
+      "episode_url": "https://hianime.ad/watch/samurai-x-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "45-malep-1_vibeplayer_sub": "https://vibeplayer.site/f4e199579b486a52",
+          "45-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f4e199579b486a52/master.m3u8"
+        },
+        "Earnvids": {
+          "45-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a8yofs20b2nl",
+          "45-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45-malep-1_vibeplayer_dub": "https://vibeplayer.site/d71b68c9d01482e4",
+          "45-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d71b68c9d01482e4/master.m3u8"
+        },
+        "StreamHG": {
+          "45-malep-1_otakuhg_dub": "https://otakuhg.site/e/hov21olocjh2",
+          "45-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "45-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1bbwse1k98l1",
+          "45-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6e2abccd046f1a6f",
+          "45-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e2abccd046f1a6f/master.m3u8"
+        },
+        "StreamHG": {
+          "45-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yp9254ad3zup",
+          "45-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s8uhpvqcq8wb",
+          "45-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45-malep-1_playmogo_hsub": "https://playmogo.com/e/rlokvwuuopd2",
+          "45-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
