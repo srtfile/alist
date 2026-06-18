@@ -1,0 +1,77 @@
+{
+  "anime_name": "Project A Ko Uncivil Wars",
+  "anime_url": "https://hianime.ad/anime/project-a-ko-uncivil-wars",
+  "slug": "project-a-ko-uncivil-wars",
+  "mal_id": 1349,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T14:57:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Partner",
+      "episode_url": "https://hianime.ad/watch/project-a-ko-uncivil-wars/ep-1",
+      "sub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_sub": "https://vibeplayer.site/9e84aae5235fc95b",
+          "1349-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9e84aae5235fc95b/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jkl0428zp8w2",
+          "1349-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1349-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4b19e1475f120111",
+          "1349-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b19e1475f120111/master.m3u8"
+        },
+        "StreamHG": {
+          "1349-malep-1_otakuhg_hsub": "https://otakuhg.site/e/59rhpddnzr1d",
+          "1349-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1349-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cocbnvhlfejv",
+          "1349-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1349-malep-1_playmogo_hsub": "https://playmogo.com/e/rfr1odzkymu4",
+          "1349-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Runaway",
+      "episode_url": "https://hianime.ad/watch/project-a-ko-uncivil-wars/ep-2",
+      "sub": {
+        "HD-1": {
+          "1349-malep-2_vibeplayer_sub": "https://vibeplayer.site/9bda1aa71e7ee1af",
+          "1349-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9bda1aa71e7ee1af/master.m3u8"
+        },
+        "Earnvids": {
+          "1349-malep-2_otakuvid_sub": "https://otakuvid.online/embed/kg8k4r67z9q4",
+          "1349-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1349-malep-2_vibeplayer_hsub": "https://vibeplayer.site/dd23ea038d1718a1",
+          "1349-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dd23ea038d1718a1/master.m3u8"
+        },
+        "StreamHG": {
+          "1349-malep-2_otakuhg_hsub": "https://otakuhg.site/e/i1ozng9wginb",
+          "1349-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1349-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/emnvvg1zwblf",
+          "1349-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1349-malep-2_playmogo_hsub": "https://playmogo.com/e/qbu6wgmxeib0",
+          "1349-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
