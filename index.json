@@ -11658,5 +11658,15 @@
     "captured_at": "2026-06-18T15:00:26",
     "file": "data-6/protocol-rain.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/protocol-rain.json"
+  },
+  {
+    "slug": "pseudo-harem",
+    "mal_id": 54968,
+    "anime_name": "Pseudo Harem",
+    "anime_url": "https://hianime.ad/anime/pseudo-harem",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T15:00:52",
+    "file": "data-6/pseudo-harem.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pseudo-harem.json"
   }
 ]
