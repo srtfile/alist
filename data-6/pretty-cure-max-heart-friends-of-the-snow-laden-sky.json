@@ -1,0 +1,40 @@
+{
+  "anime_name": "Pretty Cure Max Heart Friends Of The Snow Laden Sky",
+  "anime_url": "https://hianime.ad/anime/pretty-cure-max-heart-friends-of-the-snow-laden-sky",
+  "slug": "pretty-cure-max-heart-friends-of-the-snow-laden-sky",
+  "mal_id": 1929,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:33:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolutely Pair is Precure! Legend Continues Thoroughly!",
+      "episode_url": "https://hianime.ad/watch/pretty-cure-max-heart-friends-of-the-snow-laden-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "1929-malep-1_vibeplayer_sub": "https://vibeplayer.site/8bef42e0ed6a8f19",
+          "1929-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8bef42e0ed6a8f19/master.m3u8"
+        },
+        "Earnvids": {
+          "1929-malep-1_otakuvid_sub": "https://otakuvid.online/embed/w9fofp58pgky",
+          "1929-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1929-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9b94089905105f26",
+          "1929-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b94089905105f26/master.m3u8"
+        },
+        "Earnvids": {
+          "1929-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sqtla73sgxtc",
+          "1929-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1929-malep-1_playmogo_hsub": "https://playmogo.com/e/isf677fv5quw",
+          "1929-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
