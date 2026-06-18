@@ -1,0 +1,61 @@
+{
+  "anime_name": "Rezero Starting Life In Another World The Frozen Bond",
+  "anime_url": "https://hianime.ad/anime/rezero-starting-life-in-another-world-the-frozen-bond",
+  "slug": "rezero-starting-life-in-another-world-the-frozen-bond",
+  "mal_id": 31240,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:25:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The End of the Beginning and the Beginning of the End",
+      "episode_url": "https://hianime.ad/watch/rezero-starting-life-in-another-world-the-frozen-bond/ep-1",
+      "sub": {
+        "HD-1": {
+          "31240-malep-1_vibeplayer_sub": "https://vibeplayer.site/418b41c2d48464fd",
+          "31240-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/418b41c2d48464fd/master.m3u8"
+        },
+        "StreamHG": {
+          "31240-malep-1_otakuhg_sub": "https://otakuhg.site/e/jkb2wci4rhpx",
+          "31240-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31240-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qb04xfb5sg28",
+          "31240-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31240-malep-1_vibeplayer_dub": "https://vibeplayer.site/825aef317992a83e",
+          "31240-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/825aef317992a83e/master.m3u8"
+        },
+        "StreamHG": {
+          "31240-malep-1_otakuhg_dub": "https://otakuhg.site/e/w65eu4ngc01n",
+          "31240-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "31240-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hfoyjnnokai7",
+          "31240-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31240-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30e115160e75a581",
+          "31240-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30e115160e75a581/master.m3u8"
+        },
+        "StreamHG": {
+          "31240-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lflokpwknd2z",
+          "31240-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31240-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qoytjr8fuxjk",
+          "31240-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31240-malep-1_playmogo_hsub": "https://playmogo.com/e/nvwqkcwcs92w",
+          "31240-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
