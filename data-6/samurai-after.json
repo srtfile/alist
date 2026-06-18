@@ -1,0 +1,81 @@
+{
+  "anime_name": "Samurai After",
+  "anime_url": "https://hianime.ad/anime/samurai-after",
+  "slug": "samurai-after",
+  "mal_id": 419,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T19:45:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Road to Armageddon",
+      "episode_url": "https://hianime.ad/watch/samurai-after/ep-1",
+      "sub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_sub": "https://vibeplayer.site/d40e8e57fd3067af",
+          "419-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d40e8e57fd3067af/master.m3u8"
+        },
+        "StreamHG": {
+          "419-malep-1_otakuhg_sub": "https://otakuhg.site/e/s1f3kjz423ry",
+          "419-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mzx8btx1ppdt",
+          "419-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_hsub": "https://vibeplayer.site/82201ebd51e7202a",
+          "419-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/82201ebd51e7202a/master.m3u8"
+        },
+        "StreamHG": {
+          "419-malep-1_otakuhg_hsub": "https://otakuhg.site/e/13l0stp8sts9",
+          "419-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8d54em82w4ej",
+          "419-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "419-malep-1_playmogo_hsub": "https://playmogo.com/e/j66i6fyfowfl",
+          "419-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wanted Dead or Alive",
+      "episode_url": "https://hianime.ad/watch/samurai-after/ep-2",
+      "sub": {
+        "HD-1": {
+          "419-malep-2_vibeplayer_sub": "https://vibeplayer.site/4f13e2ddc6022096",
+          "419-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f13e2ddc6022096/master.m3u8"
+        },
+        "Earnvids": {
+          "419-malep-2_otakuvid_sub": "https://otakuvid.online/embed/q3efp42se2um",
+          "419-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "419-malep-2_vibeplayer_hsub": "https://vibeplayer.site/611e9b709c9e67f8",
+          "419-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/611e9b709c9e67f8/master.m3u8"
+        },
+        "StreamHG": {
+          "419-malep-2_otakuhg_hsub": "https://otakuhg.site/e/256cljvtmb0v",
+          "419-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/wmaanij01wr7",
+          "419-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "419-malep-2_playmogo_hsub": "https://playmogo.com/e/ohfau90hykka",
+          "419-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
