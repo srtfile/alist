@@ -1,0 +1,48 @@
+{
+  "anime_name": "Persona 3 The Movie 1 Spring Of Birth",
+  "anime_url": "https://hianime.ad/anime/persona-3-the-movie-1-spring-of-birth",
+  "slug": "persona-3-the-movie-1-spring-of-birth",
+  "mal_id": 34841,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:19:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/persona-3-the-movie-1-spring-of-birth/ep-1",
+      "sub": {
+        "HD-1": {
+          "34841-malep-1_vibeplayer_sub": "https://vibeplayer.site/1464ec9d880d8847",
+          "34841-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1464ec9d880d8847/master.m3u8"
+        },
+        "Earnvids": {
+          "34841-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h4g6epykywy3",
+          "34841-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "34841-malep-1_playmogo_sub": "https://playmogo.com/e/4q8ait0n22xp",
+          "34841-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34841-malep-1_vibeplayer_hsub": "https://vibeplayer.site/78051127c3de1261",
+          "34841-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/78051127c3de1261/master.m3u8"
+        },
+        "StreamHG": {
+          "34841-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8avx2umopl0w",
+          "34841-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34841-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o7ngciyatpom",
+          "34841-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34841-malep-1_playmogo_hsub": "https://playmogo.com/e/7el0ys0vdfuj",
+          "34841-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
