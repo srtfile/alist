@@ -7818,5 +7818,15 @@
     "captured_at": "2026-06-18T12:13:29",
     "file": "data-5/onipan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onipan.json"
+  },
+  {
+    "slug": "only-yesterday",
+    "mal_id": 1555,
+    "anime_name": "Only Yesterday",
+    "anime_url": "https://hianime.ad/anime/only-yesterday",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T12:13:49",
+    "file": "data-5/only-yesterday.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/only-yesterday.json"
   }
 ]
