@@ -1,0 +1,65 @@
+{
+  "anime_name": "Royal Space Force The Wings Of Honneamise",
+  "anime_url": "https://hianime.ad/anime/royal-space-force-the-wings-of-honneamise",
+  "slug": "royal-space-force-the-wings-of-honneamise",
+  "mal_id": 1456,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:31:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/royal-space-force-the-wings-of-honneamise/ep-1",
+      "sub": {
+        "HD-1": {
+          "1456-malep-1_vibeplayer_sub": "https://vibeplayer.site/3bc13e824e0cf6ef",
+          "1456-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3bc13e824e0cf6ef/master.m3u8"
+        },
+        "Earnvids": {
+          "1456-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fyq7n803bh4t",
+          "1456-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1456-malep-1_playmogo_sub": "https://playmogo.com/e/h6ni0a4tnui3",
+          "1456-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1456-malep-1_vibeplayer_dub": "https://vibeplayer.site/4547dcb93fc584e2",
+          "1456-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4547dcb93fc584e2/master.m3u8"
+        },
+        "StreamHG": {
+          "1456-malep-1_otakuhg_dub": "https://otakuhg.site/e/ehwqk5gsaruj",
+          "1456-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1456-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2e4ia1kil97a",
+          "1456-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "1456-malep-1_playmogo_dub": "https://playmogo.com/e/sbs8wqcfcx3l",
+          "1456-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1456-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f022aa0370e62e07",
+          "1456-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f022aa0370e62e07/master.m3u8"
+        },
+        "StreamHG": {
+          "1456-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oro4ci0sxgg0",
+          "1456-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1456-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/s25i9sm67wbj",
+          "1456-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1456-malep-1_playmogo_hsub": "https://playmogo.com/e/9eh56fwidbvx",
+          "1456-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
