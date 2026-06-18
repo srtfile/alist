@@ -5698,5 +5698,15 @@
     "captured_at": "2026-06-18T10:54:08",
     "file": "data-5/no-money.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-money.json"
+  },
+  {
+    "slug": "no-money-omake-episodes",
+    "mal_id": null,
+    "anime_name": "No Money Omake Episodes",
+    "anime_url": "https://hianime.ad/anime/no-money-omake-episodes",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T10:54:24",
+    "file": "data-5/no-money-omake-episodes.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/no-money-omake-episodes.json"
   }
 ]
