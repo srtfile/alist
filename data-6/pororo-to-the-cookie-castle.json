@@ -1,0 +1,35 @@
+{
+  "anime_name": "Pororo To The Cookie Castle",
+  "anime_url": "https://hianime.ad/anime/pororo-to-the-cookie-castle",
+  "slug": "pororo-to-the-cookie-castle",
+  "mal_id": 5760,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:25:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Tale of Hyakkimaru, Part 1",
+      "episode_url": "https://hianime.ad/watch/pororo-to-the-cookie-castle/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "5760-malep-1_vibeplayer_dub": "https://vibeplayer.site/b705dd9b8fb90fca",
+          "5760-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b705dd9b8fb90fca/master.m3u8"
+        },
+        "StreamHG": {
+          "5760-malep-1_otakuhg_dub": "https://otakuhg.site/e/sh0mirwru0wo",
+          "5760-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "5760-malep-1_otakuvid_dub": "https://otakuvid.online/embed/fnwgj0thf4hl",
+          "5760-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "5760-malep-1_playmogo_dub": "https://playmogo.com/e/1w0q8014xovi",
+          "5760-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
