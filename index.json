@@ -10638,5 +10638,15 @@
     "captured_at": "2026-06-18T14:19:12",
     "file": "data-6/pokemon-mewtwo-strikes-backevolution.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-mewtwo-strikes-backevolution.json"
+  },
+  {
+    "slug": "pokemon-origins",
+    "mal_id": 527,
+    "anime_name": "Pokemon Origins",
+    "anime_url": "https://hianime.ad/anime/pokemon-origins",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T14:19:27",
+    "file": "data-6/pokemon-origins.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-origins.json"
   }
 ]
