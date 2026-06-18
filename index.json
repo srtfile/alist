@@ -16488,5 +16488,15 @@
     "captured_at": "2026-06-18T20:11:58",
     "file": "data-6/school-babysitters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/school-babysitters.json"
+  },
+  {
+    "slug": "school-days",
+    "mal_id": 2476,
+    "anime_name": "School Days",
+    "anime_url": "https://hianime.ad/anime/school-days",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T20:12:30",
+    "file": "data-6/school-days.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/school-days.json"
   }
 ]
