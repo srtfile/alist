@@ -1,0 +1,431 @@
+{
+  "anime_name": "Pucca",
+  "anime_url": "https://hianime.ad/anime/pucca",
+  "slug": "pucca",
+  "mal_id": 48235,
+  "total_episodes": 26,
+  "captured_at": "2026-06-18T15:07:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-1_vibeplayer_dub": "https://vibeplayer.site/fd8fd48baebc2187",
+          "48235-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fd8fd48baebc2187/master.m3u8"
+        },
+        "StreamHG": {
+          "48235-malep-1_otakuhg_dub": "https://otakuhg.site/e/yjrvq5x0p4wn",
+          "48235-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48235-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qnvkjhpi1un3",
+          "48235-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-2_vibeplayer_dub": "https://vibeplayer.site/2f8e1746620fe6fe",
+          "48235-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f8e1746620fe6fe/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-2_otakuvid_dub": "https://otakuvid.online/embed/x2g7sskk0yyb",
+          "48235-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-3",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-3_vibeplayer_dub": "https://vibeplayer.site/cf0fa66e72e9edbb",
+          "48235-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cf0fa66e72e9edbb/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-3_otakuvid_dub": "https://otakuvid.online/embed/w7e1e1wc82mo",
+          "48235-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-4",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-4_vibeplayer_dub": "https://vibeplayer.site/3fd9a5e50ec028c6",
+          "48235-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3fd9a5e50ec028c6/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-4_otakuvid_dub": "https://otakuvid.online/embed/wpzsnlv5ou0n",
+          "48235-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-5",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-5_vibeplayer_dub": "https://vibeplayer.site/387007369b3a894f",
+          "48235-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/387007369b3a894f/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-5_otakuvid_dub": "https://otakuvid.online/embed/hbp0gfdyl5yy",
+          "48235-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-6",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-6_vibeplayer_dub": "https://vibeplayer.site/da2942b5ac2edacc",
+          "48235-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/da2942b5ac2edacc/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-6_otakuvid_dub": "https://otakuvid.online/embed/n6ca351vcxd2",
+          "48235-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 7",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-7",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-7_vibeplayer_dub": "https://vibeplayer.site/c9341685cfb6800f",
+          "48235-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c9341685cfb6800f/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-7_otakuvid_dub": "https://otakuvid.online/embed/sao65tnd4214",
+          "48235-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 8",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-8",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-8_vibeplayer_dub": "https://vibeplayer.site/b98fdb963477bcc2",
+          "48235-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b98fdb963477bcc2/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-8_otakuvid_dub": "https://otakuvid.online/embed/kej87w8bbufu",
+          "48235-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 9",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-9",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-9_vibeplayer_dub": "https://vibeplayer.site/6154bb0b176a4b17",
+          "48235-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6154bb0b176a4b17/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-9_otakuvid_dub": "https://otakuvid.online/embed/gplctns8d6s0",
+          "48235-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 10",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-10",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-10_vibeplayer_dub": "https://vibeplayer.site/0d22c9b3f29460f6",
+          "48235-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0d22c9b3f29460f6/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-10_otakuvid_dub": "https://otakuvid.online/embed/pc8qlqbf14ns",
+          "48235-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 11",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-11",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-11_vibeplayer_dub": "https://vibeplayer.site/0aa5141fa8c0cb94",
+          "48235-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0aa5141fa8c0cb94/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-11_otakuvid_dub": "https://otakuvid.online/embed/vb69tf5p3sbf",
+          "48235-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 12",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-12",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-12_vibeplayer_dub": "https://vibeplayer.site/86b9f6f7450c3946",
+          "48235-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/86b9f6f7450c3946/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-12_otakuvid_dub": "https://otakuvid.online/embed/vl4zohyy9oml",
+          "48235-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 13",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-13",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-13_vibeplayer_dub": "https://vibeplayer.site/63388281e71706cd",
+          "48235-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/63388281e71706cd/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-13_otakuvid_dub": "https://otakuvid.online/embed/n40huo0rqn6l",
+          "48235-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 14",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-14",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-14_vibeplayer_dub": "https://vibeplayer.site/aca949a891799441",
+          "48235-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aca949a891799441/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-14_otakuvid_dub": "https://otakuvid.online/embed/wp61sw4bagbl",
+          "48235-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 15",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-15",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-15_vibeplayer_dub": "https://vibeplayer.site/90cb46b00e339ed9",
+          "48235-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/90cb46b00e339ed9/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-15_otakuvid_dub": "https://otakuvid.online/embed/ii3tzpdmglum",
+          "48235-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 16",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-16",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-16_vibeplayer_dub": "https://vibeplayer.site/f129af4312aaed7d",
+          "48235-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f129af4312aaed7d/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-16_otakuvid_dub": "https://otakuvid.online/embed/bdy2kh1za6zp",
+          "48235-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 17",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-17",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-17_vibeplayer_dub": "https://vibeplayer.site/f96f96e2a712374a",
+          "48235-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f96f96e2a712374a/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-17_otakuvid_dub": "https://otakuvid.online/embed/t5mub9xq6kzv",
+          "48235-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 18",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-18",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-18_vibeplayer_dub": "https://vibeplayer.site/786efd86dae220d9",
+          "48235-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/786efd86dae220d9/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-18_otakuvid_dub": "https://otakuvid.online/embed/k3yicun4a92q",
+          "48235-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 19",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-19",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-19_vibeplayer_dub": "https://vibeplayer.site/ca1215d2c40438ff",
+          "48235-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ca1215d2c40438ff/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-19_otakuvid_dub": "https://otakuvid.online/embed/xvq0gez5uguk",
+          "48235-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 20",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-20",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-20_vibeplayer_dub": "https://vibeplayer.site/496cbc44e4c7b3ae",
+          "48235-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/496cbc44e4c7b3ae/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-20_otakuvid_dub": "https://otakuvid.online/embed/173iytn94fmz",
+          "48235-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 21",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-21",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-21_vibeplayer_dub": "https://vibeplayer.site/9230254d9a3dac1e",
+          "48235-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9230254d9a3dac1e/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-21_otakuvid_dub": "https://otakuvid.online/embed/n6sxeap9aok6",
+          "48235-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 22",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-22",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-22_vibeplayer_dub": "https://vibeplayer.site/1816c3ac46e85a3d",
+          "48235-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1816c3ac46e85a3d/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-22_otakuvid_dub": "https://otakuvid.online/embed/7k6yvaegffta",
+          "48235-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 23",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-23",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-23_vibeplayer_dub": "https://vibeplayer.site/2f07448e806ab215",
+          "48235-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2f07448e806ab215/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-23_otakuvid_dub": "https://otakuvid.online/embed/7xuh6jc0rkmp",
+          "48235-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 24",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-24",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-24_vibeplayer_dub": "https://vibeplayer.site/b5aa35bbacb02484",
+          "48235-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b5aa35bbacb02484/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-24_otakuvid_dub": "https://otakuvid.online/embed/qvcqr68rf6or",
+          "48235-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 25",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-25",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-25_vibeplayer_dub": "https://vibeplayer.site/93d35a6ca903ba9f",
+          "48235-malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/93d35a6ca903ba9f/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-25_otakuvid_dub": "https://otakuvid.online/embed/lyj8c3m2ex3t",
+          "48235-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 26",
+      "episode_url": "https://hianime.ad/watch/pucca/ep-26",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48235-malep-26_vibeplayer_dub": "https://vibeplayer.site/57fb36ef28bb4f06",
+          "48235-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/57fb36ef28bb4f06/master.m3u8"
+        },
+        "Earnvids": {
+          "48235-malep-26_otakuvid_dub": "https://otakuvid.online/embed/xok7oqr0e2lw",
+          "48235-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
