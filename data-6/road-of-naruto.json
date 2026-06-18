@@ -1,0 +1,52 @@
+{
+  "anime_name": "Road Of Naruto",
+  "anime_url": "https://hianime.ad/anime/road-of-naruto",
+  "slug": "road-of-naruto",
+  "mal_id": 1067,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:06:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I am Providence",
+      "episode_url": "https://hianime.ad/watch/road-of-naruto/ep-1",
+      "sub": {
+        "HD-1": {
+          "1067-malep-1_vibeplayer_sub": "https://vibeplayer.site/177d32c95de68922",
+          "1067-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/177d32c95de68922/master.m3u8"
+        },
+        "StreamHG": {
+          "1067-malep-1_otakuhg_sub": "https://otakuhg.site/e/iv6goacugopr",
+          "1067-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1067-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cuj6xf6f0dfe",
+          "1067-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1067-malep-1_playmogo_sub": "https://playmogo.com/e/bd81ooq8w1or",
+          "1067-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1067-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3db72023e469bd0b",
+          "1067-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3db72023e469bd0b/master.m3u8"
+        },
+        "StreamHG": {
+          "1067-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ma9l5nfy8tem",
+          "1067-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1067-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/51a5lzmlgbut",
+          "1067-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1067-malep-1_playmogo_hsub": "https://playmogo.com/e/kj14b5wqo4sh",
+          "1067-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
