@@ -1,0 +1,48 @@
+{
+  "anime_name": "Prison School Mad Wax",
+  "anime_url": "https://hianime.ad/anime/prison-school-mad-wax",
+  "slug": "prison-school-mad-wax",
+  "mal_id": 30240,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:52:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Peep Job",
+      "episode_url": "https://hianime.ad/watch/prison-school-mad-wax/ep-1",
+      "sub": {
+        "HD-1": {
+          "30240-malep-1_vibeplayer_sub": "https://vibeplayer.site/bb00047c7d98f305",
+          "30240-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bb00047c7d98f305/master.m3u8"
+        },
+        "StreamHG": {
+          "30240-malep-1_otakuhg_sub": "https://otakuhg.site/e/2pu4mrqvte44",
+          "30240-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30240-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c7j36yhtbz73",
+          "30240-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30240-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1a890b29645ef7c3",
+          "30240-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a890b29645ef7c3/master.m3u8"
+        },
+        "StreamHG": {
+          "30240-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1ekywy99q8ib",
+          "30240-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30240-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eumodgs2gmsn",
+          "30240-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30240-malep-1_playmogo_hsub": "https://playmogo.com/e/rwqqiv7gr65g",
+          "30240-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
