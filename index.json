@@ -7738,5 +7738,15 @@
     "captured_at": "2026-06-18T12:09:48",
     "file": "data-5/onegai-my-melody-kuru-kuru-shuffle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onegai-my-melody-kuru-kuru-shuffle.json"
+  },
+  {
+    "slug": "oniai",
+    "mal_id": 14199,
+    "anime_name": "Oniai",
+    "anime_url": "https://hianime.ad/anime/oniai",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T12:10:41",
+    "file": "data-5/oniai.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/oniai.json"
   }
 ]
