@@ -1,0 +1,52 @@
+{
+  "anime_name": "Piano No Mori",
+  "anime_url": "https://hianime.ad/anime/piano-no-mori",
+  "slug": "piano-no-mori",
+  "mal_id": 36652,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:34:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chosen One",
+      "episode_url": "https://hianime.ad/watch/piano-no-mori/ep-1",
+      "sub": {
+        "HD-1": {
+          "36652-malep-1_vibeplayer_sub": "https://vibeplayer.site/e4189e2bc993c0d7",
+          "36652-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e4189e2bc993c0d7/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-1_otakuhg_sub": "https://otakuhg.site/e/ucawp0cu3heb",
+          "36652-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-1_otakuvid_sub": "https://otakuvid.online/embed/e0n17mxgoj6x",
+          "36652-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "36652-malep-1_playmogo_sub": "https://playmogo.com/e/nsbymyeog6uz",
+          "36652-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36652-malep-1_vibeplayer_hsub": "https://vibeplayer.site/458b6f8a83c812b9",
+          "36652-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/458b6f8a83c812b9/master.m3u8"
+        },
+        "StreamHG": {
+          "36652-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i65c1sfz0ecw",
+          "36652-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36652-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bqwbbp9v773o",
+          "36652-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36652-malep-1_playmogo_hsub": "https://playmogo.com/e/1cu77sy5rcwl",
+          "36652-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
