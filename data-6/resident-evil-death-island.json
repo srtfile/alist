@@ -1,0 +1,31 @@
+{
+  "anime_name": "Resident Evil Death Island",
+  "anime_url": "https://hianime.ad/anime/resident-evil-death-island",
+  "slug": "resident-evil-death-island",
+  "mal_id": 33012,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:43:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Meet Again",
+      "episode_url": "https://hianime.ad/watch/resident-evil-death-island/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "33012-malep-1_vibeplayer_dub": "https://vibeplayer.site/f76356bca9d23d50",
+          "33012-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f76356bca9d23d50/master.m3u8"
+        },
+        "StreamHG": {
+          "33012-malep-1_otakuhg_dub": "https://otakuhg.site/e/ee85yi7v36l2",
+          "33012-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "33012-malep-1_otakuvid_dub": "https://otakuvid.online/embed/t3g4b4wwlea9",
+          "33012-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
