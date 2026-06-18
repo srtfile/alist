@@ -1,0 +1,27 @@
+{
+  "anime_name": "Robotech Ii The Sentinels",
+  "anime_url": "https://hianime.ad/anime/robotech-ii-the-sentinels",
+  "slug": "robotech-ii-the-sentinels",
+  "mal_id": 1088,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:10:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Booby Trap",
+      "episode_url": "https://hianime.ad/watch/robotech-ii-the-sentinels/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1088-malep-1_vibeplayer_dub": "https://vibeplayer.site/9b4bcf2c4729df53",
+          "1088-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9b4bcf2c4729df53/master.m3u8"
+        },
+        "Earnvids": {
+          "1088-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ucvlvjuhgmi9",
+          "1088-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
