@@ -6958,5 +6958,15 @@
     "captured_at": "2026-06-18T11:42:02",
     "file": "data-5/one-off.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-off.json"
+  },
+  {
+    "slug": "one-outs",
+    "mal_id": 5040,
+    "anime_name": "One Outs",
+    "anime_url": "https://hianime.ad/anime/one-outs",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T11:42:15",
+    "file": "data-5/one-outs.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/one-outs.json"
   }
 ]
