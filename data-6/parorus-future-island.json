@@ -1,0 +1,48 @@
+{
+  "anime_name": "Parorus Future Island",
+  "anime_url": "https://hianime.ad/anime/parorus-future-island",
+  "slug": "parorus-future-island",
+  "mal_id": 33012,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:51:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Meet Again",
+      "episode_url": "https://hianime.ad/watch/parorus-future-island/ep-1",
+      "sub": {
+        "HD-1": {
+          "33012-malep-1_vibeplayer_sub": "https://vibeplayer.site/013e23acda0f81a4",
+          "33012-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/013e23acda0f81a4/master.m3u8"
+        },
+        "Earnvids": {
+          "33012-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fj1cgklphijc",
+          "33012-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33012-malep-1_playmogo_sub": "https://playmogo.com/e/yc52b7wapr5g",
+          "33012-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33012-malep-1_vibeplayer_hsub": "https://vibeplayer.site/667d722266dd197b",
+          "33012-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/667d722266dd197b/master.m3u8"
+        },
+        "StreamHG": {
+          "33012-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6ogc7r43us58",
+          "33012-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33012-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tuuk745b3qk7",
+          "33012-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33012-malep-1_playmogo_hsub": "https://playmogo.com/e/963wpv3vnc7s",
+          "33012-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
