@@ -12378,5 +12378,15 @@
     "captured_at": "2026-06-18T15:34:33",
     "file": "data-6/raccoon-rascal.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/raccoon-rascal.json"
+  },
+  {
+    "slug": "radiant",
+    "mal_id": 37202,
+    "anime_name": "Radiant",
+    "anime_url": "https://hianime.ad/anime/radiant",
+    "total_episodes": 21,
+    "captured_at": "2026-06-18T15:35:30",
+    "file": "data-6/radiant.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/radiant.json"
   }
 ]
