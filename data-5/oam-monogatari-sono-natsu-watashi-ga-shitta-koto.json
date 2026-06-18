@@ -2,37 +2,37 @@
   "anime_name": "Oam Monogatari Sono Natsu Watashi Ga Shitta Koto",
   "anime_url": "https://hianime.ad/anime/oam-monogatari-sono-natsu-watashi-ga-shitta-koto",
   "slug": "oam-monogatari-sono-natsu-watashi-ga-shitta-koto",
-  "mal_id": null,
+  "mal_id": 9587,
   "total_episodes": 1,
-  "captured_at": "2026-06-17T21:02:34",
+  "captured_at": "2026-06-18T11:17:45",
   "source": "hianime.ad",
   "episodes": [
     {
-      "episode_title": "full",
+      "episode_title": "Wicked Usual Day of a Brother and Sister",
       "episode_url": "https://hianime.ad/watch/oam-monogatari-sono-natsu-watashi-ga-shitta-koto/ep-1",
       "sub": {
         "HD-1": {
-          "malep-1_vibeplayer_sub": "https://vibeplayer.site/1182d318c5418308",
-          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1182d318c5418308/master.m3u8"
+          "9587-malep-1_vibeplayer_sub": "https://vibeplayer.site/1182d318c5418308",
+          "9587-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1182d318c5418308/master.m3u8"
         },
         "Earnvids": {
-          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/7ar5733p5qcv",
-          "malep-1_otakuvid_sub_m3u8": null
+          "9587-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7ar5733p5qcv",
+          "9587-malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {},
       "hsub": {
         "HD-1": {
-          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/762333b52e46d346",
-          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/762333b52e46d346/master.m3u8"
+          "9587-malep-1_vibeplayer_hsub": "https://vibeplayer.site/762333b52e46d346",
+          "9587-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/762333b52e46d346/master.m3u8"
         },
         "Earnvids": {
-          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eb3riackxzkd",
-          "malep-1_otakuvid_hsub_m3u8": null
+          "9587-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eb3riackxzkd",
+          "9587-malep-1_otakuvid_hsub_m3u8": null
         },
         "Doodstream": {
-          "malep-1_playmogo_hsub": "https://playmogo.com/e/bgff7gq38bp4",
-          "malep-1_playmogo_hsub_m3u8": null
+          "9587-malep-1_playmogo_hsub": "https://playmogo.com/e/bgff7gq38bp4",
+          "9587-malep-1_playmogo_hsub_m3u8": null
         }
       }
     }
