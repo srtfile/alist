@@ -1,0 +1,48 @@
+{
+  "anime_name": "Re Birthday",
+  "anime_url": "https://hianime.ad/anime/re-birthday",
+  "slug": "re-birthday",
+  "mal_id": 23421,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:20:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Melancholy of Hero",
+      "episode_url": "https://hianime.ad/watch/re-birthday/ep-1",
+      "sub": {
+        "HD-1": {
+          "23421-malep-1_vibeplayer_sub": "https://vibeplayer.site/81d49ab797af3524",
+          "23421-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/81d49ab797af3524/master.m3u8"
+        },
+        "StreamHG": {
+          "23421-malep-1_otakuhg_sub": "https://otakuhg.site/e/hvrgdwk1uq36",
+          "23421-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23421-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cf30djobfxii",
+          "23421-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23421-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bbf88e01272a28e8",
+          "23421-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bbf88e01272a28e8/master.m3u8"
+        },
+        "StreamHG": {
+          "23421-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qzqdyhhmwez8",
+          "23421-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23421-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/35zjxmwi34w6",
+          "23421-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23421-malep-1_playmogo_hsub": "https://playmogo.com/e/agyiesa75ke4",
+          "23421-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
