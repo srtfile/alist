@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rail Of The Star A True Story Of Children",
+  "anime_url": "https://hianime.ad/anime/rail-of-the-star-a-true-story-of-children",
+  "slug": "rail-of-the-star-a-true-story-of-children",
+  "mal_id": 63472,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T16:03:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/rail-of-the-star-a-true-story-of-children/ep-1",
+      "sub": {
+        "HD-1": {
+          "63472-malep-1_vibeplayer_sub": "https://vibeplayer.site/49bbc7a66a2b8597",
+          "63472-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49bbc7a66a2b8597/master.m3u8"
+        },
+        "Earnvids": {
+          "63472-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0zqgfki7fph0",
+          "63472-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "63472-malep-1_playmogo_sub": "https://playmogo.com/e/8x7ckl2hibfa",
+          "63472-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63472-malep-1_vibeplayer_hsub": "https://vibeplayer.site/87cd312e0f008ea9",
+          "63472-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/87cd312e0f008ea9/master.m3u8"
+        },
+        "Earnvids": {
+          "63472-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/h4snx0z5wb89",
+          "63472-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63472-malep-1_playmogo_hsub": "https://playmogo.com/e/ovoyo3vs3t2c",
+          "63472-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
