@@ -14128,5 +14128,15 @@
     "captured_at": "2026-06-18T18:03:48",
     "file": "data-6/ristorante-paradiso.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ristorante-paradiso.json"
+  },
+  {
+    "slug": "rizelmine",
+    "mal_id": 197,
+    "anime_name": "Rizelmine",
+    "anime_url": "https://hianime.ad/anime/rizelmine",
+    "total_episodes": 24,
+    "captured_at": "2026-06-18T18:04:18",
+    "file": "data-6/rizelmine.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rizelmine.json"
   }
 ]
