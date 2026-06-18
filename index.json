@@ -15198,5 +15198,15 @@
     "captured_at": "2026-06-18T19:01:35",
     "file": "data-6/saikyou-robot-daiouja.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/saikyou-robot-daiouja.json"
+  },
+  {
+    "slug": "sailor-moon",
+    "mal_id": 530,
+    "anime_name": "Sailor Moon",
+    "anime_url": "https://hianime.ad/anime/sailor-moon",
+    "total_episodes": 46,
+    "captured_at": "2026-06-18T19:02:40",
+    "file": "data-6/sailor-moon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sailor-moon.json"
   }
 ]
