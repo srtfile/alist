@@ -1,0 +1,65 @@
+{
+  "anime_name": "One Piece The Movie 14 Stampede",
+  "anime_url": "https://hianime.ad/anime/one-piece-the-movie-14-stampede",
+  "slug": "one-piece-the-movie-14-stampede",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:54:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/one-piece-the-movie-14-stampede/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ebe91bc6e1da6efa",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ebe91bc6e1da6efa/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/2usmtt8k8c45",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/veog6ini0m1b",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/eofa2t8latd4",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/da61e5db93b36ac6",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/da61e5db93b36ac6/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/skful45zofnk",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/6cbzl47n8jyj",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/a8182cdc5988e810",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8182cdc5988e810/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/jav2s2yern5x",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g8y9e7fjhu0o",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/awx2utfeh2rc",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
