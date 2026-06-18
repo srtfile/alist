@@ -3958,5 +3958,15 @@
     "captured_at": "2026-06-18T08:41:05",
     "file": "data-5/nanatsu-iro-drops.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nanatsu-iro-drops.json"
+  },
+  {
+    "slug": "nanbaka",
+    "mal_id": null,
+    "anime_name": "Nanbaka",
+    "anime_url": "https://hianime.ad/anime/nanbaka",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T08:41:25",
+    "file": "data-5/nanbaka.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nanbaka.json"
   }
 ]
