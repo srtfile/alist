@@ -1,0 +1,48 @@
+{
+  "anime_name": "Pleasant Goat And Big Big Wolf Movie 01 The Super Snail Adventure",
+  "anime_url": "https://hianime.ad/anime/pleasant-goat-and-big-big-wolf-movie-01-the-super-snail-adventure",
+  "slug": "pleasant-goat-and-big-big-wolf-movie-01-the-super-snail-adventure",
+  "mal_id": 49079,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:44:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pleasant-goat-and-big-big-wolf-movie-01-the-super-snail-adventure/ep-1",
+      "sub": {
+        "HD-1": {
+          "49079-malep-1_vibeplayer_sub": "https://vibeplayer.site/60d8203401c99b54",
+          "49079-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/60d8203401c99b54/master.m3u8"
+        },
+        "StreamHG": {
+          "49079-malep-1_otakuhg_sub": "https://otakuhg.site/e/8i2zvra4jort",
+          "49079-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "49079-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yobup5sjopia",
+          "49079-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49079-malep-1_playmogo_sub": "https://playmogo.com/e/k94aksnnsmle",
+          "49079-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49079-malep-1_vibeplayer_hsub": "https://vibeplayer.site/212877fc73afd8d5",
+          "49079-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/212877fc73afd8d5/master.m3u8"
+        },
+        "Earnvids": {
+          "49079-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tje746w2ib73",
+          "49079-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49079-malep-1_playmogo_hsub": "https://playmogo.com/e/7hf9dilevum5",
+          "49079-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
