@@ -4848,5 +4848,15 @@
     "captured_at": "2026-06-18T10:20:23",
     "file": "data-5/new-game-1178.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-game-1178.json"
+  },
+  {
+    "slug": "new-game",
+    "mal_id": null,
+    "anime_name": "New Game",
+    "anime_url": "https://hianime.ad/anime/new-game",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T10:20:42",
+    "file": "data-5/new-game.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/new-game.json"
   }
 ]
