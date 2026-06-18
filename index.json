@@ -10828,5 +10828,15 @@
     "captured_at": "2026-06-18T14:25:02",
     "file": "data-6/pops.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pops.json"
+  },
+  {
+    "slug": "porco-rosso",
+    "mal_id": 32673,
+    "anime_name": "Porco Rosso",
+    "anime_url": "https://hianime.ad/anime/porco-rosso",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T14:25:15",
+    "file": "data-6/porco-rosso.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/porco-rosso.json"
   }
 ]
