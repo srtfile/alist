@@ -1,0 +1,40 @@
+{
+  "anime_name": "Seihou Tenshi Angel Links Meifon No Special Kaisetsu Corner",
+  "anime_url": "https://hianime.ad/anime/seihou-tenshi-angel-links-meifon-no-special-kaisetsu-corner",
+  "slug": "seihou-tenshi-angel-links-meifon-no-special-kaisetsu-corner",
+  "mal_id": 1226,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:34:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Guardian Angel",
+      "episode_url": "https://hianime.ad/watch/seihou-tenshi-angel-links-meifon-no-special-kaisetsu-corner/ep-1",
+      "sub": {
+        "HD-1": {
+          "1226-malep-1_vibeplayer_sub": "https://vibeplayer.site/5bf37ba10d59fe4f",
+          "1226-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5bf37ba10d59fe4f/master.m3u8"
+        },
+        "Earnvids": {
+          "1226-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vojgvbpu745e",
+          "1226-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1226-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e1046cd08bcd9153",
+          "1226-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1046cd08bcd9153/master.m3u8"
+        },
+        "Earnvids": {
+          "1226-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wgqoy0mqzmmb",
+          "1226-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1226-malep-1_playmogo_hsub": "https://playmogo.com/e/hwgwymt6nx3j",
+          "1226-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
