@@ -5878,5 +5878,15 @@
     "captured_at": "2026-06-18T11:00:00",
     "file": "data-5/nodame-cantabile.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nodame-cantabile.json"
+  },
+  {
+    "slug": "nodame-cantabile-finale",
+    "mal_id": null,
+    "anime_name": "Nodame Cantabile Finale",
+    "anime_url": "https://hianime.ad/anime/nodame-cantabile-finale",
+    "total_episodes": 11,
+    "captured_at": "2026-06-18T11:00:31",
+    "file": "data-5/nodame-cantabile-finale.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/nodame-cantabile-finale.json"
   }
 ]
