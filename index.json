@@ -9428,5 +9428,15 @@
     "captured_at": "2026-06-18T13:22:27",
     "file": "data-6/persona-trinity-soul.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/persona-trinity-soul.json"
+  },
+  {
+    "slug": "pet",
+    "mal_id": 37522,
+    "anime_name": "Pet",
+    "anime_url": "https://hianime.ad/anime/pet",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T13:23:00",
+    "file": "data-6/pet.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pet.json"
   }
 ]
