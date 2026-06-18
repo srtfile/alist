@@ -5408,5 +5408,15 @@
     "captured_at": "2026-06-18T10:41:09",
     "file": "data-5/ninja-kamui.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninja-kamui.json"
+  },
+  {
+    "slug": "ninja-nonsense",
+    "mal_id": null,
+    "anime_name": "Ninja Nonsense",
+    "anime_url": "https://hianime.ad/anime/ninja-nonsense",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T10:41:29",
+    "file": "data-5/ninja-nonsense.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninja-nonsense.json"
   }
 ]
