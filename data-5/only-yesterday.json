@@ -1,0 +1,31 @@
+{
+  "anime_name": "Only Yesterday",
+  "anime_url": "https://hianime.ad/anime/only-yesterday",
+  "slug": "only-yesterday",
+  "mal_id": 1555,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:13:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Exciting Encounter",
+      "episode_url": "https://hianime.ad/watch/only-yesterday/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "1555-malep-1_vibeplayer_dub": "https://vibeplayer.site/b835661499665505",
+          "1555-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b835661499665505/master.m3u8"
+        },
+        "StreamHG": {
+          "1555-malep-1_otakuhg_dub": "https://otakuhg.site/e/m8o9qsaeeatn",
+          "1555-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1555-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lop3fjiuup1v",
+          "1555-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
