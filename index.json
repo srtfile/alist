@@ -2538,5 +2538,15 @@
     "captured_at": "2026-06-18T00:31:53",
     "file": "data-5/muumindani-no-suisei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/muumindani-no-suisei.json"
+  },
+  {
+    "slug": "muv-luv-alternative",
+    "mal_id": 40608,
+    "anime_name": "Muv Luv Alternative",
+    "anime_url": "https://hianime.ad/anime/muv-luv-alternative",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T00:32:08",
+    "file": "data-5/muv-luv-alternative.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/muv-luv-alternative.json"
   }
 ]
