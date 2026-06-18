@@ -1,0 +1,53 @@
+{
+  "anime_name": "Samurai Shodown The Motion Picture",
+  "anime_url": "https://hianime.ad/anime/samurai-shodown-the-motion-picture",
+  "slug": "samurai-shodown-the-motion-picture",
+  "mal_id": 419,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:51:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Road to Armageddon",
+      "episode_url": "https://hianime.ad/watch/samurai-shodown-the-motion-picture/ep-1",
+      "sub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_sub": "https://vibeplayer.site/8a2a561629128cad",
+          "419-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a2a561629128cad/master.m3u8"
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1jjbf5jnpxp5",
+          "419-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_dub": "https://vibeplayer.site/77a6793fb427037e",
+          "419-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/77a6793fb427037e/master.m3u8"
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ksypupzrdc89",
+          "419-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "419-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cf074788556d0f55",
+          "419-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf074788556d0f55/master.m3u8"
+        },
+        "StreamHG": {
+          "419-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b99ur3ka8yui",
+          "419-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "419-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kbn8lcni7xxl",
+          "419-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "419-malep-1_playmogo_hsub": "https://playmogo.com/e/nkk6rxkmar0l",
+          "419-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
