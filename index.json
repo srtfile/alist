@@ -17718,5 +17718,15 @@
     "captured_at": "2026-06-18T21:15:22",
     "file": "data-6/sgt-frog.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sgt-frog.json"
+  },
+  {
+    "slug": "shabake",
+    "mal_id": 60378,
+    "anime_name": "Shabake",
+    "anime_url": "https://hianime.ad/anime/shabake",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T21:21:03",
+    "file": "data-7/shabake.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shabake.json"
   }
 ]
