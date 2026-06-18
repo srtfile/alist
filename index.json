@@ -16168,5 +16168,15 @@
     "captured_at": "2026-06-18T19:54:45",
     "file": "data-6/sand-land-the-series.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sand-land-the-series.json"
+  },
+  {
+    "slug": "sanda",
+    "mal_id": 59267,
+    "anime_name": "Sanda",
+    "anime_url": "https://hianime.ad/anime/sanda",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T19:55:17",
+    "file": "data-6/sanda.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sanda.json"
   }
 ]
