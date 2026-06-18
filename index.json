@@ -9438,5 +9438,15 @@
     "captured_at": "2026-06-18T13:23:00",
     "file": "data-6/pet.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pet.json"
+  },
+  {
+    "slug": "pet-shop-of-horrors",
+    "mal_id": 326,
+    "anime_name": "Pet Shop Of Horrors",
+    "anime_url": "https://hianime.ad/anime/pet-shop-of-horrors",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T13:23:22",
+    "file": "data-6/pet-shop-of-horrors.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pet-shop-of-horrors.json"
   }
 ]
