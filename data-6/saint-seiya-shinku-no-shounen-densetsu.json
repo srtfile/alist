@@ -1,0 +1,44 @@
+{
+  "anime_name": "Saint Seiya Shinku No Shounen Densetsu",
+  "anime_url": "https://hianime.ad/anime/saint-seiya-shinku-no-shounen-densetsu",
+  "slug": "saint-seiya-shinku-no-shounen-densetsu",
+  "mal_id": 1254,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:20:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Revive! Legendary Hero!",
+      "episode_url": "https://hianime.ad/watch/saint-seiya-shinku-no-shounen-densetsu/ep-1",
+      "sub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_sub": "https://vibeplayer.site/7bdb5728077a8e3d",
+          "1254-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7bdb5728077a8e3d/master.m3u8"
+        },
+        "StreamHG": {
+          "1254-malep-1_otakuhg_sub": "https://otakuhg.site/e/fw4mdan86row",
+          "1254-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1ix4goep0bu9",
+          "1254-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_hsub": "https://vibeplayer.site/63e0686742663a0a",
+          "1254-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/63e0686742663a0a/master.m3u8"
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3iy51j1uxx44",
+          "1254-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1254-malep-1_playmogo_hsub": "https://playmogo.com/e/p7ljras1ifh8",
+          "1254-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
