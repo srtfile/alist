@@ -15848,5 +15848,15 @@
     "captured_at": "2026-06-18T19:38:33",
     "file": "data-6/sakura-trick.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-trick.json"
+  },
+  {
+    "slug": "sakura-wars",
+    "mal_id": 561,
+    "anime_name": "Sakura Wars",
+    "anime_url": "https://hianime.ad/anime/sakura-wars",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T19:39:04",
+    "file": "data-6/sakura-wars.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-wars.json"
   }
 ]
