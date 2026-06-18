@@ -1,0 +1,81 @@
+{
+  "anime_name": "Sekaiichi Hatsukoi Ova",
+  "anime_url": "https://hianime.ad/anime/sekaiichi-hatsukoi-ova",
+  "slug": "sekaiichi-hatsukoi-ova",
+  "mal_id": 9926,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T20:43:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First impressions are the most lasting.",
+      "episode_url": "https://hianime.ad/watch/sekaiichi-hatsukoi-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "9926-malep-1_vibeplayer_sub": "https://vibeplayer.site/bf7aceeb517881a2",
+          "9926-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bf7aceeb517881a2/master.m3u8"
+        },
+        "StreamHG": {
+          "9926-malep-1_otakuhg_sub": "https://otakuhg.site/e/7or7awvkvl3v",
+          "9926-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9926-malep-1_otakuvid_sub": "https://otakuvid.online/embed/o2iax46qs6ia",
+          "9926-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9926-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4a2c381bf33d9835",
+          "9926-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4a2c381bf33d9835/master.m3u8"
+        },
+        "StreamHG": {
+          "9926-malep-1_otakuhg_hsub": "https://otakuhg.site/e/av61ptq0eok3",
+          "9926-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9926-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g29a7yehctos",
+          "9926-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9926-malep-1_playmogo_hsub": "https://playmogo.com/e/xtifofiu0qw0",
+          "9926-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A man has free choice to begin love but not to end it.",
+      "episode_url": "https://hianime.ad/watch/sekaiichi-hatsukoi-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "9926-malep-2_vibeplayer_sub": "https://vibeplayer.site/041b5f2d19086628",
+          "9926-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/041b5f2d19086628/master.m3u8"
+        },
+        "Earnvids": {
+          "9926-malep-2_otakuvid_sub": "https://otakuvid.online/embed/1yu0sm3fdgru",
+          "9926-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9926-malep-2_vibeplayer_hsub": "https://vibeplayer.site/a714e149a5541970",
+          "9926-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a714e149a5541970/master.m3u8"
+        },
+        "StreamHG": {
+          "9926-malep-2_otakuhg_hsub": "https://otakuhg.site/e/hqsuqgnn5auo",
+          "9926-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9926-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ybfjjhii3qto",
+          "9926-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9926-malep-2_playmogo_hsub": "https://playmogo.com/e/db804grf5fwa",
+          "9926-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
