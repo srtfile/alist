@@ -1,0 +1,31 @@
+{
+  "anime_name": "Rio Rainbow Gate Special",
+  "anime_url": "https://hianime.ad/anime/rio-rainbow-gate-special",
+  "slug": "rio-rainbow-gate-special",
+  "mal_id": 8241,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:01:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Goddess of Victory",
+      "episode_url": "https://hianime.ad/watch/rio-rainbow-gate-special/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "8241-malep-1_vibeplayer_dub": "https://vibeplayer.site/08b728605b45ee3a",
+          "8241-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/08b728605b45ee3a/master.m3u8"
+        },
+        "StreamHG": {
+          "8241-malep-1_otakuhg_dub": "https://otakuhg.site/e/h4ssj6dp6zps",
+          "8241-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8241-malep-1_otakuvid_dub": "https://otakuvid.online/embed/h38n9wvl8y90",
+          "8241-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
