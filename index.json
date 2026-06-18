@@ -2058,5 +2058,15 @@
     "captured_at": "2026-06-18T00:07:16",
     "file": "data-5/mouse.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mouse.json"
+  },
+  {
+    "slug": "moyashimon",
+    "mal_id": 3001,
+    "anime_name": "Moyashimon",
+    "anime_url": "https://hianime.ad/anime/moyashimon",
+    "total_episodes": 11,
+    "captured_at": "2026-06-18T00:07:42",
+    "file": "data-5/moyashimon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/moyashimon.json"
   }
 ]
