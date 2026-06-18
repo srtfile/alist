@@ -1,0 +1,48 @@
+{
+  "anime_name": "Oomuro Ke Dear Sisters",
+  "anime_url": "https://hianime.ad/anime/oomuro-ke-dear-sisters",
+  "slug": "oomuro-ke-dear-sisters",
+  "mal_id": 3501,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:15:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Chapter of Reunion",
+      "episode_url": "https://hianime.ad/watch/oomuro-ke-dear-sisters/ep-1",
+      "sub": {
+        "HD-1": {
+          "3501-malep-1_vibeplayer_sub": "https://vibeplayer.site/13ec8e932fd2d705",
+          "3501-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13ec8e932fd2d705/master.m3u8"
+        },
+        "StreamHG": {
+          "3501-malep-1_otakuhg_sub": "https://otakuhg.site/e/lfwl4t5wqjqz",
+          "3501-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3501-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3z5nebsx8dy3",
+          "3501-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3501-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a125f3228279ab20",
+          "3501-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a125f3228279ab20/master.m3u8"
+        },
+        "StreamHG": {
+          "3501-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ng4f9in8zimk",
+          "3501-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3501-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qe1gsz0wuldw",
+          "3501-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3501-malep-1_playmogo_hsub": "https://playmogo.com/e/0slo9czoca6j",
+          "3501-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
