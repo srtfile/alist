@@ -1,0 +1,57 @@
+{
+  "anime_name": "One Piece Adventure Of Nebulandia",
+  "anime_url": "https://hianime.ad/anime/one-piece-adventure-of-nebulandia",
+  "slug": "one-piece-adventure-of-nebulandia",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:48:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-adventure-of-nebulandia/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/d287ed82669dca49",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d287ed82669dca49/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/500fbki7iuny",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_dub": "https://vibeplayer.site/964b18f1bf58af95",
+          "21-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/964b18f1bf58af95/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_dub": "https://otakuhg.site/e/91n16k6tzlzp",
+          "21-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_dub": "https://otakuvid.online/embed/t35fhrgtf2zf",
+          "21-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b60a47978a07eb15",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b60a47978a07eb15/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qolef6lxilwh",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jmr9rd1uwn5r",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/ocqi9e0cgdzx",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
