@@ -9358,5 +9358,15 @@
     "captured_at": "2026-06-18T13:20:06",
     "file": "data-6/persona-3-the-movie-4-winter-of-rebirth.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/persona-3-the-movie-4-winter-of-rebirth.json"
+  },
+  {
+    "slug": "persona-4-the-animation",
+    "mal_id": 10588,
+    "anime_name": "Persona 4 The Animation",
+    "anime_url": "https://hianime.ad/anime/persona-4-the-animation",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T13:20:20",
+    "file": "data-6/persona-4-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/persona-4-the-animation.json"
   }
 ]
