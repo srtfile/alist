@@ -1,0 +1,48 @@
+{
+  "anime_name": "Plastic Neesan",
+  "anime_url": "https://hianime.ad/anime/plastic-neesan",
+  "slug": "plastic-neesan",
+  "mal_id": 27775,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:41:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Partner",
+      "episode_url": "https://hianime.ad/watch/plastic-neesan/ep-1",
+      "sub": {
+        "HD-1": {
+          "27775-malep-1_vibeplayer_sub": "https://vibeplayer.site/d6f2e47797fe87a2",
+          "27775-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d6f2e47797fe87a2/master.m3u8"
+        },
+        "StreamHG": {
+          "27775-malep-1_otakuhg_sub": "https://otakuhg.site/e/2adt4200xyu0",
+          "27775-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "27775-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d7e5m283tpuu",
+          "27775-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "27775-malep-1_playmogo_sub": "https://playmogo.com/e/12kxdhk8v4q3",
+          "27775-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27775-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ba1b9afc150a5ff",
+          "27775-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ba1b9afc150a5ff/master.m3u8"
+        },
+        "Earnvids": {
+          "27775-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7arcbj8bnppo",
+          "27775-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27775-malep-1_playmogo_hsub": "https://playmogo.com/e/m96ku2of0sf2",
+          "27775-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
