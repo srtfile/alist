@@ -1,0 +1,52 @@
+{
+  "anime_name": "Sekaiichi Hatsukoi Propose Hen",
+  "anime_url": "https://hianime.ad/anime/sekaiichi-hatsukoi-propose-hen",
+  "slug": "sekaiichi-hatsukoi-propose-hen",
+  "mal_id": 9926,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:43:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First impressions are the most lasting.",
+      "episode_url": "https://hianime.ad/watch/sekaiichi-hatsukoi-propose-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "9926-malep-1_vibeplayer_sub": "https://vibeplayer.site/d34b53586de93663",
+          "9926-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d34b53586de93663/master.m3u8"
+        },
+        "StreamHG": {
+          "9926-malep-1_otakuhg_sub": "https://otakuhg.site/e/lri8cgoqnpxq",
+          "9926-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "9926-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vrk3ggk8mbze",
+          "9926-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "9926-malep-1_playmogo_sub": "https://playmogo.com/e/peop8vdq394d",
+          "9926-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9926-malep-1_vibeplayer_hsub": "https://vibeplayer.site/24a6695a54bf308e",
+          "9926-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/24a6695a54bf308e/master.m3u8"
+        },
+        "StreamHG": {
+          "9926-malep-1_otakuhg_hsub": "https://otakuhg.site/e/84gcnfegjggl",
+          "9926-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9926-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yqhcotja48pj",
+          "9926-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9926-malep-1_playmogo_hsub": "https://playmogo.com/e/40qs28gwdr51",
+          "9926-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
