@@ -10238,5 +10238,15 @@
     "captured_at": "2026-06-18T13:51:53",
     "file": "data-6/pocos-udon-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pocos-udon-world.json"
+  },
+  {
+    "slug": "pokemon",
+    "mal_id": 527,
+    "anime_name": "Pokemon",
+    "anime_url": "https://hianime.ad/anime/pokemon",
+    "total_episodes": 276,
+    "captured_at": "2026-06-18T13:52:16",
+    "file": "data-6/pokemon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon.json"
   }
 ]
