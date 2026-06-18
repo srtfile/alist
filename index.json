@@ -8428,5 +8428,15 @@
     "captured_at": "2026-06-18T12:34:21",
     "file": "data-6/overflow-uncensored.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overflow-uncensored.json"
+  },
+  {
+    "slug": "overlord",
+    "mal_id": 29803,
+    "anime_name": "Overlord",
+    "anime_url": "https://hianime.ad/anime/overlord",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T12:34:38",
+    "file": "data-6/overlord.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overlord.json"
   }
 ]
