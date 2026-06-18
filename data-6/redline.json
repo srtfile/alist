@@ -1,0 +1,65 @@
+{
+  "anime_name": "Redline",
+  "anime_url": "https://hianime.ad/anime/redline",
+  "slug": "redline",
+  "mal_id": 30015,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:24:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kaizaki Arata (27), Unemployed",
+      "episode_url": "https://hianime.ad/watch/redline/ep-1",
+      "sub": {
+        "HD-1": {
+          "30015-malep-1_vibeplayer_sub": "https://vibeplayer.site/fd9b54fc3f5adc66",
+          "30015-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd9b54fc3f5adc66/master.m3u8"
+        },
+        "StreamHG": {
+          "30015-malep-1_otakuhg_sub": "https://otakuhg.site/e/rnkm46s7z74u",
+          "30015-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30015-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zs24rv6tloms",
+          "30015-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "30015-malep-1_playmogo_sub": "https://playmogo.com/e/kizr51zqdf9p",
+          "30015-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "30015-malep-1_vibeplayer_dub": "https://vibeplayer.site/7d4420ecccf88fca",
+          "30015-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7d4420ecccf88fca/master.m3u8"
+        },
+        "StreamHG": {
+          "30015-malep-1_otakuhg_dub": "https://otakuhg.site/e/e4vl5coqhqjd",
+          "30015-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "30015-malep-1_otakuvid_dub": "https://otakuvid.online/embed/0vbbkn8454st",
+          "30015-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "30015-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9bb5e1b6742d442d",
+          "30015-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9bb5e1b6742d442d/master.m3u8"
+        },
+        "StreamHG": {
+          "30015-malep-1_otakuhg_hsub": "https://otakuhg.site/e/huv32ccmamqi",
+          "30015-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30015-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9ja7owkcxx09",
+          "30015-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30015-malep-1_playmogo_hsub": "https://playmogo.com/e/m9t3ku95yprm",
+          "30015-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
