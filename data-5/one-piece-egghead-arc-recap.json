@@ -1,0 +1,48 @@
+{
+  "anime_name": "One Piece Egghead Arc Recap",
+  "anime_url": "https://hianime.ad/anime/one-piece-egghead-arc-recap",
+  "slug": "one-piece-egghead-arc-recap",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:44:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-egghead-arc-recap/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/f7d3e0cb573872f6",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f7d3e0cb573872f6/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/xl8bjzpv33sn",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/py9y5dauty6k",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fa6995c7a94819a9",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa6995c7a94819a9/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/2sdkgwd08x06",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/gbpg7oi0mngw",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/fz7l6lcok68l",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
