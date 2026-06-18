@@ -1,0 +1,40 @@
+{
+  "anime_name": "Princess Connection",
+  "anime_url": "https://hianime.ad/anime/princess-connection",
+  "slug": "princess-connection",
+  "mal_id": 55774,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:40:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Princess and Her Torture Time",
+      "episode_url": "https://hianime.ad/watch/princess-connection/ep-1",
+      "sub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_sub": "https://vibeplayer.site/341f89bef0810e6f",
+          "55774-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/341f89bef0810e6f/master.m3u8"
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_sub": "https://otakuvid.online/embed/w6wwwh8h44ha",
+          "55774-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55774-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c0e268feb88c2d52",
+          "55774-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0e268feb88c2d52/master.m3u8"
+        },
+        "StreamHG": {
+          "55774-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xnk8j82qw5x7",
+          "55774-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55774-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6dijr3sd3dqt",
+          "55774-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
