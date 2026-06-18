@@ -1,0 +1,32 @@
+{
+  "anime_name": "Saenai Heroine No Sodatekata Ai To Seishun No Service Kai",
+  "anime_url": "https://hianime.ad/anime/saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai",
+  "slug": "saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai",
+  "mal_id": 23277,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:56:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Error-ridden Prologue",
+      "episode_url": "https://hianime.ad/watch/saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "23277-malep-1_vibeplayer_raw": "https://vibeplayer.site/9935be5a0a088e1d",
+          "23277-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/9935be5a0a088e1d/master.m3u8"
+        },
+        "StreamHG": {
+          "23277-malep-1_otakuhg_raw": "https://otakuhg.site/e/y5bccm2esuaf",
+          "23277-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "23277-malep-1_otakuvid_raw": "https://otakuvid.online/embed/1asehtgxhqsm",
+          "23277-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
