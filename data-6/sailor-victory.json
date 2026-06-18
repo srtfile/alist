@@ -1,0 +1,99 @@
+{
+  "anime_name": "Sailor Victory",
+  "anime_url": "https://hianime.ad/anime/sailor-victory",
+  "slug": "sailor-victory",
+  "mal_id": 530,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T19:11:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Crybaby: Usagi's Beautiful Transformation",
+      "episode_url": "https://hianime.ad/watch/sailor-victory/ep-1",
+      "sub": {
+        "HD-1": {
+          "530-malep-1_vibeplayer_sub": "https://vibeplayer.site/59e758aae8ef204d",
+          "530-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/59e758aae8ef204d/master.m3u8"
+        },
+        "Earnvids": {
+          "530-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cl3his0pqmsi",
+          "530-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "530-malep-1_playmogo_sub": "https://playmogo.com/e/m5p7dvxytbo1",
+          "530-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "530-malep-1_vibeplayer_dub": "https://vibeplayer.site/8ad78db5cbe4c6e9",
+          "530-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8ad78db5cbe4c6e9/master.m3u8"
+        },
+        "Earnvids": {
+          "530-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qieosxvlcmf6",
+          "530-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "530-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b3f786e9999b2560",
+          "530-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b3f786e9999b2560/master.m3u8"
+        },
+        "StreamHG": {
+          "530-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0kmxmzw0jkig",
+          "530-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "530-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mpp5dfjcm7ef",
+          "530-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "530-malep-1_playmogo_hsub": "https://playmogo.com/e/l3kqxpd8cyie",
+          "530-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Punishment Awaits! The House of Fortune Is the Monster Mansion",
+      "episode_url": "https://hianime.ad/watch/sailor-victory/ep-2",
+      "sub": {
+        "HD-1": {
+          "530-malep-2_vibeplayer_sub": "https://vibeplayer.site/633bdf07f5e6ff31",
+          "530-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/633bdf07f5e6ff31/master.m3u8"
+        },
+        "Earnvids": {
+          "530-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ladv7qps15ia",
+          "530-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "530-malep-2_vibeplayer_dub": "https://vibeplayer.site/a8a59bfe0b30bd9f",
+          "530-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a8a59bfe0b30bd9f/master.m3u8"
+        },
+        "Earnvids": {
+          "530-malep-2_otakuvid_dub": "https://otakuvid.online/embed/mr82emi8sne0",
+          "530-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "530-malep-2_vibeplayer_hsub": "https://vibeplayer.site/f1004ef57db2c1f5",
+          "530-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f1004ef57db2c1f5/master.m3u8"
+        },
+        "StreamHG": {
+          "530-malep-2_otakuhg_hsub": "https://otakuhg.site/e/zt02vgqlaeqi",
+          "530-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "530-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/gcfkm2d9i1ob",
+          "530-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "530-malep-2_playmogo_hsub": "https://playmogo.com/e/zbdvzjfuwjee",
+          "530-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
