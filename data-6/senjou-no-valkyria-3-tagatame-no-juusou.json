@@ -1,0 +1,73 @@
+{
+  "anime_name": "Senjou No Valkyria 3 Tagatame No Juusou",
+  "anime_url": "https://hianime.ad/anime/senjou-no-valkyria-3-tagatame-no-juusou",
+  "slug": "senjou-no-valkyria-3-tagatame-no-juusou",
+  "mal_id": 5507,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T20:57:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter and Battle",
+      "episode_url": "https://hianime.ad/watch/senjou-no-valkyria-3-tagatame-no-juusou/ep-1",
+      "sub": {
+        "HD-1": {
+          "5507-malep-1_vibeplayer_sub": "https://vibeplayer.site/eee22db76707d933",
+          "5507-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/eee22db76707d933/master.m3u8"
+        },
+        "Earnvids": {
+          "5507-malep-1_otakuvid_sub": "https://otakuvid.online/embed/buf8xl8tcpj3",
+          "5507-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/293bb0c9dcd40e21",
+          "5507-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/293bb0c9dcd40e21/master.m3u8"
+        },
+        "StreamHG": {
+          "5507-malep-1_otakuhg_hsub": "https://otakuhg.site/e/289s4tk9o3r5",
+          "5507-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5507-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7ilhcwvzrd4b",
+          "5507-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5507-malep-1_playmogo_hsub": "https://playmogo.com/e/g1gqenusf2ev",
+          "5507-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Prayer of the Edelweiss Dandelion",
+      "episode_url": "https://hianime.ad/watch/senjou-no-valkyria-3-tagatame-no-juusou/ep-2",
+      "sub": {
+        "HD-1": {
+          "5507-malep-2_vibeplayer_sub": "https://vibeplayer.site/2787b5ae034811c9",
+          "5507-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2787b5ae034811c9/master.m3u8"
+        },
+        "Earnvids": {
+          "5507-malep-2_otakuvid_sub": "https://otakuvid.online/embed/6tgw636m08sj",
+          "5507-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5507-malep-2_vibeplayer_hsub": "https://vibeplayer.site/bdc2044f5d2dbe0a",
+          "5507-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bdc2044f5d2dbe0a/master.m3u8"
+        },
+        "Earnvids": {
+          "5507-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/216ul1unc24m",
+          "5507-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5507-malep-2_playmogo_hsub": "https://playmogo.com/e/o7p2vgeq26mh",
+          "5507-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
