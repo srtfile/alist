@@ -1,0 +1,44 @@
+{
+  "anime_name": "Orochi The Eight Headed Dragon",
+  "anime_url": "https://hianime.ad/anime/orochi-the-eight-headed-dragon",
+  "slug": "orochi-the-eight-headed-dragon",
+  "mal_id": 1956,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:22:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Signs of the Dragon Spirit",
+      "episode_url": "https://hianime.ad/watch/orochi-the-eight-headed-dragon/ep-1",
+      "sub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_sub": "https://vibeplayer.site/e57ea4426c56c1c4",
+          "1956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e57ea4426c56c1c4/master.m3u8"
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1xkduubkmb25",
+          "1956-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_sub": "https://playmogo.com/e/86u9rrujxmh9",
+          "1956-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8c1be423701f34f9",
+          "1956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c1be423701f34f9/master.m3u8"
+        },
+        "Earnvids": {
+          "1956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jkzxgi5rzgty",
+          "1956-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1956-malep-1_playmogo_hsub": "https://playmogo.com/e/zvijy7ht5jf6",
+          "1956-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
