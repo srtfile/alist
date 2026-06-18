@@ -1,0 +1,44 @@
+{
+  "anime_name": "R 15 R15 Shounen Hyouryuuki",
+  "anime_url": "https://hianime.ad/anime/r-15-r15-shounen-hyouryuuki",
+  "slug": "r-15-r15-shounen-hyouryuuki",
+  "mal_id": 10611,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:33:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Inspiration Academy!",
+      "episode_url": "https://hianime.ad/watch/r-15-r15-shounen-hyouryuuki/ep-1",
+      "sub": {
+        "HD-1": {
+          "10611-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce03a8f20c5f3945",
+          "10611-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce03a8f20c5f3945/master.m3u8"
+        },
+        "Earnvids": {
+          "10611-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5tikkmyzb6il",
+          "10611-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10611-malep-1_playmogo_sub": "https://playmogo.com/e/3oxsxx2w80sy",
+          "10611-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10611-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6be6796b299cd0b2",
+          "10611-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6be6796b299cd0b2/master.m3u8"
+        },
+        "Earnvids": {
+          "10611-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/36m722jtnb4v",
+          "10611-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10611-malep-1_playmogo_hsub": "https://playmogo.com/e/1s5rvwx4aa31",
+          "10611-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
