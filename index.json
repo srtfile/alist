@@ -10648,5 +10648,15 @@
     "captured_at": "2026-06-18T14:19:27",
     "file": "data-6/pokemon-origins.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-origins.json"
+  },
+  {
+    "slug": "pokemon-paldean-winds",
+    "mal_id": 527,
+    "anime_name": "Pokemon Paldean Winds",
+    "anime_url": "https://hianime.ad/anime/pokemon-paldean-winds",
+    "total_episodes": 4,
+    "captured_at": "2026-06-18T14:19:44",
+    "file": "data-6/pokemon-paldean-winds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pokemon-paldean-winds.json"
   }
 ]
