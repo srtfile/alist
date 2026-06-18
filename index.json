@@ -7798,5 +7798,15 @@
     "captured_at": "2026-06-18T12:12:31",
     "file": "data-5/onimomomomo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onimomomomo.json"
+  },
+  {
+    "slug": "onimusha",
+    "mal_id": null,
+    "anime_name": "Onimusha",
+    "anime_url": "https://hianime.ad/anime/onimusha",
+    "total_episodes": 8,
+    "captured_at": "2026-06-18T12:13:01",
+    "file": "data-5/onimusha.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onimusha.json"
   }
 ]
