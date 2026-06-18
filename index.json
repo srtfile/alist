@@ -9828,5 +9828,15 @@
     "captured_at": "2026-06-18T13:39:02",
     "file": "data-6/place-to-place.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/place-to-place.json"
+  },
+  {
+    "slug": "planet-with",
+    "mal_id": 37578,
+    "anime_name": "Planet With",
+    "anime_url": "https://hianime.ad/anime/planet-with",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T13:39:23",
+    "file": "data-6/planet-with.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/planet-with.json"
   }
 ]
