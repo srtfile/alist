@@ -5108,5 +5108,15 @@
     "captured_at": "2026-06-18T10:28:16",
     "file": "data-5/night-warriors-darkstalkers-revenge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/night-warriors-darkstalkers-revenge.json"
+  },
+  {
+    "slug": "night-wizard",
+    "mal_id": null,
+    "anime_name": "Night Wizard",
+    "anime_url": "https://hianime.ad/anime/night-wizard",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T10:28:30",
+    "file": "data-5/night-wizard.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/night-wizard.json"
   }
 ]
