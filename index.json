@@ -17258,5 +17258,15 @@
     "captured_at": "2026-06-18T20:52:19",
     "file": "data-6/sengoku-collection.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sengoku-collection.json"
+  },
+  {
+    "slug": "sengoku-musou",
+    "mal_id": 28283,
+    "anime_name": "Sengoku Musou",
+    "anime_url": "https://hianime.ad/anime/sengoku-musou",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T20:53:03",
+    "file": "data-6/sengoku-musou.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sengoku-musou.json"
   }
 ]
