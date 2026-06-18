@@ -10768,5 +10768,15 @@
     "captured_at": "2026-06-18T14:23:13",
     "file": "data-6/pop-in-q.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pop-in-q.json"
+  },
+  {
+    "slug": "pop-pop-city",
+    "mal_id": 7750,
+    "anime_name": "Pop Pop City",
+    "anime_url": "https://hianime.ad/anime/pop-pop-city",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T14:23:26",
+    "file": "data-6/pop-pop-city.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pop-pop-city.json"
   }
 ]
