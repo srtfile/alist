@@ -2048,5 +2048,15 @@
     "captured_at": "2026-06-18T00:06:37",
     "file": "data-5/mountain-and-sea-organization.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mountain-and-sea-organization.json"
+  },
+  {
+    "slug": "mouse",
+    "mal_id": 624,
+    "anime_name": "Mouse",
+    "anime_url": "https://hianime.ad/anime/mouse",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T00:07:16",
+    "file": "data-5/mouse.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/mouse.json"
   }
 ]
