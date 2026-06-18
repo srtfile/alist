@@ -10778,5 +10778,15 @@
     "captured_at": "2026-06-18T14:23:26",
     "file": "data-6/pop-pop-city.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pop-pop-city.json"
+  },
+  {
+    "slug": "pop-team-epic",
+    "mal_id": 35330,
+    "anime_name": "Pop Team Epic",
+    "anime_url": "https://hianime.ad/anime/pop-team-epic",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T14:23:39",
+    "file": "data-6/pop-team-epic.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pop-team-epic.json"
   }
 ]
