@@ -1,0 +1,44 @@
+{
+  "anime_name": "Relic Armor Legaciam",
+  "anime_url": "https://hianime.ad/anime/relic-armor-legaciam",
+  "slug": "relic-armor-legaciam",
+  "mal_id": 32245,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:31:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Sky Raining Demons",
+      "episode_url": "https://hianime.ad/watch/relic-armor-legaciam/ep-1",
+      "sub": {
+        "HD-1": {
+          "32245-malep-1_vibeplayer_sub": "https://vibeplayer.site/ea48ca3b72ba1d5b",
+          "32245-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea48ca3b72ba1d5b/master.m3u8"
+        },
+        "Earnvids": {
+          "32245-malep-1_otakuvid_sub": "https://otakuvid.online/embed/flb4cqfmci48",
+          "32245-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32245-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7342d2df5c789183",
+          "32245-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7342d2df5c789183/master.m3u8"
+        },
+        "StreamHG": {
+          "32245-malep-1_otakuhg_hsub": "https://otakuhg.site/e/d98tcgc3tghe",
+          "32245-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32245-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9ujejf0jdim4",
+          "32245-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32245-malep-1_playmogo_hsub": "https://playmogo.com/e/wtyup4jivyrw",
+          "32245-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
