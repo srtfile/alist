@@ -14638,5 +14638,15 @@
     "captured_at": "2026-06-18T18:32:00",
     "file": "data-6/rozen-maiden-ouvertre.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rozen-maiden-ouvertre.json"
+  },
+  {
+    "slug": "rozen-maiden-trumend",
+    "mal_id": 65,
+    "anime_name": "Rozen Maiden Trumend",
+    "anime_url": "https://hianime.ad/anime/rozen-maiden-trumend",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T18:32:23",
+    "file": "data-6/rozen-maiden-trumend.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rozen-maiden-trumend.json"
   }
 ]
