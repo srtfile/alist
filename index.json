@@ -11618,5 +11618,15 @@
     "captured_at": "2026-06-18T14:58:49",
     "file": "data-6/project-blue-earth-sos.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/project-blue-earth-sos.json"
+  },
+  {
+    "slug": "promare",
+    "mal_id": 114,
+    "anime_name": "Promare",
+    "anime_url": "https://hianime.ad/anime/promare",
+    "total_episodes": 1,
+    "captured_at": "2026-06-18T14:59:09",
+    "file": "data-6/promare.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/promare.json"
   }
 ]
