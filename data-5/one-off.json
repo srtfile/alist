@@ -1,0 +1,69 @@
+{
+  "anime_name": "One Off",
+  "anime_url": "https://hianime.ad/anime/one-off",
+  "slug": "one-off",
+  "mal_id": 21,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T11:42:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-off/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/38fff51a6919d343",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/38fff51a6919d343/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/bk1a29e6kjqi",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4o2qbd9t4b5b",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b413458fa8d2d010",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b413458fa8d2d010/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/dvz8yb9x2uhm",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t4i4t9m0galp",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!",
+      "episode_url": "https://hianime.ad/watch/one-off/ep-2",
+      "sub": {
+        "HD-1": {
+          "21-malep-2_vibeplayer_sub": "https://vibeplayer.site/79fd62ff5c6b85b1",
+          "21-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79fd62ff5c6b85b1/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ryt8gfxojb6x",
+          "21-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-2_vibeplayer_hsub": "https://vibeplayer.site/ba74d6f1f197d168",
+          "21-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ba74d6f1f197d168/master.m3u8"
+        },
+        "Earnvids": {
+          "21-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/4mf7ta1590r1",
+          "21-malep-2_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
