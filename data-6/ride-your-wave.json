@@ -1,0 +1,65 @@
+{
+  "anime_name": "Ride Your Wave",
+  "anime_url": "https://hianime.ad/anime/ride-your-wave",
+  "slug": "ride-your-wave",
+  "mal_id": 40595,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:52:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Encounter: The Two Nations' Ultimate Weapons",
+      "episode_url": "https://hianime.ad/watch/ride-your-wave/ep-1",
+      "sub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_sub": "https://vibeplayer.site/761c1073499819dd",
+          "40595-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/761c1073499819dd/master.m3u8"
+        },
+        "StreamHG": {
+          "40595-malep-1_otakuhg_sub": "https://otakuhg.site/e/vfvnz2kveaar",
+          "40595-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d833rue5oy56",
+          "40595-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "40595-malep-1_playmogo_sub": "https://playmogo.com/e/dkpg7r1fcndm",
+          "40595-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_dub": "https://vibeplayer.site/34c7cb60acc6f1c0",
+          "40595-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/34c7cb60acc6f1c0/master.m3u8"
+        },
+        "StreamHG": {
+          "40595-malep-1_otakuhg_dub": "https://otakuhg.site/e/38zrwfhg489x",
+          "40595-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_dub": "https://otakuvid.online/embed/326t4t4y4k9l",
+          "40595-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "40595-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e0e2554414bb056c",
+          "40595-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e0e2554414bb056c/master.m3u8"
+        },
+        "StreamHG": {
+          "40595-malep-1_otakuhg_hsub": "https://otakuhg.site/e/t1lipwh8eovf",
+          "40595-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40595-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l04ecpdr4lak",
+          "40595-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40595-malep-1_playmogo_hsub": "https://playmogo.com/e/7q03y93oe83s",
+          "40595-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
