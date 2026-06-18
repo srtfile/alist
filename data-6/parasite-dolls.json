@@ -1,0 +1,53 @@
+{
+  "anime_name": "Parasite Dolls",
+  "anime_url": "https://hianime.ad/anime/parasite-dolls",
+  "slug": "parasite-dolls",
+  "mal_id": 22535,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:50:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Metamorphosis",
+      "episode_url": "https://hianime.ad/watch/parasite-dolls/ep-1",
+      "sub": {
+        "HD-1": {
+          "22535-malep-1_vibeplayer_sub": "https://vibeplayer.site/c39052509b19fa99",
+          "22535-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c39052509b19fa99/master.m3u8"
+        },
+        "Earnvids": {
+          "22535-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8foxfcg6usvm",
+          "22535-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22535-malep-1_vibeplayer_dub": "https://vibeplayer.site/71a9a810c73698ea",
+          "22535-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/71a9a810c73698ea/master.m3u8"
+        },
+        "Earnvids": {
+          "22535-malep-1_otakuvid_dub": "https://otakuvid.online/embed/apdc6mk9ktxz",
+          "22535-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22535-malep-1_vibeplayer_hsub": "https://vibeplayer.site/84f5591ecbb452ad",
+          "22535-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/84f5591ecbb452ad/master.m3u8"
+        },
+        "StreamHG": {
+          "22535-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s257zq0lg4g6",
+          "22535-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22535-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ps6r42zs7miy",
+          "22535-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22535-malep-1_playmogo_hsub": "https://playmogo.com/e/kvejg9idsl91",
+          "22535-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
