@@ -1,0 +1,48 @@
+{
+  "anime_name": "One Room Second Season Special",
+  "anime_url": "https://hianime.ad/anime/one-room-second-season-special",
+  "slug": "one-room-second-season-special",
+  "mal_id": 36431,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:58:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hanasaka Yui Is Excited",
+      "episode_url": "https://hianime.ad/watch/one-room-second-season-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "36431-malep-1_vibeplayer_sub": "https://vibeplayer.site/f18ad8729d589353",
+          "36431-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f18ad8729d589353/master.m3u8"
+        },
+        "StreamHG": {
+          "36431-malep-1_otakuhg_sub": "https://otakuhg.site/e/olb7wctbcsup",
+          "36431-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "36431-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b4g83gbc58hc",
+          "36431-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36431-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9bcd30e061637ec6",
+          "36431-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9bcd30e061637ec6/master.m3u8"
+        },
+        "StreamHG": {
+          "36431-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4ycta55lewva",
+          "36431-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36431-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pvtti9t4n5dj",
+          "36431-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36431-malep-1_playmogo_hsub": "https://playmogo.com/e/hxdcyops904a",
+          "36431-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
