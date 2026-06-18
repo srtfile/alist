@@ -2348,5 +2348,15 @@
     "captured_at": "2026-06-18T00:22:08",
     "file": "data-5/musashino-a-bonus.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/musashino-a-bonus.json"
+  },
+  {
+    "slug": "musculman",
+    "mal_id": 3272,
+    "anime_name": "Musculman",
+    "anime_url": "https://hianime.ad/anime/musculman",
+    "total_episodes": 86,
+    "captured_at": "2026-06-18T00:22:24",
+    "file": "data-5/musculman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/musculman.json"
   }
 ]
