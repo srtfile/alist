@@ -1,0 +1,44 @@
+{
+  "anime_name": "Pants No Ana Mambo De Ganbo",
+  "anime_url": "https://hianime.ad/anime/pants-no-ana-mambo-de-ganbo",
+  "slug": "pants-no-ana-mambo-de-ganbo",
+  "mal_id": 37999,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:45:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Will Make You Invite Me to a Movie / Kaguya Wants to Be Stopped / Kaguya Wants It",
+      "episode_url": "https://hianime.ad/watch/pants-no-ana-mambo-de-ganbo/ep-1",
+      "sub": {
+        "HD-1": {
+          "37999-malep-1_vibeplayer_sub": "https://vibeplayer.site/b0e22ff8c42ee033",
+          "37999-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b0e22ff8c42ee033/master.m3u8"
+        },
+        "Earnvids": {
+          "37999-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i7qd2abejwc7",
+          "37999-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37999-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f6fcf2d5f91d9077",
+          "37999-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f6fcf2d5f91d9077/master.m3u8"
+        },
+        "StreamHG": {
+          "37999-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wwr2qipnwmv7",
+          "37999-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37999-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xjq1vy19z2si",
+          "37999-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37999-malep-1_playmogo_hsub": "https://playmogo.com/e/rdzr5g451sva",
+          "37999-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
