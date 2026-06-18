@@ -1,0 +1,103 @@
+{
+  "anime_name": "Shiki Specials",
+  "anime_url": "https://hianime.ad/anime/shiki-specials",
+  "slug": "shiki-specials",
+  "mal_id": 7724,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T21:46:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First Blood",
+      "episode_url": "https://hianime.ad/watch/shiki-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "7724-malep-1_vibeplayer_sub": "https://vibeplayer.site/8757ede21245eadf",
+          "7724-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8757ede21245eadf/master.m3u8"
+        },
+        "Earnvids": {
+          "7724-malep-1_otakuvid_sub": "https://otakuvid.online/embed/w3ytk32ax950",
+          "7724-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "7724-malep-1_vibeplayer_dub": "https://vibeplayer.site/8da3c3129352be7f",
+          "7724-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8da3c3129352be7f/master.m3u8"
+        },
+        "StreamHG": {
+          "7724-malep-1_otakuhg_dub": "https://otakuhg.site/e/rau9wzgcrm5o",
+          "7724-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "7724-malep-1_otakuvid_dub": "https://otakuvid.online/embed/j57nppugsmqu",
+          "7724-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "7724-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cb9cbb8548508758",
+          "7724-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cb9cbb8548508758/master.m3u8"
+        },
+        "StreamHG": {
+          "7724-malep-1_otakuhg_hsub": "https://otakuhg.site/e/45pg31ajrkvc",
+          "7724-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7724-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z83evmwzha66",
+          "7724-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7724-malep-1_playmogo_hsub": "https://playmogo.com/e/qqsr5ats4y7c",
+          "7724-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Second Decay",
+      "episode_url": "https://hianime.ad/watch/shiki-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "7724-malep-2_vibeplayer_sub": "https://vibeplayer.site/2bc8ff091c6c42fc",
+          "7724-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2bc8ff091c6c42fc/master.m3u8"
+        },
+        "Earnvids": {
+          "7724-malep-2_otakuvid_sub": "https://otakuvid.online/embed/cqoenp9r9dwk",
+          "7724-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "7724-malep-2_vibeplayer_dub": "https://vibeplayer.site/3f9a5ce234208329",
+          "7724-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3f9a5ce234208329/master.m3u8"
+        },
+        "StreamHG": {
+          "7724-malep-2_otakuhg_dub": "https://otakuhg.site/e/usy0cwak0utv",
+          "7724-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "7724-malep-2_otakuvid_dub": "https://otakuvid.online/embed/qm75dwmp9qix",
+          "7724-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "7724-malep-2_vibeplayer_hsub": "https://vibeplayer.site/386bbecfc6537504",
+          "7724-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/386bbecfc6537504/master.m3u8"
+        },
+        "StreamHG": {
+          "7724-malep-2_otakuhg_hsub": "https://otakuhg.site/e/mpooztkveymr",
+          "7724-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7724-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/77fx39vx9kv3",
+          "7724-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7724-malep-2_playmogo_hsub": "https://playmogo.com/e/b2tali1z6046",
+          "7724-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
