@@ -1,0 +1,44 @@
+{
+  "anime_name": "Perrine Monogatari Movie",
+  "anime_url": "https://hianime.ad/anime/perrine-monogatari-movie",
+  "slug": "perrine-monogatari-movie",
+  "mal_id": 2549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:18:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Setting Out",
+      "episode_url": "https://hianime.ad/watch/perrine-monogatari-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2549-malep-1_vibeplayer_sub": "https://vibeplayer.site/02701fd6337accd2",
+          "2549-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/02701fd6337accd2/master.m3u8"
+        },
+        "Earnvids": {
+          "2549-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lv0dx20k74mo",
+          "2549-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1f681dada4d41339",
+          "2549-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1f681dada4d41339/master.m3u8"
+        },
+        "StreamHG": {
+          "2549-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6vtd7q1c3fk6",
+          "2549-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2549-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tha5dcqs836q",
+          "2549-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2549-malep-1_playmogo_hsub": "https://playmogo.com/e/1z97t4e9nqu7",
+          "2549-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
