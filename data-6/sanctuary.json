@@ -1,0 +1,53 @@
+{
+  "anime_name": "Sanctuary",
+  "anime_url": "https://hianime.ad/anime/sanctuary",
+  "slug": "sanctuary",
+  "mal_id": 648,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:54:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/sanctuary/ep-1",
+      "sub": {
+        "HD-1": {
+          "648-malep-1_vibeplayer_sub": "https://vibeplayer.site/0538404620c4487c",
+          "648-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0538404620c4487c/master.m3u8"
+        },
+        "Earnvids": {
+          "648-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5zbohiek64r9",
+          "648-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "648-malep-1_vibeplayer_dub": "https://vibeplayer.site/7236b0789d5fb3ae",
+          "648-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7236b0789d5fb3ae/master.m3u8"
+        },
+        "Earnvids": {
+          "648-malep-1_otakuvid_dub": "https://otakuvid.online/embed/rapachoitiwl",
+          "648-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "648-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e23108b61ff0b119",
+          "648-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e23108b61ff0b119/master.m3u8"
+        },
+        "StreamHG": {
+          "648-malep-1_otakuhg_hsub": "https://otakuhg.site/e/karvn5updcpw",
+          "648-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "648-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/opospnytw91f",
+          "648-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "648-malep-1_playmogo_hsub": "https://playmogo.com/e/ijz68yhblnqw",
+          "648-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
