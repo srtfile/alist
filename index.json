@@ -5458,5 +5458,15 @@
     "captured_at": "2026-06-18T10:42:51",
     "file": "data-5/ninja-vs-gokudo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninja-vs-gokudo.json"
+  },
+  {
+    "slug": "ninjala-tv",
+    "mal_id": null,
+    "anime_name": "Ninjala Tv",
+    "anime_url": "https://hianime.ad/anime/ninjala-tv",
+    "total_episodes": 137,
+    "captured_at": "2026-06-18T10:43:10",
+    "file": "data-5/ninjala-tv.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/ninjala-tv.json"
   }
 ]
