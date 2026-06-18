@@ -1,0 +1,31 @@
+{
+  "anime_name": "Ringing Bell",
+  "anime_url": "https://hianime.ad/anime/ringing-bell",
+  "slug": "ringing-bell",
+  "mal_id": 19647,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T17:59:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Greatest Challenger",
+      "episode_url": "https://hianime.ad/watch/ringing-bell/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "19647-malep-1_vibeplayer_dub": "https://vibeplayer.site/85f94b8648eb4333",
+          "19647-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/85f94b8648eb4333/master.m3u8"
+        },
+        "Earnvids": {
+          "19647-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pvsoiso08oa5",
+          "19647-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "19647-malep-1_playmogo_dub": "https://playmogo.com/e/gbqjmlc0hkm6",
+          "19647-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
