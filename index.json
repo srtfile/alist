@@ -12518,5 +12518,15 @@
     "captured_at": "2026-06-18T16:04:33",
     "file": "data-6/rainbow.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rainbow.json"
+  },
+  {
+    "slug": "rainbow-days",
+    "mal_id": 31414,
+    "anime_name": "Rainbow Days",
+    "anime_url": "https://hianime.ad/anime/rainbow-days",
+    "total_episodes": 24,
+    "captured_at": "2026-06-18T16:05:05",
+    "file": "data-6/rainbow-days.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/rainbow-days.json"
   }
 ]
