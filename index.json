@@ -12908,5 +12908,15 @@
     "captured_at": "2026-06-18T16:20:32",
     "file": "data-6/re-birthday.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/re-birthday.json"
+  },
+  {
+    "slug": "re-kan",
+    "mal_id": 25859,
+    "anime_name": "Re Kan",
+    "anime_url": "https://hianime.ad/anime/re-kan",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T16:20:45",
+    "file": "data-6/re-kan.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/re-kan.json"
   }
 ]
