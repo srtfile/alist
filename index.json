@@ -8438,5 +8438,15 @@
     "captured_at": "2026-06-18T12:34:38",
     "file": "data-6/overlord.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overlord.json"
+  },
+  {
+    "slug": "overlord-ii",
+    "mal_id": 35073,
+    "anime_name": "Overlord Ii",
+    "anime_url": "https://hianime.ad/anime/overlord-ii",
+    "total_episodes": 13,
+    "captured_at": "2026-06-18T12:35:00",
+    "file": "data-6/overlord-ii.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/overlord-ii.json"
   }
 ]
