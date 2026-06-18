@@ -8608,5 +8608,15 @@
     "captured_at": "2026-06-18T12:40:02",
     "file": "data-6/ozanari-dungeon-kaze-no-tou.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ozanari-dungeon-kaze-no-tou.json"
+  },
+  {
+    "slug": "ozma",
+    "mal_id": 12677,
+    "anime_name": "Ozma",
+    "anime_url": "https://hianime.ad/anime/ozma",
+    "total_episodes": 6,
+    "captured_at": "2026-06-18T12:40:15",
+    "file": "data-6/ozma.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/ozma.json"
   }
 ]
