@@ -8198,5 +8198,15 @@
     "captured_at": "2026-06-18T12:25:54",
     "file": "data-5/otaku-no-video.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/otaku-no-video.json"
+  },
+  {
+    "slug": "otherside-picnic",
+    "mal_id": 41392,
+    "anime_name": "Otherside Picnic",
+    "anime_url": "https://hianime.ad/anime/otherside-picnic",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T12:26:06",
+    "file": "data-5/otherside-picnic.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/otherside-picnic.json"
   }
 ]
