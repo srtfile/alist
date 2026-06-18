@@ -8368,5 +8368,15 @@
     "captured_at": "2026-06-18T12:32:00",
     "file": "data-6/oval-x-over.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/oval-x-over.json"
+  },
+  {
+    "slug": "over-drive",
+    "mal_id": 2112,
+    "anime_name": "Over Drive",
+    "anime_url": "https://hianime.ad/anime/over-drive",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T12:32:12",
+    "file": "data-6/over-drive.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/over-drive.json"
   }
 ]
