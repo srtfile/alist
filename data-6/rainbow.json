@@ -1,0 +1,630 @@
+{
+  "anime_name": "Rainbow",
+  "anime_url": "https://hianime.ad/anime/rainbow",
+  "slug": "rainbow",
+  "mal_id": 6114,
+  "total_episodes": 26,
+  "captured_at": "2026-06-18T16:04:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "After the Rain",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-1",
+      "sub": {
+        "HD-1": {
+          "6114-malep-1_vibeplayer_sub": "https://vibeplayer.site/2b717ddf731034f7",
+          "6114-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2b717ddf731034f7/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-1_otakuhg_sub": "https://otakuhg.site/e/ci0qjgqhj9bk",
+          "6114-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-1_otakuvid_sub": "https://otakuvid.online/embed/flhzyqz725dr",
+          "6114-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Fugitive",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-2",
+      "sub": {
+        "HD-1": {
+          "6114-malep-2_vibeplayer_sub": "https://vibeplayer.site/129acf679457b551",
+          "6114-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/129acf679457b551/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-2_otakuhg_sub": "https://otakuhg.site/e/dgsiqv0dlaba",
+          "6114-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ob4wnh97n6bq",
+          "6114-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Distrust",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-3",
+      "sub": {
+        "HD-1": {
+          "6114-malep-3_vibeplayer_sub": "https://vibeplayer.site/21d9d708fb429b3d",
+          "6114-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/21d9d708fb429b3d/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-3_otakuhg_sub": "https://otakuhg.site/e/r1m36bfuflzq",
+          "6114-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-3_otakuvid_sub": "https://otakuvid.online/embed/zzpp6uad92yl",
+          "6114-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Dissolve",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-4",
+      "sub": {
+        "HD-1": {
+          "6114-malep-4_vibeplayer_sub": "https://vibeplayer.site/467b38e360775d92",
+          "6114-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/467b38e360775d92/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-4_otakuhg_sub": "https://otakuhg.site/e/fw9pjty3i6cv",
+          "6114-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-4_otakuvid_sub": "https://otakuvid.online/embed/kedqsabncsnq",
+          "6114-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-4_vibeplayer_hsub": "https://vibeplayer.site/02e8daf2a223f691",
+          "6114-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/02e8daf2a223f691/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-4_otakuhg_hsub": "https://otakuhg.site/e/dc9gz3wc0lxe",
+          "6114-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/9agja9t9moxg",
+          "6114-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-4_playmogo_hsub": "https://playmogo.com/e/gudsvp2niuf4",
+          "6114-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Someday...",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-5",
+      "sub": {
+        "HD-1": {
+          "6114-malep-5_vibeplayer_sub": "https://vibeplayer.site/aeb1ca1446a228dc",
+          "6114-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aeb1ca1446a228dc/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-5_otakuhg_sub": "https://otakuhg.site/e/aciqutohpjy9",
+          "6114-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-5_otakuvid_sub": "https://otakuvid.online/embed/bpuxme53mmuz",
+          "6114-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Truth",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-6",
+      "sub": {
+        "HD-1": {
+          "6114-malep-6_vibeplayer_sub": "https://vibeplayer.site/062f110948232e02",
+          "6114-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/062f110948232e02/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-6_otakuhg_sub": "https://otakuhg.site/e/yqjg8vi6herh",
+          "6114-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-6_otakuvid_sub": "https://otakuvid.online/embed/wucvlua48p1t",
+          "6114-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-6_vibeplayer_hsub": "https://vibeplayer.site/71a0265b4ebf9362",
+          "6114-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/71a0265b4ebf9362/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-6_otakuhg_hsub": "https://otakuhg.site/e/x05nbgxwb0qb",
+          "6114-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/f75nf4m4ru9m",
+          "6114-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-6_playmogo_hsub": "https://playmogo.com/e/0k2x2ijc8lc0",
+          "6114-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Determination",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-7",
+      "sub": {
+        "HD-1": {
+          "6114-malep-7_vibeplayer_sub": "https://vibeplayer.site/fa5a6533bbf98129",
+          "6114-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fa5a6533bbf98129/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-7_otakuhg_sub": "https://otakuhg.site/e/all4u5k2jq7i",
+          "6114-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-7_otakuvid_sub": "https://otakuvid.online/embed/kh0469n0z99q",
+          "6114-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Freedom",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-8",
+      "sub": {
+        "HD-1": {
+          "6114-malep-8_vibeplayer_sub": "https://vibeplayer.site/bbc14d92867dbd2b",
+          "6114-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bbc14d92867dbd2b/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-8_otakuhg_sub": "https://otakuhg.site/e/7birj2z6ay42",
+          "6114-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-8_otakuvid_sub": "https://otakuvid.online/embed/mo3p1xedb56y",
+          "6114-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-8_vibeplayer_hsub": "https://vibeplayer.site/2608ebb6bb18c0a8",
+          "6114-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2608ebb6bb18c0a8/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-8_otakuhg_hsub": "https://otakuhg.site/e/x104heiw1vjb",
+          "6114-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/h3ju6r5fx957",
+          "6114-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-8_playmogo_hsub": "https://playmogo.com/e/t9njuyp48tz8",
+          "6114-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Lament",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-9",
+      "sub": {
+        "HD-1": {
+          "6114-malep-9_vibeplayer_sub": "https://vibeplayer.site/8f70456c69ed7b98",
+          "6114-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8f70456c69ed7b98/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-9_otakuvid_sub": "https://otakuvid.online/embed/qmi9xuexnnec",
+          "6114-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Vengeance",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-10",
+      "sub": {
+        "HD-1": {
+          "6114-malep-10_vibeplayer_sub": "https://vibeplayer.site/f4eb1f8be882e273",
+          "6114-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f4eb1f8be882e273/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-10_otakuhg_sub": "https://otakuhg.site/e/5j3gdx55h658",
+          "6114-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-10_otakuvid_sub": "https://otakuvid.online/embed/s8vqi87tta7t",
+          "6114-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Showdown",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-11",
+      "sub": {
+        "HD-1": {
+          "6114-malep-11_vibeplayer_sub": "https://vibeplayer.site/650ec60056e2525c",
+          "6114-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/650ec60056e2525c/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-11_otakuhg_sub": "https://otakuhg.site/e/83xcv47xfxtm",
+          "6114-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-11_otakuvid_sub": "https://otakuvid.online/embed/e09p8loq3k6i",
+          "6114-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Promise",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-12",
+      "sub": {
+        "HD-1": {
+          "6114-malep-12_vibeplayer_sub": "https://vibeplayer.site/c22413e022d23374",
+          "6114-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c22413e022d23374/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-12_otakuhg_sub": "https://otakuhg.site/e/vkjgyfaaxsxh",
+          "6114-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-12_otakuvid_sub": "https://otakuvid.online/embed/sb1mglzl7ff4",
+          "6114-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-12_vibeplayer_hsub": "https://vibeplayer.site/eb2cb76ac4140f00",
+          "6114-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eb2cb76ac4140f00/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-12_otakuhg_hsub": "https://otakuhg.site/e/s9598e5qsprt",
+          "6114-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/n8wbqmy5zmtf",
+          "6114-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-12_playmogo_hsub": "https://playmogo.com/e/v5nxq1fc28ne",
+          "6114-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Recollect",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-13",
+      "sub": {
+        "HD-1": {
+          "6114-malep-13_vibeplayer_sub": "https://vibeplayer.site/76dbfa36405143da",
+          "6114-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76dbfa36405143da/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-13_otakuhg_sub": "https://otakuhg.site/e/8yw469c7s8lz",
+          "6114-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-13_otakuvid_sub": "https://otakuvid.online/embed/if5261v2n0gh",
+          "6114-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Revenge",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-14",
+      "sub": {
+        "HD-1": {
+          "6114-malep-14_vibeplayer_sub": "https://vibeplayer.site/3051a171e40aa3eb",
+          "6114-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3051a171e40aa3eb/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-14_otakuhg_sub": "https://otakuhg.site/e/mpqs335fcy5e",
+          "6114-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-14_otakuvid_sub": "https://otakuvid.online/embed/guekx82f8824",
+          "6114-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Annoyance",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-15",
+      "sub": {
+        "HD-1": {
+          "6114-malep-15_vibeplayer_sub": "https://vibeplayer.site/a03ac548d896597d",
+          "6114-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a03ac548d896597d/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-15_otakuvid_sub": "https://otakuvid.online/embed/ua4s5gwsgzkl",
+          "6114-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-15_vibeplayer_hsub": "https://vibeplayer.site/1dbc307bfd3ca39d",
+          "6114-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1dbc307bfd3ca39d/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-15_otakuhg_hsub": "https://otakuhg.site/e/ifg4nflp6juh",
+          "6114-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/ox0zgjt9bkvi",
+          "6114-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-15_playmogo_hsub": "https://playmogo.com/e/iklbe37qa0fq",
+          "6114-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Hidden",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-16",
+      "sub": {
+        "HD-1": {
+          "6114-malep-16_vibeplayer_sub": "https://vibeplayer.site/5efcaed0259c14d0",
+          "6114-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5efcaed0259c14d0/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-16_otakuhg_sub": "https://otakuhg.site/e/aniisq0antdc",
+          "6114-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-16_otakuvid_sub": "https://otakuvid.online/embed/0dq929v7jfy3",
+          "6114-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Parting",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-17",
+      "sub": {
+        "HD-1": {
+          "6114-malep-17_vibeplayer_sub": "https://vibeplayer.site/7733a09aeff39bc8",
+          "6114-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7733a09aeff39bc8/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-17_otakuhg_sub": "https://otakuhg.site/e/gwmiqdlq8eei",
+          "6114-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-17_otakuvid_sub": "https://otakuvid.online/embed/00xkln5xe3z9",
+          "6114-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Unbreakable",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-18",
+      "sub": {
+        "HD-1": {
+          "6114-malep-18_vibeplayer_sub": "https://vibeplayer.site/02dd00eddf8cd6cd",
+          "6114-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/02dd00eddf8cd6cd/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-18_otakuvid_sub": "https://otakuvid.online/embed/532gekjqu3or",
+          "6114-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-18_vibeplayer_hsub": "https://vibeplayer.site/97c24dc27a9f70ba",
+          "6114-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/97c24dc27a9f70ba/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-18_otakuhg_hsub": "https://otakuhg.site/e/bw8ak5p0anmg",
+          "6114-malep-18_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/x9pghkn5k885",
+          "6114-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-18_playmogo_hsub": "https://playmogo.com/e/2un3faydbr5u",
+          "6114-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reunion",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-19",
+      "sub": {
+        "HD-1": {
+          "6114-malep-19_vibeplayer_sub": "https://vibeplayer.site/b9fc522fa382b680",
+          "6114-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9fc522fa382b680/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-19_otakuhg_sub": "https://otakuhg.site/e/pflag6v9lu0l",
+          "6114-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-19_otakuvid_sub": "https://otakuvid.online/embed/8cr6ezq1mcx3",
+          "6114-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Vocation",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-20",
+      "sub": {
+        "HD-1": {
+          "6114-malep-20_vibeplayer_sub": "https://vibeplayer.site/26131a609e8b1e30",
+          "6114-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/26131a609e8b1e30/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-20_otakuhg_sub": "https://otakuhg.site/e/sh5r8orfyy1e",
+          "6114-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-20_otakuvid_sub": "https://otakuvid.online/embed/9aejp355kdce",
+          "6114-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Blinded",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-21",
+      "sub": {
+        "HD-1": {
+          "6114-malep-21_vibeplayer_sub": "https://vibeplayer.site/8b13f007f31e828a",
+          "6114-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b13f007f31e828a/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-21_otakuhg_sub": "https://otakuhg.site/e/bzbxpa4og4lu",
+          "6114-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-21_otakuvid_sub": "https://otakuvid.online/embed/4url7a27zm15",
+          "6114-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Emergence",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-22",
+      "sub": {
+        "HD-1": {
+          "6114-malep-22_vibeplayer_sub": "https://vibeplayer.site/b3eec464125024ff",
+          "6114-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3eec464125024ff/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-22_otakuhg_sub": "https://otakuhg.site/e/ak497vl5pmks",
+          "6114-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-22_otakuvid_sub": "https://otakuvid.online/embed/evck058zy3cb",
+          "6114-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Chance",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-23",
+      "sub": {
+        "HD-1": {
+          "6114-malep-23_vibeplayer_sub": "https://vibeplayer.site/c1ce601fe369d44e",
+          "6114-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1ce601fe369d44e/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-23_otakuvid_sub": "https://otakuvid.online/embed/s4jlwr6fe7cf",
+          "6114-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6114-malep-23_vibeplayer_hsub": "https://vibeplayer.site/2d1b0a8499203ebd",
+          "6114-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2d1b0a8499203ebd/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-23_otakuhg_hsub": "https://otakuhg.site/e/qpswbdi4ag21",
+          "6114-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/mmz4l5ccwm02",
+          "6114-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6114-malep-23_playmogo_hsub": "https://playmogo.com/e/f1icybfqivbc",
+          "6114-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Desperate",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-24",
+      "sub": {
+        "HD-1": {
+          "6114-malep-24_vibeplayer_sub": "https://vibeplayer.site/3c9b932dad235dad",
+          "6114-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c9b932dad235dad/master.m3u8"
+        },
+        "Earnvids": {
+          "6114-malep-24_otakuvid_sub": "https://otakuvid.online/embed/ceu8lq3x26cr",
+          "6114-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Independence",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-25",
+      "sub": {
+        "HD-1": {
+          "6114-malep-25_vibeplayer_sub": "https://vibeplayer.site/752fb529793342b3",
+          "6114-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/752fb529793342b3/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-25_otakuhg_sub": "https://otakuhg.site/e/lhsmcb34tpbj",
+          "6114-malep-25_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-25_otakuvid_sub": "https://otakuvid.online/embed/u00eu4lxf23j",
+          "6114-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Over the Rainbow",
+      "episode_url": "https://hianime.ad/watch/rainbow/ep-26",
+      "sub": {
+        "HD-1": {
+          "6114-malep-26_vibeplayer_sub": "https://vibeplayer.site/f6da319d14409d17",
+          "6114-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6da319d14409d17/master.m3u8"
+        },
+        "StreamHG": {
+          "6114-malep-26_otakuhg_sub": "https://otakuhg.site/e/60xdatvf1h3s",
+          "6114-malep-26_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6114-malep-26_otakuvid_sub": "https://otakuvid.online/embed/or3ulmvkgn0a",
+          "6114-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}
