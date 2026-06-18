@@ -10938,5 +10938,15 @@
     "captured_at": "2026-06-18T14:29:11",
     "file": "data-6/poyopoyo.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/poyopoyo.json"
+  },
+  {
+    "slug": "prayers",
+    "mal_id": 112,
+    "anime_name": "Prayers",
+    "anime_url": "https://hianime.ad/anime/prayers",
+    "total_episodes": 2,
+    "captured_at": "2026-06-18T14:30:05",
+    "file": "data-6/prayers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/prayers.json"
   }
 ]
