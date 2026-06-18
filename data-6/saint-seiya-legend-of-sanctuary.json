@@ -1,0 +1,48 @@
+{
+  "anime_name": "Saint Seiya Legend Of Sanctuary",
+  "anime_url": "https://hianime.ad/anime/saint-seiya-legend-of-sanctuary",
+  "slug": "saint-seiya-legend-of-sanctuary",
+  "mal_id": 1254,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:19:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Revive! Legendary Hero!",
+      "episode_url": "https://hianime.ad/watch/saint-seiya-legend-of-sanctuary/ep-1",
+      "sub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_sub": "https://vibeplayer.site/2247860a4892be84",
+          "1254-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2247860a4892be84/master.m3u8"
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mu6w0gzsf8kr",
+          "1254-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1254-malep-1_playmogo_sub": "https://playmogo.com/e/shl505d85xco",
+          "1254-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1254-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6088c0027122b90c",
+          "1254-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6088c0027122b90c/master.m3u8"
+        },
+        "StreamHG": {
+          "1254-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qjt3gj1ht5bl",
+          "1254-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1254-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nv1poquvg2ae",
+          "1254-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1254-malep-1_playmogo_hsub": "https://playmogo.com/e/db6mub1mtozx",
+          "1254-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
