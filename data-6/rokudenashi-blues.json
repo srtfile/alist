@@ -1,0 +1,44 @@
+{
+  "anime_name": "Rokudenashi Blues",
+  "anime_url": "https://hianime.ad/anime/rokudenashi-blues",
+  "slug": "rokudenashi-blues",
+  "mal_id": 6674,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:19:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/rokudenashi-blues/ep-1",
+      "sub": {
+        "HD-1": {
+          "6674-malep-1_vibeplayer_sub": "https://vibeplayer.site/14dcec3b2691f690",
+          "6674-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/14dcec3b2691f690/master.m3u8"
+        },
+        "Earnvids": {
+          "6674-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cc7cxbilr8m1",
+          "6674-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6674-malep-1_playmogo_sub": "https://playmogo.com/e/7swhbu0mw1ej",
+          "6674-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6674-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3e0919ba63e1971c",
+          "6674-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3e0919ba63e1971c/master.m3u8"
+        },
+        "Earnvids": {
+          "6674-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/exoj5yofi66t",
+          "6674-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6674-malep-1_playmogo_hsub": "https://playmogo.com/e/0ioknqomu0lk",
+          "6674-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
