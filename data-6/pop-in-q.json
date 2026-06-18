@@ -1,0 +1,44 @@
+{
+  "anime_name": "Pop In Q",
+  "anime_url": "https://hianime.ad/anime/pop-in-q",
+  "slug": "pop-in-q",
+  "mal_id": 7750,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:23:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pop-in-q/ep-1",
+      "sub": {
+        "HD-1": {
+          "7750-malep-1_vibeplayer_sub": "https://vibeplayer.site/f0277fe56be6c639",
+          "7750-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0277fe56be6c639/master.m3u8"
+        },
+        "Earnvids": {
+          "7750-malep-1_otakuvid_sub": "https://otakuvid.online/embed/m19m1lyz06pm",
+          "7750-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "7750-malep-1_playmogo_sub": "https://playmogo.com/e/bn4uywarvrrm",
+          "7750-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7750-malep-1_vibeplayer_hsub": "https://vibeplayer.site/670030b60f5538bb",
+          "7750-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/670030b60f5538bb/master.m3u8"
+        },
+        "Earnvids": {
+          "7750-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3vgaqwopqolw",
+          "7750-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7750-malep-1_playmogo_hsub": "https://playmogo.com/e/uaia6fjzqte4",
+          "7750-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
