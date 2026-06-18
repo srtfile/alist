@@ -8768,5 +8768,15 @@
     "captured_at": "2026-06-18T12:45:18",
     "file": "data-6/paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku.json"
+  },
+  {
+    "slug": "pankunchi",
+    "mal_id": null,
+    "anime_name": "Pankunchi",
+    "anime_url": "https://hianime.ad/anime/pankunchi",
+    "total_episodes": 10,
+    "captured_at": "2026-06-18T12:45:30",
+    "file": "data-6/pankunchi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/pankunchi.json"
   }
 ]
