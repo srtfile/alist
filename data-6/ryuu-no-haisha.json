@@ -1,0 +1,95 @@
+{
+  "anime_name": "Ryuu No Haisha",
+  "anime_url": "https://hianime.ad/anime/ryuu-no-haisha",
+  "slug": "ryuu-no-haisha",
+  "mal_id": 25731,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T18:46:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Fallen Princess",
+      "episode_url": "https://hianime.ad/watch/ryuu-no-haisha/ep-1",
+      "sub": {
+        "HD-1": {
+          "25731-malep-1_vibeplayer_sub": "https://vibeplayer.site/0b2e43356c1ce82d",
+          "25731-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b2e43356c1ce82d/master.m3u8"
+        },
+        "Earnvids": {
+          "25731-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jxl3f1mv2j2c",
+          "25731-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "25731-malep-1_vibeplayer_dub": "https://vibeplayer.site/0c968f6d5c737bc6",
+          "25731-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0c968f6d5c737bc6/master.m3u8"
+        },
+        "Earnvids": {
+          "25731-malep-1_otakuvid_dub": "https://otakuvid.online/embed/f7go1z2odie0",
+          "25731-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "25731-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7c30c40d7f41b02e",
+          "25731-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7c30c40d7f41b02e/master.m3u8"
+        },
+        "StreamHG": {
+          "25731-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3nybzdjw28vx",
+          "25731-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25731-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yps44kwgz7cx",
+          "25731-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25731-malep-1_playmogo_hsub": "https://playmogo.com/e/zr1n0y179a2s",
+          "25731-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Unyielding Spirit",
+      "episode_url": "https://hianime.ad/watch/ryuu-no-haisha/ep-2",
+      "sub": {
+        "HD-1": {
+          "25731-malep-2_vibeplayer_sub": "https://vibeplayer.site/77e287a349493f1f",
+          "25731-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/77e287a349493f1f/master.m3u8"
+        },
+        "Earnvids": {
+          "25731-malep-2_otakuvid_sub": "https://otakuvid.online/embed/sldz469bpn3a",
+          "25731-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "25731-malep-2_vibeplayer_dub": "https://vibeplayer.site/de43195dd19e7635",
+          "25731-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/de43195dd19e7635/master.m3u8"
+        },
+        "Earnvids": {
+          "25731-malep-2_otakuvid_dub": "https://otakuvid.online/embed/3h0yfy5eileg",
+          "25731-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "25731-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d4c1237f014a39cc",
+          "25731-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d4c1237f014a39cc/master.m3u8"
+        },
+        "StreamHG": {
+          "25731-malep-2_otakuhg_hsub": "https://otakuhg.site/e/yglgksjmuxbe",
+          "25731-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25731-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/mcy0nmpnsppl",
+          "25731-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25731-malep-2_playmogo_hsub": "https://playmogo.com/e/g38b2uw69jiz",
+          "25731-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
