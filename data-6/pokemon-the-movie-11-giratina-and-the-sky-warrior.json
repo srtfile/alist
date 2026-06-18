@@ -1,0 +1,65 @@
+{
+  "anime_name": "Pokemon The Movie 11 Giratina And The Sky Warrior",
+  "anime_url": "https://hianime.ad/anime/pokemon-the-movie-11-giratina-and-the-sky-warrior",
+  "slug": "pokemon-the-movie-11-giratina-and-the-sky-warrior",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:06:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pokemon-the-movie-11-giratina-and-the-sky-warrior/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/a712a8e00f8a02de",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a712a8e00f8a02de/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/skalswxhgpft",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/hc4swijfd5h4",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/8f34f55b9ef915ad",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f34f55b9ef915ad/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/3lgmgplepk66",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/965yl4f14y2b",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/7ibyfgjyzcdc",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/36582d6368c38843",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/36582d6368c38843/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/5qtfpp5vatp6",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e7ollezwz4ps",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/qoowqjovtxa5",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
