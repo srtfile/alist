@@ -15828,5 +15828,15 @@
     "captured_at": "2026-06-18T19:37:21",
     "file": "data-6/sakura-diaries.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-diaries.json"
+  },
+  {
+    "slug": "sakura-quest",
+    "mal_id": 34494,
+    "anime_name": "Sakura Quest",
+    "anime_url": "https://hianime.ad/anime/sakura-quest",
+    "total_episodes": 25,
+    "captured_at": "2026-06-18T19:37:51",
+    "file": "data-6/sakura-quest.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sakura-quest.json"
   }
 ]
