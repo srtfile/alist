@@ -1,0 +1,65 @@
+{
+  "anime_name": "Puella Magi Madoka Magica The Movie 2 Eternal",
+  "anime_url": "https://hianime.ad/anime/puella-magi-madoka-magica-the-movie-2-eternal",
+  "slug": "puella-magi-madoka-magica-the-movie-2-eternal",
+  "mal_id": 41530,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:12:20",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Had a Feeling We Could All Become Magical Girls Together",
+      "episode_url": "https://hianime.ad/watch/puella-magi-madoka-magica-the-movie-2-eternal/ep-1",
+      "sub": {
+        "HD-1": {
+          "41530-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce96ec2727b19442",
+          "41530-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce96ec2727b19442/master.m3u8"
+        },
+        "StreamHG": {
+          "41530-malep-1_otakuhg_sub": "https://otakuhg.site/e/h7vf7gdr3nla",
+          "41530-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "41530-malep-1_otakuvid_sub": "https://otakuvid.online/embed/aqi8c2cxd5fo",
+          "41530-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "41530-malep-1_vibeplayer_dub": "https://vibeplayer.site/b6bf4dbcfa5eae20",
+          "41530-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b6bf4dbcfa5eae20/master.m3u8"
+        },
+        "StreamHG": {
+          "41530-malep-1_otakuhg_dub": "https://otakuhg.site/e/dpbobfakk3je",
+          "41530-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "41530-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xz06x1lwdobe",
+          "41530-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "41530-malep-1_playmogo_dub": "https://playmogo.com/e/597j47ettogi",
+          "41530-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "41530-malep-1_vibeplayer_hsub": "https://vibeplayer.site/400b84d888096889",
+          "41530-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/400b84d888096889/master.m3u8"
+        },
+        "StreamHG": {
+          "41530-malep-1_otakuhg_hsub": "https://otakuhg.site/e/p5o585zcfejb",
+          "41530-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41530-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/85z8x8c07ila",
+          "41530-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41530-malep-1_playmogo_hsub": "https://playmogo.com/e/kvhb1zzpzc69",
+          "41530-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
