@@ -13308,5 +13308,15 @@
     "captured_at": "2026-06-18T17:19:03",
     "file": "data-6/red-baron.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/red-baron.json"
+  },
+  {
+    "slug": "red-cat-ramen",
+    "mal_id": 57325,
+    "anime_name": "Red Cat Ramen",
+    "anime_url": "https://hianime.ad/anime/red-cat-ramen",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T17:20:07",
+    "file": "data-6/red-cat-ramen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/red-cat-ramen.json"
   }
 ]
