@@ -1,0 +1,98 @@
+{
+  "anime_name": "Ozanari Dungeon Kaze No Tou",
+  "anime_url": "https://hianime.ad/anime/ozanari-dungeon-kaze-no-tou",
+  "slug": "ozanari-dungeon-kaze-no-tou",
+  "mal_id": 63181,
+  "total_episodes": 3,
+  "captured_at": "2026-06-18T12:40:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/ozanari-dungeon-kaze-no-tou/ep-1",
+      "sub": {
+        "HD-1": {
+          "63181-malep-1_vibeplayer_sub": "https://vibeplayer.site/3ffe3bc8a7fa7ab7",
+          "63181-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ffe3bc8a7fa7ab7/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-1_otakuvid_sub": "https://otakuvid.online/embed/s6x3p3ic0uf6",
+          "63181-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63181-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b25c2fbd9a60256b",
+          "63181-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b25c2fbd9a60256b/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oc8fwbx4dhed",
+          "63181-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63181-malep-1_playmogo_hsub": "https://playmogo.com/e/qxt358d0b07x",
+          "63181-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/ozanari-dungeon-kaze-no-tou/ep-2",
+      "sub": {
+        "HD-1": {
+          "63181-malep-2_vibeplayer_sub": "https://vibeplayer.site/b1d6d73349b1453c",
+          "63181-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b1d6d73349b1453c/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-2_otakuvid_sub": "https://otakuvid.online/embed/8fzm68vhp9xb",
+          "63181-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63181-malep-2_vibeplayer_hsub": "https://vibeplayer.site/37c87c481d651476",
+          "63181-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37c87c481d651476/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/9hprlmwg8ep2",
+          "63181-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63181-malep-2_playmogo_hsub": "https://playmogo.com/e/djwtccrtqfep",
+          "63181-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/ozanari-dungeon-kaze-no-tou/ep-3",
+      "sub": {
+        "HD-1": {
+          "63181-malep-3_vibeplayer_sub": "https://vibeplayer.site/0c65049a65d19018",
+          "63181-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c65049a65d19018/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-3_otakuvid_sub": "https://otakuvid.online/embed/j2v7ywwktdow",
+          "63181-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "63181-malep-3_vibeplayer_hsub": "https://vibeplayer.site/ec104f99184a870e",
+          "63181-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec104f99184a870e/master.m3u8"
+        },
+        "Earnvids": {
+          "63181-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/qo4v6bwj7cdn",
+          "63181-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "63181-malep-3_playmogo_hsub": "https://playmogo.com/e/xl7gfi32sdtn",
+          "63181-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
