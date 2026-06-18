@@ -1,0 +1,40 @@
+{
+  "anime_name": "Paniponi Dash Danjite Okonaeba Kishin Mo Kore Wo Saku",
+  "anime_url": "https://hianime.ad/anime/paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku",
+  "slug": "paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku",
+  "mal_id": 490,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:45:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Summerwear in the Coldest Season, Winterwear in the Hottest Season",
+      "episode_url": "https://hianime.ad/watch/paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku/ep-1",
+      "sub": {
+        "HD-1": {
+          "490-malep-1_vibeplayer_sub": "https://vibeplayer.site/c43a53d9938661b3",
+          "490-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c43a53d9938661b3/master.m3u8"
+        },
+        "Earnvids": {
+          "490-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t7138759rorv",
+          "490-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "490-malep-1_vibeplayer_hsub": "https://vibeplayer.site/063d9ec45f2a1a4e",
+          "490-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/063d9ec45f2a1a4e/master.m3u8"
+        },
+        "Earnvids": {
+          "490-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d9zhp4sk1pm6",
+          "490-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "490-malep-1_playmogo_hsub": "https://playmogo.com/e/51ri81tesobj",
+          "490-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
