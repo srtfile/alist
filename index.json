@@ -17508,5 +17508,15 @@
     "captured_at": "2026-06-18T21:05:05",
     "file": "data-6/sentenced-to-be-a-hero.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sentenced-to-be-a-hero.json"
+  },
+  {
+    "slug": "sentimental-journey",
+    "mal_id": 677,
+    "anime_name": "Sentimental Journey",
+    "anime_url": "https://hianime.ad/anime/sentimental-journey",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T21:05:37",
+    "file": "data-6/sentimental-journey.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/sentimental-journey.json"
   }
 ]
