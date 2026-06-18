@@ -1,0 +1,48 @@
+{
+  "anime_name": "Playing Sister",
+  "anime_url": "https://hianime.ad/anime/playing-sister",
+  "slug": "playing-sister",
+  "mal_id": 59711,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:44:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "All You Need Is ----",
+      "episode_url": "https://hianime.ad/watch/playing-sister/ep-1",
+      "sub": {
+        "HD-1": {
+          "59711-malep-1_vibeplayer_sub": "https://vibeplayer.site/164fa183d166b34d",
+          "59711-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/164fa183d166b34d/master.m3u8"
+        },
+        "Earnvids": {
+          "59711-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1p1rukwtdabf",
+          "59711-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59711-malep-1_playmogo_sub": "https://playmogo.com/e/zsfzye3t5cf1",
+          "59711-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59711-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2076e6fd2b69a3ff",
+          "59711-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2076e6fd2b69a3ff/master.m3u8"
+        },
+        "StreamHG": {
+          "59711-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i02abuljgmo4",
+          "59711-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59711-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9xs5qhlkud49",
+          "59711-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59711-malep-1_playmogo_hsub": "https://playmogo.com/e/gwrurlv38l36",
+          "59711-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
