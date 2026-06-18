@@ -1,0 +1,91 @@
+{
+  "anime_name": "Rg Veda",
+  "anime_url": "https://hianime.ad/anime/rg-veda",
+  "slug": "rg-veda",
+  "mal_id": 1601,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T17:49:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Farewell, Girls",
+      "episode_url": "https://hianime.ad/watch/rg-veda/ep-1",
+      "sub": {
+        "HD-1": {
+          "1601-malep-1_vibeplayer_sub": "https://vibeplayer.site/1f2366e47affb4f9",
+          "1601-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1f2366e47affb4f9/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wpn1wle8bjz9",
+          "1601-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1601-malep-1_vibeplayer_dub": "https://vibeplayer.site/ba920fa7ecaff7be",
+          "1601-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba920fa7ecaff7be/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-1_otakuvid_dub": "https://otakuvid.online/embed/alf8ksrflygk",
+          "1601-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1601-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e7f2b1b94456bbae",
+          "1601-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e7f2b1b94456bbae/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vkge8iqu26cz",
+          "1601-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1601-malep-1_playmogo_hsub": "https://playmogo.com/e/b9a17ahu7t1a",
+          "1601-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Harsh Night",
+      "episode_url": "https://hianime.ad/watch/rg-veda/ep-2",
+      "sub": {
+        "HD-1": {
+          "1601-malep-2_vibeplayer_sub": "https://vibeplayer.site/c16cc9d5ddb099a6",
+          "1601-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c16cc9d5ddb099a6/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-2_otakuvid_sub": "https://otakuvid.online/embed/enbdteltk90w",
+          "1601-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1601-malep-2_playmogo_sub": "https://playmogo.com/e/7qbvok69hhvr",
+          "1601-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1601-malep-2_vibeplayer_dub": "https://vibeplayer.site/7a39eaf468ea8ce8",
+          "1601-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7a39eaf468ea8ce8/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-2_otakuvid_dub": "https://otakuvid.online/embed/bzehnsh5wrlw",
+          "1601-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1601-malep-2_vibeplayer_hsub": "https://vibeplayer.site/f5b01bdb631f327b",
+          "1601-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f5b01bdb631f327b/master.m3u8"
+        },
+        "Earnvids": {
+          "1601-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ae780akno3hi",
+          "1601-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1601-malep-2_playmogo_hsub": "https://playmogo.com/e/ecu7bwhmh3o0",
+          "1601-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
