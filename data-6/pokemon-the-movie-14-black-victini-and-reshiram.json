@@ -1,0 +1,61 @@
+{
+  "anime_name": "Pokemon The Movie 14 Black Victini And Reshiram",
+  "anime_url": "https://hianime.ad/anime/pokemon-the-movie-14-black-victini-and-reshiram",
+  "slug": "pokemon-the-movie-14-black-victini-and-reshiram",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:07:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pokemon-the-movie-14-black-victini-and-reshiram/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/3705a2cc205555ae",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3705a2cc205555ae/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/efl6y95xo4cc",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/vs3pnvasv5b1",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/bf09b9b1153bdae3",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf09b9b1153bdae3/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/f4zh3u0rzmxa",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/4x09j2ypcs02",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c8f33a8102a68b19",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c8f33a8102a68b19/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/nzeudetk7a92",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xz8b8bkp3ain",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/f4pwjvglbfnk",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
