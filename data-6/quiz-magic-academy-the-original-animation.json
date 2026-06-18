@@ -1,0 +1,40 @@
+{
+  "anime_name": "Quiz Magic Academy The Original Animation",
+  "anime_url": "https://hianime.ad/anime/quiz-magic-academy-the-original-animation",
+  "slug": "quiz-magic-academy-the-original-animation",
+  "mal_id": 37263,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T15:32:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/quiz-magic-academy-the-original-animation/ep-1",
+      "sub": {
+        "HD-1": {
+          "37263-malep-1_vibeplayer_sub": "https://vibeplayer.site/6107b5caff89baeb",
+          "37263-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6107b5caff89baeb/master.m3u8"
+        },
+        "Earnvids": {
+          "37263-malep-1_otakuvid_sub": "https://otakuvid.online/embed/15qv3w7jjghl",
+          "37263-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37263-malep-1_vibeplayer_hsub": "https://vibeplayer.site/60f404f9db188c4b",
+          "37263-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/60f404f9db188c4b/master.m3u8"
+        },
+        "Earnvids": {
+          "37263-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4iedlle9cnfy",
+          "37263-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37263-malep-1_playmogo_hsub": "https://playmogo.com/e/6ptemarwyc9t",
+          "37263-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
