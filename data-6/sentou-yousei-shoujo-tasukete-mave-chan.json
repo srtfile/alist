@@ -1,0 +1,57 @@
+{
+  "anime_name": "Sentou Yousei Shoujo Tasukete Mave Chan",
+  "anime_url": "https://hianime.ad/anime/sentou-yousei-shoujo-tasukete-mave-chan",
+  "slug": "sentou-yousei-shoujo-tasukete-mave-chan",
+  "mal_id": 60140,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T21:06:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Guy In Charge of Chores With Low Self-Esteem Turned Out to Actually Possess Incredible Skills",
+      "episode_url": "https://hianime.ad/watch/sentou-yousei-shoujo-tasukete-mave-chan/ep-1",
+      "sub": {
+        "HD-1": {
+          "60140-malep-1_vibeplayer_sub": "https://vibeplayer.site/2155c6423ce642d2",
+          "60140-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2155c6423ce642d2/master.m3u8"
+        },
+        "StreamHG": {
+          "60140-malep-1_otakuhg_sub": "https://otakuhg.site/e/le8v2qmh4knj",
+          "60140-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60140-malep-1_otakuvid_sub": "https://otakuvid.online/embed/plygvhddnkas",
+          "60140-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "60140-malep-1_vibeplayer_dub": "https://vibeplayer.site/7ae03aa40f6abc1c",
+          "60140-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ae03aa40f6abc1c/master.m3u8"
+        },
+        "Earnvids": {
+          "60140-malep-1_otakuvid_dub": "https://otakuvid.online/embed/scuoha6hndxw",
+          "60140-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "60140-malep-1_vibeplayer_hsub": "https://vibeplayer.site/970be5174fae0ec9",
+          "60140-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/970be5174fae0ec9/master.m3u8"
+        },
+        "StreamHG": {
+          "60140-malep-1_otakuhg_hsub": "https://otakuhg.site/e/efo2epzp6rl5",
+          "60140-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60140-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oek5tondh3e7",
+          "60140-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60140-malep-1_playmogo_hsub": "https://playmogo.com/e/yicj30fuvwea",
+          "60140-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
