@@ -2,9 +2,9 @@
   "anime_name": "Now And Then Here And There",
   "anime_url": "https://hianime.ad/anime/now-and-then-here-and-there",
   "slug": "now-and-then-here-and-there",
-  "mal_id": null,
+  "mal_id": 160,
   "total_episodes": 13,
-  "captured_at": "2026-06-17T20:50:41",
+  "captured_at": "2026-06-18T11:07:56",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -12,30 +12,30 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-1",
       "sub": {
         "HD-1": {
-          "malep-1_vibeplayer_sub": "https://vibeplayer.site/ab11579fd372de3d",
-          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab11579fd372de3d/master.m3u8"
+          "160-malep-1_vibeplayer_sub": "https://vibeplayer.site/ab11579fd372de3d",
+          "160-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab11579fd372de3d/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_sub": "https://otakuhg.site/e/vv3t7jybxz12",
-          "malep-1_otakuhg_sub_m3u8": null
+          "160-malep-1_otakuhg_sub": "https://otakuhg.site/e/vv3t7jybxz12",
+          "160-malep-1_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/vi1j5n7cyqkj",
-          "malep-1_otakuvid_sub_m3u8": null
+          "160-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vi1j5n7cyqkj",
+          "160-malep-1_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-1_vibeplayer_dub": "https://vibeplayer.site/13f95033d8b977e3",
-          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/13f95033d8b977e3/master.m3u8"
+          "160-malep-1_vibeplayer_dub": "https://vibeplayer.site/13f95033d8b977e3",
+          "160-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/13f95033d8b977e3/master.m3u8"
         },
         "StreamHG": {
-          "malep-1_otakuhg_dub": "https://otakuhg.site/e/0l2ilojgj78v",
-          "malep-1_otakuhg_dub_m3u8": null
+          "160-malep-1_otakuhg_dub": "https://otakuhg.site/e/0l2ilojgj78v",
+          "160-malep-1_otakuhg_dub_m3u8": null
         },
         "Earnvids": {
-          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/qjd8q95mes82",
-          "malep-1_otakuvid_dub_m3u8": null
+          "160-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qjd8q95mes82",
+          "160-malep-1_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -45,22 +45,22 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-2",
       "sub": {
         "HD-1": {
-          "malep-2_vibeplayer_sub": "https://vibeplayer.site/5abb87c77c0567db",
-          "malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5abb87c77c0567db/master.m3u8"
+          "160-malep-2_vibeplayer_sub": "https://vibeplayer.site/5abb87c77c0567db",
+          "160-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5abb87c77c0567db/master.m3u8"
         },
         "Earnvids": {
-          "malep-2_otakuvid_sub": "https://otakuvid.online/embed/cll7zrto8kyy",
-          "malep-2_otakuvid_sub_m3u8": null
+          "160-malep-2_otakuvid_sub": "https://otakuvid.online/embed/cll7zrto8kyy",
+          "160-malep-2_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-2_vibeplayer_dub": "https://vibeplayer.site/da09832b27f6318b",
-          "malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/da09832b27f6318b/master.m3u8"
+          "160-malep-2_vibeplayer_dub": "https://vibeplayer.site/da09832b27f6318b",
+          "160-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/da09832b27f6318b/master.m3u8"
         },
         "Earnvids": {
-          "malep-2_otakuvid_dub": "https://otakuvid.online/embed/47paoff0x8gj",
-          "malep-2_otakuvid_dub_m3u8": null
+          "160-malep-2_otakuvid_dub": "https://otakuvid.online/embed/47paoff0x8gj",
+          "160-malep-2_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -70,22 +70,22 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-3",
       "sub": {
         "HD-1": {
-          "malep-3_vibeplayer_sub": "https://vibeplayer.site/6c6a7e0e957c984f",
-          "malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c6a7e0e957c984f/master.m3u8"
+          "160-malep-3_vibeplayer_sub": "https://vibeplayer.site/6c6a7e0e957c984f",
+          "160-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c6a7e0e957c984f/master.m3u8"
         },
         "Earnvids": {
-          "malep-3_otakuvid_sub": "https://otakuvid.online/embed/z1tj3b8zaq5l",
-          "malep-3_otakuvid_sub_m3u8": null
+          "160-malep-3_otakuvid_sub": "https://otakuvid.online/embed/z1tj3b8zaq5l",
+          "160-malep-3_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-3_vibeplayer_dub": "https://vibeplayer.site/6296f06e026b5dc0",
-          "malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6296f06e026b5dc0/master.m3u8"
+          "160-malep-3_vibeplayer_dub": "https://vibeplayer.site/6296f06e026b5dc0",
+          "160-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6296f06e026b5dc0/master.m3u8"
         },
         "Earnvids": {
-          "malep-3_otakuvid_dub": "https://otakuvid.online/embed/uratuou89lno",
-          "malep-3_otakuvid_dub_m3u8": null
+          "160-malep-3_otakuvid_dub": "https://otakuvid.online/embed/uratuou89lno",
+          "160-malep-3_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -95,22 +95,22 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-4",
       "sub": {
         "HD-1": {
-          "malep-4_vibeplayer_sub": "https://vibeplayer.site/cf12cc0b41564bf8",
-          "malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf12cc0b41564bf8/master.m3u8"
+          "160-malep-4_vibeplayer_sub": "https://vibeplayer.site/cf12cc0b41564bf8",
+          "160-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf12cc0b41564bf8/master.m3u8"
         },
         "Earnvids": {
-          "malep-4_otakuvid_sub": "https://otakuvid.online/embed/oxv8cq5wr699",
-          "malep-4_otakuvid_sub_m3u8": null
+          "160-malep-4_otakuvid_sub": "https://otakuvid.online/embed/oxv8cq5wr699",
+          "160-malep-4_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-4_vibeplayer_dub": "https://vibeplayer.site/6d98f212cc76fd19",
-          "malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6d98f212cc76fd19/master.m3u8"
+          "160-malep-4_vibeplayer_dub": "https://vibeplayer.site/6d98f212cc76fd19",
+          "160-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6d98f212cc76fd19/master.m3u8"
         },
         "Earnvids": {
-          "malep-4_otakuvid_dub": "https://otakuvid.online/embed/fdpw500eigju",
-          "malep-4_otakuvid_dub_m3u8": null
+          "160-malep-4_otakuvid_dub": "https://otakuvid.online/embed/fdpw500eigju",
+          "160-malep-4_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -120,22 +120,22 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-5",
       "sub": {
         "HD-1": {
-          "malep-5_vibeplayer_sub": "https://vibeplayer.site/1532ab3c5e24ab46",
-          "malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1532ab3c5e24ab46/master.m3u8"
+          "160-malep-5_vibeplayer_sub": "https://vibeplayer.site/1532ab3c5e24ab46",
+          "160-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1532ab3c5e24ab46/master.m3u8"
         },
         "Earnvids": {
-          "malep-5_otakuvid_sub": "https://otakuvid.online/embed/6ibn3xa3biwk",
-          "malep-5_otakuvid_sub_m3u8": null
+          "160-malep-5_otakuvid_sub": "https://otakuvid.online/embed/6ibn3xa3biwk",
+          "160-malep-5_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-5_vibeplayer_dub": "https://vibeplayer.site/40d108c992c2e7fc",
-          "malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/40d108c992c2e7fc/master.m3u8"
+          "160-malep-5_vibeplayer_dub": "https://vibeplayer.site/40d108c992c2e7fc",
+          "160-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/40d108c992c2e7fc/master.m3u8"
         },
         "Earnvids": {
-          "malep-5_otakuvid_dub": "https://otakuvid.online/embed/t3jf9wly4kxn",
-          "malep-5_otakuvid_dub_m3u8": null
+          "160-malep-5_otakuvid_dub": "https://otakuvid.online/embed/t3jf9wly4kxn",
+          "160-malep-5_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -145,22 +145,22 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-6",
       "sub": {
         "HD-1": {
-          "malep-6_vibeplayer_sub": "https://vibeplayer.site/06dc471d0d8b1c4c",
-          "malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/06dc471d0d8b1c4c/master.m3u8"
+          "160-malep-6_vibeplayer_sub": "https://vibeplayer.site/06dc471d0d8b1c4c",
+          "160-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/06dc471d0d8b1c4c/master.m3u8"
         },
         "Earnvids": {
-          "malep-6_otakuvid_sub": "https://otakuvid.online/embed/aacme7knvh5c",
-          "malep-6_otakuvid_sub_m3u8": null
+          "160-malep-6_otakuvid_sub": "https://otakuvid.online/embed/aacme7knvh5c",
+          "160-malep-6_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-6_vibeplayer_dub": "https://vibeplayer.site/639be5c0c877f626",
-          "malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/639be5c0c877f626/master.m3u8"
+          "160-malep-6_vibeplayer_dub": "https://vibeplayer.site/639be5c0c877f626",
+          "160-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/639be5c0c877f626/master.m3u8"
         },
         "Earnvids": {
-          "malep-6_otakuvid_dub": "https://otakuvid.online/embed/9xuwe6ht0rnd",
-          "malep-6_otakuvid_dub_m3u8": null
+          "160-malep-6_otakuvid_dub": "https://otakuvid.online/embed/9xuwe6ht0rnd",
+          "160-malep-6_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -170,26 +170,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-7",
       "sub": {
         "HD-1": {
-          "malep-7_vibeplayer_sub": "https://vibeplayer.site/6e49c1c19ebbc6fe",
-          "malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6e49c1c19ebbc6fe/master.m3u8"
+          "160-malep-7_vibeplayer_sub": "https://vibeplayer.site/6e49c1c19ebbc6fe",
+          "160-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6e49c1c19ebbc6fe/master.m3u8"
         },
         "StreamHG": {
-          "malep-7_otakuhg_sub": "https://otakuhg.site/e/oqznak067n4e",
-          "malep-7_otakuhg_sub_m3u8": null
+          "160-malep-7_otakuhg_sub": "https://otakuhg.site/e/oqznak067n4e",
+          "160-malep-7_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-7_otakuvid_sub": "https://otakuvid.online/embed/emg1vupuqgkp",
-          "malep-7_otakuvid_sub_m3u8": null
+          "160-malep-7_otakuvid_sub": "https://otakuvid.online/embed/emg1vupuqgkp",
+          "160-malep-7_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-7_vibeplayer_dub": "https://vibeplayer.site/6a1ff6ec6712d337",
-          "malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6a1ff6ec6712d337/master.m3u8"
+          "160-malep-7_vibeplayer_dub": "https://vibeplayer.site/6a1ff6ec6712d337",
+          "160-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6a1ff6ec6712d337/master.m3u8"
         },
         "Earnvids": {
-          "malep-7_otakuvid_dub": "https://otakuvid.online/embed/zp9mu08kfn22",
-          "malep-7_otakuvid_dub_m3u8": null
+          "160-malep-7_otakuvid_dub": "https://otakuvid.online/embed/zp9mu08kfn22",
+          "160-malep-7_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -199,26 +199,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-8",
       "sub": {
         "HD-1": {
-          "malep-8_vibeplayer_sub": "https://vibeplayer.site/2e87c30a7c19f6cf",
-          "malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e87c30a7c19f6cf/master.m3u8"
+          "160-malep-8_vibeplayer_sub": "https://vibeplayer.site/2e87c30a7c19f6cf",
+          "160-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e87c30a7c19f6cf/master.m3u8"
         },
         "StreamHG": {
-          "malep-8_otakuhg_sub": "https://otakuhg.site/e/bfkf2mlqcsx2",
-          "malep-8_otakuhg_sub_m3u8": null
+          "160-malep-8_otakuhg_sub": "https://otakuhg.site/e/bfkf2mlqcsx2",
+          "160-malep-8_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-8_otakuvid_sub": "https://otakuvid.online/embed/bsrbypkcm5zu",
-          "malep-8_otakuvid_sub_m3u8": null
+          "160-malep-8_otakuvid_sub": "https://otakuvid.online/embed/bsrbypkcm5zu",
+          "160-malep-8_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-8_vibeplayer_dub": "https://vibeplayer.site/8a2de8eac872f8cd",
-          "malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a2de8eac872f8cd/master.m3u8"
+          "160-malep-8_vibeplayer_dub": "https://vibeplayer.site/8a2de8eac872f8cd",
+          "160-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8a2de8eac872f8cd/master.m3u8"
         },
         "Earnvids": {
-          "malep-8_otakuvid_dub": "https://otakuvid.online/embed/mfppem54tt6i",
-          "malep-8_otakuvid_dub_m3u8": null
+          "160-malep-8_otakuvid_dub": "https://otakuvid.online/embed/mfppem54tt6i",
+          "160-malep-8_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -228,26 +228,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-9",
       "sub": {
         "HD-1": {
-          "malep-9_vibeplayer_sub": "https://vibeplayer.site/7a99a58f814cebab",
-          "malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7a99a58f814cebab/master.m3u8"
+          "160-malep-9_vibeplayer_sub": "https://vibeplayer.site/7a99a58f814cebab",
+          "160-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7a99a58f814cebab/master.m3u8"
         },
         "StreamHG": {
-          "malep-9_otakuhg_sub": "https://otakuhg.site/e/j0yg62n7ehjl",
-          "malep-9_otakuhg_sub_m3u8": null
+          "160-malep-9_otakuhg_sub": "https://otakuhg.site/e/j0yg62n7ehjl",
+          "160-malep-9_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-9_otakuvid_sub": "https://otakuvid.online/embed/6hpalr1xfmvo",
-          "malep-9_otakuvid_sub_m3u8": null
+          "160-malep-9_otakuvid_sub": "https://otakuvid.online/embed/6hpalr1xfmvo",
+          "160-malep-9_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-9_vibeplayer_dub": "https://vibeplayer.site/6ac97036981966b7",
-          "malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6ac97036981966b7/master.m3u8"
+          "160-malep-9_vibeplayer_dub": "https://vibeplayer.site/6ac97036981966b7",
+          "160-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6ac97036981966b7/master.m3u8"
         },
         "Earnvids": {
-          "malep-9_otakuvid_dub": "https://otakuvid.online/embed/iistbhpg2654",
-          "malep-9_otakuvid_dub_m3u8": null
+          "160-malep-9_otakuvid_dub": "https://otakuvid.online/embed/iistbhpg2654",
+          "160-malep-9_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -257,26 +257,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-10",
       "sub": {
         "HD-1": {
-          "malep-10_vibeplayer_sub": "https://vibeplayer.site/45bf15c936ed7b5d",
-          "malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45bf15c936ed7b5d/master.m3u8"
+          "160-malep-10_vibeplayer_sub": "https://vibeplayer.site/45bf15c936ed7b5d",
+          "160-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/45bf15c936ed7b5d/master.m3u8"
         },
         "StreamHG": {
-          "malep-10_otakuhg_sub": "https://otakuhg.site/e/o4t5317x8t1c",
-          "malep-10_otakuhg_sub_m3u8": null
+          "160-malep-10_otakuhg_sub": "https://otakuhg.site/e/o4t5317x8t1c",
+          "160-malep-10_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-10_otakuvid_sub": "https://otakuvid.online/embed/vsphqto1de7g",
-          "malep-10_otakuvid_sub_m3u8": null
+          "160-malep-10_otakuvid_sub": "https://otakuvid.online/embed/vsphqto1de7g",
+          "160-malep-10_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-10_vibeplayer_dub": "https://vibeplayer.site/9b9f157b32026591",
-          "malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9b9f157b32026591/master.m3u8"
+          "160-malep-10_vibeplayer_dub": "https://vibeplayer.site/9b9f157b32026591",
+          "160-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9b9f157b32026591/master.m3u8"
         },
         "Earnvids": {
-          "malep-10_otakuvid_dub": "https://otakuvid.online/embed/26q24bjcy55w",
-          "malep-10_otakuvid_dub_m3u8": null
+          "160-malep-10_otakuvid_dub": "https://otakuvid.online/embed/26q24bjcy55w",
+          "160-malep-10_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -286,26 +286,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-11",
       "sub": {
         "HD-1": {
-          "malep-11_vibeplayer_sub": "https://vibeplayer.site/e9951f0013c915ab",
-          "malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e9951f0013c915ab/master.m3u8"
+          "160-malep-11_vibeplayer_sub": "https://vibeplayer.site/e9951f0013c915ab",
+          "160-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e9951f0013c915ab/master.m3u8"
         },
         "StreamHG": {
-          "malep-11_otakuhg_sub": "https://otakuhg.site/e/bezdzxc135yf",
-          "malep-11_otakuhg_sub_m3u8": null
+          "160-malep-11_otakuhg_sub": "https://otakuhg.site/e/bezdzxc135yf",
+          "160-malep-11_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-11_otakuvid_sub": "https://otakuvid.online/embed/jgdkszdydlp3",
-          "malep-11_otakuvid_sub_m3u8": null
+          "160-malep-11_otakuvid_sub": "https://otakuvid.online/embed/jgdkszdydlp3",
+          "160-malep-11_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-11_vibeplayer_dub": "https://vibeplayer.site/d995cc93035315ac",
-          "malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d995cc93035315ac/master.m3u8"
+          "160-malep-11_vibeplayer_dub": "https://vibeplayer.site/d995cc93035315ac",
+          "160-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d995cc93035315ac/master.m3u8"
         },
         "Earnvids": {
-          "malep-11_otakuvid_dub": "https://otakuvid.online/embed/pep8cswj2too",
-          "malep-11_otakuvid_dub_m3u8": null
+          "160-malep-11_otakuvid_dub": "https://otakuvid.online/embed/pep8cswj2too",
+          "160-malep-11_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -315,26 +315,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-12",
       "sub": {
         "HD-1": {
-          "malep-12_vibeplayer_sub": "https://vibeplayer.site/3592c36a3a76ed25",
-          "malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3592c36a3a76ed25/master.m3u8"
+          "160-malep-12_vibeplayer_sub": "https://vibeplayer.site/3592c36a3a76ed25",
+          "160-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3592c36a3a76ed25/master.m3u8"
         },
         "StreamHG": {
-          "malep-12_otakuhg_sub": "https://otakuhg.site/e/c6fhnhlkrym4",
-          "malep-12_otakuhg_sub_m3u8": null
+          "160-malep-12_otakuhg_sub": "https://otakuhg.site/e/c6fhnhlkrym4",
+          "160-malep-12_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-12_otakuvid_sub": "https://otakuvid.online/embed/qcy6xqooo7q2",
-          "malep-12_otakuvid_sub_m3u8": null
+          "160-malep-12_otakuvid_sub": "https://otakuvid.online/embed/qcy6xqooo7q2",
+          "160-malep-12_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-12_vibeplayer_dub": "https://vibeplayer.site/fe18434fbd158215",
-          "malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe18434fbd158215/master.m3u8"
+          "160-malep-12_vibeplayer_dub": "https://vibeplayer.site/fe18434fbd158215",
+          "160-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fe18434fbd158215/master.m3u8"
         },
         "Earnvids": {
-          "malep-12_otakuvid_dub": "https://otakuvid.online/embed/lopa50lv7xmp",
-          "malep-12_otakuvid_dub_m3u8": null
+          "160-malep-12_otakuvid_dub": "https://otakuvid.online/embed/lopa50lv7xmp",
+          "160-malep-12_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
@@ -344,26 +344,26 @@
       "episode_url": "https://hianime.ad/watch/now-and-then-here-and-there/ep-13",
       "sub": {
         "HD-1": {
-          "malep-13_vibeplayer_sub": "https://vibeplayer.site/6245bb116b0bffaf",
-          "malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6245bb116b0bffaf/master.m3u8"
+          "160-malep-13_vibeplayer_sub": "https://vibeplayer.site/6245bb116b0bffaf",
+          "160-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6245bb116b0bffaf/master.m3u8"
         },
         "StreamHG": {
-          "malep-13_otakuhg_sub": "https://otakuhg.site/e/wrlqd26iiwmz",
-          "malep-13_otakuhg_sub_m3u8": null
+          "160-malep-13_otakuhg_sub": "https://otakuhg.site/e/wrlqd26iiwmz",
+          "160-malep-13_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
-          "malep-13_otakuvid_sub": "https://otakuvid.online/embed/v3z2pk4nb2v8",
-          "malep-13_otakuvid_sub_m3u8": null
+          "160-malep-13_otakuvid_sub": "https://otakuvid.online/embed/v3z2pk4nb2v8",
+          "160-malep-13_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
         "HD-1": {
-          "malep-13_vibeplayer_dub": "https://vibeplayer.site/a782c47104d21fd8",
-          "malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a782c47104d21fd8/master.m3u8"
+          "160-malep-13_vibeplayer_dub": "https://vibeplayer.site/a782c47104d21fd8",
+          "160-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a782c47104d21fd8/master.m3u8"
         },
         "Earnvids": {
-          "malep-13_otakuvid_dub": "https://otakuvid.online/embed/dvzyh5hzc3or",
-          "malep-13_otakuvid_dub_m3u8": null
+          "160-malep-13_otakuvid_dub": "https://otakuvid.online/embed/dvzyh5hzc3or",
+          "160-malep-13_otakuvid_dub_m3u8": null
         }
       },
       "hsub": {}
