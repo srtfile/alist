@@ -1,0 +1,48 @@
+{
+  "anime_name": "One Piece Making History The Turbulent Old And New Four Emperors",
+  "anime_url": "https://hianime.ad/anime/one-piece-making-history-the-turbulent-old-and-new-four-emperors",
+  "slug": "one-piece-making-history-the-turbulent-old-and-new-four-emperors",
+  "mal_id": 21,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:52:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+      "episode_url": "https://hianime.ad/watch/one-piece-making-history-the-turbulent-old-and-new-four-emperors/ep-1",
+      "sub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_sub": "https://vibeplayer.site/e8a993ca3a521a6f",
+          "21-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e8a993ca3a521a6f/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_sub": "https://otakuhg.site/e/nhunhismbcv5",
+          "21-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x1dsqyqcvqsn",
+          "21-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e5d57e1b95ef2b0e",
+          "21-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e5d57e1b95ef2b0e/master.m3u8"
+        },
+        "StreamHG": {
+          "21-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wxw9uwfcemu8",
+          "21-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xvck2ajc8lzp",
+          "21-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21-malep-1_playmogo_hsub": "https://playmogo.com/e/wm7acy6fus96",
+          "21-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
