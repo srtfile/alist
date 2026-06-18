@@ -1,0 +1,41 @@
+{
+  "anime_name": "Sailor Moon S The Movie Hearts In Ice",
+  "anime_url": "https://hianime.ad/anime/sailor-moon-s-the-movie-hearts-in-ice",
+  "slug": "sailor-moon-s-the-movie-hearts-in-ice",
+  "mal_id": 532,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:08:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Premonition of World's End? The Appearance of Mysterious New Warriors!",
+      "episode_url": "https://hianime.ad/watch/sailor-moon-s-the-movie-hearts-in-ice/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "532-malep-1_vibeplayer_dub": "https://vibeplayer.site/80eea89e81074133",
+          "532-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/80eea89e81074133/master.m3u8"
+        },
+        "StreamHG": {
+          "532-malep-1_otakuhg_dub": "https://otakuhg.site/e/bld7m6phcpvb",
+          "532-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "532-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nm3vzsvscwm3",
+          "532-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "532-malep-1_vibeplayer_raw": "https://vibeplayer.site/d295f6a478d7c290",
+          "532-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/d295f6a478d7c290/master.m3u8"
+        },
+        "Earnvids": {
+          "532-malep-1_otakuvid_raw": "https://otakuvid.online/embed/fqdx9d7x3zo2",
+          "532-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
