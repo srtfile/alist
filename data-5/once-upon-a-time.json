@@ -1,0 +1,48 @@
+{
+  "anime_name": "Once Upon A Time",
+  "anime_url": "https://hianime.ad/anime/once-upon-a-time",
+  "slug": "once-upon-a-time",
+  "mal_id": 11307,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T11:36:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/once-upon-a-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "11307-malep-1_vibeplayer_sub": "https://vibeplayer.site/f9aa87ec61d63a54",
+          "11307-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9aa87ec61d63a54/master.m3u8"
+        },
+        "Earnvids": {
+          "11307-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uniln1fujdcw",
+          "11307-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "11307-malep-1_playmogo_sub": "https://playmogo.com/e/yseukcmtjb5j",
+          "11307-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11307-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ea9de426b101bdb6",
+          "11307-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ea9de426b101bdb6/master.m3u8"
+        },
+        "StreamHG": {
+          "11307-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ry1jcc0gfo30",
+          "11307-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11307-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y25c7az9q5am",
+          "11307-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11307-malep-1_playmogo_hsub": "https://playmogo.com/e/kgccondq7mpe",
+          "11307-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
