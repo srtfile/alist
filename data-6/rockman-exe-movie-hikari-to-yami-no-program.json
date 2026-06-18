@@ -1,0 +1,48 @@
+{
+  "anime_name": "Rockman Exe Movie Hikari To Yami No Program",
+  "anime_url": "https://hianime.ad/anime/rockman-exe-movie-hikari-to-yami-no-program",
+  "slug": "rockman-exe-movie-hikari-to-yami-no-program",
+  "mal_id": 1710,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:16:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Jack In! MegaMan!",
+      "episode_url": "https://hianime.ad/watch/rockman-exe-movie-hikari-to-yami-no-program/ep-1",
+      "sub": {
+        "HD-1": {
+          "1710-malep-1_vibeplayer_sub": "https://vibeplayer.site/d79d6e2e3c59214c",
+          "1710-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d79d6e2e3c59214c/master.m3u8"
+        },
+        "StreamHG": {
+          "1710-malep-1_otakuhg_sub": "https://otakuhg.site/e/uht9i8h7bv0p",
+          "1710-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1710-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x3rf2b2188zb",
+          "1710-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1710-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f27777af438fb6d3",
+          "1710-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f27777af438fb6d3/master.m3u8"
+        },
+        "StreamHG": {
+          "1710-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q76jbpnhk7mz",
+          "1710-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1710-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6fdqozf9ivjq",
+          "1710-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1710-malep-1_playmogo_hsub": "https://playmogo.com/e/8pald3flfej3",
+          "1710-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
