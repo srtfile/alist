@@ -8348,5 +8348,15 @@
     "captured_at": "2026-06-18T12:31:16",
     "file": "data-6/outlanders.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/outlanders.json"
+  },
+  {
+    "slug": "outlaw-star",
+    "mal_id": 400,
+    "anime_name": "Outlaw Star",
+    "anime_url": "https://hianime.ad/anime/outlaw-star",
+    "total_episodes": 26,
+    "captured_at": "2026-06-18T12:31:29",
+    "file": "data-6/outlaw-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/outlaw-star.json"
   }
 ]
