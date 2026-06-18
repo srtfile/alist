@@ -1,0 +1,31 @@
+{
+  "anime_name": "Poupelle Of Chimney Town",
+  "anime_url": "https://hianime.ad/anime/poupelle-of-chimney-town",
+  "slug": "poupelle-of-chimney-town",
+  "mal_id": 2223,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T14:27:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Maple Town",
+      "episode_url": "https://hianime.ad/watch/poupelle-of-chimney-town/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "2223-malep-1_vibeplayer_dub": "https://vibeplayer.site/e328edb44f1ecfdb",
+          "2223-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e328edb44f1ecfdb/master.m3u8"
+        },
+        "StreamHG": {
+          "2223-malep-1_otakuhg_dub": "https://otakuhg.site/e/irjb0f9tyktm",
+          "2223-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2223-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pe1tjc6ff77z",
+          "2223-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
