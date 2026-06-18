@@ -1,0 +1,53 @@
+{
+  "anime_name": "Panzer Dragoon",
+  "anime_url": "https://hianime.ad/anime/panzer-dragoon",
+  "slug": "panzer-dragoon",
+  "mal_id": 14131,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T12:47:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tankery, Here It Comes",
+      "episode_url": "https://hianime.ad/watch/panzer-dragoon/ep-1",
+      "sub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_sub": "https://vibeplayer.site/f4c373439b55423c",
+          "14131-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f4c373439b55423c/master.m3u8"
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ycmykhzi51ym",
+          "14131-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_dub": "https://vibeplayer.site/734ff962d6bb4fee",
+          "14131-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/734ff962d6bb4fee/master.m3u8"
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wzyseuv0ioup",
+          "14131-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "14131-malep-1_vibeplayer_hsub": "https://vibeplayer.site/84d12d7882b8eed3",
+          "14131-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/84d12d7882b8eed3/master.m3u8"
+        },
+        "StreamHG": {
+          "14131-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f1qamo4z699o",
+          "14131-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14131-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i9zfbpbixcfl",
+          "14131-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14131-malep-1_playmogo_hsub": "https://playmogo.com/e/mpg3iskqkpxa",
+          "14131-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
