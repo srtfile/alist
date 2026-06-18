@@ -4,7 +4,7 @@
   "slug": "ronin-warriors-message",
   "mal_id": 1264,
   "total_episodes": 5,
-  "captured_at": "2026-06-18T18:25:43",
+  "captured_at": "2026-06-18T23:49:04",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -42,6 +42,10 @@
         "Earnvids": {
           "1264-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fwh0lcabu1sr",
           "1264-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-1_playmogo_hsub": "https://playmogo.com/e/ehp7ka4koehx",
+          "1264-malep-1_playmogo_hsub_m3u8": null
         }
       }
     },
@@ -178,6 +182,10 @@
         "Earnvids": {
           "1264-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/xdaec2jj3bgj",
           "1264-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1264-malep-5_playmogo_hsub": "https://playmogo.com/e/64w497isb1k8",
+          "1264-malep-5_playmogo_hsub_m3u8": null
         }
       }
     }
