@@ -1,0 +1,49 @@
+{
+  "anime_name": "Sakura Wars Sumire",
+  "anime_url": "https://hianime.ad/anime/sakura-wars-sumire",
+  "slug": "sakura-wars-sumire",
+  "mal_id": 561,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T19:41:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sakura Arrives at the Capital",
+      "episode_url": "https://hianime.ad/watch/sakura-wars-sumire/ep-1",
+      "sub": {
+        "HD-1": {
+          "561-malep-1_vibeplayer_sub": "https://vibeplayer.site/a37bbf8a219d58bb",
+          "561-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a37bbf8a219d58bb/master.m3u8"
+        },
+        "Earnvids": {
+          "561-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uw0nryp7vayb",
+          "561-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "561-malep-1_vibeplayer_dub": "https://vibeplayer.site/45fa9c975469b0bd",
+          "561-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/45fa9c975469b0bd/master.m3u8"
+        },
+        "Earnvids": {
+          "561-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6jml9kqu13i4",
+          "561-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "561-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a191ebb4a7ea047d",
+          "561-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a191ebb4a7ea047d/master.m3u8"
+        },
+        "Earnvids": {
+          "561-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2hozg3c5tdok",
+          "561-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "561-malep-1_playmogo_hsub": "https://playmogo.com/e/2u1zwdbwvr2g",
+          "561-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
