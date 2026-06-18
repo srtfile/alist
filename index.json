@@ -7848,5 +7848,15 @@
     "captured_at": "2026-06-18T12:14:22",
     "file": "data-5/onmyouji.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onmyouji.json"
+  },
+  {
+    "slug": "onyankopon",
+    "mal_id": null,
+    "anime_name": "Onyankopon",
+    "anime_url": "https://hianime.ad/anime/onyankopon",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T12:14:43",
+    "file": "data-5/onyankopon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/onyankopon.json"
   }
 ]
