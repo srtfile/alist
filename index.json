@@ -11468,5 +11468,15 @@
     "captured_at": "2026-06-18T14:52:04",
     "file": "data-6/prism-ark-specials.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/prism-ark-specials.json"
+  },
+  {
+    "slug": "prison-school",
+    "mal_id": 30240,
+    "anime_name": "Prison School",
+    "anime_url": "https://hianime.ad/anime/prison-school",
+    "total_episodes": 12,
+    "captured_at": "2026-06-18T14:52:21",
+    "file": "data-6/prison-school.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/prison-school.json"
   }
 ]
