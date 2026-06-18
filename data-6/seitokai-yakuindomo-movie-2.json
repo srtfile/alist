@@ -1,0 +1,44 @@
+{
+  "anime_name": "Seitokai Yakuindomo Movie 2",
+  "anime_url": "https://hianime.ad/anime/seitokai-yakuindomo-movie-2",
+  "slug": "seitokai-yakuindomo-movie-2",
+  "mal_id": 20847,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:38:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Under the Cherry Blossom Trees, Once Again / The Sleepy Season, Slip / A Wolf Pretends",
+      "episode_url": "https://hianime.ad/watch/seitokai-yakuindomo-movie-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "20847-malep-1_vibeplayer_sub": "https://vibeplayer.site/1329a68930dbda1e",
+          "20847-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1329a68930dbda1e/master.m3u8"
+        },
+        "Earnvids": {
+          "20847-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9tytwydskwu4",
+          "20847-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20847-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7f2e6fd483fe214f",
+          "20847-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7f2e6fd483fe214f/master.m3u8"
+        },
+        "StreamHG": {
+          "20847-malep-1_otakuhg_hsub": "https://otakuhg.site/e/dgas8xu044h4",
+          "20847-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20847-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i9yn923anhzu",
+          "20847-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20847-malep-1_playmogo_hsub": "https://playmogo.com/e/1ubhgy679qop",
+          "20847-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
