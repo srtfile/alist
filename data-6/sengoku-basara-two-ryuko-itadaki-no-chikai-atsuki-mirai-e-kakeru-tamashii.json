@@ -1,0 +1,57 @@
+{
+  "anime_name": "Sengoku Basara Two Ryuko Itadaki No Chikai Atsuki Mirai E Kakeru Tamashii",
+  "anime_url": "https://hianime.ad/anime/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii",
+  "slug": "sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:49:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/2a07b0bfb3774775",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2a07b0bfb3774775/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/55ztd25c761a",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/41e6853630125adf",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/41e6853630125adf/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_dub": "https://otakuhg.site/e/mjjap6flbgzj",
+          "malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/nw3ojkzi30c7",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/e00a769bc5c485fd",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e00a769bc5c485fd/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/dy4kc99n838t",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dnioe0606z1c",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/mq4qj9c6oas3",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
