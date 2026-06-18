@@ -1,0 +1,77 @@
+{
+  "anime_name": "Ranma 12 Hot Song Contest",
+  "anime_url": "https://hianime.ad/anime/ranma-12-hot-song-contest",
+  "slug": "ranma-12-hot-song-contest",
+  "mal_id": 210,
+  "total_episodes": 2,
+  "captured_at": "2026-06-18T16:13:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Here's Ranma",
+      "episode_url": "https://hianime.ad/watch/ranma-12-hot-song-contest/ep-1",
+      "sub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_sub": "https://vibeplayer.site/2385f1c50476dc4d",
+          "210-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2385f1c50476dc4d/master.m3u8"
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hgc3t2f7768t",
+          "210-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "210-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0d1d0c632c22c79e",
+          "210-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0d1d0c632c22c79e/master.m3u8"
+        },
+        "StreamHG": {
+          "210-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l3dfr3yg557t",
+          "210-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "210-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/orburfb7pzbf",
+          "210-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-1_playmogo_hsub": "https://playmogo.com/e/uwz1a05sl7yj",
+          "210-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "School is No Place for Horsing Around",
+      "episode_url": "https://hianime.ad/watch/ranma-12-hot-song-contest/ep-2",
+      "sub": {
+        "HD-1": {
+          "210-malep-2_vibeplayer_sub": "https://vibeplayer.site/9cc5c78d288b529d",
+          "210-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9cc5c78d288b529d/master.m3u8"
+        },
+        "Earnvids": {
+          "210-malep-2_otakuvid_sub": "https://otakuvid.online/embed/7poppvsbux2m",
+          "210-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "210-malep-2_vibeplayer_hsub": "https://vibeplayer.site/cf9e31ede9d3f4f7",
+          "210-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cf9e31ede9d3f4f7/master.m3u8"
+        },
+        "StreamHG": {
+          "210-malep-2_otakuhg_hsub": "https://otakuhg.site/e/mbq1v9tphap3",
+          "210-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "210-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/z0guwl9hrkip",
+          "210-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "210-malep-2_playmogo_hsub": "https://playmogo.com/e/t23o2dqrnj7a",
+          "210-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
