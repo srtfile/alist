@@ -13328,5 +13328,15 @@
     "captured_at": "2026-06-18T17:20:38",
     "file": "data-6/red-data-girl.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/red-data-girl.json"
+  },
+  {
+    "slug": "red-fox",
+    "mal_id": 41265,
+    "anime_name": "Red Fox",
+    "anime_url": "https://hianime.ad/anime/red-fox",
+    "total_episodes": 10,
+    "captured_at": "2026-06-18T17:21:09",
+    "file": "data-6/red-fox.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-6/red-fox.json"
   }
 ]
