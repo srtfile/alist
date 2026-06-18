@@ -6788,5 +6788,15 @@
     "captured_at": "2026-06-18T11:32:45",
     "file": "data-5/okkos-inn-1422.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/okkos-inn-1422.json"
+  },
+  {
+    "slug": "okkos-inn",
+    "mal_id": 37433,
+    "anime_name": "Okkos Inn",
+    "anime_url": "https://hianime.ad/anime/okkos-inn",
+    "total_episodes": 24,
+    "captured_at": "2026-06-18T11:32:56",
+    "file": "data-5/okkos-inn.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-5/okkos-inn.json"
   }
 ]
