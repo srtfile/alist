@@ -1,0 +1,52 @@
+{
+  "anime_name": "Saga Of Tanya The Evil The Movie",
+  "anime_url": "https://hianime.ad/anime/saga-of-tanya-the-evil-the-movie",
+  "slug": "saga-of-tanya-the-evil-the-movie",
+  "mal_id": 32615,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:57:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Devil of the Rhine",
+      "episode_url": "https://hianime.ad/watch/saga-of-tanya-the-evil-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "32615-malep-1_vibeplayer_sub": "https://vibeplayer.site/6323435a6ee8599f",
+          "32615-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6323435a6ee8599f/master.m3u8"
+        },
+        "StreamHG": {
+          "32615-malep-1_otakuhg_sub": "https://otakuhg.site/e/un0ik2y2csel",
+          "32615-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "32615-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jhxh8b8najxi",
+          "32615-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "32615-malep-1_playmogo_sub": "https://playmogo.com/e/ep01mcon3trj",
+          "32615-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32615-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8786b4608175a32d",
+          "32615-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8786b4608175a32d/master.m3u8"
+        },
+        "StreamHG": {
+          "32615-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ni4exeiidxor",
+          "32615-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "32615-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i567jh6icj61",
+          "32615-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32615-malep-1_playmogo_hsub": "https://playmogo.com/e/658n6cphvuye",
+          "32615-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
