@@ -1,0 +1,53 @@
+{
+  "anime_name": "Robot Carnival",
+  "anime_url": "https://hianime.ad/anime/robot-carnival",
+  "slug": "robot-carnival",
+  "mal_id": 9241,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T18:07:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Red Impact",
+      "episode_url": "https://hianime.ad/watch/robot-carnival/ep-1",
+      "sub": {
+        "HD-1": {
+          "9241-malep-1_vibeplayer_sub": "https://vibeplayer.site/b9f6483195db3264",
+          "9241-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9f6483195db3264/master.m3u8"
+        },
+        "Earnvids": {
+          "9241-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pmgmkw28wuy9",
+          "9241-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "9241-malep-1_vibeplayer_dub": "https://vibeplayer.site/78a6035ccab918b4",
+          "9241-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/78a6035ccab918b4/master.m3u8"
+        },
+        "Earnvids": {
+          "9241-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4xi79nivls4p",
+          "9241-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "9241-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dd99a7e929d06a47",
+          "9241-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dd99a7e929d06a47/master.m3u8"
+        },
+        "StreamHG": {
+          "9241-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ia24mqtzcdk3",
+          "9241-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9241-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/moi21nqqgwbw",
+          "9241-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9241-malep-1_playmogo_hsub": "https://playmogo.com/e/oq9dikqbx1vn",
+          "9241-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
