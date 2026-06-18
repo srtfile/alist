@@ -1,0 +1,40 @@
+{
+  "anime_name": "Pleasant Goat And Big Big Wolf Movie 02 The Tiger Prowess",
+  "anime_url": "https://hianime.ad/anime/pleasant-goat-and-big-big-wolf-movie-02-the-tiger-prowess",
+  "slug": "pleasant-goat-and-big-big-wolf-movie-02-the-tiger-prowess",
+  "mal_id": 49079,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T13:44:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/pleasant-goat-and-big-big-wolf-movie-02-the-tiger-prowess/ep-1",
+      "sub": {
+        "HD-1": {
+          "49079-malep-1_vibeplayer_sub": "https://vibeplayer.site/f32890e7a5226dc2",
+          "49079-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f32890e7a5226dc2/master.m3u8"
+        },
+        "Earnvids": {
+          "49079-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t8j0il3i7gzy",
+          "49079-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "49079-malep-1_vibeplayer_hsub": "https://vibeplayer.site/22f5eb4ff34c00d9",
+          "49079-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/22f5eb4ff34c00d9/master.m3u8"
+        },
+        "Earnvids": {
+          "49079-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8rs50baedrwv",
+          "49079-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49079-malep-1_playmogo_hsub": "https://playmogo.com/e/equ02rrowkkq",
+          "49079-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
