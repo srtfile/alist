@@ -4,7 +4,7 @@
   "slug": "more-magical-doremi",
   "mal_id": 29974,
   "total_episodes": 50,
-  "captured_at": "2026-06-17T17:26:21",
+  "captured_at": "2026-06-18T00:01:02",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -964,9 +964,35 @@
     {
       "episode_title": "Episode 38",
       "episode_url": "https://hianime.ad/watch/more-magical-doremi/ep-38",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "29974-malep-38_vibeplayer_sub": "https://vibeplayer.site/017d0b8b9278ecaa",
+          "29974-malep-38_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/017d0b8b9278ecaa/master.m3u8"
+        },
+        "Earnvids": {
+          "29974-malep-38_otakuvid_sub": "https://otakuvid.online/embed/dh0trjb5jccl",
+          "29974-malep-38_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "29974-malep-38_vibeplayer_hsub": "https://vibeplayer.site/cdade09838db5e35",
+          "29974-malep-38_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdade09838db5e35/master.m3u8"
+        },
+        "StreamHG": {
+          "29974-malep-38_otakuhg_hsub": "https://otakuhg.site/e/w9sy60oo8ibt",
+          "29974-malep-38_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "29974-malep-38_otakuvid_hsub": "https://otakuvid.online/embed/fru9i7p51tm4",
+          "29974-malep-38_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "29974-malep-38_playmogo_hsub": "https://playmogo.com/e/kxw5whnku1no",
+          "29974-malep-38_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 39",
