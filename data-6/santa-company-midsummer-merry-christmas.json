@@ -1,0 +1,44 @@
+{
+  "anime_name": "Santa Company Midsummer Merry Christmas",
+  "anime_url": "https://hianime.ad/anime/santa-company-midsummer-merry-christmas",
+  "slug": "santa-company-midsummer-merry-christmas",
+  "mal_id": 57433,
+  "total_episodes": 1,
+  "captured_at": "2026-06-18T20:00:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Puberty Continues",
+      "episode_url": "https://hianime.ad/watch/santa-company-midsummer-merry-christmas/ep-1",
+      "sub": {
+        "HD-1": {
+          "57433-malep-1_vibeplayer_sub": "https://vibeplayer.site/1601b137669b3933",
+          "57433-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1601b137669b3933/master.m3u8"
+        },
+        "Earnvids": {
+          "57433-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kji6za5lmpo8",
+          "57433-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e0b7d5474b248448",
+          "57433-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e0b7d5474b248448/master.m3u8"
+        },
+        "StreamHG": {
+          "57433-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wp5mistfllnt",
+          "57433-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "57433-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/17cubaoe0o5j",
+          "57433-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57433-malep-1_playmogo_hsub": "https://playmogo.com/e/f6mc6k5a47a1",
+          "57433-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
