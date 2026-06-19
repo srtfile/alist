@@ -1,0 +1,40 @@
+{
+  "anime_name": "The Summer Of Dioxin",
+  "anime_url": "https://hianime.ad/anime/the-summer-of-dioxin",
+  "slug": "the-summer-of-dioxin",
+  "mal_id": 58861,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:59:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Please Be My Friend!",
+      "episode_url": "https://hianime.ad/watch/the-summer-of-dioxin/ep-1",
+      "sub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_sub": "https://vibeplayer.site/8c47be030d22528a",
+          "58861-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c47be030d22528a/master.m3u8"
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vol7r4l9vyqm",
+          "58861-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_hsub": "https://vibeplayer.site/079f8e7e0041d512",
+          "58861-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/079f8e7e0041d512/master.m3u8"
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9j13qsh5w288",
+          "58861-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58861-malep-1_playmogo_hsub": "https://playmogo.com/e/5bhsuebzobx3",
+          "58861-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
