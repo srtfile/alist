@@ -1,0 +1,40 @@
+{
+  "anime_name": "Shoujo Tachi Wa Kouya Wo Mezasu Iubeki Monokashira",
+  "anime_url": "https://hianime.ad/anime/shoujo-tachi-wa-kouya-wo-mezasu-iubeki-monokashira",
+  "slug": "shoujo-tachi-wa-kouya-wo-mezasu-iubeki-monokashira",
+  "mal_id": 31914,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T02:55:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Girls Who Chase After Their Dreams",
+      "episode_url": "https://hianime.ad/watch/shoujo-tachi-wa-kouya-wo-mezasu-iubeki-monokashira/ep-1",
+      "sub": {
+        "HD-1": {
+          "31914-malep-1_vibeplayer_sub": "https://vibeplayer.site/e54631c60972f5fe",
+          "31914-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e54631c60972f5fe/master.m3u8"
+        },
+        "Earnvids": {
+          "31914-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v2klfn4x02ax",
+          "31914-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31914-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d097392faa905567",
+          "31914-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d097392faa905567/master.m3u8"
+        },
+        "Earnvids": {
+          "31914-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zcd540hp4rh9",
+          "31914-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31914-malep-1_playmogo_hsub": "https://playmogo.com/e/l33uffc9ibig",
+          "31914-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
