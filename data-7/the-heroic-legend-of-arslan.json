@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Heroic Legend Of Arslan",
+  "anime_url": "https://hianime.ad/anime/the-heroic-legend-of-arslan",
+  "slug": "the-heroic-legend-of-arslan",
+  "mal_id": 28249,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:04:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Glory of Ecbatana",
+      "episode_url": "https://hianime.ad/watch/the-heroic-legend-of-arslan/ep-1",
+      "sub": {
+        "HD-1": {
+          "28249-malep-1_vibeplayer_sub": "https://vibeplayer.site/758356c3a95565c9",
+          "28249-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/758356c3a95565c9/master.m3u8"
+        },
+        "StreamHG": {
+          "28249-malep-1_otakuhg_sub": "https://otakuhg.site/e/k7bbtparauyp",
+          "28249-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28249-malep-1_otakuvid_sub": "https://otakuvid.online/embed/auhnwhepj9eo",
+          "28249-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "28249-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d1d46cc3302a2a2f",
+          "28249-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d1d46cc3302a2a2f/master.m3u8"
+        },
+        "Earnvids": {
+          "28249-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0jdk5uhw5fxh",
+          "28249-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28249-malep-1_playmogo_hsub": "https://playmogo.com/e/0xj8yrmi7ula",
+          "28249-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
