@@ -1,0 +1,77 @@
+{
+  "anime_name": "Tsubasa Reservoir Chronicle Spring Thunder Chronicle",
+  "anime_url": "https://hianime.ad/anime/tsubasa-reservoir-chronicle-spring-thunder-chronicle",
+  "slug": "tsubasa-reservoir-chronicle-spring-thunder-chronicle",
+  "mal_id": 177,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T21:40:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Destinies Converge",
+      "episode_url": "https://hianime.ad/watch/tsubasa-reservoir-chronicle-spring-thunder-chronicle/ep-1",
+      "sub": {
+        "HD-1": {
+          "177-malep-1_vibeplayer_sub": "https://vibeplayer.site/99273896dfe16dfc",
+          "177-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/99273896dfe16dfc/master.m3u8"
+        },
+        "Earnvids": {
+          "177-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9ad08d56038y",
+          "177-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "177-malep-1_playmogo_sub": "https://playmogo.com/e/19bm6y3d1v33",
+          "177-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "177-malep-1_vibeplayer_hsub": "https://vibeplayer.site/29297296edda4e74",
+          "177-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/29297296edda4e74/master.m3u8"
+        },
+        "StreamHG": {
+          "177-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gcbfkjt1bnld",
+          "177-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "177-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0mc16plwtpsw",
+          "177-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "177-malep-1_playmogo_hsub": "https://playmogo.com/e/kjrj7lu32haq",
+          "177-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Power to Fight",
+      "episode_url": "https://hianime.ad/watch/tsubasa-reservoir-chronicle-spring-thunder-chronicle/ep-2",
+      "sub": {
+        "HD-1": {
+          "177-malep-2_vibeplayer_sub": "https://vibeplayer.site/d6728a84480f0db0",
+          "177-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d6728a84480f0db0/master.m3u8"
+        },
+        "Earnvids": {
+          "177-malep-2_otakuvid_sub": "https://otakuvid.online/embed/oszs1yd8o1m8",
+          "177-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "177-malep-2_vibeplayer_hsub": "https://vibeplayer.site/522962f88a940be2",
+          "177-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/522962f88a940be2/master.m3u8"
+        },
+        "Earnvids": {
+          "177-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/dwdo7x3zy74w",
+          "177-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "177-malep-2_playmogo_hsub": "https://playmogo.com/e/gnk2cdvhnhxx",
+          "177-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
