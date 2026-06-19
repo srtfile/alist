@@ -20308,5 +20308,15 @@
     "captured_at": "2026-06-19T05:48:41",
     "file": "data-7/sound-euphonium-3-extra-episodes.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/sound-euphonium-3-extra-episodes.json"
+  },
+  {
+    "slug": "sound-euphonium-specials",
+    "mal_id": 27989,
+    "anime_name": "Sound Euphonium Specials",
+    "anime_url": "https://hianime.ad/anime/sound-euphonium-specials",
+    "total_episodes": 7,
+    "captured_at": "2026-06-19T05:49:03",
+    "file": "data-7/sound-euphonium-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/sound-euphonium-specials.json"
   }
 ]
