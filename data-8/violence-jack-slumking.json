@@ -1,0 +1,53 @@
+{
+  "anime_name": "Violence Jack Slumking",
+  "anime_url": "https://hianime.ad/anime/violence-jack-slumking",
+  "slug": "violence-jack-slumking",
+  "mal_id": 60933,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:18:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Li'l Miss Vampire Is Very Bad",
+      "episode_url": "https://hianime.ad/watch/violence-jack-slumking/ep-1",
+      "sub": {
+        "HD-1": {
+          "60933-malep-1_vibeplayer_sub": "https://vibeplayer.site/a272aac8d0284a77",
+          "60933-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a272aac8d0284a77/master.m3u8"
+        },
+        "Earnvids": {
+          "60933-malep-1_otakuvid_sub": "https://otakuvid.online/embed/31raoqo6qsv4",
+          "60933-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "60933-malep-1_vibeplayer_dub": "https://vibeplayer.site/0841aaa9dd49a263",
+          "60933-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0841aaa9dd49a263/master.m3u8"
+        },
+        "Earnvids": {
+          "60933-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9yg3a54ggdw6",
+          "60933-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "60933-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e0aa298b2540419f",
+          "60933-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e0aa298b2540419f/master.m3u8"
+        },
+        "StreamHG": {
+          "60933-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1762yd2py8sd",
+          "60933-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60933-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/netthm5l5320",
+          "60933-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60933-malep-1_playmogo_hsub": "https://playmogo.com/e/jsdk38kzl8qm",
+          "60933-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
