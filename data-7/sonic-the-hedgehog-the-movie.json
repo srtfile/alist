@@ -1,0 +1,77 @@
+{
+  "anime_name": "Sonic The Hedgehog The Movie",
+  "anime_url": "https://hianime.ad/anime/sonic-the-hedgehog-the-movie",
+  "slug": "sonic-the-hedgehog-the-movie",
+  "mal_id": 20555,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T03:55:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'll Do My Bets!",
+      "episode_url": "https://hianime.ad/watch/sonic-the-hedgehog-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "20555-malep-1_vibeplayer_sub": "https://vibeplayer.site/8901757b25367ac0",
+          "20555-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8901757b25367ac0/master.m3u8"
+        },
+        "Earnvids": {
+          "20555-malep-1_otakuvid_sub": "https://otakuvid.online/embed/esugoi079t7j",
+          "20555-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20555-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7a7da6a9eb9f0551",
+          "20555-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7a7da6a9eb9f0551/master.m3u8"
+        },
+        "StreamHG": {
+          "20555-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qeyiemzld69n",
+          "20555-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20555-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2j3oxsreqrbx",
+          "20555-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20555-malep-1_playmogo_hsub": "https://playmogo.com/e/hfg22gcsnbcp",
+          "20555-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "First Astronomical Velocity",
+      "episode_url": "https://hianime.ad/watch/sonic-the-hedgehog-the-movie/ep-2",
+      "sub": {
+        "HD-1": {
+          "20555-malep-2_vibeplayer_sub": "https://vibeplayer.site/cebc14629a0541a6",
+          "20555-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cebc14629a0541a6/master.m3u8"
+        },
+        "Earnvids": {
+          "20555-malep-2_otakuvid_sub": "https://otakuvid.online/embed/7oikzbi958we",
+          "20555-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20555-malep-2_playmogo_sub": "https://playmogo.com/e/8ag2x7dzmni6",
+          "20555-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20555-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8b908ce5fe6cc6b0",
+          "20555-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8b908ce5fe6cc6b0/master.m3u8"
+        },
+        "Earnvids": {
+          "20555-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ykc35sr6zw58",
+          "20555-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20555-malep-2_playmogo_hsub": "https://playmogo.com/e/c9zzzc7lago7",
+          "20555-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
