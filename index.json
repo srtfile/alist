@@ -4528,5 +4528,15 @@
     "captured_at": "2026-06-19T21:32:55",
     "file": "data-8/trillion-game.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trillion-game.json"
+  },
+  {
+    "slug": "trinity-blood",
+    "mal_id": 27,
+    "anime_name": "Trinity Blood",
+    "anime_url": "https://hianime.ad/anime/trinity-blood",
+    "total_episodes": 24,
+    "captured_at": "2026-06-19T21:33:39",
+    "file": "data-8/trinity-blood.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trinity-blood.json"
   }
 ]
