@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Great White Snake",
+  "anime_url": "https://hianime.ad/anime/the-great-white-snake",
+  "slug": "the-great-white-snake",
+  "mal_id": 54040,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:57:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/the-great-white-snake/ep-1",
+      "sub": {
+        "HD-1": {
+          "54040-malep-1_vibeplayer_sub": "https://vibeplayer.site/9baecd04ccd57268",
+          "54040-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9baecd04ccd57268/master.m3u8"
+        },
+        "Earnvids": {
+          "54040-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k0fb7c96x7mj",
+          "54040-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "54040-malep-1_playmogo_sub": "https://playmogo.com/e/rhafudx4vobq",
+          "54040-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "54040-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8072c157b5be3f49",
+          "54040-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8072c157b5be3f49/master.m3u8"
+        },
+        "Earnvids": {
+          "54040-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/95kn0aktxkmp",
+          "54040-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54040-malep-1_playmogo_hsub": "https://playmogo.com/e/tatw2bjuxeos",
+          "54040-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
