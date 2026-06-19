@@ -1,0 +1,44 @@
+{
+  "anime_name": "Twilight Of The Dark Master",
+  "anime_url": "https://hianime.ad/anime/twilight-of-the-dark-master",
+  "slug": "twilight-of-the-dark-master",
+  "mal_id": 298,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:55:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Legendary Hero",
+      "episode_url": "https://hianime.ad/watch/twilight-of-the-dark-master/ep-1",
+      "sub": {
+        "HD-1": {
+          "298-malep-1_vibeplayer_sub": "https://vibeplayer.site/ae1dc7eb8e4e7e6b",
+          "298-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ae1dc7eb8e4e7e6b/master.m3u8"
+        },
+        "Earnvids": {
+          "298-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fhessb4xplrl",
+          "298-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "298-malep-1_vibeplayer_hsub": "https://vibeplayer.site/221dde015560a93d",
+          "298-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/221dde015560a93d/master.m3u8"
+        },
+        "StreamHG": {
+          "298-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7rzaor1i9pd0",
+          "298-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "298-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nwqgqi38ivmg",
+          "298-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "298-malep-1_playmogo_hsub": "https://playmogo.com/e/5hw7au8r1ke1",
+          "298-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
