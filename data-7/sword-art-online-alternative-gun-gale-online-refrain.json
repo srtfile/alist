@@ -1,0 +1,44 @@
+{
+  "anime_name": "Sword Art Online Alternative Gun Gale Online Refrain",
+  "anime_url": "https://hianime.ad/anime/sword-art-online-alternative-gun-gale-online-refrain",
+  "slug": "sword-art-online-alternative-gun-gale-online-refrain",
+  "mal_id": 36475,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:52:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Squad Jam",
+      "episode_url": "https://hianime.ad/watch/sword-art-online-alternative-gun-gale-online-refrain/ep-1",
+      "sub": {
+        "HD-1": {
+          "36475-malep-1_vibeplayer_sub": "https://vibeplayer.site/55bc3b1d5bceee84",
+          "36475-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/55bc3b1d5bceee84/master.m3u8"
+        },
+        "Earnvids": {
+          "36475-malep-1_otakuvid_sub": "https://otakuvid.online/embed/k9gr61bzt291",
+          "36475-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36475-malep-1_vibeplayer_hsub": "https://vibeplayer.site/160e314d1635397d",
+          "36475-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/160e314d1635397d/master.m3u8"
+        },
+        "StreamHG": {
+          "36475-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jg6n3agnh7x0",
+          "36475-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36475-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/55sdq34ufm2g",
+          "36475-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36475-malep-1_playmogo_hsub": "https://playmogo.com/e/ulnivcg5ey8m",
+          "36475-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
