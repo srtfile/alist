@@ -1,0 +1,49 @@
+{
+  "anime_name": "Un Go Chapter Of Inga",
+  "anime_url": "https://hianime.ad/anime/un-go-chapter-of-inga",
+  "slug": "un-go-chapter-of-inga",
+  "mal_id": 10798,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:26:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Murder at the Ball",
+      "episode_url": "https://hianime.ad/watch/un-go-chapter-of-inga/ep-1",
+      "sub": {
+        "HD-1": {
+          "10798-malep-1_vibeplayer_sub": "https://vibeplayer.site/9035211ec6fb7d38",
+          "10798-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9035211ec6fb7d38/master.m3u8"
+        },
+        "Earnvids": {
+          "10798-malep-1_otakuvid_sub": "https://otakuvid.online/embed/15j2ft8fm0uk",
+          "10798-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "10798-malep-1_vibeplayer_dub": "https://vibeplayer.site/ba5950e317e1ed3c",
+          "10798-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba5950e317e1ed3c/master.m3u8"
+        },
+        "Earnvids": {
+          "10798-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z7zebfw4cdes",
+          "10798-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "10798-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0c440e94c0f72600",
+          "10798-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0c440e94c0f72600/master.m3u8"
+        },
+        "Earnvids": {
+          "10798-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cl37j0shnrnv",
+          "10798-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10798-malep-1_playmogo_hsub": "https://playmogo.com/e/k371arr3bs9c",
+          "10798-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
