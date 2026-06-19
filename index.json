@@ -19308,5 +19308,15 @@
     "captured_at": "2026-06-19T03:36:35",
     "file": "data-7/slayers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/slayers.json"
+  },
+  {
+    "slug": "slayers-evolution-r",
+    "mal_id": 5233,
+    "anime_name": "Slayers Evolution R",
+    "anime_url": "https://hianime.ad/anime/slayers-evolution-r",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T03:37:12",
+    "file": "data-7/slayers-evolution-r.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/slayers-evolution-r.json"
   }
 ]
