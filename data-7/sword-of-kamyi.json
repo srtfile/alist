@@ -1,0 +1,40 @@
+{
+  "anime_name": "Sword Of Kamyi",
+  "anime_url": "https://hianime.ad/anime/sword-of-kamyi",
+  "slug": "sword-of-kamyi",
+  "mal_id": 4726,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:58:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Tower of Gilgamesh",
+      "episode_url": "https://hianime.ad/watch/sword-of-kamyi/ep-1",
+      "sub": {
+        "HD-1": {
+          "4726-malep-1_vibeplayer_sub": "https://vibeplayer.site/d4341b99c6256e32",
+          "4726-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d4341b99c6256e32/master.m3u8"
+        },
+        "Earnvids": {
+          "4726-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vxkdfc56zy08",
+          "4726-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4726-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9652d47205771432",
+          "4726-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9652d47205771432/master.m3u8"
+        },
+        "Earnvids": {
+          "4726-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hkhegyraamsi",
+          "4726-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4726-malep-1_playmogo_hsub": "https://playmogo.com/e/vojpu1fkj9qb",
+          "4726-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
