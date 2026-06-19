@@ -19758,5 +19758,15 @@
     "captured_at": "2026-06-19T03:55:59",
     "file": "data-7/sonic-the-hedgehog-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/sonic-the-hedgehog-the-movie.json"
+  },
+  {
+    "slug": "sonic-x",
+    "mal_id": 1816,
+    "anime_name": "Sonic X",
+    "anime_url": "https://hianime.ad/anime/sonic-x",
+    "total_episodes": 78,
+    "captured_at": "2026-06-19T03:56:18",
+    "file": "data-7/sonic-x.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/sonic-x.json"
   }
 ]
