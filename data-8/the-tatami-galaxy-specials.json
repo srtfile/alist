@@ -1,0 +1,98 @@
+{
+  "anime_name": "The Tatami Galaxy Specials",
+  "anime_url": "https://hianime.ad/anime/the-tatami-galaxy-specials",
+  "slug": "the-tatami-galaxy-specials",
+  "mal_id": 7785,
+  "total_episodes": 3,
+  "captured_at": "2026-06-19T19:07:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tennis Circle \"Cupid\"",
+      "episode_url": "https://hianime.ad/watch/the-tatami-galaxy-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "7785-malep-1_vibeplayer_sub": "https://vibeplayer.site/0b597da1805f50ab",
+          "7785-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b597da1805f50ab/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pgi80w8mj3iu",
+          "7785-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7785-malep-1_vibeplayer_hsub": "https://vibeplayer.site/54b1bba26f880463",
+          "7785-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54b1bba26f880463/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q7h9w84merm4",
+          "7785-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7785-malep-1_playmogo_hsub": "https://playmogo.com/e/du4ccwc34vto",
+          "7785-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Film Circle \"Misogi\"",
+      "episode_url": "https://hianime.ad/watch/the-tatami-galaxy-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "7785-malep-2_vibeplayer_sub": "https://vibeplayer.site/b876cbbe6e74d717",
+          "7785-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b876cbbe6e74d717/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ojf3tv0jvu01",
+          "7785-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7785-malep-2_vibeplayer_hsub": "https://vibeplayer.site/831ad8a6b899a739",
+          "7785-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/831ad8a6b899a739/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/a3b6kwxmufxs",
+          "7785-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7785-malep-2_playmogo_hsub": "https://playmogo.com/e/39k0xbzyhace",
+          "7785-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Cycling Association \"Soleil\"",
+      "episode_url": "https://hianime.ad/watch/the-tatami-galaxy-specials/ep-3",
+      "sub": {
+        "HD-1": {
+          "7785-malep-3_vibeplayer_sub": "https://vibeplayer.site/f5401cf62dcb9742",
+          "7785-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f5401cf62dcb9742/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-3_otakuvid_sub": "https://otakuvid.online/embed/9jwm869v6b2c",
+          "7785-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7785-malep-3_vibeplayer_hsub": "https://vibeplayer.site/3bb06177cfa04f07",
+          "7785-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3bb06177cfa04f07/master.m3u8"
+        },
+        "Earnvids": {
+          "7785-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/89vymoodcwrj",
+          "7785-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7785-malep-3_playmogo_hsub": "https://playmogo.com/e/ouemo9dqggu4",
+          "7785-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
