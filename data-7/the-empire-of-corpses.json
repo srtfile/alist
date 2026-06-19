@@ -1,0 +1,65 @@
+{
+  "anime_name": "The Empire Of Corpses",
+  "anime_url": "https://hianime.ad/anime/the-empire-of-corpses",
+  "slug": "the-empire-of-corpses",
+  "mal_id": 60154,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:16:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Revenge",
+      "episode_url": "https://hianime.ad/watch/the-empire-of-corpses/ep-1",
+      "sub": {
+        "HD-1": {
+          "60154-malep-1_vibeplayer_sub": "https://vibeplayer.site/5ae3f67ca28a8f4d",
+          "60154-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5ae3f67ca28a8f4d/master.m3u8"
+        },
+        "StreamHG": {
+          "60154-malep-1_otakuhg_sub": "https://otakuhg.site/e/8r8nidq7yjm3",
+          "60154-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60154-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dmzx6oqt4hcl",
+          "60154-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "60154-malep-1_vibeplayer_dub": "https://vibeplayer.site/44ae07fda7076a43",
+          "60154-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/44ae07fda7076a43/master.m3u8"
+        },
+        "StreamHG": {
+          "60154-malep-1_otakuhg_dub": "https://otakuhg.site/e/0tihf6i505nk",
+          "60154-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "60154-malep-1_otakuvid_dub": "https://otakuvid.online/embed/amh0qzh7mwyf",
+          "60154-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "60154-malep-1_playmogo_dub": "https://playmogo.com/e/0zef996zykrm",
+          "60154-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "60154-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6d2eee26f1f9fc47",
+          "60154-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6d2eee26f1f9fc47/master.m3u8"
+        },
+        "StreamHG": {
+          "60154-malep-1_otakuhg_hsub": "https://otakuhg.site/e/94eqao3iqujy",
+          "60154-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60154-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2e9pzu3yln5c",
+          "60154-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60154-malep-1_playmogo_hsub": "https://playmogo.com/e/vn3h4nblzc7d",
+          "60154-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
