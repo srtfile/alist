@@ -24408,5 +24408,15 @@
     "captured_at": "2026-06-19T13:04:06",
     "file": "data-7/teogonia.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/teogonia.json"
+  },
+  {
+    "slug": "teppen",
+    "mal_id": 50760,
+    "anime_name": "Teppen",
+    "anime_url": "https://hianime.ad/anime/teppen",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T13:04:28",
+    "file": "data-7/teppen.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/teppen.json"
   }
 ]
