@@ -1,0 +1,24 @@
+{
+  "anime_name": "Transformers Wild King W",
+  "anime_url": "https://hianime.ad/anime/transformers-wild-king-w",
+  "slug": "transformers-wild-king-w",
+  "mal_id": 1675,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:25:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Base",
+      "episode_url": "https://hianime.ad/watch/transformers-wild-king-w/ep-3",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "preview": {
+        "PRE": {
+          "1675-malep-3_vibeplayer_preview": "https://vibeplayer.site/calendar/index.php",
+          "1675-malep-3_vibeplayer_preview_m3u8": "https://vibeplayer.site/public/stream/calendar/index.php/master.m3u8"
+        }
+      }
+    }
+  ]
+}
