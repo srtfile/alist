@@ -1,0 +1,40 @@
+{
+  "anime_name": "Soushin Shoujo Matoi Kabushiki Gaisha Knight Busters",
+  "anime_url": "https://hianime.ad/anime/soushin-shoujo-matoi-kabushiki-gaisha-knight-busters",
+  "slug": "soushin-shoujo-matoi-kabushiki-gaisha-knight-busters",
+  "mal_id": 33668,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:51:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Possessed!",
+      "episode_url": "https://hianime.ad/watch/soushin-shoujo-matoi-kabushiki-gaisha-knight-busters/ep-1",
+      "sub": {
+        "HD-1": {
+          "33668-malep-1_vibeplayer_sub": "https://vibeplayer.site/93d5f63056698d92",
+          "33668-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/93d5f63056698d92/master.m3u8"
+        },
+        "Earnvids": {
+          "33668-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ibxq4ugtazcw",
+          "33668-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33668-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f64fd91010fc2a2a",
+          "33668-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f64fd91010fc2a2a/master.m3u8"
+        },
+        "Earnvids": {
+          "33668-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o6o80sd1mpg1",
+          "33668-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33668-malep-1_playmogo_hsub": "https://playmogo.com/e/0woafaad80pq",
+          "33668-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
