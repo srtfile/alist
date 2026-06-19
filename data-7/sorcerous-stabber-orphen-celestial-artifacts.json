@@ -1,0 +1,57 @@
+{
+  "anime_name": "Sorcerous Stabber Orphen Celestial Artifacts",
+  "anime_url": "https://hianime.ad/anime/sorcerous-stabber-orphen-celestial-artifacts",
+  "slug": "sorcerous-stabber-orphen-celestial-artifacts",
+  "mal_id": 1017,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T04:04:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Sword of Baltanders",
+      "episode_url": "https://hianime.ad/watch/sorcerous-stabber-orphen-celestial-artifacts/ep-1",
+      "sub": {
+        "HD-1": {
+          "1017-malep-1_vibeplayer_sub": "https://vibeplayer.site/de21159191f10d06",
+          "1017-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de21159191f10d06/master.m3u8"
+        },
+        "Earnvids": {
+          "1017-malep-1_otakuvid_sub": "https://otakuvid.online/embed/li317hwz0sg0",
+          "1017-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1017-malep-1_vibeplayer_dub": "https://vibeplayer.site/a51b7975a90494a1",
+          "1017-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a51b7975a90494a1/master.m3u8"
+        },
+        "StreamHG": {
+          "1017-malep-1_otakuhg_dub": "https://otakuhg.site/e/wh8u1zp5qgib",
+          "1017-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1017-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jfg6znnea3bz",
+          "1017-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1017-malep-1_vibeplayer_hsub": "https://vibeplayer.site/50347f3f203edd3f",
+          "1017-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/50347f3f203edd3f/master.m3u8"
+        },
+        "StreamHG": {
+          "1017-malep-1_otakuhg_hsub": "https://otakuhg.site/e/c5h45ypfmxss",
+          "1017-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1017-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ymsc50vmid2h",
+          "1017-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1017-malep-1_playmogo_hsub": "https://playmogo.com/e/s0yk8jh72kar",
+          "1017-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
