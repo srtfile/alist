@@ -6358,5 +6358,15 @@
     "captured_at": "2026-06-19T23:07:59",
     "file": "data-8/vampire-knight-guilty.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-knight-guilty.json"
+  },
+  {
+    "slug": "vampire-princess-miyu",
+    "mal_id": 690,
+    "anime_name": "Vampire Princess Miyu",
+    "anime_url": "https://hianime.ad/anime/vampire-princess-miyu",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T23:08:31",
+    "file": "data-8/vampire-princess-miyu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-princess-miyu.json"
   }
 ]
