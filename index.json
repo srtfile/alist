@@ -478,5 +478,15 @@
     "captured_at": "2026-06-19T16:30:38",
     "file": "data-8/the-mystic-archives-of-dantalian.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-mystic-archives-of-dantalian.json"
+  },
+  {
+    "slug": "the-new-gate",
+    "mal_id": 57100,
+    "anime_name": "The New Gate",
+    "anime_url": "https://hianime.ad/anime/the-new-gate",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T16:30:59",
+    "file": "data-8/the-new-gate.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-new-gate.json"
   }
 ]
