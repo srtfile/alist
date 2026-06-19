@@ -1,0 +1,73 @@
+{
+  "anime_name": "Tokyo Marble Chocolate",
+  "anime_url": "https://hianime.ad/anime/tokyo-marble-chocolate",
+  "slug": "tokyo-marble-chocolate",
+  "mal_id": 1703,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T20:41:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Track 01",
+      "episode_url": "https://hianime.ad/watch/tokyo-marble-chocolate/ep-1",
+      "sub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_sub": "https://vibeplayer.site/b936109182e5d24a",
+          "1703-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b936109182e5d24a/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6be1hx0w2jnt",
+          "1703-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dafcde056dd63e89",
+          "1703-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dafcde056dd63e89/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pvo9yvcz71x1",
+          "1703-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-1_playmogo_hsub": "https://playmogo.com/e/3zj7gg55b6x2",
+          "1703-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Track 02",
+      "episode_url": "https://hianime.ad/watch/tokyo-marble-chocolate/ep-2",
+      "sub": {
+        "HD-1": {
+          "1703-malep-2_vibeplayer_sub": "https://vibeplayer.site/4f9ecb1c5c566282",
+          "1703-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f9ecb1c5c566282/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-2_otakuvid_sub": "https://otakuvid.online/embed/vrjvepzszvra",
+          "1703-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-2_playmogo_sub": "https://playmogo.com/e/zoqvuse1jiq8",
+          "1703-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1703-malep-2_vibeplayer_hsub": "https://vibeplayer.site/d3205e7ecaa4499c",
+          "1703-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3205e7ecaa4499c/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/h23ucdl1ydgy",
+          "1703-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-2_playmogo_hsub": "https://playmogo.com/e/ywsl4rrbzvf9",
+          "1703-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
