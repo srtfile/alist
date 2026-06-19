@@ -18828,5 +18828,15 @@
     "captured_at": "2026-06-19T03:06:25",
     "file": "data-7/shuffle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shuffle.json"
+  },
+  {
+    "slug": "shugo-chara",
+    "mal_id": 2923,
+    "anime_name": "Shugo Chara",
+    "anime_url": "https://hianime.ad/anime/shugo-chara",
+    "total_episodes": 51,
+    "captured_at": "2026-06-19T03:07:05",
+    "file": "data-7/shugo-chara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shugo-chara.json"
   }
 ]
