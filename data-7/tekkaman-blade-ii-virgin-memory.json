@@ -1,0 +1,32 @@
+{
+  "anime_name": "Tekkaman Blade Ii Virgin Memory",
+  "anime_url": "https://hianime.ad/anime/tekkaman-blade-ii-virgin-memory",
+  "slug": "tekkaman-blade-ii-virgin-memory",
+  "mal_id": 1459,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:46:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Friend or Foe (The Sky-Soaring Super Man)",
+      "episode_url": "https://hianime.ad/watch/tekkaman-blade-ii-virgin-memory/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "1459-malep-1_vibeplayer_raw": "https://vibeplayer.site/cf6fb5e364787f76",
+          "1459-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/cf6fb5e364787f76/master.m3u8"
+        },
+        "StreamHG": {
+          "1459-malep-1_otakuhg_raw": "https://otakuhg.site/e/qzp0z4yvga3r",
+          "1459-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "1459-malep-1_otakuvid_raw": "https://otakuvid.online/embed/haaldwlhzol1",
+          "1459-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
