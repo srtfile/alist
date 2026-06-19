@@ -21198,5 +21198,15 @@
     "captured_at": "2026-06-19T10:23:29",
     "file": "data-7/stardust-telepath.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/stardust-telepath.json"
+  },
+  {
+    "slug": "starmyu",
+    "mal_id": 30375,
+    "anime_name": "Starmyu",
+    "anime_url": "https://hianime.ad/anime/starmyu",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T10:23:50",
+    "file": "data-7/starmyu.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/starmyu.json"
   }
 ]
