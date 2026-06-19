@@ -1,0 +1,61 @@
+{
+  "anime_name": "Sk8 The Infinity 19482",
+  "anime_url": "https://hianime.ad/anime/sk8-the-infinity-19482",
+  "slug": "sk8-the-infinity-19482",
+  "mal_id": 42923,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:22:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Snowfall on a Hot Night",
+      "episode_url": "https://hianime.ad/watch/sk8-the-infinity-19482/ep-1",
+      "sub": {
+        "HD-1": {
+          "42923-malep-1_vibeplayer_sub": "https://vibeplayer.site/7fb392b8e878b1ab",
+          "42923-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7fb392b8e878b1ab/master.m3u8"
+        },
+        "StreamHG": {
+          "42923-malep-1_otakuhg_sub": "https://otakuhg.site/e/lrj1534hvufs",
+          "42923-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42923-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mnb9jrdk6ugt",
+          "42923-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42923-malep-1_vibeplayer_dub": "https://vibeplayer.site/3b6173d52093b991",
+          "42923-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b6173d52093b991/master.m3u8"
+        },
+        "StreamHG": {
+          "42923-malep-1_otakuhg_dub": "https://otakuhg.site/e/lo1lraa2cnya",
+          "42923-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "42923-malep-1_otakuvid_dub": "https://otakuvid.online/embed/sjg97g7dr0ab",
+          "42923-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42923-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f7fd76c37705aef1",
+          "42923-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f7fd76c37705aef1/master.m3u8"
+        },
+        "StreamHG": {
+          "42923-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x4abbmnt0hlo",
+          "42923-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42923-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fufgcnycyri5",
+          "42923-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42923-malep-1_playmogo_hsub": "https://playmogo.com/e/koihy6wv8rh8",
+          "42923-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
