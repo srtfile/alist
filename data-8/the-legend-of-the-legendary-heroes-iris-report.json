@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Legend Of The Legendary Heroes Iris Report",
+  "anime_url": "https://hianime.ad/anime/the-legend-of-the-legendary-heroes-iris-report",
+  "slug": "the-legend-of-the-legendary-heroes-iris-report",
+  "mal_id": 8086,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:47:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Napping Kingdom's Ambitions",
+      "episode_url": "https://hianime.ad/watch/the-legend-of-the-legendary-heroes-iris-report/ep-1",
+      "sub": {
+        "HD-1": {
+          "8086-malep-1_vibeplayer_sub": "https://vibeplayer.site/d634d0b88998ae00",
+          "8086-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d634d0b88998ae00/master.m3u8"
+        },
+        "Earnvids": {
+          "8086-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z5lk15bsdze8",
+          "8086-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8086-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8389d075b43641e7",
+          "8086-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8389d075b43641e7/master.m3u8"
+        },
+        "StreamHG": {
+          "8086-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ko1xsg1gkbtz",
+          "8086-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8086-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qzkvzfs0qnlc",
+          "8086-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8086-malep-1_playmogo_hsub": "https://playmogo.com/e/7bmcfjnppe6e",
+          "8086-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
