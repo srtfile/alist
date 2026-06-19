@@ -1,0 +1,69 @@
+{
+  "anime_name": "Tanjou Debut",
+  "anime_url": "https://hianime.ad/anime/tanjou-debut",
+  "slug": "tanjou-debut",
+  "mal_id": 22999,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T12:30:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/tanjou-debut/ep-1",
+      "sub": {
+        "HD-1": {
+          "22999-malep-1_vibeplayer_sub": "https://vibeplayer.site/a336efc9944841fa",
+          "22999-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a336efc9944841fa/master.m3u8"
+        },
+        "Earnvids": {
+          "22999-malep-1_otakuvid_sub": "https://otakuvid.online/embed/l45kxyjcj3ky",
+          "22999-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22999-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8bcdb9f3f069f438",
+          "22999-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8bcdb9f3f069f438/master.m3u8"
+        },
+        "Earnvids": {
+          "22999-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dzzn9c4gv1k2",
+          "22999-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22999-malep-1_playmogo_hsub": "https://playmogo.com/e/ja8jnzoqqw78",
+          "22999-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/tanjou-debut/ep-2",
+      "sub": {
+        "HD-1": {
+          "22999-malep-2_vibeplayer_sub": "https://vibeplayer.site/8c5fcea7f4095989",
+          "22999-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8c5fcea7f4095989/master.m3u8"
+        },
+        "Earnvids": {
+          "22999-malep-2_otakuvid_sub": "https://otakuvid.online/embed/g8cgg30vh6bk",
+          "22999-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22999-malep-2_vibeplayer_hsub": "https://vibeplayer.site/523535640db46c66",
+          "22999-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/523535640db46c66/master.m3u8"
+        },
+        "Earnvids": {
+          "22999-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/68d6m4jizey7",
+          "22999-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22999-malep-2_playmogo_hsub": "https://playmogo.com/e/oie7y68vzi4f",
+          "22999-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
