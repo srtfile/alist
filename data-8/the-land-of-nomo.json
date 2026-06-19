@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Land Of Nomo",
+  "anime_url": "https://hianime.ad/anime/the-land-of-nomo",
+  "slug": "the-land-of-nomo",
+  "mal_id": 35557,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:33:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Phosphophyllite",
+      "episode_url": "https://hianime.ad/watch/the-land-of-nomo/ep-1",
+      "sub": {
+        "HD-1": {
+          "35557-malep-1_vibeplayer_sub": "https://vibeplayer.site/00ad7214b16cd911",
+          "35557-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/00ad7214b16cd911/master.m3u8"
+        },
+        "Earnvids": {
+          "35557-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zw6oquai49g0",
+          "35557-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35557-malep-1_playmogo_sub": "https://playmogo.com/e/aa5ckn6koep4",
+          "35557-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35557-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8e215f9152790fcc",
+          "35557-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e215f9152790fcc/master.m3u8"
+        },
+        "StreamHG": {
+          "35557-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0yw5qk2ptcp7",
+          "35557-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35557-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sf829m7scfmn",
+          "35557-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35557-malep-1_playmogo_hsub": "https://playmogo.com/e/hhkzu4k0uhee",
+          "35557-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
