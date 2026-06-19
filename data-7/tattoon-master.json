@@ -1,0 +1,95 @@
+{
+  "anime_name": "Tattoon Master",
+  "anime_url": "https://hianime.ad/anime/tattoon-master",
+  "slug": "tattoon-master",
+  "mal_id": 36037,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T12:35:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Change the World",
+      "episode_url": "https://hianime.ad/watch/tattoon-master/ep-1",
+      "sub": {
+        "HD-1": {
+          "36037-malep-1_vibeplayer_sub": "https://vibeplayer.site/68f9a41a247c056e",
+          "36037-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/68f9a41a247c056e/master.m3u8"
+        },
+        "Earnvids": {
+          "36037-malep-1_otakuvid_sub": "https://otakuvid.online/embed/44qcg72r1vd7",
+          "36037-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "36037-malep-1_playmogo_sub": "https://playmogo.com/e/g7q8w3nayama",
+          "36037-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "36037-malep-1_vibeplayer_dub": "https://vibeplayer.site/495961561580f26d",
+          "36037-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/495961561580f26d/master.m3u8"
+        },
+        "Earnvids": {
+          "36037-malep-1_otakuvid_dub": "https://otakuvid.online/embed/cp1dqgeqogoo",
+          "36037-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "36037-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d2d538f6291f4ed6",
+          "36037-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2d538f6291f4ed6/master.m3u8"
+        },
+        "StreamHG": {
+          "36037-malep-1_otakuhg_hsub": "https://otakuhg.site/e/oyf5frpmzjcu",
+          "36037-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36037-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a47m965xonth",
+          "36037-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36037-malep-1_playmogo_hsub": "https://playmogo.com/e/vd3mofifxk7g",
+          "36037-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "PBS",
+      "episode_url": "https://hianime.ad/watch/tattoon-master/ep-2",
+      "sub": {
+        "HD-1": {
+          "36037-malep-2_vibeplayer_sub": "https://vibeplayer.site/244648e56ff3dc46",
+          "36037-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/244648e56ff3dc46/master.m3u8"
+        },
+        "Earnvids": {
+          "36037-malep-2_otakuvid_sub": "https://otakuvid.online/embed/bu07zaxt2nm4",
+          "36037-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "36037-malep-2_vibeplayer_dub": "https://vibeplayer.site/d2ce7f14c501c1be",
+          "36037-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d2ce7f14c501c1be/master.m3u8"
+        },
+        "Earnvids": {
+          "36037-malep-2_otakuvid_dub": "https://otakuvid.online/embed/qk38a411xyye",
+          "36037-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "36037-malep-2_vibeplayer_hsub": "https://vibeplayer.site/85740365b81b2208",
+          "36037-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85740365b81b2208/master.m3u8"
+        },
+        "Earnvids": {
+          "36037-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/gq6q56o1jkcs",
+          "36037-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36037-malep-2_playmogo_hsub": "https://playmogo.com/e/lpzfvfg0ymzr",
+          "36037-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
