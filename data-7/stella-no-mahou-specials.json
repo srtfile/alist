@@ -1,0 +1,69 @@
+{
+  "anime_name": "Stella No Mahou Specials",
+  "anime_url": "https://hianime.ad/anime/stella-no-mahou-specials",
+  "slug": "stella-no-mahou-specials",
+  "mal_id": 32555,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T10:47:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Starting Line",
+      "episode_url": "https://hianime.ad/watch/stella-no-mahou-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "32555-malep-1_vibeplayer_sub": "https://vibeplayer.site/07bdbf3fb3bd2754",
+          "32555-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/07bdbf3fb3bd2754/master.m3u8"
+        },
+        "Earnvids": {
+          "32555-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uzeo70li1vx5",
+          "32555-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32555-malep-1_vibeplayer_hsub": "https://vibeplayer.site/65659896c6b675b4",
+          "32555-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/65659896c6b675b4/master.m3u8"
+        },
+        "Earnvids": {
+          "32555-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jsm11fgx8fpv",
+          "32555-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32555-malep-1_playmogo_hsub": "https://playmogo.com/e/hf64hwrftr7n",
+          "32555-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Fun Production",
+      "episode_url": "https://hianime.ad/watch/stella-no-mahou-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "32555-malep-2_vibeplayer_sub": "https://vibeplayer.site/aededc23b8b49033",
+          "32555-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aededc23b8b49033/master.m3u8"
+        },
+        "Earnvids": {
+          "32555-malep-2_otakuvid_sub": "https://otakuvid.online/embed/2v77zw8kcr94",
+          "32555-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "32555-malep-2_vibeplayer_hsub": "https://vibeplayer.site/dc2eed50a2ab1d40",
+          "32555-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc2eed50a2ab1d40/master.m3u8"
+        },
+        "Earnvids": {
+          "32555-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/tkhfsntxrif7",
+          "32555-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "32555-malep-2_playmogo_hsub": "https://playmogo.com/e/vckk6nh43gqe",
+          "32555-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
