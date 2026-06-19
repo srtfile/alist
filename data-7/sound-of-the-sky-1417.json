@@ -1,0 +1,40 @@
+{
+  "anime_name": "Sound Of The Sky 1417",
+  "anime_url": "https://hianime.ad/anime/sound-of-the-sky-1417",
+  "slug": "sound-of-the-sky-1417",
+  "mal_id": 6802,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:46:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Resounding Sound: The City at Dawn",
+      "episode_url": "https://hianime.ad/watch/sound-of-the-sky-1417/ep-1",
+      "sub": {
+        "HD-1": {
+          "6802-malep-1_vibeplayer_sub": "https://vibeplayer.site/021c182cb03b3adf",
+          "6802-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/021c182cb03b3adf/master.m3u8"
+        },
+        "Earnvids": {
+          "6802-malep-1_otakuvid_sub": "https://otakuvid.online/embed/imdhfzyeaog8",
+          "6802-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6802-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d2ad3eacc22b9ac4",
+          "6802-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2ad3eacc22b9ac4/master.m3u8"
+        },
+        "Earnvids": {
+          "6802-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/schczou2pkqm",
+          "6802-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6802-malep-1_playmogo_hsub": "https://playmogo.com/e/8vqt3gvu2461",
+          "6802-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
