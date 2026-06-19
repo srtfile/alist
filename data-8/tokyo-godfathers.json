@@ -1,0 +1,61 @@
+{
+  "anime_name": "Tokyo Godfathers",
+  "anime_url": "https://hianime.ad/anime/tokyo-godfathers",
+  "slug": "tokyo-godfathers",
+  "mal_id": 1703,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:39:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Track 01",
+      "episode_url": "https://hianime.ad/watch/tokyo-godfathers/ep-1",
+      "sub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_sub": "https://vibeplayer.site/7b3808a4edb93800",
+          "1703-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7b3808a4edb93800/master.m3u8"
+        },
+        "StreamHG": {
+          "1703-malep-1_otakuhg_sub": "https://otakuhg.site/e/ehyv0mxn1sky",
+          "1703-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c6f40f9ij5k4",
+          "1703-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_dub": "https://vibeplayer.site/74f62aa1f25b0288",
+          "1703-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/74f62aa1f25b0288/master.m3u8"
+        },
+        "StreamHG": {
+          "1703-malep-1_otakuhg_dub": "https://otakuhg.site/e/cbcayals3670",
+          "1703-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ide4q4uh175t",
+          "1703-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cc65d412e8c9696a",
+          "1703-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cc65d412e8c9696a/master.m3u8"
+        },
+        "StreamHG": {
+          "1703-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zskr2dwtkuvu",
+          "1703-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0nw3rze8lq0v",
+          "1703-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-1_playmogo_hsub": "https://playmogo.com/e/9lnie1lgr1zu",
+          "1703-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
