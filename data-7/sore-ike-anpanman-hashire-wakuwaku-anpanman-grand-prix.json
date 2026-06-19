@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sore Ike Anpanman Hashire Wakuwaku Anpanman Grand Prix",
+  "anime_url": "https://hianime.ad/anime/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+  "slug": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+  "mal_id": 1960,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T04:04:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix/ep-1",
+      "sub": {
+        "HD-1": {
+          "1960-malep-1_vibeplayer_sub": "https://vibeplayer.site/2041a51a77a75a64",
+          "1960-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2041a51a77a75a64/master.m3u8"
+        },
+        "StreamHG": {
+          "1960-malep-1_otakuhg_sub": "https://otakuhg.site/e/2eyevdsy5tqt",
+          "1960-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1960-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0695dv3khlby",
+          "1960-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1960-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f8ba99b41b035d38",
+          "1960-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8ba99b41b035d38/master.m3u8"
+        },
+        "StreamHG": {
+          "1960-malep-1_otakuhg_hsub": "https://otakuhg.site/e/baan7asjski8",
+          "1960-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1960-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vsy1qlcp22tt",
+          "1960-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1960-malep-1_playmogo_hsub": "https://playmogo.com/e/vl98t6rvm1fr",
+          "1960-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
