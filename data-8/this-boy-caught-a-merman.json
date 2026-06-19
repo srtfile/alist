@@ -1,0 +1,57 @@
+{
+  "anime_name": "This Boy Caught A Merman",
+  "anime_url": "https://hianime.ad/anime/this-boy-caught-a-merman",
+  "slug": "this-boy-caught-a-merman",
+  "mal_id": 31815,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:49:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Untitled",
+      "episode_url": "https://hianime.ad/watch/this-boy-caught-a-merman/ep-1",
+      "sub": {
+        "HD-1": {
+          "31815-malep-1_vibeplayer_sub": "https://vibeplayer.site/23dafc15fe39b795",
+          "31815-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23dafc15fe39b795/master.m3u8"
+        },
+        "StreamHG": {
+          "31815-malep-1_otakuhg_sub": "https://otakuhg.site/e/l73nwjblt6vm",
+          "31815-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31815-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ki2kuasngbok",
+          "31815-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "31815-malep-1_vibeplayer_dub": "https://vibeplayer.site/d4bd53e234e9cc30",
+          "31815-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d4bd53e234e9cc30/master.m3u8"
+        },
+        "Earnvids": {
+          "31815-malep-1_otakuvid_dub": "https://otakuvid.online/embed/uz4g7a285viu",
+          "31815-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "31815-malep-1_playmogo_dub": "https://playmogo.com/e/n70nbe8xb9af",
+          "31815-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "31815-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a230686d4470698e",
+          "31815-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a230686d4470698e/master.m3u8"
+        },
+        "Earnvids": {
+          "31815-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mw8dymmy28mx",
+          "31815-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31815-malep-1_playmogo_hsub": "https://playmogo.com/e/l0n28yby5fa6",
+          "31815-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
