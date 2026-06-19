@@ -1,0 +1,48 @@
+{
+  "anime_name": "Uta Noprince Sama Maji Love Kingdom Movie",
+  "anime_url": "https://hianime.ad/anime/uta-noprince-sama-maji-love-kingdom-movie",
+  "slug": "uta-noprince-sama-maji-love-kingdom-movie",
+  "mal_id": 10321,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:53:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seven-Colored Compass",
+      "episode_url": "https://hianime.ad/watch/uta-noprince-sama-maji-love-kingdom-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_sub": "https://vibeplayer.site/2171196b55789246",
+          "10321-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2171196b55789246/master.m3u8"
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d6rmo5xleq1b",
+          "10321-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_sub": "https://playmogo.com/e/b2l512glq3lx",
+          "10321-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_hsub": "https://vibeplayer.site/77ae49d94d811791",
+          "10321-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/77ae49d94d811791/master.m3u8"
+        },
+        "StreamHG": {
+          "10321-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q0grt6p6bd0b",
+          "10321-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/sgt060zjivg1",
+          "10321-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_hsub": "https://playmogo.com/e/bef18do7tf52",
+          "10321-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
