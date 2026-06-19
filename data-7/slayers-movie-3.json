@@ -1,0 +1,53 @@
+{
+  "anime_name": "Slayers Movie 3",
+  "anime_url": "https://hianime.ad/anime/slayers-movie-3",
+  "slug": "slayers-movie-3",
+  "mal_id": 49926,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:38:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Flame Hashira Kyojuro Rengoku",
+      "episode_url": "https://hianime.ad/watch/slayers-movie-3/ep-1",
+      "sub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_sub": "https://vibeplayer.site/efa93ddd139af58b",
+          "49926-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/efa93ddd139af58b/master.m3u8"
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h8wsfczbhbun",
+          "49926-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "49926-malep-1_playmogo_sub": "https://playmogo.com/e/zh2cob93mppl",
+          "49926-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_dub": "https://vibeplayer.site/279d4344c71f4fbd",
+          "49926-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/279d4344c71f4fbd/master.m3u8"
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lxg5qha6oujk",
+          "49926-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "49926-malep-1_vibeplayer_hsub": "https://vibeplayer.site/72b4452571253ffb",
+          "49926-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/72b4452571253ffb/master.m3u8"
+        },
+        "Earnvids": {
+          "49926-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/us29twbrc1ku",
+          "49926-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "49926-malep-1_playmogo_hsub": "https://playmogo.com/e/xeb1agcs7cck",
+          "49926-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
