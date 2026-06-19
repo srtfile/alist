@@ -1,0 +1,49 @@
+{
+  "anime_name": "Soukyuu No Fafner Dead Aggressor Heaven And Earth",
+  "anime_url": "https://hianime.ad/anime/soukyuu-no-fafner-dead-aggressor-heaven-and-earth",
+  "slug": "soukyuu-no-fafner-dead-aggressor-heaven-and-earth",
+  "mal_id": 75,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T04:07:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Beginning (Paradise)",
+      "episode_url": "https://hianime.ad/watch/soukyuu-no-fafner-dead-aggressor-heaven-and-earth/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "75-malep-1_vibeplayer_dub": "https://vibeplayer.site/f22f52836a1ea178",
+          "75-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f22f52836a1ea178/master.m3u8"
+        },
+        "StreamHG": {
+          "75-malep-1_otakuhg_dub": "https://otakuhg.site/e/p5j3k9so8e3y",
+          "75-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "75-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hfic40q6hqdv",
+          "75-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "75-malep-1_playmogo_dub": "https://playmogo.com/e/y2pu101ondxh",
+          "75-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "75-malep-1_vibeplayer_raw": "https://vibeplayer.site/0e010c8ecac4a28f",
+          "75-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/0e010c8ecac4a28f/master.m3u8"
+        },
+        "Earnvids": {
+          "75-malep-1_otakuvid_raw": "https://otakuvid.online/embed/und1zogr5mzq",
+          "75-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "75-malep-1_playmogo_raw": "https://playmogo.com/e/7tpbprwg3hi2",
+          "75-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
