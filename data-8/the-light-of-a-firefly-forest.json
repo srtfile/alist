@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Light Of A Firefly Forest",
+  "anime_url": "https://hianime.ad/anime/the-light-of-a-firefly-forest",
+  "slug": "the-light-of-a-firefly-forest",
+  "mal_id": 247,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:51:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It Is Thee, Priestess of the Dragon God",
+      "episode_url": "https://hianime.ad/watch/the-light-of-a-firefly-forest/ep-1",
+      "sub": {
+        "HD-1": {
+          "247-malep-1_vibeplayer_sub": "https://vibeplayer.site/facc5580a7758331",
+          "247-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/facc5580a7758331/master.m3u8"
+        },
+        "StreamHG": {
+          "247-malep-1_otakuhg_sub": "https://otakuhg.site/e/lhk6x49lb9pi",
+          "247-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "247-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7464qd2vdy14",
+          "247-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "247-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b80a4e7e184f6528",
+          "247-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b80a4e7e184f6528/master.m3u8"
+        },
+        "StreamHG": {
+          "247-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kwbjh1lt8v9p",
+          "247-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "247-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lmterlqv67oc",
+          "247-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "247-malep-1_playmogo_hsub": "https://playmogo.com/e/7yh14rzpdui0",
+          "247-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
