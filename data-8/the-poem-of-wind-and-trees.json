@@ -1,0 +1,52 @@
+{
+  "anime_name": "The Poem Of Wind And Trees",
+  "anime_url": "https://hianime.ad/anime/the-poem-of-wind-and-trees",
+  "slug": "the-poem-of-wind-and-trees",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T16:43:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/the-poem-of-wind-and-trees/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/b8fbfdf19ddb354f",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b8fbfdf19ddb354f/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/sgh79sfvhdjh",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/w3p9xbe0ddhj",
+          "malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_sub": "https://playmogo.com/e/fy06lq9db9a7",
+          "malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/f7494ec2f8b68dca",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f7494ec2f8b68dca/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_hsub": "https://otakuhg.site/e/54ekfwhov0l3",
+          "malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/77a2jce5o665",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/wdmf1nnfgybx",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
