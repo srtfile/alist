@@ -1,0 +1,65 @@
+{
+  "anime_name": "The Seven Deadly Sins The Movie 1 Prisoners Of The Sky",
+  "anime_url": "https://hianime.ad/anime/the-seven-deadly-sins-the-movie-1-prisoners-of-the-sky",
+  "slug": "the-seven-deadly-sins-the-movie-1-prisoners-of-the-sky",
+  "mal_id": 23755,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:31:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Seven Deadly Sins",
+      "episode_url": "https://hianime.ad/watch/the-seven-deadly-sins-the-movie-1-prisoners-of-the-sky/ep-1",
+      "sub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_sub": "https://vibeplayer.site/908b2f561bd07f3d",
+          "23755-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/908b2f561bd07f3d/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_sub": "https://otakuhg.site/e/hpmfcunoiepb",
+          "23755-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4ssf3ii780vb",
+          "23755-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_dub": "https://vibeplayer.site/560aed38a2fc6327",
+          "23755-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/560aed38a2fc6327/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_dub": "https://otakuhg.site/e/hmn9d0vz1ha0",
+          "23755-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qnkz8rug3p4m",
+          "23755-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "23755-malep-1_playmogo_dub": "https://playmogo.com/e/c99204g3tawv",
+          "23755-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_hsub": "https://vibeplayer.site/577289e21594fff2",
+          "23755-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/577289e21594fff2/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ylv0ofgce8v2",
+          "23755-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j4tk9jscwrm4",
+          "23755-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23755-malep-1_playmogo_hsub": "https://playmogo.com/e/zcnxq1w9inoi",
+          "23755-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
