@@ -6838,5 +6838,15 @@
     "captured_at": "2026-06-19T23:30:32",
     "file": "data-8/w-wish-omake.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/w-wish-omake.json"
+  },
+  {
+    "slug": "wz-special",
+    "mal_id": 37509,
+    "anime_name": "Wz Special",
+    "anime_url": "https://hianime.ad/anime/wz-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T23:30:57",
+    "file": "data-8/wz-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wz-special.json"
   }
 ]
