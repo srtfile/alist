@@ -1,0 +1,52 @@
+{
+  "anime_name": "The Irregular At Magic High School Reminiscence Arc",
+  "anime_url": "https://hianime.ad/anime/the-irregular-at-magic-high-school-reminiscence-arc",
+  "slug": "the-irregular-at-magic-high-school-reminiscence-arc",
+  "mal_id": 20785,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:20:11",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Enrollment Part I",
+      "episode_url": "https://hianime.ad/watch/the-irregular-at-magic-high-school-reminiscence-arc/ep-1",
+      "sub": {
+        "HD-1": {
+          "20785-malep-1_vibeplayer_sub": "https://vibeplayer.site/344a5f57dd9ae898",
+          "20785-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/344a5f57dd9ae898/master.m3u8"
+        },
+        "StreamHG": {
+          "20785-malep-1_otakuhg_sub": "https://otakuhg.site/e/6t1h88filusp",
+          "20785-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "20785-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q68yfo0qtq4r",
+          "20785-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20785-malep-1_playmogo_sub": "https://playmogo.com/e/zs2rxl2auz9r",
+          "20785-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20785-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f7d8596e9b89f8ee",
+          "20785-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f7d8596e9b89f8ee/master.m3u8"
+        },
+        "StreamHG": {
+          "20785-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fy90ti8lwn9f",
+          "20785-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20785-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/slzfilq76e6k",
+          "20785-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20785-malep-1_playmogo_hsub": "https://playmogo.com/e/hlm1lt69z4gi",
+          "20785-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
