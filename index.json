@@ -3728,5 +3728,15 @@
     "captured_at": "2026-06-19T20:48:51",
     "file": "data-8/tokyo-twenty-fourth-ward.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-twenty-fourth-ward.json"
+  },
+  {
+    "slug": "tokyo-underground",
+    "mal_id": 175,
+    "anime_name": "Tokyo Underground",
+    "anime_url": "https://hianime.ad/anime/tokyo-underground",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T20:49:22",
+    "file": "data-8/tokyo-underground.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-underground.json"
   }
 ]
