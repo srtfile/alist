@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Shadow That Devours The Sun",
+  "anime_url": "https://hianime.ad/anime/the-shadow-that-devours-the-sun",
+  "slug": "the-shadow-that-devours-the-sun",
+  "mal_id": 58567,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:37:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "You Aren't E-Rank, Are You?",
+      "episode_url": "https://hianime.ad/watch/the-shadow-that-devours-the-sun/ep-1",
+      "sub": {
+        "HD-1": {
+          "58567-malep-1_vibeplayer_sub": "https://vibeplayer.site/afbba2814b86f93d",
+          "58567-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/afbba2814b86f93d/master.m3u8"
+        },
+        "Earnvids": {
+          "58567-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1r502j9gsxr5",
+          "58567-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58567-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e27469170176a47",
+          "58567-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e27469170176a47/master.m3u8"
+        },
+        "StreamHG": {
+          "58567-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bnyfbgjhszdc",
+          "58567-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58567-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kt5n2c5jz3uh",
+          "58567-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58567-malep-1_playmogo_hsub": "https://playmogo.com/e/kdudk659sd4n",
+          "58567-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
