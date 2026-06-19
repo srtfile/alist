@@ -1,0 +1,44 @@
+{
+  "anime_name": "Stand My Heroes Warmth Of Memories",
+  "anime_url": "https://hianime.ad/anime/stand-my-heroes-warmth-of-memories",
+  "slug": "stand-my-heroes-warmth-of-memories",
+  "mal_id": 38331,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T10:16:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "PIECE 01",
+      "episode_url": "https://hianime.ad/watch/stand-my-heroes-warmth-of-memories/ep-1",
+      "sub": {
+        "HD-1": {
+          "38331-malep-1_vibeplayer_sub": "https://vibeplayer.site/428e44269a9d854e",
+          "38331-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/428e44269a9d854e/master.m3u8"
+        },
+        "Earnvids": {
+          "38331-malep-1_otakuvid_sub": "https://otakuvid.online/embed/052vat5hbpoy",
+          "38331-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38331-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8ef57520994ba7fc",
+          "38331-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ef57520994ba7fc/master.m3u8"
+        },
+        "StreamHG": {
+          "38331-malep-1_otakuhg_hsub": "https://otakuhg.site/e/m5mggjrb3uh9",
+          "38331-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38331-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/seg388lqzox6",
+          "38331-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38331-malep-1_playmogo_hsub": "https://playmogo.com/e/xd6t3ghynef9",
+          "38331-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
