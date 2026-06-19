@@ -1,0 +1,53 @@
+{
+  "anime_name": "Tales Of Vesperia The First Strike",
+  "anime_url": "https://hianime.ad/anime/tales-of-vesperia-the-first-strike",
+  "slug": "tales-of-vesperia-the-first-strike",
+  "mal_id": 30911,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:22:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Capital of Seraphim",
+      "episode_url": "https://hianime.ad/watch/tales-of-vesperia-the-first-strike/ep-1",
+      "sub": {
+        "HD-1": {
+          "30911-malep-1_vibeplayer_sub": "https://vibeplayer.site/3ce431d290aef988",
+          "30911-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3ce431d290aef988/master.m3u8"
+        },
+        "Earnvids": {
+          "30911-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y8vsu90rxfxt",
+          "30911-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "30911-malep-1_vibeplayer_dub": "https://vibeplayer.site/df4ff73c8e37ec1c",
+          "30911-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df4ff73c8e37ec1c/master.m3u8"
+        },
+        "Earnvids": {
+          "30911-malep-1_otakuvid_dub": "https://otakuvid.online/embed/debdn1dt6v5w",
+          "30911-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "30911-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0f64c089a3b9c996",
+          "30911-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0f64c089a3b9c996/master.m3u8"
+        },
+        "StreamHG": {
+          "30911-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mis8f29rs174",
+          "30911-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30911-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nl771lzzfirs",
+          "30911-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30911-malep-1_playmogo_hsub": "https://playmogo.com/e/gaf4hqgn30xp",
+          "30911-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
