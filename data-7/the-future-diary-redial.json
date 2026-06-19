@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Future Diary Redial",
+  "anime_url": "https://hianime.ad/anime/the-future-diary-redial",
+  "slug": "the-future-diary-redial",
+  "mal_id": 10620,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:33:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sign Up",
+      "episode_url": "https://hianime.ad/watch/the-future-diary-redial/ep-1",
+      "sub": {
+        "HD-1": {
+          "10620-malep-1_vibeplayer_sub": "https://vibeplayer.site/5efcac56fea1f4e7",
+          "10620-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5efcac56fea1f4e7/master.m3u8"
+        },
+        "StreamHG": {
+          "10620-malep-1_otakuhg_sub": "https://otakuhg.site/e/4vhfpwowxhv2",
+          "10620-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "10620-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jw1wbbe8dpuy",
+          "10620-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10620-malep-1_vibeplayer_hsub": "https://vibeplayer.site/72d2ef8b51709913",
+          "10620-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/72d2ef8b51709913/master.m3u8"
+        },
+        "StreamHG": {
+          "10620-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ki13k89hkok5",
+          "10620-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10620-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rdxa4o7g9gnk",
+          "10620-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10620-malep-1_playmogo_hsub": "https://playmogo.com/e/g3m5qtbh0vh1",
+          "10620-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
