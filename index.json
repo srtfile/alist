@@ -5008,5 +5008,15 @@
     "captured_at": "2026-06-19T21:56:56",
     "file": "data-8/twin-angels-break.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/twin-angels-break.json"
+  },
+  {
+    "slug": "twin-love",
+    "mal_id": 125,
+    "anime_name": "Twin Love",
+    "anime_url": "https://hianime.ad/anime/twin-love",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T21:57:26",
+    "file": "data-8/twin-love.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/twin-love.json"
   }
 ]
