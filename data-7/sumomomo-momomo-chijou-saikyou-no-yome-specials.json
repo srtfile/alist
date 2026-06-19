@@ -1,0 +1,73 @@
+{
+  "anime_name": "Sumomomo Momomo Chijou Saikyou No Yome Specials",
+  "anime_url": "https://hianime.ad/anime/sumomomo-momomo-chijou-saikyou-no-yome-specials",
+  "slug": "sumomomo-momomo-chijou-saikyou-no-yome-specials",
+  "mal_id": 1568,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T11:14:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Strongest Fiancé on Earth",
+      "episode_url": "https://hianime.ad/watch/sumomomo-momomo-chijou-saikyou-no-yome-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "1568-malep-1_vibeplayer_sub": "https://vibeplayer.site/1ddcee7effe85090",
+          "1568-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ddcee7effe85090/master.m3u8"
+        },
+        "Earnvids": {
+          "1568-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mv7wri8ielks",
+          "1568-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1568-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a0b08d53d7c667fe",
+          "1568-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a0b08d53d7c667fe/master.m3u8"
+        },
+        "StreamHG": {
+          "1568-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5mldf6vajdln",
+          "1568-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1568-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4tza4grjlohs",
+          "1568-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1568-malep-1_playmogo_hsub": "https://playmogo.com/e/ko6qbk5tykf7",
+          "1568-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Natural Exploding Girl",
+      "episode_url": "https://hianime.ad/watch/sumomomo-momomo-chijou-saikyou-no-yome-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "1568-malep-2_vibeplayer_sub": "https://vibeplayer.site/e47043e4cd73e2a9",
+          "1568-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e47043e4cd73e2a9/master.m3u8"
+        },
+        "Earnvids": {
+          "1568-malep-2_otakuvid_sub": "https://otakuvid.online/embed/sztaritloiiz",
+          "1568-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1568-malep-2_vibeplayer_hsub": "https://vibeplayer.site/1a68b49fe9bacac0",
+          "1568-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1a68b49fe9bacac0/master.m3u8"
+        },
+        "Earnvids": {
+          "1568-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/50qzzk608wk9",
+          "1568-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1568-malep-2_playmogo_hsub": "https://playmogo.com/e/on1e5sttcciy",
+          "1568-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
