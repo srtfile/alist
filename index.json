@@ -23628,5 +23628,15 @@
     "captured_at": "2026-06-19T12:29:53",
     "file": "data-7/tanin-no-kankei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tanin-no-kankei.json"
+  },
+  {
+    "slug": "tanjou-debut",
+    "mal_id": 22999,
+    "anime_name": "Tanjou Debut",
+    "anime_url": "https://hianime.ad/anime/tanjou-debut",
+    "total_episodes": 2,
+    "captured_at": "2026-06-19T12:30:07",
+    "file": "data-7/tanjou-debut.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tanjou-debut.json"
   }
 ]
