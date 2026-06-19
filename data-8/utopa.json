@@ -1,0 +1,40 @@
+{
+  "anime_name": "Utopa",
+  "anime_url": "https://hianime.ad/anime/utopa",
+  "slug": "utopa",
+  "mal_id": 1858,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:58:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Extraterrestrial Manami Appears",
+      "episode_url": "https://hianime.ad/watch/utopa/ep-1",
+      "sub": {
+        "HD-1": {
+          "1858-malep-1_vibeplayer_sub": "https://vibeplayer.site/cf268c026a2c8f58",
+          "1858-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf268c026a2c8f58/master.m3u8"
+        },
+        "Earnvids": {
+          "1858-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0toemxpatq3l",
+          "1858-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1858-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9aacc66bd6c3d836",
+          "1858-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9aacc66bd6c3d836/master.m3u8"
+        },
+        "Earnvids": {
+          "1858-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dpcfa295695x",
+          "1858-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1858-malep-1_playmogo_hsub": "https://playmogo.com/e/47gq0qi3m6r6",
+          "1858-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
