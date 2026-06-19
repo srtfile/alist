@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Royal Tutor Movie",
+  "anime_url": "https://hianime.ad/anime/the-royal-tutor-movie",
+  "slug": "the-royal-tutor-movie",
+  "mal_id": 34262,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:25:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Royal Tutor Arrives",
+      "episode_url": "https://hianime.ad/watch/the-royal-tutor-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "34262-malep-1_vibeplayer_sub": "https://vibeplayer.site/8e37e981be77b86f",
+          "34262-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e37e981be77b86f/master.m3u8"
+        },
+        "Earnvids": {
+          "34262-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xaquc9qqt1vu",
+          "34262-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34262-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0925e564e63e9091",
+          "34262-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0925e564e63e9091/master.m3u8"
+        },
+        "StreamHG": {
+          "34262-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xucyb6z2bq8q",
+          "34262-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34262-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/u1eutr69tka0",
+          "34262-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34262-malep-1_playmogo_hsub": "https://playmogo.com/e/vg7usugrhqhp",
+          "34262-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
