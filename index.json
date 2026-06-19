@@ -18848,5 +18848,15 @@
     "captured_at": "2026-06-19T03:08:10",
     "file": "data-7/shugo-chara-party.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shugo-chara-party.json"
+  },
+  {
+    "slug": "shugo-chara-doki",
+    "mal_id": 5262,
+    "anime_name": "Shugo Chara Doki",
+    "anime_url": "https://hianime.ad/anime/shugo-chara-doki",
+    "total_episodes": 51,
+    "captured_at": "2026-06-19T03:08:49",
+    "file": "data-7/shugo-chara-doki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shugo-chara-doki.json"
   }
 ]
