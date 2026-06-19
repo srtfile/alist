@@ -1,0 +1,49 @@
+{
+  "anime_name": "The Flower And The Phoenix",
+  "anime_url": "https://hianime.ad/anime/the-flower-and-the-phoenix",
+  "slug": "the-flower-and-the-phoenix",
+  "mal_id": 3807,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:28:26",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/the-flower-and-the-phoenix/ep-1",
+      "sub": {
+        "HD-1": {
+          "3807-malep-1_vibeplayer_sub": "https://vibeplayer.site/1e607cc8edc687e8",
+          "3807-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e607cc8edc687e8/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ycfsiiwe4czs",
+          "3807-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "3807-malep-1_vibeplayer_dub": "https://vibeplayer.site/c86d0c06f883554c",
+          "3807-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c86d0c06f883554c/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xgc1kscxxn0w",
+          "3807-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "3807-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9d78846ea7329aff",
+          "3807-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9d78846ea7329aff/master.m3u8"
+        },
+        "Earnvids": {
+          "3807-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/71xoism6vx17",
+          "3807-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3807-malep-1_playmogo_hsub": "https://playmogo.com/e/1132jjpizxd9",
+          "3807-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
