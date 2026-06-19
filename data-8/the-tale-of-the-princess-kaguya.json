@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Tale Of The Princess Kaguya",
+  "anime_url": "https://hianime.ad/anime/the-tale-of-the-princess-kaguya",
+  "slug": "the-tale-of-the-princess-kaguya",
+  "mal_id": 957,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:05:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Every Good Deal Has A Catch",
+      "episode_url": "https://hianime.ad/watch/the-tale-of-the-princess-kaguya/ep-1",
+      "sub": {
+        "HD-1": {
+          "957-malep-1_vibeplayer_sub": "https://vibeplayer.site/6e3f5ea12d9642e5",
+          "957-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6e3f5ea12d9642e5/master.m3u8"
+        },
+        "StreamHG": {
+          "957-malep-1_otakuhg_sub": "https://otakuhg.site/e/jii8waok5egw",
+          "957-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "957-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hyr89k6f83y9",
+          "957-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "957-malep-1_vibeplayer_dub": "https://vibeplayer.site/4d75d88ec6a4f459",
+          "957-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4d75d88ec6a4f459/master.m3u8"
+        },
+        "StreamHG": {
+          "957-malep-1_otakuhg_dub": "https://otakuhg.site/e/etej7f9j3u9y",
+          "957-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "957-malep-1_otakuvid_dub": "https://otakuvid.online/embed/8jcegx4fsth6",
+          "957-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "957-malep-1_vibeplayer_hsub": "https://vibeplayer.site/066676df1fa4ad3e",
+          "957-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/066676df1fa4ad3e/master.m3u8"
+        },
+        "StreamHG": {
+          "957-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kg5m4w40lqg9",
+          "957-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "957-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e8guww4dltkm",
+          "957-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "957-malep-1_playmogo_hsub": "https://playmogo.com/e/3t0pr3wttced",
+          "957-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
