@@ -1,0 +1,44 @@
+{
+  "anime_name": "Space Battleship Yamato The New Voyage",
+  "anime_url": "https://hianime.ad/anime/space-battleship-yamato-the-new-voyage",
+  "slug": "space-battleship-yamato-the-new-voyage",
+  "mal_id": 1650,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:55:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "SOS Earth!! Awaken, Space Battleship Yamato",
+      "episode_url": "https://hianime.ad/watch/space-battleship-yamato-the-new-voyage/ep-1",
+      "sub": {
+        "HD-1": {
+          "1650-malep-1_vibeplayer_sub": "https://vibeplayer.site/9582d3c7771d4f6c",
+          "1650-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9582d3c7771d4f6c/master.m3u8"
+        },
+        "Earnvids": {
+          "1650-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r09tw1lvki3e",
+          "1650-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1650-malep-1_vibeplayer_hsub": "https://vibeplayer.site/acdbb42d6f703d09",
+          "1650-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/acdbb42d6f703d09/master.m3u8"
+        },
+        "StreamHG": {
+          "1650-malep-1_otakuhg_hsub": "https://otakuhg.site/e/nm0cx6bpzngs",
+          "1650-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1650-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cqdwbp13y712",
+          "1650-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1650-malep-1_playmogo_hsub": "https://playmogo.com/e/h5vwy3cykfun",
+          "1650-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
