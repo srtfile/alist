@@ -23208,5 +23208,15 @@
     "captured_at": "2026-06-19T12:09:15",
     "file": "data-7/takt-op-destiny.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/takt-op-destiny.json"
+  },
+  {
+    "slug": "takunomi",
+    "mal_id": 36108,
+    "anime_name": "Takunomi",
+    "anime_url": "https://hianime.ad/anime/takunomi",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T12:09:37",
+    "file": "data-7/takunomi.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/takunomi.json"
   }
 ]
