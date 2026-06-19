@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Summer",
+  "anime_url": "https://hianime.ad/anime/the-summer",
+  "slug": "the-summer",
+  "mal_id": 11433,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:58:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I can't, Senpai",
+      "episode_url": "https://hianime.ad/watch/the-summer/ep-1",
+      "sub": {
+        "HD-1": {
+          "11433-malep-1_vibeplayer_sub": "https://vibeplayer.site/36ce9ccb6f40ceed",
+          "11433-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36ce9ccb6f40ceed/master.m3u8"
+        },
+        "Earnvids": {
+          "11433-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mtxy73ng98z7",
+          "11433-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11433-malep-1_vibeplayer_hsub": "https://vibeplayer.site/32277c320fb2ac45",
+          "11433-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32277c320fb2ac45/master.m3u8"
+        },
+        "StreamHG": {
+          "11433-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cy4h5p5powdi",
+          "11433-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11433-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/87pf3euwri81",
+          "11433-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11433-malep-1_playmogo_hsub": "https://playmogo.com/e/8ve92bbozp7u",
+          "11433-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
