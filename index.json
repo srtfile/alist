@@ -2948,5 +2948,15 @@
     "captured_at": "2026-06-19T20:08:06",
     "file": "data-8/tiger-mask-nisei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tiger-mask-nisei.json"
+  },
+  {
+    "slug": "tiger-mask-w",
+    "mal_id": 32881,
+    "anime_name": "Tiger Mask W",
+    "anime_url": "https://hianime.ad/anime/tiger-mask-w",
+    "total_episodes": 38,
+    "captured_at": "2026-06-19T20:08:55",
+    "file": "data-8/tiger-mask-w.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tiger-mask-w.json"
   }
 ]
