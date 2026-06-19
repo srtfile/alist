@@ -1,0 +1,44 @@
+{
+  "anime_name": "Symphony In August",
+  "anime_url": "https://hianime.ad/anime/symphony-in-august",
+  "slug": "symphony-in-august",
+  "mal_id": 10397,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:01:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Pure White Encounter",
+      "episode_url": "https://hianime.ad/watch/symphony-in-august/ep-1",
+      "sub": {
+        "HD-1": {
+          "10397-malep-1_vibeplayer_sub": "https://vibeplayer.site/53acf6f2ff96dd39",
+          "10397-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/53acf6f2ff96dd39/master.m3u8"
+        },
+        "Earnvids": {
+          "10397-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1l5d37r6ovb3",
+          "10397-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10397-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a3dc16b11d05ce1d",
+          "10397-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a3dc16b11d05ce1d/master.m3u8"
+        },
+        "StreamHG": {
+          "10397-malep-1_otakuhg_hsub": "https://otakuhg.site/e/r9okrkogboxi",
+          "10397-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10397-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xt0jyw8joam1",
+          "10397-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10397-malep-1_playmogo_hsub": "https://playmogo.com/e/4xqodbxv2103",
+          "10397-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
