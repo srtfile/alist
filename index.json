@@ -3648,5 +3648,15 @@
     "captured_at": "2026-06-19T20:44:11",
     "file": "data-8/tokyo-ravens.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-ravens.json"
+  },
+  {
+    "slug": "tokyo-revengers",
+    "mal_id": 42249,
+    "anime_name": "Tokyo Revengers",
+    "anime_url": "https://hianime.ad/anime/tokyo-revengers",
+    "total_episodes": 24,
+    "captured_at": "2026-06-19T20:44:51",
+    "file": "data-8/tokyo-revengers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-revengers.json"
   }
 ]
