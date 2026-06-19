@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Treasures Of The Desert",
+  "anime_url": "https://hianime.ad/anime/the-treasures-of-the-desert",
+  "slug": "the-treasures-of-the-desert",
+  "mal_id": 52657,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:13:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kage's Errand / The Prince and Money",
+      "episode_url": "https://hianime.ad/watch/the-treasures-of-the-desert/ep-1",
+      "sub": {
+        "HD-1": {
+          "52657-malep-1_vibeplayer_sub": "https://vibeplayer.site/463e98e4d12fba88",
+          "52657-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/463e98e4d12fba88/master.m3u8"
+        },
+        "Earnvids": {
+          "52657-malep-1_otakuvid_sub": "https://otakuvid.online/embed/bdf88bpe1pzr",
+          "52657-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "52657-malep-1_playmogo_sub": "https://playmogo.com/e/c7srnniif2da",
+          "52657-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "52657-malep-1_vibeplayer_dub": "https://vibeplayer.site/887a01ed6cebef18",
+          "52657-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/887a01ed6cebef18/master.m3u8"
+        },
+        "Earnvids": {
+          "52657-malep-1_otakuvid_dub": "https://otakuvid.online/embed/pg1he5repu5u",
+          "52657-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "52657-malep-1_playmogo_dub": "https://playmogo.com/e/e6bbexvwveps",
+          "52657-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "52657-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4dde24a1bab35b9f",
+          "52657-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4dde24a1bab35b9f/master.m3u8"
+        },
+        "StreamHG": {
+          "52657-malep-1_otakuhg_hsub": "https://otakuhg.site/e/uy134srfme15",
+          "52657-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52657-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c09cosoifzi1",
+          "52657-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52657-malep-1_playmogo_hsub": "https://playmogo.com/e/a34h2mxxsccr",
+          "52657-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
