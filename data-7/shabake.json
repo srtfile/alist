@@ -4,7 +4,7 @@
   "slug": "shabake",
   "mal_id": 60378,
   "total_episodes": 13,
-  "captured_at": "2026-06-18T21:21:03",
+  "captured_at": "2026-06-19T02:11:47",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -148,6 +148,10 @@
         "Earnvids": {
           "60378-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/19a84t31z2vn",
           "60378-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60378-malep-4_playmogo_hsub": "https://playmogo.com/e/1949o84ddzjz",
+          "60378-malep-4_playmogo_hsub_m3u8": null
         }
       }
     },
