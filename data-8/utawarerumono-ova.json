@@ -1,0 +1,102 @@
+{
+  "anime_name": "Utawarerumono Ova",
+  "anime_url": "https://hianime.ad/anime/utawarerumono-ova",
+  "slug": "utawarerumono-ova",
+  "mal_id": 856,
+  "total_episodes": 3,
+  "captured_at": "2026-06-19T22:55:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Uninvited",
+      "episode_url": "https://hianime.ad/watch/utawarerumono-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "856-malep-1_vibeplayer_sub": "https://vibeplayer.site/573d2933cdd383c7",
+          "856-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/573d2933cdd383c7/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-1_otakuvid_sub": "https://otakuvid.online/embed/c8eirgj7w675",
+          "856-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "856-malep-1_vibeplayer_hsub": "https://vibeplayer.site/668628f628f68293",
+          "856-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/668628f628f68293/master.m3u8"
+        },
+        "StreamHG": {
+          "856-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7bv17vkvlsus",
+          "856-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "856-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k3o499y3tsxh",
+          "856-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "856-malep-1_playmogo_hsub": "https://playmogo.com/e/44msety17gsy",
+          "856-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ruler of the Wild Forest",
+      "episode_url": "https://hianime.ad/watch/utawarerumono-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "856-malep-2_vibeplayer_sub": "https://vibeplayer.site/f1c0fa0bf2f7c78f",
+          "856-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1c0fa0bf2f7c78f/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-2_otakuvid_sub": "https://otakuvid.online/embed/2otwxzmiqu15",
+          "856-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "856-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3eb5d564185e54b5",
+          "856-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3eb5d564185e54b5/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/rzp5w0jg243z",
+          "856-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "856-malep-2_playmogo_hsub": "https://playmogo.com/e/nacl3nokn5r1",
+          "856-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Violet & Amber",
+      "episode_url": "https://hianime.ad/watch/utawarerumono-ova/ep-3",
+      "sub": {
+        "HD-1": {
+          "856-malep-3_vibeplayer_sub": "https://vibeplayer.site/d89b9be6851e3ca0",
+          "856-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d89b9be6851e3ca0/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-3_otakuvid_sub": "https://otakuvid.online/embed/ovdmp770cogm",
+          "856-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "856-malep-3_vibeplayer_hsub": "https://vibeplayer.site/c68213b6a81b7f32",
+          "856-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c68213b6a81b7f32/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/94qz6d6p9ezu",
+          "856-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "856-malep-3_playmogo_hsub": "https://playmogo.com/e/tsk45x49hkua",
+          "856-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
