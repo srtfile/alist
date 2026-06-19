@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tokyo 24 Ku Reversal Film",
+  "anime_url": "https://hianime.ad/anime/tokyo-24-ku-reversal-film",
+  "slug": "tokyo-24-ku-reversal-film",
+  "mal_id": 50204,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:35:15",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "RGB",
+      "episode_url": "https://hianime.ad/watch/tokyo-24-ku-reversal-film/ep-1",
+      "sub": {
+        "HD-1": {
+          "50204-malep-1_vibeplayer_sub": "https://vibeplayer.site/a56e8515165410b0",
+          "50204-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a56e8515165410b0/master.m3u8"
+        },
+        "Earnvids": {
+          "50204-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tebh9keu6t3y",
+          "50204-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "50204-malep-1_vibeplayer_hsub": "https://vibeplayer.site/19212f877d6b5617",
+          "50204-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/19212f877d6b5617/master.m3u8"
+        },
+        "StreamHG": {
+          "50204-malep-1_otakuhg_hsub": "https://otakuhg.site/e/q8y2k6z6kaq7",
+          "50204-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50204-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vqb49qmfoar7",
+          "50204-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50204-malep-1_playmogo_hsub": "https://playmogo.com/e/dff4gv2a0hh8",
+          "50204-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
