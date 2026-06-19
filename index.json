@@ -4508,5 +4508,15 @@
     "captured_at": "2026-06-19T21:31:56",
     "file": "data-8/trigun-stampede.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trigun-stampede.json"
+  },
+  {
+    "slug": "trigun-stargaze",
+    "mal_id": 54863,
+    "anime_name": "Trigun Stargaze",
+    "anime_url": "https://hianime.ad/anime/trigun-stargaze",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T21:32:26",
+    "file": "data-8/trigun-stargaze.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trigun-stargaze.json"
   }
 ]
