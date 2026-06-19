@@ -22588,5 +22588,15 @@
     "captured_at": "2026-06-19T11:43:22",
     "file": "data-7/suzakinishi-the-animation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/suzakinishi-the-animation.json"
+  },
+  {
+    "slug": "suzuka",
+    "mal_id": 390,
+    "anime_name": "Suzuka",
+    "anime_url": "https://hianime.ad/anime/suzuka",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T11:43:46",
+    "file": "data-7/suzuka.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/suzuka.json"
   }
 ]
