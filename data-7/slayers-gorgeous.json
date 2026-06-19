@@ -1,0 +1,49 @@
+{
+  "anime_name": "Slayers Gorgeous",
+  "anime_url": "https://hianime.ad/anime/slayers-gorgeous",
+  "slug": "slayers-gorgeous",
+  "mal_id": 534,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:37:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ANGRY? Lina's Furious Dragon Slave!",
+      "episode_url": "https://hianime.ad/watch/slayers-gorgeous/ep-1",
+      "sub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_sub": "https://vibeplayer.site/1a515f4793f17613",
+          "534-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a515f4793f17613/master.m3u8"
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sf1aksrg2f96",
+          "534-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_dub": "https://vibeplayer.site/815f37dace2b9b7c",
+          "534-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/815f37dace2b9b7c/master.m3u8"
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wel3u606x4rc",
+          "534-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f376283ff2b95434",
+          "534-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f376283ff2b95434/master.m3u8"
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/924syepg3uvp",
+          "534-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "534-malep-1_playmogo_hsub": "https://playmogo.com/e/cqoqpkibv2g6",
+          "534-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
