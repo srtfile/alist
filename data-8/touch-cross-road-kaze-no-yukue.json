@@ -1,0 +1,44 @@
+{
+  "anime_name": "Touch Cross Road Kaze No Yukue",
+  "anime_url": "https://hianime.ad/anime/touch-cross-road-kaze-no-yukue",
+  "slug": "touch-cross-road-kaze-no-yukue",
+  "mal_id": 1065,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:07:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "No Matter What Everybody Says, We're Twins!",
+      "episode_url": "https://hianime.ad/watch/touch-cross-road-kaze-no-yukue/ep-1",
+      "sub": {
+        "HD-1": {
+          "1065-malep-1_vibeplayer_sub": "https://vibeplayer.site/46490a02ad65c6ce",
+          "1065-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/46490a02ad65c6ce/master.m3u8"
+        },
+        "Earnvids": {
+          "1065-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ia8omxie4saf",
+          "1065-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1065-malep-1_vibeplayer_hsub": "https://vibeplayer.site/94b04ed328d666a4",
+          "1065-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/94b04ed328d666a4/master.m3u8"
+        },
+        "StreamHG": {
+          "1065-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w7goat7zzhdn",
+          "1065-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1065-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hh01qftkh84g",
+          "1065-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1065-malep-1_playmogo_hsub": "https://playmogo.com/e/80dnaag1pacq",
+          "1065-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
