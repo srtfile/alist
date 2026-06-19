@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Wind Rises",
+  "anime_url": "https://hianime.ad/anime/the-wind-rises",
+  "slug": "the-wind-rises",
+  "mal_id": 37965,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:32:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The 10th Man",
+      "episode_url": "https://hianime.ad/watch/the-wind-rises/ep-1",
+      "sub": {
+        "HD-1": {
+          "37965-malep-1_vibeplayer_sub": "https://vibeplayer.site/b86fd879220e873e",
+          "37965-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b86fd879220e873e/master.m3u8"
+        },
+        "StreamHG": {
+          "37965-malep-1_otakuhg_sub": "https://otakuhg.site/e/wtw9vp9xbqeu",
+          "37965-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "37965-malep-1_otakuvid_sub": "https://otakuvid.online/embed/16g0m9nizo3w",
+          "37965-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "37965-malep-1_vibeplayer_dub": "https://vibeplayer.site/9c024122f21a9a07",
+          "37965-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9c024122f21a9a07/master.m3u8"
+        },
+        "StreamHG": {
+          "37965-malep-1_otakuhg_dub": "https://otakuhg.site/e/433ie1ofddx3",
+          "37965-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "37965-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3xhatiakaps3",
+          "37965-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "37965-malep-1_vibeplayer_hsub": "https://vibeplayer.site/67a9b6ecece0fece",
+          "37965-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/67a9b6ecece0fece/master.m3u8"
+        },
+        "StreamHG": {
+          "37965-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ddh6yx8cuu40",
+          "37965-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37965-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qspn7b0vo2rv",
+          "37965-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37965-malep-1_playmogo_hsub": "https://playmogo.com/e/5gc54tqmt1i6",
+          "37965-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
