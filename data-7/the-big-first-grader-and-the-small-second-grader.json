@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Big First Grader And The Small Second Grader",
+  "anime_url": "https://hianime.ad/anime/the-big-first-grader-and-the-small-second-grader",
+  "slug": "the-big-first-grader-and-the-small-second-grader",
+  "mal_id": 567,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:27:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Roger The Negotiator",
+      "episode_url": "https://hianime.ad/watch/the-big-first-grader-and-the-small-second-grader/ep-1",
+      "sub": {
+        "HD-1": {
+          "567-malep-1_vibeplayer_sub": "https://vibeplayer.site/f1204349da3202f9",
+          "567-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f1204349da3202f9/master.m3u8"
+        },
+        "Earnvids": {
+          "567-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xkcsqtgltiof",
+          "567-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "567-malep-1_playmogo_sub": "https://playmogo.com/e/5n5kw76ogj5p",
+          "567-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "567-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b80c50e0c0a0d84d",
+          "567-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b80c50e0c0a0d84d/master.m3u8"
+        },
+        "StreamHG": {
+          "567-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5zudq69aahjn",
+          "567-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "567-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l30mck8m7e0m",
+          "567-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "567-malep-1_playmogo_hsub": "https://playmogo.com/e/jg0j2xgmr8aq",
+          "567-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
