@@ -1,0 +1,40 @@
+{
+  "anime_name": "Toward The Terra",
+  "anime_url": "https://hianime.ad/anime/toward-the-terra",
+  "slug": "toward-the-terra",
+  "mal_id": 2158,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:16:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Day of Awakening",
+      "episode_url": "https://hianime.ad/watch/toward-the-terra/ep-1",
+      "sub": {
+        "HD-1": {
+          "2158-malep-1_vibeplayer_sub": "https://vibeplayer.site/3fde0901e8da7d28",
+          "2158-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3fde0901e8da7d28/master.m3u8"
+        },
+        "Earnvids": {
+          "2158-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gldkmp10s8qt",
+          "2158-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2158-malep-1_vibeplayer_hsub": "https://vibeplayer.site/61b113178b0ed5fe",
+          "2158-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/61b113178b0ed5fe/master.m3u8"
+        },
+        "Earnvids": {
+          "2158-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j5xq5yk4bka3",
+          "2158-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2158-malep-1_playmogo_hsub": "https://playmogo.com/e/3otsf7qeed08",
+          "2158-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
