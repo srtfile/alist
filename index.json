@@ -22048,5 +22048,15 @@
     "captured_at": "2026-06-19T11:09:48",
     "file": "data-7/suite-precure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/suite-precure.json"
+  },
+  {
+    "slug": "sukisho",
+    "mal_id": 1532,
+    "anime_name": "Sukisho",
+    "anime_url": "https://hianime.ad/anime/sukisho",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T11:10:40",
+    "file": "data-7/sukisho.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/sukisho.json"
   }
 ]
