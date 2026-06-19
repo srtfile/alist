@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Legend Of Hei",
+  "anime_url": "https://hianime.ad/anime/the-legend-of-hei",
+  "slug": "the-legend-of-hei",
+  "mal_id": 48441,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:37:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Appears He… the Hero in Twilight",
+      "episode_url": "https://hianime.ad/watch/the-legend-of-hei/ep-1",
+      "sub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_sub": "https://vibeplayer.site/c246f1c1b4cffa67",
+          "48441-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c246f1c1b4cffa67/master.m3u8"
+        },
+        "StreamHG": {
+          "48441-malep-1_otakuhg_sub": "https://otakuhg.site/e/n3ey10exsp5i",
+          "48441-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tk5u4ffc0piv",
+          "48441-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_dub": "https://vibeplayer.site/d80aa34e72e6b6a3",
+          "48441-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d80aa34e72e6b6a3/master.m3u8"
+        },
+        "StreamHG": {
+          "48441-malep-1_otakuhg_dub": "https://otakuhg.site/e/r4491185qpus",
+          "48441-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_dub": "https://otakuvid.online/embed/aluvbbal46dl",
+          "48441-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48441-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ef1c1dab83ed7ba8",
+          "48441-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ef1c1dab83ed7ba8/master.m3u8"
+        },
+        "StreamHG": {
+          "48441-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f4u9pvugezei",
+          "48441-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48441-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fi3ehjsvrjhk",
+          "48441-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48441-malep-1_playmogo_hsub": "https://playmogo.com/e/zzxm2vpvxdrs",
+          "48441-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
