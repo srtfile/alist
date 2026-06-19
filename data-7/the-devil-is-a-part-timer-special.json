@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Devil Is A Part Timer Special",
+  "anime_url": "https://hianime.ad/anime/the-devil-is-a-part-timer-special",
+  "slug": "the-devil-is-a-part-timer-special",
+  "mal_id": 15809,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:58:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Devil Arrives in Sasazuka",
+      "episode_url": "https://hianime.ad/watch/the-devil-is-a-part-timer-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "15809-malep-1_vibeplayer_sub": "https://vibeplayer.site/4cc949c625eb97d7",
+          "15809-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4cc949c625eb97d7/master.m3u8"
+        },
+        "Earnvids": {
+          "15809-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qm52zjtbolna",
+          "15809-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "15809-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4f0d0acbc6b177fc",
+          "15809-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4f0d0acbc6b177fc/master.m3u8"
+        },
+        "StreamHG": {
+          "15809-malep-1_otakuhg_hsub": "https://otakuhg.site/e/4nnsbwvrvu7r",
+          "15809-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "15809-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bbn7yvxy3fnk",
+          "15809-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "15809-malep-1_playmogo_hsub": "https://playmogo.com/e/nfd2v4s2mgn0",
+          "15809-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
