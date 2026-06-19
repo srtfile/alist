@@ -27388,5 +27388,15 @@
     "captured_at": "2026-06-19T15:23:25",
     "file": "data-8/the-journey.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-journey.json"
+  },
+  {
+    "slug": "the-journey-home",
+    "mal_id": 37787,
+    "anime_name": "The Journey Home",
+    "anime_url": "https://hianime.ad/anime/the-journey-home",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T15:23:39",
+    "file": "data-8/the-journey-home.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-journey-home.json"
   }
 ]
