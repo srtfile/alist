@@ -1,0 +1,40 @@
+{
+  "anime_name": "True Tears Raigomaru To Jibeta No Monogatari",
+  "anime_url": "https://hianime.ad/anime/true-tears-raigomaru-to-jibeta-no-monogatari",
+  "slug": "true-tears-raigomaru-to-jibeta-no-monogatari",
+  "mal_id": 2129,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:38:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I...gave My Tears Away",
+      "episode_url": "https://hianime.ad/watch/true-tears-raigomaru-to-jibeta-no-monogatari/ep-1",
+      "sub": {
+        "HD-1": {
+          "2129-malep-1_vibeplayer_sub": "https://vibeplayer.site/20c62a761045db3f",
+          "2129-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/20c62a761045db3f/master.m3u8"
+        },
+        "Earnvids": {
+          "2129-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4m3666i73dxx",
+          "2129-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2129-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3fa204d0dca0c7c5",
+          "2129-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3fa204d0dca0c7c5/master.m3u8"
+        },
+        "Earnvids": {
+          "2129-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vjkcgt6k8xwr",
+          "2129-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2129-malep-1_playmogo_hsub": "https://playmogo.com/e/aiqjmd9cnhlx",
+          "2129-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
