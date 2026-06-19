@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sora And The Big Tree",
+  "anime_url": "https://hianime.ad/anime/sora-and-the-big-tree",
+  "slug": "sora-and-the-big-tree",
+  "mal_id": 2559,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:58:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "In the Alps! A Crisis of a Small Village",
+      "episode_url": "https://hianime.ad/watch/sora-and-the-big-tree/ep-1",
+      "sub": {
+        "HD-1": {
+          "2559-malep-1_vibeplayer_sub": "https://vibeplayer.site/4e4b652f0034c876",
+          "2559-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4e4b652f0034c876/master.m3u8"
+        },
+        "Earnvids": {
+          "2559-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5dgzwlysg6wd",
+          "2559-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2559-malep-1_playmogo_sub": "https://playmogo.com/e/9npbvbriguvx",
+          "2559-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2559-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85cf7ba04b39976f",
+          "2559-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85cf7ba04b39976f/master.m3u8"
+        },
+        "StreamHG": {
+          "2559-malep-1_otakuhg_hsub": "https://otakuhg.site/e/556phurq4cgv",
+          "2559-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2559-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2mlpmmcbhjlh",
+          "2559-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2559-malep-1_playmogo_hsub": "https://playmogo.com/e/5l2zelkeye09",
+          "2559-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
