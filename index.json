@@ -4828,5 +4828,15 @@
     "captured_at": "2026-06-19T21:48:23",
     "file": "data-8/tsuredure-children.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tsuredure-children.json"
+  },
+  {
+    "slug": "tsuritama",
+    "mal_id": 12883,
+    "anime_name": "Tsuritama",
+    "anime_url": "https://hianime.ad/anime/tsuritama",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T21:48:53",
+    "file": "data-8/tsuritama.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tsuritama.json"
   }
 ]
