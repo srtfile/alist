@@ -1,0 +1,40 @@
+{
+  "anime_name": "The Idolmster Movie Beyond The Brilliant Future",
+  "anime_url": "https://hianime.ad/anime/the-idolmster-movie-beyond-the-brilliant-future",
+  "slug": "the-idolmster-movie-beyond-the-brilliant-future",
+  "mal_id": 10278,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:13:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "This Is Where the Girls Start",
+      "episode_url": "https://hianime.ad/watch/the-idolmster-movie-beyond-the-brilliant-future/ep-1",
+      "sub": {
+        "HD-1": {
+          "10278-malep-1_vibeplayer_sub": "https://vibeplayer.site/aaed5f451fe68f15",
+          "10278-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aaed5f451fe68f15/master.m3u8"
+        },
+        "Earnvids": {
+          "10278-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ja5njxogx5jt",
+          "10278-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10278-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8ceeeb7ff698131a",
+          "10278-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ceeeb7ff698131a/master.m3u8"
+        },
+        "Earnvids": {
+          "10278-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k2x79iptedvb",
+          "10278-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10278-malep-1_playmogo_hsub": "https://playmogo.com/e/rm9sho3g9lav",
+          "10278-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
