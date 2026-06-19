@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Diary Of Anne Frank",
+  "anime_url": "https://hianime.ad/anime/the-diary-of-anne-frank",
+  "slug": "the-diary-of-anne-frank",
+  "mal_id": 3577,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:00:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kyōka-Sama, Reigning",
+      "episode_url": "https://hianime.ad/watch/the-diary-of-anne-frank/ep-1",
+      "sub": {
+        "HD-1": {
+          "3577-malep-1_vibeplayer_sub": "https://vibeplayer.site/94447ae8239d4290",
+          "3577-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/94447ae8239d4290/master.m3u8"
+        },
+        "Earnvids": {
+          "3577-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h7exrjxdubif",
+          "3577-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3577-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7b601cdea49d98af",
+          "3577-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7b601cdea49d98af/master.m3u8"
+        },
+        "StreamHG": {
+          "3577-malep-1_otakuhg_hsub": "https://otakuhg.site/e/axx4qgejrm24",
+          "3577-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3577-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j51n2kuusb6y",
+          "3577-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3577-malep-1_playmogo_hsub": "https://playmogo.com/e/3hz5h5luylm9",
+          "3577-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
