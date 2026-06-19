@@ -22448,5 +22448,15 @@
     "captured_at": "2026-06-19T11:26:54",
     "file": "data-7/super-shiro.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/super-shiro.json"
+  },
+  {
+    "slug": "super-star",
+    "mal_id": 36945,
+    "anime_name": "Super Star",
+    "anime_url": "https://hianime.ad/anime/super-star",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T11:27:45",
+    "file": "data-7/super-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/super-star.json"
   }
 ]
