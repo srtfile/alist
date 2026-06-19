@@ -1,0 +1,53 @@
+{
+  "anime_name": "Tawawa On Monday Specials",
+  "anime_url": "https://hianime.ad/anime/tawawa-on-monday-specials",
+  "slug": "tawawa-on-monday-specials",
+  "mal_id": 2011,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T12:36:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Don't Tear Up the Tickets!",
+      "episode_url": "https://hianime.ad/watch/tawawa-on-monday-specials/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "2011-malep-1_vibeplayer_raw": "https://vibeplayer.site/59062fb4c6e9f255",
+          "2011-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/59062fb4c6e9f255/master.m3u8"
+        },
+        "StreamHG": {
+          "2011-malep-1_otakuhg_raw": "https://otakuhg.site/e/c1gte1huj3r6",
+          "2011-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "2011-malep-1_otakuvid_raw": "https://otakuvid.online/embed/upz8yubb4inp",
+          "2011-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Driver Safety Workshop",
+      "episode_url": "https://hianime.ad/watch/tawawa-on-monday-specials/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "2011-malep-2_vibeplayer_raw": "https://vibeplayer.site/42caf67cb2b4228f",
+          "2011-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/42caf67cb2b4228f/master.m3u8"
+        },
+        "StreamHG": {
+          "2011-malep-2_otakuhg_raw": "https://otakuhg.site/e/g58z08m3pz4p",
+          "2011-malep-2_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "2011-malep-2_otakuvid_raw": "https://otakuvid.online/embed/ey1ml7ael39u",
+          "2011-malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
