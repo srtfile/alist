@@ -1,0 +1,48 @@
+{
+  "anime_name": "Tezuka Osamu Monogatari Boku Wa Son Gokuu",
+  "anime_url": "https://hianime.ad/anime/tezuka-osamu-monogatari-boku-wa-son-gokuu",
+  "slug": "tezuka-osamu-monogatari-boku-wa-son-gokuu",
+  "mal_id": 2282,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:09:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Special",
+      "episode_url": "https://hianime.ad/watch/tezuka-osamu-monogatari-boku-wa-son-gokuu/ep-1",
+      "sub": {
+        "HD-1": {
+          "2282-malep-1_vibeplayer_sub": "https://vibeplayer.site/c53902ec74bee89f",
+          "2282-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c53902ec74bee89f/master.m3u8"
+        },
+        "StreamHG": {
+          "2282-malep-1_otakuhg_sub": "https://otakuhg.site/e/tmv34epuch7w",
+          "2282-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2282-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fzb4dgu26edc",
+          "2282-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2282-malep-1_playmogo_sub": "https://playmogo.com/e/wazhfsilmh4w",
+          "2282-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2282-malep-1_vibeplayer_hsub": "https://vibeplayer.site/580eb93db3593fa8",
+          "2282-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/580eb93db3593fa8/master.m3u8"
+        },
+        "Earnvids": {
+          "2282-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/53gfq8nnsfsu",
+          "2282-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2282-malep-1_playmogo_hsub": "https://playmogo.com/e/8l4xu5t7t725",
+          "2282-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
