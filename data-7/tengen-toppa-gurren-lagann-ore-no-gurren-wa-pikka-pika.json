@@ -1,0 +1,52 @@
+{
+  "anime_name": "Tengen Toppa Gurren Lagann Ore No Gurren Wa Pikka Pika",
+  "anime_url": "https://hianime.ad/anime/tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika",
+  "slug": "tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika",
+  "mal_id": 2001,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:59:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Bust Through the Heavens with Your Drill!",
+      "episode_url": "https://hianime.ad/watch/tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika/ep-1",
+      "sub": {
+        "HD-1": {
+          "2001-malep-1_vibeplayer_sub": "https://vibeplayer.site/820e3a7e4767abd0",
+          "2001-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/820e3a7e4767abd0/master.m3u8"
+        },
+        "StreamHG": {
+          "2001-malep-1_otakuhg_sub": "https://otakuhg.site/e/wdu2cazskvri",
+          "2001-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2001-malep-1_otakuvid_sub": "https://otakuvid.online/embed/subjtg3p5nbo",
+          "2001-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2001-malep-1_playmogo_sub": "https://playmogo.com/e/4figdaoizlxy",
+          "2001-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2001-malep-1_vibeplayer_hsub": "https://vibeplayer.site/83e62a9897a286f6",
+          "2001-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/83e62a9897a286f6/master.m3u8"
+        },
+        "StreamHG": {
+          "2001-malep-1_otakuhg_hsub": "https://otakuhg.site/e/d9v24cid2yn7",
+          "2001-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2001-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/27asg1ply350",
+          "2001-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2001-malep-1_playmogo_hsub": "https://playmogo.com/e/hs0k5ddak1dh",
+          "2001-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
