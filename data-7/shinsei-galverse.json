@@ -1,0 +1,40 @@
+{
+  "anime_name": "Shinsei Galverse",
+  "anime_url": "https://hianime.ad/anime/shinsei-galverse",
+  "slug": "shinsei-galverse",
+  "mal_id": 7662,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T02:45:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Forbidden Room",
+      "episode_url": "https://hianime.ad/watch/shinsei-galverse/ep-1",
+      "sub": {
+        "HD-1": {
+          "7662-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f11067b217fbd3a",
+          "7662-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f11067b217fbd3a/master.m3u8"
+        },
+        "Earnvids": {
+          "7662-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v5p8wa0ihutd",
+          "7662-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7662-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe04ccf19b89ec3c",
+          "7662-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe04ccf19b89ec3c/master.m3u8"
+        },
+        "Earnvids": {
+          "7662-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/g992adf0j5vq",
+          "7662-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7662-malep-1_playmogo_hsub": "https://playmogo.com/e/h2vf30c2f2q2",
+          "7662-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
