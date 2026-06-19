@@ -21138,5 +21138,15 @@
     "captured_at": "2026-06-19T10:21:00",
     "file": "data-7/star-driver-the-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-driver-the-movie.json"
+  },
+  {
+    "slug": "star-dust",
+    "mal_id": 8934,
+    "anime_name": "Star Dust",
+    "anime_url": "https://hianime.ad/anime/star-dust",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T10:21:13",
+    "file": "data-7/star-dust.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-dust.json"
   }
 ]
