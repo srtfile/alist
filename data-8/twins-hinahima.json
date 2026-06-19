@@ -1,0 +1,48 @@
+{
+  "anime_name": "Twins Hinahima",
+  "anime_url": "https://hianime.ad/anime/twins-hinahima",
+  "slug": "twins-hinahima",
+  "mal_id": 196,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:02:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Three Twins?",
+      "episode_url": "https://hianime.ad/watch/twins-hinahima/ep-1",
+      "sub": {
+        "HD-1": {
+          "196-malep-1_vibeplayer_sub": "https://vibeplayer.site/47cdc914622ab252",
+          "196-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/47cdc914622ab252/master.m3u8"
+        },
+        "Earnvids": {
+          "196-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uy5pw2iev0rv",
+          "196-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "196-malep-1_playmogo_sub": "https://playmogo.com/e/e38fwm2msijr",
+          "196-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "196-malep-1_vibeplayer_hsub": "https://vibeplayer.site/faf624f7bd440caa",
+          "196-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/faf624f7bd440caa/master.m3u8"
+        },
+        "StreamHG": {
+          "196-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9bqpyjlrato6",
+          "196-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "196-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5plgx2g4hwlt",
+          "196-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "196-malep-1_playmogo_hsub": "https://playmogo.com/e/voj82n4gpk1q",
+          "196-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
