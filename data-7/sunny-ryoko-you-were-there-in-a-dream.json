@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sunny Ryoko You Were There In A Dream",
+  "anime_url": "https://hianime.ad/anime/sunny-ryoko-you-were-there-in-a-dream",
+  "slug": "sunny-ryoko-you-were-there-in-a-dream",
+  "mal_id": 729,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:16:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kasumi and Yuusaku Meet... in the Bath?!",
+      "episode_url": "https://hianime.ad/watch/sunny-ryoko-you-were-there-in-a-dream/ep-1",
+      "sub": {
+        "HD-1": {
+          "729-malep-1_vibeplayer_sub": "https://vibeplayer.site/558e498524a47f27",
+          "729-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/558e498524a47f27/master.m3u8"
+        },
+        "Earnvids": {
+          "729-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wtrds1tq9apk",
+          "729-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "729-malep-1_playmogo_sub": "https://playmogo.com/e/omh0lm8l6gks",
+          "729-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "729-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6a009eaef7a27ce5",
+          "729-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a009eaef7a27ce5/master.m3u8"
+        },
+        "StreamHG": {
+          "729-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9vz1jne5ledz",
+          "729-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "729-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y7ht7b2l87vz",
+          "729-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "729-malep-1_playmogo_hsub": "https://playmogo.com/e/p18zxgolq8yp",
+          "729-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
