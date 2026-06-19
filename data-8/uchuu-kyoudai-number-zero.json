@@ -1,0 +1,44 @@
+{
+  "anime_name": "Uchuu Kyoudai Number Zero",
+  "anime_url": "https://hianime.ad/anime/uchuu-kyoudai-number-zero",
+  "slug": "uchuu-kyoudai-number-zero",
+  "mal_id": 12431,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:06:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Little Brother Hibito and Big Brother Mutta",
+      "episode_url": "https://hianime.ad/watch/uchuu-kyoudai-number-zero/ep-1",
+      "sub": {
+        "HD-1": {
+          "12431-malep-1_vibeplayer_sub": "https://vibeplayer.site/741ce8d942cfd673",
+          "12431-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/741ce8d942cfd673/master.m3u8"
+        },
+        "Earnvids": {
+          "12431-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9f5f4zcpvh6p",
+          "12431-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12431-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fbeae9880c94bf3c",
+          "12431-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fbeae9880c94bf3c/master.m3u8"
+        },
+        "StreamHG": {
+          "12431-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8jfwx3a6nkji",
+          "12431-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12431-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8210x9by8z5x",
+          "12431-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12431-malep-1_playmogo_hsub": "https://playmogo.com/e/2rtb7zrp5hwz",
+          "12431-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
