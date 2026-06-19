@@ -1,0 +1,48 @@
+{
+  "anime_name": "Shoujokageki Revue Starlight Movie",
+  "anime_url": "https://hianime.ad/anime/shoujokageki-revue-starlight-movie",
+  "slug": "shoujokageki-revue-starlight-movie",
+  "mal_id": 23901,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T02:55:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/shoujokageki-revue-starlight-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "23901-malep-1_vibeplayer_sub": "https://vibeplayer.site/16c98853ba6a76f4",
+          "23901-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/16c98853ba6a76f4/master.m3u8"
+        },
+        "StreamHG": {
+          "23901-malep-1_otakuhg_sub": "https://otakuhg.site/e/5px638ghlg5c",
+          "23901-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23901-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qxpbmat4ub1r",
+          "23901-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23901-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1ae6ab8fc265bf0f",
+          "23901-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1ae6ab8fc265bf0f/master.m3u8"
+        },
+        "StreamHG": {
+          "23901-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x71ywzfw4yed",
+          "23901-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23901-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wef6z1uwn9s4",
+          "23901-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23901-malep-1_playmogo_hsub": "https://playmogo.com/e/vulsc80dc4nu",
+          "23901-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
