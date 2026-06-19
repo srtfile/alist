@@ -1,0 +1,49 @@
+{
+  "anime_name": "Tenchi Muyou Galaxy Police Mihoshi Space Adventure",
+  "anime_url": "https://hianime.ad/anime/tenchi-muyou-galaxy-police-mihoshi-space-adventure",
+  "slug": "tenchi-muyou-galaxy-police-mihoshi-space-adventure",
+  "mal_id": 696,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:59:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "No Need for Discussions!",
+      "episode_url": "https://hianime.ad/watch/tenchi-muyou-galaxy-police-mihoshi-space-adventure/ep-1",
+      "sub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_sub": "https://vibeplayer.site/f93cadb5012a92fc",
+          "696-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f93cadb5012a92fc/master.m3u8"
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b4ttw94by8q8",
+          "696-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_dub": "https://vibeplayer.site/57781da975aeca70",
+          "696-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/57781da975aeca70/master.m3u8"
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vbognw7l06fl",
+          "696-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cca8d24b4aed4cef",
+          "696-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cca8d24b4aed4cef/master.m3u8"
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/93emvvumwusw",
+          "696-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "696-malep-1_playmogo_hsub": "https://playmogo.com/e/woga0zfi4r1c",
+          "696-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
