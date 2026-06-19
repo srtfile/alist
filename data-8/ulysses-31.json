@@ -1,0 +1,69 @@
+{
+  "anime_name": "Ulysses 31",
+  "anime_url": "https://hianime.ad/anime/ulysses-31",
+  "slug": "ulysses-31",
+  "mal_id": 2331,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:17:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Vengeance of the Gods",
+      "episode_url": "https://hianime.ad/watch/ulysses-31/ep-1",
+      "sub": {
+        "HD-1": {
+          "2331-malep-1_vibeplayer_sub": "https://vibeplayer.site/bb8e8e6dfbb9ecdd",
+          "2331-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bb8e8e6dfbb9ecdd/master.m3u8"
+        },
+        "StreamHG": {
+          "2331-malep-1_otakuhg_sub": "https://otakuhg.site/e/0sqg543tqbfv",
+          "2331-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2331-malep-1_otakuvid_sub": "https://otakuvid.online/embed/q65wubvm8p8j",
+          "2331-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2331-malep-1_playmogo_sub": "https://playmogo.com/e/vp6krxtdbnz2",
+          "2331-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2331-malep-1_vibeplayer_dub": "https://vibeplayer.site/faa45e07c524a3ad",
+          "2331-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/faa45e07c524a3ad/master.m3u8"
+        },
+        "StreamHG": {
+          "2331-malep-1_otakuhg_dub": "https://otakuhg.site/e/rok19ebhn7yv",
+          "2331-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "2331-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3cdai9cetygy",
+          "2331-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2331-malep-1_playmogo_dub": "https://playmogo.com/e/vazpwd8ozuwp",
+          "2331-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2331-malep-1_vibeplayer_hsub": "https://vibeplayer.site/def5d662d261fc68",
+          "2331-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/def5d662d261fc68/master.m3u8"
+        },
+        "StreamHG": {
+          "2331-malep-1_otakuhg_hsub": "https://otakuhg.site/e/urbianc8y3dc",
+          "2331-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "2331-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hn9lbfpwmfp5",
+          "2331-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2331-malep-1_playmogo_hsub": "https://playmogo.com/e/rrkhscyv6422",
+          "2331-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
