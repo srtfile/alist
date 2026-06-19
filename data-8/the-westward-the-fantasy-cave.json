@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Westward The Fantasy Cave",
+  "anime_url": "https://hianime.ad/anime/the-westward-the-fantasy-cave",
+  "slug": "the-westward-the-fantasy-cave",
+  "mal_id": 8074,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:30:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring of the DEAD",
+      "episode_url": "https://hianime.ad/watch/the-westward-the-fantasy-cave/ep-1",
+      "sub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_sub": "https://vibeplayer.site/95465973638ae168",
+          "8074-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/95465973638ae168/master.m3u8"
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ig3zh25j00m2",
+          "8074-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_sub": "https://playmogo.com/e/hb3xis4yy075",
+          "8074-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_hsub": "https://vibeplayer.site/26c84d9c5d04425c",
+          "8074-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/26c84d9c5d04425c/master.m3u8"
+        },
+        "StreamHG": {
+          "8074-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bqupnjq7glf9",
+          "8074-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w8jn57k99vu4",
+          "8074-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_hsub": "https://playmogo.com/e/gczgflsqe6c1",
+          "8074-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
