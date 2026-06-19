@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tekkaman Blade Missing Link",
+  "anime_url": "https://hianime.ad/anime/tekkaman-blade-missing-link",
+  "slug": "tekkaman-blade-missing-link",
+  "mal_id": 1459,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:46:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Friend or Foe (The Sky-Soaring Super Man)",
+      "episode_url": "https://hianime.ad/watch/tekkaman-blade-missing-link/ep-1",
+      "sub": {
+        "HD-1": {
+          "1459-malep-1_vibeplayer_sub": "https://vibeplayer.site/67ef5aa5fdee5cf7",
+          "1459-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/67ef5aa5fdee5cf7/master.m3u8"
+        },
+        "Earnvids": {
+          "1459-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ipphbbihke1z",
+          "1459-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1459-malep-1_vibeplayer_hsub": "https://vibeplayer.site/88626af6b3d5a2ae",
+          "1459-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/88626af6b3d5a2ae/master.m3u8"
+        },
+        "StreamHG": {
+          "1459-malep-1_otakuhg_hsub": "https://otakuhg.site/e/27iu3f2v19lh",
+          "1459-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1459-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hndtwddjb0im",
+          "1459-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1459-malep-1_playmogo_hsub": "https://playmogo.com/e/ptbavlrdt96i",
+          "1459-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
