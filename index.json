@@ -24308,5 +24308,15 @@
     "captured_at": "2026-06-19T12:59:56",
     "file": "data-7/tenjho-tenge.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tenjho-tenge.json"
+  },
+  {
+    "slug": "tenjin",
+    "mal_id": 54918,
+    "anime_name": "Tenjin",
+    "anime_url": "https://hianime.ad/anime/tenjin",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T13:00:32",
+    "file": "data-7/tenjin.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tenjin.json"
   }
 ]
