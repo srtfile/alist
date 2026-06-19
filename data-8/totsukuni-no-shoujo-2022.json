@@ -1,0 +1,44 @@
+{
+  "anime_name": "Totsukuni No Shoujo 2022",
+  "anime_url": "https://hianime.ad/anime/totsukuni-no-shoujo-2022",
+  "slug": "totsukuni-no-shoujo-2022",
+  "mal_id": 36949,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:07:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Advancement Exam",
+      "episode_url": "https://hianime.ad/watch/totsukuni-no-shoujo-2022/ep-1",
+      "sub": {
+        "HD-1": {
+          "36949-malep-1_vibeplayer_sub": "https://vibeplayer.site/ab7756b79f07c139",
+          "36949-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab7756b79f07c139/master.m3u8"
+        },
+        "Earnvids": {
+          "36949-malep-1_otakuvid_sub": "https://otakuvid.online/embed/us4k84m9y9bp",
+          "36949-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "36949-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f8052a95eff00ba6",
+          "36949-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f8052a95eff00ba6/master.m3u8"
+        },
+        "StreamHG": {
+          "36949-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hr0yebpcm2j9",
+          "36949-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "36949-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l7xyuwx0n9at",
+          "36949-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "36949-malep-1_playmogo_hsub": "https://playmogo.com/e/zitwx6r3p2fg",
+          "36949-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
