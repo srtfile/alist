@@ -5928,5 +5928,15 @@
     "captured_at": "2026-06-19T22:47:08",
     "file": "data-8/usagi-chan-de-cue.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/usagi-chan-de-cue.json"
+  },
+  {
+    "slug": "usakame",
+    "mal_id": 32454,
+    "anime_name": "Usakame",
+    "anime_url": "https://hianime.ad/anime/usakame",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T22:47:30",
+    "file": "data-8/usakame.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/usakame.json"
   }
 ]
