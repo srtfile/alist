@@ -1,0 +1,52 @@
+{
+  "anime_name": "Tako Ni Natta Okaasan",
+  "anime_url": "https://hianime.ad/anime/tako-ni-natta-okaasan",
+  "slug": "tako-ni-natta-okaasan",
+  "mal_id": 53516,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:08:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Reincarnated as the Seventh Prince",
+      "episode_url": "https://hianime.ad/watch/tako-ni-natta-okaasan/ep-1",
+      "sub": {
+        "HD-1": {
+          "53516-malep-1_vibeplayer_sub": "https://vibeplayer.site/012896283eeb07f5",
+          "53516-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/012896283eeb07f5/master.m3u8"
+        },
+        "StreamHG": {
+          "53516-malep-1_otakuhg_sub": "https://otakuhg.site/e/rm6eqllot6nv",
+          "53516-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "53516-malep-1_otakuvid_sub": "https://otakuvid.online/embed/mgqe7jpwtgut",
+          "53516-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "53516-malep-1_playmogo_sub": "https://playmogo.com/e/9mzzbdw1qcee",
+          "53516-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53516-malep-1_vibeplayer_hsub": "https://vibeplayer.site/30a7ab9aca34075c",
+          "53516-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/30a7ab9aca34075c/master.m3u8"
+        },
+        "StreamHG": {
+          "53516-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9kr6u11gw1g3",
+          "53516-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53516-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/omwzilmm1ibi",
+          "53516-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53516-malep-1_playmogo_hsub": "https://playmogo.com/e/s2ss05tefll6",
+          "53516-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
