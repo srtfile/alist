@@ -4948,5 +4948,15 @@
     "captured_at": "2026-06-19T21:54:30",
     "file": "data-8/tweeny-witches-alice-adventures.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tweeny-witches-alice-adventures.json"
+  },
+  {
+    "slug": "twilight",
+    "mal_id": 37598,
+    "anime_name": "Twilight",
+    "anime_url": "https://hianime.ad/anime/twilight",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T21:54:55",
+    "file": "data-8/twilight.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/twilight.json"
   }
 ]
