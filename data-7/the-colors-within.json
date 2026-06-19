@@ -1,0 +1,65 @@
+{
+  "anime_name": "The Colors Within",
+  "anime_url": "https://hianime.ad/anime/the-colors-within",
+  "slug": "the-colors-within",
+  "mal_id": 54758,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:41:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Single Feather in a Sky For One",
+      "episode_url": "https://hianime.ad/watch/the-colors-within/ep-1",
+      "sub": {
+        "HD-1": {
+          "54758-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4f5c363f540b380",
+          "54758-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4f5c363f540b380/master.m3u8"
+        },
+        "Earnvids": {
+          "54758-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yyd6lqfz9gjc",
+          "54758-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "54758-malep-1_playmogo_sub": "https://playmogo.com/e/9odcc0swtn03",
+          "54758-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "54758-malep-1_vibeplayer_dub": "https://vibeplayer.site/03403d2b1ba391db",
+          "54758-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/03403d2b1ba391db/master.m3u8"
+        },
+        "StreamHG": {
+          "54758-malep-1_otakuhg_dub": "https://otakuhg.site/e/j36a2ypyhteq",
+          "54758-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "54758-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jajasztn55pw",
+          "54758-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "54758-malep-1_playmogo_dub": "https://playmogo.com/e/oy5h569rka7b",
+          "54758-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "54758-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c3a46da0e421fd23",
+          "54758-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3a46da0e421fd23/master.m3u8"
+        },
+        "StreamHG": {
+          "54758-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yn7q58rcbwer",
+          "54758-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "54758-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qphl7tf5rxpo",
+          "54758-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54758-malep-1_playmogo_hsub": "https://playmogo.com/e/wpr706nlkdvi",
+          "54758-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
