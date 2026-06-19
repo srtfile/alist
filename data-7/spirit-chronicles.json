@@ -1,0 +1,611 @@
+{
+  "anime_name": "Spirit Chronicles",
+  "anime_url": "https://hianime.ad/anime/spirit-chronicles",
+  "slug": "spirit-chronicles",
+  "mal_id": 44203,
+  "total_episodes": 12,
+  "captured_at": "2026-06-19T06:11:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Memories of the Previous World",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-1",
+      "sub": {
+        "HD-1": {
+          "44203-malep-1_vibeplayer_sub": "https://vibeplayer.site/adfee6ca5824d072",
+          "44203-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/adfee6ca5824d072/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-1_otakuhg_sub": "https://otakuhg.site/e/wpg3kzjk9mxk",
+          "44203-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nfkx9b2f0cc4",
+          "44203-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-1_vibeplayer_dub": "https://vibeplayer.site/b45cda2df205689a",
+          "44203-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b45cda2df205689a/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-1_otakuhg_dub": "https://otakuhg.site/e/1swu5b8zykha",
+          "44203-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-1_otakuvid_dub": "https://otakuvid.online/embed/o7rlji8f48jx",
+          "44203-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d5c34e9a87947a90",
+          "44203-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d5c34e9a87947a90/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-1_otakuhg_hsub": "https://otakuhg.site/e/eppskfeu3qvy",
+          "44203-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k6q12d555g45",
+          "44203-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-1_playmogo_hsub": "https://playmogo.com/e/l414r68tc4x0",
+          "44203-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Royal Academy",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-2",
+      "sub": {
+        "HD-1": {
+          "44203-malep-2_vibeplayer_sub": "https://vibeplayer.site/a9dddb57dc018531",
+          "44203-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a9dddb57dc018531/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-2_otakuhg_sub": "https://otakuhg.site/e/kjbing513vup",
+          "44203-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-2_otakuvid_sub": "https://otakuvid.online/embed/tlwqakqv6f8t",
+          "44203-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-2_vibeplayer_dub": "https://vibeplayer.site/5f588663fcada46e",
+          "44203-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5f588663fcada46e/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-2_otakuhg_dub": "https://otakuhg.site/e/zlod99qkrl41",
+          "44203-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-2_otakuvid_dub": "https://otakuvid.online/embed/vk0ufd835wts",
+          "44203-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-2_vibeplayer_hsub": "https://vibeplayer.site/040b782d28292667",
+          "44203-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/040b782d28292667/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-2_otakuhg_hsub": "https://otakuhg.site/e/k81hhbphsmpw",
+          "44203-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/am6j5a5lnulx",
+          "44203-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-2_playmogo_hsub": "https://playmogo.com/e/hv83nqtjad89",
+          "44203-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Kingdom of Lies",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-3",
+      "sub": {
+        "HD-1": {
+          "44203-malep-3_vibeplayer_sub": "https://vibeplayer.site/36be7a9653d5a5cb",
+          "44203-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/36be7a9653d5a5cb/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-3_otakuhg_sub": "https://otakuhg.site/e/0z1vijqs5999",
+          "44203-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-3_otakuvid_sub": "https://otakuvid.online/embed/o4pqhlc1vy1f",
+          "44203-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-3_vibeplayer_dub": "https://vibeplayer.site/0fdd9c36efa1ff45",
+          "44203-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0fdd9c36efa1ff45/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-3_otakuhg_dub": "https://otakuhg.site/e/vyu41mefdr6l",
+          "44203-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-3_otakuvid_dub": "https://otakuvid.online/embed/b0a9xgscor4l",
+          "44203-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-3_vibeplayer_hsub": "https://vibeplayer.site/cfaba4c34142af84",
+          "44203-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cfaba4c34142af84/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-3_otakuhg_hsub": "https://otakuhg.site/e/3hmoxj8dp554",
+          "44203-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/4tkcag8lrfwy",
+          "44203-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-3_playmogo_hsub": "https://playmogo.com/e/89e4jrtzhrlo",
+          "44203-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Assassin Girl",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-4",
+      "sub": {
+        "HD-1": {
+          "44203-malep-4_vibeplayer_sub": "https://vibeplayer.site/cfb62d98ae6135b8",
+          "44203-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cfb62d98ae6135b8/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-4_otakuhg_sub": "https://otakuhg.site/e/p4tpdw6wkx9w",
+          "44203-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-4_otakuvid_sub": "https://otakuvid.online/embed/ppd99thyyg4d",
+          "44203-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-4_vibeplayer_dub": "https://vibeplayer.site/57961af5cb2ab0c2",
+          "44203-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/57961af5cb2ab0c2/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-4_otakuhg_dub": "https://otakuhg.site/e/qyujdgfy1ag8",
+          "44203-malep-4_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-4_otakuvid_dub": "https://otakuvid.online/embed/1wdzw5oqgotq",
+          "44203-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-4_vibeplayer_hsub": "https://vibeplayer.site/6e97f112cd85361b",
+          "44203-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e97f112cd85361b/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-4_otakuhg_hsub": "https://otakuhg.site/e/4zejqmonpwhd",
+          "44203-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/oc0joeircl0b",
+          "44203-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-4_playmogo_hsub": "https://playmogo.com/e/p18n4ihaga5n",
+          "44203-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Forest of Spirits",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-5",
+      "sub": {
+        "HD-1": {
+          "44203-malep-5_vibeplayer_sub": "https://vibeplayer.site/253ce650fa54e559",
+          "44203-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/253ce650fa54e559/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-5_otakuhg_sub": "https://otakuhg.site/e/wogox3cgqkau",
+          "44203-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-5_otakuvid_sub": "https://otakuvid.online/embed/aoj4uas3h95a",
+          "44203-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-5_vibeplayer_dub": "https://vibeplayer.site/2900a25a221662c8",
+          "44203-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2900a25a221662c8/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-5_otakuhg_dub": "https://otakuhg.site/e/cm1x3yntxk16",
+          "44203-malep-5_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-5_otakuvid_dub": "https://otakuvid.online/embed/frj01yfalaca",
+          "44203-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-5_vibeplayer_hsub": "https://vibeplayer.site/b2bdf1dc8b3a737a",
+          "44203-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b2bdf1dc8b3a737a/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-5_otakuhg_hsub": "https://otakuhg.site/e/69zehsnh36pu",
+          "44203-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/nqxc0lp6r1q0",
+          "44203-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-5_playmogo_hsub": "https://playmogo.com/e/z150vt73f4iu",
+          "44203-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Festival Night",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-6",
+      "sub": {
+        "HD-1": {
+          "44203-malep-6_vibeplayer_sub": "https://vibeplayer.site/a8f6ce52078c1c9d",
+          "44203-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a8f6ce52078c1c9d/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-6_otakuhg_sub": "https://otakuhg.site/e/y8uvdqonaf9x",
+          "44203-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-6_otakuvid_sub": "https://otakuvid.online/embed/irlxf2oxrlxq",
+          "44203-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-6_vibeplayer_dub": "https://vibeplayer.site/3d06769a57f2fa51",
+          "44203-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3d06769a57f2fa51/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-6_otakuhg_dub": "https://otakuhg.site/e/1ykzv0en5mbv",
+          "44203-malep-6_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-6_otakuvid_dub": "https://otakuvid.online/embed/jqu2scz11at3",
+          "44203-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-6_vibeplayer_hsub": "https://vibeplayer.site/2a135993b602c6b1",
+          "44203-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a135993b602c6b1/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-6_otakuhg_hsub": "https://otakuhg.site/e/p19pmhkidjxw",
+          "44203-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/4tsci1uess1m",
+          "44203-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-6_playmogo_hsub": "https://playmogo.com/e/ocg0ajskmgms",
+          "44203-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Land of Promises",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-7",
+      "sub": {
+        "HD-1": {
+          "44203-malep-7_vibeplayer_sub": "https://vibeplayer.site/66434dd7287041c0",
+          "44203-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/66434dd7287041c0/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-7_otakuhg_sub": "https://otakuhg.site/e/ty1qav5lf8zg",
+          "44203-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-7_otakuvid_sub": "https://otakuvid.online/embed/28lquq0nela3",
+          "44203-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-7_vibeplayer_dub": "https://vibeplayer.site/22865b93bdffd2f3",
+          "44203-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/22865b93bdffd2f3/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-7_otakuhg_dub": "https://otakuhg.site/e/6l6gq65c0rsm",
+          "44203-malep-7_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-7_otakuvid_dub": "https://otakuvid.online/embed/alarl59j1l1y",
+          "44203-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-7_vibeplayer_hsub": "https://vibeplayer.site/3ad187a78e315bfc",
+          "44203-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ad187a78e315bfc/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-7_otakuhg_hsub": "https://otakuhg.site/e/lpvr62f0004v",
+          "44203-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/j9q9ky9fodn3",
+          "44203-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-7_playmogo_hsub": "https://playmogo.com/e/zqyygonry7l9",
+          "44203-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Royal Lineage",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-8",
+      "sub": {
+        "HD-1": {
+          "44203-malep-8_vibeplayer_sub": "https://vibeplayer.site/ab5ef81127a7e557",
+          "44203-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab5ef81127a7e557/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-8_otakuhg_sub": "https://otakuhg.site/e/ojwas0pqwofq",
+          "44203-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-8_otakuvid_sub": "https://otakuvid.online/embed/pml5rv5tg5zd",
+          "44203-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-8_vibeplayer_dub": "https://vibeplayer.site/df4999606bc9662d",
+          "44203-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/df4999606bc9662d/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-8_otakuhg_dub": "https://otakuhg.site/e/368scrao0y6l",
+          "44203-malep-8_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-8_otakuvid_dub": "https://otakuvid.online/embed/0r69ghq9i0t6",
+          "44203-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-8_vibeplayer_hsub": "https://vibeplayer.site/e1193386d8962bf2",
+          "44203-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e1193386d8962bf2/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-8_otakuhg_hsub": "https://otakuhg.site/e/movli6v8rduh",
+          "44203-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/ni731ftbnaku",
+          "44203-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-8_playmogo_hsub": "https://playmogo.com/e/2y8kvz9ib5s7",
+          "44203-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Each of Their Decisions",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-9",
+      "sub": {
+        "HD-1": {
+          "44203-malep-9_vibeplayer_sub": "https://vibeplayer.site/df0c328f13373db7",
+          "44203-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df0c328f13373db7/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-9_otakuhg_sub": "https://otakuhg.site/e/6ih0gntwcgc9",
+          "44203-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-9_otakuvid_sub": "https://otakuvid.online/embed/bf13xz5l0f7m",
+          "44203-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-9_vibeplayer_dub": "https://vibeplayer.site/7ad8af4ec2601d7b",
+          "44203-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7ad8af4ec2601d7b/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-9_otakuhg_dub": "https://otakuhg.site/e/bqhpipzdkwns",
+          "44203-malep-9_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-9_otakuvid_dub": "https://otakuvid.online/embed/1zlce0fogeiy",
+          "44203-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-9_vibeplayer_hsub": "https://vibeplayer.site/a8da2abc0e95bed1",
+          "44203-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a8da2abc0e95bed1/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-9_otakuhg_hsub": "https://otakuhg.site/e/0w9d3xzrs6az",
+          "44203-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/vd7u34f3nbw7",
+          "44203-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-9_playmogo_hsub": "https://playmogo.com/e/g4xztjgmdi1d",
+          "44203-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Spirit's Awakening",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-10",
+      "sub": {
+        "HD-1": {
+          "44203-malep-10_vibeplayer_sub": "https://vibeplayer.site/b22f9ef2226c8bb2",
+          "44203-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b22f9ef2226c8bb2/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-10_otakuhg_sub": "https://otakuhg.site/e/ilyt96dnfivb",
+          "44203-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-10_otakuvid_sub": "https://otakuvid.online/embed/vh7p1tsbnym7",
+          "44203-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-10_vibeplayer_dub": "https://vibeplayer.site/a90845b5613f7b2a",
+          "44203-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a90845b5613f7b2a/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-10_otakuhg_dub": "https://otakuhg.site/e/6bje9yzphbmg",
+          "44203-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-10_otakuvid_dub": "https://otakuvid.online/embed/tzw45fmcdu5g",
+          "44203-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-10_vibeplayer_hsub": "https://vibeplayer.site/9e84930d0458664b",
+          "44203-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9e84930d0458664b/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-10_otakuhg_hsub": "https://otakuhg.site/e/caqoi0ocfcb8",
+          "44203-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/nlp3p7yxxurm",
+          "44203-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-10_playmogo_hsub": "https://playmogo.com/e/lqqkp0uxa9xu",
+          "44203-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Silver Bride",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-11",
+      "sub": {
+        "HD-1": {
+          "44203-malep-11_vibeplayer_sub": "https://vibeplayer.site/e237a91ece513630",
+          "44203-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e237a91ece513630/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-11_otakuhg_sub": "https://otakuhg.site/e/sr1k04exx89d",
+          "44203-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-11_otakuvid_sub": "https://otakuvid.online/embed/ta0hejvx50r7",
+          "44203-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-11_vibeplayer_dub": "https://vibeplayer.site/de19ec8ca93be962",
+          "44203-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/de19ec8ca93be962/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-11_otakuhg_dub": "https://otakuhg.site/e/9x1hty481glo",
+          "44203-malep-11_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-11_otakuvid_dub": "https://otakuvid.online/embed/limw49qtus6y",
+          "44203-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-11_vibeplayer_hsub": "https://vibeplayer.site/9d1a9449d1214408",
+          "44203-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9d1a9449d1214408/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-11_otakuhg_hsub": "https://otakuhg.site/e/ki17vmc8ce1g",
+          "44203-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/trcfzl82lm56",
+          "44203-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-11_playmogo_hsub": "https://playmogo.com/e/gqjr7vzvczjl",
+          "44203-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Fated Reunion",
+      "episode_url": "https://hianime.ad/watch/spirit-chronicles/ep-12",
+      "sub": {
+        "HD-1": {
+          "44203-malep-12_vibeplayer_sub": "https://vibeplayer.site/49392b1ea936b27a",
+          "44203-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49392b1ea936b27a/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-12_otakuhg_sub": "https://otakuhg.site/e/ubmcds2luy7u",
+          "44203-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-12_otakuvid_sub": "https://otakuvid.online/embed/numqvo249s43",
+          "44203-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44203-malep-12_vibeplayer_dub": "https://vibeplayer.site/5284009cfc1bf3cf",
+          "44203-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5284009cfc1bf3cf/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-12_otakuhg_dub": "https://otakuhg.site/e/e0b4b3rotekw",
+          "44203-malep-12_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-12_otakuvid_dub": "https://otakuvid.online/embed/5ot2bd057rrv",
+          "44203-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44203-malep-12_vibeplayer_hsub": "https://vibeplayer.site/f291297329fe529d",
+          "44203-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f291297329fe529d/master.m3u8"
+        },
+        "StreamHG": {
+          "44203-malep-12_otakuhg_hsub": "https://otakuhg.site/e/pserszzda9pt",
+          "44203-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44203-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/lr2ialtog0u1",
+          "44203-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44203-malep-12_playmogo_hsub": "https://playmogo.com/e/wwaumf2lc3y3",
+          "44203-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
