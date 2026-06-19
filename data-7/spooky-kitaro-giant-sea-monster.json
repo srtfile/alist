@@ -1,0 +1,44 @@
+{
+  "anime_name": "Spooky Kitaro Giant Sea Monster",
+  "anime_url": "https://hianime.ad/anime/spooky-kitaro-giant-sea-monster",
+  "slug": "spooky-kitaro-giant-sea-monster",
+  "mal_id": 37140,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T06:18:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day Yokai Awoke",
+      "episode_url": "https://hianime.ad/watch/spooky-kitaro-giant-sea-monster/ep-1",
+      "sub": {
+        "HD-1": {
+          "37140-malep-1_vibeplayer_sub": "https://vibeplayer.site/78e1fde2fec2f6ba",
+          "37140-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/78e1fde2fec2f6ba/master.m3u8"
+        },
+        "Earnvids": {
+          "37140-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dt0s9lhpfcp1",
+          "37140-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "37140-malep-1_vibeplayer_hsub": "https://vibeplayer.site/60e39dcec2f4fc60",
+          "37140-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/60e39dcec2f4fc60/master.m3u8"
+        },
+        "StreamHG": {
+          "37140-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5a4a3g1t0ewk",
+          "37140-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "37140-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0pc5ahymc11m",
+          "37140-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "37140-malep-1_playmogo_hsub": "https://playmogo.com/e/2db6mjippuyh",
+          "37140-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
