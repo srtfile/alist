@@ -3958,5 +3958,15 @@
     "captured_at": "2026-06-19T21:02:25",
     "file": "data-8/top-secret-the-revelation.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/top-secret-the-revelation.json"
+  },
+  {
+    "slug": "toradora",
+    "mal_id": 4224,
+    "anime_name": "Toradora",
+    "anime_url": "https://hianime.ad/anime/toradora",
+    "total_episodes": 25,
+    "captured_at": "2026-06-19T21:03:07",
+    "file": "data-8/toradora.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/toradora.json"
   }
 ]
