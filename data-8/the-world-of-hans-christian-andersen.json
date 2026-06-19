@@ -1,0 +1,49 @@
+{
+  "anime_name": "The World Of Hans Christian Andersen",
+  "anime_url": "https://hianime.ad/anime/the-world-of-hans-christian-andersen",
+  "slug": "the-world-of-hans-christian-andersen",
+  "mal_id": 53446,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:38:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Absurd Skill Is Unexpectedly Useful",
+      "episode_url": "https://hianime.ad/watch/the-world-of-hans-christian-andersen/ep-1",
+      "sub": {
+        "HD-1": {
+          "53446-malep-1_vibeplayer_sub": "https://vibeplayer.site/fd594dd9d40af1bf",
+          "53446-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fd594dd9d40af1bf/master.m3u8"
+        },
+        "Earnvids": {
+          "53446-malep-1_otakuvid_sub": "https://otakuvid.online/embed/x22pt356srnn",
+          "53446-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53446-malep-1_vibeplayer_dub": "https://vibeplayer.site/407a96ac224b11ac",
+          "53446-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/407a96ac224b11ac/master.m3u8"
+        },
+        "Earnvids": {
+          "53446-malep-1_otakuvid_dub": "https://otakuvid.online/embed/7dix9lpkq09q",
+          "53446-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53446-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3de4984865fc52dc",
+          "53446-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3de4984865fc52dc/master.m3u8"
+        },
+        "Earnvids": {
+          "53446-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/v8cd79jzp4gj",
+          "53446-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53446-malep-1_playmogo_hsub": "https://playmogo.com/e/u494b2xaikrn",
+          "53446-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
