@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tobidasu Pripara Minna De Mezase Idolgrand Prix",
+  "anime_url": "https://hianime.ad/anime/tobidasu-pripara-minna-de-mezase-idolgrand-prix",
+  "slug": "tobidasu-pripara-minna-de-mezase-idolgrand-prix",
+  "mal_id": 38571,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:27:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/tobidasu-pripara-minna-de-mezase-idolgrand-prix/ep-1",
+      "sub": {
+        "HD-1": {
+          "38571-malep-1_vibeplayer_sub": "https://vibeplayer.site/65d812d5ae3ba33d",
+          "38571-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65d812d5ae3ba33d/master.m3u8"
+        },
+        "Earnvids": {
+          "38571-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d9tghu4xbcan",
+          "38571-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38571-malep-1_playmogo_sub": "https://playmogo.com/e/6iuvlon5u51o",
+          "38571-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38571-malep-1_vibeplayer_hsub": "https://vibeplayer.site/23eada6ecf0a583a",
+          "38571-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/23eada6ecf0a583a/master.m3u8"
+        },
+        "Earnvids": {
+          "38571-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2oz6c3c713cc",
+          "38571-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38571-malep-1_playmogo_hsub": "https://playmogo.com/e/pq0hs5p8w8n3",
+          "38571-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
