@@ -18818,5 +18818,15 @@
     "captured_at": "2026-06-19T03:05:49",
     "file": "data-7/shuangsheng-lingtan.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shuangsheng-lingtan.json"
+  },
+  {
+    "slug": "shuffle",
+    "mal_id": 79,
+    "anime_name": "Shuffle",
+    "anime_url": "https://hianime.ad/anime/shuffle",
+    "total_episodes": 24,
+    "captured_at": "2026-06-19T03:06:25",
+    "file": "data-7/shuffle.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shuffle.json"
   }
 ]
