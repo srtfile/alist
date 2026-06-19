@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sound Euphonium Our Promise A Brand New Day",
+  "anime_url": "https://hianime.ad/anime/sound-euphonium-our-promise-a-brand-new-day",
+  "slug": "sound-euphonium-our-promise-a-brand-new-day",
+  "mal_id": 27989,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:50:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to High School",
+      "episode_url": "https://hianime.ad/watch/sound-euphonium-our-promise-a-brand-new-day/ep-1",
+      "sub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_sub": "https://vibeplayer.site/37355800af55d219",
+          "27989-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/37355800af55d219/master.m3u8"
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_sub": "https://otakuvid.online/embed/dre2of3yis6z",
+          "27989-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "27989-malep-1_playmogo_sub": "https://playmogo.com/e/k472xh8t57nb",
+          "27989-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4d91ad322322f13e",
+          "27989-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4d91ad322322f13e/master.m3u8"
+        },
+        "StreamHG": {
+          "27989-malep-1_otakuhg_hsub": "https://otakuhg.site/e/aqe2qcdnmhih",
+          "27989-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4skua73ixeg3",
+          "27989-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27989-malep-1_playmogo_hsub": "https://playmogo.com/e/x5l6riti2lw2",
+          "27989-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
