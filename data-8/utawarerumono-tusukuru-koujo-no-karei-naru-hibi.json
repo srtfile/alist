@@ -1,0 +1,48 @@
+{
+  "anime_name": "Utawarerumono Tusukuru Koujo No Karei Naru Hibi",
+  "anime_url": "https://hianime.ad/anime/utawarerumono-tusukuru-koujo-no-karei-naru-hibi",
+  "slug": "utawarerumono-tusukuru-koujo-no-karei-naru-hibi",
+  "mal_id": 856,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:58:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Uninvited",
+      "episode_url": "https://hianime.ad/watch/utawarerumono-tusukuru-koujo-no-karei-naru-hibi/ep-1",
+      "sub": {
+        "HD-1": {
+          "856-malep-1_vibeplayer_sub": "https://vibeplayer.site/a15a68144cd84bd9",
+          "856-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a15a68144cd84bd9/master.m3u8"
+        },
+        "Earnvids": {
+          "856-malep-1_otakuvid_sub": "https://otakuvid.online/embed/unsiqa3ckmcg",
+          "856-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "856-malep-1_playmogo_sub": "https://playmogo.com/e/soh88xilgh79",
+          "856-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "856-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2c2ba3d7fb8b17f8",
+          "856-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2c2ba3d7fb8b17f8/master.m3u8"
+        },
+        "StreamHG": {
+          "856-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8ww454tazzcd",
+          "856-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "856-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ldi5hdsu60cm",
+          "856-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "856-malep-1_playmogo_hsub": "https://playmogo.com/e/hdsauh5afmu5",
+          "856-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
