@@ -1,0 +1,102 @@
+{
+  "anime_name": "Strawberry Marshmallow Ova",
+  "anime_url": "https://hianime.ad/anime/strawberry-marshmallow-ova",
+  "slug": "strawberry-marshmallow-ova",
+  "mal_id": 488,
+  "total_episodes": 3,
+  "captured_at": "2026-06-19T10:57:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birthday",
+      "episode_url": "https://hianime.ad/watch/strawberry-marshmallow-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "488-malep-1_vibeplayer_sub": "https://vibeplayer.site/1b9f6c3defced17b",
+          "488-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1b9f6c3defced17b/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-1_otakuvid_sub": "https://otakuvid.online/embed/eqc9c3aknv7s",
+          "488-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-1_playmogo_sub": "https://playmogo.com/e/gkhlox2vwz9w",
+          "488-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "488-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b5a41becb8288c14",
+          "488-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b5a41becb8288c14/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zk6xf568ti2g",
+          "488-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-1_playmogo_hsub": "https://playmogo.com/e/4tov32tvrg8k",
+          "488-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ana",
+      "episode_url": "https://hianime.ad/watch/strawberry-marshmallow-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "488-malep-2_vibeplayer_sub": "https://vibeplayer.site/7d8d0b3f9c37f8fd",
+          "488-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7d8d0b3f9c37f8fd/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-2_otakuvid_sub": "https://otakuvid.online/embed/566efcw5zjzs",
+          "488-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "488-malep-2_vibeplayer_hsub": "https://vibeplayer.site/9e5016cfa37c56c2",
+          "488-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9e5016cfa37c56c2/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/b8sq7nzbxysl",
+          "488-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-2_playmogo_hsub": "https://playmogo.com/e/nefm18cdfvyt",
+          "488-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "House Call",
+      "episode_url": "https://hianime.ad/watch/strawberry-marshmallow-ova/ep-3",
+      "sub": {
+        "HD-1": {
+          "488-malep-3_vibeplayer_sub": "https://vibeplayer.site/8468e190ffbb09ac",
+          "488-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8468e190ffbb09ac/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-3_otakuvid_sub": "https://otakuvid.online/embed/vih3nmoobz4c",
+          "488-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "488-malep-3_vibeplayer_hsub": "https://vibeplayer.site/1415bcda1e9939be",
+          "488-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1415bcda1e9939be/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/2k60w3jj046u",
+          "488-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-3_playmogo_hsub": "https://playmogo.com/e/mru3wktv3vlq",
+          "488-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
