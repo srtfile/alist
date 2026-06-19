@@ -23218,5 +23218,15 @@
     "captured_at": "2026-06-19T12:09:37",
     "file": "data-7/takunomi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/takunomi.json"
+  },
+  {
+    "slug": "tales-from-earthsea",
+    "mal_id": 45,
+    "anime_name": "Tales From Earthsea",
+    "anime_url": "https://hianime.ad/anime/tales-from-earthsea",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T12:10:00",
+    "file": "data-7/tales-from-earthsea.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tales-from-earthsea.json"
   }
 ]
