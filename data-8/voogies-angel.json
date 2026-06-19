@@ -1,0 +1,106 @@
+{
+  "anime_name": "Voogies Angel",
+  "anime_url": "https://hianime.ad/anime/voogies-angel",
+  "slug": "voogies-angel",
+  "mal_id": 6547,
+  "total_episodes": 3,
+  "captured_at": "2026-06-19T23:28:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Departure",
+      "episode_url": "https://hianime.ad/watch/voogies-angel/ep-1",
+      "sub": {
+        "HD-1": {
+          "6547-malep-1_vibeplayer_sub": "https://vibeplayer.site/f12eac9438bf68b8",
+          "6547-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f12eac9438bf68b8/master.m3u8"
+        },
+        "Earnvids": {
+          "6547-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b1a578dwqan3",
+          "6547-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6547-malep-1_vibeplayer_hsub": "https://vibeplayer.site/22b197c445b1fa7d",
+          "6547-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/22b197c445b1fa7d/master.m3u8"
+        },
+        "StreamHG": {
+          "6547-malep-1_otakuhg_hsub": "https://otakuhg.site/e/fmwd8v4crcff",
+          "6547-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6547-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/t07agvk0eoch",
+          "6547-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6547-malep-1_playmogo_hsub": "https://playmogo.com/e/24ognpcj58d6",
+          "6547-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Guild",
+      "episode_url": "https://hianime.ad/watch/voogies-angel/ep-2",
+      "sub": {
+        "HD-1": {
+          "6547-malep-2_vibeplayer_sub": "https://vibeplayer.site/f0cf2d5266f6257f",
+          "6547-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0cf2d5266f6257f/master.m3u8"
+        },
+        "Earnvids": {
+          "6547-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ej2pf5cz0mzz",
+          "6547-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6547-malep-2_vibeplayer_hsub": "https://vibeplayer.site/efca772e74de42d3",
+          "6547-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/efca772e74de42d3/master.m3u8"
+        },
+        "Earnvids": {
+          "6547-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/frps95nydrj9",
+          "6547-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6547-malep-2_playmogo_hsub": "https://playmogo.com/e/cvwidink6jj6",
+          "6547-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "My Song",
+      "episode_url": "https://hianime.ad/watch/voogies-angel/ep-3",
+      "sub": {
+        "HD-1": {
+          "6547-malep-3_vibeplayer_sub": "https://vibeplayer.site/7e02910b8e06f379",
+          "6547-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7e02910b8e06f379/master.m3u8"
+        },
+        "Earnvids": {
+          "6547-malep-3_otakuvid_sub": "https://otakuvid.online/embed/lerez6dqtcmw",
+          "6547-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6547-malep-3_vibeplayer_hsub": "https://vibeplayer.site/b289febdccd816c7",
+          "6547-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b289febdccd816c7/master.m3u8"
+        },
+        "StreamHG": {
+          "6547-malep-3_otakuhg_hsub": "https://otakuhg.site/e/r55vgsmfrn6k",
+          "6547-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6547-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/zxdghslckmto",
+          "6547-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6547-malep-3_playmogo_hsub": "https://playmogo.com/e/qiolxq3lsntk",
+          "6547-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
