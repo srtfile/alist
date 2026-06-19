@@ -3468,5 +3468,15 @@
     "captured_at": "2026-06-19T20:35:35",
     "file": "data-8/tokyo-7th-sisters.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-7th-sisters.json"
+  },
+  {
+    "slug": "tokyo-babylon",
+    "mal_id": 1703,
+    "anime_name": "Tokyo Babylon",
+    "anime_url": "https://hianime.ad/anime/tokyo-babylon",
+    "total_episodes": 2,
+    "captured_at": "2026-06-19T20:35:56",
+    "file": "data-8/tokyo-babylon.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokyo-babylon.json"
   }
 ]
