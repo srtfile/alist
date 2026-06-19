@@ -1,0 +1,48 @@
+{
+  "anime_name": "Solo Leveling Specials",
+  "anime_url": "https://hianime.ad/anime/solo-leveling-specials",
+  "slug": "solo-leveling-specials",
+  "mal_id": 52299,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:51:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I’m Used to It",
+      "episode_url": "https://hianime.ad/watch/solo-leveling-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "52299-malep-1_vibeplayer_sub": "https://vibeplayer.site/b9376d884c9836ac",
+          "52299-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b9376d884c9836ac/master.m3u8"
+        },
+        "StreamHG": {
+          "52299-malep-1_otakuhg_sub": "https://otakuhg.site/e/k2ps9svi3k4m",
+          "52299-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52299-malep-1_otakuvid_sub": "https://otakuvid.online/embed/21efx7si98qi",
+          "52299-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52299-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f4f0c5a8abc71b7b",
+          "52299-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f4f0c5a8abc71b7b/master.m3u8"
+        },
+        "StreamHG": {
+          "52299-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xlkiq84spgeg",
+          "52299-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52299-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hif5joihuowf",
+          "52299-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52299-malep-1_playmogo_hsub": "https://playmogo.com/e/rqounlije5or",
+          "52299-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
