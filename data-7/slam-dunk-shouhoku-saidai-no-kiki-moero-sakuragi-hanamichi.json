@@ -1,0 +1,48 @@
+{
+  "anime_name": "Slam Dunk Shouhoku Saidai No Kiki Moero Sakuragi Hanamichi",
+  "anime_url": "https://hianime.ad/anime/slam-dunk-shouhoku-saidai-no-kiki-moero-sakuragi-hanamichi",
+  "slug": "slam-dunk-shouhoku-saidai-no-kiki-moero-sakuragi-hanamichi",
+  "mal_id": 170,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:35:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Genius Basketball Player Is Born?!",
+      "episode_url": "https://hianime.ad/watch/slam-dunk-shouhoku-saidai-no-kiki-moero-sakuragi-hanamichi/ep-1",
+      "sub": {
+        "HD-1": {
+          "170-malep-1_vibeplayer_sub": "https://vibeplayer.site/c1df7db3066e8067",
+          "170-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1df7db3066e8067/master.m3u8"
+        },
+        "StreamHG": {
+          "170-malep-1_otakuhg_sub": "https://otakuhg.site/e/a64lpo2q8xj5",
+          "170-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "170-malep-1_otakuvid_sub": "https://otakuvid.online/embed/1bgg2shvt5cw",
+          "170-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "170-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dcdd712811c858db",
+          "170-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dcdd712811c858db/master.m3u8"
+        },
+        "StreamHG": {
+          "170-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bawe4153id0e",
+          "170-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "170-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3civar7d0v82",
+          "170-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "170-malep-1_playmogo_hsub": "https://playmogo.com/e/fl50ji7nfaa8",
+          "170-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
