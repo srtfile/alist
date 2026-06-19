@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Island Of Giant Insects",
+  "anime_url": "https://hianime.ad/anime/the-island-of-giant-insects",
+  "slug": "the-island-of-giant-insects",
+  "mal_id": 38147,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:22:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/the-island-of-giant-insects/ep-1",
+      "sub": {
+        "HD-1": {
+          "38147-malep-1_vibeplayer_sub": "https://vibeplayer.site/aea09d9f252fbc15",
+          "38147-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aea09d9f252fbc15/master.m3u8"
+        },
+        "Earnvids": {
+          "38147-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zcmo9w74o3vj",
+          "38147-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "38147-malep-1_playmogo_sub": "https://playmogo.com/e/67fu7da27j4o",
+          "38147-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38147-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c09450a23c3dcbaf",
+          "38147-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c09450a23c3dcbaf/master.m3u8"
+        },
+        "StreamHG": {
+          "38147-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jjx76bcwgmbm",
+          "38147-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38147-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l9dgmf3c1020",
+          "38147-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38147-malep-1_playmogo_hsub": "https://playmogo.com/e/2hxs1psk49av",
+          "38147-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
