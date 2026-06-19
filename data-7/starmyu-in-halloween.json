@@ -1,0 +1,44 @@
+{
+  "anime_name": "Starmyu In Halloween",
+  "anime_url": "https://hianime.ad/anime/starmyu-in-halloween",
+  "slug": "starmyu-in-halloween",
+  "mal_id": 30375,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T10:24:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Act 1",
+      "episode_url": "https://hianime.ad/watch/starmyu-in-halloween/ep-1",
+      "sub": {
+        "HD-1": {
+          "30375-malep-1_vibeplayer_sub": "https://vibeplayer.site/305c50fbd6e76a1a",
+          "30375-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/305c50fbd6e76a1a/master.m3u8"
+        },
+        "StreamHG": {
+          "30375-malep-1_otakuhg_sub": "https://otakuhg.site/e/n58527l40v69",
+          "30375-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30375-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2ffvzrv18spk",
+          "30375-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30375-malep-1_vibeplayer_hsub": "https://vibeplayer.site/983a83fe5546fad0",
+          "30375-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/983a83fe5546fad0/master.m3u8"
+        },
+        "Earnvids": {
+          "30375-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8tohmp5ym1x6",
+          "30375-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30375-malep-1_playmogo_hsub": "https://playmogo.com/e/wxksk4q18v80",
+          "30375-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
