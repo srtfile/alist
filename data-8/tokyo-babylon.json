@@ -1,0 +1,99 @@
+{
+  "anime_name": "Tokyo Babylon",
+  "anime_url": "https://hianime.ad/anime/tokyo-babylon",
+  "slug": "tokyo-babylon",
+  "mal_id": 1703,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T20:35:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Track 01",
+      "episode_url": "https://hianime.ad/watch/tokyo-babylon/ep-1",
+      "sub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_sub": "https://vibeplayer.site/0b934aea69698127",
+          "1703-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b934aea69698127/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4ip4n6kr8ffq",
+          "1703-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-1_playmogo_sub": "https://playmogo.com/e/mkcu0j192x38",
+          "1703-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_dub": "https://vibeplayer.site/19b108e2d6c250c2",
+          "1703-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/19b108e2d6c250c2/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nexw8y9bjrxo",
+          "1703-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b9c0a4efa172a701",
+          "1703-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b9c0a4efa172a701/master.m3u8"
+        },
+        "StreamHG": {
+          "1703-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ygz66in46779",
+          "1703-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oocg42ytxq5w",
+          "1703-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-1_playmogo_hsub": "https://playmogo.com/e/9xfl4m86l33c",
+          "1703-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Track 02",
+      "episode_url": "https://hianime.ad/watch/tokyo-babylon/ep-2",
+      "sub": {
+        "HD-1": {
+          "1703-malep-2_vibeplayer_sub": "https://vibeplayer.site/4f6ed6614f867c1f",
+          "1703-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4f6ed6614f867c1f/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-2_otakuvid_sub": "https://otakuvid.online/embed/9ex5y94d5dwd",
+          "1703-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-2_playmogo_sub": "https://playmogo.com/e/5ln2fwithgzn",
+          "1703-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1703-malep-2_vibeplayer_dub": "https://vibeplayer.site/c97bf392ff64a61e",
+          "1703-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c97bf392ff64a61e/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-2_otakuvid_dub": "https://otakuvid.online/embed/1g2raozkhnpl",
+          "1703-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1703-malep-2_vibeplayer_hsub": "https://vibeplayer.site/45e970cb29eb77ee",
+          "1703-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/45e970cb29eb77ee/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ikym4ieq624h",
+          "1703-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-2_playmogo_hsub": "https://playmogo.com/e/v8xsmgwsfa5d",
+          "1703-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
