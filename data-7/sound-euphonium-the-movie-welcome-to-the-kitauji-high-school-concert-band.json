@@ -1,0 +1,40 @@
+{
+  "anime_name": "Sound Euphonium The Movie Welcome To The Kitauji High School Concert Band",
+  "anime_url": "https://hianime.ad/anime/sound-euphonium-the-movie-welcome-to-the-kitauji-high-school-concert-band",
+  "slug": "sound-euphonium-the-movie-welcome-to-the-kitauji-high-school-concert-band",
+  "mal_id": 27989,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:49:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to High School",
+      "episode_url": "https://hianime.ad/watch/sound-euphonium-the-movie-welcome-to-the-kitauji-high-school-concert-band/ep-1",
+      "sub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_sub": "https://vibeplayer.site/4d1b452f00bd2403",
+          "27989-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4d1b452f00bd2403/master.m3u8"
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3trkw739z8gf",
+          "27989-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5b90f62e901414f8",
+          "27989-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b90f62e901414f8/master.m3u8"
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0q2flw7fg1e2",
+          "27989-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27989-malep-1_playmogo_hsub": "https://playmogo.com/e/l85caoumhfbc",
+          "27989-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
