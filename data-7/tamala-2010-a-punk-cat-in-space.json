@@ -1,0 +1,48 @@
+{
+  "anime_name": "Tamala 2010 A Punk Cat In Space",
+  "anime_url": "https://hianime.ad/anime/tamala-2010-a-punk-cat-in-space",
+  "slug": "tamala-2010-a-punk-cat-in-space",
+  "mal_id": 39198,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:25:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Planet Camp",
+      "episode_url": "https://hianime.ad/watch/tamala-2010-a-punk-cat-in-space/ep-1",
+      "sub": {
+        "HD-1": {
+          "39198-malep-1_vibeplayer_sub": "https://vibeplayer.site/73489535f0bc2820",
+          "39198-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73489535f0bc2820/master.m3u8"
+        },
+        "StreamHG": {
+          "39198-malep-1_otakuhg_sub": "https://otakuhg.site/e/9to10vbf4udg",
+          "39198-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "39198-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fk3y5fwwwpq4",
+          "39198-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "39198-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9602345151a90e7d",
+          "39198-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9602345151a90e7d/master.m3u8"
+        },
+        "StreamHG": {
+          "39198-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lw3cplujy7we",
+          "39198-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "39198-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rcos282u1rtl",
+          "39198-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "39198-malep-1_playmogo_hsub": "https://playmogo.com/e/5kn36kt6n4m3",
+          "39198-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
