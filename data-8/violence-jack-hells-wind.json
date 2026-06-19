@@ -1,0 +1,53 @@
+{
+  "anime_name": "Violence Jack Hells Wind",
+  "anime_url": "https://hianime.ad/anime/violence-jack-hells-wind",
+  "slug": "violence-jack-hells-wind",
+  "mal_id": 54900,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:17:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sakura Arrives at Furin",
+      "episode_url": "https://hianime.ad/watch/violence-jack-hells-wind/ep-1",
+      "sub": {
+        "HD-1": {
+          "54900-malep-1_vibeplayer_sub": "https://vibeplayer.site/13d9d4f9e61840df",
+          "54900-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/13d9d4f9e61840df/master.m3u8"
+        },
+        "Earnvids": {
+          "54900-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qp0t2onmle5e",
+          "54900-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "54900-malep-1_vibeplayer_dub": "https://vibeplayer.site/48950f3c78681c72",
+          "54900-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48950f3c78681c72/master.m3u8"
+        },
+        "Earnvids": {
+          "54900-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6387mqxcsp6s",
+          "54900-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "54900-malep-1_vibeplayer_hsub": "https://vibeplayer.site/68a8cfdfbafaab73",
+          "54900-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/68a8cfdfbafaab73/master.m3u8"
+        },
+        "StreamHG": {
+          "54900-malep-1_otakuhg_hsub": "https://otakuhg.site/e/aujnzotqajpa",
+          "54900-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "54900-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/12dexbtsoxgj",
+          "54900-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "54900-malep-1_playmogo_hsub": "https://playmogo.com/e/onpjzx6d2owp",
+          "54900-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
