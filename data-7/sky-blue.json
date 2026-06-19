@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sky Blue",
+  "anime_url": "https://hianime.ad/anime/sky-blue",
+  "slug": "sky-blue",
+  "mal_id": 20971,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:28:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Opening Partita",
+      "episode_url": "https://hianime.ad/watch/sky-blue/ep-1",
+      "sub": {
+        "HD-1": {
+          "20971-malep-1_vibeplayer_sub": "https://vibeplayer.site/b3cbbd8386eec90c",
+          "20971-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3cbbd8386eec90c/master.m3u8"
+        },
+        "Earnvids": {
+          "20971-malep-1_otakuvid_sub": "https://otakuvid.online/embed/oqflndoa8cf8",
+          "20971-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20971-malep-1_playmogo_sub": "https://playmogo.com/e/v03tk05dv645",
+          "20971-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20971-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b484db806bd5e7b4",
+          "20971-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b484db806bd5e7b4/master.m3u8"
+        },
+        "StreamHG": {
+          "20971-malep-1_otakuhg_hsub": "https://otakuhg.site/e/iwlnln2ro5mn",
+          "20971-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "20971-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/53diigo7vnuh",
+          "20971-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20971-malep-1_playmogo_hsub": "https://playmogo.com/e/oth4iwso67g4",
+          "20971-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
