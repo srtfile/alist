@@ -3438,5 +3438,15 @@
     "captured_at": "2026-06-19T20:33:56",
     "file": "data-8/tokimeki-tonight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokimeki-tonight.json"
+  },
+  {
+    "slug": "tokko",
+    "mal_id": 916,
+    "anime_name": "Tokko",
+    "anime_url": "https://hianime.ad/anime/tokko",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T20:34:45",
+    "file": "data-8/tokko.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/tokko.json"
   }
 ]
