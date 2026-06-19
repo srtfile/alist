@@ -4538,5 +4538,15 @@
     "captured_at": "2026-06-19T21:33:39",
     "file": "data-8/trinity-blood.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trinity-blood.json"
+  },
+  {
+    "slug": "trinity-seven",
+    "mal_id": 25157,
+    "anime_name": "Trinity Seven",
+    "anime_url": "https://hianime.ad/anime/trinity-seven",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T21:34:19",
+    "file": "data-8/trinity-seven.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trinity-seven.json"
   }
 ]
