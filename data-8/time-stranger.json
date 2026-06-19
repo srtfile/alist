@@ -1,0 +1,53 @@
+{
+  "anime_name": "Time Stranger",
+  "anime_url": "https://hianime.ad/anime/time-stranger",
+  "slug": "time-stranger",
+  "mal_id": 33341,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:16:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gilbert the Sage",
+      "episode_url": "https://hianime.ad/watch/time-stranger/ep-1",
+      "sub": {
+        "HD-1": {
+          "33341-malep-1_vibeplayer_sub": "https://vibeplayer.site/6e838c0ef70ea151",
+          "33341-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6e838c0ef70ea151/master.m3u8"
+        },
+        "Earnvids": {
+          "33341-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2c71ac9slf18",
+          "33341-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33341-malep-1_vibeplayer_dub": "https://vibeplayer.site/45192a25b91e27ff",
+          "33341-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/45192a25b91e27ff/master.m3u8"
+        },
+        "Earnvids": {
+          "33341-malep-1_otakuvid_dub": "https://otakuvid.online/embed/l82tgbqno4ts",
+          "33341-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "33341-malep-1_playmogo_dub": "https://playmogo.com/e/bn84xxhrp9p7",
+          "33341-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33341-malep-1_vibeplayer_hsub": "https://vibeplayer.site/21b291c284a2c28e",
+          "33341-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/21b291c284a2c28e/master.m3u8"
+        },
+        "Earnvids": {
+          "33341-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a3w19h0tbddg",
+          "33341-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33341-malep-1_playmogo_hsub": "https://playmogo.com/e/iowxqr31rgck",
+          "33341-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
