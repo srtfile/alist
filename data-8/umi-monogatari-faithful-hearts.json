@@ -1,0 +1,52 @@
+{
+  "anime_name": "Umi Monogatari Faithful Hearts",
+  "anime_url": "https://hianime.ad/anime/umi-monogatari-faithful-hearts",
+  "slug": "umi-monogatari-faithful-hearts",
+  "mal_id": 6129,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:24:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Heart of the Sea, Heart of the Sky",
+      "episode_url": "https://hianime.ad/watch/umi-monogatari-faithful-hearts/ep-1",
+      "sub": {
+        "HD-1": {
+          "6129-malep-1_vibeplayer_sub": "https://vibeplayer.site/b39a06da8e74a19a",
+          "6129-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b39a06da8e74a19a/master.m3u8"
+        },
+        "StreamHG": {
+          "6129-malep-1_otakuhg_sub": "https://otakuhg.site/e/4ocysby8fyn9",
+          "6129-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6129-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ljvnu507x58d",
+          "6129-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6129-malep-1_playmogo_sub": "https://playmogo.com/e/wf8zgfyevp66",
+          "6129-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6129-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5ed2b5d72ff1f734",
+          "6129-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5ed2b5d72ff1f734/master.m3u8"
+        },
+        "StreamHG": {
+          "6129-malep-1_otakuhg_hsub": "https://otakuhg.site/e/xj88pvat0a5d",
+          "6129-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6129-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/i4z24s0kjn7i",
+          "6129-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6129-malep-1_playmogo_hsub": "https://playmogo.com/e/9zwf321s6s44",
+          "6129-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
