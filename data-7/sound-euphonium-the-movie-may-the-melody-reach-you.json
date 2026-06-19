@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sound Euphonium The Movie May The Melody Reach You",
+  "anime_url": "https://hianime.ad/anime/sound-euphonium-the-movie-may-the-melody-reach-you",
+  "slug": "sound-euphonium-the-movie-may-the-melody-reach-you",
+  "mal_id": 27989,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:49:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to High School",
+      "episode_url": "https://hianime.ad/watch/sound-euphonium-the-movie-may-the-melody-reach-you/ep-1",
+      "sub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_sub": "https://vibeplayer.site/6607b96740d0e24d",
+          "27989-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6607b96740d0e24d/master.m3u8"
+        },
+        "StreamHG": {
+          "27989-malep-1_otakuhg_sub": "https://otakuhg.site/e/5lk4s1h4wlhu",
+          "27989-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9v9jnpaitf2d",
+          "27989-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "27989-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9ccec5c6c57670de",
+          "27989-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9ccec5c6c57670de/master.m3u8"
+        },
+        "StreamHG": {
+          "27989-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ebk5iqsu50s8",
+          "27989-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "27989-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/llasqdn51mh5",
+          "27989-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "27989-malep-1_playmogo_hsub": "https://playmogo.com/e/rfhprimtydho",
+          "27989-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
