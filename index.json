@@ -23098,5 +23098,15 @@
     "captured_at": "2026-06-19T12:04:37",
     "file": "data-7/tadaima-okaeri.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tadaima-okaeri.json"
+  },
+  {
+    "slug": "tailenders",
+    "mal_id": null,
+    "anime_name": "Tailenders",
+    "anime_url": "https://hianime.ad/anime/tailenders",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T12:04:58",
+    "file": "data-7/tailenders.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tailenders.json"
   }
 ]
