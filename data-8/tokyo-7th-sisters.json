@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tokyo 7Th Sisters",
+  "anime_url": "https://hianime.ad/anime/tokyo-7th-sisters",
+  "slug": "tokyo-7th-sisters",
+  "mal_id": 1703,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:35:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Track 01",
+      "episode_url": "https://hianime.ad/watch/tokyo-7th-sisters/ep-1",
+      "sub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_sub": "https://vibeplayer.site/de9661daf084d6ea",
+          "1703-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/de9661daf084d6ea/master.m3u8"
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nf0shcogh1ln",
+          "1703-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1703-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5ac152c94ada5854",
+          "1703-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5ac152c94ada5854/master.m3u8"
+        },
+        "StreamHG": {
+          "1703-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3cpy3ey67cor",
+          "1703-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1703-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/yahjux5mpkbf",
+          "1703-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1703-malep-1_playmogo_hsub": "https://playmogo.com/e/jxl7xuarbfyb",
+          "1703-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
