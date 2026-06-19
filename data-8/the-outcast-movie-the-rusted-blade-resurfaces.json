@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Outcast Movie The Rusted Blade Resurfaces",
+  "anime_url": "https://hianime.ad/anime/the-outcast-movie-the-rusted-blade-resurfaces",
+  "slug": "the-outcast-movie-the-rusted-blade-resurfaces",
+  "mal_id": 33421,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T16:36:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Chou Family's Secret?",
+      "episode_url": "https://hianime.ad/watch/the-outcast-movie-the-rusted-blade-resurfaces/ep-1",
+      "sub": {
+        "HD-1": {
+          "33421-malep-1_vibeplayer_sub": "https://vibeplayer.site/a3711c31dbdb6149",
+          "33421-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3711c31dbdb6149/master.m3u8"
+        },
+        "Earnvids": {
+          "33421-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yeuqbe4jkhg1",
+          "33421-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33421-malep-1_playmogo_sub": "https://playmogo.com/e/3nhf2nq6bghq",
+          "33421-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33421-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a2c50f01e11bf9f9",
+          "33421-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a2c50f01e11bf9f9/master.m3u8"
+        },
+        "StreamHG": {
+          "33421-malep-1_otakuhg_hsub": "https://otakuhg.site/e/v6255vcgp4o9",
+          "33421-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33421-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6ihvh2gum4mf",
+          "33421-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33421-malep-1_playmogo_hsub": "https://playmogo.com/e/87aue7ps2vyb",
+          "33421-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
