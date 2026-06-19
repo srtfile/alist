@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Phoenix Chapter Of Yamato",
+  "anime_url": "https://hianime.ad/anime/the-phoenix-chapter-of-yamato",
+  "slug": "the-phoenix-chapter-of-yamato",
+  "mal_id": 1371,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T16:41:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Dawn, Part 1",
+      "episode_url": "https://hianime.ad/watch/the-phoenix-chapter-of-yamato/ep-1",
+      "sub": {
+        "HD-1": {
+          "1371-malep-1_vibeplayer_sub": "https://vibeplayer.site/d17e45c49f9354c4",
+          "1371-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d17e45c49f9354c4/master.m3u8"
+        },
+        "Earnvids": {
+          "1371-malep-1_otakuvid_sub": "https://otakuvid.online/embed/e9eshhc3y2vt",
+          "1371-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1371-malep-1_playmogo_sub": "https://playmogo.com/e/86q0wvtowq5c",
+          "1371-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1371-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f653e8cef56be86e",
+          "1371-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f653e8cef56be86e/master.m3u8"
+        },
+        "Earnvids": {
+          "1371-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1tmxygz5s2iy",
+          "1371-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1371-malep-1_playmogo_hsub": "https://playmogo.com/e/bxse8m22ygb1",
+          "1371-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
