@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Promised Neverland Season 2 Episode 5 5",
+  "anime_url": "https://hianime.ad/anime/the-promised-neverland-season-2-episode-5-5",
+  "slug": "the-promised-neverland-season-2-episode-5-5",
+  "mal_id": 39617,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T16:49:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/the-promised-neverland-season-2-episode-5-5/ep-1",
+      "sub": {
+        "HD-1": {
+          "39617-malep-1_vibeplayer_sub": "https://vibeplayer.site/cb288c4e76800adc",
+          "39617-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb288c4e76800adc/master.m3u8"
+        },
+        "StreamHG": {
+          "39617-malep-1_otakuhg_sub": "https://otakuhg.site/e/vrdg3scblgjb",
+          "39617-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "39617-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ojx9x5h6mbe7",
+          "39617-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "39617-malep-1_vibeplayer_hsub": "https://vibeplayer.site/822f2eef63c56c8f",
+          "39617-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/822f2eef63c56c8f/master.m3u8"
+        },
+        "StreamHG": {
+          "39617-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qnb7gf240xzs",
+          "39617-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "39617-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iqk3hq7cjdar",
+          "39617-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "39617-malep-1_playmogo_hsub": "https://playmogo.com/e/igzjjiskgpv9",
+          "39617-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
