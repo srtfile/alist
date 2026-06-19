@@ -1,0 +1,65 @@
+{
+  "anime_name": "Spirited Away",
+  "anime_url": "https://hianime.ad/anime/spirited-away",
+  "slug": "spirited-away",
+  "mal_id": 8890,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T06:13:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/spirited-away/ep-1",
+      "sub": {
+        "HD-1": {
+          "8890-malep-1_vibeplayer_sub": "https://vibeplayer.site/5a3acf3575c74cbe",
+          "8890-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5a3acf3575c74cbe/master.m3u8"
+        },
+        "StreamHG": {
+          "8890-malep-1_otakuhg_sub": "https://otakuhg.site/e/2jhg59xh2m12",
+          "8890-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8890-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vt1dalsddr8k",
+          "8890-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "8890-malep-1_vibeplayer_dub": "https://vibeplayer.site/48b14d4e151fd21d",
+          "8890-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/48b14d4e151fd21d/master.m3u8"
+        },
+        "StreamHG": {
+          "8890-malep-1_otakuhg_dub": "https://otakuhg.site/e/bk78zh89x3sz",
+          "8890-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8890-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3uxc2yj6deer",
+          "8890-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "8890-malep-1_playmogo_dub": "https://playmogo.com/e/hv50uidueeyi",
+          "8890-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "8890-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c095c3be8b5ae3bd",
+          "8890-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c095c3be8b5ae3bd/master.m3u8"
+        },
+        "StreamHG": {
+          "8890-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wk5g967rn1nt",
+          "8890-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8890-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fnt0gkizsz9r",
+          "8890-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8890-malep-1_playmogo_hsub": "https://playmogo.com/e/16pjl4d85dif",
+          "8890-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
