@@ -19298,5 +19298,15 @@
     "captured_at": "2026-06-19T03:36:08",
     "file": "data-7/slay-the-gods.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/slay-the-gods.json"
+  },
+  {
+    "slug": "slayers",
+    "mal_id": 534,
+    "anime_name": "Slayers",
+    "anime_url": "https://hianime.ad/anime/slayers",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T03:36:35",
+    "file": "data-7/slayers.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/slayers.json"
   }
 ]
