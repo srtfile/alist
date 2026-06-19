@@ -5938,5 +5938,15 @@
     "captured_at": "2026-06-19T22:47:30",
     "file": "data-8/usakame.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/usakame.json"
+  },
+  {
+    "slug": "usakame-special",
+    "mal_id": 32454,
+    "anime_name": "Usakame Special",
+    "anime_url": "https://hianime.ad/anime/usakame-special",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T22:48:01",
+    "file": "data-8/usakame-special.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/usakame-special.json"
   }
 ]
