@@ -23468,5 +23468,15 @@
     "captured_at": "2026-06-19T12:25:05",
     "file": "data-7/tamako-market.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tamako-market.json"
+  },
+  {
+    "slug": "tamako-market-specials",
+    "mal_id": 16417,
+    "anime_name": "Tamako Market Specials",
+    "anime_url": "https://hianime.ad/anime/tamako-market-specials",
+    "total_episodes": 6,
+    "captured_at": "2026-06-19T12:25:28",
+    "file": "data-7/tamako-market-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/tamako-market-specials.json"
   }
 ]
