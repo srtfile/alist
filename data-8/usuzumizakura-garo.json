@@ -1,0 +1,48 @@
+{
+  "anime_name": "Usuzumizakura Garo",
+  "anime_url": "https://hianime.ad/anime/usuzumizakura-garo",
+  "slug": "usuzumizakura-garo",
+  "mal_id": 23311,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:51:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hellfire",
+      "episode_url": "https://hianime.ad/watch/usuzumizakura-garo/ep-1",
+      "sub": {
+        "HD-1": {
+          "23311-malep-1_vibeplayer_sub": "https://vibeplayer.site/350d8b0a4d35d84b",
+          "23311-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/350d8b0a4d35d84b/master.m3u8"
+        },
+        "Earnvids": {
+          "23311-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7dvycm0seu0s",
+          "23311-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "23311-malep-1_playmogo_sub": "https://playmogo.com/e/as11459pd19w",
+          "23311-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "23311-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bf72de5d0e0d6e29",
+          "23311-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf72de5d0e0d6e29/master.m3u8"
+        },
+        "StreamHG": {
+          "23311-malep-1_otakuhg_hsub": "https://otakuhg.site/e/7njjaempfuy7",
+          "23311-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23311-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/knembbk6m8rm",
+          "23311-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23311-malep-1_playmogo_hsub": "https://playmogo.com/e/7rezc794nkiq",
+          "23311-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
