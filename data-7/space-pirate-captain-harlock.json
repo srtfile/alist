@@ -1,0 +1,57 @@
+{
+  "anime_name": "Space Pirate Captain Harlock",
+  "anime_url": "https://hianime.ad/anime/space-pirate-captain-harlock",
+  "slug": "space-pirate-captain-harlock",
+  "mal_id": 1000,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:59:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Jolly Roger That Flutters Through Space",
+      "episode_url": "https://hianime.ad/watch/space-pirate-captain-harlock/ep-1",
+      "sub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_sub": "https://vibeplayer.site/907cee5b68afd2eb",
+          "1000-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/907cee5b68afd2eb/master.m3u8"
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8rmh3ktzji24",
+          "1000-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1000-malep-1_playmogo_sub": "https://playmogo.com/e/83jdexisz1pl",
+          "1000-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_dub": "https://vibeplayer.site/30c4597ca107ee72",
+          "1000-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/30c4597ca107ee72/master.m3u8"
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_dub": "https://otakuvid.online/embed/j7gtuud6wajy",
+          "1000-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1000-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3f97b9dd85adcb25",
+          "1000-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f97b9dd85adcb25/master.m3u8"
+        },
+        "StreamHG": {
+          "1000-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1bvamd65e7de",
+          "1000-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1000-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9vc7jjsgww65",
+          "1000-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1000-malep-1_playmogo_hsub": "https://playmogo.com/e/k6hizy8gqhmc",
+          "1000-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
