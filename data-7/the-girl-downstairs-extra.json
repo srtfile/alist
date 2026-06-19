@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Girl Downstairs Extra",
+  "anime_url": "https://hianime.ad/anime/the-girl-downstairs-extra",
+  "slug": "the-girl-downstairs-extra",
+  "mal_id": 944,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:40:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Sword Dancer",
+      "episode_url": "https://hianime.ad/watch/the-girl-downstairs-extra/ep-1",
+      "sub": {
+        "HD-1": {
+          "944-malep-1_vibeplayer_sub": "https://vibeplayer.site/8245952f1b99a281",
+          "944-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8245952f1b99a281/master.m3u8"
+        },
+        "Earnvids": {
+          "944-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2avoil0dt3ir",
+          "944-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "944-malep-1_vibeplayer_hsub": "https://vibeplayer.site/efea0add781810c4",
+          "944-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/efea0add781810c4/master.m3u8"
+        },
+        "StreamHG": {
+          "944-malep-1_otakuhg_hsub": "https://otakuhg.site/e/p2x1wb7alp4g",
+          "944-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "944-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5h0zrjo17fox",
+          "944-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "944-malep-1_playmogo_hsub": "https://playmogo.com/e/sy6513d7b3lo",
+          "944-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
