@@ -1,0 +1,65 @@
+{
+  "anime_name": "Spy X Family Code White",
+  "anime_url": "https://hianime.ad/anime/spy-x-family-code-white",
+  "slug": "spy-x-family-code-white",
+  "mal_id": 50265,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T06:20:56",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Operation Strix",
+      "episode_url": "https://hianime.ad/watch/spy-x-family-code-white/ep-1",
+      "sub": {
+        "HD-1": {
+          "50265-malep-1_vibeplayer_sub": "https://vibeplayer.site/09c4487a0706b351",
+          "50265-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/09c4487a0706b351/master.m3u8"
+        },
+        "StreamHG": {
+          "50265-malep-1_otakuhg_sub": "https://otakuhg.site/e/natmekbvpuor",
+          "50265-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50265-malep-1_otakuvid_sub": "https://otakuvid.online/embed/aogzzd03lt8o",
+          "50265-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "50265-malep-1_vibeplayer_dub": "https://vibeplayer.site/6bafcdcd4ae3aae6",
+          "50265-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6bafcdcd4ae3aae6/master.m3u8"
+        },
+        "StreamHG": {
+          "50265-malep-1_otakuhg_dub": "https://otakuhg.site/e/7d1hkytzomsc",
+          "50265-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "50265-malep-1_otakuvid_dub": "https://otakuvid.online/embed/qxrhit98et7e",
+          "50265-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "50265-malep-1_playmogo_dub": "https://playmogo.com/e/8oxqxm0z5bgb",
+          "50265-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "50265-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e4d4e875237c19a7",
+          "50265-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e4d4e875237c19a7/master.m3u8"
+        },
+        "StreamHG": {
+          "50265-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yauytx4igdod",
+          "50265-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50265-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7ue6nv2rihw0",
+          "50265-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50265-malep-1_playmogo_hsub": "https://playmogo.com/e/m4cktc3tjbs2",
+          "50265-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
