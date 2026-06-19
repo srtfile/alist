@@ -21168,5 +21168,15 @@
     "captured_at": "2026-06-19T10:22:00",
     "file": "data-7/star-wars-visions.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-wars-visions.json"
+  },
+  {
+    "slug": "star-wars-visions-volume-3",
+    "mal_id": 1652,
+    "anime_name": "Star Wars Visions Volume 3",
+    "anime_url": "https://hianime.ad/anime/star-wars-visions-volume-3",
+    "total_episodes": 9,
+    "captured_at": "2026-06-19T10:22:19",
+    "file": "data-7/star-wars-visions-volume-3.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-wars-visions-volume-3.json"
   }
 ]
