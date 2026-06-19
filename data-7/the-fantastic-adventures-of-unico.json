@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Fantastic Adventures Of Unico",
+  "anime_url": "https://hianime.ad/anime/the-fantastic-adventures-of-unico",
+  "slug": "the-fantastic-adventures-of-unico",
+  "mal_id": 45713,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:23:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/the-fantastic-adventures-of-unico/ep-1",
+      "sub": {
+        "HD-1": {
+          "45713-malep-1_vibeplayer_sub": "https://vibeplayer.site/d78ad0dd9b0be4cf",
+          "45713-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d78ad0dd9b0be4cf/master.m3u8"
+        },
+        "Earnvids": {
+          "45713-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7yo2yyib4lva",
+          "45713-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "45713-malep-1_playmogo_sub": "https://playmogo.com/e/k7san9rbxmjc",
+          "45713-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "45713-malep-1_vibeplayer_hsub": "https://vibeplayer.site/aee3a803059f77de",
+          "45713-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/aee3a803059f77de/master.m3u8"
+        },
+        "StreamHG": {
+          "45713-malep-1_otakuhg_hsub": "https://otakuhg.site/e/m7zjcak7wqzq",
+          "45713-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45713-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7ttts40erowi",
+          "45713-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45713-malep-1_playmogo_hsub": "https://playmogo.com/e/ma004co3d9k3",
+          "45713-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
