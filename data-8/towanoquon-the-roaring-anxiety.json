@@ -1,0 +1,57 @@
+{
+  "anime_name": "Towanoquon The Roaring Anxiety",
+  "anime_url": "https://hianime.ad/anime/towanoquon-the-roaring-anxiety",
+  "slug": "towanoquon-the-roaring-anxiety",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:16:34",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/towanoquon-the-roaring-anxiety/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/a6e45c7d65430333",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a6e45c7d65430333/master.m3u8"
+        },
+        "StreamHG": {
+          "malep-1_otakuhg_sub": "https://otakuhg.site/e/5th8za213ocm",
+          "malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/j17nqbrh6pzi",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/9fe87f2c55ee7fca",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9fe87f2c55ee7fca/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/k96moq6jly5n",
+          "malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_dub": "https://playmogo.com/e/ol5xhobuu7i2",
+          "malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/d0d9d4f7959540f6",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d0d9d4f7959540f6/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lfo3t89swndl",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/g4evdkicsmnf",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
