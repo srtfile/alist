@@ -6348,5 +6348,15 @@
     "captured_at": "2026-06-19T23:07:27",
     "file": "data-8/vampire-knight.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-knight.json"
+  },
+  {
+    "slug": "vampire-knight-guilty",
+    "mal_id": 4752,
+    "anime_name": "Vampire Knight Guilty",
+    "anime_url": "https://hianime.ad/anime/vampire-knight-guilty",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T23:07:59",
+    "file": "data-8/vampire-knight-guilty.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-knight-guilty.json"
   }
 ]
