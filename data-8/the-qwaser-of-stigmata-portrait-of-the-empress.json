@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Qwaser Of Stigmata Portrait Of The Empress",
+  "anime_url": "https://hianime.ad/anime/the-qwaser-of-stigmata-portrait-of-the-empress",
+  "slug": "the-qwaser-of-stigmata-portrait-of-the-empress",
+  "mal_id": 6500,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:12:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Trembling Night",
+      "episode_url": "https://hianime.ad/watch/the-qwaser-of-stigmata-portrait-of-the-empress/ep-1",
+      "sub": {
+        "HD-1": {
+          "6500-malep-1_vibeplayer_sub": "https://vibeplayer.site/04bec8cccab9b9cc",
+          "6500-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/04bec8cccab9b9cc/master.m3u8"
+        },
+        "Earnvids": {
+          "6500-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6f76m4h3waxj",
+          "6500-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6500-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8d598f651bcf03b7",
+          "6500-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8d598f651bcf03b7/master.m3u8"
+        },
+        "StreamHG": {
+          "6500-malep-1_otakuhg_hsub": "https://otakuhg.site/e/gtss6g007qrq",
+          "6500-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6500-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/izxh2le4s46x",
+          "6500-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6500-malep-1_playmogo_hsub": "https://playmogo.com/e/6rpxaidhe3ka",
+          "6500-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
