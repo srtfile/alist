@@ -4,7 +4,7 @@
   "slug": "saint-seiya-omega",
   "mal_id": 12929,
   "total_episodes": 97,
-  "captured_at": "2026-06-18T19:14:34",
+  "captured_at": "2026-06-19T00:28:43",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -851,6 +851,10 @@
           "12929-malep-42_vibeplayer_hsub": "https://vibeplayer.site/2a456e0a67d3fe9a",
           "12929-malep-42_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a456e0a67d3fe9a/master.m3u8"
         },
+        "StreamHG": {
+          "12929-malep-42_otakuhg_hsub": "https://otakuhg.site/e/jykffw5ho5xw",
+          "12929-malep-42_otakuhg_hsub_m3u8": null
+        },
         "Earnvids": {
           "12929-malep-42_otakuvid_hsub": "https://otakuvid.online/embed/mjsc90w8dc4j",
           "12929-malep-42_otakuvid_hsub_m3u8": null
@@ -1256,6 +1260,10 @@
         "HD-1": {
           "12929-malep-56_vibeplayer_hsub": "https://vibeplayer.site/53dc09f1a2f7ecec",
           "12929-malep-56_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/53dc09f1a2f7ecec/master.m3u8"
+        },
+        "StreamHG": {
+          "12929-malep-56_otakuhg_hsub": "https://otakuhg.site/e/ot8z6dqv6d01",
+          "12929-malep-56_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "12929-malep-56_otakuvid_hsub": "https://otakuvid.online/embed/1pdo96tkilt4",
@@ -2308,6 +2316,10 @@
         "HD-1": {
           "12929-malep-92_vibeplayer_hsub": "https://vibeplayer.site/7ddc93192bee6138",
           "12929-malep-92_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7ddc93192bee6138/master.m3u8"
+        },
+        "StreamHG": {
+          "12929-malep-92_otakuhg_hsub": "https://otakuhg.site/e/zomacn85ygjt",
+          "12929-malep-92_otakuhg_hsub_m3u8": null
         },
         "Earnvids": {
           "12929-malep-92_otakuvid_hsub": "https://otakuvid.online/embed/1gwl49ad2nmy",
