@@ -4498,5 +4498,15 @@
     "captured_at": "2026-06-19T21:31:36",
     "file": "data-8/trigun-badlands-rumble.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trigun-badlands-rumble.json"
+  },
+  {
+    "slug": "trigun-stampede",
+    "mal_id": 52093,
+    "anime_name": "Trigun Stampede",
+    "anime_url": "https://hianime.ad/anime/trigun-stampede",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T21:31:56",
+    "file": "data-8/trigun-stampede.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/trigun-stampede.json"
   }
 ]
