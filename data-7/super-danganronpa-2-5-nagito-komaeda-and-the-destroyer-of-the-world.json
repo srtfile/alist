@@ -1,0 +1,48 @@
+{
+  "anime_name": "Super Danganronpa 2 5 Nagito Komaeda And The Destroyer Of The World",
+  "anime_url": "https://hianime.ad/anime/super-danganronpa-2-5-nagito-komaeda-and-the-destroyer-of-the-world",
+  "slug": "super-danganronpa-2-5-nagito-komaeda-and-the-destroyer-of-the-world",
+  "mal_id": 33417,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:18:35",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "In The Pink",
+      "episode_url": "https://hianime.ad/watch/super-danganronpa-2-5-nagito-komaeda-and-the-destroyer-of-the-world/ep-1",
+      "sub": {
+        "HD-1": {
+          "33417-malep-1_vibeplayer_sub": "https://vibeplayer.site/30de669103fa8d91",
+          "33417-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/30de669103fa8d91/master.m3u8"
+        },
+        "Earnvids": {
+          "33417-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8u7esy4yitbx",
+          "33417-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33417-malep-1_playmogo_sub": "https://playmogo.com/e/bnvuhue43tiz",
+          "33417-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33417-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6078c0ccc894f47d",
+          "33417-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6078c0ccc894f47d/master.m3u8"
+        },
+        "StreamHG": {
+          "33417-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rd4ctlr2yeal",
+          "33417-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33417-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mj2fpa2hfoog",
+          "33417-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33417-malep-1_playmogo_hsub": "https://playmogo.com/e/gth65zkuwi1e",
+          "33417-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
