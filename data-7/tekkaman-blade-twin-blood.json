@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tekkaman Blade Twin Blood",
+  "anime_url": "https://hianime.ad/anime/tekkaman-blade-twin-blood",
+  "slug": "tekkaman-blade-twin-blood",
+  "mal_id": 1459,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:47:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Friend or Foe (The Sky-Soaring Super Man)",
+      "episode_url": "https://hianime.ad/watch/tekkaman-blade-twin-blood/ep-1",
+      "sub": {
+        "HD-1": {
+          "1459-malep-1_vibeplayer_sub": "https://vibeplayer.site/f0bcc4b6c31271e9",
+          "1459-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0bcc4b6c31271e9/master.m3u8"
+        },
+        "StreamHG": {
+          "1459-malep-1_otakuhg_sub": "https://otakuhg.site/e/uwfn8wgzhzdr",
+          "1459-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1459-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jeenovldczza",
+          "1459-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1459-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4ba2eba14bd9555f",
+          "1459-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4ba2eba14bd9555f/master.m3u8"
+        },
+        "Earnvids": {
+          "1459-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y0h7zs19m0s6",
+          "1459-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1459-malep-1_playmogo_hsub": "https://playmogo.com/e/9u8n707qzd2w",
+          "1459-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
