@@ -68,5 +68,15 @@
     "captured_at": "2026-06-19T15:52:28",
     "file": "data-8/the-long-ballad.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-long-ballad.json"
+  },
+  {
+    "slug": "the-lost-village",
+    "mal_id": 32438,
+    "anime_name": "The Lost Village",
+    "anime_url": "https://hianime.ad/anime/the-lost-village",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T15:52:52",
+    "file": "data-8/the-lost-village.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-lost-village.json"
   }
 ]
