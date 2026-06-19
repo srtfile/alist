@@ -1,0 +1,303 @@
+{
+  "anime_name": "Ultraman 2",
+  "anime_url": "https://hianime.ad/anime/ultraman-2",
+  "slug": "ultraman-2",
+  "mal_id": 44298,
+  "total_episodes": 6,
+  "captured_at": "2026-06-19T22:16:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "44298-malep-1_vibeplayer_sub": "https://vibeplayer.site/aa0ce8632cecbdfb",
+          "44298-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa0ce8632cecbdfb/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-1_otakuhg_sub": "https://otakuhg.site/e/9j7c3eg2ubvi",
+          "44298-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v8zmz2jn31w7",
+          "44298-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-1_vibeplayer_dub": "https://vibeplayer.site/87eeb897ec398e64",
+          "44298-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/87eeb897ec398e64/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hub4bqvsqw28",
+          "44298-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-1_playmogo_dub": "https://playmogo.com/e/hy7umg60atwp",
+          "44298-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8924e33b629061a0",
+          "44298-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8924e33b629061a0/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pbichtf7m6k4",
+          "44298-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/68m87t3v0rmn",
+          "44298-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-1_playmogo_hsub": "https://playmogo.com/e/v3kpushb6fm5",
+          "44298-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-2",
+      "sub": {
+        "HD-1": {
+          "44298-malep-2_vibeplayer_sub": "https://vibeplayer.site/c98410c5ddce918f",
+          "44298-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c98410c5ddce918f/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-2_otakuhg_sub": "https://otakuhg.site/e/p78dfmca6fu3",
+          "44298-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-2_otakuvid_sub": "https://otakuvid.online/embed/okk12gkmfozj",
+          "44298-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-2_playmogo_sub": "https://playmogo.com/e/tzzkju5vnjwp",
+          "44298-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-2_vibeplayer_dub": "https://vibeplayer.site/aa080f8b6f265cb5",
+          "44298-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aa080f8b6f265cb5/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-2_otakuvid_dub": "https://otakuvid.online/embed/poxbht1mthqy",
+          "44298-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8ec0895a3ff9b977",
+          "44298-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8ec0895a3ff9b977/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-2_otakuhg_hsub": "https://otakuhg.site/e/rkr6i4lv50q2",
+          "44298-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ooeu6j3y4lvk",
+          "44298-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-2_playmogo_hsub": "https://playmogo.com/e/i44wmqanwju3",
+          "44298-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-3",
+      "sub": {
+        "HD-1": {
+          "44298-malep-3_vibeplayer_sub": "https://vibeplayer.site/7cb315a05c3c8701",
+          "44298-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7cb315a05c3c8701/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-3_otakuhg_sub": "https://otakuhg.site/e/17aywl4tu7hw",
+          "44298-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-3_otakuvid_sub": "https://otakuvid.online/embed/s6nv9ybgcw7i",
+          "44298-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-3_vibeplayer_dub": "https://vibeplayer.site/a0b8b1e4b7f8a7a4",
+          "44298-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0b8b1e4b7f8a7a4/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-3_otakuvid_dub": "https://otakuvid.online/embed/o4zhqrvuznug",
+          "44298-malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-3_playmogo_dub": "https://playmogo.com/e/htf2lu0v6vd6",
+          "44298-malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-3_vibeplayer_hsub": "https://vibeplayer.site/bb15010dc0ea06f3",
+          "44298-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bb15010dc0ea06f3/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-3_otakuhg_hsub": "https://otakuhg.site/e/jroskokyeh75",
+          "44298-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/6qrknzy2ixc8",
+          "44298-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-3_playmogo_hsub": "https://playmogo.com/e/27zckv8oyyel",
+          "44298-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 4",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-4",
+      "sub": {
+        "HD-1": {
+          "44298-malep-4_vibeplayer_sub": "https://vibeplayer.site/c46c9c631cbf17f5",
+          "44298-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c46c9c631cbf17f5/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-4_otakuhg_sub": "https://otakuhg.site/e/nhxstmwfzjrm",
+          "44298-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-4_otakuvid_sub": "https://otakuvid.online/embed/8o9p19so2v5f",
+          "44298-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-4_vibeplayer_dub": "https://vibeplayer.site/1742bc06c4da5e61",
+          "44298-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1742bc06c4da5e61/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-4_otakuvid_dub": "https://otakuvid.online/embed/hthb9aqwsfi8",
+          "44298-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-4_vibeplayer_hsub": "https://vibeplayer.site/c5fa846ffa6b4452",
+          "44298-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c5fa846ffa6b4452/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-4_otakuhg_hsub": "https://otakuhg.site/e/twuuelbqjfze",
+          "44298-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/bopkopki8k30",
+          "44298-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-4_playmogo_hsub": "https://playmogo.com/e/rhcbfguip7su",
+          "44298-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 5",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-5",
+      "sub": {
+        "HD-1": {
+          "44298-malep-5_vibeplayer_sub": "https://vibeplayer.site/bd710ba7c0b5670f",
+          "44298-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bd710ba7c0b5670f/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-5_otakuvid_sub": "https://otakuvid.online/embed/3qfmn13ydcf5",
+          "44298-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-5_vibeplayer_dub": "https://vibeplayer.site/dc5236c8c766a2cc",
+          "44298-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/dc5236c8c766a2cc/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-5_otakuvid_dub": "https://otakuvid.online/embed/u0ek57353o98",
+          "44298-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-5_vibeplayer_hsub": "https://vibeplayer.site/1c2f2721d3f4f95a",
+          "44298-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1c2f2721d3f4f95a/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-5_otakuhg_hsub": "https://otakuhg.site/e/1rythz75wqcf",
+          "44298-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/ff2h37pg1opi",
+          "44298-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-5_playmogo_hsub": "https://playmogo.com/e/s7dg9yicruzs",
+          "44298-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 6",
+      "episode_url": "https://hianime.ad/watch/ultraman-2/ep-6",
+      "sub": {
+        "HD-1": {
+          "44298-malep-6_vibeplayer_sub": "https://vibeplayer.site/c28b2ebc3dab6227",
+          "44298-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c28b2ebc3dab6227/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-6_otakuhg_sub": "https://otakuhg.site/e/6rrc4w1m5f1q",
+          "44298-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-6_otakuvid_sub": "https://otakuvid.online/embed/t59iddmyjf8g",
+          "44298-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-6_playmogo_sub": "https://playmogo.com/e/r1c0lcijsbcg",
+          "44298-malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "44298-malep-6_vibeplayer_dub": "https://vibeplayer.site/ba4878e589d897f1",
+          "44298-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ba4878e589d897f1/master.m3u8"
+        },
+        "Earnvids": {
+          "44298-malep-6_otakuvid_dub": "https://otakuvid.online/embed/bs8onnx3ht17",
+          "44298-malep-6_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-6_playmogo_dub": "https://playmogo.com/e/ristmfe50c3x",
+          "44298-malep-6_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "44298-malep-6_vibeplayer_hsub": "https://vibeplayer.site/b679b680e9c26633",
+          "44298-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b679b680e9c26633/master.m3u8"
+        },
+        "StreamHG": {
+          "44298-malep-6_otakuhg_hsub": "https://otakuhg.site/e/lbrquma63wxp",
+          "44298-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "44298-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/0k7gwpcn5c1n",
+          "44298-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "44298-malep-6_playmogo_hsub": "https://playmogo.com/e/6ixqz70llmlq",
+          "44298-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
