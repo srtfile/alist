@@ -1,0 +1,73 @@
+{
+  "anime_name": "Sousei No Aquarion Ova",
+  "anime_url": "https://hianime.ad/anime/sousei-no-aquarion-ova",
+  "slug": "sousei-no-aquarion-ova",
+  "mal_id": 478,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T05:50:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Memories of Heavenly Wings",
+      "episode_url": "https://hianime.ad/watch/sousei-no-aquarion-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "478-malep-1_vibeplayer_sub": "https://vibeplayer.site/58c6ec165b4e72fc",
+          "478-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/58c6ec165b4e72fc/master.m3u8"
+        },
+        "Earnvids": {
+          "478-malep-1_otakuvid_sub": "https://otakuvid.online/embed/411h0cjon7hf",
+          "478-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "478-malep-1_vibeplayer_hsub": "https://vibeplayer.site/00234bee37ddaa0f",
+          "478-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/00234bee37ddaa0f/master.m3u8"
+        },
+        "StreamHG": {
+          "478-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mtv5xuet2s76",
+          "478-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "478-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tgpejqrm37ne",
+          "478-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "478-malep-1_playmogo_hsub": "https://playmogo.com/e/xac8bddx9l03",
+          "478-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beast of Darkness",
+      "episode_url": "https://hianime.ad/watch/sousei-no-aquarion-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "478-malep-2_vibeplayer_sub": "https://vibeplayer.site/8bded7d2eecf302a",
+          "478-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8bded7d2eecf302a/master.m3u8"
+        },
+        "Earnvids": {
+          "478-malep-2_otakuvid_sub": "https://otakuvid.online/embed/p2sm8wlmqn2g",
+          "478-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "478-malep-2_vibeplayer_hsub": "https://vibeplayer.site/5b8ca10331693361",
+          "478-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b8ca10331693361/master.m3u8"
+        },
+        "Earnvids": {
+          "478-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/dpsvfefpdvib",
+          "478-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "478-malep-2_playmogo_hsub": "https://playmogo.com/e/34qhtdfn4q6t",
+          "478-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
