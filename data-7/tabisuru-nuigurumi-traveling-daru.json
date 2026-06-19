@@ -1,0 +1,40 @@
+{
+  "anime_name": "Tabisuru Nuigurumi Traveling Daru",
+  "anime_url": "https://hianime.ad/anime/tabisuru-nuigurumi-traveling-daru",
+  "slug": "tabisuru-nuigurumi-traveling-daru",
+  "mal_id": 22465,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:03:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/tabisuru-nuigurumi-traveling-daru/ep-1",
+      "sub": {
+        "HD-1": {
+          "22465-malep-1_vibeplayer_sub": "https://vibeplayer.site/0f32e6977f7cd310",
+          "22465-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0f32e6977f7cd310/master.m3u8"
+        },
+        "Earnvids": {
+          "22465-malep-1_otakuvid_sub": "https://otakuvid.online/embed/doxpw95kh93l",
+          "22465-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22465-malep-1_vibeplayer_hsub": "https://vibeplayer.site/69fe3559870df233",
+          "22465-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/69fe3559870df233/master.m3u8"
+        },
+        "Earnvids": {
+          "22465-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/89ujovfz18dp",
+          "22465-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22465-malep-1_playmogo_hsub": "https://playmogo.com/e/xpmj4fk4nh6m",
+          "22465-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
