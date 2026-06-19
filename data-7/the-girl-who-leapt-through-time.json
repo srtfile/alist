@@ -1,0 +1,65 @@
+{
+  "anime_name": "The Girl Who Leapt Through Time",
+  "anime_url": "https://hianime.ad/anime/the-girl-who-leapt-through-time",
+  "slug": "the-girl-who-leapt-through-time",
+  "mal_id": 5307,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:42:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Lone Noble Soul",
+      "episode_url": "https://hianime.ad/watch/the-girl-who-leapt-through-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "5307-malep-1_vibeplayer_sub": "https://vibeplayer.site/946b4d4735da6e8a",
+          "5307-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/946b4d4735da6e8a/master.m3u8"
+        },
+        "StreamHG": {
+          "5307-malep-1_otakuhg_sub": "https://otakuhg.site/e/y0yh7frqxjex",
+          "5307-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5307-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d5e3o7j4mo1a",
+          "5307-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "5307-malep-1_vibeplayer_dub": "https://vibeplayer.site/9f19b289b4066ab8",
+          "5307-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9f19b289b4066ab8/master.m3u8"
+        },
+        "StreamHG": {
+          "5307-malep-1_otakuhg_dub": "https://otakuhg.site/e/n05y5mxytr0e",
+          "5307-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "5307-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5djmhq0lceiv",
+          "5307-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "5307-malep-1_playmogo_dub": "https://playmogo.com/e/gnw26fhdn74t",
+          "5307-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "5307-malep-1_vibeplayer_hsub": "https://vibeplayer.site/281f69e48ce5de89",
+          "5307-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/281f69e48ce5de89/master.m3u8"
+        },
+        "StreamHG": {
+          "5307-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sdq9yzo1pjh7",
+          "5307-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5307-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/08x5g9fz2q8r",
+          "5307-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5307-malep-1_playmogo_hsub": "https://playmogo.com/e/ldlg0euexovq",
+          "5307-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
