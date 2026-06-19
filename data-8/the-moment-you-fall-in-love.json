@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Moment You Fall In Love",
+  "anime_url": "https://hianime.ad/anime/the-moment-you-fall-in-love",
+  "slug": "the-moment-you-fall-in-love",
+  "mal_id": 934,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T16:25:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Beginning (Chapter: Spirited Away by the Demon, Part 1)",
+      "episode_url": "https://hianime.ad/watch/the-moment-you-fall-in-love/ep-1",
+      "sub": {
+        "HD-1": {
+          "934-malep-1_vibeplayer_sub": "https://vibeplayer.site/db6279adf5cdcf50",
+          "934-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/db6279adf5cdcf50/master.m3u8"
+        },
+        "Earnvids": {
+          "934-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i2mnh1kn4mut",
+          "934-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "934-malep-1_vibeplayer_hsub": "https://vibeplayer.site/421cc23d81ee3395",
+          "934-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/421cc23d81ee3395/master.m3u8"
+        },
+        "StreamHG": {
+          "934-malep-1_otakuhg_hsub": "https://otakuhg.site/e/o6d5hxiey7ad",
+          "934-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "934-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ji792mj1n7h4",
+          "934-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "934-malep-1_playmogo_hsub": "https://playmogo.com/e/q2hugoy1lud5",
+          "934-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
