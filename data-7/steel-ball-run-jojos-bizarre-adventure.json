@@ -1,0 +1,69 @@
+{
+  "anime_name": "Steel Ball Run Jojos Bizarre Adventure",
+  "anime_url": "https://hianime.ad/anime/steel-ball-run-jojos-bizarre-adventure",
+  "slug": "steel-ball-run-jojos-bizarre-adventure",
+  "mal_id": 48333,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T10:28:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/steel-ball-run-jojos-bizarre-adventure/ep-1",
+      "sub": {
+        "HD-1": {
+          "48333-malep-1_vibeplayer_sub": "https://vibeplayer.site/c0fcaf88a6ba2978",
+          "48333-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0fcaf88a6ba2978/master.m3u8"
+        },
+        "StreamHG": {
+          "48333-malep-1_otakuhg_sub": "https://otakuhg.site/e/6hjoww0c114i",
+          "48333-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "48333-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cu7kj7qf963h",
+          "48333-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "48333-malep-1_playmogo_sub": "https://playmogo.com/e/gkoi9rax2jqt",
+          "48333-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "48333-malep-1_vibeplayer_dub": "https://vibeplayer.site/6ce5e8ae23e2bcc9",
+          "48333-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6ce5e8ae23e2bcc9/master.m3u8"
+        },
+        "StreamHG": {
+          "48333-malep-1_otakuhg_dub": "https://otakuhg.site/e/lmtbwy5gvsiu",
+          "48333-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48333-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jn7okbf229dq",
+          "48333-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "48333-malep-1_playmogo_dub": "https://playmogo.com/e/bg6hqa5k8jw2",
+          "48333-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "48333-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b793ebf4f9e7b369",
+          "48333-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b793ebf4f9e7b369/master.m3u8"
+        },
+        "StreamHG": {
+          "48333-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x1dkle810t35",
+          "48333-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "48333-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iletrcnsib1p",
+          "48333-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "48333-malep-1_playmogo_hsub": "https://playmogo.com/e/zk2qun6l1ndw",
+          "48333-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
