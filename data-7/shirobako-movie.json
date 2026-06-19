@@ -1,0 +1,44 @@
+{
+  "anime_name": "Shirobako Movie",
+  "anime_url": "https://hianime.ad/anime/shirobako-movie",
+  "slug": "shirobako-movie",
+  "mal_id": 25835,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T02:49:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Exodus to Tomorrow!",
+      "episode_url": "https://hianime.ad/watch/shirobako-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "25835-malep-1_vibeplayer_sub": "https://vibeplayer.site/e43ec9c2c8b4df18",
+          "25835-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e43ec9c2c8b4df18/master.m3u8"
+        },
+        "Earnvids": {
+          "25835-malep-1_otakuvid_sub": "https://otakuvid.online/embed/kgzu4a6a0bz3",
+          "25835-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25835-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cbfeeb8b74d03db6",
+          "25835-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cbfeeb8b74d03db6/master.m3u8"
+        },
+        "StreamHG": {
+          "25835-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3ac6xbq0kb5y",
+          "25835-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25835-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iifcj4cqf0de",
+          "25835-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25835-malep-1_playmogo_hsub": "https://playmogo.com/e/l9vahjqdrrpg",
+          "25835-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
