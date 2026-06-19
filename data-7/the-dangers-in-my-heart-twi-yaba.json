@@ -1,0 +1,65 @@
+{
+  "anime_name": "The Dangers In My Heart Twi Yaba",
+  "anime_url": "https://hianime.ad/anime/the-dangers-in-my-heart-twi-yaba",
+  "slug": "the-dangers-in-my-heart-twi-yaba",
+  "mal_id": 52578,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:48:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Was Stolen Away",
+      "episode_url": "https://hianime.ad/watch/the-dangers-in-my-heart-twi-yaba/ep-1",
+      "sub": {
+        "HD-1": {
+          "52578-malep-1_vibeplayer_sub": "https://vibeplayer.site/607ada2d4e00190a",
+          "52578-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/607ada2d4e00190a/master.m3u8"
+        },
+        "Earnvids": {
+          "52578-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pyqrf5p3n3tw",
+          "52578-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "52578-malep-1_playmogo_sub": "https://playmogo.com/e/e20qnyctfe1q",
+          "52578-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "52578-malep-1_vibeplayer_dub": "https://vibeplayer.site/d7ad581883a7d54e",
+          "52578-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d7ad581883a7d54e/master.m3u8"
+        },
+        "StreamHG": {
+          "52578-malep-1_otakuhg_dub": "https://otakuhg.site/e/sli7u9tpkko0",
+          "52578-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "52578-malep-1_otakuvid_dub": "https://otakuvid.online/embed/iqfilvdozfg3",
+          "52578-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "52578-malep-1_playmogo_dub": "https://playmogo.com/e/05bo8m4fqdcp",
+          "52578-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "52578-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3b316a217c39781e",
+          "52578-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3b316a217c39781e/master.m3u8"
+        },
+        "StreamHG": {
+          "52578-malep-1_otakuhg_hsub": "https://otakuhg.site/e/psytxhc42han",
+          "52578-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52578-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lemanmkhugkd",
+          "52578-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52578-malep-1_playmogo_hsub": "https://playmogo.com/e/7gsc7bgpillh",
+          "52578-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
