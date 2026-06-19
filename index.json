@@ -26808,5 +26808,15 @@
     "captured_at": "2026-06-19T14:59:14",
     "file": "data-7/the-guardian-brothers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/the-guardian-brothers.json"
+  },
+  {
+    "slug": "the-guardian-legend",
+    "mal_id": 10224,
+    "anime_name": "The Guardian Legend",
+    "anime_url": "https://hianime.ad/anime/the-guardian-legend",
+    "total_episodes": 16,
+    "captured_at": "2026-06-19T14:59:30",
+    "file": "data-7/the-guardian-legend.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/the-guardian-legend.json"
   }
 ]
