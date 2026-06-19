@@ -1,0 +1,49 @@
+{
+  "anime_name": "The Last Naruto The Movie",
+  "anime_url": "https://hianime.ad/anime/the-last-naruto-the-movie",
+  "slug": "the-last-naruto-the-movie",
+  "mal_id": 32313,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:33:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Superhumans of November",
+      "episode_url": "https://hianime.ad/watch/the-last-naruto-the-movie/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "32313-malep-1_vibeplayer_dub": "https://vibeplayer.site/fb1601b1a63e66bf",
+          "32313-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fb1601b1a63e66bf/master.m3u8"
+        },
+        "StreamHG": {
+          "32313-malep-1_otakuhg_dub": "https://otakuhg.site/e/bcblif183klb",
+          "32313-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "32313-malep-1_otakuvid_dub": "https://otakuvid.online/embed/8pmth23zr8od",
+          "32313-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "32313-malep-1_vibeplayer_raw": "https://vibeplayer.site/7ccfd427268e6544",
+          "32313-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/7ccfd427268e6544/master.m3u8"
+        },
+        "StreamHG": {
+          "32313-malep-1_otakuhg_raw": "https://otakuhg.site/e/nbk8gy2sbx88",
+          "32313-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "32313-malep-1_otakuvid_raw": "https://otakuvid.online/embed/rsbc6apr5pdp",
+          "32313-malep-1_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "32313-malep-1_playmogo_raw": "https://playmogo.com/e/7vx9nfw8v5bt",
+          "32313-malep-1_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
