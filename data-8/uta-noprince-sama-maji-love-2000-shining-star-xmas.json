@@ -1,0 +1,40 @@
+{
+  "anime_name": "Uta Noprince Sama Maji Love 2000 Shining Star Xmas",
+  "anime_url": "https://hianime.ad/anime/uta-noprince-sama-maji-love-2000-shining-star-xmas",
+  "slug": "uta-noprince-sama-maji-love-2000-shining-star-xmas",
+  "mal_id": 10321,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:53:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seven-Colored Compass",
+      "episode_url": "https://hianime.ad/watch/uta-noprince-sama-maji-love-2000-shining-star-xmas/ep-1",
+      "sub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_sub": "https://vibeplayer.site/9e5a8217e7ed6b50",
+          "10321-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9e5a8217e7ed6b50/master.m3u8"
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vnrfm18k2pt3",
+          "10321-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10321-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8cdb3aa655f6c640",
+          "10321-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8cdb3aa655f6c640/master.m3u8"
+        },
+        "Earnvids": {
+          "10321-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uusjyciwh4ml",
+          "10321-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10321-malep-1_playmogo_hsub": "https://playmogo.com/e/j6xgr1yajjm1",
+          "10321-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
