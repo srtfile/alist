@@ -1,0 +1,53 @@
+{
+  "anime_name": "Tiger Bunny Movie 1",
+  "anime_url": "https://hianime.ad/anime/tiger-bunny-movie-1",
+  "slug": "tiger-bunny-movie-1",
+  "mal_id": 9941,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:05:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "All's Well That Ends Well.",
+      "episode_url": "https://hianime.ad/watch/tiger-bunny-movie-1/ep-1",
+      "sub": {
+        "HD-1": {
+          "9941-malep-1_vibeplayer_sub": "https://vibeplayer.site/fb6da1333dac84aa",
+          "9941-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb6da1333dac84aa/master.m3u8"
+        },
+        "Earnvids": {
+          "9941-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qxgep0fv3i0q",
+          "9941-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "9941-malep-1_vibeplayer_dub": "https://vibeplayer.site/a1d43a2ca703a78f",
+          "9941-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a1d43a2ca703a78f/master.m3u8"
+        },
+        "Earnvids": {
+          "9941-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nzp509dfqzqv",
+          "9941-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "9941-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d79d8351396434f9",
+          "9941-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d79d8351396434f9/master.m3u8"
+        },
+        "StreamHG": {
+          "9941-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z9gyz6wqz48v",
+          "9941-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "9941-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rzsbx7wpg5lu",
+          "9941-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9941-malep-1_playmogo_hsub": "https://playmogo.com/e/9181pfl92ywc",
+          "9941-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
