@@ -1,0 +1,57 @@
+{
+  "anime_name": "Street Fighter Alpha Generations",
+  "anime_url": "https://hianime.ad/anime/street-fighter-alpha-generations",
+  "slug": "street-fighter-alpha-generations",
+  "mal_id": 876,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T10:58:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Beginning of a Journey – Invitation from San Francisco",
+      "episode_url": "https://hianime.ad/watch/street-fighter-alpha-generations/ep-1",
+      "sub": {
+        "HD-1": {
+          "876-malep-1_vibeplayer_sub": "https://vibeplayer.site/3700004c12854475",
+          "876-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3700004c12854475/master.m3u8"
+        },
+        "Earnvids": {
+          "876-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sp7yfeqwdb23",
+          "876-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "876-malep-1_vibeplayer_dub": "https://vibeplayer.site/d5c3b9fabde99cb0",
+          "876-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d5c3b9fabde99cb0/master.m3u8"
+        },
+        "StreamHG": {
+          "876-malep-1_otakuhg_dub": "https://otakuhg.site/e/mdmmnar5sj1n",
+          "876-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "876-malep-1_otakuvid_dub": "https://otakuvid.online/embed/d84ykkoxei4u",
+          "876-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "876-malep-1_vibeplayer_hsub": "https://vibeplayer.site/014940b0fed229b6",
+          "876-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/014940b0fed229b6/master.m3u8"
+        },
+        "StreamHG": {
+          "876-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3x024sx88e0e",
+          "876-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "876-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zct4oc27ebqe",
+          "876-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "876-malep-1_playmogo_hsub": "https://playmogo.com/e/wm5zc9i7b16l",
+          "876-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
