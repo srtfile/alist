@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Disappearance Of Haruhi Suzumiya",
+  "anime_url": "https://hianime.ad/anime/the-disappearance-of-haruhi-suzumiya",
+  "slug": "the-disappearance-of-haruhi-suzumiya",
+  "mal_id": 26351,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:02:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Precious Place",
+      "episode_url": "https://hianime.ad/watch/the-disappearance-of-haruhi-suzumiya/ep-1",
+      "sub": {
+        "HD-1": {
+          "26351-malep-1_vibeplayer_sub": "https://vibeplayer.site/b875d93a615b4733",
+          "26351-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b875d93a615b4733/master.m3u8"
+        },
+        "StreamHG": {
+          "26351-malep-1_otakuhg_sub": "https://otakuhg.site/e/zw0vjgiy03iw",
+          "26351-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "26351-malep-1_otakuvid_sub": "https://otakuvid.online/embed/eow2l7vs6wg4",
+          "26351-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "26351-malep-1_vibeplayer_dub": "https://vibeplayer.site/165e12307a8faea1",
+          "26351-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/165e12307a8faea1/master.m3u8"
+        },
+        "StreamHG": {
+          "26351-malep-1_otakuhg_dub": "https://otakuhg.site/e/gh6gmpp570sb",
+          "26351-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "26351-malep-1_otakuvid_dub": "https://otakuvid.online/embed/z6lmwfbc5tym",
+          "26351-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "26351-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2fe80d99e44f859a",
+          "26351-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2fe80d99e44f859a/master.m3u8"
+        },
+        "StreamHG": {
+          "26351-malep-1_otakuhg_hsub": "https://otakuhg.site/e/13mmk0t1a2b5",
+          "26351-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "26351-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/drujyv0lk5kk",
+          "26351-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "26351-malep-1_playmogo_hsub": "https://playmogo.com/e/5uvyd72y91ex",
+          "26351-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
