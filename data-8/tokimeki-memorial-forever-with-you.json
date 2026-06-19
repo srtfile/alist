@@ -1,0 +1,73 @@
+{
+  "anime_name": "Tokimeki Memorial Forever With You",
+  "anime_url": "https://hianime.ad/anime/tokimeki-memorial-forever-with-you",
+  "slug": "tokimeki-memorial-forever-with-you",
+  "mal_id": 1555,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T20:33:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "An Exciting Encounter",
+      "episode_url": "https://hianime.ad/watch/tokimeki-memorial-forever-with-you/ep-1",
+      "sub": {
+        "HD-1": {
+          "1555-malep-1_vibeplayer_sub": "https://vibeplayer.site/3f2d869421ed02c6",
+          "1555-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f2d869421ed02c6/master.m3u8"
+        },
+        "Earnvids": {
+          "1555-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8euenfwzhn3e",
+          "1555-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1555-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d3ce154d031b96fa",
+          "1555-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d3ce154d031b96fa/master.m3u8"
+        },
+        "StreamHG": {
+          "1555-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l2kukprya73z",
+          "1555-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1555-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5e4gulnt1u1m",
+          "1555-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1555-malep-1_playmogo_hsub": "https://playmogo.com/e/6moh5be16ci5",
+          "1555-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Exciting Destiny",
+      "episode_url": "https://hianime.ad/watch/tokimeki-memorial-forever-with-you/ep-2",
+      "sub": {
+        "HD-1": {
+          "1555-malep-2_vibeplayer_sub": "https://vibeplayer.site/8d1ea158ab829977",
+          "1555-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8d1ea158ab829977/master.m3u8"
+        },
+        "Earnvids": {
+          "1555-malep-2_otakuvid_sub": "https://otakuvid.online/embed/kcq41dz8h2gi",
+          "1555-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1555-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8017c26f519d31f3",
+          "1555-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8017c26f519d31f3/master.m3u8"
+        },
+        "Earnvids": {
+          "1555-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/b69h16e221q6",
+          "1555-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1555-malep-2_playmogo_hsub": "https://playmogo.com/e/cxs577pshbe4",
+          "1555-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
