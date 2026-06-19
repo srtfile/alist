@@ -1,0 +1,89 @@
+{
+  "anime_name": "Strike The Blood Kingdom Of The Valkyria",
+  "anime_url": "https://hianime.ad/anime/strike-the-blood-kingdom-of-the-valkyria",
+  "slug": "strike-the-blood-kingdom-of-the-valkyria",
+  "mal_id": 18277,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T11:01:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Right Arm of the Saint I",
+      "episode_url": "https://hianime.ad/watch/strike-the-blood-kingdom-of-the-valkyria/ep-1",
+      "sub": {
+        "HD-1": {
+          "18277-malep-1_vibeplayer_sub": "https://vibeplayer.site/7db1f7cfeb7c46cf",
+          "18277-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7db1f7cfeb7c46cf/master.m3u8"
+        },
+        "StreamHG": {
+          "18277-malep-1_otakuhg_sub": "https://otakuhg.site/e/o1fbrrvokddp",
+          "18277-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18277-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tjr0jaw0fh20",
+          "18277-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "18277-malep-1_playmogo_sub": "https://playmogo.com/e/vbev552is3b6",
+          "18277-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18277-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1426ae409624c80b",
+          "18277-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1426ae409624c80b/master.m3u8"
+        },
+        "StreamHG": {
+          "18277-malep-1_otakuhg_hsub": "https://otakuhg.site/e/34bi1uqwca9w",
+          "18277-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18277-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ki65xi0a3y2b",
+          "18277-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18277-malep-1_playmogo_hsub": "https://playmogo.com/e/jvfyc7gr75cw",
+          "18277-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Right Arm of the Saint II",
+      "episode_url": "https://hianime.ad/watch/strike-the-blood-kingdom-of-the-valkyria/ep-2",
+      "sub": {
+        "HD-1": {
+          "18277-malep-2_vibeplayer_sub": "https://vibeplayer.site/0b2ba8ecc43e4ec1",
+          "18277-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0b2ba8ecc43e4ec1/master.m3u8"
+        },
+        "StreamHG": {
+          "18277-malep-2_otakuhg_sub": "https://otakuhg.site/e/f4l3azficq8i",
+          "18277-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18277-malep-2_otakuvid_sub": "https://otakuvid.online/embed/pd899hwpjysx",
+          "18277-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18277-malep-2_vibeplayer_hsub": "https://vibeplayer.site/190a8328e8357a20",
+          "18277-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/190a8328e8357a20/master.m3u8"
+        },
+        "StreamHG": {
+          "18277-malep-2_otakuhg_hsub": "https://otakuhg.site/e/5uys5d3tibgg",
+          "18277-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18277-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/xrh42j0z6z9f",
+          "18277-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18277-malep-2_playmogo_hsub": "https://playmogo.com/e/uydznlww68ok",
+          "18277-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
