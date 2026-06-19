@@ -1,0 +1,81 @@
+{
+  "anime_name": "Tanin No Kankei",
+  "anime_url": "https://hianime.ad/anime/tanin-no-kankei",
+  "slug": "tanin-no-kankei",
+  "mal_id": 40230,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T12:29:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Seigi of the Pink Sapphire",
+      "episode_url": "https://hianime.ad/watch/tanin-no-kankei/ep-1",
+      "sub": {
+        "HD-1": {
+          "40230-malep-1_vibeplayer_sub": "https://vibeplayer.site/b364de34a4b6251e",
+          "40230-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b364de34a4b6251e/master.m3u8"
+        },
+        "StreamHG": {
+          "40230-malep-1_otakuhg_sub": "https://otakuhg.site/e/9x3hdfp6repp",
+          "40230-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40230-malep-1_otakuvid_sub": "https://otakuvid.online/embed/p4uun8yuho9a",
+          "40230-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40230-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9dc4561e5ff99621",
+          "40230-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9dc4561e5ff99621/master.m3u8"
+        },
+        "StreamHG": {
+          "40230-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sukr2nl566hs",
+          "40230-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40230-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0sjtud0iwb95",
+          "40230-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40230-malep-1_playmogo_hsub": "https://playmogo.com/e/4r4vohpy3gom",
+          "40230-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Ruby's Truth",
+      "episode_url": "https://hianime.ad/watch/tanin-no-kankei/ep-2",
+      "sub": {
+        "HD-1": {
+          "40230-malep-2_vibeplayer_sub": "https://vibeplayer.site/1fed0428dd64c5c3",
+          "40230-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1fed0428dd64c5c3/master.m3u8"
+        },
+        "StreamHG": {
+          "40230-malep-2_otakuhg_sub": "https://otakuhg.site/e/hhrvz2g3zq3f",
+          "40230-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40230-malep-2_otakuvid_sub": "https://otakuvid.online/embed/nt5r1jwzl4jl",
+          "40230-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40230-malep-2_vibeplayer_hsub": "https://vibeplayer.site/be91effb85a624a7",
+          "40230-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/be91effb85a624a7/master.m3u8"
+        },
+        "Earnvids": {
+          "40230-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/utpufx7n1nk6",
+          "40230-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40230-malep-2_playmogo_hsub": "https://playmogo.com/e/0672wlzhtyj0",
+          "40230-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
