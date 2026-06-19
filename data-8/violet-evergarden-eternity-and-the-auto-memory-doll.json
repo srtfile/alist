@@ -1,0 +1,65 @@
+{
+  "anime_name": "Violet Evergarden Eternity And The Auto Memory Doll",
+  "anime_url": "https://hianime.ad/anime/violet-evergarden-eternity-and-the-auto-memory-doll",
+  "slug": "violet-evergarden-eternity-and-the-auto-memory-doll",
+  "mal_id": 33352,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:19:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "'I Love You' and Auto Memoir Doll",
+      "episode_url": "https://hianime.ad/watch/violet-evergarden-eternity-and-the-auto-memory-doll/ep-1",
+      "sub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_sub": "https://vibeplayer.site/8a274b349493c113",
+          "33352-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8a274b349493c113/master.m3u8"
+        },
+        "StreamHG": {
+          "33352-malep-1_otakuhg_sub": "https://otakuhg.site/e/kcvfzr2hd1cj",
+          "33352-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2mr6hbuq3gji",
+          "33352-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_dub": "https://vibeplayer.site/c38595cbe0b0478c",
+          "33352-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c38595cbe0b0478c/master.m3u8"
+        },
+        "StreamHG": {
+          "33352-malep-1_otakuhg_dub": "https://otakuhg.site/e/hj2br88phe4z",
+          "33352-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_dub": "https://otakuvid.online/embed/6b8cyepb2ueh",
+          "33352-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "33352-malep-1_playmogo_dub": "https://playmogo.com/e/rus4uicjnuru",
+          "33352-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d2180e0f0a25bf54",
+          "33352-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d2180e0f0a25bf54/master.m3u8"
+        },
+        "StreamHG": {
+          "33352-malep-1_otakuhg_hsub": "https://otakuhg.site/e/c8nwd8mw3qft",
+          "33352-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/acn6e0p1be5p",
+          "33352-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33352-malep-1_playmogo_hsub": "https://playmogo.com/e/12556ekczgps",
+          "33352-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
