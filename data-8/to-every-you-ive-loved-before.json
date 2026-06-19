@@ -1,0 +1,31 @@
+{
+  "anime_name": "To Every You Ive Loved Before",
+  "anime_url": "https://hianime.ad/anime/to-every-you-ive-loved-before",
+  "slug": "to-every-you-ive-loved-before",
+  "mal_id": 40833,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:19:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Every Day Is Fun",
+      "episode_url": "https://hianime.ad/watch/to-every-you-ive-loved-before/ep-1",
+      "sub": {
+        "HD-1": {
+          "40833-malep-1_vibeplayer_sub": "https://vibeplayer.site/4944d920b8deaf39",
+          "40833-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4944d920b8deaf39/master.m3u8"
+        },
+        "StreamHG": {
+          "40833-malep-1_otakuhg_sub": "https://otakuhg.site/e/j9wppw13nd37",
+          "40833-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "40833-malep-1_otakuvid_sub": "https://otakuvid.online/embed/n7fyz2a496h6",
+          "40833-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}
