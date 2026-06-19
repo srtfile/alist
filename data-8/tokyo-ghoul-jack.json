@@ -1,0 +1,57 @@
+{
+  "anime_name": "Tokyo Ghoul Jack",
+  "anime_url": "https://hianime.ad/anime/tokyo-ghoul-jack",
+  "slug": "tokyo-ghoul-jack",
+  "mal_id": 22319,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:38:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Tragedy",
+      "episode_url": "https://hianime.ad/watch/tokyo-ghoul-jack/ep-1",
+      "sub": {
+        "HD-1": {
+          "22319-malep-1_vibeplayer_sub": "https://vibeplayer.site/dd73e8463c95cb29",
+          "22319-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dd73e8463c95cb29/master.m3u8"
+        },
+        "Earnvids": {
+          "22319-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9d9wozdldr3o",
+          "22319-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "22319-malep-1_vibeplayer_dub": "https://vibeplayer.site/3223605b67dfef99",
+          "22319-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3223605b67dfef99/master.m3u8"
+        },
+        "StreamHG": {
+          "22319-malep-1_otakuhg_dub": "https://otakuhg.site/e/299p7ty4q2ag",
+          "22319-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "22319-malep-1_otakuvid_dub": "https://otakuvid.online/embed/99c8hne54a9j",
+          "22319-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "22319-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e6e45399230094e4",
+          "22319-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e6e45399230094e4/master.m3u8"
+        },
+        "StreamHG": {
+          "22319-malep-1_otakuhg_hsub": "https://otakuhg.site/e/h0otd7p6h73c",
+          "22319-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22319-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k9dg0wwgw60q",
+          "22319-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22319-malep-1_playmogo_hsub": "https://playmogo.com/e/aze1rty9wd67",
+          "22319-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
