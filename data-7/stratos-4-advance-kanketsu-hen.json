@@ -1,0 +1,77 @@
+{
+  "anime_name": "Stratos 4 Advance Kanketsu Hen",
+  "anime_url": "https://hianime.ad/anime/stratos-4-advance-kanketsu-hen",
+  "slug": "stratos-4-advance-kanketsu-hen",
+  "mal_id": 421,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T10:55:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Code: 101 Initial Point",
+      "episode_url": "https://hianime.ad/watch/stratos-4-advance-kanketsu-hen/ep-1",
+      "sub": {
+        "HD-1": {
+          "421-malep-1_vibeplayer_sub": "https://vibeplayer.site/65426a0bdab9211e",
+          "421-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65426a0bdab9211e/master.m3u8"
+        },
+        "Earnvids": {
+          "421-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ywmy37uvqpdb",
+          "421-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "421-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6041c6280c979a4c",
+          "421-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6041c6280c979a4c/master.m3u8"
+        },
+        "StreamHG": {
+          "421-malep-1_otakuhg_hsub": "https://otakuhg.site/e/h1faq07q70f7",
+          "421-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "421-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0c38891k6dpr",
+          "421-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "421-malep-1_playmogo_hsub": "https://playmogo.com/e/8dfi0zrc21vx",
+          "421-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Code: 102 Fox One",
+      "episode_url": "https://hianime.ad/watch/stratos-4-advance-kanketsu-hen/ep-2",
+      "sub": {
+        "HD-1": {
+          "421-malep-2_vibeplayer_sub": "https://vibeplayer.site/16fea801f6b8ce7b",
+          "421-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/16fea801f6b8ce7b/master.m3u8"
+        },
+        "Earnvids": {
+          "421-malep-2_otakuvid_sub": "https://otakuvid.online/embed/6mvbkcs22f1e",
+          "421-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "421-malep-2_vibeplayer_hsub": "https://vibeplayer.site/e394fe3803e262f8",
+          "421-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e394fe3803e262f8/master.m3u8"
+        },
+        "StreamHG": {
+          "421-malep-2_otakuhg_hsub": "https://otakuhg.site/e/7y7d4q5aul9d",
+          "421-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "421-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/gx40gfn03lmb",
+          "421-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "421-malep-2_playmogo_hsub": "https://playmogo.com/e/te5nft4fwru2",
+          "421-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
