@@ -20088,5 +20088,15 @@
     "captured_at": "2026-06-19T04:08:42",
     "file": "data-7/soul-buster.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/soul-buster.json"
+  },
+  {
+    "slug": "soul-eater",
+    "mal_id": 3588,
+    "anime_name": "Soul Eater",
+    "anime_url": "https://hianime.ad/anime/soul-eater",
+    "total_episodes": 51,
+    "captured_at": "2026-06-19T04:09:08",
+    "file": "data-7/soul-eater.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/soul-eater.json"
   }
 ]
