@@ -6728,5 +6728,15 @@
     "captured_at": "2026-06-19T23:24:59",
     "file": "data-8/voice-of-fox.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/voice-of-fox.json"
+  },
+  {
+    "slug": "voices-of-a-distant-star",
+    "mal_id": 53912,
+    "anime_name": "Voices Of A Distant Star",
+    "anime_url": "https://hianime.ad/anime/voices-of-a-distant-star",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T23:25:30",
+    "file": "data-8/voices-of-a-distant-star.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/voices-of-a-distant-star.json"
   }
 ]
