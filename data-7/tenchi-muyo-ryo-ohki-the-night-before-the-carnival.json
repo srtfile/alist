@@ -1,0 +1,61 @@
+{
+  "anime_name": "Tenchi Muyo Ryo Ohki The Night Before The Carnival",
+  "anime_url": "https://hianime.ad/anime/tenchi-muyo-ryo-ohki-the-night-before-the-carnival",
+  "slug": "tenchi-muyo-ryo-ohki-the-night-before-the-carnival",
+  "mal_id": 696,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:56:18",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "No Need for Discussions!",
+      "episode_url": "https://hianime.ad/watch/tenchi-muyo-ryo-ohki-the-night-before-the-carnival/ep-1",
+      "sub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_sub": "https://vibeplayer.site/16d1467ec24a78da",
+          "696-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/16d1467ec24a78da/master.m3u8"
+        },
+        "StreamHG": {
+          "696-malep-1_otakuhg_sub": "https://otakuhg.site/e/ogqy6ft22vo1",
+          "696-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f97aozqrgo1a",
+          "696-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "696-malep-1_playmogo_sub": "https://playmogo.com/e/mxwr7884va18",
+          "696-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_dub": "https://vibeplayer.site/c3c78c598ce324aa",
+          "696-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c3c78c598ce324aa/master.m3u8"
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_dub": "https://otakuvid.online/embed/mvmgpff9drv3",
+          "696-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "696-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f531824da79f6621",
+          "696-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f531824da79f6621/master.m3u8"
+        },
+        "StreamHG": {
+          "696-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cargqixufrjg",
+          "696-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "696-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l3rbkdwu0lqg",
+          "696-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "696-malep-1_playmogo_hsub": "https://playmogo.com/e/m4powyu6fa6v",
+          "696-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
