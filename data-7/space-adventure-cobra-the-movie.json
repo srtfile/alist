@@ -1,0 +1,61 @@
+{
+  "anime_name": "Space Adventure Cobra The Movie",
+  "anime_url": "https://hianime.ad/anime/space-adventure-cobra-the-movie",
+  "slug": "space-adventure-cobra-the-movie",
+  "mal_id": 2451,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:53:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Resurrection! The Psycho-Gun",
+      "episode_url": "https://hianime.ad/watch/space-adventure-cobra-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "2451-malep-1_vibeplayer_sub": "https://vibeplayer.site/e08581b7b41d6af2",
+          "2451-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e08581b7b41d6af2/master.m3u8"
+        },
+        "StreamHG": {
+          "2451-malep-1_otakuhg_sub": "https://otakuhg.site/e/69i8m4juyjk7",
+          "2451-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "2451-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ycrlhupq4ldy",
+          "2451-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "2451-malep-1_playmogo_sub": "https://playmogo.com/e/ci8k93vuvhq7",
+          "2451-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "2451-malep-1_vibeplayer_dub": "https://vibeplayer.site/adc2b03f2156aebf",
+          "2451-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/adc2b03f2156aebf/master.m3u8"
+        },
+        "Earnvids": {
+          "2451-malep-1_otakuvid_dub": "https://otakuvid.online/embed/1hfyf1v3hjcr",
+          "2451-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "2451-malep-1_playmogo_dub": "https://playmogo.com/e/iilxo3w8mdxj",
+          "2451-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "2451-malep-1_vibeplayer_hsub": "https://vibeplayer.site/55d3593f841aa6d5",
+          "2451-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/55d3593f841aa6d5/master.m3u8"
+        },
+        "Earnvids": {
+          "2451-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kh2xlnot7a2w",
+          "2451-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2451-malep-1_playmogo_hsub": "https://playmogo.com/e/a58knrgcflil",
+          "2451-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
