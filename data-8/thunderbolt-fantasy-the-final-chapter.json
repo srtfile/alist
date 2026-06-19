@@ -1,0 +1,48 @@
+{
+  "anime_name": "Thunderbolt Fantasy The Final Chapter",
+  "anime_url": "https://hianime.ad/anime/thunderbolt-fantasy-the-final-chapter",
+  "slug": "thunderbolt-fantasy-the-final-chapter",
+  "mal_id": 22777,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:00:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "7 Years Since That Event! Starting Today, Gohan's a High Schooler",
+      "episode_url": "https://hianime.ad/watch/thunderbolt-fantasy-the-final-chapter/ep-1",
+      "sub": {
+        "HD-1": {
+          "22777-malep-1_vibeplayer_sub": "https://vibeplayer.site/64ef8cee79c1c8c4",
+          "22777-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/64ef8cee79c1c8c4/master.m3u8"
+        },
+        "StreamHG": {
+          "22777-malep-1_otakuhg_sub": "https://otakuhg.site/e/olfy3geb5ipv",
+          "22777-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "22777-malep-1_otakuvid_sub": "https://otakuvid.online/embed/xxiby8c1khg3",
+          "22777-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "22777-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a119d39965dd84d5",
+          "22777-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a119d39965dd84d5/master.m3u8"
+        },
+        "StreamHG": {
+          "22777-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ntoitw8zv4t1",
+          "22777-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "22777-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nzgwirqao67n",
+          "22777-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "22777-malep-1_playmogo_hsub": "https://playmogo.com/e/0lmep3lh7519",
+          "22777-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
