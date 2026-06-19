@@ -1,0 +1,48 @@
+{
+  "anime_name": "Tantei Opera Milky Holmes The Movie Milky Holmes Counterattack",
+  "anime_url": "https://hianime.ad/anime/tantei-opera-milky-holmes-the-movie-milky-holmes-counterattack",
+  "slug": "tantei-opera-milky-holmes-the-movie-milky-holmes-counterattack",
+  "mal_id": 7768,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:32:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Moving into the Attic",
+      "episode_url": "https://hianime.ad/watch/tantei-opera-milky-holmes-the-movie-milky-holmes-counterattack/ep-1",
+      "sub": {
+        "HD-1": {
+          "7768-malep-1_vibeplayer_sub": "https://vibeplayer.site/337b02172cae0e3a",
+          "7768-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/337b02172cae0e3a/master.m3u8"
+        },
+        "StreamHG": {
+          "7768-malep-1_otakuhg_sub": "https://otakuhg.site/e/qrhkek914wit",
+          "7768-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "7768-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hdc4efkmmrnz",
+          "7768-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "7768-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c3f633212e486bf2",
+          "7768-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c3f633212e486bf2/master.m3u8"
+        },
+        "StreamHG": {
+          "7768-malep-1_otakuhg_hsub": "https://otakuhg.site/e/i0fh314wuki2",
+          "7768-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "7768-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zj1fvjfx9uh0",
+          "7768-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "7768-malep-1_playmogo_hsub": "https://playmogo.com/e/b6dyiwsske0n",
+          "7768-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
