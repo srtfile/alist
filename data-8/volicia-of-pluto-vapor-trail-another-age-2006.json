@@ -1,0 +1,48 @@
+{
+  "anime_name": "Volicia Of Pluto Vapor Trail Another Age 2006",
+  "anime_url": "https://hianime.ad/anime/volicia-of-pluto-vapor-trail-another-age-2006",
+  "slug": "volicia-of-pluto-vapor-trail-another-age-2006",
+  "mal_id": 1530,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:25:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Silver Overture",
+      "episode_url": "https://hianime.ad/watch/volicia-of-pluto-vapor-trail-another-age-2006/ep-1",
+      "sub": {
+        "HD-1": {
+          "1530-malep-1_vibeplayer_sub": "https://vibeplayer.site/33459aec71785be5",
+          "1530-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33459aec71785be5/master.m3u8"
+        },
+        "StreamHG": {
+          "1530-malep-1_otakuhg_sub": "https://otakuhg.site/e/mce8m3l3nx8n",
+          "1530-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1530-malep-1_otakuvid_sub": "https://otakuvid.online/embed/b6v78t1jwj6w",
+          "1530-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1530-malep-1_playmogo_sub": "https://playmogo.com/e/utdtcso84gxn",
+          "1530-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1530-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7caca24afc5312f4",
+          "1530-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7caca24afc5312f4/master.m3u8"
+        },
+        "Earnvids": {
+          "1530-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8kmiyf15494q",
+          "1530-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1530-malep-1_playmogo_hsub": "https://playmogo.com/e/39fjksezv6n1",
+          "1530-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
