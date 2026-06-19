@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Westward The Kingdom Of Shadow",
+  "anime_url": "https://hianime.ad/anime/the-westward-the-kingdom-of-shadow",
+  "slug": "the-westward-the-kingdom-of-shadow",
+  "mal_id": 8074,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:31:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring of the DEAD",
+      "episode_url": "https://hianime.ad/watch/the-westward-the-kingdom-of-shadow/ep-1",
+      "sub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_sub": "https://vibeplayer.site/e1822a2571cc05b2",
+          "8074-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e1822a2571cc05b2/master.m3u8"
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_sub": "https://otakuvid.online/embed/du1vyqnbscsy",
+          "8074-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_sub": "https://playmogo.com/e/05qyp3agamiz",
+          "8074-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_hsub": "https://vibeplayer.site/31293a6e7e07132c",
+          "8074-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31293a6e7e07132c/master.m3u8"
+        },
+        "StreamHG": {
+          "8074-malep-1_otakuhg_hsub": "https://otakuhg.site/e/djbwp70ontp1",
+          "8074-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/po2op7yv392q",
+          "8074-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_hsub": "https://playmogo.com/e/xaxo01wcetwe",
+          "8074-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
