@@ -1,0 +1,69 @@
+{
+  "anime_name": "Strawberry Marshmallow Encore",
+  "anime_url": "https://hianime.ad/anime/strawberry-marshmallow-encore",
+  "slug": "strawberry-marshmallow-encore",
+  "mal_id": 488,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T10:57:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Birthday",
+      "episode_url": "https://hianime.ad/watch/strawberry-marshmallow-encore/ep-1",
+      "sub": {
+        "HD-1": {
+          "488-malep-1_vibeplayer_sub": "https://vibeplayer.site/a3c4e1356cfef251",
+          "488-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a3c4e1356cfef251/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-1_otakuvid_sub": "https://otakuvid.online/embed/lpcpv6tne0kt",
+          "488-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "488-malep-1_vibeplayer_hsub": "https://vibeplayer.site/dc8c13e2fe453c35",
+          "488-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/dc8c13e2fe453c35/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/1d4xpae6wgrs",
+          "488-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-1_playmogo_hsub": "https://playmogo.com/e/2lwt7k9zoza5",
+          "488-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ana",
+      "episode_url": "https://hianime.ad/watch/strawberry-marshmallow-encore/ep-2",
+      "sub": {
+        "HD-1": {
+          "488-malep-2_vibeplayer_sub": "https://vibeplayer.site/b125519413843b18",
+          "488-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b125519413843b18/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-2_otakuvid_sub": "https://otakuvid.online/embed/9bhi7irmryvo",
+          "488-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "488-malep-2_vibeplayer_hsub": "https://vibeplayer.site/f48fb2644c8a11fa",
+          "488-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f48fb2644c8a11fa/master.m3u8"
+        },
+        "Earnvids": {
+          "488-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/k6m9vpx23d9s",
+          "488-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "488-malep-2_playmogo_hsub": "https://playmogo.com/e/o7yyr7fxi0nv",
+          "488-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
