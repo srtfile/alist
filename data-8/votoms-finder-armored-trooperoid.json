@@ -1,0 +1,40 @@
+{
+  "anime_name": "Votoms Finder Armored Trooperoid",
+  "anime_url": "https://hianime.ad/anime/votoms-finder-armored-trooperoid",
+  "slug": "votoms-finder-armored-trooperoid",
+  "mal_id": 2582,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:28:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "War's End",
+      "episode_url": "https://hianime.ad/watch/votoms-finder-armored-trooperoid/ep-1",
+      "sub": {
+        "HD-1": {
+          "2582-malep-1_vibeplayer_sub": "https://vibeplayer.site/ed118272dfb080c8",
+          "2582-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ed118272dfb080c8/master.m3u8"
+        },
+        "Earnvids": {
+          "2582-malep-1_otakuvid_sub": "https://otakuvid.online/embed/syuf6mtdxxt8",
+          "2582-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2582-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bea5d647564751f2",
+          "2582-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bea5d647564751f2/master.m3u8"
+        },
+        "Earnvids": {
+          "2582-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jk1wisnof5vn",
+          "2582-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2582-malep-1_playmogo_hsub": "https://playmogo.com/e/1ju6pvldin16",
+          "2582-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
