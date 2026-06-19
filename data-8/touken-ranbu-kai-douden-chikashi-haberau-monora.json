@@ -1,0 +1,48 @@
+{
+  "anime_name": "Touken Ranbu Kai Douden Chikashi Haberau Monora",
+  "anime_url": "https://hianime.ad/anime/touken-ranbu-kai-douden-chikashi-haberau-monora",
+  "slug": "touken-ranbu-kai-douden-chikashi-haberau-monora",
+  "mal_id": 51859,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:13:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Recurring Dream",
+      "episode_url": "https://hianime.ad/watch/touken-ranbu-kai-douden-chikashi-haberau-monora/ep-1",
+      "sub": {
+        "HD-1": {
+          "51859-malep-1_vibeplayer_sub": "https://vibeplayer.site/6c49ad2a4b14bd7d",
+          "51859-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6c49ad2a4b14bd7d/master.m3u8"
+        },
+        "Earnvids": {
+          "51859-malep-1_otakuvid_sub": "https://otakuvid.online/embed/phmigv5ks4lo",
+          "51859-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51859-malep-1_playmogo_sub": "https://playmogo.com/e/52uz5g9jpt4m",
+          "51859-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "51859-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d66572d0da355e6f",
+          "51859-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d66572d0da355e6f/master.m3u8"
+        },
+        "StreamHG": {
+          "51859-malep-1_otakuhg_hsub": "https://otakuhg.site/e/bek5yy9zv5tz",
+          "51859-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51859-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wbi4fbxcntmo",
+          "51859-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51859-malep-1_playmogo_hsub": "https://playmogo.com/e/c80nortayyje",
+          "51859-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
