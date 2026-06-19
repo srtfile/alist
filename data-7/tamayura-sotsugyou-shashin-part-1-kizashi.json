@@ -1,0 +1,48 @@
+{
+  "anime_name": "Tamayura Sotsugyou Shashin Part 1 Kizashi",
+  "anime_url": "https://hianime.ad/anime/tamayura-sotsugyou-shashin-part-1-kizashi",
+  "slug": "tamayura-sotsugyou-shashin-part-1-kizashi",
+  "mal_id": 10232,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:27:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Town of My Beginning, So Yeah...",
+      "episode_url": "https://hianime.ad/watch/tamayura-sotsugyou-shashin-part-1-kizashi/ep-1",
+      "sub": {
+        "HD-1": {
+          "10232-malep-1_vibeplayer_sub": "https://vibeplayer.site/7d25a26788714b92",
+          "10232-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7d25a26788714b92/master.m3u8"
+        },
+        "Earnvids": {
+          "10232-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0k0674vym73r",
+          "10232-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10232-malep-1_playmogo_sub": "https://playmogo.com/e/77i31kmc8ghl",
+          "10232-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10232-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e8105ede46d75e65",
+          "10232-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e8105ede46d75e65/master.m3u8"
+        },
+        "StreamHG": {
+          "10232-malep-1_otakuhg_hsub": "https://otakuhg.site/e/amvg1v181tww",
+          "10232-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10232-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y1cdt0l6e6f2",
+          "10232-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10232-malep-1_playmogo_hsub": "https://playmogo.com/e/g5h252w73f00",
+          "10232-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
