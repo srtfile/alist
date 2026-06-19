@@ -1,0 +1,48 @@
+{
+  "anime_name": "Star Driver The Movie",
+  "anime_url": "https://hianime.ad/anime/star-driver-the-movie",
+  "slug": "star-driver-the-movie",
+  "mal_id": 8934,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T10:21:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Ginga Bishonen",
+      "episode_url": "https://hianime.ad/watch/star-driver-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "8934-malep-1_vibeplayer_sub": "https://vibeplayer.site/76b7c7c21e91939f",
+          "8934-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/76b7c7c21e91939f/master.m3u8"
+        },
+        "StreamHG": {
+          "8934-malep-1_otakuhg_sub": "https://otakuhg.site/e/k6w32pyz2ht8",
+          "8934-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8934-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fxpvvwx799s3",
+          "8934-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8934-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5919497511b834a2",
+          "8934-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5919497511b834a2/master.m3u8"
+        },
+        "StreamHG": {
+          "8934-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9icvm1h00ksw",
+          "8934-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8934-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/k76vxipp5ojn",
+          "8934-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8934-malep-1_playmogo_hsub": "https://playmogo.com/e/zre4p8bnynwu",
+          "8934-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
