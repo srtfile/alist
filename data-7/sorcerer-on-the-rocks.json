@@ -1,0 +1,51 @@
+{
+  "anime_name": "Sorcerer On The Rocks",
+  "anime_url": "https://hianime.ad/anime/sorcerer-on-the-rocks",
+  "slug": "sorcerer-on-the-rocks",
+  "mal_id": 495,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T04:01:01",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Float-Bridge of Love",
+      "episode_url": "https://hianime.ad/watch/sorcerer-on-the-rocks/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "495-malep-1_vibeplayer_dub": "https://vibeplayer.site/3619a34b9c0d5ce0",
+          "495-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3619a34b9c0d5ce0/master.m3u8"
+        },
+        "StreamHG": {
+          "495-malep-1_otakuhg_dub": "https://otakuhg.site/e/fmp4hfrsuohy",
+          "495-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "495-malep-1_otakuvid_dub": "https://otakuvid.online/embed/rcvsip2wclev",
+          "495-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Red Flower of Life",
+      "episode_url": "https://hianime.ad/watch/sorcerer-on-the-rocks/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "495-malep-2_vibeplayer_dub": "https://vibeplayer.site/68b68db0664f7e4e",
+          "495-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/68b68db0664f7e4e/master.m3u8"
+        },
+        "StreamHG": {
+          "495-malep-2_otakuhg_dub": "https://otakuhg.site/e/du7zznj0cclg",
+          "495-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "495-malep-2_otakuvid_dub": "https://otakuvid.online/embed/mainzb8i6dih",
+          "495-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
