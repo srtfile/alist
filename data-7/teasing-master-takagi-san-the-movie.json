@@ -1,0 +1,65 @@
+{
+  "anime_name": "Teasing Master Takagi San The Movie",
+  "anime_url": "https://hianime.ad/anime/teasing-master-takagi-san-the-movie",
+  "slug": "teasing-master-takagi-san-the-movie",
+  "mal_id": 35860,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:39:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Eraser / Day Duty / Funny Face / One Hundred Yen",
+      "episode_url": "https://hianime.ad/watch/teasing-master-takagi-san-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "35860-malep-1_vibeplayer_sub": "https://vibeplayer.site/b247a82ae83978a4",
+          "35860-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b247a82ae83978a4/master.m3u8"
+        },
+        "Earnvids": {
+          "35860-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cspx447igkhh",
+          "35860-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35860-malep-1_playmogo_sub": "https://playmogo.com/e/9zcxve4nqay2",
+          "35860-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35860-malep-1_vibeplayer_dub": "https://vibeplayer.site/83eefa0ddad0931c",
+          "35860-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/83eefa0ddad0931c/master.m3u8"
+        },
+        "StreamHG": {
+          "35860-malep-1_otakuhg_dub": "https://otakuhg.site/e/isrord89wkzy",
+          "35860-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "35860-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9yhb2q7u7wtb",
+          "35860-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "35860-malep-1_playmogo_dub": "https://playmogo.com/e/1ake8var8xac",
+          "35860-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "35860-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b8b171a06f96ad49",
+          "35860-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b8b171a06f96ad49/master.m3u8"
+        },
+        "StreamHG": {
+          "35860-malep-1_otakuhg_hsub": "https://otakuhg.site/e/pmfzczcuwq8b",
+          "35860-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35860-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2zxf8epfmhsl",
+          "35860-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35860-malep-1_playmogo_hsub": "https://playmogo.com/e/xcj08vx2nne2",
+          "35860-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
