@@ -18528,5 +18528,15 @@
     "captured_at": "2026-06-19T02:49:37",
     "file": "data-7/shirobako-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shirobako-movie.json"
+  },
+  {
+    "slug": "shirobako-specials",
+    "mal_id": 25835,
+    "anime_name": "Shirobako Specials",
+    "anime_url": "https://hianime.ad/anime/shirobako-specials",
+    "total_episodes": 2,
+    "captured_at": "2026-06-19T02:49:57",
+    "file": "data-7/shirobako-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/shirobako-specials.json"
   }
 ]
