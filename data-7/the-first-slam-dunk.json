@@ -1,0 +1,61 @@
+{
+  "anime_name": "The First Slam Dunk",
+  "anime_url": "https://hianime.ad/anime/the-first-slam-dunk",
+  "slug": "the-first-slam-dunk",
+  "mal_id": 263,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:27:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The First Step",
+      "episode_url": "https://hianime.ad/watch/the-first-slam-dunk/ep-1",
+      "sub": {
+        "HD-1": {
+          "263-malep-1_vibeplayer_sub": "https://vibeplayer.site/c6b54bcffa318a49",
+          "263-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c6b54bcffa318a49/master.m3u8"
+        },
+        "StreamHG": {
+          "263-malep-1_otakuhg_sub": "https://otakuhg.site/e/1ufvhguw3gfw",
+          "263-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "263-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gsy0pvefq0br",
+          "263-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "263-malep-1_vibeplayer_dub": "https://vibeplayer.site/65a5cb12ebcb0dc5",
+          "263-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/65a5cb12ebcb0dc5/master.m3u8"
+        },
+        "StreamHG": {
+          "263-malep-1_otakuhg_dub": "https://otakuhg.site/e/pedtrpui1j4d",
+          "263-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "263-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wy04cn672k36",
+          "263-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "263-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1d3e4ae7c6095232",
+          "263-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1d3e4ae7c6095232/master.m3u8"
+        },
+        "StreamHG": {
+          "263-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jbnnzxlb8uae",
+          "263-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "263-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7y7w4u7qnl1f",
+          "263-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "263-malep-1_playmogo_hsub": "https://playmogo.com/e/osvvr1ho8bbw",
+          "263-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
