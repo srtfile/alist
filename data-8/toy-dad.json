@@ -1,0 +1,61 @@
+{
+  "anime_name": "Toy Dad",
+  "anime_url": "https://hianime.ad/anime/toy-dad",
+  "slug": "toy-dad",
+  "mal_id": 59589,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T21:19:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/toy-dad/ep-1",
+      "sub": {
+        "HD-1": {
+          "59589-malep-1_vibeplayer_sub": "https://vibeplayer.site/97ef15a817678278",
+          "59589-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/97ef15a817678278/master.m3u8"
+        },
+        "Earnvids": {
+          "59589-malep-1_otakuvid_sub": "https://otakuvid.online/embed/djsr5j7ly9kk",
+          "59589-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59589-malep-1_playmogo_sub": "https://playmogo.com/e/n48qzyzshoi8",
+          "59589-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "59589-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8802398c8d95d3f6",
+          "59589-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8802398c8d95d3f6/master.m3u8"
+        },
+        "Earnvids": {
+          "59589-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qymdwnii0txf",
+          "59589-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59589-malep-1_playmogo_hsub": "https://playmogo.com/e/tcgvdcia8wyn",
+          "59589-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/toy-dad/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "59589-malep-2_vibeplayer_raw": "https://vibeplayer.site/30b931c1748d61e6",
+          "59589-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/30b931c1748d61e6/master.m3u8"
+        },
+        "Earnvids": {
+          "59589-malep-2_otakuvid_raw": "https://otakuvid.online/embed/u3ifyqilopq9",
+          "59589-malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
