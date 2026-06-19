@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Concierge",
+  "anime_url": "https://hianime.ad/anime/the-concierge",
+  "slug": "the-concierge",
+  "mal_id": 8074,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:42:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Spring of the DEAD",
+      "episode_url": "https://hianime.ad/watch/the-concierge/ep-1",
+      "sub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_sub": "https://vibeplayer.site/a48819e76b13c297",
+          "8074-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a48819e76b13c297/master.m3u8"
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cpyucw35tk8k",
+          "8074-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8074-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b43b06eebcc54ac9",
+          "8074-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b43b06eebcc54ac9/master.m3u8"
+        },
+        "StreamHG": {
+          "8074-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ptaergg12yvm",
+          "8074-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "8074-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/hoki3h3i5e15",
+          "8074-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8074-malep-1_playmogo_hsub": "https://playmogo.com/e/t8b4gf550b3z",
+          "8074-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
