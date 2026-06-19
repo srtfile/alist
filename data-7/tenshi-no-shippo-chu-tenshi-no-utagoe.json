@@ -1,0 +1,40 @@
+{
+  "anime_name": "Tenshi No Shippo Chu Tenshi No Utagoe",
+  "anime_url": "https://hianime.ad/anime/tenshi-no-shippo-chu-tenshi-no-utagoe",
+  "slug": "tenshi-no-shippo-chu-tenshi-no-utagoe",
+  "mal_id": 684,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:02:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/tenshi-no-shippo-chu-tenshi-no-utagoe/ep-1",
+      "sub": {
+        "HD-1": {
+          "684-malep-1_vibeplayer_sub": "https://vibeplayer.site/1e7dfa4320ebb867",
+          "684-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e7dfa4320ebb867/master.m3u8"
+        },
+        "Earnvids": {
+          "684-malep-1_otakuvid_sub": "https://otakuvid.online/embed/quwj2h1kma6w",
+          "684-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "684-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a2124d2f7662f9e3",
+          "684-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a2124d2f7662f9e3/master.m3u8"
+        },
+        "Earnvids": {
+          "684-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y7p70f3weip3",
+          "684-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "684-malep-1_playmogo_hsub": "https://playmogo.com/e/6gcvm7xjjw7r",
+          "684-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
