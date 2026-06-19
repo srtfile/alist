@@ -1,0 +1,48 @@
+{
+  "anime_name": "Time Driver Bokura Ga Kaita Mirai",
+  "anime_url": "https://hianime.ad/anime/time-driver-bokura-ga-kaita-mirai",
+  "slug": "time-driver-bokura-ga-kaita-mirai",
+  "mal_id": 33341,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:13:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Gilbert the Sage",
+      "episode_url": "https://hianime.ad/watch/time-driver-bokura-ga-kaita-mirai/ep-1",
+      "sub": {
+        "HD-1": {
+          "33341-malep-1_vibeplayer_sub": "https://vibeplayer.site/b7020e1c99938c4a",
+          "33341-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7020e1c99938c4a/master.m3u8"
+        },
+        "Earnvids": {
+          "33341-malep-1_otakuvid_sub": "https://otakuvid.online/embed/rg02jsz49c9r",
+          "33341-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "33341-malep-1_playmogo_sub": "https://playmogo.com/e/hofbcm3hu8xg",
+          "33341-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33341-malep-1_vibeplayer_hsub": "https://vibeplayer.site/803c96b5385960ce",
+          "33341-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/803c96b5385960ce/master.m3u8"
+        },
+        "StreamHG": {
+          "33341-malep-1_otakuhg_hsub": "https://otakuhg.site/e/3vh20vacy4l4",
+          "33341-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33341-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tw71ourrqkgr",
+          "33341-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33341-malep-1_playmogo_hsub": "https://playmogo.com/e/wmdrnablkf9k",
+          "33341-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
