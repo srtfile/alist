@@ -18748,5 +18748,15 @@
     "captured_at": "2026-06-19T03:00:33",
     "file": "data-7/show-by-rock-3404.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/show-by-rock-3404.json"
+  },
+  {
+    "slug": "show-by-rock",
+    "mal_id": 32038,
+    "anime_name": "Show By Rock",
+    "anime_url": "https://hianime.ad/anime/show-by-rock",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T03:01:02",
+    "file": "data-7/show-by-rock.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/show-by-rock.json"
   }
 ]
