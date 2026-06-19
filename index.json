@@ -3978,5 +3978,15 @@
     "captured_at": "2026-06-19T21:03:48",
     "file": "data-8/toradora-bento-battle.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/toradora-bento-battle.json"
+  },
+  {
+    "slug": "toriko",
+    "mal_id": 10033,
+    "anime_name": "Toriko",
+    "anime_url": "https://hianime.ad/anime/toriko",
+    "total_episodes": 147,
+    "captured_at": "2026-06-19T21:04:09",
+    "file": "data-8/toriko.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/toriko.json"
   }
 ]
