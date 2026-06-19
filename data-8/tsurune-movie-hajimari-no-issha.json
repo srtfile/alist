@@ -1,0 +1,44 @@
+{
+  "anime_name": "Tsurune Movie Hajimari No Issha",
+  "anime_url": "https://hianime.ad/anime/tsurune-movie-hajimari-no-issha",
+  "slug": "tsurune-movie-hajimari-no-issha",
+  "mal_id": 52826,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:50:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Summer Calls",
+      "episode_url": "https://hianime.ad/watch/tsurune-movie-hajimari-no-issha/ep-1",
+      "sub": {
+        "HD-1": {
+          "52826-malep-1_vibeplayer_sub": "https://vibeplayer.site/98c4f894e9b9c3e5",
+          "52826-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/98c4f894e9b9c3e5/master.m3u8"
+        },
+        "Earnvids": {
+          "52826-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8u6ekaldtiz5",
+          "52826-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52826-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1cf01993ab40ef0a",
+          "52826-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1cf01993ab40ef0a/master.m3u8"
+        },
+        "StreamHG": {
+          "52826-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6u1z3zlnuc72",
+          "52826-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52826-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/o1via1hwu7pl",
+          "52826-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52826-malep-1_playmogo_hsub": "https://playmogo.com/e/g05lush2zrjm",
+          "52826-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
