@@ -21248,5 +21248,15 @@
     "captured_at": "2026-06-19T10:25:06",
     "file": "data-7/stars-align.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/stars-align.json"
+  },
+  {
+    "slug": "stars-fall",
+    "mal_id": 32961,
+    "anime_name": "Stars Fall",
+    "anime_url": "https://hianime.ad/anime/stars-fall",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T10:25:27",
+    "file": "data-7/stars-fall.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/stars-fall.json"
   }
 ]
