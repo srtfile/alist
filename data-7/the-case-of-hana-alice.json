@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Case Of Hana Alice",
+  "anime_url": "https://hianime.ad/anime/the-case-of-hana-alice",
+  "slug": "the-case-of-hana-alice",
+  "mal_id": 58861,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T13:35:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Please Be My Friend!",
+      "episode_url": "https://hianime.ad/watch/the-case-of-hana-alice/ep-1",
+      "sub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_sub": "https://vibeplayer.site/725d1638ed6307c8",
+          "58861-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/725d1638ed6307c8/master.m3u8"
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_sub": "https://otakuvid.online/embed/76jeyf37gik0",
+          "58861-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58861-malep-1_vibeplayer_hsub": "https://vibeplayer.site/05bae6bfa4522f2d",
+          "58861-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/05bae6bfa4522f2d/master.m3u8"
+        },
+        "StreamHG": {
+          "58861-malep-1_otakuhg_hsub": "https://otakuhg.site/e/dj67s5w8yfth",
+          "58861-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58861-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/f13mi7rbr9wd",
+          "58861-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58861-malep-1_playmogo_hsub": "https://playmogo.com/e/hi4q705smx1i",
+          "58861-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
