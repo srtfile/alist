@@ -1,0 +1,44 @@
+{
+  "anime_name": "Sword Art Online Movie Ordinal Scale Sword Art Offline",
+  "anime_url": "https://hianime.ad/anime/sword-art-online-movie-ordinal-scale-sword-art-offline",
+  "slug": "sword-art-online-movie-ordinal-scale-sword-art-offline",
+  "mal_id": 11757,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:54:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The World of Swords",
+      "episode_url": "https://hianime.ad/watch/sword-art-online-movie-ordinal-scale-sword-art-offline/ep-1",
+      "sub": {
+        "HD-1": {
+          "11757-malep-1_vibeplayer_sub": "https://vibeplayer.site/5c6931b4fcb14433",
+          "11757-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5c6931b4fcb14433/master.m3u8"
+        },
+        "Earnvids": {
+          "11757-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ldy8q1589177",
+          "11757-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "11757-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8c1e2b742dcfea26",
+          "11757-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c1e2b742dcfea26/master.m3u8"
+        },
+        "StreamHG": {
+          "11757-malep-1_otakuhg_hsub": "https://otakuhg.site/e/v8hau7n2yg7p",
+          "11757-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "11757-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bc9zu22wfdc7",
+          "11757-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "11757-malep-1_playmogo_hsub": "https://playmogo.com/e/dxhsccna6ave",
+          "11757-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
