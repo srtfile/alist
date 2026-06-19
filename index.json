@@ -21018,5 +21018,15 @@
     "captured_at": "2026-06-19T10:15:47",
     "file": "data-7/ssss-dynazenon-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/ssss-dynazenon-movie.json"
+  },
+  {
+    "slug": "ssss-gridman",
+    "mal_id": 35847,
+    "anime_name": "Ssss Gridman",
+    "anime_url": "https://hianime.ad/anime/ssss-gridman",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T10:15:59",
+    "file": "data-7/ssss-gridman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/ssss-gridman.json"
   }
 ]
