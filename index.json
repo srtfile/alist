@@ -6338,5 +6338,15 @@
     "captured_at": "2026-06-19T23:07:03",
     "file": "data-8/vampire-in-the-garden.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-in-the-garden.json"
+  },
+  {
+    "slug": "vampire-knight",
+    "mal_id": 3457,
+    "anime_name": "Vampire Knight",
+    "anime_url": "https://hianime.ad/anime/vampire-knight",
+    "total_episodes": 13,
+    "captured_at": "2026-06-19T23:07:27",
+    "file": "data-8/vampire-knight.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vampire-knight.json"
   }
 ]
