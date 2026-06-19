@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Seven Deadly Sins The Movie 2 Cursed By Light",
+  "anime_url": "https://hianime.ad/anime/the-seven-deadly-sins-the-movie-2-cursed-by-light",
+  "slug": "the-seven-deadly-sins-the-movie-2-cursed-by-light",
+  "mal_id": 23755,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T18:31:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Seven Deadly Sins",
+      "episode_url": "https://hianime.ad/watch/the-seven-deadly-sins-the-movie-2-cursed-by-light/ep-1",
+      "sub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_sub": "https://vibeplayer.site/3954e8820a340082",
+          "23755-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3954e8820a340082/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_sub": "https://otakuhg.site/e/qh307tnfw2c9",
+          "23755-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z7uaplfwehvk",
+          "23755-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_dub": "https://vibeplayer.site/2e6af5cbbffcdd90",
+          "23755-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2e6af5cbbffcdd90/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_dub": "https://otakuhg.site/e/7zs4v9s3q65m",
+          "23755-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zjpqwye3z3n2",
+          "23755-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23755-malep-1_vibeplayer_hsub": "https://vibeplayer.site/72e469c6d7b74078",
+          "23755-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/72e469c6d7b74078/master.m3u8"
+        },
+        "StreamHG": {
+          "23755-malep-1_otakuhg_hsub": "https://otakuhg.site/e/6naahnwb6bwt",
+          "23755-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23755-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7yk4l34u73bk",
+          "23755-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23755-malep-1_playmogo_hsub": "https://playmogo.com/e/d6w4wwegzu0z",
+          "23755-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
