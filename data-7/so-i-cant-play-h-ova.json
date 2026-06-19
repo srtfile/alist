@@ -1,0 +1,40 @@
+{
+  "anime_name": "So I Cant Play H Ova",
+  "anime_url": "https://hianime.ad/anime/so-i-cant-play-h-ova",
+  "slug": "so-i-cant-play-h-ova",
+  "mal_id": 12549,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:48:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Red String of Fate!?",
+      "episode_url": "https://hianime.ad/watch/so-i-cant-play-h-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "12549-malep-1_vibeplayer_sub": "https://vibeplayer.site/f84eb2642a48d24e",
+          "12549-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f84eb2642a48d24e/master.m3u8"
+        },
+        "Earnvids": {
+          "12549-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tmwz6y7jkzww",
+          "12549-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12549-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f79e6757bafb5913",
+          "12549-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f79e6757bafb5913/master.m3u8"
+        },
+        "StreamHG": {
+          "12549-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s1xbiampxehz",
+          "12549-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12549-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/z0pv630vopfp",
+          "12549-malep-1_otakuvid_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
