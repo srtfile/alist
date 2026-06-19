@@ -1,0 +1,44 @@
+{
+  "anime_name": "Train To The End Of The World Special",
+  "anime_url": "https://hianime.ad/anime/train-to-the-end-of-the-world-special",
+  "slug": "train-to-the-end-of-the-world-special",
+  "mal_id": 53356,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:20:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Down the Escalator to Dark Nerima",
+      "episode_url": "https://hianime.ad/watch/train-to-the-end-of-the-world-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "53356-malep-1_vibeplayer_sub": "https://vibeplayer.site/7d5e6e5fb3843814",
+          "53356-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7d5e6e5fb3843814/master.m3u8"
+        },
+        "Earnvids": {
+          "53356-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h17sxhjb3gru",
+          "53356-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "53356-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6d83e0f52f28f1ef",
+          "53356-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6d83e0f52f28f1ef/master.m3u8"
+        },
+        "StreamHG": {
+          "53356-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1j9tzxrzputz",
+          "53356-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53356-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/akdl8wmavlz6",
+          "53356-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53356-malep-1_playmogo_hsub": "https://playmogo.com/e/7xih825s7xsa",
+          "53356-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
