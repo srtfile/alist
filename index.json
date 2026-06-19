@@ -20118,5 +20118,15 @@
     "captured_at": "2026-06-19T04:10:32",
     "file": "data-7/soul-eater-late-night-show.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/soul-eater-late-night-show.json"
+  },
+  {
+    "slug": "soul-hunter",
+    "mal_id": 1108,
+    "anime_name": "Soul Hunter",
+    "anime_url": "https://hianime.ad/anime/soul-hunter",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T05:34:41",
+    "file": "data-7/soul-hunter.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/soul-hunter.json"
   }
 ]
