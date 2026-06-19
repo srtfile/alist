@@ -1,0 +1,53 @@
+{
+  "anime_name": "Voices Of A Distant Star",
+  "anime_url": "https://hianime.ad/anime/voices-of-a-distant-star",
+  "slug": "voices-of-a-distant-star",
+  "mal_id": 53912,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:25:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yuhi and Yasumi Can't Keep It Hidden?",
+      "episode_url": "https://hianime.ad/watch/voices-of-a-distant-star/ep-1",
+      "sub": {
+        "HD-1": {
+          "53912-malep-1_vibeplayer_sub": "https://vibeplayer.site/32c1aaed3ddb84fe",
+          "53912-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/32c1aaed3ddb84fe/master.m3u8"
+        },
+        "Earnvids": {
+          "53912-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ncsy7t5nj242",
+          "53912-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "53912-malep-1_vibeplayer_dub": "https://vibeplayer.site/3b3c4614e8539220",
+          "53912-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3b3c4614e8539220/master.m3u8"
+        },
+        "Earnvids": {
+          "53912-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9pyrwhz4wm84",
+          "53912-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "53912-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a7f7ba579be40551",
+          "53912-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a7f7ba579be40551/master.m3u8"
+        },
+        "StreamHG": {
+          "53912-malep-1_otakuhg_hsub": "https://otakuhg.site/e/k6ut7ma6tkkb",
+          "53912-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "53912-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/qrdkhwfbdc6c",
+          "53912-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "53912-malep-1_playmogo_hsub": "https://playmogo.com/e/039cl9p4009a",
+          "53912-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
