@@ -1,0 +1,48 @@
+{
+  "anime_name": "Tonikaku Kawaii Sns",
+  "anime_url": "https://hianime.ad/anime/tonikaku-kawaii-sns",
+  "slug": "tonikaku-kawaii-sns",
+  "mal_id": 41389,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:58:58",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Marriage",
+      "episode_url": "https://hianime.ad/watch/tonikaku-kawaii-sns/ep-1",
+      "sub": {
+        "HD-1": {
+          "41389-malep-1_vibeplayer_sub": "https://vibeplayer.site/cf5f228f2fe634b5",
+          "41389-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf5f228f2fe634b5/master.m3u8"
+        },
+        "StreamHG": {
+          "41389-malep-1_otakuhg_sub": "https://otakuhg.site/e/di39uuzpw993",
+          "41389-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "41389-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8nml3lovesz1",
+          "41389-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "41389-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b311fd77ae4a1e37",
+          "41389-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b311fd77ae4a1e37/master.m3u8"
+        },
+        "StreamHG": {
+          "41389-malep-1_otakuhg_hsub": "https://otakuhg.site/e/g5dd1r4kr0er",
+          "41389-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "41389-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l0ls3ht9yrvd",
+          "41389-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "41389-malep-1_playmogo_hsub": "https://playmogo.com/e/oc13uc19ih7m",
+          "41389-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
