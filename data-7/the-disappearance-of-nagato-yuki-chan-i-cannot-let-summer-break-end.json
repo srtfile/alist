@@ -1,0 +1,44 @@
+{
+  "anime_name": "The Disappearance Of Nagato Yuki Chan I Cannot Let Summer Break End",
+  "anime_url": "https://hianime.ad/anime/the-disappearance-of-nagato-yuki-chan-i-cannot-let-summer-break-end",
+  "slug": "the-disappearance-of-nagato-yuki-chan-i-cannot-let-summer-break-end",
+  "mal_id": 26351,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:03:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Precious Place",
+      "episode_url": "https://hianime.ad/watch/the-disappearance-of-nagato-yuki-chan-i-cannot-let-summer-break-end/ep-1",
+      "sub": {
+        "HD-1": {
+          "26351-malep-1_vibeplayer_sub": "https://vibeplayer.site/092aac5b90b7550d",
+          "26351-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/092aac5b90b7550d/master.m3u8"
+        },
+        "Earnvids": {
+          "26351-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gwli2jojg6p6",
+          "26351-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "26351-malep-1_playmogo_sub": "https://playmogo.com/e/bgewrzjjep4c",
+          "26351-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "26351-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bbd46c3ce8216ef4",
+          "26351-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bbd46c3ce8216ef4/master.m3u8"
+        },
+        "Earnvids": {
+          "26351-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e9a04zunlwe0",
+          "26351-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "26351-malep-1_playmogo_hsub": "https://playmogo.com/e/1j1pjxepv211",
+          "26351-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
