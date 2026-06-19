@@ -1,0 +1,83 @@
+{
+  "anime_name": "Variable Geo",
+  "anime_url": "https://hianime.ad/anime/variable-geo",
+  "slug": "variable-geo",
+  "mal_id": 48326,
+  "total_episodes": 3,
+  "captured_at": "2026-06-19T23:10:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/variable-geo/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48326-malep-1_vibeplayer_dub": "https://vibeplayer.site/8f36e172c0622871",
+          "48326-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8f36e172c0622871/master.m3u8"
+        },
+        "StreamHG": {
+          "48326-malep-1_otakuhg_dub": "https://otakuhg.site/e/fv93m3lzd1km",
+          "48326-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48326-malep-1_otakuvid_dub": "https://otakuvid.online/embed/2w1lh2ewxhtz",
+          "48326-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "48326-malep-1_playmogo_dub": "https://playmogo.com/e/f67q5d8h5xwl",
+          "48326-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/variable-geo/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48326-malep-2_vibeplayer_dub": "https://vibeplayer.site/3d5c8ceb176b85ef",
+          "48326-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3d5c8ceb176b85ef/master.m3u8"
+        },
+        "StreamHG": {
+          "48326-malep-2_otakuhg_dub": "https://otakuhg.site/e/4kgnt1ktzzid",
+          "48326-malep-2_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48326-malep-2_otakuvid_dub": "https://otakuvid.online/embed/fso5ybk8zhxm",
+          "48326-malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "48326-malep-2_playmogo_dub": "https://playmogo.com/e/y6j4ibxk3jwk",
+          "48326-malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Episode 3",
+      "episode_url": "https://hianime.ad/watch/variable-geo/ep-3",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "48326-malep-3_vibeplayer_dub": "https://vibeplayer.site/cacd1309fda6e719",
+          "48326-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cacd1309fda6e719/master.m3u8"
+        },
+        "StreamHG": {
+          "48326-malep-3_otakuhg_dub": "https://otakuhg.site/e/0y8oqor67djw",
+          "48326-malep-3_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "48326-malep-3_otakuvid_dub": "https://otakuvid.online/embed/8xrin6bugync",
+          "48326-malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "48326-malep-3_playmogo_dub": "https://playmogo.com/e/j0q7hn8y9g23",
+          "48326-malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
