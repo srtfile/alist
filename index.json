@@ -21118,5 +21118,15 @@
     "captured_at": "2026-06-19T10:20:01",
     "file": "data-7/star-detective-precure.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-detective-precure.json"
+  },
+  {
+    "slug": "star-driver",
+    "mal_id": 8934,
+    "anime_name": "Star Driver",
+    "anime_url": "https://hianime.ad/anime/star-driver",
+    "total_episodes": 25,
+    "captured_at": "2026-06-19T10:20:29",
+    "file": "data-7/star-driver.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/star-driver.json"
   }
 ]
