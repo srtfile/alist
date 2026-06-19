@@ -1,0 +1,48 @@
+{
+  "anime_name": "The House Of The Lost On The Cape",
+  "anime_url": "https://hianime.ad/anime/the-house-of-the-lost-on-the-cape",
+  "slug": "the-house-of-the-lost-on-the-cape",
+  "mal_id": 38923,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:06:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/the-house-of-the-lost-on-the-cape/ep-1",
+      "sub": {
+        "HD-1": {
+          "38923-malep-1_vibeplayer_sub": "https://vibeplayer.site/639fbaeb2330404a",
+          "38923-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/639fbaeb2330404a/master.m3u8"
+        },
+        "StreamHG": {
+          "38923-malep-1_otakuhg_sub": "https://otakuhg.site/e/7m4bd2a71tjl",
+          "38923-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "38923-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d1hbvdrftdec",
+          "38923-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "38923-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3577a1b300d585c5",
+          "38923-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3577a1b300d585c5/master.m3u8"
+        },
+        "StreamHG": {
+          "38923-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8pf2kdqoxh0g",
+          "38923-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "38923-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/oduztilntmvy",
+          "38923-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "38923-malep-1_playmogo_hsub": "https://playmogo.com/e/4ss6so8djcvv",
+          "38923-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
