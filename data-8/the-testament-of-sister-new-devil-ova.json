@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Testament Of Sister New Devil Ova",
+  "anime_url": "https://hianime.ad/anime/the-testament-of-sister-new-devil-ova",
+  "slug": "the-testament-of-sister-new-devil-ova",
+  "mal_id": 23233,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:09:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Day I Got a Little Sister",
+      "episode_url": "https://hianime.ad/watch/the-testament-of-sister-new-devil-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "23233-malep-1_vibeplayer_sub": "https://vibeplayer.site/7bc096e11fb1137d",
+          "23233-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7bc096e11fb1137d/master.m3u8"
+        },
+        "StreamHG": {
+          "23233-malep-1_otakuhg_sub": "https://otakuhg.site/e/0d74h3kwvva1",
+          "23233-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "23233-malep-1_otakuvid_sub": "https://otakuvid.online/embed/te1hdktr2tyl",
+          "23233-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "23233-malep-1_vibeplayer_dub": "https://vibeplayer.site/b81da253aa670558",
+          "23233-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b81da253aa670558/master.m3u8"
+        },
+        "StreamHG": {
+          "23233-malep-1_otakuhg_dub": "https://otakuhg.site/e/g3bd5t3vb1on",
+          "23233-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "23233-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9x43jikvkkqx",
+          "23233-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "23233-malep-1_vibeplayer_hsub": "https://vibeplayer.site/a09e3f362da5d360",
+          "23233-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a09e3f362da5d360/master.m3u8"
+        },
+        "StreamHG": {
+          "23233-malep-1_otakuhg_hsub": "https://otakuhg.site/e/dmdgmbglkwvv",
+          "23233-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "23233-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9c58m1yducdv",
+          "23233-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "23233-malep-1_playmogo_hsub": "https://playmogo.com/e/ho1gxnkkaztj",
+          "23233-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
