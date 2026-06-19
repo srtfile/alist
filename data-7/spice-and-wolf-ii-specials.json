@@ -1,0 +1,77 @@
+{
+  "anime_name": "Spice And Wolf Ii Specials",
+  "anime_url": "https://hianime.ad/anime/spice-and-wolf-ii-specials",
+  "slug": "spice-and-wolf-ii-specials",
+  "mal_id": 5341,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T06:08:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Wolf and an Inadvertent Rift",
+      "episode_url": "https://hianime.ad/watch/spice-and-wolf-ii-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "5341-malep-1_vibeplayer_sub": "https://vibeplayer.site/3989d45644ead96a",
+          "5341-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3989d45644ead96a/master.m3u8"
+        },
+        "StreamHG": {
+          "5341-malep-1_otakuhg_sub": "https://otakuhg.site/e/euilxdfn9stu",
+          "5341-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "5341-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pbluvap9dg1o",
+          "5341-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5341-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3f321179a8065435",
+          "5341-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3f321179a8065435/master.m3u8"
+        },
+        "StreamHG": {
+          "5341-malep-1_otakuhg_hsub": "https://otakuhg.site/e/yxyr30hk776f",
+          "5341-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "5341-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ypq7yofv9axr",
+          "5341-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5341-malep-1_playmogo_hsub": "https://playmogo.com/e/oapg35xqxobp",
+          "5341-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Wolf and the Calm Before the Storm",
+      "episode_url": "https://hianime.ad/watch/spice-and-wolf-ii-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "5341-malep-2_vibeplayer_sub": "https://vibeplayer.site/f957911f495c96b9",
+          "5341-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f957911f495c96b9/master.m3u8"
+        },
+        "Earnvids": {
+          "5341-malep-2_otakuvid_sub": "https://otakuvid.online/embed/qxar9gyz4d6j",
+          "5341-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5341-malep-2_vibeplayer_hsub": "https://vibeplayer.site/3291fd4b49becc80",
+          "5341-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3291fd4b49becc80/master.m3u8"
+        },
+        "Earnvids": {
+          "5341-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/qi9fnn2b9iez",
+          "5341-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5341-malep-2_playmogo_hsub": "https://playmogo.com/e/8um4n73nsvmv",
+          "5341-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
