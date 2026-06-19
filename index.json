@@ -5748,5 +5748,15 @@
     "captured_at": "2026-06-19T22:36:25",
     "file": "data-8/uq-holder.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/uq-holder.json"
+  },
+  {
+    "slug": "urahara",
+    "mal_id": 35250,
+    "anime_name": "Urahara",
+    "anime_url": "https://hianime.ad/anime/urahara",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T22:36:54",
+    "file": "data-8/urahara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/urahara.json"
   }
 ]
