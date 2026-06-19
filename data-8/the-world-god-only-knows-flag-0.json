@@ -1,0 +1,31 @@
+{
+  "anime_name": "The World God Only Knows Flag 0",
+  "anime_url": "https://hianime.ad/anime/the-world-god-only-knows-flag-0",
+  "slug": "the-world-god-only-knows-flag-0",
+  "mal_id": 8525,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:36:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Love Makes the World Go Round",
+      "episode_url": "https://hianime.ad/watch/the-world-god-only-knows-flag-0/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "8525-malep-1_vibeplayer_dub": "https://vibeplayer.site/bf33a800fe50a6d1",
+          "8525-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bf33a800fe50a6d1/master.m3u8"
+        },
+        "StreamHG": {
+          "8525-malep-1_otakuhg_dub": "https://otakuhg.site/e/g6oxcfbsz3h7",
+          "8525-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "8525-malep-1_otakuvid_dub": "https://otakuvid.online/embed/s7d9eu5qpa83",
+          "8525-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
