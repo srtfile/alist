@@ -1,0 +1,63 @@
+{
+  "anime_name": "Sugar A Little Snow Fairy Summer Special",
+  "anime_url": "https://hianime.ad/anime/sugar-a-little-snow-fairy-summer-special",
+  "slug": "sugar-a-little-snow-fairy-summer-special",
+  "mal_id": 831,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T11:09:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Saga Meets Sugar",
+      "episode_url": "https://hianime.ad/watch/sugar-a-little-snow-fairy-summer-special/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "831-malep-1_vibeplayer_dub": "https://vibeplayer.site/e3262fca856ecd82",
+          "831-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e3262fca856ecd82/master.m3u8"
+        },
+        "Earnvids": {
+          "831-malep-1_otakuvid_dub": "https://otakuvid.online/embed/n69btxgsd6ms",
+          "831-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "831-malep-1_vibeplayer_raw": "https://vibeplayer.site/efe4f752955ea7da",
+          "831-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/efe4f752955ea7da/master.m3u8"
+        },
+        "Earnvids": {
+          "831-malep-1_otakuvid_raw": "https://otakuvid.online/embed/jdgwj0vcc7vh",
+          "831-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "An Itsy-Bitsy Roommate",
+      "episode_url": "https://hianime.ad/watch/sugar-a-little-snow-fairy-summer-special/ep-2",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "831-malep-2_vibeplayer_dub": "https://vibeplayer.site/011f5a3dce1d39c2",
+          "831-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/011f5a3dce1d39c2/master.m3u8"
+        },
+        "Earnvids": {
+          "831-malep-2_otakuvid_dub": "https://otakuvid.online/embed/cb1pi4d2ey5a",
+          "831-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "831-malep-2_vibeplayer_raw": "https://vibeplayer.site/ebe84d6757726dcb",
+          "831-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/ebe84d6757726dcb/master.m3u8"
+        },
+        "Earnvids": {
+          "831-malep-2_otakuvid_raw": "https://otakuvid.online/embed/1sykw9tubgnp",
+          "831-malep-2_otakuvid_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
