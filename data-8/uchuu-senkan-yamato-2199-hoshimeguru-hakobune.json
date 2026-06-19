@@ -1,0 +1,52 @@
+{
+  "anime_name": "Uchuu Senkan Yamato 2199 Hoshimeguru Hakobune",
+  "anime_url": "https://hianime.ad/anime/uchuu-senkan-yamato-2199-hoshimeguru-hakobune",
+  "slug": "uchuu-senkan-yamato-2199-hoshimeguru-hakobune",
+  "mal_id": 1650,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:06:59",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "SOS Earth!! Awaken, Space Battleship Yamato",
+      "episode_url": "https://hianime.ad/watch/uchuu-senkan-yamato-2199-hoshimeguru-hakobune/ep-1",
+      "sub": {
+        "HD-1": {
+          "1650-malep-1_vibeplayer_sub": "https://vibeplayer.site/ead92af248a06832",
+          "1650-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ead92af248a06832/master.m3u8"
+        },
+        "StreamHG": {
+          "1650-malep-1_otakuhg_sub": "https://otakuhg.site/e/n12tv3jo92gc",
+          "1650-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "1650-malep-1_otakuvid_sub": "https://otakuvid.online/embed/z13gg3zz4ccu",
+          "1650-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1650-malep-1_playmogo_sub": "https://playmogo.com/e/swse8nv3xwgw",
+          "1650-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1650-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5bd92b14cf203489",
+          "1650-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5bd92b14cf203489/master.m3u8"
+        },
+        "StreamHG": {
+          "1650-malep-1_otakuhg_hsub": "https://otakuhg.site/e/d3fd7u46r569",
+          "1650-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1650-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/txigb0j4x641",
+          "1650-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1650-malep-1_playmogo_hsub": "https://playmogo.com/e/gm3sc18p3w3a",
+          "1650-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
