@@ -1,0 +1,61 @@
+{
+  "anime_name": "The Guardian Brothers",
+  "anime_url": "https://hianime.ad/anime/the-guardian-brothers",
+  "slug": "the-guardian-brothers",
+  "mal_id": 10224,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T14:59:14",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/the-guardian-brothers/ep-1",
+      "sub": {
+        "HD-1": {
+          "10224-malep-1_vibeplayer_sub": "https://vibeplayer.site/d15863bac9598ed3",
+          "10224-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d15863bac9598ed3/master.m3u8"
+        },
+        "Earnvids": {
+          "10224-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i9py1vvv6fot",
+          "10224-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10224-malep-1_playmogo_sub": "https://playmogo.com/e/7auwy6bqxgvj",
+          "10224-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "10224-malep-1_vibeplayer_dub": "https://vibeplayer.site/033e3adf8cbae9d1",
+          "10224-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/033e3adf8cbae9d1/master.m3u8"
+        },
+        "Earnvids": {
+          "10224-malep-1_otakuvid_dub": "https://otakuvid.online/embed/imbx0loljyfu",
+          "10224-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "10224-malep-1_playmogo_dub": "https://playmogo.com/e/rx6ry2ryihyp",
+          "10224-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "10224-malep-1_vibeplayer_hsub": "https://vibeplayer.site/31a1d28936ea677c",
+          "10224-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/31a1d28936ea677c/master.m3u8"
+        },
+        "StreamHG": {
+          "10224-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9i7xe661ookj",
+          "10224-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "10224-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/egw1eopjjkrb",
+          "10224-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10224-malep-1_playmogo_hsub": "https://playmogo.com/e/642syfha86i7",
+          "10224-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
