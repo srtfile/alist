@@ -1,0 +1,57 @@
+{
+  "anime_name": "Slayers Premium",
+  "anime_url": "https://hianime.ad/anime/slayers-premium",
+  "slug": "slayers-premium",
+  "mal_id": 534,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T03:39:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "ANGRY? Lina's Furious Dragon Slave!",
+      "episode_url": "https://hianime.ad/watch/slayers-premium/ep-1",
+      "sub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_sub": "https://vibeplayer.site/edad65c2a866878b",
+          "534-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/edad65c2a866878b/master.m3u8"
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g9rz77ksvy62",
+          "534-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_dub": "https://vibeplayer.site/c661af15840f2d5d",
+          "534-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c661af15840f2d5d/master.m3u8"
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_dub": "https://otakuvid.online/embed/lojklvt4rxjl",
+          "534-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "534-malep-1_playmogo_dub": "https://playmogo.com/e/qerzbz8uusmf",
+          "534-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "534-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f4187cddfbbcb776",
+          "534-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f4187cddfbbcb776/master.m3u8"
+        },
+        "StreamHG": {
+          "534-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5et43jy70whr",
+          "534-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "534-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7hyjxb4xjso4",
+          "534-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "534-malep-1_playmogo_hsub": "https://playmogo.com/e/0v28xkc0ss9h",
+          "534-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
