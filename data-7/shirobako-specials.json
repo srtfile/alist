@@ -1,0 +1,69 @@
+{
+  "anime_name": "Shirobako Specials",
+  "anime_url": "https://hianime.ad/anime/shirobako-specials",
+  "slug": "shirobako-specials",
+  "mal_id": 25835,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T02:49:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Exodus to Tomorrow!",
+      "episode_url": "https://hianime.ad/watch/shirobako-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "25835-malep-1_vibeplayer_sub": "https://vibeplayer.site/0c5b48af3507ec38",
+          "25835-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0c5b48af3507ec38/master.m3u8"
+        },
+        "Earnvids": {
+          "25835-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6tlrj90w1qkz",
+          "25835-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25835-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b508e2f1fdfaea4f",
+          "25835-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b508e2f1fdfaea4f/master.m3u8"
+        },
+        "Earnvids": {
+          "25835-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/pigce2681rw7",
+          "25835-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25835-malep-1_playmogo_hsub": "https://playmogo.com/e/uafi8r4k9qk8",
+          "25835-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Arupin is Here!",
+      "episode_url": "https://hianime.ad/watch/shirobako-specials/ep-2",
+      "sub": {
+        "HD-1": {
+          "25835-malep-2_vibeplayer_sub": "https://vibeplayer.site/9ea10b9742b33bee",
+          "25835-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9ea10b9742b33bee/master.m3u8"
+        },
+        "Earnvids": {
+          "25835-malep-2_otakuvid_sub": "https://otakuvid.online/embed/yky3jqe12zea",
+          "25835-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25835-malep-2_vibeplayer_hsub": "https://vibeplayer.site/2a247ce0997cb7e2",
+          "25835-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a247ce0997cb7e2/master.m3u8"
+        },
+        "Earnvids": {
+          "25835-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/rdj2g7eft7wb",
+          "25835-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25835-malep-2_playmogo_hsub": "https://playmogo.com/e/n7uef60cunek",
+          "25835-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
