@@ -1,0 +1,53 @@
+{
+  "anime_name": "Urusei Yatsura Movie 6 Always My Darling",
+  "anime_url": "https://hianime.ad/anime/urusei-yatsura-movie-6-always-my-darling",
+  "slug": "urusei-yatsura-movie-6-always-my-darling",
+  "mal_id": 1293,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:45:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Lum the Notorious! / It's Raining Oil in Our Town",
+      "episode_url": "https://hianime.ad/watch/urusei-yatsura-movie-6-always-my-darling/ep-1",
+      "sub": {
+        "HD-1": {
+          "1293-malep-1_vibeplayer_sub": "https://vibeplayer.site/a558dcb8ae7a3779",
+          "1293-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a558dcb8ae7a3779/master.m3u8"
+        },
+        "Earnvids": {
+          "1293-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hgc5dmi3y91m",
+          "1293-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1293-malep-1_playmogo_sub": "https://playmogo.com/e/czisu96qvd24",
+          "1293-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1293-malep-1_vibeplayer_dub": "https://vibeplayer.site/eb3c7063bc7f7e43",
+          "1293-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eb3c7063bc7f7e43/master.m3u8"
+        },
+        "Earnvids": {
+          "1293-malep-1_otakuvid_dub": "https://otakuvid.online/embed/4bz1xjk4256s",
+          "1293-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1293-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b94a219589d5a3ae",
+          "1293-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b94a219589d5a3ae/master.m3u8"
+        },
+        "Earnvids": {
+          "1293-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/xle6uzymflox",
+          "1293-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1293-malep-1_playmogo_hsub": "https://playmogo.com/e/21yg3d0fezbv",
+          "1293-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
