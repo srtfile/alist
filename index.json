@@ -23888,5 +23888,15 @@
     "captured_at": "2026-06-19T12:40:07",
     "file": "data-7/teekyu.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/teekyu.json"
+  },
+  {
+    "slug": "teekyu-2",
+    "mal_id": 18121,
+    "anime_name": "Teekyu 2",
+    "anime_url": "https://hianime.ad/anime/teekyu-2",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T12:40:32",
+    "file": "data-7/teekyu-2.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/teekyu-2.json"
   }
 ]
