@@ -21288,5 +21288,15 @@
     "captured_at": "2026-06-19T10:26:27",
     "file": "data-7/steam-detectives.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/steam-detectives.json"
+  },
+  {
+    "slug": "steamboy",
+    "mal_id": null,
+    "anime_name": "Steamboy",
+    "anime_url": "https://hianime.ad/anime/steamboy",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T10:27:00",
+    "file": "data-7/steamboy.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/steamboy.json"
   }
 ]
