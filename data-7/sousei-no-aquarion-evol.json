@@ -1,0 +1,31 @@
+{
+  "anime_name": "Sousei No Aquarion Evol",
+  "anime_url": "https://hianime.ad/anime/sousei-no-aquarion-evol",
+  "slug": "sousei-no-aquarion-evol",
+  "mal_id": 478,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T05:50:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Memories of Heavenly Wings",
+      "episode_url": "https://hianime.ad/watch/sousei-no-aquarion-evol/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "478-malep-1_vibeplayer_dub": "https://vibeplayer.site/2ba4b61b1c18a776",
+          "478-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2ba4b61b1c18a776/master.m3u8"
+        },
+        "StreamHG": {
+          "478-malep-1_otakuhg_dub": "https://otakuhg.site/e/tf991ywpcr4a",
+          "478-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "478-malep-1_otakuvid_dub": "https://otakuvid.online/embed/seo2s1arllr6",
+          "478-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
