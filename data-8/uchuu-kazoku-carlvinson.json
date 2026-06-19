@@ -1,0 +1,40 @@
+{
+  "anime_name": "Uchuu Kazoku Carlvinson",
+  "anime_url": "https://hianime.ad/anime/uchuu-kazoku-carlvinson",
+  "slug": "uchuu-kazoku-carlvinson",
+  "mal_id": 2699,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T22:05:57",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I'm Mito!",
+      "episode_url": "https://hianime.ad/watch/uchuu-kazoku-carlvinson/ep-1",
+      "sub": {
+        "HD-1": {
+          "2699-malep-1_vibeplayer_sub": "https://vibeplayer.site/f9092a3298603f96",
+          "2699-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f9092a3298603f96/master.m3u8"
+        },
+        "Earnvids": {
+          "2699-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jdh8z6swueaa",
+          "2699-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2699-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8f676efcc6209a4d",
+          "2699-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f676efcc6209a4d/master.m3u8"
+        },
+        "Earnvids": {
+          "2699-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/d20nur3m043n",
+          "2699-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2699-malep-1_playmogo_hsub": "https://playmogo.com/e/x536sqpr7w6r",
+          "2699-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
