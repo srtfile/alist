@@ -21278,5 +21278,15 @@
     "captured_at": "2026-06-19T10:26:11",
     "file": "data-7/starship-troopers.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/starship-troopers.json"
+  },
+  {
+    "slug": "steam-detectives",
+    "mal_id": 2704,
+    "anime_name": "Steam Detectives",
+    "anime_url": "https://hianime.ad/anime/steam-detectives",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T10:26:27",
+    "file": "data-7/steam-detectives.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/steam-detectives.json"
   }
 ]
