@@ -2298,5 +2298,15 @@
     "captured_at": "2026-06-19T19:33:32",
     "file": "data-8/the-wonderful-wizard-of-oz.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-wonderful-wizard-of-oz.json"
+  },
+  {
+    "slug": "the-world-ends-with-you-the-animation",
+    "mal_id": 42307,
+    "anime_name": "The World Ends With You The Animation",
+    "anime_url": "https://hianime.ad/anime/the-world-ends-with-you-the-animation",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T19:34:38",
+    "file": "data-8/the-world-ends-with-you-the-animation.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-world-ends-with-you-the-animation.json"
   }
 ]
