@@ -1,0 +1,69 @@
+{
+  "anime_name": "Trigun Badlands Rumble",
+  "anime_url": "https://hianime.ad/anime/trigun-badlands-rumble",
+  "slug": "trigun-badlands-rumble",
+  "mal_id": 6,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:31:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The $$60,000,000,000.00 Man",
+      "episode_url": "https://hianime.ad/watch/trigun-badlands-rumble/ep-1",
+      "sub": {
+        "HD-1": {
+          "6-malep-1_vibeplayer_sub": "https://vibeplayer.site/a346d34a0c369da7",
+          "6-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a346d34a0c369da7/master.m3u8"
+        },
+        "StreamHG": {
+          "6-malep-1_otakuhg_sub": "https://otakuhg.site/e/90odlpwi6av3",
+          "6-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6-malep-1_otakuvid_sub": "https://otakuvid.online/embed/arsj9zrgs2s2",
+          "6-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6-malep-1_playmogo_sub": "https://playmogo.com/e/efx478p31ebx",
+          "6-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6-malep-1_vibeplayer_dub": "https://vibeplayer.site/c48da7ad8ca548bf",
+          "6-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c48da7ad8ca548bf/master.m3u8"
+        },
+        "StreamHG": {
+          "6-malep-1_otakuhg_dub": "https://otakuhg.site/e/6fk4keqjk65u",
+          "6-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6-malep-1_otakuvid_dub": "https://otakuvid.online/embed/puec71hgenx4",
+          "6-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "6-malep-1_playmogo_dub": "https://playmogo.com/e/42e3bk931e0n",
+          "6-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6-malep-1_vibeplayer_hsub": "https://vibeplayer.site/9c7d1ac7cb196a0e",
+          "6-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9c7d1ac7cb196a0e/master.m3u8"
+        },
+        "StreamHG": {
+          "6-malep-1_otakuhg_hsub": "https://otakuhg.site/e/kmt7tyxomzts",
+          "6-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w5uy44uw94vm",
+          "6-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6-malep-1_playmogo_hsub": "https://playmogo.com/e/9ld2gbrnfxzw",
+          "6-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
