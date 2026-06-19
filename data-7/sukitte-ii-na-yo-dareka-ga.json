@@ -1,0 +1,48 @@
+{
+  "anime_name": "Sukitte Ii Na Yo Dareka Ga",
+  "anime_url": "https://hianime.ad/anime/sukitte-ii-na-yo-dareka-ga",
+  "slug": "sukitte-ii-na-yo-dareka-ga",
+  "mal_id": 14289,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:11:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "We Kissed",
+      "episode_url": "https://hianime.ad/watch/sukitte-ii-na-yo-dareka-ga/ep-1",
+      "sub": {
+        "HD-1": {
+          "14289-malep-1_vibeplayer_sub": "https://vibeplayer.site/9247b3b5801cc949",
+          "14289-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9247b3b5801cc949/master.m3u8"
+        },
+        "Earnvids": {
+          "14289-malep-1_otakuvid_sub": "https://otakuvid.online/embed/t1dlyu4qao8q",
+          "14289-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14289-malep-1_playmogo_sub": "https://playmogo.com/e/u1pp854ip578",
+          "14289-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14289-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5c57713e67b23801",
+          "14289-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c57713e67b23801/master.m3u8"
+        },
+        "StreamHG": {
+          "14289-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qn4kxeul8o7c",
+          "14289-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14289-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iwfo27b4z17f",
+          "14289-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14289-malep-1_playmogo_hsub": "https://playmogo.com/e/lx6jcphvcvfk",
+          "14289-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
