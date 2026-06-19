@@ -2978,5 +2978,15 @@
     "captured_at": "2026-06-19T20:10:29",
     "file": "data-8/time-bokan-series-gyakuten-ippatsuman.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/time-bokan-series-gyakuten-ippatsuman.json"
+  },
+  {
+    "slug": "time-bokan-series-yatterman",
+    "mal_id": 3008,
+    "anime_name": "Time Bokan Series Yatterman",
+    "anime_url": "https://hianime.ad/anime/time-bokan-series-yatterman",
+    "total_episodes": 107,
+    "captured_at": "2026-06-19T20:11:24",
+    "file": "data-8/time-bokan-series-yatterman.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/time-bokan-series-yatterman.json"
   }
 ]
