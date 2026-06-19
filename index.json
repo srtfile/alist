@@ -6668,5 +6668,15 @@
     "captured_at": "2026-06-19T23:22:05",
     "file": "data-8/visual-prison.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/visual-prison.json"
+  },
+  {
+    "slug": "vivid-strike",
+    "mal_id": 33589,
+    "anime_name": "Vivid Strike",
+    "anime_url": "https://hianime.ad/anime/vivid-strike",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T23:22:36",
+    "file": "data-8/vivid-strike.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/vivid-strike.json"
   }
 ]
