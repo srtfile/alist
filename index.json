@@ -198,5 +198,15 @@
     "captured_at": "2026-06-19T16:00:52",
     "file": "data-8/the-many-sides-of-voice-actor-radio.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-many-sides-of-voice-actor-radio.json"
+  },
+  {
+    "slug": "the-marginal-service",
+    "mal_id": 53587,
+    "anime_name": "The Marginal Service",
+    "anime_url": "https://hianime.ad/anime/the-marginal-service",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T16:01:14",
+    "file": "data-8/the-marginal-service.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-marginal-service.json"
   }
 ]
