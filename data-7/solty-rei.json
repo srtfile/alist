@@ -1,0 +1,872 @@
+{
+  "anime_name": "Solty Rei",
+  "anime_url": "https://hianime.ad/anime/solty-rei",
+  "slug": "solty-rei",
+  "mal_id": 152,
+  "total_episodes": 24,
+  "captured_at": "2026-06-19T03:52:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The City Where the Aurora Falls",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-1",
+      "sub": {
+        "HD-1": {
+          "152-malep-1_vibeplayer_sub": "https://vibeplayer.site/49a0fb9965ba0653",
+          "152-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49a0fb9965ba0653/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-1_otakuvid_sub": "https://otakuvid.online/embed/gwez2vgx8bf2",
+          "152-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-1_vibeplayer_dub": "https://vibeplayer.site/f08c46e1deec92ac",
+          "152-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f08c46e1deec92ac/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-1_otakuvid_dub": "https://otakuvid.online/embed/3otg8v543t5v",
+          "152-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6a3e8ed98395105f",
+          "152-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6a3e8ed98395105f/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-1_otakuhg_hsub": "https://otakuhg.site/e/x0sj1v6ttjhw",
+          "152-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2tupwu7gsgh9",
+          "152-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-1_playmogo_hsub": "https://playmogo.com/e/kkg9ph65qsmq",
+          "152-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A New Dawn",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-2",
+      "sub": {
+        "HD-1": {
+          "152-malep-2_vibeplayer_sub": "https://vibeplayer.site/1a9dc6afd1e57a53",
+          "152-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1a9dc6afd1e57a53/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-2_otakuhg_sub": "https://otakuhg.site/e/dj3ctk9t67px",
+          "152-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-2_otakuvid_sub": "https://otakuvid.online/embed/um1dk7e97zp1",
+          "152-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-2_vibeplayer_dub": "https://vibeplayer.site/c13a3c0473a0127a",
+          "152-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/c13a3c0473a0127a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-2_otakuvid_dub": "https://otakuvid.online/embed/41ecalkaiqya",
+          "152-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Girl in Blue",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-3",
+      "sub": {
+        "HD-1": {
+          "152-malep-3_vibeplayer_sub": "https://vibeplayer.site/b092e0308c972c37",
+          "152-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b092e0308c972c37/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-3_otakuvid_sub": "https://otakuvid.online/embed/ciwbnmluh9ur",
+          "152-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-3_vibeplayer_dub": "https://vibeplayer.site/d926af1e89c721f2",
+          "152-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d926af1e89c721f2/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-3_otakuvid_dub": "https://otakuvid.online/embed/vkmqgs7c0pbl",
+          "152-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Friend",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-4",
+      "sub": {
+        "HD-1": {
+          "152-malep-4_vibeplayer_sub": "https://vibeplayer.site/fec36454ce3644a1",
+          "152-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fec36454ce3644a1/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-4_otakuvid_sub": "https://otakuvid.online/embed/xrnckqykegb7",
+          "152-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-4_vibeplayer_dub": "https://vibeplayer.site/5a714cc1613640ff",
+          "152-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5a714cc1613640ff/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-4_otakuvid_dub": "https://otakuvid.online/embed/akwcmss4j6i8",
+          "152-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Waterside Panic",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-5",
+      "sub": {
+        "HD-1": {
+          "152-malep-5_vibeplayer_sub": "https://vibeplayer.site/6317c3605fcf06ca",
+          "152-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6317c3605fcf06ca/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-5_otakuvid_sub": "https://otakuvid.online/embed/6coe8akrwykl",
+          "152-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-5_vibeplayer_dub": "https://vibeplayer.site/e0146bb639990d7e",
+          "152-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e0146bb639990d7e/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-5_otakuvid_dub": "https://otakuvid.online/embed/mdg1brdvas1s",
+          "152-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-5_vibeplayer_hsub": "https://vibeplayer.site/562560b930384819",
+          "152-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/562560b930384819/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/1w45zunbx16w",
+          "152-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-5_playmogo_hsub": "https://playmogo.com/e/gxo0z3vli46x",
+          "152-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Beloved Daughter",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-6",
+      "sub": {
+        "HD-1": {
+          "152-malep-6_vibeplayer_sub": "https://vibeplayer.site/b7f7738b0972a953",
+          "152-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7f7738b0972a953/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-6_otakuvid_sub": "https://otakuvid.online/embed/krcf5m8e3pi9",
+          "152-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-6_vibeplayer_dub": "https://vibeplayer.site/5847d2d49dfec9d0",
+          "152-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5847d2d49dfec9d0/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-6_otakuvid_dub": "https://otakuvid.online/embed/j0uo68wm1mfl",
+          "152-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-6_vibeplayer_hsub": "https://vibeplayer.site/01e9a4b8b8b81a32",
+          "152-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/01e9a4b8b8b81a32/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-6_otakuhg_hsub": "https://otakuhg.site/e/6x6jsa8jn936",
+          "152-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/u96109h9suh9",
+          "152-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-6_playmogo_hsub": "https://playmogo.com/e/ztodxpzvmy7k",
+          "152-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Little Blue Demon Comes to Visit",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-7",
+      "sub": {
+        "HD-1": {
+          "152-malep-7_vibeplayer_sub": "https://vibeplayer.site/f10e6ed4c4f2ef68",
+          "152-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f10e6ed4c4f2ef68/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-7_otakuvid_sub": "https://otakuvid.online/embed/2r3cek8tzcaw",
+          "152-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-7_vibeplayer_dub": "https://vibeplayer.site/4810f5053ccaf03b",
+          "152-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4810f5053ccaf03b/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-7_otakuvid_dub": "https://otakuvid.online/embed/o0ovng060tip",
+          "152-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-7_vibeplayer_hsub": "https://vibeplayer.site/b0d502cc6e5e0848",
+          "152-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b0d502cc6e5e0848/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-7_otakuhg_hsub": "https://otakuhg.site/e/8ggrw8xxj6b1",
+          "152-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/9h19tjd5agc4",
+          "152-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-7_playmogo_hsub": "https://playmogo.com/e/g8to9r3m3o8f",
+          "152-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Revenge",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-8",
+      "sub": {
+        "HD-1": {
+          "152-malep-8_vibeplayer_sub": "https://vibeplayer.site/7140dd13d3887cd7",
+          "152-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/7140dd13d3887cd7/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-8_otakuvid_sub": "https://otakuvid.online/embed/w2oqpw4aeuk9",
+          "152-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-8_vibeplayer_dub": "https://vibeplayer.site/58e8f86de0c5652c",
+          "152-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/58e8f86de0c5652c/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-8_otakuvid_dub": "https://otakuvid.online/embed/fgs2aa19h9df",
+          "152-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-8_vibeplayer_hsub": "https://vibeplayer.site/5c35ea4464f15364",
+          "152-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c35ea4464f15364/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-8_otakuhg_hsub": "https://otakuhg.site/e/aqpul15lmkv8",
+          "152-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/um6oiehmulb9",
+          "152-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-8_playmogo_hsub": "https://playmogo.com/e/fj346u3ten3t",
+          "152-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Girls' Day Off",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-9",
+      "sub": {
+        "HD-1": {
+          "152-malep-9_vibeplayer_sub": "https://vibeplayer.site/9902392990a719fb",
+          "152-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9902392990a719fb/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-9_otakuvid_sub": "https://otakuvid.online/embed/5u5jowjzdpta",
+          "152-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-9_vibeplayer_dub": "https://vibeplayer.site/f5c115d0d1a3fe30",
+          "152-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f5c115d0d1a3fe30/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-9_otakuvid_dub": "https://otakuvid.online/embed/ejz7r0fk5s77",
+          "152-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-9_vibeplayer_hsub": "https://vibeplayer.site/07ad8053f290d42e",
+          "152-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07ad8053f290d42e/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/dg04u9c2vs95",
+          "152-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-9_playmogo_hsub": "https://playmogo.com/e/ule0xxq0h7oj",
+          "152-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Treasure and Rescue",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-10",
+      "sub": {
+        "HD-1": {
+          "152-malep-10_vibeplayer_sub": "https://vibeplayer.site/3783942fd9df0b4c",
+          "152-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3783942fd9df0b4c/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-10_otakuvid_sub": "https://otakuvid.online/embed/rdnp44pf8ydk",
+          "152-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-10_vibeplayer_dub": "https://vibeplayer.site/4a187ec0453a895a",
+          "152-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4a187ec0453a895a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-10_otakuvid_dub": "https://otakuvid.online/embed/9hn8tnivmqlp",
+          "152-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Birthday Game",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-11",
+      "sub": {
+        "HD-1": {
+          "152-malep-11_vibeplayer_sub": "https://vibeplayer.site/f0941fd563ec5afa",
+          "152-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f0941fd563ec5afa/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-11_otakuvid_sub": "https://otakuvid.online/embed/af6awi2nadza",
+          "152-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-11_vibeplayer_dub": "https://vibeplayer.site/3d86298428c2fc3a",
+          "152-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3d86298428c2fc3a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-11_otakuvid_dub": "https://otakuvid.online/embed/kjxff49flq1c",
+          "152-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-11_vibeplayer_hsub": "https://vibeplayer.site/f7f59ce5bcb7cb79",
+          "152-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f7f59ce5bcb7cb79/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/hfmxxvgchiak",
+          "152-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-11_playmogo_hsub": "https://playmogo.com/e/55o84m3x0pcl",
+          "152-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tears: After the Showdown",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-12",
+      "sub": {
+        "HD-1": {
+          "152-malep-12_vibeplayer_sub": "https://vibeplayer.site/5e1a89010b9cae4d",
+          "152-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5e1a89010b9cae4d/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-12_otakuvid_sub": "https://otakuvid.online/embed/6986afp544ws",
+          "152-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-12_vibeplayer_dub": "https://vibeplayer.site/9128936329dd28c9",
+          "152-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9128936329dd28c9/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-12_otakuvid_dub": "https://otakuvid.online/embed/mufjdosq2aop",
+          "152-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-12_vibeplayer_hsub": "https://vibeplayer.site/8189d763db02ec2f",
+          "152-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8189d763db02ec2f/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-12_otakuhg_hsub": "https://otakuhg.site/e/5qjpepycv7vu",
+          "152-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/qjpxpot6hx3i",
+          "152-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-12_playmogo_hsub": "https://playmogo.com/e/t1prjbukdnd0",
+          "152-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Distance",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-13",
+      "sub": {
+        "HD-1": {
+          "152-malep-13_vibeplayer_sub": "https://vibeplayer.site/2d870f704e2da457",
+          "152-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2d870f704e2da457/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-13_otakuvid_sub": "https://otakuvid.online/embed/9olc1n3yjx3l",
+          "152-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-13_vibeplayer_dub": "https://vibeplayer.site/cec9fd9c6bc51d04",
+          "152-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cec9fd9c6bc51d04/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-13_otakuvid_dub": "https://otakuvid.online/embed/4f3zvvw6um91",
+          "152-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-13_vibeplayer_hsub": "https://vibeplayer.site/973f1298300102bc",
+          "152-malep-13_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/973f1298300102bc/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-13_otakuhg_hsub": "https://otakuhg.site/e/x9elkipwm3zh",
+          "152-malep-13_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-13_otakuvid_hsub": "https://otakuvid.online/embed/yh8hbrhf8yhc",
+          "152-malep-13_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-13_playmogo_hsub": "https://playmogo.com/e/slgge5jxd4ra",
+          "152-malep-13_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Heavy Hearts",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-14",
+      "sub": {
+        "HD-1": {
+          "152-malep-14_vibeplayer_sub": "https://vibeplayer.site/cc86a52fcc2abf8b",
+          "152-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cc86a52fcc2abf8b/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-14_otakuvid_sub": "https://otakuvid.online/embed/48md57q20m9t",
+          "152-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-14_vibeplayer_dub": "https://vibeplayer.site/b39ca1eec0624b4d",
+          "152-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b39ca1eec0624b4d/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-14_otakuvid_dub": "https://otakuvid.online/embed/x9iekosrarbb",
+          "152-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-14_vibeplayer_hsub": "https://vibeplayer.site/e183472452112a73",
+          "152-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e183472452112a73/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/ydskeqjgvu1j",
+          "152-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-14_playmogo_hsub": "https://playmogo.com/e/7s7i6692mteq",
+          "152-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Safe Haven",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-15",
+      "sub": {
+        "HD-1": {
+          "152-malep-15_vibeplayer_sub": "https://vibeplayer.site/1e91657773982d15",
+          "152-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1e91657773982d15/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-15_otakuvid_sub": "https://otakuvid.online/embed/quo88nzyzuzj",
+          "152-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-15_vibeplayer_dub": "https://vibeplayer.site/ce709d9dedd6446a",
+          "152-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ce709d9dedd6446a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-15_otakuvid_dub": "https://otakuvid.online/embed/etqihmowu9al",
+          "152-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-15_vibeplayer_hsub": "https://vibeplayer.site/0663739f10f5648d",
+          "152-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0663739f10f5648d/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-15_otakuhg_hsub": "https://otakuhg.site/e/4d3b6s4q0261",
+          "152-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/arcjczjhiagw",
+          "152-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-15_playmogo_hsub": "https://playmogo.com/e/v0czirvykxdp",
+          "152-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Half Kidding",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-16",
+      "sub": {
+        "HD-1": {
+          "152-malep-16_vibeplayer_sub": "https://vibeplayer.site/4b6fa6f20d8452c7",
+          "152-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/4b6fa6f20d8452c7/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-16_otakuvid_sub": "https://otakuvid.online/embed/kye55bsrgnqr",
+          "152-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-16_vibeplayer_dub": "https://vibeplayer.site/bb347ee3f6f22d02",
+          "152-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb347ee3f6f22d02/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-16_otakuvid_dub": "https://otakuvid.online/embed/v2k3txbc1d7r",
+          "152-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Lady",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-17",
+      "sub": {
+        "HD-1": {
+          "152-malep-17_vibeplayer_sub": "https://vibeplayer.site/fb5ece14db88cad8",
+          "152-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb5ece14db88cad8/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-17_otakuvid_sub": "https://otakuvid.online/embed/xfgfqeg6gnyv",
+          "152-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-17_vibeplayer_dub": "https://vibeplayer.site/fa8133dbbeab9f30",
+          "152-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/fa8133dbbeab9f30/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-17_otakuvid_dub": "https://otakuvid.online/embed/n9cbhjjfe28v",
+          "152-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-17_vibeplayer_hsub": "https://vibeplayer.site/a500f0f0de604536",
+          "152-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/a500f0f0de604536/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/4dzsotdc093d",
+          "152-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-17_playmogo_hsub": "https://playmogo.com/e/lq1t1cfpyg48",
+          "152-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Welcome Home",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-18",
+      "sub": {
+        "HD-1": {
+          "152-malep-18_vibeplayer_sub": "https://vibeplayer.site/d63f4113fc1b490a",
+          "152-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d63f4113fc1b490a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-18_otakuvid_sub": "https://otakuvid.online/embed/q4tkacm3zi9a",
+          "152-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-18_vibeplayer_dub": "https://vibeplayer.site/7862e4e0335c6d23",
+          "152-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/7862e4e0335c6d23/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-18_otakuvid_dub": "https://otakuvid.online/embed/uqd8osbod9ig",
+          "152-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-18_vibeplayer_hsub": "https://vibeplayer.site/28b1c53dc264380a",
+          "152-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/28b1c53dc264380a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/mtt070tueos4",
+          "152-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-18_playmogo_hsub": "https://playmogo.com/e/kmzf4y6rf9sq",
+          "152-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "All Together",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-19",
+      "sub": {
+        "HD-1": {
+          "152-malep-19_vibeplayer_sub": "https://vibeplayer.site/5971608d264b203b",
+          "152-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5971608d264b203b/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-19_otakuvid_sub": "https://otakuvid.online/embed/t7il0ahw1iwp",
+          "152-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-19_vibeplayer_dub": "https://vibeplayer.site/a0b12d39e5dccc7a",
+          "152-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a0b12d39e5dccc7a/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-19_otakuvid_dub": "https://otakuvid.online/embed/7ywrcguqvz5l",
+          "152-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-19_vibeplayer_hsub": "https://vibeplayer.site/af4a067fac57f9e4",
+          "152-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/af4a067fac57f9e4/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/no8chls5yk4z",
+          "152-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-19_playmogo_hsub": "https://playmogo.com/e/y8m8gjtreer5",
+          "152-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Catastrophe Calls",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-20",
+      "sub": {
+        "HD-1": {
+          "152-malep-20_vibeplayer_sub": "https://vibeplayer.site/f97318c79656e5b6",
+          "152-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f97318c79656e5b6/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-20_otakuvid_sub": "https://otakuvid.online/embed/1l7mmkm5ej62",
+          "152-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-20_vibeplayer_dub": "https://vibeplayer.site/389b11fe0b3ee4a7",
+          "152-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/389b11fe0b3ee4a7/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-20_otakuvid_dub": "https://otakuvid.online/embed/hh9yfb3ljal8",
+          "152-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Time for Truth",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-21",
+      "sub": {
+        "HD-1": {
+          "152-malep-21_vibeplayer_sub": "https://vibeplayer.site/580477bec57813cb",
+          "152-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/580477bec57813cb/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-21_otakuvid_sub": "https://otakuvid.online/embed/tx4sawb7v3xs",
+          "152-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-21_vibeplayer_dub": "https://vibeplayer.site/e2f52c42c7e3dac7",
+          "152-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e2f52c42c7e3dac7/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-21_otakuvid_dub": "https://otakuvid.online/embed/8ckyrktdb6pg",
+          "152-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-21_vibeplayer_hsub": "https://vibeplayer.site/7ef6adb26db5633a",
+          "152-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7ef6adb26db5633a/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-21_otakuhg_hsub": "https://otakuhg.site/e/dew0u4fcpep7",
+          "152-malep-21_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/r2gtcxuukt17",
+          "152-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-21_playmogo_hsub": "https://playmogo.com/e/73y3immb81aj",
+          "152-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Three Girls, Three Intentions",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-22",
+      "sub": {
+        "HD-1": {
+          "152-malep-22_vibeplayer_sub": "https://vibeplayer.site/1add3120837fc334",
+          "152-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1add3120837fc334/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-22_otakuvid_sub": "https://otakuvid.online/embed/01xc27uw65c3",
+          "152-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-22_vibeplayer_dub": "https://vibeplayer.site/1b1c02f167033210",
+          "152-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1b1c02f167033210/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-22_otakuvid_dub": "https://otakuvid.online/embed/vh9dlq6hllw3",
+          "152-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Farewell Message",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-23",
+      "sub": {
+        "HD-1": {
+          "152-malep-23_vibeplayer_sub": "https://vibeplayer.site/ab5e179fa7dc0748",
+          "152-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab5e179fa7dc0748/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-23_otakuvid_sub": "https://otakuvid.online/embed/tzyvfe7yymau",
+          "152-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-23_vibeplayer_dub": "https://vibeplayer.site/a832295642c9a5fb",
+          "152-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a832295642c9a5fb/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-23_otakuvid_dub": "https://otakuvid.online/embed/7w0o24w7uead",
+          "152-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-23_vibeplayer_hsub": "https://vibeplayer.site/744263ce5432239c",
+          "152-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/744263ce5432239c/master.m3u8"
+        },
+        "StreamHG": {
+          "152-malep-23_otakuhg_hsub": "https://otakuhg.site/e/6wy7rtmzpqna",
+          "152-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "152-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/ahp6a9wr4wqk",
+          "152-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-23_playmogo_hsub": "https://playmogo.com/e/kzci5r3bjt84",
+          "152-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Future",
+      "episode_url": "https://hianime.ad/watch/solty-rei/ep-24",
+      "sub": {
+        "HD-1": {
+          "152-malep-24_vibeplayer_sub": "https://vibeplayer.site/c3542817128f7ba2",
+          "152-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c3542817128f7ba2/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-24_otakuvid_sub": "https://otakuvid.online/embed/pfw2f9eoipp4",
+          "152-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "152-malep-24_vibeplayer_dub": "https://vibeplayer.site/4137d8184c5eaf70",
+          "152-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4137d8184c5eaf70/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-24_otakuvid_dub": "https://otakuvid.online/embed/u71b4w94d9z2",
+          "152-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "152-malep-24_vibeplayer_hsub": "https://vibeplayer.site/64dd285ffc10ab6e",
+          "152-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/64dd285ffc10ab6e/master.m3u8"
+        },
+        "Earnvids": {
+          "152-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/217c7cm61io8",
+          "152-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "152-malep-24_playmogo_hsub": "https://playmogo.com/e/rh2ufagupbo2",
+          "152-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
