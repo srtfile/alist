@@ -1,0 +1,988 @@
+{
+  "anime_name": "Tenchi In Tokyo",
+  "anime_url": "https://hianime.ad/anime/tenchi-in-tokyo",
+  "slug": "tenchi-in-tokyo",
+  "mal_id": 538,
+  "total_episodes": 26,
+  "captured_at": "2026-06-19T12:54:02",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Separation Anxiety",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-1",
+      "sub": {
+        "HD-1": {
+          "538-malep-1_vibeplayer_sub": "https://vibeplayer.site/f3567bec9beccc73",
+          "538-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f3567bec9beccc73/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0ugstvasu66d",
+          "538-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-1_vibeplayer_dub": "https://vibeplayer.site/aea6e9895a98f482",
+          "538-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/aea6e9895a98f482/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-1_otakuhg_dub": "https://otakuhg.site/e/q33znstdd4lh",
+          "538-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9paae1bv7wmd",
+          "538-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-1_vibeplayer_hsub": "https://vibeplayer.site/695078964b3c867e",
+          "538-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/695078964b3c867e/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-1_otakuhg_hsub": "https://otakuhg.site/e/p0vhpgpm0psq",
+          "538-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ebvqlp9ti2mz",
+          "538-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-1_playmogo_hsub": "https://playmogo.com/e/ao1i3puk7per",
+          "538-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Four's a Crowd",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-2",
+      "sub": {
+        "HD-1": {
+          "538-malep-2_vibeplayer_sub": "https://vibeplayer.site/a75b4811697b0655",
+          "538-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a75b4811697b0655/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-2_otakuvid_sub": "https://otakuvid.online/embed/zzrzkxesteg6",
+          "538-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-2_vibeplayer_dub": "https://vibeplayer.site/73d9616cd0f7e1d8",
+          "538-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/73d9616cd0f7e1d8/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-2_otakuvid_dub": "https://otakuvid.online/embed/sh56jf6uowig",
+          "538-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-2_vibeplayer_hsub": "https://vibeplayer.site/900fadc2ffa48c4c",
+          "538-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/900fadc2ffa48c4c/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-2_otakuhg_hsub": "https://otakuhg.site/e/z21yjs8rl6em",
+          "538-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/4s0hiavhivei",
+          "538-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-2_playmogo_hsub": "https://playmogo.com/e/v8zn7xor7u8d",
+          "538-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Long Distance Lunacy",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-3",
+      "sub": {
+        "HD-1": {
+          "538-malep-3_vibeplayer_sub": "https://vibeplayer.site/3c20d6fc30d640bb",
+          "538-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3c20d6fc30d640bb/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-3_otakuvid_sub": "https://otakuvid.online/embed/kjq60lc0xgq6",
+          "538-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-3_vibeplayer_dub": "https://vibeplayer.site/a2bbc92de6b4d046",
+          "538-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a2bbc92de6b4d046/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-3_otakuvid_dub": "https://otakuvid.online/embed/2f9ufeywpjaw",
+          "538-malep-3_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-3_vibeplayer_hsub": "https://vibeplayer.site/cdc727c5b6329a39",
+          "538-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cdc727c5b6329a39/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/xpqjo2je3wqk",
+          "538-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-3_playmogo_hsub": "https://playmogo.com/e/n1n8wq52shgh",
+          "538-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eternal Pledge",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-4",
+      "sub": {
+        "HD-1": {
+          "538-malep-4_vibeplayer_sub": "https://vibeplayer.site/e17e21d3227ede7b",
+          "538-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e17e21d3227ede7b/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-4_otakuvid_sub": "https://otakuvid.online/embed/6xocusbmd0tq",
+          "538-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-4_vibeplayer_dub": "https://vibeplayer.site/1dae4ff97b198928",
+          "538-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/1dae4ff97b198928/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-4_otakuvid_dub": "https://otakuvid.online/embed/wh0ivmrcikqk",
+          "538-malep-4_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-4_vibeplayer_hsub": "https://vibeplayer.site/ed38b3693085cc82",
+          "538-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ed38b3693085cc82/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-4_otakuhg_hsub": "https://otakuhg.site/e/19ilavnbl3zu",
+          "538-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/6qujgr5ar43b",
+          "538-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-4_playmogo_hsub": "https://playmogo.com/e/9pt5zpck9h0h",
+          "538-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Money! Money! Money!",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-5",
+      "sub": {
+        "HD-1": {
+          "538-malep-5_vibeplayer_sub": "https://vibeplayer.site/ea1fceba57cdd7b7",
+          "538-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea1fceba57cdd7b7/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-5_otakuvid_sub": "https://otakuvid.online/embed/98kouff0fh3r",
+          "538-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-5_vibeplayer_dub": "https://vibeplayer.site/4074fe89d29ce152",
+          "538-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4074fe89d29ce152/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-5_otakuvid_dub": "https://otakuvid.online/embed/j1ni90nofwt6",
+          "538-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-5_vibeplayer_hsub": "https://vibeplayer.site/93985cd7d904ccc7",
+          "538-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/93985cd7d904ccc7/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/i7h58w60ad52",
+          "538-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-5_playmogo_hsub": "https://playmogo.com/e/t9w9f7qc16mt",
+          "538-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Play Date",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-6",
+      "sub": {
+        "HD-1": {
+          "538-malep-6_vibeplayer_sub": "https://vibeplayer.site/9731e52cd46124a5",
+          "538-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9731e52cd46124a5/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-6_otakuvid_sub": "https://otakuvid.online/embed/tclbgw342qbb",
+          "538-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-6_vibeplayer_dub": "https://vibeplayer.site/ea58eea9ce97c72c",
+          "538-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ea58eea9ce97c72c/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-6_otakuvid_dub": "https://otakuvid.online/embed/9k2jhlizl76c",
+          "538-malep-6_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-6_vibeplayer_hsub": "https://vibeplayer.site/d6dd554bcd1b2b86",
+          "538-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d6dd554bcd1b2b86/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/qows4rrkt0b8",
+          "538-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-6_playmogo_hsub": "https://playmogo.com/e/wu2d24egicjy",
+          "538-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Day We Met",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-7",
+      "sub": {
+        "HD-1": {
+          "538-malep-7_vibeplayer_sub": "https://vibeplayer.site/ea0635b06e8490d5",
+          "538-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea0635b06e8490d5/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-7_otakuvid_sub": "https://otakuvid.online/embed/ew6ixjbf4w7t",
+          "538-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-7_vibeplayer_dub": "https://vibeplayer.site/177deb56e9ee1ade",
+          "538-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/177deb56e9ee1ade/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-7_otakuvid_dub": "https://otakuvid.online/embed/0d7tdm661yy2",
+          "538-malep-7_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-7_vibeplayer_hsub": "https://vibeplayer.site/eb716bf4d63801d3",
+          "538-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eb716bf4d63801d3/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ww3ctmwyu992",
+          "538-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-7_playmogo_hsub": "https://playmogo.com/e/88q5eyy749na",
+          "538-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tenchi Anniversary",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-8",
+      "sub": {
+        "HD-1": {
+          "538-malep-8_vibeplayer_sub": "https://vibeplayer.site/60e433f736cd1a25",
+          "538-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/60e433f736cd1a25/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-8_otakuvid_sub": "https://otakuvid.online/embed/g03lsw7w4ygx",
+          "538-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-8_vibeplayer_dub": "https://vibeplayer.site/755aba9d5d504fed",
+          "538-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/755aba9d5d504fed/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-8_otakuvid_dub": "https://otakuvid.online/embed/m417mlmjju2b",
+          "538-malep-8_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Guardians of Old",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-9",
+      "sub": {
+        "HD-1": {
+          "538-malep-9_vibeplayer_sub": "https://vibeplayer.site/3a72d83ee3f2c2b6",
+          "538-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3a72d83ee3f2c2b6/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-9_otakuvid_sub": "https://otakuvid.online/embed/cikeirbenxih",
+          "538-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-9_vibeplayer_dub": "https://vibeplayer.site/9365d04754867859",
+          "538-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9365d04754867859/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-9_otakuvid_dub": "https://otakuvid.online/embed/z99jr5tk416o",
+          "538-malep-9_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-9_vibeplayer_hsub": "https://vibeplayer.site/fe819011166d3e23",
+          "538-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe819011166d3e23/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/qjftvv0oaf0h",
+          "538-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-9_playmogo_hsub": "https://playmogo.com/e/qmv78sbpz5ab",
+          "538-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ryoko's Big Date",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-10",
+      "sub": {
+        "HD-1": {
+          "538-malep-10_vibeplayer_sub": "https://vibeplayer.site/9e8f73d2c4366629",
+          "538-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9e8f73d2c4366629/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-10_otakuvid_sub": "https://otakuvid.online/embed/qfxmkpmw6pem",
+          "538-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-10_vibeplayer_dub": "https://vibeplayer.site/b2092832db5d6e97",
+          "538-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/b2092832db5d6e97/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-10_otakuhg_dub": "https://otakuhg.site/e/x343t07nzvuk",
+          "538-malep-10_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-10_otakuvid_dub": "https://otakuvid.online/embed/z94x6tqrg8fh",
+          "538-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-10_vibeplayer_hsub": "https://vibeplayer.site/9184a1336e457127",
+          "538-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9184a1336e457127/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/tki9sf5i9og0",
+          "538-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-10_playmogo_hsub": "https://playmogo.com/e/wleuzefge1k9",
+          "538-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Moon Mission",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-11",
+      "sub": {
+        "HD-1": {
+          "538-malep-11_vibeplayer_sub": "https://vibeplayer.site/0cdc8b229d5c6060",
+          "538-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0cdc8b229d5c6060/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-11_otakuhg_sub": "https://otakuhg.site/e/wbutve99tf2t",
+          "538-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-11_otakuvid_sub": "https://otakuvid.online/embed/e9qe44n4j93k",
+          "538-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-11_vibeplayer_dub": "https://vibeplayer.site/eabd52e43d970d50",
+          "538-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eabd52e43d970d50/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-11_otakuvid_dub": "https://otakuvid.online/embed/54d1y6gdxi80",
+          "538-malep-11_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-11_vibeplayer_hsub": "https://vibeplayer.site/ca104c522da7c2e3",
+          "538-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca104c522da7c2e3/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/bqq5iv00tv0h",
+          "538-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-11_playmogo_hsub": "https://playmogo.com/e/jng66neghkox",
+          "538-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Stupid Cupid",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-12",
+      "sub": {
+        "HD-1": {
+          "538-malep-12_vibeplayer_sub": "https://vibeplayer.site/f773f2f750016227",
+          "538-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f773f2f750016227/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-12_otakuvid_sub": "https://otakuvid.online/embed/lkqfsvbego56",
+          "538-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-12_vibeplayer_dub": "https://vibeplayer.site/a020e3cbe69123c7",
+          "538-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a020e3cbe69123c7/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-12_otakuvid_dub": "https://otakuvid.online/embed/my6j2t1aizis",
+          "538-malep-12_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-12_vibeplayer_hsub": "https://vibeplayer.site/ca881c783f57a66c",
+          "538-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ca881c783f57a66c/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/enc4jwpa4v8c",
+          "538-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-12_playmogo_hsub": "https://playmogo.com/e/k4hmjl7dcfd2",
+          "538-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Eye of the Destroyer",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-13",
+      "sub": {
+        "HD-1": {
+          "538-malep-13_vibeplayer_sub": "https://vibeplayer.site/092a92b06fa51cba",
+          "538-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/092a92b06fa51cba/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-13_otakuvid_sub": "https://otakuvid.online/embed/yjt9p5dcxk54",
+          "538-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-13_vibeplayer_dub": "https://vibeplayer.site/5d81d015358ec142",
+          "538-malep-13_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5d81d015358ec142/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-13_otakuvid_dub": "https://otakuvid.online/embed/8mb9i272nh4r",
+          "538-malep-13_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Tokyo or Bust!",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-14",
+      "sub": {
+        "HD-1": {
+          "538-malep-14_vibeplayer_sub": "https://vibeplayer.site/feb9422ab9e20499",
+          "538-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/feb9422ab9e20499/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-14_otakuvid_sub": "https://otakuvid.online/embed/uyt2x507t2ll",
+          "538-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-14_vibeplayer_dub": "https://vibeplayer.site/86293014b01f721a",
+          "538-malep-14_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/86293014b01f721a/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-14_otakuvid_dub": "https://otakuvid.online/embed/5vlcy56dxwru",
+          "538-malep-14_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-14_vibeplayer_hsub": "https://vibeplayer.site/fba4a61375164e67",
+          "538-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fba4a61375164e67/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/tfkr9vvozok1",
+          "538-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-14_playmogo_hsub": "https://playmogo.com/e/nhnzijq8qrkb",
+          "538-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Love Match",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-15",
+      "sub": {
+        "HD-1": {
+          "538-malep-15_vibeplayer_sub": "https://vibeplayer.site/e2e195ebf2884c48",
+          "538-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2e195ebf2884c48/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-15_otakuvid_sub": "https://otakuvid.online/embed/kcp6xpnm0gff",
+          "538-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-15_vibeplayer_dub": "https://vibeplayer.site/d6b07c970e3a6d05",
+          "538-malep-15_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d6b07c970e3a6d05/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-15_otakuvid_dub": "https://otakuvid.online/embed/xrp66joqmfu1",
+          "538-malep-15_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    },
+    {
+      "episode_title": "Carnival!",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-16",
+      "sub": {
+        "HD-1": {
+          "538-malep-16_vibeplayer_sub": "https://vibeplayer.site/60ec9b9e8e54f7a6",
+          "538-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/60ec9b9e8e54f7a6/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-16_otakuvid_sub": "https://otakuvid.online/embed/zzr3uktibpgw",
+          "538-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-16_vibeplayer_dub": "https://vibeplayer.site/0a2459b38cbfa8db",
+          "538-malep-16_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0a2459b38cbfa8db/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-16_otakuvid_dub": "https://otakuvid.online/embed/a4o7525k0rq5",
+          "538-malep-16_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-16_vibeplayer_hsub": "https://vibeplayer.site/00f6ae12361f1afc",
+          "538-malep-16_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/00f6ae12361f1afc/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-16_otakuvid_hsub": "https://otakuvid.online/embed/18p6flv0njue",
+          "538-malep-16_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-16_playmogo_hsub": "https://playmogo.com/e/aoecpdrt3tcn",
+          "538-malep-16_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Drifting Away",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-17",
+      "sub": {
+        "HD-1": {
+          "538-malep-17_vibeplayer_sub": "https://vibeplayer.site/c967892d9ff933f4",
+          "538-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c967892d9ff933f4/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-17_otakuvid_sub": "https://otakuvid.online/embed/43p3cb7savzl",
+          "538-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-17_vibeplayer_dub": "https://vibeplayer.site/299004599ab7a49b",
+          "538-malep-17_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/299004599ab7a49b/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-17_otakuvid_dub": "https://otakuvid.online/embed/7ikz5u0175bv",
+          "538-malep-17_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-17_vibeplayer_hsub": "https://vibeplayer.site/2ecfc52bae180f06",
+          "538-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ecfc52bae180f06/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/nikk6bu29uc8",
+          "538-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-17_playmogo_hsub": "https://playmogo.com/e/nmd4jzt6stzq",
+          "538-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Game Over",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-18",
+      "sub": {
+        "HD-1": {
+          "538-malep-18_vibeplayer_sub": "https://vibeplayer.site/34d0ab72fa64dee8",
+          "538-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/34d0ab72fa64dee8/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-18_otakuvid_sub": "https://otakuvid.online/embed/et4t2upbqf7v",
+          "538-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-18_vibeplayer_dub": "https://vibeplayer.site/bde26b33ea41807a",
+          "538-malep-18_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bde26b33ea41807a/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-18_otakuvid_dub": "https://otakuvid.online/embed/74cnmvxahr5y",
+          "538-malep-18_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-18_vibeplayer_hsub": "https://vibeplayer.site/9b4d9d8a516146ca",
+          "538-malep-18_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9b4d9d8a516146ca/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-18_otakuvid_hsub": "https://otakuvid.online/embed/kdu2w1i90slj",
+          "538-malep-18_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-18_playmogo_hsub": "https://playmogo.com/e/009wy1d1yli5",
+          "538-malep-18_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Lonely Princess",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-19",
+      "sub": {
+        "HD-1": {
+          "538-malep-19_vibeplayer_sub": "https://vibeplayer.site/ffa4d2ad0c9e5080",
+          "538-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ffa4d2ad0c9e5080/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-19_otakuvid_sub": "https://otakuvid.online/embed/8oit567s329a",
+          "538-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-19_vibeplayer_dub": "https://vibeplayer.site/f3f86039cac3e219",
+          "538-malep-19_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f3f86039cac3e219/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-19_otakuvid_dub": "https://otakuvid.online/embed/ycrxhnhmf3q3",
+          "538-malep-19_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-19_vibeplayer_hsub": "https://vibeplayer.site/df7f499be11842a3",
+          "538-malep-19_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/df7f499be11842a3/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-19_otakuvid_hsub": "https://otakuvid.online/embed/wiq7nt0wi0xe",
+          "538-malep-19_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-19_playmogo_hsub": "https://playmogo.com/e/3o6lv9cdk7ha",
+          "538-malep-19_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Old Friends",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-20",
+      "sub": {
+        "HD-1": {
+          "538-malep-20_vibeplayer_sub": "https://vibeplayer.site/bc2c05c23b3c68d3",
+          "538-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc2c05c23b3c68d3/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-20_otakuvid_sub": "https://otakuvid.online/embed/ucurn5uozm1a",
+          "538-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-20_vibeplayer_dub": "https://vibeplayer.site/ebac36660b94dfda",
+          "538-malep-20_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ebac36660b94dfda/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-20_otakuvid_dub": "https://otakuvid.online/embed/9is2pit4qami",
+          "538-malep-20_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-20_vibeplayer_hsub": "https://vibeplayer.site/08339233b8dbb0bb",
+          "538-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/08339233b8dbb0bb/master.m3u8"
+        },
+        "StreamHG": {
+          "538-malep-20_otakuhg_hsub": "https://otakuhg.site/e/kew36ughkmud",
+          "538-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "538-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/vko2vvm0ddt6",
+          "538-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-20_playmogo_hsub": "https://playmogo.com/e/4rsj3vw6nw8h",
+          "538-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Real Friends?",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-21",
+      "sub": {
+        "HD-1": {
+          "538-malep-21_vibeplayer_sub": "https://vibeplayer.site/b949d8decfdfb3f5",
+          "538-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b949d8decfdfb3f5/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-21_otakuvid_sub": "https://otakuvid.online/embed/shd1pnew2jlz",
+          "538-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-21_vibeplayer_dub": "https://vibeplayer.site/607fcec581bdaae4",
+          "538-malep-21_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/607fcec581bdaae4/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-21_otakuvid_dub": "https://otakuvid.online/embed/u8yn6rxfcg05",
+          "538-malep-21_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-21_vibeplayer_hsub": "https://vibeplayer.site/759d743877e283c5",
+          "538-malep-21_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/759d743877e283c5/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-21_otakuvid_hsub": "https://otakuvid.online/embed/cj6anx7yt3ea",
+          "538-malep-21_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-21_playmogo_hsub": "https://playmogo.com/e/6u30zwzpjl4j",
+          "538-malep-21_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Sakuya's Secret",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-22",
+      "sub": {
+        "HD-1": {
+          "538-malep-22_vibeplayer_sub": "https://vibeplayer.site/cba5ead125e07bc8",
+          "538-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cba5ead125e07bc8/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-22_otakuvid_sub": "https://otakuvid.online/embed/sp9f01p331tb",
+          "538-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-22_vibeplayer_dub": "https://vibeplayer.site/cf1be1a8770bc1dd",
+          "538-malep-22_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cf1be1a8770bc1dd/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-22_otakuvid_dub": "https://otakuvid.online/embed/i0jnisuk9pyb",
+          "538-malep-22_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-22_vibeplayer_hsub": "https://vibeplayer.site/d7750a283b03730f",
+          "538-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d7750a283b03730f/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/o262by02qqvm",
+          "538-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-22_playmogo_hsub": "https://playmogo.com/e/1n6qzcugdgdn",
+          "538-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Here, There, and Everywhere",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-23",
+      "sub": {
+        "HD-1": {
+          "538-malep-23_vibeplayer_sub": "https://vibeplayer.site/8b1a2fe16f503762",
+          "538-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8b1a2fe16f503762/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-23_otakuvid_sub": "https://otakuvid.online/embed/tb58yyqzofi5",
+          "538-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-23_vibeplayer_dub": "https://vibeplayer.site/9a91e4febe473e99",
+          "538-malep-23_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/9a91e4febe473e99/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-23_otakuvid_dub": "https://otakuvid.online/embed/qkx5vdmdc574",
+          "538-malep-23_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-23_vibeplayer_hsub": "https://vibeplayer.site/fd4f54b0995a243f",
+          "538-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fd4f54b0995a243f/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/8raplvjjrm7s",
+          "538-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-23_playmogo_hsub": "https://playmogo.com/e/v2w5rnv6b2hq",
+          "538-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Yugi's Shadow",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-24",
+      "sub": {
+        "HD-1": {
+          "538-malep-24_vibeplayer_sub": "https://vibeplayer.site/1ebeba90fb253678",
+          "538-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1ebeba90fb253678/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-24_otakuvid_sub": "https://otakuvid.online/embed/jaox8o3lcpg4",
+          "538-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-24_vibeplayer_dub": "https://vibeplayer.site/49d0afa842eb2086",
+          "538-malep-24_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/49d0afa842eb2086/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-24_otakuvid_dub": "https://otakuvid.online/embed/9o1l2jmrvkwh",
+          "538-malep-24_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-24_vibeplayer_hsub": "https://vibeplayer.site/68f0dd8ed2b94fa8",
+          "538-malep-24_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/68f0dd8ed2b94fa8/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-24_otakuvid_hsub": "https://otakuvid.online/embed/xa9ob1ec796f",
+          "538-malep-24_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-24_playmogo_hsub": "https://playmogo.com/e/5fc1y4evhw9s",
+          "538-malep-24_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The End of Time",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-25",
+      "sub": {
+        "HD-1": {
+          "538-malep-25_vibeplayer_sub": "https://vibeplayer.site/042edcfacfa73301",
+          "538-malep-25_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/042edcfacfa73301/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-25_otakuvid_sub": "https://otakuvid.online/embed/a7rwzmhux20d",
+          "538-malep-25_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-25_vibeplayer_dub": "https://vibeplayer.site/862f0149fa3c31d9",
+          "538-malep-25_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/862f0149fa3c31d9/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-25_otakuvid_dub": "https://otakuvid.online/embed/js4y5hh71mfq",
+          "538-malep-25_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-25_vibeplayer_hsub": "https://vibeplayer.site/03dfdd82b532c453",
+          "538-malep-25_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/03dfdd82b532c453/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-25_otakuvid_hsub": "https://otakuvid.online/embed/ntbbzq96a29f",
+          "538-malep-25_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-25_playmogo_hsub": "https://playmogo.com/e/dnmx5ndqvnaw",
+          "538-malep-25_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Payback",
+      "episode_url": "https://hianime.ad/watch/tenchi-in-tokyo/ep-26",
+      "sub": {
+        "HD-1": {
+          "538-malep-26_vibeplayer_sub": "https://vibeplayer.site/5fa4f86763d30926",
+          "538-malep-26_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5fa4f86763d30926/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-26_otakuvid_sub": "https://otakuvid.online/embed/niivwe8xewav",
+          "538-malep-26_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "538-malep-26_vibeplayer_dub": "https://vibeplayer.site/e8f7d318b2ce320b",
+          "538-malep-26_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e8f7d318b2ce320b/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-26_otakuvid_dub": "https://otakuvid.online/embed/tou3egfx9a7v",
+          "538-malep-26_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "538-malep-26_vibeplayer_hsub": "https://vibeplayer.site/352cce635215464f",
+          "538-malep-26_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/352cce635215464f/master.m3u8"
+        },
+        "Earnvids": {
+          "538-malep-26_otakuvid_hsub": "https://otakuvid.online/embed/nzeome6nwo7m",
+          "538-malep-26_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "538-malep-26_playmogo_hsub": "https://playmogo.com/e/kbsbf37oxeb8",
+          "538-malep-26_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
