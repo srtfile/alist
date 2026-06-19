@@ -4,7 +4,7 @@
   "slug": "saiyuki",
   "mal_id": 129,
   "total_episodes": 50,
-  "captured_at": "2026-06-18T19:26:29",
+  "captured_at": "2026-06-19T00:38:42",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1026,12 +1026,20 @@
       "episode_title": "The Irate Sun",
       "episode_url": "https://hianime.ad/watch/saiyuki/ep-40",
       "sub": {
+        "HD-1": {
+          "129-malep-40_vibeplayer_sub": "https://vibeplayer.site/ba92d33a7e4705c6",
+          "129-malep-40_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ba92d33a7e4705c6/master.m3u8"
+        },
         "Earnvids": {
           "129-malep-40_otakuvid_sub": "https://otakuvid.online/embed/ovwgv3m3anu4",
           "129-malep-40_otakuvid_sub_m3u8": null
         }
       },
       "dub": {
+        "HD-1": {
+          "129-malep-40_vibeplayer_dub": "https://vibeplayer.site/eeae2d0bb7031a3d",
+          "129-malep-40_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/eeae2d0bb7031a3d/master.m3u8"
+        },
         "Earnvids": {
           "129-malep-40_otakuvid_dub": "https://otakuvid.online/embed/svlylmchib2l",
           "129-malep-40_otakuvid_dub_m3u8": null
