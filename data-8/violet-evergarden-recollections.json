@@ -1,0 +1,53 @@
+{
+  "anime_name": "Violet Evergarden Recollections",
+  "anime_url": "https://hianime.ad/anime/violet-evergarden-recollections",
+  "slug": "violet-evergarden-recollections",
+  "mal_id": 33352,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:19:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "'I Love You' and Auto Memoir Doll",
+      "episode_url": "https://hianime.ad/watch/violet-evergarden-recollections/ep-1",
+      "sub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_sub": "https://vibeplayer.site/23a7367c77728a43",
+          "33352-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/23a7367c77728a43/master.m3u8"
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8y349293j92d",
+          "33352-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_dub": "https://vibeplayer.site/ead2340b0c12de0a",
+          "33352-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ead2340b0c12de0a/master.m3u8"
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_dub": "https://otakuvid.online/embed/tsmkzoqtdtly",
+          "33352-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33352-malep-1_vibeplayer_hsub": "https://vibeplayer.site/54c60fa6c3bc9254",
+          "33352-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/54c60fa6c3bc9254/master.m3u8"
+        },
+        "StreamHG": {
+          "33352-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cpdydtnqhcse",
+          "33352-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "33352-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ra0okdaqtzu0",
+          "33352-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33352-malep-1_playmogo_hsub": "https://playmogo.com/e/ldfbuljtnauz",
+          "33352-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
