@@ -1,0 +1,61 @@
+{
+  "anime_name": "Tamako Love Story",
+  "anime_url": "https://hianime.ad/anime/tamako-love-story",
+  "slug": "tamako-love-story",
+  "mal_id": 16417,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T12:24:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "That Girl's the Daughter of a Mochi Shop Owner",
+      "episode_url": "https://hianime.ad/watch/tamako-love-story/ep-1",
+      "sub": {
+        "HD-1": {
+          "16417-malep-1_vibeplayer_sub": "https://vibeplayer.site/0d87c94a53a202c9",
+          "16417-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d87c94a53a202c9/master.m3u8"
+        },
+        "StreamHG": {
+          "16417-malep-1_otakuhg_sub": "https://otakuhg.site/e/dpficq2rvix7",
+          "16417-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "16417-malep-1_otakuvid_sub": "https://otakuvid.online/embed/h5bt4skpn0f8",
+          "16417-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "16417-malep-1_vibeplayer_dub": "https://vibeplayer.site/2ac3f95f60d1707f",
+          "16417-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/2ac3f95f60d1707f/master.m3u8"
+        },
+        "StreamHG": {
+          "16417-malep-1_otakuhg_dub": "https://otakuhg.site/e/6dj676v1dpv4",
+          "16417-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "16417-malep-1_otakuvid_dub": "https://otakuvid.online/embed/corls9bccoeu",
+          "16417-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "16417-malep-1_vibeplayer_hsub": "https://vibeplayer.site/88aa0ec997b49402",
+          "16417-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/88aa0ec997b49402/master.m3u8"
+        },
+        "StreamHG": {
+          "16417-malep-1_otakuhg_hsub": "https://otakuhg.site/e/sbot6u6rtz84",
+          "16417-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "16417-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/36tjy17tvyb5",
+          "16417-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "16417-malep-1_playmogo_hsub": "https://playmogo.com/e/f7sr0kfh1bv5",
+          "16417-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
