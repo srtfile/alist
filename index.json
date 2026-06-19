@@ -5318,5 +5318,15 @@
     "captured_at": "2026-06-19T22:16:00",
     "file": "data-8/ultraman-2.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/ultraman-2.json"
+  },
+  {
+    "slug": "ultraman-company",
+    "mal_id": 8753,
+    "anime_name": "Ultraman Company",
+    "anime_url": "https://hianime.ad/anime/ultraman-company",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T22:16:25",
+    "file": "data-8/ultraman-company.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/ultraman-company.json"
   }
 ]
