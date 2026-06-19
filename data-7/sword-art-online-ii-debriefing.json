@@ -1,0 +1,53 @@
+{
+  "anime_name": "Sword Art Online Ii Debriefing",
+  "anime_url": "https://hianime.ad/anime/sword-art-online-ii-debriefing",
+  "slug": "sword-art-online-ii-debriefing",
+  "mal_id": 21881,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T11:53:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "World of Guns",
+      "episode_url": "https://hianime.ad/watch/sword-art-online-ii-debriefing/ep-1",
+      "sub": {
+        "HD-1": {
+          "21881-malep-1_vibeplayer_sub": "https://vibeplayer.site/b7eb5798b4d39160",
+          "21881-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b7eb5798b4d39160/master.m3u8"
+        },
+        "Earnvids": {
+          "21881-malep-1_otakuvid_sub": "https://otakuvid.online/embed/95w4w7ftxv6s",
+          "21881-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "21881-malep-1_vibeplayer_dub": "https://vibeplayer.site/93529a9e7aa3b6a2",
+          "21881-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/93529a9e7aa3b6a2/master.m3u8"
+        },
+        "Earnvids": {
+          "21881-malep-1_otakuvid_dub": "https://otakuvid.online/embed/jxqpdrnk0p97",
+          "21881-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "21881-malep-1_vibeplayer_hsub": "https://vibeplayer.site/85d5092bd52beb0a",
+          "21881-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/85d5092bd52beb0a/master.m3u8"
+        },
+        "StreamHG": {
+          "21881-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tzy43x12ppak",
+          "21881-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21881-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lten3d6ypg7k",
+          "21881-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21881-malep-1_playmogo_hsub": "https://playmogo.com/e/mboebks6b5cs",
+          "21881-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
