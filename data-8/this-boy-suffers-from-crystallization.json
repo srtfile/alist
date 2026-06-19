@@ -1,0 +1,52 @@
+{
+  "anime_name": "This Boy Suffers From Crystallization",
+  "anime_url": "https://hianime.ad/anime/this-boy-suffers-from-crystallization",
+  "slug": "this-boy-suffers-from-crystallization",
+  "mal_id": 31815,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:50:07",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Untitled",
+      "episode_url": "https://hianime.ad/watch/this-boy-suffers-from-crystallization/ep-1",
+      "sub": {
+        "HD-1": {
+          "31815-malep-1_vibeplayer_sub": "https://vibeplayer.site/e2036b3cf821fec7",
+          "31815-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e2036b3cf821fec7/master.m3u8"
+        },
+        "StreamHG": {
+          "31815-malep-1_otakuhg_sub": "https://otakuhg.site/e/941gkuz45qff",
+          "31815-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "31815-malep-1_otakuvid_sub": "https://otakuvid.online/embed/3i894569r6va",
+          "31815-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "31815-malep-1_playmogo_sub": "https://playmogo.com/e/x1xddcq10cjn",
+          "31815-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "31815-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5b8fe855d111364a",
+          "31815-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b8fe855d111364a/master.m3u8"
+        },
+        "StreamHG": {
+          "31815-malep-1_otakuhg_hsub": "https://otakuhg.site/e/741kzrn5j23g",
+          "31815-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "31815-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ops2v5tgsro3",
+          "31815-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "31815-malep-1_playmogo_hsub": "https://playmogo.com/e/z80h7lpt370b",
+          "31815-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
