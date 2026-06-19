@@ -1,0 +1,73 @@
+{
+  "anime_name": "Tamayura",
+  "anime_url": "https://hianime.ad/anime/tamayura",
+  "slug": "tamayura",
+  "mal_id": 10232,
+  "total_episodes": 2,
+  "captured_at": "2026-06-19T12:26:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Town of My Beginning, So Yeah...",
+      "episode_url": "https://hianime.ad/watch/tamayura/ep-1",
+      "sub": {
+        "HD-1": {
+          "10232-malep-1_vibeplayer_sub": "https://vibeplayer.site/babd4b92f2f9d7d7",
+          "10232-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/babd4b92f2f9d7d7/master.m3u8"
+        },
+        "Earnvids": {
+          "10232-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nksfsa2iq7su",
+          "10232-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10232-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5373603e2261eaec",
+          "10232-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5373603e2261eaec/master.m3u8"
+        },
+        "Earnvids": {
+          "10232-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fxqywn20it2e",
+          "10232-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10232-malep-1_playmogo_hsub": "https://playmogo.com/e/f2r8s9l2dowb",
+          "10232-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Day We Were Enveloped in a Gentle Fragrance, So Yeah...",
+      "episode_url": "https://hianime.ad/watch/tamayura/ep-2",
+      "sub": {
+        "HD-1": {
+          "10232-malep-2_vibeplayer_sub": "https://vibeplayer.site/2c0edfd604c27d46",
+          "10232-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2c0edfd604c27d46/master.m3u8"
+        },
+        "Earnvids": {
+          "10232-malep-2_otakuvid_sub": "https://otakuvid.online/embed/1b2w3l43zi75",
+          "10232-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "10232-malep-2_playmogo_sub": "https://playmogo.com/e/6pusfjeih2p8",
+          "10232-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "10232-malep-2_vibeplayer_hsub": "https://vibeplayer.site/150d4b6328d31986",
+          "10232-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/150d4b6328d31986/master.m3u8"
+        },
+        "Earnvids": {
+          "10232-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/6s173hwk8jhu",
+          "10232-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "10232-malep-2_playmogo_hsub": "https://playmogo.com/e/rudeu1i5cple",
+          "10232-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
