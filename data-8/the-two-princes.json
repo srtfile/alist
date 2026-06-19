@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Two Princes",
+  "anime_url": "https://hianime.ad/anime/the-two-princes",
+  "slug": "the-two-princes",
+  "mal_id": 1594,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:16:32",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Girl in the Dark",
+      "episode_url": "https://hianime.ad/watch/the-two-princes/ep-1",
+      "sub": {
+        "HD-1": {
+          "1594-malep-1_vibeplayer_sub": "https://vibeplayer.site/b597d08c02cf60f2",
+          "1594-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b597d08c02cf60f2/master.m3u8"
+        },
+        "Earnvids": {
+          "1594-malep-1_otakuvid_sub": "https://otakuvid.online/embed/r7340dhtnces",
+          "1594-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1594-malep-1_playmogo_sub": "https://playmogo.com/e/v6x7cofzemnl",
+          "1594-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1594-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fa0642fb2a3604cd",
+          "1594-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa0642fb2a3604cd/master.m3u8"
+        },
+        "StreamHG": {
+          "1594-malep-1_otakuhg_hsub": "https://otakuhg.site/e/67ud2m68uas4",
+          "1594-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1594-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/cnqv1k3ntqeg",
+          "1594-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1594-malep-1_playmogo_hsub": "https://playmogo.com/e/qe6qkx9ly720",
+          "1594-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
