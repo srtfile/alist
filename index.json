@@ -688,5 +688,15 @@
     "captured_at": "2026-06-19T16:41:43",
     "file": "data-8/the-pilots-love-song.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-pilots-love-song.json"
+  },
+  {
+    "slug": "the-ping-pong-club",
+    "mal_id": 914,
+    "anime_name": "The Ping Pong Club",
+    "anime_url": "https://hianime.ad/anime/the-ping-pong-club",
+    "total_episodes": 26,
+    "captured_at": "2026-06-19T16:42:07",
+    "file": "data-8/the-ping-pong-club.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-ping-pong-club.json"
   }
 ]
