@@ -728,5 +728,15 @@
     "captured_at": "2026-06-19T16:43:24",
     "file": "data-8/the-price-of-smiles.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-price-of-smiles.json"
+  },
+  {
+    "slug": "the-prince-of-tennis",
+    "mal_id": 22,
+    "anime_name": "The Prince Of Tennis",
+    "anime_url": "https://hianime.ad/anime/the-prince-of-tennis",
+    "total_episodes": 179,
+    "captured_at": "2026-06-19T16:43:47",
+    "file": "data-8/the-prince-of-tennis.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-prince-of-tennis.json"
   }
 ]
