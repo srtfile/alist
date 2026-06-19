@@ -1,0 +1,57 @@
+{
+  "anime_name": "Towanoquon The Complicity Of Dreams",
+  "anime_url": "https://hianime.ad/anime/towanoquon-the-complicity-of-dreams",
+  "slug": "towanoquon-the-complicity-of-dreams",
+  "mal_id": 45133,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T21:15:24",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/towanoquon-the-complicity-of-dreams/ep-1",
+      "sub": {
+        "HD-1": {
+          "45133-malep-1_vibeplayer_sub": "https://vibeplayer.site/278527a5cc222fa3",
+          "45133-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/278527a5cc222fa3/master.m3u8"
+        },
+        "Earnvids": {
+          "45133-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i5nm9d5sb3ks",
+          "45133-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "45133-malep-1_playmogo_sub": "https://playmogo.com/e/k9vroaecv81w",
+          "45133-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "45133-malep-1_vibeplayer_dub": "https://vibeplayer.site/a448c7ecedb12fa6",
+          "45133-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a448c7ecedb12fa6/master.m3u8"
+        },
+        "Earnvids": {
+          "45133-malep-1_otakuvid_dub": "https://otakuvid.online/embed/g7i09bq5maad",
+          "45133-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "45133-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4252fb02f2f07c5d",
+          "45133-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4252fb02f2f07c5d/master.m3u8"
+        },
+        "StreamHG": {
+          "45133-malep-1_otakuhg_hsub": "https://otakuhg.site/e/5qxdcol2bxuj",
+          "45133-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "45133-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l7eyxgju54zd",
+          "45133-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "45133-malep-1_playmogo_hsub": "https://playmogo.com/e/p44xjh9ywarh",
+          "45133-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
