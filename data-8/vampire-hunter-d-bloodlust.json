@@ -1,0 +1,65 @@
+{
+  "anime_name": "Vampire Hunter D Bloodlust",
+  "anime_url": "https://hianime.ad/anime/vampire-hunter-d-bloodlust",
+  "slug": "vampire-hunter-d-bloodlust",
+  "mal_id": 28929,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T23:06:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Great Detective!? His Name is…",
+      "episode_url": "https://hianime.ad/watch/vampire-hunter-d-bloodlust/ep-1",
+      "sub": {
+        "HD-1": {
+          "28929-malep-1_vibeplayer_sub": "https://vibeplayer.site/ca5f51d270fbade2",
+          "28929-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ca5f51d270fbade2/master.m3u8"
+        },
+        "StreamHG": {
+          "28929-malep-1_otakuhg_sub": "https://otakuhg.site/e/rltyeyh5y2cs",
+          "28929-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "28929-malep-1_otakuvid_sub": "https://otakuvid.online/embed/av181a01c74d",
+          "28929-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "28929-malep-1_playmogo_sub": "https://playmogo.com/e/0o1jv5qrpo9r",
+          "28929-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "28929-malep-1_vibeplayer_dub": "https://vibeplayer.site/3ad404520f07f806",
+          "28929-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/3ad404520f07f806/master.m3u8"
+        },
+        "StreamHG": {
+          "28929-malep-1_otakuhg_dub": "https://otakuhg.site/e/72pcg1x0c1pq",
+          "28929-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "28929-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vgp6u29630xl",
+          "28929-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "28929-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e8dfab5f0093398",
+          "28929-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e8dfab5f0093398/master.m3u8"
+        },
+        "StreamHG": {
+          "28929-malep-1_otakuhg_hsub": "https://otakuhg.site/e/u7hxgyesrq5y",
+          "28929-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "28929-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5bwu2fafmgtn",
+          "28929-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "28929-malep-1_playmogo_hsub": "https://playmogo.com/e/oj2i5wjoxz3t",
+          "28929-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
