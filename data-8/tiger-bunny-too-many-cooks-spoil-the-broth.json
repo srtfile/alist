@@ -1,0 +1,40 @@
+{
+  "anime_name": "Tiger Bunny Too Many Cooks Spoil The Broth",
+  "anime_url": "https://hianime.ad/anime/tiger-bunny-too-many-cooks-spoil-the-broth",
+  "slug": "tiger-bunny-too-many-cooks-spoil-the-broth",
+  "mal_id": 9941,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T20:06:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "All's Well That Ends Well.",
+      "episode_url": "https://hianime.ad/watch/tiger-bunny-too-many-cooks-spoil-the-broth/ep-1",
+      "sub": {
+        "HD-1": {
+          "9941-malep-1_vibeplayer_sub": "https://vibeplayer.site/69a7df622f0129fa",
+          "9941-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/69a7df622f0129fa/master.m3u8"
+        },
+        "Earnvids": {
+          "9941-malep-1_otakuvid_sub": "https://otakuvid.online/embed/zcabzuikh9k5",
+          "9941-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "9941-malep-1_vibeplayer_hsub": "https://vibeplayer.site/f9686c2babe1659d",
+          "9941-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/f9686c2babe1659d/master.m3u8"
+        },
+        "Earnvids": {
+          "9941-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jilhd1vb2r84",
+          "9941-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "9941-malep-1_playmogo_hsub": "https://playmogo.com/e/qyiq4kh6mqyv",
+          "9941-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
