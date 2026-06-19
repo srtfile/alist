@@ -1,0 +1,44 @@
+{
+  "anime_name": "Soukihei Md Geist",
+  "anime_url": "https://hianime.ad/anime/soukihei-md-geist",
+  "slug": "soukihei-md-geist",
+  "mal_id": 3104,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T04:05:50",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/soukihei-md-geist/ep-1",
+      "sub": {
+        "HD-1": {
+          "3104-malep-1_vibeplayer_sub": "https://vibeplayer.site/b93f3165df0cef82",
+          "3104-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b93f3165df0cef82/master.m3u8"
+        },
+        "Earnvids": {
+          "3104-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y2ec8lzimr9n",
+          "3104-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3104-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6e37a18e57d8fa18",
+          "3104-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6e37a18e57d8fa18/master.m3u8"
+        },
+        "StreamHG": {
+          "3104-malep-1_otakuhg_hsub": "https://otakuhg.site/e/vygpn5pjp4xi",
+          "3104-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3104-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/3i1l7uwi1sb9",
+          "3104-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3104-malep-1_playmogo_hsub": "https://playmogo.com/e/fugcf9vbil4o",
+          "3104-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
