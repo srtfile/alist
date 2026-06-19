@@ -4,7 +4,7 @@
   "slug": "the-love-story-of-my-immortal-dad",
   "mal_id": 3835,
   "total_episodes": 126,
-  "captured_at": "2026-06-19T15:53:14",
+  "captured_at": "2026-06-19T16:10:51",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -2198,9 +2198,35 @@
     {
       "episode_title": "Episode 69",
       "episode_url": "https://hianime.ad/watch/the-love-story-of-my-immortal-dad/ep-69",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "3835-malep-69_vibeplayer_sub": "https://vibeplayer.site/abc545ea89640ce3",
+          "3835-malep-69_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/abc545ea89640ce3/master.m3u8"
+        },
+        "Earnvids": {
+          "3835-malep-69_otakuvid_sub": "https://otakuvid.online/embed/mnwyqmkjxcrf",
+          "3835-malep-69_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3835-malep-69_playmogo_sub": "https://playmogo.com/e/570s6xzfebnk",
+          "3835-malep-69_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "3835-malep-69_vibeplayer_hsub": "https://vibeplayer.site/bc3a8efdbb09f9e7",
+          "3835-malep-69_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bc3a8efdbb09f9e7/master.m3u8"
+        },
+        "Earnvids": {
+          "3835-malep-69_otakuvid_hsub": "https://otakuvid.online/embed/qp1biwi6ueg2",
+          "3835-malep-69_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3835-malep-69_playmogo_hsub": "https://playmogo.com/e/tnm9ah60eebg",
+          "3835-malep-69_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 70",
