@@ -1,0 +1,48 @@
+{
+  "anime_name": "This Shouldnt Lead To Love",
+  "anime_url": "https://hianime.ad/anime/this-shouldnt-lead-to-love",
+  "slug": "this-shouldnt-lead-to-love",
+  "mal_id": 30831,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T19:51:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "This Self-Proclaimed Goddess and Reincarnation in Another World!",
+      "episode_url": "https://hianime.ad/watch/this-shouldnt-lead-to-love/ep-1",
+      "sub": {
+        "HD-1": {
+          "30831-malep-1_vibeplayer_sub": "https://vibeplayer.site/dfc6b393c09a789c",
+          "30831-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dfc6b393c09a789c/master.m3u8"
+        },
+        "StreamHG": {
+          "30831-malep-1_otakuhg_sub": "https://otakuhg.site/e/i3rc7v8j7mo6",
+          "30831-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "30831-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6xjh3wsnboh0",
+          "30831-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "30831-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5a2eeb7cb9e87a55",
+          "30831-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5a2eeb7cb9e87a55/master.m3u8"
+        },
+        "StreamHG": {
+          "30831-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mlwy2lsp8vu0",
+          "30831-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "30831-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/75i2o6lmz777",
+          "30831-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "30831-malep-1_playmogo_hsub": "https://playmogo.com/e/o2x1az4ypvvm",
+          "30831-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
