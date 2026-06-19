@@ -1,0 +1,48 @@
+{
+  "anime_name": "The Kings Avatar For The Glory",
+  "anime_url": "https://hianime.ad/anime/the-kings-avatar-for-the-glory",
+  "slug": "the-kings-avatar-for-the-glory",
+  "mal_id": 52657,
+  "total_episodes": 1,
+  "captured_at": "2026-06-19T15:28:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Kage's Errand / The Prince and Money",
+      "episode_url": "https://hianime.ad/watch/the-kings-avatar-for-the-glory/ep-1",
+      "sub": {
+        "HD-1": {
+          "52657-malep-1_vibeplayer_sub": "https://vibeplayer.site/1dbfab1a0b875cea",
+          "52657-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1dbfab1a0b875cea/master.m3u8"
+        },
+        "StreamHG": {
+          "52657-malep-1_otakuhg_sub": "https://otakuhg.site/e/bndx6dh0swxi",
+          "52657-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "52657-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ybfc72qx0u9o",
+          "52657-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "52657-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fe6aa640ef1a0fdf",
+          "52657-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fe6aa640ef1a0fdf/master.m3u8"
+        },
+        "StreamHG": {
+          "52657-malep-1_otakuhg_hsub": "https://otakuhg.site/e/w0pngvxdn4a6",
+          "52657-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "52657-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6g6ahclqjre7",
+          "52657-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "52657-malep-1_playmogo_hsub": "https://playmogo.com/e/1vqmlfrxmxu9",
+          "52657-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
