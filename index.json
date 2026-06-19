@@ -21568,5 +21568,15 @@
     "captured_at": "2026-06-19T10:54:06",
     "file": "data-7/strange-love.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/strange-love.json"
+  },
+  {
+    "slug": "strange",
+    "mal_id": 21067,
+    "anime_name": "Strange",
+    "anime_url": "https://hianime.ad/anime/strange",
+    "total_episodes": 12,
+    "captured_at": "2026-06-19T10:54:21",
+    "file": "data-7/strange.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-7/strange.json"
   }
 ]
