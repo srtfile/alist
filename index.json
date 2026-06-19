@@ -1158,5 +1158,15 @@
     "captured_at": "2026-06-19T18:25:04",
     "file": "data-8/the-royal-tutor.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-royal-tutor.json"
+  },
+  {
+    "slug": "the-royal-tutor-movie",
+    "mal_id": 34262,
+    "anime_name": "The Royal Tutor Movie",
+    "anime_url": "https://hianime.ad/anime/the-royal-tutor-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-19T18:25:38",
+    "file": "data-8/the-royal-tutor-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/the-royal-tutor-movie.json"
   }
 ]
