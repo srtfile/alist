@@ -7348,5 +7348,15 @@
     "captured_at": "2026-06-20T13:44:45",
     "file": "data-8/we-rent-tsukumogami.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/we-rent-tsukumogami.json"
+  },
+  {
+    "slug": "we-were-there",
+    "mal_id": 1222,
+    "anime_name": "We Were There",
+    "anime_url": "https://hianime.ad/anime/we-were-there",
+    "total_episodes": 26,
+    "captured_at": "2026-06-20T13:45:18",
+    "file": "data-8/we-were-there.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/we-were-there.json"
   }
 ]
