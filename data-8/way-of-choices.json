@@ -4,7 +4,7 @@
   "slug": "way-of-choices",
   "mal_id": 47162,
   "total_episodes": 21,
-  "captured_at": "2026-06-20T13:43:02",
+  "captured_at": "2026-06-20T22:42:34",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -824,6 +824,10 @@
         "HD-1": {
           "47162-malep-23_vibeplayer_sub": "https://vibeplayer.site/f138a93a8556d12f",
           "47162-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f138a93a8556d12f/master.m3u8"
+        },
+        "StreamHG": {
+          "47162-malep-23_otakuhg_sub": "https://otakuhg.site/e/up314c4xow1t",
+          "47162-malep-23_otakuhg_sub_m3u8": null
         },
         "Earnvids": {
           "47162-malep-23_otakuvid_sub": "https://otakuvid.online/embed/8kc7xpzawwgd",
