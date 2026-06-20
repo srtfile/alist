@@ -1,0 +1,615 @@
+{
+  "anime_name": "With You And The Rain",
+  "anime_url": "https://hianime.ad/anime/with-you-and-the-rain",
+  "slug": "with-you-and-the-rain",
+  "mal_id": 59619,
+  "total_episodes": 12,
+  "captured_at": "2026-06-20T14:29:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Rainy Days",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-1",
+      "sub": {
+        "HD-1": {
+          "59619-malep-1_vibeplayer_sub": "https://vibeplayer.site/651b3bd2dcd3ab6f",
+          "59619-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/651b3bd2dcd3ab6f/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-1_otakuhg_sub": "https://otakuhg.site/e/rox8vkdvlzxe",
+          "59619-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-1_otakuvid_sub": "https://otakuvid.online/embed/wdnqhlxh3qyh",
+          "59619-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-1_playmogo_sub": "https://playmogo.com/e/378vwawh3quz",
+          "59619-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-1_vibeplayer_dub": "https://vibeplayer.site/26cefde0a4bee3b8",
+          "59619-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/26cefde0a4bee3b8/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-1_otakuhg_dub": "https://otakuhg.site/e/u6y7r6571z42",
+          "59619-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-1_otakuvid_dub": "https://otakuvid.online/embed/b2osetkqfxsx",
+          "59619-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-1_playmogo_dub": "https://playmogo.com/e/bjrcza5u5785",
+          "59619-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5b5b6bfad489210a",
+          "59619-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b5b6bfad489210a/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-1_otakuhg_hsub": "https://otakuhg.site/e/1npvjaw7naac",
+          "59619-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/tsh6vf9ojlt9",
+          "59619-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-1_playmogo_hsub": "https://playmogo.com/e/lx77xgusywzr",
+          "59619-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Evening Sun",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-2",
+      "sub": {
+        "HD-1": {
+          "59619-malep-2_vibeplayer_sub": "https://vibeplayer.site/05d922f1ab1e9c95",
+          "59619-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/05d922f1ab1e9c95/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-2_otakuhg_sub": "https://otakuhg.site/e/6iils4ezp464",
+          "59619-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-2_otakuvid_sub": "https://otakuvid.online/embed/lbzpbmlbjn00",
+          "59619-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-2_vibeplayer_dub": "https://vibeplayer.site/0df4146cb7214c2b",
+          "59619-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/0df4146cb7214c2b/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-2_otakuvid_dub": "https://otakuvid.online/embed/7oihs9q60hu3",
+          "59619-malep-2_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-2_playmogo_dub": "https://playmogo.com/e/htmyvs9akfto",
+          "59619-malep-2_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-2_vibeplayer_hsub": "https://vibeplayer.site/19c55823f8395ce1",
+          "59619-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/19c55823f8395ce1/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-2_otakuhg_hsub": "https://otakuhg.site/e/zlm2lqoh6exc",
+          "59619-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/m148aori8vxx",
+          "59619-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-2_playmogo_hsub": "https://playmogo.com/e/k5rv5c31dlux",
+          "59619-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Friends",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-3",
+      "sub": {
+        "HD-1": {
+          "59619-malep-3_vibeplayer_sub": "https://vibeplayer.site/1c2c6527d8148bc9",
+          "59619-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1c2c6527d8148bc9/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-3_otakuvid_sub": "https://otakuvid.online/embed/gfnt0xbcbecw",
+          "59619-malep-3_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-3_playmogo_sub": "https://playmogo.com/e/wrrxf8p1z3q5",
+          "59619-malep-3_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-3_vibeplayer_dub": "https://vibeplayer.site/cd8f763966d5c92d",
+          "59619-malep-3_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cd8f763966d5c92d/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-3_otakuvid_dub": "https://otakuvid.online/embed/onpj4062qgbi",
+          "59619-malep-3_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-3_playmogo_dub": "https://playmogo.com/e/ibqzc3zo4dwg",
+          "59619-malep-3_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-3_vibeplayer_hsub": "https://vibeplayer.site/fa79072409cd4ee2",
+          "59619-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fa79072409cd4ee2/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-3_otakuhg_hsub": "https://otakuhg.site/e/2vde0hc2vmxp",
+          "59619-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/49d4u8stchhb",
+          "59619-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-3_playmogo_hsub": "https://playmogo.com/e/6s9pow6h0znr",
+          "59619-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Summer Festival",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-4",
+      "sub": {
+        "HD-1": {
+          "59619-malep-4_vibeplayer_sub": "https://vibeplayer.site/141a3efc5608c374",
+          "59619-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/141a3efc5608c374/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-4_otakuvid_sub": "https://otakuvid.online/embed/6ihktj5y7hg3",
+          "59619-malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-4_playmogo_sub": "https://playmogo.com/e/de0652icyq5r",
+          "59619-malep-4_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-4_vibeplayer_dub": "https://vibeplayer.site/6e9cbe737b05719e",
+          "59619-malep-4_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/6e9cbe737b05719e/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-4_otakuvid_dub": "https://otakuvid.online/embed/6tkx436vupm0",
+          "59619-malep-4_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-4_playmogo_dub": "https://playmogo.com/e/kz1e1vjgagpc",
+          "59619-malep-4_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-4_vibeplayer_hsub": "https://vibeplayer.site/d6960d8fd35b4715",
+          "59619-malep-4_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d6960d8fd35b4715/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-4_otakuhg_hsub": "https://otakuhg.site/e/9b3bpvo4a71d",
+          "59619-malep-4_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-4_otakuvid_hsub": "https://otakuvid.online/embed/bgt7sj9x7xi5",
+          "59619-malep-4_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-4_playmogo_hsub": "https://playmogo.com/e/98z9erevyzrm",
+          "59619-malep-4_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Same Moon",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-5",
+      "sub": {
+        "HD-1": {
+          "59619-malep-5_vibeplayer_sub": "https://vibeplayer.site/70a2916bd39d1abd",
+          "59619-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/70a2916bd39d1abd/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-5_otakuvid_sub": "https://otakuvid.online/embed/kugltx9cps8a",
+          "59619-malep-5_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-5_playmogo_sub": "https://playmogo.com/e/v59vkfuxu56s",
+          "59619-malep-5_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-5_vibeplayer_dub": "https://vibeplayer.site/cb385a39155f2946",
+          "59619-malep-5_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/cb385a39155f2946/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-5_otakuvid_dub": "https://otakuvid.online/embed/ydnvx88vdnr0",
+          "59619-malep-5_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-5_vibeplayer_hsub": "https://vibeplayer.site/2121c513248b6258",
+          "59619-malep-5_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2121c513248b6258/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-5_otakuhg_hsub": "https://otakuhg.site/e/87g1wkdcj63e",
+          "59619-malep-5_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-5_otakuvid_hsub": "https://otakuvid.online/embed/5l00hfcej61s",
+          "59619-malep-5_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-5_playmogo_hsub": "https://playmogo.com/e/0l8a1nbsmdcp",
+          "59619-malep-5_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Cat and Pumpkins",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-6",
+      "sub": {
+        "HD-1": {
+          "59619-malep-6_vibeplayer_sub": "https://vibeplayer.site/aea74e6a343eab51",
+          "59619-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aea74e6a343eab51/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-6_otakuvid_sub": "https://otakuvid.online/embed/v1icfd29f81h",
+          "59619-malep-6_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-6_playmogo_sub": "https://playmogo.com/e/h8q2jogms46f",
+          "59619-malep-6_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-6_vibeplayer_dub": "https://vibeplayer.site/487babf66d0d818c",
+          "59619-malep-6_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/487babf66d0d818c/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-6_otakuvid_dub": "https://otakuvid.online/embed/pn5jntdhjzsx",
+          "59619-malep-6_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-6_playmogo_dub": "https://playmogo.com/e/qiwiataox1di",
+          "59619-malep-6_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-6_vibeplayer_hsub": "https://vibeplayer.site/47c7145a9e7cbb90",
+          "59619-malep-6_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/47c7145a9e7cbb90/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-6_otakuhg_hsub": "https://otakuhg.site/e/46vm169rfgbf",
+          "59619-malep-6_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-6_otakuvid_hsub": "https://otakuvid.online/embed/o9w1cef1bcf5",
+          "59619-malep-6_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-6_playmogo_hsub": "https://playmogo.com/e/f4brviylteze",
+          "59619-malep-6_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "It's Nothing",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-7",
+      "sub": {
+        "HD-1": {
+          "59619-malep-7_vibeplayer_sub": "https://vibeplayer.site/cb48748495d8cc09",
+          "59619-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cb48748495d8cc09/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-7_otakuvid_sub": "https://otakuvid.online/embed/qbzb3d7pi72f",
+          "59619-malep-7_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-7_playmogo_sub": "https://playmogo.com/e/jkvr1svac0eo",
+          "59619-malep-7_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-7_vibeplayer_dub": "https://vibeplayer.site/5e6488fa40f5324f",
+          "59619-malep-7_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/5e6488fa40f5324f/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-7_otakuvid_dub": "https://otakuvid.online/embed/4ycgdy7exdk2",
+          "59619-malep-7_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-7_playmogo_dub": "https://playmogo.com/e/kl6n5fobkaxt",
+          "59619-malep-7_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-7_vibeplayer_hsub": "https://vibeplayer.site/437a7f9f06bd594b",
+          "59619-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/437a7f9f06bd594b/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-7_otakuhg_hsub": "https://otakuhg.site/e/ayq95om8auj4",
+          "59619-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ttmo4ofcee4i",
+          "59619-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-7_playmogo_hsub": "https://playmogo.com/e/29cov77da5e7",
+          "59619-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Cry",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-8",
+      "sub": {
+        "HD-1": {
+          "59619-malep-8_vibeplayer_sub": "https://vibeplayer.site/2f5a2f738aae2042",
+          "59619-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2f5a2f738aae2042/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-8_otakuvid_sub": "https://otakuvid.online/embed/vkpkhmqnfpy9",
+          "59619-malep-8_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-8_playmogo_sub": "https://playmogo.com/e/dehvzztls7nk",
+          "59619-malep-8_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-8_vibeplayer_dub": "https://vibeplayer.site/ec43e15f7a96455a",
+          "59619-malep-8_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ec43e15f7a96455a/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-8_otakuvid_dub": "https://otakuvid.online/embed/l5psikfa6zjo",
+          "59619-malep-8_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-8_playmogo_dub": "https://playmogo.com/e/kry2ou92i5gb",
+          "59619-malep-8_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-8_vibeplayer_hsub": "https://vibeplayer.site/5265556b7310f9f9",
+          "59619-malep-8_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5265556b7310f9f9/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-8_otakuhg_hsub": "https://otakuhg.site/e/f667dznitkmb",
+          "59619-malep-8_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-8_otakuvid_hsub": "https://otakuvid.online/embed/l0jtpbvvvhzp",
+          "59619-malep-8_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-8_playmogo_hsub": "https://playmogo.com/e/4ei8jyu3evif",
+          "59619-malep-8_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A Secret",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-9",
+      "sub": {
+        "HD-1": {
+          "59619-malep-9_vibeplayer_sub": "https://vibeplayer.site/df0c23694ab37a1a",
+          "59619-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/df0c23694ab37a1a/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-9_otakuvid_sub": "https://otakuvid.online/embed/g14417owadsz",
+          "59619-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-9_playmogo_sub": "https://playmogo.com/e/8vqu57t3mic6",
+          "59619-malep-9_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-9_vibeplayer_dub": "https://vibeplayer.site/501c986b23274822",
+          "59619-malep-9_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/501c986b23274822/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-9_otakuvid_dub": "https://otakuvid.online/embed/om12hg622k3r",
+          "59619-malep-9_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-9_playmogo_dub": "https://playmogo.com/e/vwoauwo4ffgt",
+          "59619-malep-9_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-9_vibeplayer_hsub": "https://vibeplayer.site/8e7ef14f07f9f13d",
+          "59619-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8e7ef14f07f9f13d/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-9_otakuhg_hsub": "https://otakuhg.site/e/yoctbfqhx7ub",
+          "59619-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/dwhz7bkudhl5",
+          "59619-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-9_playmogo_hsub": "https://playmogo.com/e/0c484rod068a",
+          "59619-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "A River That Cannot Be Crossed",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-10",
+      "sub": {
+        "HD-1": {
+          "59619-malep-10_vibeplayer_sub": "https://vibeplayer.site/9d34b2060ffa1a95",
+          "59619-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9d34b2060ffa1a95/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-10_otakuvid_sub": "https://otakuvid.online/embed/zehp7y48orus",
+          "59619-malep-10_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-10_playmogo_sub": "https://playmogo.com/e/5kygxia4y3dn",
+          "59619-malep-10_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-10_vibeplayer_dub": "https://vibeplayer.site/546b4c83ca9c7935",
+          "59619-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/546b4c83ca9c7935/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-10_otakuvid_dub": "https://otakuvid.online/embed/ar2iktfjx6nt",
+          "59619-malep-10_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-10_playmogo_dub": "https://playmogo.com/e/k76i4674f93b",
+          "59619-malep-10_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-10_vibeplayer_hsub": "https://vibeplayer.site/331d3a469688f7b7",
+          "59619-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/331d3a469688f7b7/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-10_otakuhg_hsub": "https://otakuhg.site/e/03wg6pe3hkul",
+          "59619-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/gi4y5ewi6eq7",
+          "59619-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-10_playmogo_hsub": "https://playmogo.com/e/1y0yvvopv46m",
+          "59619-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "New Things, Old Things",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-11",
+      "sub": {
+        "HD-1": {
+          "59619-malep-11_vibeplayer_sub": "https://vibeplayer.site/2b520e8cfdfd635a",
+          "59619-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2b520e8cfdfd635a/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-11_otakuvid_sub": "https://otakuvid.online/embed/kiiwlhmr22w2",
+          "59619-malep-11_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-11_playmogo_sub": "https://playmogo.com/e/n9hsozjc9pgy",
+          "59619-malep-11_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-11_vibeplayer_dub": "https://vibeplayer.site/d3d8cc39b71d68b4",
+          "59619-malep-11_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/d3d8cc39b71d68b4/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-11_otakuvid_dub": "https://otakuvid.online/embed/toal5vsx6m4w",
+          "59619-malep-11_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-11_playmogo_dub": "https://playmogo.com/e/vyusv9bou2xw",
+          "59619-malep-11_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-11_vibeplayer_hsub": "https://vibeplayer.site/c64fdab2d817d730",
+          "59619-malep-11_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c64fdab2d817d730/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-11_otakuhg_hsub": "https://otakuhg.site/e/q5dj3a96p8p4",
+          "59619-malep-11_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-11_otakuvid_hsub": "https://otakuvid.online/embed/fcpuhs3i2r4i",
+          "59619-malep-11_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-11_playmogo_hsub": "https://playmogo.com/e/vpwblmap6kc0",
+          "59619-malep-11_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "I Can Hear the Sound of the Rain",
+      "episode_url": "https://hianime.ad/watch/with-you-and-the-rain/ep-12",
+      "sub": {
+        "HD-1": {
+          "59619-malep-12_vibeplayer_sub": "https://vibeplayer.site/8de6f1dca05d0d9d",
+          "59619-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8de6f1dca05d0d9d/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-12_otakuvid_sub": "https://otakuvid.online/embed/pm9teanrfc03",
+          "59619-malep-12_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-12_playmogo_sub": "https://playmogo.com/e/12k3c8fr56zt",
+          "59619-malep-12_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "59619-malep-12_vibeplayer_dub": "https://vibeplayer.site/326972cf93ad9fc7",
+          "59619-malep-12_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/326972cf93ad9fc7/master.m3u8"
+        },
+        "Earnvids": {
+          "59619-malep-12_otakuvid_dub": "https://otakuvid.online/embed/f4ajabpjofkk",
+          "59619-malep-12_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-12_playmogo_dub": "https://playmogo.com/e/d3zo826g7dds",
+          "59619-malep-12_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "59619-malep-12_vibeplayer_hsub": "https://vibeplayer.site/9223884d7e181949",
+          "59619-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/9223884d7e181949/master.m3u8"
+        },
+        "StreamHG": {
+          "59619-malep-12_otakuhg_hsub": "https://otakuhg.site/e/3a073y6iguqs",
+          "59619-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "59619-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/jvzylzgnotr8",
+          "59619-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "59619-malep-12_playmogo_hsub": "https://playmogo.com/e/x3g4j3pifyrs",
+          "59619-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
