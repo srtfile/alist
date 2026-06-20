@@ -4,7 +4,7 @@
   "slug": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe",
   "mal_id": 41401,
   "total_episodes": 24,
-  "captured_at": "2026-06-20T11:46:57",
+  "captured_at": "2026-06-20T18:24:04",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -450,6 +450,10 @@
       "episode_title": "Arrival! His First Popular Phase",
       "episode_url": "https://hianime.ad/watch/tv-yarou-nanaana-kaibutsu-kraken-wo-oe/ep-16",
       "sub": {
+        "HD-1": {
+          "41401-malep-16_vibeplayer_sub": "https://vibeplayer.site/bc251060b8ed29a5",
+          "41401-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/bc251060b8ed29a5/master.m3u8"
+        },
         "Earnvids": {
           "41401-malep-16_otakuvid_sub": "https://otakuvid.online/embed/euys2g5k7005",
           "41401-malep-16_otakuvid_sub_m3u8": null
