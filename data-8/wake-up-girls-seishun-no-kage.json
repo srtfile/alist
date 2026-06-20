@@ -1,0 +1,48 @@
+{
+  "anime_name": "Wake Up Girls Seishun No Kage",
+  "anime_url": "https://hianime.ad/anime/wake-up-girls-seishun-no-kage",
+  "slug": "wake-up-girls-seishun-no-kage",
+  "mal_id": 19023,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T13:18:05",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Quiet Beginning",
+      "episode_url": "https://hianime.ad/watch/wake-up-girls-seishun-no-kage/ep-1",
+      "sub": {
+        "HD-1": {
+          "19023-malep-1_vibeplayer_sub": "https://vibeplayer.site/1abd5862cb09a4dd",
+          "19023-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1abd5862cb09a4dd/master.m3u8"
+        },
+        "StreamHG": {
+          "19023-malep-1_otakuhg_sub": "https://otakuhg.site/e/ofqx9xqrdu6a",
+          "19023-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "19023-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hexf0jui96ld",
+          "19023-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19023-malep-1_vibeplayer_hsub": "https://vibeplayer.site/800e6d35bd4a4c88",
+          "19023-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/800e6d35bd4a4c88/master.m3u8"
+        },
+        "StreamHG": {
+          "19023-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hmj3eimnjbyy",
+          "19023-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19023-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/se4kpqka3zzs",
+          "19023-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19023-malep-1_playmogo_hsub": "https://playmogo.com/e/a5m4isicrq69",
+          "19023-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
