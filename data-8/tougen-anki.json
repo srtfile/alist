@@ -4,7 +4,7 @@
   "slug": "tougen-anki",
   "mal_id": 58811,
   "total_episodes": 24,
-  "captured_at": "2026-06-19T21:08:02",
+  "captured_at": "2026-06-20T11:09:12",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -786,6 +786,10 @@
         "Earnvids": {
           "58811-malep-15_otakuvid_sub": "https://otakuvid.online/embed/82if8mxqk75q",
           "58811-malep-15_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58811-malep-15_playmogo_sub": "https://playmogo.com/e/viuesjzkiwcn",
+          "58811-malep-15_playmogo_sub_m3u8": null
         }
       },
       "dub": {
@@ -800,6 +804,10 @@
         "Earnvids": {
           "58811-malep-15_otakuvid_dub": "https://otakuvid.online/embed/elnjrywnlwz0",
           "58811-malep-15_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "58811-malep-15_playmogo_dub": "https://playmogo.com/e/3je5w7kjc0lb",
+          "58811-malep-15_playmogo_dub_m3u8": null
         }
       },
       "hsub": {
