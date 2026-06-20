@@ -1,0 +1,53 @@
+{
+  "anime_name": "X The Movie",
+  "anime_url": "https://hianime.ad/anime/x-the-movie",
+  "slug": "x-the-movie",
+  "mal_id": 156,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:58:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Reunion",
+      "episode_url": "https://hianime.ad/watch/x-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_sub": "https://vibeplayer.site/065a6b1db226b5de",
+          "156-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/065a6b1db226b5de/master.m3u8"
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_sub": "https://otakuvid.online/embed/36zys3u79tws",
+          "156-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_dub": "https://vibeplayer.site/f7846c409f0d81c2",
+          "156-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f7846c409f0d81c2/master.m3u8"
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dxh67erefr6t",
+          "156-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2b4507834d3b744a",
+          "156-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2b4507834d3b744a/master.m3u8"
+        },
+        "StreamHG": {
+          "156-malep-1_otakuhg_hsub": "https://otakuhg.site/e/aulo5zvh69k6",
+          "156-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mblbw404e0hm",
+          "156-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "156-malep-1_playmogo_hsub": "https://playmogo.com/e/z2uwlkalnlbx",
+          "156-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
