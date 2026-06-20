@@ -1,0 +1,52 @@
+{
+  "anime_name": "Yahari Ore No Seishun Love Comedy Wa Machigatteiru Ova",
+  "anime_url": "https://hianime.ad/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
+  "slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
+  "mal_id": 14813,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:10:53",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Youth Romantic Comedy is Wrong, as I Expected",
+      "episode_url": "https://hianime.ad/watch/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "14813-malep-1_vibeplayer_sub": "https://vibeplayer.site/b57839ebe6ee2741",
+          "14813-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b57839ebe6ee2741/master.m3u8"
+        },
+        "StreamHG": {
+          "14813-malep-1_otakuhg_sub": "https://otakuhg.site/e/c3qfmz3oq3wy",
+          "14813-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "14813-malep-1_otakuvid_sub": "https://otakuvid.online/embed/9rawmw9wmrtb",
+          "14813-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "14813-malep-1_playmogo_sub": "https://playmogo.com/e/2eahsr6wkgaf",
+          "14813-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14813-malep-1_vibeplayer_hsub": "https://vibeplayer.site/37feefa21684c46d",
+          "14813-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/37feefa21684c46d/master.m3u8"
+        },
+        "StreamHG": {
+          "14813-malep-1_otakuhg_hsub": "https://otakuhg.site/e/itdmq57qeh47",
+          "14813-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "14813-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q8tpelmr5i3t",
+          "14813-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14813-malep-1_playmogo_hsub": "https://playmogo.com/e/6mqhz8xlfa52",
+          "14813-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
