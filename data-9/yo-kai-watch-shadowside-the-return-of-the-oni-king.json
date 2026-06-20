@@ -1,0 +1,44 @@
+{
+  "anime_name": "Yo Kai Watch Shadowside The Return Of The Oni King",
+  "anime_url": "https://hianime.ad/anime/yo-kai-watch-shadowside-the-return-of-the-oni-king",
+  "slug": "yo-kai-watch-shadowside-the-return-of-the-oni-king",
+  "mal_id": 19157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:46:17",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yo-kai Are Real! / The Spooky Intersection",
+      "episode_url": "https://hianime.ad/watch/yo-kai-watch-shadowside-the-return-of-the-oni-king/ep-1",
+      "sub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_sub": "https://vibeplayer.site/ce5de5f7fd3b3231",
+          "19157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ce5de5f7fd3b3231/master.m3u8"
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/8p14u68nxjd4",
+          "19157-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/af4f08d9452346a4",
+          "19157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/af4f08d9452346a4/master.m3u8"
+        },
+        "StreamHG": {
+          "19157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/80dj3eh1xchi",
+          "19157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/4spgy2bqf10v",
+          "19157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_hsub": "https://playmogo.com/e/mjbs5a26zsox",
+          "19157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
