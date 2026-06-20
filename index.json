@@ -9328,5 +9328,15 @@
     "captured_at": "2026-06-20T15:33:07",
     "file": "data-9/yatterman-night.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yatterman-night.json"
+  },
+  {
+    "slug": "yawara",
+    "mal_id": 691,
+    "anime_name": "Yawara",
+    "anime_url": "https://hianime.ad/anime/yawara",
+    "total_episodes": 123,
+    "captured_at": "2026-06-20T15:33:38",
+    "file": "data-9/yawara.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yawara.json"
   }
 ]
