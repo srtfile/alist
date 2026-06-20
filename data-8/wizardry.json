@@ -1,0 +1,44 @@
+{
+  "anime_name": "Wizardry",
+  "anime_url": "https://hianime.ad/anime/wizardry",
+  "slug": "wizardry",
+  "mal_id": 20053,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:31:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Lady Justice: Sword and Scales",
+      "episode_url": "https://hianime.ad/watch/wizardry/ep-1",
+      "sub": {
+        "HD-1": {
+          "20053-malep-1_vibeplayer_sub": "https://vibeplayer.site/d1a118f588e391cb",
+          "20053-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d1a118f588e391cb/master.m3u8"
+        },
+        "Earnvids": {
+          "20053-malep-1_otakuvid_sub": "https://otakuvid.online/embed/fbhjzllan5bp",
+          "20053-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "20053-malep-1_playmogo_sub": "https://playmogo.com/e/dwzrx1zdf96o",
+          "20053-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "20053-malep-1_vibeplayer_hsub": "https://vibeplayer.site/92f2d7815dc24344",
+          "20053-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/92f2d7815dc24344/master.m3u8"
+        },
+        "Earnvids": {
+          "20053-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vvq0k1xypu5v",
+          "20053-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "20053-malep-1_playmogo_hsub": "https://playmogo.com/e/ra5xfhhn8x5k",
+          "20053-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
