@@ -1,0 +1,40 @@
+{
+  "anime_name": "Xing You Ji Fengbao Famila 2",
+  "anime_url": "https://hianime.ad/anime/xing-you-ji-fengbao-famila-2",
+  "slug": "xing-you-ji-fengbao-famila-2",
+  "mal_id": 33630,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:02:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/xing-you-ji-fengbao-famila-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "33630-malep-1_vibeplayer_sub": "https://vibeplayer.site/a53d8e8b6795db56",
+          "33630-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a53d8e8b6795db56/master.m3u8"
+        },
+        "Earnvids": {
+          "33630-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cp9zy09zlegl",
+          "33630-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "33630-malep-1_vibeplayer_hsub": "https://vibeplayer.site/fc2bd13f75661305",
+          "33630-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fc2bd13f75661305/master.m3u8"
+        },
+        "Earnvids": {
+          "33630-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/phxwzeyct9pn",
+          "33630-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33630-malep-1_playmogo_hsub": "https://playmogo.com/e/jsfuzwhlrooc",
+          "33630-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
