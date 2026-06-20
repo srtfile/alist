@@ -1,0 +1,695 @@
+{
+  "anime_name": "Welcome To The Ballroom",
+  "anime_url": "https://hianime.ad/anime/welcome-to-the-ballroom",
+  "slug": "welcome-to-the-ballroom",
+  "mal_id": 34636,
+  "total_episodes": 24,
+  "captured_at": "2026-06-20T13:55:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Ogasawara Dance Studio",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-1",
+      "sub": {
+        "HD-1": {
+          "34636-malep-1_vibeplayer_sub": "https://vibeplayer.site/fb248f525b120cee",
+          "34636-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb248f525b120cee/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-1_otakuhg_sub": "https://otakuhg.site/e/b10hg3p2f7sk",
+          "34636-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tr4hh553ttau",
+          "34636-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Kiyoharu Hyodo",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-2",
+      "sub": {
+        "HD-1": {
+          "34636-malep-2_vibeplayer_sub": "https://vibeplayer.site/2e212f120864e5bb",
+          "34636-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e212f120864e5bb/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-2_otakuhg_sub": "https://otakuhg.site/e/w9jsl5iov09s",
+          "34636-malep-2_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-2_otakuvid_sub": "https://otakuvid.online/embed/rrigvqnc5cal",
+          "34636-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8aa8e819cbdbe2d0",
+          "34636-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8aa8e819cbdbe2d0/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-2_otakuhg_hsub": "https://otakuhg.site/e/otkjzu2xx5f7",
+          "34636-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/7lfz86yhzrr2",
+          "34636-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-2_playmogo_hsub": "https://playmogo.com/e/kd4d0uq35os4",
+          "34636-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dance the Waltz",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-3",
+      "sub": {
+        "HD-1": {
+          "34636-malep-3_vibeplayer_sub": "https://vibeplayer.site/aa5046e386dcc0e3",
+          "34636-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/aa5046e386dcc0e3/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-3_otakuhg_sub": "https://otakuhg.site/e/dnazhyr86hrc",
+          "34636-malep-3_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-3_otakuvid_sub": "https://otakuvid.online/embed/0icvqzguwi7m",
+          "34636-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-3_vibeplayer_hsub": "https://vibeplayer.site/5b0052f88a656323",
+          "34636-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5b0052f88a656323/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-3_otakuhg_hsub": "https://otakuhg.site/e/b595evjvlz6k",
+          "34636-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/sx2pjmmsf5ql",
+          "34636-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-3_playmogo_hsub": "https://playmogo.com/e/466io28y6xii",
+          "34636-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Dancer's High",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-4",
+      "sub": {
+        "HD-1": {
+          "34636-malep-4_vibeplayer_sub": "https://vibeplayer.site/0d78c25db6c92f24",
+          "34636-malep-4_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/0d78c25db6c92f24/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-4_otakuhg_sub": "https://otakuhg.site/e/7vszg6wvzvr6",
+          "34636-malep-4_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-4_otakuvid_sub": "https://otakuvid.online/embed/bdfqplyve73z",
+          "34636-malep-4_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Partners",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-5",
+      "sub": {
+        "HD-1": {
+          "34636-malep-5_vibeplayer_sub": "https://vibeplayer.site/1b35c85c3551670c",
+          "34636-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1b35c85c3551670c/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-5_otakuhg_sub": "https://otakuhg.site/e/ums37mwbhc2a",
+          "34636-malep-5_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-5_otakuvid_sub": "https://otakuvid.online/embed/thbmg8wph431",
+          "34636-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Line of Dance",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-6",
+      "sub": {
+        "HD-1": {
+          "34636-malep-6_vibeplayer_sub": "https://vibeplayer.site/fdc1fc86713da1f8",
+          "34636-malep-6_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fdc1fc86713da1f8/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-6_otakuhg_sub": "https://otakuhg.site/e/6m3ctyvo3l53",
+          "34636-malep-6_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-6_otakuvid_sub": "https://otakuvid.online/embed/z6u91euwq0wt",
+          "34636-malep-6_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "The Tenpei Cup",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-7",
+      "sub": {
+        "HD-1": {
+          "34636-malep-7_vibeplayer_sub": "https://vibeplayer.site/3189c9909d839e4b",
+          "34636-malep-7_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3189c9909d839e4b/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-7_otakuhg_sub": "https://otakuhg.site/e/exr50rlcd4zm",
+          "34636-malep-7_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-7_otakuvid_sub": "https://otakuvid.online/embed/09d44efeu5xi",
+          "34636-malep-7_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-7_vibeplayer_hsub": "https://vibeplayer.site/665febd3b7f0770f",
+          "34636-malep-7_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/665febd3b7f0770f/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-7_otakuhg_hsub": "https://otakuhg.site/e/sy6qepa0snxt",
+          "34636-malep-7_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-7_otakuvid_hsub": "https://otakuvid.online/embed/ycuznd9fkqju",
+          "34636-malep-7_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-7_playmogo_hsub": "https://playmogo.com/e/mvwmqks3vap5",
+          "34636-malep-7_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Reality",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-8",
+      "sub": {
+        "HD-1": {
+          "34636-malep-8_vibeplayer_sub": "https://vibeplayer.site/b35655e816a8f85b",
+          "34636-malep-8_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b35655e816a8f85b/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-8_otakuhg_sub": "https://otakuhg.site/e/wxyswmsqfqot",
+          "34636-malep-8_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-8_otakuvid_sub": "https://otakuvid.online/embed/mbr3e9z49rz2",
+          "34636-malep-8_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Flower & Frame",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-9",
+      "sub": {
+        "HD-1": {
+          "34636-malep-9_vibeplayer_sub": "https://vibeplayer.site/be30bf7d022edb91",
+          "34636-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/be30bf7d022edb91/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-9_otakuhg_sub": "https://otakuhg.site/e/nagr5t4ind5a",
+          "34636-malep-9_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-9_otakuvid_sub": "https://otakuvid.online/embed/2z9xbkouzsis",
+          "34636-malep-9_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-9_vibeplayer_hsub": "https://vibeplayer.site/e55a071e64db2aba",
+          "34636-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e55a071e64db2aba/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-9_otakuhg_hsub": "https://otakuhg.site/e/tewv04u6pl1t",
+          "34636-malep-9_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/62n0r6dntwfu",
+          "34636-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-9_playmogo_hsub": "https://playmogo.com/e/r65aan0zjtkr",
+          "34636-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Voltage",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-10",
+      "sub": {
+        "HD-1": {
+          "34636-malep-10_vibeplayer_sub": "https://vibeplayer.site/c49c944788b1d863",
+          "34636-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c49c944788b1d863/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-10_otakuhg_sub": "https://otakuhg.site/e/trzxh1q1okzs",
+          "34636-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-10_otakuvid_sub": "https://otakuvid.online/embed/nbx2xtwdth5g",
+          "34636-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-10_vibeplayer_hsub": "https://vibeplayer.site/8c4f3db325f78612",
+          "34636-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8c4f3db325f78612/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-10_otakuhg_hsub": "https://otakuhg.site/e/sp01fd4mxrpa",
+          "34636-malep-10_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/j1o0nbipyezy",
+          "34636-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-10_playmogo_hsub": "https://playmogo.com/e/5ly33qieq0rj",
+          "34636-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Final Evaluation",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-11",
+      "sub": {
+        "HD-1": {
+          "34636-malep-11_vibeplayer_sub": "https://vibeplayer.site/3f11ebd7e53a730e",
+          "34636-malep-11_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3f11ebd7e53a730e/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-11_otakuhg_sub": "https://otakuhg.site/e/z8ncl8fs2jxj",
+          "34636-malep-11_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-11_otakuvid_sub": "https://otakuvid.online/embed/jezml7n4hafx",
+          "34636-malep-11_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Encounters",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-12",
+      "sub": {
+        "HD-1": {
+          "34636-malep-12_vibeplayer_sub": "https://vibeplayer.site/8f8f578eb21c4049",
+          "34636-malep-12_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8f8f578eb21c4049/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-12_otakuhg_sub": "https://otakuhg.site/e/a8iwdufref1e",
+          "34636-malep-12_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-12_otakuvid_sub": "https://otakuvid.online/embed/vradv5z40q0x",
+          "34636-malep-12_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-12_vibeplayer_hsub": "https://vibeplayer.site/d96f23045587e9b8",
+          "34636-malep-12_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d96f23045587e9b8/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-12_otakuhg_hsub": "https://otakuhg.site/e/u6zpld2kv6iy",
+          "34636-malep-12_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-12_otakuvid_hsub": "https://otakuvid.online/embed/7138ti8z786f",
+          "34636-malep-12_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-12_playmogo_hsub": "https://playmogo.com/e/35u2b9khydqz",
+          "34636-malep-12_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Matchmaking",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-13",
+      "sub": {
+        "HD-1": {
+          "34636-malep-13_vibeplayer_sub": "https://vibeplayer.site/5d4dea52b10f2abf",
+          "34636-malep-13_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5d4dea52b10f2abf/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-13_otakuhg_sub": "https://otakuhg.site/e/t6k7ws7td1g5",
+          "34636-malep-13_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-13_otakuvid_sub": "https://otakuvid.online/embed/vxymdzpqtzyt",
+          "34636-malep-13_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Formation",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-14",
+      "sub": {
+        "HD-1": {
+          "34636-malep-14_vibeplayer_sub": "https://vibeplayer.site/2e9483b7dcd4bc21",
+          "34636-malep-14_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e9483b7dcd4bc21/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-14_otakuhg_sub": "https://otakuhg.site/e/83yjra6qietp",
+          "34636-malep-14_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-14_otakuvid_sub": "https://otakuvid.online/embed/i5i5kroycwlt",
+          "34636-malep-14_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-14_vibeplayer_hsub": "https://vibeplayer.site/2482a37c43e5611d",
+          "34636-malep-14_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2482a37c43e5611d/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-14_otakuhg_hsub": "https://otakuhg.site/e/y5pxs44k4ec6",
+          "34636-malep-14_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-14_otakuvid_hsub": "https://otakuvid.online/embed/x7f922zdkipe",
+          "34636-malep-14_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-14_playmogo_hsub": "https://playmogo.com/e/76dirdrzmx2x",
+          "34636-malep-14_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Taming a Wild Horse",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-15",
+      "sub": {
+        "HD-1": {
+          "34636-malep-15_vibeplayer_sub": "https://vibeplayer.site/fdc8a9747a1d8e2e",
+          "34636-malep-15_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fdc8a9747a1d8e2e/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-15_otakuhg_sub": "https://otakuhg.site/e/mnq6mfi749fs",
+          "34636-malep-15_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-15_otakuvid_sub": "https://otakuvid.online/embed/7znsqdg4wobo",
+          "34636-malep-15_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-15_vibeplayer_hsub": "https://vibeplayer.site/fd1ef8f4a9a1a77f",
+          "34636-malep-15_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/fd1ef8f4a9a1a77f/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-15_otakuhg_hsub": "https://otakuhg.site/e/v12nm6ugivzw",
+          "34636-malep-15_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-15_otakuvid_hsub": "https://otakuvid.online/embed/op84s9g7arwv",
+          "34636-malep-15_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-15_playmogo_hsub": "https://playmogo.com/e/qnhz0umyuu0e",
+          "34636-malep-15_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Four Legs",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-16",
+      "sub": {
+        "HD-1": {
+          "34636-malep-16_vibeplayer_sub": "https://vibeplayer.site/68b533dbe3e5c711",
+          "34636-malep-16_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/68b533dbe3e5c711/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-16_otakuhg_sub": "https://otakuhg.site/e/qbzz0znjamor",
+          "34636-malep-16_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-16_otakuvid_sub": "https://otakuvid.online/embed/ddz86dy96x2i",
+          "34636-malep-16_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Performer",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-17",
+      "sub": {
+        "HD-1": {
+          "34636-malep-17_vibeplayer_sub": "https://vibeplayer.site/e60a0df30351794b",
+          "34636-malep-17_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e60a0df30351794b/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-17_otakuhg_sub": "https://otakuhg.site/e/9mmggz6fwfoa",
+          "34636-malep-17_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-17_otakuvid_sub": "https://otakuvid.online/embed/9vgjkpy2vkr4",
+          "34636-malep-17_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-17_vibeplayer_hsub": "https://vibeplayer.site/3ff106761bd0aeae",
+          "34636-malep-17_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3ff106761bd0aeae/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-17_otakuhg_hsub": "https://otakuhg.site/e/cxglj5i0ej10",
+          "34636-malep-17_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-17_otakuvid_hsub": "https://otakuvid.online/embed/zqpmkvjjpip2",
+          "34636-malep-17_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-17_playmogo_hsub": "https://playmogo.com/e/gxyo0syb2gwt",
+          "34636-malep-17_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Entry #13",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-18",
+      "sub": {
+        "HD-1": {
+          "34636-malep-18_vibeplayer_sub": "https://vibeplayer.site/10c94d8446047f45",
+          "34636-malep-18_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/10c94d8446047f45/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-18_otakuhg_sub": "https://otakuhg.site/e/p7sxtvzyvugm",
+          "34636-malep-18_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-18_otakuvid_sub": "https://otakuvid.online/embed/upegspjv6ph2",
+          "34636-malep-18_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Rivals",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-19",
+      "sub": {
+        "HD-1": {
+          "34636-malep-19_vibeplayer_sub": "https://vibeplayer.site/2d311d4c65e6d2eb",
+          "34636-malep-19_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2d311d4c65e6d2eb/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-19_otakuhg_sub": "https://otakuhg.site/e/q7fzijb0x637",
+          "34636-malep-19_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-19_otakuvid_sub": "https://otakuvid.online/embed/lcx47j0crftm",
+          "34636-malep-19_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Friends",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-20",
+      "sub": {
+        "HD-1": {
+          "34636-malep-20_vibeplayer_sub": "https://vibeplayer.site/241f2462c49ec51f",
+          "34636-malep-20_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/241f2462c49ec51f/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-20_otakuhg_sub": "https://otakuhg.site/e/2awsx85cz00u",
+          "34636-malep-20_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-20_otakuvid_sub": "https://otakuvid.online/embed/uz6fxhocw4cb",
+          "34636-malep-20_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-20_vibeplayer_hsub": "https://vibeplayer.site/eabe01561afeb5d1",
+          "34636-malep-20_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/eabe01561afeb5d1/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-20_otakuhg_hsub": "https://otakuhg.site/e/vb9gl73mq697",
+          "34636-malep-20_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-20_otakuvid_hsub": "https://otakuvid.online/embed/9pad146i0wgh",
+          "34636-malep-20_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-20_playmogo_hsub": "https://playmogo.com/e/qc0jcklm7nh9",
+          "34636-malep-20_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Door",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-21",
+      "sub": {
+        "HD-1": {
+          "34636-malep-21_vibeplayer_sub": "https://vibeplayer.site/6a75ec0867f892d4",
+          "34636-malep-21_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6a75ec0867f892d4/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-21_otakuhg_sub": "https://otakuhg.site/e/a6g0m1bobgaq",
+          "34636-malep-21_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-21_otakuvid_sub": "https://otakuvid.online/embed/vl2ddm1kspvo",
+          "34636-malep-21_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    },
+    {
+      "episode_title": "Leader Partner",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-22",
+      "sub": {
+        "HD-1": {
+          "34636-malep-22_vibeplayer_sub": "https://vibeplayer.site/fb60b7eb83af3035",
+          "34636-malep-22_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb60b7eb83af3035/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-22_otakuhg_sub": "https://otakuhg.site/e/n7y82viem7y9",
+          "34636-malep-22_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-22_otakuvid_sub": "https://otakuvid.online/embed/st8z1udfd87t",
+          "34636-malep-22_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-22_vibeplayer_hsub": "https://vibeplayer.site/767b2e03d819916b",
+          "34636-malep-22_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/767b2e03d819916b/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-22_otakuhg_hsub": "https://otakuhg.site/e/d8iw5yha2mex",
+          "34636-malep-22_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-22_otakuvid_hsub": "https://otakuvid.online/embed/qfuuqt7hz3d2",
+          "34636-malep-22_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-22_playmogo_hsub": "https://playmogo.com/e/6n5x6rv95pan",
+          "34636-malep-22_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Tradition and Evolution",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-23",
+      "sub": {
+        "HD-1": {
+          "34636-malep-23_vibeplayer_sub": "https://vibeplayer.site/9db21d5ccb1c26a9",
+          "34636-malep-23_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9db21d5ccb1c26a9/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-23_otakuhg_sub": "https://otakuhg.site/e/kzbeguv9ydmi",
+          "34636-malep-23_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-23_otakuvid_sub": "https://otakuvid.online/embed/wg8ycacivmqb",
+          "34636-malep-23_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "34636-malep-23_vibeplayer_hsub": "https://vibeplayer.site/5a3a01de185628e9",
+          "34636-malep-23_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5a3a01de185628e9/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-23_otakuhg_hsub": "https://otakuhg.site/e/0rm95vco9xq8",
+          "34636-malep-23_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-23_otakuvid_hsub": "https://otakuvid.online/embed/op94mkpqgvvu",
+          "34636-malep-23_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "34636-malep-23_playmogo_hsub": "https://playmogo.com/e/ag0dl43tptdc",
+          "34636-malep-23_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Welcome to the Ballroom",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-ballroom/ep-24",
+      "sub": {
+        "HD-1": {
+          "34636-malep-24_vibeplayer_sub": "https://vibeplayer.site/a0efac9fd57dcb6a",
+          "34636-malep-24_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a0efac9fd57dcb6a/master.m3u8"
+        },
+        "StreamHG": {
+          "34636-malep-24_otakuhg_sub": "https://otakuhg.site/e/xhqzoiqwsltz",
+          "34636-malep-24_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "34636-malep-24_otakuvid_sub": "https://otakuvid.online/embed/qnky9iejllhu",
+          "34636-malep-24_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {}
+    }
+  ]
+}
