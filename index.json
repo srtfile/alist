@@ -8088,5 +8088,15 @@
     "captured_at": "2026-06-20T14:24:19",
     "file": "data-8/witch-hunter-robin.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/witch-hunter-robin.json"
+  },
+  {
+    "slug": "witch-watch",
+    "mal_id": 59597,
+    "anime_name": "Witch Watch",
+    "anime_url": "https://hianime.ad/anime/witch-watch",
+    "total_episodes": 25,
+    "captured_at": "2026-06-20T14:25:02",
+    "file": "data-8/witch-watch.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/witch-watch.json"
   }
 ]
