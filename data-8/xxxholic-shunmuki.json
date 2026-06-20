@@ -1,0 +1,57 @@
+{
+  "anime_name": "Xxxholic Shunmuki",
+  "anime_url": "https://hianime.ad/anime/xxxholic-shunmuki",
+  "slug": "xxxholic-shunmuki",
+  "mal_id": 861,
+  "total_episodes": 2,
+  "captured_at": "2026-06-20T15:08:42",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Inevitable",
+      "episode_url": "https://hianime.ad/watch/xxxholic-shunmuki/ep-1",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "861-malep-1_vibeplayer_raw": "https://vibeplayer.site/60b067194a9b00db",
+          "861-malep-1_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/60b067194a9b00db/master.m3u8"
+        },
+        "StreamHG": {
+          "861-malep-1_otakuhg_raw": "https://otakuhg.site/e/cf77bpxrllej",
+          "861-malep-1_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "861-malep-1_otakuvid_raw": "https://otakuvid.online/embed/j7iwnx7g82b7",
+          "861-malep-1_otakuvid_raw_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Falsehood",
+      "episode_url": "https://hianime.ad/watch/xxxholic-shunmuki/ep-2",
+      "sub": {},
+      "dub": {},
+      "hsub": {},
+      "raw": {
+        "HD-1": {
+          "861-malep-2_vibeplayer_raw": "https://vibeplayer.site/120302125df820f3",
+          "861-malep-2_vibeplayer_raw_m3u8": "https://vibeplayer.site/public/stream/120302125df820f3/master.m3u8"
+        },
+        "StreamHG": {
+          "861-malep-2_otakuhg_raw": "https://otakuhg.site/e/jctnqv0nlmoa",
+          "861-malep-2_otakuhg_raw_m3u8": null
+        },
+        "Earnvids": {
+          "861-malep-2_otakuvid_raw": "https://otakuvid.online/embed/1rlqczkvtriw",
+          "861-malep-2_otakuvid_raw_m3u8": null
+        },
+        "Doodstream": {
+          "861-malep-2_playmogo_raw": "https://playmogo.com/e/yzgrln2ievw5",
+          "861-malep-2_playmogo_raw_m3u8": null
+        }
+      }
+    }
+  ]
+}
