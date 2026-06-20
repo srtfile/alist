@@ -4,7 +4,7 @@
   "slug": "voices-of-a-distant-star",
   "mal_id": 53912,
   "total_episodes": 1,
-  "captured_at": "2026-06-19T23:25:30",
+  "captured_at": "2026-06-20T13:07:15",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -18,6 +18,10 @@
         "Earnvids": {
           "53912-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ncsy7t5nj242",
           "53912-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "53912-malep-1_playmogo_sub": "https://playmogo.com/e/nrbnmhtucu2g",
+          "53912-malep-1_playmogo_sub_m3u8": null
         }
       },
       "dub": {
@@ -28,6 +32,10 @@
         "Earnvids": {
           "53912-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9pyrwhz4wm84",
           "53912-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "53912-malep-1_playmogo_dub": "https://playmogo.com/e/w3lnmd3yc0qm",
+          "53912-malep-1_playmogo_dub_m3u8": null
         }
       },
       "hsub": {
