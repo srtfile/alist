@@ -1,0 +1,57 @@
+{
+  "anime_name": "Welcome To The Space Show",
+  "anime_url": "https://hianime.ad/anime/welcome-to-the-space-show",
+  "slug": "welcome-to-the-space-show",
+  "mal_id": 35507,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T13:58:09",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "What is evil? Whatever springs from weakness.",
+      "episode_url": "https://hianime.ad/watch/welcome-to-the-space-show/ep-1",
+      "sub": {
+        "HD-1": {
+          "35507-malep-1_vibeplayer_sub": "https://vibeplayer.site/048c852ee755342b",
+          "35507-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/048c852ee755342b/master.m3u8"
+        },
+        "Earnvids": {
+          "35507-malep-1_otakuvid_sub": "https://otakuvid.online/embed/0jwtqvsln0sv",
+          "35507-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "35507-malep-1_vibeplayer_dub": "https://vibeplayer.site/198c239b5070050d",
+          "35507-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/198c239b5070050d/master.m3u8"
+        },
+        "Earnvids": {
+          "35507-malep-1_otakuvid_dub": "https://otakuvid.online/embed/ufk1fgip5pn6",
+          "35507-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "35507-malep-1_playmogo_dub": "https://playmogo.com/e/taey3y3v73f8",
+          "35507-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "35507-malep-1_vibeplayer_hsub": "https://vibeplayer.site/62b32e400644811c",
+          "35507-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/62b32e400644811c/master.m3u8"
+        },
+        "StreamHG": {
+          "35507-malep-1_otakuhg_hsub": "https://otakuhg.site/e/l2cit0db5t2s",
+          "35507-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "35507-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/8ml5fjh8k4di",
+          "35507-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35507-malep-1_playmogo_hsub": "https://playmogo.com/e/5p87rsm88hya",
+          "35507-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
