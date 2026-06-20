@@ -4,7 +4,7 @@
   "slug": "trickster",
   "mal_id": 33377,
   "total_episodes": 24,
-  "captured_at": "2026-06-19T21:29:50",
+  "captured_at": "2026-06-20T11:27:43",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -388,9 +388,44 @@
     {
       "episode_title": "Innocent Scale",
       "episode_url": "https://hianime.ad/watch/trickster/ep-10",
-      "sub": {},
-      "dub": {},
-      "hsub": {}
+      "sub": {
+        "HD-1": {
+          "33377-malep-10_vibeplayer_sub": "https://vibeplayer.site/1bf9be7e738e5fb8",
+          "33377-malep-10_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/1bf9be7e738e5fb8/master.m3u8"
+        },
+        "StreamHG": {
+          "33377-malep-10_otakuhg_sub": "https://otakuhg.site/e/7x2il7ku6dqu",
+          "33377-malep-10_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "33377-malep-10_otakuvid_sub": "https://otakuvid.online/embed/ykxco5kbzrkq",
+          "33377-malep-10_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "33377-malep-10_vibeplayer_dub": "https://vibeplayer.site/ceef2243655e8832",
+          "33377-malep-10_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ceef2243655e8832/master.m3u8"
+        },
+        "Earnvids": {
+          "33377-malep-10_otakuvid_dub": "https://otakuvid.online/embed/shwbgkq9xg4m",
+          "33377-malep-10_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "33377-malep-10_vibeplayer_hsub": "https://vibeplayer.site/66f0bbf6f5a5a0df",
+          "33377-malep-10_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/66f0bbf6f5a5a0df/master.m3u8"
+        },
+        "Earnvids": {
+          "33377-malep-10_otakuvid_hsub": "https://otakuvid.online/embed/k6y8ykpu9l32",
+          "33377-malep-10_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "33377-malep-10_playmogo_hsub": "https://playmogo.com/e/uqbajjjtrs3v",
+          "33377-malep-10_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Cruel Tool",
