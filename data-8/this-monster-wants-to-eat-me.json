@@ -4,7 +4,7 @@
   "slug": "this-monster-wants-to-eat-me",
   "mal_id": 60168,
   "total_episodes": 13,
-  "captured_at": "2026-06-19T19:50:29",
+  "captured_at": "2026-06-20T08:23:54",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -137,6 +137,10 @@
         "Earnvids": {
           "60168-malep-4_otakuvid_sub": "https://otakuvid.online/embed/f3efy3to6ccc",
           "60168-malep-4_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60168-malep-4_playmogo_sub": "https://playmogo.com/e/obj46htbr80x",
+          "60168-malep-4_playmogo_sub_m3u8": null
         }
       },
       "dub": {},
