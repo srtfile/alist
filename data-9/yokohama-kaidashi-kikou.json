@@ -1,0 +1,85 @@
+{
+  "anime_name": "Yokohama Kaidashi Kikou",
+  "anime_url": "https://hianime.ad/anime/yokohama-kaidashi-kikou",
+  "slug": "yokohama-kaidashi-kikou",
+  "mal_id": 57380,
+  "total_episodes": 2,
+  "captured_at": "2026-06-20T15:47:37",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Another World and Twins",
+      "episode_url": "https://hianime.ad/watch/yokohama-kaidashi-kikou/ep-1",
+      "sub": {
+        "HD-1": {
+          "57380-malep-1_vibeplayer_sub": "https://vibeplayer.site/9b3a28f890de5e55",
+          "57380-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9b3a28f890de5e55/master.m3u8"
+        },
+        "Earnvids": {
+          "57380-malep-1_otakuvid_sub": "https://otakuvid.online/embed/j587bk4xqddg",
+          "57380-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "57380-malep-1_playmogo_sub": "https://playmogo.com/e/5y8umwxuewdd",
+          "57380-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57380-malep-1_vibeplayer_hsub": "https://vibeplayer.site/b9c28b947e4f0d04",
+          "57380-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/b9c28b947e4f0d04/master.m3u8"
+        },
+        "StreamHG": {
+          "57380-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jzwtgarnu8rr",
+          "57380-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "57380-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/2wp6lk2clj1z",
+          "57380-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57380-malep-1_playmogo_hsub": "https://playmogo.com/e/ndsy20ozqix1",
+          "57380-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Nice to Meet You, Joule",
+      "episode_url": "https://hianime.ad/watch/yokohama-kaidashi-kikou/ep-2",
+      "sub": {
+        "HD-1": {
+          "57380-malep-2_vibeplayer_sub": "https://vibeplayer.site/73f9337ee8b77d5f",
+          "57380-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/73f9337ee8b77d5f/master.m3u8"
+        },
+        "Earnvids": {
+          "57380-malep-2_otakuvid_sub": "https://otakuvid.online/embed/cfnxuro2rn5o",
+          "57380-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "57380-malep-2_playmogo_sub": "https://playmogo.com/e/idzlstuehukl",
+          "57380-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57380-malep-2_vibeplayer_hsub": "https://vibeplayer.site/2ba5eb4bfd9ef1d9",
+          "57380-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2ba5eb4bfd9ef1d9/master.m3u8"
+        },
+        "StreamHG": {
+          "57380-malep-2_otakuhg_hsub": "https://otakuhg.site/e/kt9eh01wy7gt",
+          "57380-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "57380-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/uafg1aiwiuqs",
+          "57380-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57380-malep-2_playmogo_hsub": "https://playmogo.com/e/ehq6ipnm05h5",
+          "57380-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
