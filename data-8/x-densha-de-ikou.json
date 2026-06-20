@@ -1,0 +1,52 @@
+{
+  "anime_name": "X Densha De Ikou",
+  "anime_url": "https://hianime.ad/anime/x-densha-de-ikou",
+  "slug": "x-densha-de-ikou",
+  "mal_id": 156,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:58:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Reunion",
+      "episode_url": "https://hianime.ad/watch/x-densha-de-ikou/ep-1",
+      "sub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_sub": "https://vibeplayer.site/87f741a79c93417d",
+          "156-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/87f741a79c93417d/master.m3u8"
+        },
+        "StreamHG": {
+          "156-malep-1_otakuhg_sub": "https://otakuhg.site/e/2d3jju89f2zq",
+          "156-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2k9x0r4u4x1i",
+          "156-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "156-malep-1_playmogo_sub": "https://playmogo.com/e/0s3vk9jtml0k",
+          "156-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "156-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d573b5c3a564fa8e",
+          "156-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d573b5c3a564fa8e/master.m3u8"
+        },
+        "StreamHG": {
+          "156-malep-1_otakuhg_hsub": "https://otakuhg.site/e/rsobeqpq8dsc",
+          "156-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "156-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7fnbqbboqnxi",
+          "156-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "156-malep-1_playmogo_hsub": "https://playmogo.com/e/gq6ha7dd3o66",
+          "156-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
