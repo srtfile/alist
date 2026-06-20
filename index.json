@@ -7118,5 +7118,15 @@
     "captured_at": "2026-06-20T13:32:16",
     "file": "data-8/wandering-son.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wandering-son.json"
+  },
+  {
+    "slug": "wandering-sun",
+    "mal_id": 3819,
+    "anime_name": "Wandering Sun",
+    "anime_url": "https://hianime.ad/anime/wandering-sun",
+    "total_episodes": 26,
+    "captured_at": "2026-06-20T13:32:46",
+    "file": "data-8/wandering-sun.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wandering-sun.json"
   }
 ]
