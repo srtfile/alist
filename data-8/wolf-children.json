@@ -1,0 +1,65 @@
+{
+  "anime_name": "Wolf Children",
+  "anime_url": "https://hianime.ad/anime/wolf-children",
+  "slug": "wolf-children",
+  "mal_id": 51122,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:33:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Harvest Festival and the Crowded Driver's Box",
+      "episode_url": "https://hianime.ad/watch/wolf-children/ep-1",
+      "sub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_sub": "https://vibeplayer.site/dc4dba8b163b1d0b",
+          "51122-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dc4dba8b163b1d0b/master.m3u8"
+        },
+        "StreamHG": {
+          "51122-malep-1_otakuhg_sub": "https://otakuhg.site/e/cdyvmleonvd1",
+          "51122-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_sub": "https://otakuvid.online/embed/5cdlkuc4mf4v",
+          "51122-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "51122-malep-1_playmogo_sub": "https://playmogo.com/e/f795bheommny",
+          "51122-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_dub": "https://vibeplayer.site/f8d476185e2fb367",
+          "51122-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f8d476185e2fb367/master.m3u8"
+        },
+        "StreamHG": {
+          "51122-malep-1_otakuhg_dub": "https://otakuhg.site/e/2qa55yrzla2o",
+          "51122-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_dub": "https://otakuvid.online/embed/dkug9m85sbm6",
+          "51122-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "51122-malep-1_vibeplayer_hsub": "https://vibeplayer.site/979a25759fa5a642",
+          "51122-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/979a25759fa5a642/master.m3u8"
+        },
+        "StreamHG": {
+          "51122-malep-1_otakuhg_hsub": "https://otakuhg.site/e/j2dzxsmsz1y5",
+          "51122-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "51122-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/c7atgwm0lsxp",
+          "51122-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "51122-malep-1_playmogo_hsub": "https://playmogo.com/e/zb1kkwyo8gev",
+          "51122-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
