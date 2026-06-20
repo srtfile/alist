@@ -4,7 +4,7 @@
   "slug": "wan-jie-xian-zong-5th-season",
   "mal_id": 42250,
   "total_episodes": 288,
-  "captured_at": "2026-06-20T13:27:03",
+  "captured_at": "2026-06-20T22:28:25",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -4862,9 +4862,35 @@
     {
       "episode_title": "Episode 157",
       "episode_url": "https://hianime.ad/watch/wan-jie-xian-zong-5th-season/ep-157",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "42250-malep-157_vibeplayer_sub": "https://vibeplayer.site/cf0446ed7c5d0e0b",
+          "42250-malep-157_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cf0446ed7c5d0e0b/master.m3u8"
+        },
+        "Earnvids": {
+          "42250-malep-157_otakuvid_sub": "https://otakuvid.online/embed/8s0yy15ogqt7",
+          "42250-malep-157_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "42250-malep-157_playmogo_sub": "https://playmogo.com/e/na0cko6cntht",
+          "42250-malep-157_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "42250-malep-157_vibeplayer_hsub": "https://vibeplayer.site/70add659c0dfb8ef",
+          "42250-malep-157_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/70add659c0dfb8ef/master.m3u8"
+        },
+        "Earnvids": {
+          "42250-malep-157_otakuvid_hsub": "https://otakuvid.online/embed/6g9ffmhvmvvk",
+          "42250-malep-157_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42250-malep-157_playmogo_hsub": "https://playmogo.com/e/j54aqpn9r3y6",
+          "42250-malep-157_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Episode 158",
