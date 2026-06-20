@@ -7978,5 +7978,15 @@
     "captured_at": "2026-06-20T14:19:25",
     "file": "data-8/wings-of-the-world.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wings-of-the-world.json"
+  },
+  {
+    "slug": "winter-present",
+    "mal_id": 64104,
+    "anime_name": "Winter Present",
+    "anime_url": "https://hianime.ad/anime/winter-present",
+    "total_episodes": 1,
+    "captured_at": "2026-06-20T14:20:00",
+    "file": "data-8/winter-present.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/winter-present.json"
   }
 ]
