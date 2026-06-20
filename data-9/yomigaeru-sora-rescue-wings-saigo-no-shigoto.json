@@ -1,0 +1,40 @@
+{
+  "anime_name": "Yomigaeru Sora Rescue Wings Saigo No Shigoto",
+  "anime_url": "https://hianime.ad/anime/yomigaeru-sora-rescue-wings-saigo-no-shigoto",
+  "slug": "yomigaeru-sora-rescue-wings-saigo-no-shigoto",
+  "mal_id": 798,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:49:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "First Job",
+      "episode_url": "https://hianime.ad/watch/yomigaeru-sora-rescue-wings-saigo-no-shigoto/ep-1",
+      "sub": {
+        "HD-1": {
+          "798-malep-1_vibeplayer_sub": "https://vibeplayer.site/2e1f47fc2e0e21a7",
+          "798-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/2e1f47fc2e0e21a7/master.m3u8"
+        },
+        "Earnvids": {
+          "798-malep-1_otakuvid_sub": "https://otakuvid.online/embed/tq57qgd90cc2",
+          "798-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "798-malep-1_vibeplayer_hsub": "https://vibeplayer.site/255ff72c96819a31",
+          "798-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/255ff72c96819a31/master.m3u8"
+        },
+        "Earnvids": {
+          "798-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6srliwuknahz",
+          "798-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "798-malep-1_playmogo_hsub": "https://playmogo.com/e/saehl0wddesa",
+          "798-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
