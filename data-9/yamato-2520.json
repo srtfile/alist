@@ -1,0 +1,110 @@
+{
+  "anime_name": "Yamato 2520",
+  "anime_url": "https://hianime.ad/anime/yamato-2520",
+  "slug": "yamato-2520",
+  "mal_id": 1562,
+  "total_episodes": 3,
+  "captured_at": "2026-06-20T15:15:54",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Light that Shines through the Darkness",
+      "episode_url": "https://hianime.ad/watch/yamato-2520/ep-1",
+      "sub": {
+        "HD-1": {
+          "1562-malep-1_vibeplayer_sub": "https://vibeplayer.site/135e963e4eb639bc",
+          "1562-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/135e963e4eb639bc/master.m3u8"
+        },
+        "Earnvids": {
+          "1562-malep-1_otakuvid_sub": "https://otakuvid.online/embed/f1y30d24vfqa",
+          "1562-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1562-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ec5ebc99aafc4f95",
+          "1562-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ec5ebc99aafc4f95/master.m3u8"
+        },
+        "StreamHG": {
+          "1562-malep-1_otakuhg_hsub": "https://otakuhg.site/e/hgi11byo63o3",
+          "1562-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1562-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/e7baa368g813",
+          "1562-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1562-malep-1_playmogo_hsub": "https://playmogo.com/e/5582065b2lhm",
+          "1562-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Pull Down the Iron Curtain!",
+      "episode_url": "https://hianime.ad/watch/yamato-2520/ep-2",
+      "sub": {
+        "HD-1": {
+          "1562-malep-2_vibeplayer_sub": "https://vibeplayer.site/cde2963d4fcdfd9a",
+          "1562-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cde2963d4fcdfd9a/master.m3u8"
+        },
+        "Earnvids": {
+          "1562-malep-2_otakuvid_sub": "https://otakuvid.online/embed/dcorgvg8nri2",
+          "1562-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1562-malep-2_playmogo_sub": "https://playmogo.com/e/o3bpeyaugvhz",
+          "1562-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1562-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8cf27b467bf5734d",
+          "1562-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8cf27b467bf5734d/master.m3u8"
+        },
+        "Earnvids": {
+          "1562-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/py8mexdp1b4h",
+          "1562-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1562-malep-2_playmogo_hsub": "https://playmogo.com/e/2chubvlutdai",
+          "1562-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Ah, the Nostalgic Gloominess of Youth",
+      "episode_url": "https://hianime.ad/watch/yamato-2520/ep-3",
+      "sub": {
+        "HD-1": {
+          "1562-malep-3_vibeplayer_sub": "https://vibeplayer.site/b3405232d3657c8a",
+          "1562-malep-3_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b3405232d3657c8a/master.m3u8"
+        },
+        "Earnvids": {
+          "1562-malep-3_otakuvid_sub": "https://otakuvid.online/embed/0yopp6nktqgh",
+          "1562-malep-3_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "1562-malep-3_vibeplayer_hsub": "https://vibeplayer.site/7380caae5b531a06",
+          "1562-malep-3_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7380caae5b531a06/master.m3u8"
+        },
+        "StreamHG": {
+          "1562-malep-3_otakuhg_hsub": "https://otakuhg.site/e/ol8fq54g9pjx",
+          "1562-malep-3_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "1562-malep-3_otakuvid_hsub": "https://otakuvid.online/embed/9m4lyqv2dio5",
+          "1562-malep-3_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1562-malep-3_playmogo_hsub": "https://playmogo.com/e/af65sotsoi7f",
+          "1562-malep-3_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
