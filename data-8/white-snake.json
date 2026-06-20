@@ -1,0 +1,35 @@
+{
+  "anime_name": "White Snake",
+  "anime_url": "https://hianime.ad/anime/white-snake",
+  "slug": "white-snake",
+  "mal_id": 18245,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:11:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "White Album",
+      "episode_url": "https://hianime.ad/watch/white-snake/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "18245-malep-1_vibeplayer_dub": "https://vibeplayer.site/10a3ba17adcebcfa",
+          "18245-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/10a3ba17adcebcfa/master.m3u8"
+        },
+        "StreamHG": {
+          "18245-malep-1_otakuhg_dub": "https://otakuhg.site/e/52y1kotik02a",
+          "18245-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "18245-malep-1_otakuvid_dub": "https://otakuvid.online/embed/xwf38vrrckgc",
+          "18245-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "18245-malep-1_playmogo_dub": "https://playmogo.com/e/6tspkqn7ykke",
+          "18245-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
