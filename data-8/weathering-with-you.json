@@ -1,0 +1,61 @@
+{
+  "anime_name": "Weathering With You",
+  "anime_url": "https://hianime.ad/anime/weathering-with-you",
+  "slug": "weathering-with-you",
+  "mal_id": 42307,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T13:47:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Reapers' Game",
+      "episode_url": "https://hianime.ad/watch/weathering-with-you/ep-1",
+      "sub": {
+        "HD-1": {
+          "42307-malep-1_vibeplayer_sub": "https://vibeplayer.site/a886edd28f0e6ddd",
+          "42307-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/a886edd28f0e6ddd/master.m3u8"
+        },
+        "StreamHG": {
+          "42307-malep-1_otakuhg_sub": "https://otakuhg.site/e/88ckyj0ls31h",
+          "42307-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "42307-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qjvz8fqtzdqe",
+          "42307-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42307-malep-1_vibeplayer_dub": "https://vibeplayer.site/57c3eaa8228c1b12",
+          "42307-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/57c3eaa8228c1b12/master.m3u8"
+        },
+        "StreamHG": {
+          "42307-malep-1_otakuhg_dub": "https://otakuhg.site/e/5lq4a4tu42vz",
+          "42307-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "42307-malep-1_otakuvid_dub": "https://otakuvid.online/embed/a5hjn8glf3hp",
+          "42307-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42307-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d19f4428cff90092",
+          "42307-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d19f4428cff90092/master.m3u8"
+        },
+        "StreamHG": {
+          "42307-malep-1_otakuhg_hsub": "https://otakuhg.site/e/u1xn41juv3gn",
+          "42307-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "42307-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/uzx49pb4f3o3",
+          "42307-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42307-malep-1_playmogo_hsub": "https://playmogo.com/e/n124vj4qs8up",
+          "42307-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
