@@ -1,0 +1,40 @@
+{
+  "anime_name": "Yama No Susume Kabe Tte Kowakunai No",
+  "anime_url": "https://hianime.ad/anime/yama-no-susume-kabe-tte-kowakunai-no",
+  "slug": "yama-no-susume-kabe-tte-kowakunai-no",
+  "mal_id": 14355,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:13:41",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Anything but Mountains!",
+      "episode_url": "https://hianime.ad/watch/yama-no-susume-kabe-tte-kowakunai-no/ep-1",
+      "sub": {
+        "HD-1": {
+          "14355-malep-1_vibeplayer_sub": "https://vibeplayer.site/dcdb7bc52e07b78a",
+          "14355-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/dcdb7bc52e07b78a/master.m3u8"
+        },
+        "Earnvids": {
+          "14355-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vcheyteg075z",
+          "14355-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "14355-malep-1_vibeplayer_hsub": "https://vibeplayer.site/86c039db2a26b76a",
+          "14355-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/86c039db2a26b76a/master.m3u8"
+        },
+        "Earnvids": {
+          "14355-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/a9udpsh0w33i",
+          "14355-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "14355-malep-1_playmogo_hsub": "https://playmogo.com/e/ibi6kthdxqsd",
+          "14355-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
