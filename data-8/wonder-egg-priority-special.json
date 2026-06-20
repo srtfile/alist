@@ -1,0 +1,65 @@
+{
+  "anime_name": "Wonder Egg Priority Special",
+  "anime_url": "https://hianime.ad/anime/wonder-egg-priority-special",
+  "slug": "wonder-egg-priority-special",
+  "mal_id": 43299,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:36:19",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Domain of Children",
+      "episode_url": "https://hianime.ad/watch/wonder-egg-priority-special/ep-1",
+      "sub": {
+        "HD-1": {
+          "43299-malep-1_vibeplayer_sub": "https://vibeplayer.site/33cee1660dc2bf46",
+          "43299-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/33cee1660dc2bf46/master.m3u8"
+        },
+        "Earnvids": {
+          "43299-malep-1_otakuvid_sub": "https://otakuvid.online/embed/13w1cxl08q67",
+          "43299-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "43299-malep-1_playmogo_sub": "https://playmogo.com/e/hmwun8ubxdvn",
+          "43299-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "43299-malep-1_vibeplayer_dub": "https://vibeplayer.site/8fe63db92235c71f",
+          "43299-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/8fe63db92235c71f/master.m3u8"
+        },
+        "StreamHG": {
+          "43299-malep-1_otakuhg_dub": "https://otakuhg.site/e/zehi4k8vhp2t",
+          "43299-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "43299-malep-1_otakuvid_dub": "https://otakuvid.online/embed/5z3s0pyxv5mw",
+          "43299-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "43299-malep-1_playmogo_dub": "https://playmogo.com/e/4mahim4x5boj",
+          "43299-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "43299-malep-1_vibeplayer_hsub": "https://vibeplayer.site/32072fc5ac77d148",
+          "43299-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/32072fc5ac77d148/master.m3u8"
+        },
+        "StreamHG": {
+          "43299-malep-1_otakuhg_hsub": "https://otakuhg.site/e/soezg2i9fic6",
+          "43299-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "43299-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5do7udpp2b9p",
+          "43299-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "43299-malep-1_playmogo_hsub": "https://playmogo.com/e/hs074ix5n8xd",
+          "43299-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
