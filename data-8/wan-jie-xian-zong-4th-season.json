@@ -4,7 +4,7 @@
   "slug": "wan-jie-xian-zong-4th-season",
   "mal_id": 42250,
   "total_episodes": 48,
-  "captured_at": "2026-06-20T13:26:00",
+  "captured_at": "2026-06-20T22:27:28",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -254,9 +254,35 @@
     {
       "episode_title": "Dr. Yosano's Whoopsies! Forgetfulness / Miscellany on Shrimp Tails / Me Drawing You Drawing Me",
       "episode_url": "https://hianime.ad/watch/wan-jie-xian-zong-4th-season/ep-9",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "42250-malep-9_vibeplayer_sub": "https://vibeplayer.site/ac77e5e518a6e74d",
+          "42250-malep-9_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ac77e5e518a6e74d/master.m3u8"
+        },
+        "Earnvids": {
+          "42250-malep-9_otakuvid_sub": "https://otakuvid.online/embed/60rc1s3k260o",
+          "42250-malep-9_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "42250-malep-9_playmogo_sub": "https://playmogo.com/e/mkc11d40fcv2",
+          "42250-malep-9_playmogo_sub_m3u8": null
+        }
+      },
       "dub": {},
-      "hsub": {}
+      "hsub": {
+        "HD-1": {
+          "42250-malep-9_vibeplayer_hsub": "https://vibeplayer.site/031840bedea5d2c3",
+          "42250-malep-9_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/031840bedea5d2c3/master.m3u8"
+        },
+        "Earnvids": {
+          "42250-malep-9_otakuvid_hsub": "https://otakuvid.online/embed/n0zhojrfqc4g",
+          "42250-malep-9_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42250-malep-9_playmogo_hsub": "https://playmogo.com/e/24v5iqmdku8z",
+          "42250-malep-9_playmogo_hsub_m3u8": null
+        }
+      }
     },
     {
       "episode_title": "Oden with the White Tiger / Elevator Panic / The Armed Detective Agency Beats the Heat",
