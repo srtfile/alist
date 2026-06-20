@@ -1,0 +1,44 @@
+{
+  "anime_name": "World Before You End",
+  "anime_url": "https://hianime.ad/anime/world-before-you-end",
+  "slug": "world-before-you-end",
+  "mal_id": 35079,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:50:13",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Inside the Forest, Part B / A Country Where People Can Kill Others / Inside the Forest, Part A",
+      "episode_url": "https://hianime.ad/watch/world-before-you-end/ep-1",
+      "sub": {
+        "HD-1": {
+          "35079-malep-1_vibeplayer_sub": "https://vibeplayer.site/80e289c20a33d9d0",
+          "35079-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/80e289c20a33d9d0/master.m3u8"
+        },
+        "Earnvids": {
+          "35079-malep-1_otakuvid_sub": "https://otakuvid.online/embed/inb2395v6ztz",
+          "35079-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "35079-malep-1_playmogo_sub": "https://playmogo.com/e/uibgoaw5orog",
+          "35079-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "35079-malep-1_vibeplayer_hsub": "https://vibeplayer.site/cd57ee045af8a0fb",
+          "35079-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/cd57ee045af8a0fb/master.m3u8"
+        },
+        "Earnvids": {
+          "35079-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/vclojm1hxb0s",
+          "35079-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "35079-malep-1_playmogo_hsub": "https://playmogo.com/e/9nm7ogc4tcub",
+          "35079-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
