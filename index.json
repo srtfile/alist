@@ -7888,5 +7888,15 @@
     "captured_at": "2026-06-20T14:14:30",
     "file": "data-8/wild-arms.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wild-arms.json"
+  },
+  {
+    "slug": "wind-breaker",
+    "mal_id": 54900,
+    "anime_name": "Wind Breaker",
+    "anime_url": "https://hianime.ad/anime/wind-breaker",
+    "total_episodes": 13,
+    "captured_at": "2026-06-20T14:15:10",
+    "file": "data-8/wind-breaker.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wind-breaker.json"
   }
 ]
