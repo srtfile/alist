@@ -1,0 +1,65 @@
+{
+  "anime_name": "Whisper Of The Heart",
+  "anime_url": "https://hianime.ad/anime/whisper-of-the-heart",
+  "slug": "whisper-of-the-heart",
+  "mal_id": 50338,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:07:52",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Men Are Dangerous",
+      "episode_url": "https://hianime.ad/watch/whisper-of-the-heart/ep-1",
+      "sub": {
+        "HD-1": {
+          "50338-malep-1_vibeplayer_sub": "https://vibeplayer.site/29d481c41d222ddc",
+          "50338-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/29d481c41d222ddc/master.m3u8"
+        },
+        "StreamHG": {
+          "50338-malep-1_otakuhg_sub": "https://otakuhg.site/e/0sz9t7ufverc",
+          "50338-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "50338-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g3usm3hp506f",
+          "50338-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "50338-malep-1_playmogo_sub": "https://playmogo.com/e/lc8g4a4vftgj",
+          "50338-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "50338-malep-1_vibeplayer_dub": "https://vibeplayer.site/e02741a63365d074",
+          "50338-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/e02741a63365d074/master.m3u8"
+        },
+        "StreamHG": {
+          "50338-malep-1_otakuhg_dub": "https://otakuhg.site/e/178i8l1q9xrp",
+          "50338-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "50338-malep-1_otakuvid_dub": "https://otakuvid.online/embed/nf4kkfvh5nnk",
+          "50338-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "50338-malep-1_vibeplayer_hsub": "https://vibeplayer.site/17aff5ca1137ffc8",
+          "50338-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/17aff5ca1137ffc8/master.m3u8"
+        },
+        "StreamHG": {
+          "50338-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tdlvxa6sytp3",
+          "50338-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "50338-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dqkn3hvwtqw8",
+          "50338-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "50338-malep-1_playmogo_hsub": "https://playmogo.com/e/qsrsiac20vho",
+          "50338-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
