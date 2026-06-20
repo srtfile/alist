@@ -1,0 +1,49 @@
+{
+  "anime_name": "X An Omen",
+  "anime_url": "https://hianime.ad/anime/x-an-omen",
+  "slug": "x-an-omen",
+  "mal_id": 42282,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:58:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "I Avoided My Doom Flags, So I Got Carried Away at the Cultural Festival...",
+      "episode_url": "https://hianime.ad/watch/x-an-omen/ep-1",
+      "sub": {
+        "HD-1": {
+          "42282-malep-1_vibeplayer_sub": "https://vibeplayer.site/c0fa3edaef7025d6",
+          "42282-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c0fa3edaef7025d6/master.m3u8"
+        },
+        "Earnvids": {
+          "42282-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hn2kkxw4zxb6",
+          "42282-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "42282-malep-1_vibeplayer_dub": "https://vibeplayer.site/a1ecbb2dad45091c",
+          "42282-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/a1ecbb2dad45091c/master.m3u8"
+        },
+        "Earnvids": {
+          "42282-malep-1_otakuvid_dub": "https://otakuvid.online/embed/hg274o93ieck",
+          "42282-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "42282-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1d462afc76ce4502",
+          "42282-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1d462afc76ce4502/master.m3u8"
+        },
+        "Earnvids": {
+          "42282-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5hw9cd1dp9jj",
+          "42282-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "42282-malep-1_playmogo_hsub": "https://playmogo.com/e/15eaerjv1df5",
+          "42282-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
