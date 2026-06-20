@@ -1,0 +1,48 @@
+{
+  "anime_name": "Wonderful Precure Movie",
+  "anime_url": "https://hianime.ad/anime/wonderful-precure-movie",
+  "slug": "wonderful-precure-movie",
+  "mal_id": 57390,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:37:48",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "It Starts with \"Wonderful!\"",
+      "episode_url": "https://hianime.ad/watch/wonderful-precure-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "57390-malep-1_vibeplayer_sub": "https://vibeplayer.site/ab6b97a5f30a714e",
+          "57390-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ab6b97a5f30a714e/master.m3u8"
+        },
+        "Earnvids": {
+          "57390-malep-1_otakuvid_sub": "https://otakuvid.online/embed/ujp4xj0aq6ox",
+          "57390-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "57390-malep-1_playmogo_sub": "https://playmogo.com/e/its0f08e4exu",
+          "57390-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "57390-malep-1_vibeplayer_hsub": "https://vibeplayer.site/153fd1a757b2d83e",
+          "57390-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/153fd1a757b2d83e/master.m3u8"
+        },
+        "StreamHG": {
+          "57390-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b57d9n2qp7j3",
+          "57390-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "57390-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/kwkpjzpi0qsx",
+          "57390-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "57390-malep-1_playmogo_hsub": "https://playmogo.com/e/2048ej1k851e",
+          "57390-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
