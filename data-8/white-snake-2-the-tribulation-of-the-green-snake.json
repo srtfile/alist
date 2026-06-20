@@ -1,0 +1,57 @@
+{
+  "anime_name": "White Snake 2 The Tribulation Of The Green Snake",
+  "anime_url": "https://hianime.ad/anime/white-snake-2-the-tribulation-of-the-green-snake",
+  "slug": "white-snake-2-the-tribulation-of-the-green-snake",
+  "mal_id": 18245,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:12:10",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "White Album",
+      "episode_url": "https://hianime.ad/watch/white-snake-2-the-tribulation-of-the-green-snake/ep-1",
+      "sub": {
+        "HD-1": {
+          "18245-malep-1_vibeplayer_sub": "https://vibeplayer.site/6ed68b99905e64a0",
+          "18245-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6ed68b99905e64a0/master.m3u8"
+        },
+        "Earnvids": {
+          "18245-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i5ynox9k610z",
+          "18245-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "18245-malep-1_vibeplayer_dub": "https://vibeplayer.site/16f25a70a0a85037",
+          "18245-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/16f25a70a0a85037/master.m3u8"
+        },
+        "Earnvids": {
+          "18245-malep-1_otakuvid_dub": "https://otakuvid.online/embed/vq73a296dguz",
+          "18245-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "18245-malep-1_playmogo_dub": "https://playmogo.com/e/olyc9bfyhn6u",
+          "18245-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "18245-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bcb0f6c6282d43ba",
+          "18245-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bcb0f6c6282d43ba/master.m3u8"
+        },
+        "StreamHG": {
+          "18245-malep-1_otakuhg_hsub": "https://otakuhg.site/e/ycj6hgdb4yro",
+          "18245-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18245-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/9tl1oce82r6l",
+          "18245-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18245-malep-1_playmogo_hsub": "https://playmogo.com/e/euh6gthrp181",
+          "18245-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
