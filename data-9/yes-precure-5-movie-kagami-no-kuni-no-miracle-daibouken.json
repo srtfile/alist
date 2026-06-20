@@ -1,0 +1,53 @@
+{
+  "anime_name": "Yes Precure 5 Movie Kagami No Kuni No Miracle Daibouken",
+  "anime_url": "https://hianime.ad/anime/yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken",
+  "slug": "yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken",
+  "mal_id": 1932,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:38:25",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The PreCure of Hope is Born!",
+      "episode_url": "https://hianime.ad/watch/yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken/ep-1",
+      "sub": {
+        "HD-1": {
+          "1932-malep-1_vibeplayer_sub": "https://vibeplayer.site/add072766e302130",
+          "1932-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/add072766e302130/master.m3u8"
+        },
+        "Earnvids": {
+          "1932-malep-1_otakuvid_sub": "https://otakuvid.online/embed/d358cp62eksb",
+          "1932-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "1932-malep-1_playmogo_sub": "https://playmogo.com/e/yfu08g8s1ooq",
+          "1932-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "1932-malep-1_vibeplayer_dub": "https://vibeplayer.site/18fd824efb94b2c9",
+          "1932-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/18fd824efb94b2c9/master.m3u8"
+        },
+        "Earnvids": {
+          "1932-malep-1_otakuvid_dub": "https://otakuvid.online/embed/9x1b9l5hxzss",
+          "1932-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "1932-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1e48ea2d809b0e75",
+          "1932-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1e48ea2d809b0e75/master.m3u8"
+        },
+        "Earnvids": {
+          "1932-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5eoo03z57l5l",
+          "1932-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "1932-malep-1_playmogo_hsub": "https://playmogo.com/e/wqjcdx9bhd8f",
+          "1932-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
