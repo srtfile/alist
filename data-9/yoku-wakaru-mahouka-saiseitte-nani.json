@@ -1,0 +1,40 @@
+{
+  "anime_name": "Yoku Wakaru Mahouka Saiseitte Nani",
+  "anime_url": "https://hianime.ad/anime/yoku-wakaru-mahouka-saiseitte-nani",
+  "slug": "yoku-wakaru-mahouka-saiseitte-nani",
+  "mal_id": 5454,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:48:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Hello, World",
+      "episode_url": "https://hianime.ad/watch/yoku-wakaru-mahouka-saiseitte-nani/ep-1",
+      "sub": {
+        "HD-1": {
+          "5454-malep-1_vibeplayer_sub": "https://vibeplayer.site/65fc246486d081c9",
+          "5454-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/65fc246486d081c9/master.m3u8"
+        },
+        "Earnvids": {
+          "5454-malep-1_otakuvid_sub": "https://otakuvid.online/embed/cg6ph3geiepm",
+          "5454-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "5454-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4008e2e7d7bb9747",
+          "5454-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4008e2e7d7bb9747/master.m3u8"
+        },
+        "Earnvids": {
+          "5454-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mc8e797j0qni",
+          "5454-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "5454-malep-1_playmogo_hsub": "https://playmogo.com/e/08t6c9v2ngzs",
+          "5454-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
