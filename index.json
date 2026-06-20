@@ -6918,5 +6918,15 @@
     "captured_at": "2026-06-20T13:15:45",
     "file": "data-8/waiting-in-the-summer.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/waiting-in-the-summer.json"
+  },
+  {
+    "slug": "wakakozake",
+    "mal_id": 30437,
+    "anime_name": "Wakakozake",
+    "anime_url": "https://hianime.ad/anime/wakakozake",
+    "total_episodes": 12,
+    "captured_at": "2026-06-20T13:16:15",
+    "file": "data-8/wakakozake.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/wakakozake.json"
   }
 ]
