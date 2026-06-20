@@ -1,0 +1,48 @@
+{
+  "anime_name": "Whats Michael 2",
+  "anime_url": "https://hianime.ad/anime/whats-michael-2",
+  "slug": "whats-michael-2",
+  "mal_id": 12039,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T13:59:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "OVA",
+      "episode_url": "https://hianime.ad/watch/whats-michael-2/ep-1",
+      "sub": {
+        "HD-1": {
+          "12039-malep-1_vibeplayer_sub": "https://vibeplayer.site/c4d0aa2f821a206a",
+          "12039-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c4d0aa2f821a206a/master.m3u8"
+        },
+        "StreamHG": {
+          "12039-malep-1_otakuhg_sub": "https://otakuhg.site/e/yejxcx5ntxpe",
+          "12039-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "12039-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vh882c6wegne",
+          "12039-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "12039-malep-1_playmogo_sub": "https://playmogo.com/e/kqhxurpjjvuc",
+          "12039-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12039-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ad0ab4be5b76d97d",
+          "12039-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ad0ab4be5b76d97d/master.m3u8"
+        },
+        "Earnvids": {
+          "12039-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/krcymz3ho988",
+          "12039-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12039-malep-1_playmogo_hsub": "https://playmogo.com/e/9fy5t2omxrbg",
+          "12039-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
