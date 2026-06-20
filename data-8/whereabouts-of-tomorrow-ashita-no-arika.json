@@ -1,0 +1,44 @@
+{
+  "anime_name": "Whereabouts Of Tomorrow Ashita No Arika",
+  "anime_url": "https://hianime.ad/anime/whereabouts-of-tomorrow-ashita-no-arika",
+  "slug": "whereabouts-of-tomorrow-ashita-no-arika",
+  "mal_id": 8630,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:05:55",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/whereabouts-of-tomorrow-ashita-no-arika/ep-1",
+      "sub": {
+        "HD-1": {
+          "8630-malep-1_vibeplayer_sub": "https://vibeplayer.site/b96e3e7de0fe4fbc",
+          "8630-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b96e3e7de0fe4fbc/master.m3u8"
+        },
+        "StreamHG": {
+          "8630-malep-1_otakuhg_sub": "https://otakuhg.site/e/jhk94i72w5t6",
+          "8630-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "8630-malep-1_otakuvid_sub": "https://otakuvid.online/embed/58jqql82k7du",
+          "8630-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "8630-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7c7baef1181ae589",
+          "8630-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7c7baef1181ae589/master.m3u8"
+        },
+        "Earnvids": {
+          "8630-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/rh35gigntxmz",
+          "8630-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "8630-malep-1_playmogo_hsub": "https://playmogo.com/e/kkd230ka8gb6",
+          "8630-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
