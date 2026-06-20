@@ -1,0 +1,52 @@
+{
+  "anime_name": "You And Idol Precure Movie",
+  "anime_url": "https://hianime.ad/anime/you-and-idol-precure-movie",
+  "slug": "you-and-idol-precure-movie",
+  "mal_id": 60407,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:53:49",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Cure Idol Debuts!",
+      "episode_url": "https://hianime.ad/watch/you-and-idol-precure-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "60407-malep-1_vibeplayer_sub": "https://vibeplayer.site/abaec12a24d68ac1",
+          "60407-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/abaec12a24d68ac1/master.m3u8"
+        },
+        "StreamHG": {
+          "60407-malep-1_otakuhg_sub": "https://otakuhg.site/e/fw4ed67wv3t9",
+          "60407-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "60407-malep-1_otakuvid_sub": "https://otakuvid.online/embed/qmp4xy8kiwb9",
+          "60407-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "60407-malep-1_playmogo_sub": "https://playmogo.com/e/1jdk8fkzmgdf",
+          "60407-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "60407-malep-1_vibeplayer_hsub": "https://vibeplayer.site/07ea47d61290e5f4",
+          "60407-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/07ea47d61290e5f4/master.m3u8"
+        },
+        "StreamHG": {
+          "60407-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9kt0we3beoby",
+          "60407-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "60407-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/py752bbziir3",
+          "60407-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "60407-malep-1_playmogo_hsub": "https://playmogo.com/e/o8raf3tnesiw",
+          "60407-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
