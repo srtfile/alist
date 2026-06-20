@@ -1,0 +1,61 @@
+{
+  "anime_name": "Words Bubble Up Like Soda Pop",
+  "anime_url": "https://hianime.ad/anime/words-bubble-up-like-soda-pop",
+  "slug": "words-bubble-up-like-soda-pop",
+  "mal_id": 6203,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:41:44",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Whispered Words",
+      "episode_url": "https://hianime.ad/watch/words-bubble-up-like-soda-pop/ep-1",
+      "sub": {
+        "HD-1": {
+          "6203-malep-1_vibeplayer_sub": "https://vibeplayer.site/79105647431e6652",
+          "6203-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79105647431e6652/master.m3u8"
+        },
+        "StreamHG": {
+          "6203-malep-1_otakuhg_sub": "https://otakuhg.site/e/epj8unn8qib0",
+          "6203-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6203-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uecz04ofjnl6",
+          "6203-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "6203-malep-1_vibeplayer_dub": "https://vibeplayer.site/ea9324d0d435d36f",
+          "6203-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/ea9324d0d435d36f/master.m3u8"
+        },
+        "StreamHG": {
+          "6203-malep-1_otakuhg_dub": "https://otakuhg.site/e/57md1sywbddl",
+          "6203-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "6203-malep-1_otakuvid_dub": "https://otakuvid.online/embed/n8jgxhiuangy",
+          "6203-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "6203-malep-1_vibeplayer_hsub": "https://vibeplayer.site/69d9d5a165c186d2",
+          "6203-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/69d9d5a165c186d2/master.m3u8"
+        },
+        "StreamHG": {
+          "6203-malep-1_otakuhg_hsub": "https://otakuhg.site/e/b06cxhsf4vhj",
+          "6203-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6203-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/wv8pzg5se982",
+          "6203-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6203-malep-1_playmogo_hsub": "https://playmogo.com/e/o1znbn70az8q",
+          "6203-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
