@@ -8648,5 +8648,15 @@
     "captured_at": "2026-06-20T14:57:30",
     "file": "data-8/www-wagnaria.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/www-wagnaria.json"
+  },
+  {
+    "slug": "x-the-movie",
+    "mal_id": 156,
+    "anime_name": "X The Movie",
+    "anime_url": "https://hianime.ad/anime/x-the-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-20T14:58:03",
+    "file": "data-8/x-the-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-8/x-the-movie.json"
   }
 ]
