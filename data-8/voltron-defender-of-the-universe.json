@@ -4,7 +4,7 @@
   "slug": "voltron-defender-of-the-universe",
   "mal_id": 1448,
   "total_episodes": 52,
-  "captured_at": "2026-06-19T23:27:00",
+  "captured_at": "2026-06-20T13:08:20",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -1124,31 +1124,9 @@
     {
       "episode_title": "The Hypergravity Planetoid Trap",
       "episode_url": "https://hianime.ad/watch/voltron-defender-of-the-universe/ep-39",
-      "sub": {
-        "HD-1": {
-          "1448-malep-39_vibeplayer_sub": "https://vibeplayer.site/8342d8a5862ea2ee",
-          "1448-malep-39_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8342d8a5862ea2ee/master.m3u8"
-        },
-        "Earnvids": {
-          "1448-malep-39_otakuvid_sub": "https://otakuvid.online/embed/enbpkzlgrzkd",
-          "1448-malep-39_otakuvid_sub_m3u8": null
-        }
-      },
+      "sub": {},
       "dub": {},
-      "hsub": {
-        "HD-1": {
-          "1448-malep-39_vibeplayer_hsub": "https://vibeplayer.site/d40b1c063b778f0e",
-          "1448-malep-39_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d40b1c063b778f0e/master.m3u8"
-        },
-        "Earnvids": {
-          "1448-malep-39_otakuvid_hsub": "https://otakuvid.online/embed/22zi8kscqjht",
-          "1448-malep-39_otakuvid_hsub_m3u8": null
-        },
-        "Doodstream": {
-          "1448-malep-39_playmogo_hsub": "https://playmogo.com/e/eyadk7fybsxw",
-          "1448-malep-39_playmogo_hsub_m3u8": null
-        }
-      }
+      "hsub": {}
     },
     {
       "episode_title": "No Tomorrow for Altea",
