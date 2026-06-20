@@ -1,0 +1,52 @@
+{
+  "anime_name": "Yes Precure 5 Gogo Movie Okashi No Kuni No Happy Birthday",
+  "anime_url": "https://hianime.ad/anime/yes-precure-5-gogo-movie-okashi-no-kuni-no-happy-birthday",
+  "slug": "yes-precure-5-gogo-movie-okashi-no-kuni-no-happy-birthday",
+  "mal_id": 3692,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T15:38:04",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Return! PreCure 5!",
+      "episode_url": "https://hianime.ad/watch/yes-precure-5-gogo-movie-okashi-no-kuni-no-happy-birthday/ep-1",
+      "sub": {
+        "HD-1": {
+          "3692-malep-1_vibeplayer_sub": "https://vibeplayer.site/956162a22a3d98fa",
+          "3692-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/956162a22a3d98fa/master.m3u8"
+        },
+        "StreamHG": {
+          "3692-malep-1_otakuhg_sub": "https://otakuhg.site/e/vpi09z8e7ecd",
+          "3692-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "3692-malep-1_otakuvid_sub": "https://otakuvid.online/embed/g4oas4kxen4a",
+          "3692-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "3692-malep-1_playmogo_sub": "https://playmogo.com/e/hygp6xcb16jk",
+          "3692-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "3692-malep-1_vibeplayer_hsub": "https://vibeplayer.site/1b16a82a91e6bc7c",
+          "3692-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/1b16a82a91e6bc7c/master.m3u8"
+        },
+        "StreamHG": {
+          "3692-malep-1_otakuhg_hsub": "https://otakuhg.site/e/cmua5avycxv9",
+          "3692-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "3692-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/mwcld0gbl6dr",
+          "3692-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "3692-malep-1_playmogo_hsub": "https://playmogo.com/e/u3v3i21fmtqf",
+          "3692-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
