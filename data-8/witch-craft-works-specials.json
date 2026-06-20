@@ -1,0 +1,52 @@
+{
+  "anime_name": "Witch Craft Works Specials",
+  "anime_url": "https://hianime.ad/anime/witch-craft-works-specials",
+  "slug": "witch-craft-works-specials",
+  "mal_id": 21085,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:23:36",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Takamiya-kun and the Fire Witch",
+      "episode_url": "https://hianime.ad/watch/witch-craft-works-specials/ep-1",
+      "sub": {
+        "HD-1": {
+          "21085-malep-1_vibeplayer_sub": "https://vibeplayer.site/79daa1557a8b3fc5",
+          "21085-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/79daa1557a8b3fc5/master.m3u8"
+        },
+        "StreamHG": {
+          "21085-malep-1_otakuhg_sub": "https://otakuhg.site/e/crwy2ovy4n61",
+          "21085-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21085-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4797p42y9zng",
+          "21085-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "21085-malep-1_playmogo_sub": "https://playmogo.com/e/is39z8bfw7xr",
+          "21085-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21085-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8f2c1d9c6d59a8b6",
+          "21085-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8f2c1d9c6d59a8b6/master.m3u8"
+        },
+        "StreamHG": {
+          "21085-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s8wdlz2sat2b",
+          "21085-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "21085-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w7k5skzwfe7m",
+          "21085-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21085-malep-1_playmogo_hsub": "https://playmogo.com/e/3rvlehltdmmd",
+          "21085-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
