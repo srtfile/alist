@@ -1,0 +1,52 @@
+{
+  "anime_name": "Working Lord Of The Takanashi",
+  "anime_url": "https://hianime.ad/anime/working-lord-of-the-takanashi",
+  "slug": "working-lord-of-the-takanashi",
+  "mal_id": 6956,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:43:06",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Welcome to Wagnaria: Takanashi Works.",
+      "episode_url": "https://hianime.ad/watch/working-lord-of-the-takanashi/ep-1",
+      "sub": {
+        "HD-1": {
+          "6956-malep-1_vibeplayer_sub": "https://vibeplayer.site/b53983c2f89c706d",
+          "6956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b53983c2f89c706d/master.m3u8"
+        },
+        "StreamHG": {
+          "6956-malep-1_otakuhg_sub": "https://otakuhg.site/e/4s9h7hp3kzkk",
+          "6956-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "6956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y14idyopxme6",
+          "6956-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6956-malep-1_playmogo_sub": "https://playmogo.com/e/0hp2e646mc7t",
+          "6956-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/33f5d81f9b7eb5fe",
+          "6956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/33f5d81f9b7eb5fe/master.m3u8"
+        },
+        "StreamHG": {
+          "6956-malep-1_otakuhg_hsub": "https://otakuhg.site/e/be8xt6i50736",
+          "6956-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "6956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/dzv2hpxxpggl",
+          "6956-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6956-malep-1_playmogo_hsub": "https://playmogo.com/e/5zvhl9t12tp9",
+          "6956-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
