@@ -1,0 +1,44 @@
+{
+  "anime_name": "Xabungle Graffiti",
+  "anime_url": "https://hianime.ad/anime/xabungle-graffiti",
+  "slug": "xabungle-graffiti",
+  "mal_id": 24629,
+  "total_episodes": 1,
+  "captured_at": "2026-06-20T14:59:08",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Warm, Juicy.",
+      "episode_url": "https://hianime.ad/watch/xabungle-graffiti/ep-1",
+      "sub": {
+        "HD-1": {
+          "24629-malep-1_vibeplayer_sub": "https://vibeplayer.site/9eeb57bc15c93504",
+          "24629-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/9eeb57bc15c93504/master.m3u8"
+        },
+        "Earnvids": {
+          "24629-malep-1_otakuvid_sub": "https://otakuvid.online/embed/29uy47tu5854",
+          "24629-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "24629-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e38488a80bac7d2b",
+          "24629-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e38488a80bac7d2b/master.m3u8"
+        },
+        "StreamHG": {
+          "24629-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9dutpnnlxmoq",
+          "24629-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "24629-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y42iwy5ykjr2",
+          "24629-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "24629-malep-1_playmogo_hsub": "https://playmogo.com/e/tuqm5iz2obck",
+          "24629-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
