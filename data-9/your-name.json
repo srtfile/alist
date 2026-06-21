@@ -1,0 +1,65 @@
+{
+  "anime_name": "Your Name",
+  "anime_url": "https://hianime.ad/anime/your-name",
+  "slug": "your-name",
+  "mal_id": 61839,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:37:29",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "My Childhood Friend Refuses to Accept Defeat",
+      "episode_url": "https://hianime.ad/watch/your-name/ep-1",
+      "sub": {
+        "HD-1": {
+          "61839-malep-1_vibeplayer_sub": "https://vibeplayer.site/3961275e21cd7820",
+          "61839-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3961275e21cd7820/master.m3u8"
+        },
+        "StreamHG": {
+          "61839-malep-1_otakuhg_sub": "https://otakuhg.site/e/vjugejbr5a21",
+          "61839-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "61839-malep-1_otakuvid_sub": "https://otakuvid.online/embed/jn56sfs867ri",
+          "61839-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "61839-malep-1_playmogo_sub": "https://playmogo.com/e/il027ysqr9jt",
+          "61839-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "61839-malep-1_vibeplayer_dub": "https://vibeplayer.site/542fddd2e92ff4a4",
+          "61839-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/542fddd2e92ff4a4/master.m3u8"
+        },
+        "StreamHG": {
+          "61839-malep-1_otakuhg_dub": "https://otakuhg.site/e/hpl4l8uabx0i",
+          "61839-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "61839-malep-1_otakuvid_dub": "https://otakuvid.online/embed/buv4jr8fumzd",
+          "61839-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "61839-malep-1_vibeplayer_hsub": "https://vibeplayer.site/40e99949c6d75dcc",
+          "61839-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/40e99949c6d75dcc/master.m3u8"
+        },
+        "StreamHG": {
+          "61839-malep-1_otakuhg_hsub": "https://otakuhg.site/e/s2zjfl1cv97i",
+          "61839-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "61839-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/l7mznckdxnfl",
+          "61839-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "61839-malep-1_playmogo_hsub": "https://playmogo.com/e/h8e3thrvizw7",
+          "61839-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
