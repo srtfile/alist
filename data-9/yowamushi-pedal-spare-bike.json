@@ -1,0 +1,44 @@
+{
+  "anime_name": "Yowamushi Pedal Spare Bike",
+  "anime_url": "https://hianime.ad/anime/yowamushi-pedal-spare-bike",
+  "slug": "yowamushi-pedal-spare-bike",
+  "mal_id": 18179,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:43:47",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Because I Can Go to Akiba for Free",
+      "episode_url": "https://hianime.ad/watch/yowamushi-pedal-spare-bike/ep-1",
+      "sub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_sub": "https://vibeplayer.site/18b4f17653e0f73e",
+          "18179-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/18b4f17653e0f73e/master.m3u8"
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_sub": "https://otakuvid.online/embed/pwgjjettkgqm",
+          "18179-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_hsub": "https://vibeplayer.site/0ab54be3c5e1ebca",
+          "18179-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0ab54be3c5e1ebca/master.m3u8"
+        },
+        "StreamHG": {
+          "18179-malep-1_otakuhg_hsub": "https://otakuhg.site/e/77462u65dh4v",
+          "18179-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/nd2gt7pfs6wl",
+          "18179-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18179-malep-1_playmogo_hsub": "https://playmogo.com/e/rfkyow8qcp7q",
+          "18179-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
