@@ -1,0 +1,99 @@
+{
+  "anime_name": "Yuukoku No Moriarty Ova",
+  "anime_url": "https://hianime.ad/anime/yuukoku-no-moriarty-ova",
+  "slug": "yuukoku-no-moriarty-ova",
+  "mal_id": 40911,
+  "total_episodes": 2,
+  "captured_at": "2026-06-21T10:26:27",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Earl's Crime",
+      "episode_url": "https://hianime.ad/watch/yuukoku-no-moriarty-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "40911-malep-1_vibeplayer_sub": "https://vibeplayer.site/88418694f8d5ad16",
+          "40911-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/88418694f8d5ad16/master.m3u8"
+        },
+        "Earnvids": {
+          "40911-malep-1_otakuvid_sub": "https://otakuvid.online/embed/clm37mt9zs5s",
+          "40911-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "40911-malep-1_vibeplayer_dub": "https://vibeplayer.site/f305a57bfbbf103a",
+          "40911-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/f305a57bfbbf103a/master.m3u8"
+        },
+        "StreamHG": {
+          "40911-malep-1_otakuhg_dub": "https://otakuhg.site/e/vwduru9v7pf2",
+          "40911-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "40911-malep-1_otakuvid_dub": "https://otakuvid.online/embed/c7dblepwrh5l",
+          "40911-malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "40911-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7f9ccaa3ad89d82e",
+          "40911-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7f9ccaa3ad89d82e/master.m3u8"
+        },
+        "StreamHG": {
+          "40911-malep-1_otakuhg_hsub": "https://otakuhg.site/e/f65c243zulto",
+          "40911-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40911-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/q9x0hozk9xan",
+          "40911-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40911-malep-1_playmogo_hsub": "https://playmogo.com/e/n7rqttqj9r3h",
+          "40911-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Scarlet Eyes Act 1",
+      "episode_url": "https://hianime.ad/watch/yuukoku-no-moriarty-ova/ep-2",
+      "sub": {
+        "HD-1": {
+          "40911-malep-2_vibeplayer_sub": "https://vibeplayer.site/6f5c9f43d3520f3b",
+          "40911-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6f5c9f43d3520f3b/master.m3u8"
+        },
+        "Earnvids": {
+          "40911-malep-2_otakuvid_sub": "https://otakuvid.online/embed/uuwbfwyxmcbf",
+          "40911-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "40911-malep-2_vibeplayer_dub": "https://vibeplayer.site/bb9fe4704b145358",
+          "40911-malep-2_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/bb9fe4704b145358/master.m3u8"
+        },
+        "Earnvids": {
+          "40911-malep-2_otakuvid_dub": "https://otakuvid.online/embed/csnppoi2x7sc",
+          "40911-malep-2_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "40911-malep-2_vibeplayer_hsub": "https://vibeplayer.site/8d2ba38512c98c2a",
+          "40911-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8d2ba38512c98c2a/master.m3u8"
+        },
+        "StreamHG": {
+          "40911-malep-2_otakuhg_hsub": "https://otakuhg.site/e/i0n60e69ycpp",
+          "40911-malep-2_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "40911-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/b7gz78zg59f8",
+          "40911-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40911-malep-2_playmogo_hsub": "https://playmogo.com/e/5xocfy5t5d9z",
+          "40911-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
