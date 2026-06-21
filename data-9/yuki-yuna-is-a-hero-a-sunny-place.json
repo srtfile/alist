@@ -1,0 +1,52 @@
+{
+  "anime_name": "Yuki Yuna Is A Hero A Sunny Place",
+  "anime_url": "https://hianime.ad/anime/yuki-yuna-is-a-hero-a-sunny-place",
+  "slug": "yuki-yuna-is-a-hero-a-sunny-place",
+  "mal_id": 25519,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:10:39",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Maiden's True Heart",
+      "episode_url": "https://hianime.ad/watch/yuki-yuna-is-a-hero-a-sunny-place/ep-1",
+      "sub": {
+        "HD-1": {
+          "25519-malep-1_vibeplayer_sub": "https://vibeplayer.site/3deb627f11dfca62",
+          "25519-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3deb627f11dfca62/master.m3u8"
+        },
+        "StreamHG": {
+          "25519-malep-1_otakuhg_sub": "https://otakuhg.site/e/xzl73qm23eqn",
+          "25519-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "25519-malep-1_otakuvid_sub": "https://otakuvid.online/embed/2tso1rjhn086",
+          "25519-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "25519-malep-1_playmogo_sub": "https://playmogo.com/e/hdz6ug12eixd",
+          "25519-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "25519-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ae46e4bbd09f7e84",
+          "25519-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ae46e4bbd09f7e84/master.m3u8"
+        },
+        "StreamHG": {
+          "25519-malep-1_otakuhg_hsub": "https://otakuhg.site/e/22idv32tqbi5",
+          "25519-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "25519-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ukx427td1h2h",
+          "25519-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "25519-malep-1_playmogo_hsub": "https://playmogo.com/e/djnmpchpukcl",
+          "25519-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
