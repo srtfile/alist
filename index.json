@@ -10878,5 +10878,15 @@
     "captured_at": "2026-06-21T10:36:01",
     "file": "data-9/zekkyou-gakkyuu-tensei.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zekkyou-gakkyuu-tensei.json"
+  },
+  {
+    "slug": "zenki",
+    "mal_id": 1573,
+    "anime_name": "Zenki",
+    "anime_url": "https://hianime.ad/anime/zenki",
+    "total_episodes": 51,
+    "captured_at": "2026-06-21T10:36:20",
+    "file": "data-9/zenki.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zenki.json"
   }
 ]
