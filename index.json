@@ -10228,5 +10228,15 @@
     "captured_at": "2026-06-21T10:01:00",
     "file": "data-9/yu-gi-oh-vrains.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yu-gi-oh-vrains.json"
+  },
+  {
+    "slug": "yu-gi-oh-zexal",
+    "mal_id": 10015,
+    "anime_name": "Yu Gi Oh Zexal",
+    "anime_url": "https://hianime.ad/anime/yu-gi-oh-zexal",
+    "total_episodes": 73,
+    "captured_at": "2026-06-21T10:03:02",
+    "file": "data-9/yu-gi-oh-zexal.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yu-gi-oh-zexal.json"
   }
 ]
