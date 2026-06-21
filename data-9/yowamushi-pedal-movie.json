@@ -1,0 +1,44 @@
+{
+  "anime_name": "Yowamushi Pedal Movie",
+  "anime_url": "https://hianime.ad/anime/yowamushi-pedal-movie",
+  "slug": "yowamushi-pedal-movie",
+  "mal_id": 18179,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:41:23",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Because I Can Go to Akiba for Free",
+      "episode_url": "https://hianime.ad/watch/yowamushi-pedal-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_sub": "https://vibeplayer.site/43a2164af0f14a4c",
+          "18179-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/43a2164af0f14a4c/master.m3u8"
+        },
+        "StreamHG": {
+          "18179-malep-1_otakuhg_sub": "https://otakuhg.site/e/ewsbih01stlz",
+          "18179-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_sub": "https://otakuvid.online/embed/y54oo43nzah5",
+          "18179-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_hsub": "https://vibeplayer.site/c0bd53410fe66521",
+          "18179-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c0bd53410fe66521/master.m3u8"
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5ukz41ja4zzu",
+          "18179-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18179-malep-1_playmogo_hsub": "https://playmogo.com/e/s6y2c7usy3wg",
+          "18179-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
