@@ -1,0 +1,44 @@
+{
+  "anime_name": "Youkai Watch Movie 3 Soratobu Kujira To Double Sekai No Daibouken Da Nyan",
+  "anime_url": "https://hianime.ad/anime/youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan",
+  "slug": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan",
+  "mal_id": 19157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:33:16",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yo-kai Are Real! / The Spooky Intersection",
+      "episode_url": "https://hianime.ad/watch/youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan/ep-1",
+      "sub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_sub": "https://vibeplayer.site/42f2ed4d6db146b3",
+          "19157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42f2ed4d6db146b3/master.m3u8"
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/flozpvq75az6",
+          "19157-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/710c27774fb91479",
+          "19157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/710c27774fb91479/master.m3u8"
+        },
+        "StreamHG": {
+          "19157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/qsd3lfrt07dj",
+          "19157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/lxby7dro8phm",
+          "19157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_hsub": "https://playmogo.com/e/rze86y2wpu01",
+          "19157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
