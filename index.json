@@ -10518,5 +10518,15 @@
     "captured_at": "2026-06-21T10:17:37",
     "file": "data-9/yuru-camp-movie.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yuru-camp-movie.json"
+  },
+  {
+    "slug": "yuru-camp-specials",
+    "mal_id": 34798,
+    "anime_name": "Yuru Camp Specials",
+    "anime_url": "https://hianime.ad/anime/yuru-camp-specials",
+    "total_episodes": 3,
+    "captured_at": "2026-06-21T10:17:53",
+    "file": "data-9/yuru-camp-specials.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yuru-camp-specials.json"
   }
 ]
