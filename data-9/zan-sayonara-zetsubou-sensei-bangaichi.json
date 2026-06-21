@@ -1,0 +1,77 @@
+{
+  "anime_name": "Zan Sayonara Zetsubou Sensei Bangaichi",
+  "anime_url": "https://hianime.ad/anime/zan-sayonara-zetsubou-sensei-bangaichi",
+  "slug": "zan-sayonara-zetsubou-sensei-bangaichi",
+  "mal_id": 6377,
+  "total_episodes": 2,
+  "captured_at": "2026-06-21T10:29:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/zan-sayonara-zetsubou-sensei-bangaichi/ep-1",
+      "sub": {
+        "HD-1": {
+          "6377-malep-1_vibeplayer_sub": "https://vibeplayer.site/586234fc1a5dc54d",
+          "6377-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/586234fc1a5dc54d/master.m3u8"
+        },
+        "Earnvids": {
+          "6377-malep-1_otakuvid_sub": "https://otakuvid.online/embed/08q7d7dui75w",
+          "6377-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6377-malep-1_playmogo_sub": "https://playmogo.com/e/i7v77i9u3ene",
+          "6377-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6377-malep-1_vibeplayer_hsub": "https://vibeplayer.site/41e168cfe01e85b4",
+          "6377-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/41e168cfe01e85b4/master.m3u8"
+        },
+        "Earnvids": {
+          "6377-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/fdevmt3k7cdc",
+          "6377-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6377-malep-1_playmogo_hsub": "https://playmogo.com/e/bxm22lqaieof",
+          "6377-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Episode 2",
+      "episode_url": "https://hianime.ad/watch/zan-sayonara-zetsubou-sensei-bangaichi/ep-2",
+      "sub": {
+        "HD-1": {
+          "6377-malep-2_vibeplayer_sub": "https://vibeplayer.site/ea6db06ee04b8c9d",
+          "6377-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/ea6db06ee04b8c9d/master.m3u8"
+        },
+        "Earnvids": {
+          "6377-malep-2_otakuvid_sub": "https://otakuvid.online/embed/s9e9hsuxc934",
+          "6377-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "6377-malep-2_playmogo_sub": "https://playmogo.com/e/7265pc3agwur",
+          "6377-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "6377-malep-2_vibeplayer_hsub": "https://vibeplayer.site/6ab81f173349b0a5",
+          "6377-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6ab81f173349b0a5/master.m3u8"
+        },
+        "Earnvids": {
+          "6377-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/d4skbsfklo0b",
+          "6377-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "6377-malep-2_playmogo_hsub": "https://playmogo.com/e/kfc6s9j9wjom",
+          "6377-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
