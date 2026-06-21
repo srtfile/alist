@@ -1,0 +1,44 @@
+{
+  "anime_name": "Zenonzard The Animation Ova",
+  "anime_url": "https://hianime.ad/anime/zenonzard-the-animation-ova",
+  "slug": "zenonzard-the-animation-ova",
+  "mal_id": 206,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:37:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Free Knight... A New Legend Begins",
+      "episode_url": "https://hianime.ad/watch/zenonzard-the-animation-ova/ep-1",
+      "sub": {
+        "HD-1": {
+          "206-malep-1_vibeplayer_sub": "https://vibeplayer.site/f6d2d67e2b04943c",
+          "206-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f6d2d67e2b04943c/master.m3u8"
+        },
+        "Earnvids": {
+          "206-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6ry39worqdcr",
+          "206-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "206-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6c78052b22d55b98",
+          "206-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6c78052b22d55b98/master.m3u8"
+        },
+        "StreamHG": {
+          "206-malep-1_otakuhg_hsub": "https://otakuhg.site/e/8r1kgikjw5qk",
+          "206-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "206-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/7thbte23zqs3",
+          "206-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "206-malep-1_playmogo_hsub": "https://playmogo.com/e/57zfudyi1ka4",
+          "206-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
