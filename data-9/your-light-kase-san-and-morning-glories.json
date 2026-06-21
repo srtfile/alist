@@ -1,0 +1,48 @@
+{
+  "anime_name": "Your Light Kase San And Morning Glories",
+  "anime_url": "https://hianime.ad/anime/your-light-kase-san-and-morning-glories",
+  "slug": "your-light-kase-san-and-morning-glories",
+  "mal_id": 62428,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:37:12",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Episode 1",
+      "episode_url": "https://hianime.ad/watch/your-light-kase-san-and-morning-glories/ep-1",
+      "sub": {
+        "HD-1": {
+          "62428-malep-1_vibeplayer_sub": "https://vibeplayer.site/49c0c7b37257f815",
+          "62428-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/49c0c7b37257f815/master.m3u8"
+        },
+        "Earnvids": {
+          "62428-malep-1_otakuvid_sub": "https://otakuvid.online/embed/yeljob2g5fax",
+          "62428-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "62428-malep-1_playmogo_sub": "https://playmogo.com/e/7t2igdfrovht",
+          "62428-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "62428-malep-1_vibeplayer_hsub": "https://vibeplayer.site/8cdb32650bcd6c6a",
+          "62428-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/8cdb32650bcd6c6a/master.m3u8"
+        },
+        "StreamHG": {
+          "62428-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jzxo0asxvias",
+          "62428-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "62428-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/bfeb2b7oo346",
+          "62428-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "62428-malep-1_playmogo_hsub": "https://playmogo.com/e/04de0jdlk64x",
+          "62428-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
