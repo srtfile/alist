@@ -1,0 +1,44 @@
+{
+  "anime_name": "Zoku Naniwa Yuukyouden",
+  "anime_url": "https://hianime.ad/anime/zoku-naniwa-yuukyouden",
+  "slug": "zoku-naniwa-yuukyouden",
+  "mal_id": 21939,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:47:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Banquet at the Forest's Edge",
+      "episode_url": "https://hianime.ad/watch/zoku-naniwa-yuukyouden/ep-1",
+      "sub": {
+        "HD-1": {
+          "21939-malep-1_vibeplayer_sub": "https://vibeplayer.site/42df523df89a2cd9",
+          "21939-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/42df523df89a2cd9/master.m3u8"
+        },
+        "StreamHG": {
+          "21939-malep-1_otakuhg_sub": "https://otakuhg.site/e/udair3ehncfi",
+          "21939-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "21939-malep-1_otakuvid_sub": "https://otakuvid.online/embed/vza1cvc03i9n",
+          "21939-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "21939-malep-1_vibeplayer_hsub": "https://vibeplayer.site/5c2ec2541d5d1ae5",
+          "21939-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/5c2ec2541d5d1ae5/master.m3u8"
+        },
+        "Earnvids": {
+          "21939-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/y6ee27jilj63",
+          "21939-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "21939-malep-1_playmogo_hsub": "https://playmogo.com/e/fm2go01q7xmn",
+          "21939-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
