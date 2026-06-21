@@ -10298,5 +10298,15 @@
     "captured_at": "2026-06-21T10:06:34",
     "file": "data-9/yugioh-zexal-second.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yugioh-zexal-second.json"
+  },
+  {
+    "slug": "yugioh-sevens",
+    "mal_id": 40145,
+    "anime_name": "Yugioh Sevens",
+    "anime_url": "https://hianime.ad/anime/yugioh-sevens",
+    "total_episodes": 92,
+    "captured_at": "2026-06-21T10:07:54",
+    "file": "data-9/yugioh-sevens.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yugioh-sevens.json"
   }
 ]
