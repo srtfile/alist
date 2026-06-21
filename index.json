@@ -10778,5 +10778,15 @@
     "captured_at": "2026-06-21T10:29:43",
     "file": "data-9/zan-sayonara-zetsubou-sensei-bangaichi.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zan-sayonara-zetsubou-sensei-bangaichi.json"
+  },
+  {
+    "slug": "zatch-bell",
+    "mal_id": 250,
+    "anime_name": "Zatch Bell",
+    "anime_url": "https://hianime.ad/anime/zatch-bell",
+    "total_episodes": 150,
+    "captured_at": "2026-06-21T10:30:01",
+    "file": "data-9/zatch-bell.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zatch-bell.json"
   }
 ]
