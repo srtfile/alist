@@ -1,0 +1,44 @@
+{
+  "anime_name": "Yowamushi Pedal Ova Special Ride",
+  "anime_url": "https://hianime.ad/anime/yowamushi-pedal-ova-special-ride",
+  "slug": "yowamushi-pedal-ova-special-ride",
+  "mal_id": 18179,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:41:40",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Because I Can Go to Akiba for Free",
+      "episode_url": "https://hianime.ad/watch/yowamushi-pedal-ova-special-ride/ep-1",
+      "sub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_sub": "https://vibeplayer.site/003849ee5b510f1a",
+          "18179-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/003849ee5b510f1a/master.m3u8"
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_sub": "https://otakuvid.online/embed/nv27u76iv1m2",
+          "18179-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "18179-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7897d2522892df0b",
+          "18179-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7897d2522892df0b/master.m3u8"
+        },
+        "StreamHG": {
+          "18179-malep-1_otakuhg_hsub": "https://otakuhg.site/e/0xph828m199p",
+          "18179-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "18179-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/eyhf4tytax8k",
+          "18179-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "18179-malep-1_playmogo_hsub": "https://playmogo.com/e/nlrzatmnjlox",
+          "18179-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
