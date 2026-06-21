@@ -1,0 +1,49 @@
+{
+  "anime_name": "Yuuyuuhakusho Picture Drama",
+  "anime_url": "https://hianime.ad/anime/yuuyuuhakusho-picture-drama",
+  "slug": "yuuyuuhakusho-picture-drama",
+  "mal_id": null,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:24:28",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/yuuyuuhakusho-picture-drama/ep-1",
+      "sub": {
+        "HD-1": {
+          "malep-1_vibeplayer_sub": "https://vibeplayer.site/5233bee2095bd8b2",
+          "malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/5233bee2095bd8b2/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_sub": "https://otakuvid.online/embed/dbh57dh3zeep",
+          "malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "malep-1_vibeplayer_dub": "https://vibeplayer.site/4ed3e7c404a2a00f",
+          "malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4ed3e7c404a2a00f/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_dub": "https://otakuvid.online/embed/i3s5toq7jd2f",
+          "malep-1_otakuvid_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "malep-1_vibeplayer_hsub": "https://vibeplayer.site/c61d759cef7e92a9",
+          "malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/c61d759cef7e92a9/master.m3u8"
+        },
+        "Earnvids": {
+          "malep-1_otakuvid_hsub": "https://otakuvid.online/embed/ucveoh4p5m37",
+          "malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "malep-1_playmogo_hsub": "https://playmogo.com/e/ffnu7h3874v9",
+          "malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
