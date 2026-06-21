@@ -1,0 +1,48 @@
+{
+  "anime_name": "Youkai Watch Movie 5 Forever Friends",
+  "anime_url": "https://hianime.ad/anime/youkai-watch-movie-5-forever-friends",
+  "slug": "youkai-watch-movie-5-forever-friends",
+  "mal_id": 19157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:33:33",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yo-kai Are Real! / The Spooky Intersection",
+      "episode_url": "https://hianime.ad/watch/youkai-watch-movie-5-forever-friends/ep-1",
+      "sub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_sub": "https://vibeplayer.site/6b89d9be325862a7",
+          "19157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/6b89d9be325862a7/master.m3u8"
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/6qtcuulw48ih",
+          "19157-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_sub": "https://playmogo.com/e/im75y8qzxbo7",
+          "19157-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/6be48700b994d52e",
+          "19157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/6be48700b994d52e/master.m3u8"
+        },
+        "StreamHG": {
+          "19157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/z2iu8k3wsrdv",
+          "19157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6zyl3cx5t4jd",
+          "19157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_hsub": "https://playmogo.com/e/mkuwtgf9jdh4",
+          "19157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
