@@ -1,0 +1,48 @@
+{
+  "anime_name": "Yuru Yuri Ten",
+  "anime_url": "https://hianime.ad/anime/yuru-yuri-ten",
+  "slug": "yuru-yuri-ten",
+  "mal_id": 12403,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:18:46",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Protagonist Returns",
+      "episode_url": "https://hianime.ad/watch/yuru-yuri-ten/ep-1",
+      "sub": {
+        "HD-1": {
+          "12403-malep-1_vibeplayer_sub": "https://vibeplayer.site/b43e6435f39185b2",
+          "12403-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/b43e6435f39185b2/master.m3u8"
+        },
+        "Earnvids": {
+          "12403-malep-1_otakuvid_sub": "https://otakuvid.online/embed/sb205lyvp1nv",
+          "12403-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "12403-malep-1_playmogo_sub": "https://playmogo.com/e/g2qzdsocaq69",
+          "12403-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "12403-malep-1_vibeplayer_hsub": "https://vibeplayer.site/4b7a048a675a9aed",
+          "12403-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/4b7a048a675a9aed/master.m3u8"
+        },
+        "StreamHG": {
+          "12403-malep-1_otakuhg_hsub": "https://otakuhg.site/e/zzg3mehwad4e",
+          "12403-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "12403-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/w4voaa5p5hcz",
+          "12403-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "12403-malep-1_playmogo_hsub": "https://playmogo.com/e/2h6pja8j1y2b",
+          "12403-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
