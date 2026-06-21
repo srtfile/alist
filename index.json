@@ -10168,5 +10168,15 @@
     "captured_at": "2026-06-21T09:48:43",
     "file": "data-9/yu-gi-oh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yu-gi-oh.json"
+  },
+  {
+    "slug": "yu-gi-oh-5ds",
+    "mal_id": 3972,
+    "anime_name": "Yu Gi Oh 5Ds",
+    "anime_url": "https://hianime.ad/anime/yu-gi-oh-5ds",
+    "total_episodes": 154,
+    "captured_at": "2026-06-21T09:52:18",
+    "file": "data-9/yu-gi-oh-5ds.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yu-gi-oh-5ds.json"
   }
 ]
