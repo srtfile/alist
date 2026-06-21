@@ -1,0 +1,48 @@
+{
+  "anime_name": "Yuki No Taiyou Pilot",
+  "anime_url": "https://hianime.ad/anime/yuki-no-taiyou-pilot",
+  "slug": "yuki-no-taiyou-pilot",
+  "mal_id": 58516,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:09:30",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Ambition",
+      "episode_url": "https://hianime.ad/watch/yuki-no-taiyou-pilot/ep-1",
+      "sub": {
+        "HD-1": {
+          "58516-malep-1_vibeplayer_sub": "https://vibeplayer.site/8e20fd149f9553da",
+          "58516-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/8e20fd149f9553da/master.m3u8"
+        },
+        "Earnvids": {
+          "58516-malep-1_otakuvid_sub": "https://otakuvid.online/embed/uzrfc6uasm28",
+          "58516-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "58516-malep-1_playmogo_sub": "https://playmogo.com/e/7s4ugr5cug7o",
+          "58516-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "58516-malep-1_vibeplayer_hsub": "https://vibeplayer.site/7e9f7f8179b784ed",
+          "58516-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/7e9f7f8179b784ed/master.m3u8"
+        },
+        "StreamHG": {
+          "58516-malep-1_otakuhg_hsub": "https://otakuhg.site/e/tqjng1gqiaf7",
+          "58516-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "58516-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/6j4bihrwch7c",
+          "58516-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "58516-malep-1_playmogo_hsub": "https://playmogo.com/e/ehw69qmumymj",
+          "58516-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
