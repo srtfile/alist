@@ -1,0 +1,48 @@
+{
+  "anime_name": "Youkai Watch Movie 6 Youkai Gakuen Y Neko Wa Hero Ni Nareru Ka",
+  "anime_url": "https://hianime.ad/anime/youkai-watch-movie-6-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka",
+  "slug": "youkai-watch-movie-6-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka",
+  "mal_id": 19157,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:33:51",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Yo-kai Are Real! / The Spooky Intersection",
+      "episode_url": "https://hianime.ad/watch/youkai-watch-movie-6-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka/ep-1",
+      "sub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_sub": "https://vibeplayer.site/61ff44b1f70eca05",
+          "19157-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/61ff44b1f70eca05/master.m3u8"
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_sub": "https://otakuvid.online/embed/900qrdzqpr4i",
+          "19157-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_sub": "https://playmogo.com/e/67ai974x1ih2",
+          "19157-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "19157-malep-1_vibeplayer_hsub": "https://vibeplayer.site/e7fde6d8b7c58596",
+          "19157-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/e7fde6d8b7c58596/master.m3u8"
+        },
+        "StreamHG": {
+          "19157-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mauwcfq73trz",
+          "19157-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "19157-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/zn7hryot4vjj",
+          "19157-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "19157-malep-1_playmogo_hsub": "https://playmogo.com/e/nvrwfyr3utmn",
+          "19157-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
