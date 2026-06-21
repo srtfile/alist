@@ -1,0 +1,77 @@
+{
+  "anime_name": "Yuukan Club",
+  "anime_url": "https://hianime.ad/anime/yuukan-club",
+  "slug": "yuukan-club",
+  "mal_id": 853,
+  "total_episodes": 2,
+  "captured_at": "2026-06-21T10:25:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Starting Today, You Are a Host!",
+      "episode_url": "https://hianime.ad/watch/yuukan-club/ep-1",
+      "sub": {
+        "HD-1": {
+          "853-malep-1_vibeplayer_sub": "https://vibeplayer.site/f035ac21f8f3cd07",
+          "853-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/f035ac21f8f3cd07/master.m3u8"
+        },
+        "Earnvids": {
+          "853-malep-1_otakuvid_sub": "https://otakuvid.online/embed/i51t9zrwycvo",
+          "853-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "853-malep-1_playmogo_sub": "https://playmogo.com/e/ic87nrb2ms15",
+          "853-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "853-malep-1_vibeplayer_hsub": "https://vibeplayer.site/ecf0a814a335c1cf",
+          "853-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/ecf0a814a335c1cf/master.m3u8"
+        },
+        "Earnvids": {
+          "853-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/5s253jnlz9fb",
+          "853-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "853-malep-1_playmogo_hsub": "https://playmogo.com/e/ah6gci6ntpzv",
+          "853-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "The Job of a High School Host!",
+      "episode_url": "https://hianime.ad/watch/yuukan-club/ep-2",
+      "sub": {
+        "HD-1": {
+          "853-malep-2_vibeplayer_sub": "https://vibeplayer.site/630f90606af07639",
+          "853-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/630f90606af07639/master.m3u8"
+        },
+        "Earnvids": {
+          "853-malep-2_otakuvid_sub": "https://otakuvid.online/embed/ark05c4g1arn",
+          "853-malep-2_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "853-malep-2_playmogo_sub": "https://playmogo.com/e/7cob8qmvxpcf",
+          "853-malep-2_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "853-malep-2_vibeplayer_hsub": "https://vibeplayer.site/39bc9d64cc7067c4",
+          "853-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/39bc9d64cc7067c4/master.m3u8"
+        },
+        "Earnvids": {
+          "853-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/1yobd914kvc0",
+          "853-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "853-malep-2_playmogo_hsub": "https://playmogo.com/e/8z3ehdbmmzpe",
+          "853-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
