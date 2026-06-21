@@ -10758,5 +10758,15 @@
     "captured_at": "2026-06-21T10:28:50",
     "file": "data-9/zx-ignition.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zx-ignition.json"
+  },
+  {
+    "slug": "zakuro",
+    "mal_id": 8476,
+    "anime_name": "Zakuro",
+    "anime_url": "https://hianime.ad/anime/zakuro",
+    "total_episodes": 13,
+    "captured_at": "2026-06-21T10:29:16",
+    "file": "data-9/zakuro.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/zakuro.json"
   }
 ]
