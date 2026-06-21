@@ -1,0 +1,61 @@
+{
+  "anime_name": "Young Jack And The Witch",
+  "anime_url": "https://hianime.ad/anime/young-jack-and-the-witch",
+  "slug": "young-jack-and-the-witch",
+  "mal_id": 56230,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:35:38",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Grandpa and Grandma and the Sports Festival",
+      "episode_url": "https://hianime.ad/watch/young-jack-and-the-witch/ep-1",
+      "sub": {
+        "HD-1": {
+          "56230-malep-1_vibeplayer_sub": "https://vibeplayer.site/fb7016a8f4d5be6a",
+          "56230-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/fb7016a8f4d5be6a/master.m3u8"
+        },
+        "Earnvids": {
+          "56230-malep-1_otakuvid_sub": "https://otakuvid.online/embed/okf6wdy9kevp",
+          "56230-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "56230-malep-1_playmogo_sub": "https://playmogo.com/e/ckbdfcys2g50",
+          "56230-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {
+        "HD-1": {
+          "56230-malep-1_vibeplayer_dub": "https://vibeplayer.site/4b38ca16fa085292",
+          "56230-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4b38ca16fa085292/master.m3u8"
+        },
+        "Earnvids": {
+          "56230-malep-1_otakuvid_dub": "https://otakuvid.online/embed/wuyopxvdhb0w",
+          "56230-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "56230-malep-1_playmogo_dub": "https://playmogo.com/e/rbs32tt4kyj3",
+          "56230-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {
+        "HD-1": {
+          "56230-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d83705e6a8451ad9",
+          "56230-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d83705e6a8451ad9/master.m3u8"
+        },
+        "StreamHG": {
+          "56230-malep-1_otakuhg_hsub": "https://otakuhg.site/e/wtsj8bdgf1x2",
+          "56230-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "56230-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/126amf0k609x",
+          "56230-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "56230-malep-1_playmogo_hsub": "https://playmogo.com/e/jng992e4jtm1",
+          "56230-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
