@@ -1,0 +1,52 @@
+{
+  "anime_name": "Your Letter",
+  "anime_url": "https://hianime.ad/anime/your-letter",
+  "slug": "your-letter",
+  "mal_id": 55995,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:36:21",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mechanical Friends",
+      "episode_url": "https://hianime.ad/watch/your-letter/ep-1",
+      "sub": {
+        "HD-1": {
+          "55995-malep-1_vibeplayer_sub": "https://vibeplayer.site/e65f84ed19e539b3",
+          "55995-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/e65f84ed19e539b3/master.m3u8"
+        },
+        "StreamHG": {
+          "55995-malep-1_otakuhg_sub": "https://otakuhg.site/e/o7d95ua5xrli",
+          "55995-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "55995-malep-1_otakuvid_sub": "https://otakuvid.online/embed/v7sb70s0ve2r",
+          "55995-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "55995-malep-1_playmogo_sub": "https://playmogo.com/e/5kleas5up3bj",
+          "55995-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55995-malep-1_vibeplayer_hsub": "https://vibeplayer.site/bf264508ea7cd04c",
+          "55995-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/bf264508ea7cd04c/master.m3u8"
+        },
+        "StreamHG": {
+          "55995-malep-1_otakuhg_hsub": "https://otakuhg.site/e/9ycsxe1ns2je",
+          "55995-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55995-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/jrycclcj5omk",
+          "55995-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55995-malep-1_playmogo_hsub": "https://playmogo.com/e/8dku95xdifyx",
+          "55995-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
