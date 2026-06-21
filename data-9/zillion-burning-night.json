@@ -1,0 +1,40 @@
+{
+  "anime_name": "Zillion Burning Night",
+  "anime_url": "https://hianime.ad/anime/zillion-burning-night",
+  "slug": "zillion-burning-night",
+  "mal_id": 2688,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:43:03",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Full",
+      "episode_url": "https://hianime.ad/watch/zillion-burning-night/ep-1",
+      "sub": {
+        "HD-1": {
+          "2688-malep-1_vibeplayer_sub": "https://vibeplayer.site/10fc2fed3089abca",
+          "2688-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/10fc2fed3089abca/master.m3u8"
+        },
+        "Earnvids": {
+          "2688-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hiybw6vq6tkv",
+          "2688-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "2688-malep-1_vibeplayer_hsub": "https://vibeplayer.site/00eeba2ea3e43561",
+          "2688-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/00eeba2ea3e43561/master.m3u8"
+        },
+        "Earnvids": {
+          "2688-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/j53tqqel5m82",
+          "2688-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "2688-malep-1_playmogo_hsub": "https://playmogo.com/e/8id8n6eabrro",
+          "2688-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
