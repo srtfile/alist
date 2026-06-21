@@ -1,0 +1,52 @@
+{
+  "anime_name": "Yu Gi Oh The Movie Bonds Beyond Time",
+  "anime_url": "https://hianime.ad/anime/yu-gi-oh-the-movie-bonds-beyond-time",
+  "slug": "yu-gi-oh-the-movie-bonds-beyond-time",
+  "mal_id": 550,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:00:43",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Harsh Battle, the Shadow Game",
+      "episode_url": "https://hianime.ad/watch/yu-gi-oh-the-movie-bonds-beyond-time/ep-1",
+      "sub": {
+        "HD-1": {
+          "550-malep-1_vibeplayer_sub": "https://vibeplayer.site/c19a3c031d9ba6d8",
+          "550-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c19a3c031d9ba6d8/master.m3u8"
+        },
+        "StreamHG": {
+          "550-malep-1_otakuhg_sub": "https://otakuhg.site/e/kmnet21670j3",
+          "550-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "550-malep-1_otakuvid_sub": "https://otakuvid.online/embed/a5kczgzaol4i",
+          "550-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "550-malep-1_playmogo_sub": "https://playmogo.com/e/6pwplon91b79",
+          "550-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "550-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d14859cd8dfe91cb",
+          "550-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d14859cd8dfe91cb/master.m3u8"
+        },
+        "StreamHG": {
+          "550-malep-1_otakuhg_hsub": "https://otakuhg.site/e/mx5904ezqu7f",
+          "550-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "550-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/222wlruqx3sd",
+          "550-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "550-malep-1_playmogo_hsub": "https://playmogo.com/e/unfsmtp8788s",
+          "550-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
