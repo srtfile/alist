@@ -1,0 +1,52 @@
+{
+  "anime_name": "Yu Gi Oh The Movie",
+  "anime_url": "https://hianime.ad/anime/yu-gi-oh-the-movie",
+  "slug": "yu-gi-oh-the-movie",
+  "mal_id": 550,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:04:22",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Harsh Battle, the Shadow Game",
+      "episode_url": "https://hianime.ad/watch/yu-gi-oh-the-movie/ep-1",
+      "sub": {
+        "HD-1": {
+          "550-malep-1_vibeplayer_sub": "https://vibeplayer.site/3adf4c219d0f8d5b",
+          "550-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/3adf4c219d0f8d5b/master.m3u8"
+        },
+        "StreamHG": {
+          "550-malep-1_otakuhg_sub": "https://otakuhg.site/e/fxnrwwa7vck0",
+          "550-malep-1_otakuhg_sub_m3u8": null
+        },
+        "Earnvids": {
+          "550-malep-1_otakuvid_sub": "https://otakuvid.online/embed/hzjgxe0t5drp",
+          "550-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "550-malep-1_playmogo_sub": "https://playmogo.com/e/cbrsoziqkhd6",
+          "550-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "550-malep-1_vibeplayer_hsub": "https://vibeplayer.site/3a99575907969ea2",
+          "550-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/3a99575907969ea2/master.m3u8"
+        },
+        "StreamHG": {
+          "550-malep-1_otakuhg_hsub": "https://otakuhg.site/e/jy482rdp0kpz",
+          "550-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "550-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/0x86hsesyjha",
+          "550-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "550-malep-1_playmogo_hsub": "https://playmogo.com/e/w0luwlpsvmeb",
+          "550-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
