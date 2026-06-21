@@ -1,0 +1,48 @@
+{
+  "anime_name": "Your Voice Kimikoe",
+  "anime_url": "https://hianime.ad/anime/your-voice-kimikoe",
+  "slug": "your-voice-kimikoe",
+  "mal_id": 55995,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T09:37:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Mechanical Friends",
+      "episode_url": "https://hianime.ad/watch/your-voice-kimikoe/ep-1",
+      "sub": {
+        "HD-1": {
+          "55995-malep-1_vibeplayer_sub": "https://vibeplayer.site/c1e01651d96d449c",
+          "55995-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c1e01651d96d449c/master.m3u8"
+        },
+        "Earnvids": {
+          "55995-malep-1_otakuvid_sub": "https://otakuvid.online/embed/e4xe28fv88rw",
+          "55995-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "55995-malep-1_playmogo_sub": "https://playmogo.com/e/ur5gx51z8w4q",
+          "55995-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "55995-malep-1_vibeplayer_hsub": "https://vibeplayer.site/d0aa61bcf4a32b5f",
+          "55995-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/d0aa61bcf4a32b5f/master.m3u8"
+        },
+        "StreamHG": {
+          "55995-malep-1_otakuhg_hsub": "https://otakuhg.site/e/lbiakdlrctun",
+          "55995-malep-1_otakuhg_hsub_m3u8": null
+        },
+        "Earnvids": {
+          "55995-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/iy0piobkl404",
+          "55995-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "55995-malep-1_playmogo_hsub": "https://playmogo.com/e/czd064ojqa6g",
+          "55995-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
