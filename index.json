@@ -10268,5 +10268,15 @@
     "captured_at": "2026-06-21T10:05:19",
     "file": "data-9/yugioh.json",
     "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yugioh.json"
+  },
+  {
+    "slug": "yugioh-movie",
+    "mal_id": 481,
+    "anime_name": "Yugioh Movie",
+    "anime_url": "https://hianime.ad/anime/yugioh-movie",
+    "total_episodes": 1,
+    "captured_at": "2026-06-21T10:06:00",
+    "file": "data-9/yugioh-movie.json",
+    "raw_url": "https://raw.githubusercontent.com/srtfile/alist/main/data-9/yugioh-movie.json"
   }
 ]
