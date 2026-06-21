@@ -4,7 +4,7 @@
   "slug": "yatogame-chan-kansatsu-nikki",
   "mal_id": 37940,
   "total_episodes": 12,
-  "captured_at": "2026-06-20T15:30:57",
+  "captured_at": "2026-06-21T07:00:55",
   "source": "hianime.ad",
   "episodes": [
     {
@@ -126,7 +126,16 @@
     {
       "episode_title": "Not Gonna Teach You",
       "episode_url": "https://hianime.ad/watch/yatogame-chan-kansatsu-nikki/ep-5",
-      "sub": {},
+      "sub": {
+        "HD-1": {
+          "37940-malep-5_vibeplayer_sub": "https://vibeplayer.site/d61753fbf51b985e",
+          "37940-malep-5_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/d61753fbf51b985e/master.m3u8"
+        },
+        "Earnvids": {
+          "37940-malep-5_otakuvid_sub": "https://otakuvid.online/embed/ow8vg8iy1dgr",
+          "37940-malep-5_otakuvid_sub_m3u8": null
+        }
+      },
       "dub": {},
       "hsub": {}
     },
