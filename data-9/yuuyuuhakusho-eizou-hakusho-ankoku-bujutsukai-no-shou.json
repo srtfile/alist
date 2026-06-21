@@ -1,0 +1,73 @@
+{
+  "anime_name": "Yuuyuuhakusho Eizou Hakusho Ankoku Bujutsukai No Shou",
+  "anime_url": "https://hianime.ad/anime/yuuyuuhakusho-eizou-hakusho-ankoku-bujutsukai-no-shou",
+  "slug": "yuuyuuhakusho-eizou-hakusho-ankoku-bujutsukai-no-shou",
+  "mal_id": 40956,
+  "total_episodes": 2,
+  "captured_at": "2026-06-21T10:24:45",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "A Fire Soldier's Fight",
+      "episode_url": "https://hianime.ad/watch/yuuyuuhakusho-eizou-hakusho-ankoku-bujutsukai-no-shou/ep-1",
+      "sub": {
+        "HD-1": {
+          "40956-malep-1_vibeplayer_sub": "https://vibeplayer.site/cfb03f67d391a903",
+          "40956-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/cfb03f67d391a903/master.m3u8"
+        },
+        "Earnvids": {
+          "40956-malep-1_otakuvid_sub": "https://otakuvid.online/embed/4vixu8f0ng9m",
+          "40956-malep-1_otakuvid_sub_m3u8": null
+        },
+        "Doodstream": {
+          "40956-malep-1_playmogo_sub": "https://playmogo.com/e/8wz1k1ie5px4",
+          "40956-malep-1_playmogo_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40956-malep-1_vibeplayer_hsub": "https://vibeplayer.site/2a6953c9ec5dc9f1",
+          "40956-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/2a6953c9ec5dc9f1/master.m3u8"
+        },
+        "Earnvids": {
+          "40956-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/27ve5kq0ll6c",
+          "40956-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40956-malep-1_playmogo_hsub": "https://playmogo.com/e/es0ezmd6seof",
+          "40956-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    },
+    {
+      "episode_title": "Flames of Madness",
+      "episode_url": "https://hianime.ad/watch/yuuyuuhakusho-eizou-hakusho-ankoku-bujutsukai-no-shou/ep-2",
+      "sub": {
+        "HD-1": {
+          "40956-malep-2_vibeplayer_sub": "https://vibeplayer.site/00ad32b34bbb248c",
+          "40956-malep-2_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/00ad32b34bbb248c/master.m3u8"
+        },
+        "Earnvids": {
+          "40956-malep-2_otakuvid_sub": "https://otakuvid.online/embed/aympyrvj7w0a",
+          "40956-malep-2_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "40956-malep-2_vibeplayer_hsub": "https://vibeplayer.site/0522c3690bc3e485",
+          "40956-malep-2_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/0522c3690bc3e485/master.m3u8"
+        },
+        "Earnvids": {
+          "40956-malep-2_otakuvid_hsub": "https://otakuvid.online/embed/ugjvt2em2tbw",
+          "40956-malep-2_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "40956-malep-2_playmogo_hsub": "https://playmogo.com/e/x92eizwnfrnl",
+          "40956-malep-2_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
