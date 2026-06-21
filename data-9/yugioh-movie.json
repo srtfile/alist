@@ -1,0 +1,35 @@
+{
+  "anime_name": "Yugioh Movie",
+  "anime_url": "https://hianime.ad/anime/yugioh-movie",
+  "slug": "yugioh-movie",
+  "mal_id": 481,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:06:00",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "The Heart of the Cards",
+      "episode_url": "https://hianime.ad/watch/yugioh-movie/ep-1",
+      "sub": {},
+      "dub": {
+        "HD-1": {
+          "481-malep-1_vibeplayer_dub": "https://vibeplayer.site/4553ae13f978b198",
+          "481-malep-1_vibeplayer_dub_m3u8": "https://vibeplayer.site/public/stream/4553ae13f978b198/master.m3u8"
+        },
+        "StreamHG": {
+          "481-malep-1_otakuhg_dub": "https://otakuhg.site/e/v1rnj57w39l4",
+          "481-malep-1_otakuhg_dub_m3u8": null
+        },
+        "Earnvids": {
+          "481-malep-1_otakuvid_dub": "https://otakuvid.online/embed/zfzlm6xiwayo",
+          "481-malep-1_otakuvid_dub_m3u8": null
+        },
+        "Doodstream": {
+          "481-malep-1_playmogo_dub": "https://playmogo.com/e/hl1av6np40y6",
+          "481-malep-1_playmogo_dub_m3u8": null
+        }
+      },
+      "hsub": {}
+    }
+  ]
+}
