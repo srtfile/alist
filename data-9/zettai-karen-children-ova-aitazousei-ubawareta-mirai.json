@@ -1,0 +1,40 @@
+{
+  "anime_name": "Zettai Karen Children Ova Aitazousei Ubawareta Mirai",
+  "anime_url": "https://hianime.ad/anime/zettai-karen-children-ova-aitazousei-ubawareta-mirai",
+  "slug": "zettai-karen-children-ova-aitazousei-ubawareta-mirai",
+  "mal_id": 4038,
+  "total_episodes": 1,
+  "captured_at": "2026-06-21T10:39:31",
+  "source": "hianime.ad",
+  "episodes": [
+    {
+      "episode_title": "Absolutely Lovely! Their Name Is “The Children”",
+      "episode_url": "https://hianime.ad/watch/zettai-karen-children-ova-aitazousei-ubawareta-mirai/ep-1",
+      "sub": {
+        "HD-1": {
+          "4038-malep-1_vibeplayer_sub": "https://vibeplayer.site/c082296e67a87996",
+          "4038-malep-1_vibeplayer_sub_m3u8": "https://vibeplayer.site/public/stream/c082296e67a87996/master.m3u8"
+        },
+        "Earnvids": {
+          "4038-malep-1_otakuvid_sub": "https://otakuvid.online/embed/7xwxtmd4vfzr",
+          "4038-malep-1_otakuvid_sub_m3u8": null
+        }
+      },
+      "dub": {},
+      "hsub": {
+        "HD-1": {
+          "4038-malep-1_vibeplayer_hsub": "https://vibeplayer.site/83ca7d74e9333702",
+          "4038-malep-1_vibeplayer_hsub_m3u8": "https://vibeplayer.site/public/stream/83ca7d74e9333702/master.m3u8"
+        },
+        "Earnvids": {
+          "4038-malep-1_otakuvid_hsub": "https://otakuvid.online/embed/piyh70qad1vr",
+          "4038-malep-1_otakuvid_hsub_m3u8": null
+        },
+        "Doodstream": {
+          "4038-malep-1_playmogo_hsub": "https://playmogo.com/e/6ettma1h2mvq",
+          "4038-malep-1_playmogo_hsub_m3u8": null
+        }
+      }
+    }
+  ]
+}
